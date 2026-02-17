@@ -1,0 +1,231 @@
+name: Daily Data Freshness Check
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+    inputs:
+      auto_update:
+        description: Automatically ingest, rebuild, and commit if updates are found
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check-updates:
+    name: Check Legifrance source freshness
+    runs-on: ubuntu-latest
+    outputs:
+      has_update: ${{ steps.check.outputs.has_update }}
+      error_count: ${{ steps.check.outputs.error_count }}
+      summary_json: ${{ steps.check.outputs.summary_json }}
+      check_exit_code: ${{ steps.check.outputs.check_exit_code }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci --ignore-scripts
+      - run: npm run build
+
+      - name: Run update checker
+        id: check
+        shell: bash
+        run: |
+          set +e
+          CHECK_UPDATES_STRICT=1 npm run check-updates 2>&1 | tee check-updates.log
+          EXIT_CODE=${PIPESTATUS[0]}
+          set -e
+
+          SUMMARY_JSON=$(grep 'SUMMARY_JSON:' check-updates.log | tail -1 | sed 's/^.*SUMMARY_JSON: //')
+          if [ -z "$SUMMARY_JSON" ]; then
+            SUMMARY_JSON='{"has_update":false,"warnings":[],"errors":["Missing SUMMARY_JSON output"]}'
+          fi
+
+          export SUMMARY_JSON
+          HAS_UPDATE=$(node -e "const s=JSON.parse(process.env.SUMMARY_JSON||'{}'); process.stdout.write(s.has_update ? 'true' : 'false');")
+          ERROR_COUNT=$(node -e "const s=JSON.parse(process.env.SUMMARY_JSON||'{}'); process.stdout.write(String(Array.isArray(s.errors) ? s.errors.length : 0));")
+
+          echo "has_update=${HAS_UPDATE}" >> "$GITHUB_OUTPUT"
+          echo "error_count=${ERROR_COUNT}" >> "$GITHUB_OUTPUT"
+          echo "check_exit_code=${EXIT_CODE}" >> "$GITHUB_OUTPUT"
+
+          echo "summary_json<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$SUMMARY_JSON" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+
+      - name: Upload update-check logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: update-check-logs
+          path: check-updates.log
+          retention-days: 14
+
+  report:
+    name: Open or close update issue
+    needs: check-updates
+    if: always()
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - name: Create or update issue when updates/errors are detected
+        if: needs.check-updates.outputs.has_update == 'true' || needs.check-updates.outputs.error_count != '0'
+        uses: actions/github-script@v7
+        env:
+          SUMMARY_JSON: ${{ needs.check-updates.outputs.summary_json }}
+          HAS_UPDATE: ${{ needs.check-updates.outputs.has_update }}
+          ERROR_COUNT: ${{ needs.check-updates.outputs.error_count }}
+          CHECK_EXIT_CODE: ${{ needs.check-updates.outputs.check_exit_code }}
+        with:
+          script: |
+            const summary = JSON.parse(process.env.SUMMARY_JSON || '{}');
+            const hasUpdate = process.env.HAS_UPDATE === 'true';
+            const errorCount = Number(process.env.ERROR_COUNT || '0');
+            const checkExitCode = process.env.CHECK_EXIT_CODE || '0';
+
+            const title = 'Data Freshness: French source updates detected';
+            const body = [
+              `## Data Freshness Check - ${new Date().toISOString().split('T')[0]}`,
+              '',
+              `- Updates detected: **${hasUpdate ? 'yes' : 'no'}**`,
+              `- Errors: **${errorCount}**`,
+              `- Checker exit code: **${checkExitCode}**`,
+              '',
+              '### Summary payload',
+              '```json',
+              JSON.stringify(summary, null, 2),
+              '```',
+              '',
+              '### Suggested local workflow',
+              '```bash',
+              'npm run check-updates',
+              'npm run ingest:legi',
+              'npm run build:db',
+              'npm run validate',
+              '```',
+              '',
+              '_Automatically created by check-updates workflow._'
+            ].join('\n');
+
+            const openIssues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'data-update'
+            });
+
+            const existing = openIssues.data.find((issue) => issue.title === title);
+            if (existing) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: existing.number,
+                body
+              });
+              core.info(`Updated issue #${existing.number}`);
+            } else {
+              const created = await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body,
+                labels: ['data-update', 'automated']
+              });
+              core.info(`Created issue #${created.data.number}`);
+            }
+
+      - name: Close stale update issues when healthy
+        if: needs.check-updates.outputs.has_update != 'true' && needs.check-updates.outputs.error_count == '0'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const openIssues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'data-update'
+            });
+
+            for (const issue of openIssues.data) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                state: 'closed',
+                state_reason: 'completed'
+              });
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                body: `All checked sources are up to date as of ${new Date().toISOString().split('T')[0]}.`
+              });
+            }
+
+  auto-update:
+    name: Auto-ingest and commit updates
+    needs: check-updates
+    if: github.event_name == 'workflow_dispatch' && github.event.inputs.auto_update == 'true' && needs.check-updates.outputs.has_update == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - run: npm ci --ignore-scripts
+      - run: npm run build
+
+      - name: Ingest latest LEGI archive
+        run: npm run ingest:legi
+
+      - name: Rebuild database
+        run: npm run build:db
+
+      - name: Run validation suite
+        run: npm run validate
+
+      - name: Bump patch version
+        id: version
+        run: |
+          npm version patch --no-git-tag-version
+          echo "new_version=$(node -p \"require('./package.json').version\")" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push
+        env:
+          NEW_VERSION: ${{ steps.version.outputs.new_version }}
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No data changes detected after ingestion."
+            exit 0
+          fi
+
+          git commit -m "chore(data): auto-update French legal data to v${NEW_VERSION}"
+          git tag "v${NEW_VERSION}"
+          git push origin main --tags
