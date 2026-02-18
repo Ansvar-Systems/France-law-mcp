@@ -3,31 +3,31 @@
   "version": "1.0",
   "mcp_name": "French Law MCP",
   "jurisdiction": "FR",
-  "description": "Drift detection anchors for stable French legal sources. Initialize expected_sha256 values after the first trusted run.",
+  "description": "Drift detection anchors for stable French legal sources. SHA-256 hashes computed from trusted database snapshot 2026-02-18.",
   "provisions": [
     {
       "id": "fr-hash-001",
       "description": "Code pénal - Article 323-1 (unauthorized access offense)",
       "upstream_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417945/",
       "selector_hint": "Article 323-1",
-      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
-      "expected_snippet": "Le fait d'acceder ou de se maintenir"
+      "expected_sha256": "c29a4bb000674307919d903d4e7e32988a14da4d3c11154f42e68629b16ff8dc",
+      "expected_snippet": "Le fait d'accéder ou de se maintenir"
     },
     {
       "id": "fr-hash-002",
       "description": "Code de la défense - Article L2321-1",
       "upstream_url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037289662/",
       "selector_hint": "Article L. 2321-1",
-      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
-      "expected_snippet": "operateurs d'importance vitale"
+      "expected_sha256": "91e7b015bd42725d3d404e6fabf4a48e5637797277e0ade1b529e4f75549acf8",
+      "expected_snippet": "Dans le cadre de la stratégie de sécurité nationale"
     },
     {
       "id": "fr-hash-003",
       "description": "Loi Informatique et Libertés - Article 1",
       "upstream_url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006528292/",
       "selector_hint": "Article 1",
-      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
-      "expected_snippet": "l'informatique doit etre au service de chaque citoyen"
+      "expected_sha256": "b17f427307379f897719da08f7280a311fe074ffa4b81b93987eefcf36720cec",
+      "expected_snippet": "L'informatique doit être au service de chaque citoyen"
     }
   ]
 }

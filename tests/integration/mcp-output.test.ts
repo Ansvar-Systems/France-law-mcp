@@ -19,6 +19,7 @@ const TOOL_INPUTS: ToolInputMap = {
   search_eu_implementations: { query: 'GDPR', limit: 5 },
   get_provision_eu_basis: { document_id: 'code-penal', provision_ref: 'art323-1' },
   validate_eu_compliance: { document_id: 'code-defense' },
+  list_sources: {},
   about: {},
 };
 

@@ -48,7 +48,8 @@ export async function getProvision(
 
   const provisionRef = input.provision_ref ?? input.section;
 
-  // If no specific provision, return all provisions for the document
+  // If no specific provision, return provisions for the document (capped to prevent context overflow)
+  const MAX_PROVISIONS = 200;
   if (!provisionRef) {
     const rows = db.prepare(`
       SELECT
@@ -64,10 +65,15 @@ export async function getProvision(
       JOIN legal_documents ld ON ld.id = lp.document_id
       WHERE lp.document_id = ?
       ORDER BY lp.order_index
-    `).all(resolvedDocumentId) as ProvisionRow[];
+      LIMIT ?
+    `).all(resolvedDocumentId, MAX_PROVISIONS + 1) as ProvisionRow[];
+
+    const truncated = rows.length > MAX_PROVISIONS;
+    const results = truncated ? rows.slice(0, MAX_PROVISIONS) : rows;
 
     return {
-      results: rows,
+      results,
+      ...(truncated && { truncated: true, total_available: `>${MAX_PROVISIONS}`, hint: 'Use provision_ref to retrieve a specific article.' }),
       _metadata: generateResponseMetadata(db)
     };
   }

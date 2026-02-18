@@ -68,6 +68,7 @@
     "ansvar"
   ],
   "author": "Ansvar Systems AB <hello@ansvar.ai>",
+  "mcpName": "french-law-mcp",
   "license": "Apache-2.0",
   "publishConfig": {
     "access": "public"

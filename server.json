@@ -1,0 +1,53 @@
+{
+  "name": "french-law-mcp",
+  "display_name": "French Law MCP",
+  "description": "French legislation search via Model Context Protocol. Provides full-text search, citation validation, EU cross-references, and compliance checks across 8 major French codes (29,935+ provisions) sourced from Legifrance open data.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/Ansvar-Systems/France-law-mcp",
+    "source": "github"
+  },
+  "homepage": "https://github.com/Ansvar-Systems/France-law-mcp#readme",
+  "author": {
+    "name": "Ansvar Systems AB",
+    "email": "hello@ansvar.ai",
+    "url": "https://ansvar.ai"
+  },
+  "license": "Apache-2.0",
+  "categories": ["legal", "compliance", "government", "france"],
+  "tags": ["french-law", "legifrance", "legislation", "eu-compliance", "mcp"],
+  "runtime": "node",
+  "transport": ["stdio", "streamable-http"],
+  "tools": [
+    "search_legislation",
+    "get_provision",
+    "list_sources",
+    "validate_citation",
+    "format_citation",
+    "check_currency",
+    "build_legal_stance",
+    "get_eu_basis",
+    "get_french_implementations",
+    "search_eu_implementations",
+    "get_provision_eu_basis",
+    "validate_eu_compliance",
+    "about"
+  ],
+  "endpoints": {
+    "stdio": {
+      "command": "npx",
+      "args": ["-y", "@ansvar/french-law-mcp"]
+    },
+    "http": {
+      "url": "https://french-law-mcp.vercel.app/mcp"
+    }
+  },
+  "data": {
+    "jurisdiction": "FR",
+    "source": "Legifrance (DILA)",
+    "language": "fr",
+    "provisions": 29935,
+    "codes": 8,
+    "coverage_note": "Covers 8 major French codes. Not a complete corpus of all French legislation."
+  }
+}

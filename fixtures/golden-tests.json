@@ -1,12 +1,12 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "mcp_name": "French Law MCP",
-  "description": "Golden contract tests validating French Law MCP tools against seed data",
+  "description": "Golden contract tests validating French Law MCP tools against seed data. Minimum 15 tests required for production.",
   "tests": [
     {
       "id": "fr-001",
       "category": "provision_retrieval",
-      "description": "Retrieve article L2321-1 from Code de la defense (cybersecurity)",
+      "description": "Retrieve article L2321-1 from Code de la défense (cybersecurity)",
       "tool": "get_provision",
       "input": {
         "document_id": "code-defense",
@@ -21,7 +21,7 @@
     {
       "id": "fr-002",
       "category": "provision_retrieval",
-      "description": "Retrieve article 323-1 from Code penal (cybercrime)",
+      "description": "Retrieve article 323-1 from Code pénal (cybercrime)",
       "tool": "get_provision",
       "input": {
         "document_id": "code-penal",
@@ -30,7 +30,8 @@
       "assertions": {
         "result_not_empty": true,
         "fields_present": ["results"],
-        "text_not_empty": true
+        "text_not_empty": true,
+        "any_result_contains": ["système de traitement automatisé"]
       }
     },
     {
@@ -65,7 +66,7 @@
     {
       "id": "fr-005",
       "category": "search",
-      "description": "Search limited to Code penal cybercrime provisions",
+      "description": "Search limited to Code pénal cybercrime provisions",
       "tool": "search_legislation",
       "input": {
         "query": "systeme",
@@ -80,7 +81,7 @@
     {
       "id": "fr-006",
       "category": "citation_validation",
-      "description": "Validate citation for Code de la defense article L. 2321-1",
+      "description": "Validate citation for Code de la défense article L. 2321-1",
       "tool": "validate_citation",
       "input": {
         "citation": "Code de la défense, art. L. 2321-1"
@@ -108,7 +109,7 @@
     {
       "id": "fr-008",
       "category": "currency_check",
-      "description": "Check currency status of Code de la defense cybersecurity provisions",
+      "description": "Check currency status of Code de la défense cybersecurity provisions",
       "tool": "check_currency",
       "input": {
         "document_id": "code-defense"
@@ -121,7 +122,7 @@
     {
       "id": "fr-009",
       "category": "currency_check",
-      "description": "Check currency status of specific provision in Code penal",
+      "description": "Check currency status of specific provision in Code pénal",
       "tool": "check_currency",
       "input": {
         "document_id": "code-penal",
@@ -167,6 +168,121 @@
       },
       "assertions": {
         "result_not_empty": true
+      }
+    },
+    {
+      "id": "fr-013",
+      "category": "data_accuracy",
+      "description": "Code civil article 1240 — fundamental tort liability provision",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "code-civil",
+        "provision_ref": "art1240"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true,
+        "any_result_contains": ["fait"]
+      }
+    },
+    {
+      "id": "fr-014",
+      "category": "data_accuracy",
+      "description": "Loi Informatique et Libertés article 1 — fundamental data protection provision",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "loi-informatique-libertes",
+        "provision_ref": "art1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true,
+        "any_result_contains": ["informatique"]
+      }
+    },
+    {
+      "id": "fr-015",
+      "category": "search",
+      "description": "FTS search with French diacritics — données personnelles",
+      "tool": "search_legislation",
+      "input": {
+        "query": "données personnelles",
+        "limit": 5
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "fr-016",
+      "category": "search",
+      "description": "FTS search for 'contrat de travail' in Code du travail",
+      "tool": "search_legislation",
+      "input": {
+        "query": "contrat de travail",
+        "document_id": "code-travail",
+        "limit": 5
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["contrat"]
+      }
+    },
+    {
+      "id": "fr-017",
+      "category": "list_sources",
+      "description": "list_sources returns provenance metadata with coverage stats",
+      "tool": "list_sources",
+      "input": {},
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_contains": ["Legifrance", "FR"]
+      }
+    },
+    {
+      "id": "fr-018",
+      "category": "negative_test",
+      "description": "Search with FTS5 special characters handles gracefully",
+      "tool": "search_legislation",
+      "input": {
+        "query": "hello(world) {test}",
+        "limit": 5
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "fr-019",
+      "category": "provision_retrieval",
+      "description": "Code de commerce article L110-1 — fundamental commercial acts",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "code-commerce",
+        "provision_ref": "artL110-1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "fr-020",
+      "category": "negative_test",
+      "description": "Non-existent provision in existing document returns null",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "code-penal",
+        "provision_ref": "art99999-99"
+      },
+      "assertions": {
+        "handles_gracefully": true
       }
     }
   ]

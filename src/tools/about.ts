@@ -62,8 +62,12 @@ export function getAbout(
         built: context.dbBuilt,
         jurisdiction: 'France (FR)',
         content_basis:
-          'French statute text from Legifrance open data. ' +
-          'Covers cybersecurity, data protection, and related legislation.',
+          'French statute text from Legifrance open data (LEGI archive). ' +
+          'Covers 8 major codes: Code civil, Code de commerce, Code de la défense, ' +
+          'Code pénal, Code des postes et des communications électroniques, ' +
+          'Code de la sécurité intérieure, Code du travail, and key statutes ' +
+          '(Loi Informatique et Libertés, LPM 2024-2030 cyber provisions, NIS2 transposition). ' +
+          'NOT a complete corpus of all French legislation.',
         counts: {
           legal_documents: safeCount(db, 'SELECT COUNT(*) as count FROM legal_documents'),
           legal_provisions: safeCount(db, 'SELECT COUNT(*) as count FROM legal_provisions'),
