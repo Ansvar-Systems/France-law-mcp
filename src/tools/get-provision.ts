@@ -68,13 +68,19 @@ export async function getProvision(
       LIMIT ?
     `).all(resolvedDocumentId, MAX_PROVISIONS + 1) as ProvisionRow[];
 
-    const truncated = rows.length > MAX_PROVISIONS;
-    const results = truncated ? rows.slice(0, MAX_PROVISIONS) : rows;
+    const isTruncated = rows.length > MAX_PROVISIONS;
+    const items = isTruncated ? rows.slice(0, MAX_PROVISIONS) : rows;
 
     return {
-      results,
-      ...(truncated && { truncated: true, total_available: `>${MAX_PROVISIONS}`, hint: 'Use provision_ref to retrieve a specific article.' }),
-      _metadata: generateResponseMetadata(db)
+      results: items,
+      _metadata: {
+        ...generateResponseMetadata(db),
+        ...(isTruncated && {
+          truncated: true,
+          total_available: `>${MAX_PROVISIONS}`,
+          hint: 'Use provision_ref to retrieve a specific article.',
+        }),
+      },
     };
   }
 

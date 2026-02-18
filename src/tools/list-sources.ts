@@ -87,7 +87,7 @@ export async function listSources(
               'Major French codes including Code pénal, Code civil, Code de commerce, ' +
               'Code du travail, Code de la défense, Code de la sécurité intérieure, ' +
               'Code des postes et des communications électroniques, and key data protection / ' +
-              'cybersecurity statutes (Loi Informatique et Libertés, NIS2 transposition).',
+              'cybersecurity statutes (Loi Informatique et Libertés, LPM 2024-2030 cyber provisions, NIS2 transposition).',
             limitations:
               'This database covers 8 major codes and select statutes — it is NOT a complete ' +
               'corpus of all French legislation. Full coverage requires PISTE API OAuth credentials. ' +

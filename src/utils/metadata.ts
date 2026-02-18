@@ -12,7 +12,11 @@ export interface ResponseMetadata {
 
 export interface ToolResponse<T> {
   results: T;
-  _metadata: ResponseMetadata;
+  _metadata: ResponseMetadata & {
+    truncated?: boolean;
+    total_available?: string;
+    hint?: string;
+  };
 }
 
 const STALENESS_THRESHOLD_DAYS = 30;

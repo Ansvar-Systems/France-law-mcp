@@ -183,7 +183,7 @@
         "result_not_empty": true,
         "fields_present": ["results"],
         "text_not_empty": true,
-        "any_result_contains": ["fait"]
+        "any_result_contains": ["Tout fait quelconque de l'homme"]
       }
     },
     {
@@ -199,7 +199,7 @@
         "result_not_empty": true,
         "fields_present": ["results"],
         "text_not_empty": true,
-        "any_result_contains": ["informatique"]
+        "any_result_contains": ["au service de chaque citoyen"]
       }
     },
     {

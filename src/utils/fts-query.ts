@@ -38,7 +38,8 @@ export function buildFtsQueryVariants(query: string): FtsQueryVariants {
   if (EXPLICIT_FTS_SYNTAX.test(trimmed)) {
     // User is using explicit FTS5 syntax — sanitize only dangerous chars,
     // preserve AND/OR/NOT and quoted phrases
-    const sanitized = trimmed.replace(/[():{}^+.]/g, ' ').replace(/\s+/g, ' ').trim();
+    // Reuse FTS5_SPECIAL_CHARS constant (keep in sync with sanitizeFtsInput)
+    const sanitized = sanitizeFtsInput(trimmed);
     return { primary: sanitized || trimmed };
   }
 
