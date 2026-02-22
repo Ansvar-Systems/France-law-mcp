@@ -1,6 +1,6 @@
 {
   "name": "@ansvar/french-law-mcp",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "French Law MCP — French legislation via Model Context Protocol",
   "type": "module",
   "main": "dist/index.js",
@@ -27,7 +27,8 @@
     "drift:detect": "node --import tsx scripts/drift-detect.ts",
     "validate": "npm test && npm run test:contract",
     "prepublishOnly": "npm run build",
-    "postinstall": "test -d dist || npm run build || true"
+    "postinstall": "test -d dist || npm run build || true",
+    "lint": "tsc --noEmit"
   },
   "dependencies": {
     "@ansvar/mcp-sqlite": "^1.0.3",
@@ -68,7 +69,7 @@
     "ansvar"
   ],
   "author": "Ansvar Systems AB <hello@ansvar.ai>",
-  "mcpName": "french-law-mcp",
+  "mcpName": "eu.ansvar/french-law-mcp",
   "license": "Apache-2.0",
   "publishConfig": {
     "access": "public"
