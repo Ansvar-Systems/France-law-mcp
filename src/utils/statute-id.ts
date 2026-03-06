@@ -26,6 +26,12 @@ interface DocRow {
 
 const ABBREVIATIONS: Record<string, string> = {
   // Example: 'DPA': 'data-protection-act-2019',
+  // Loi Informatique et Libertés — Loi n° 78-17 du 6 janvier 1978
+  'Loi Informatique et Libertés': 'loi-informatique-libertes',
+  'loi informatique et libertés': 'loi-informatique-libertes',
+  'LOI INFORMATIQUE ET LIBERTÉS': 'loi-informatique-libertes',
+  'Loi Informatique et Libertes': 'loi-informatique-libertes',
+  'loi informatique et libertes': 'loi-informatique-libertes',
 };
 
 // ---------------------------------------------------------------------------
