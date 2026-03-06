@@ -1,59 +1,119 @@
 /**
- * FTS5 query builder for French Law MCP.
+ * FTS5 query helpers for French Law MCP.
  *
- * Sanitizes user input to prevent FTS5 syntax errors while preserving
- * intentional boolean operators (AND, OR, NOT) and phrase searches.
+ * Handles query sanitization and variant generation for SQLite FTS5.
  */
 
-const EXPLICIT_FTS_SYNTAX = /["""]|(\bAND\b)|(\bOR\b)|(\bNOT\b)|\*$/;
+const FTS5_BOOLEAN_OPS = /\b(AND|OR|NOT)\b/;
 
 /**
- * Characters that have special meaning in FTS5 and must be stripped
- * from tokens to prevent syntax errors. FTS5 operators include:
- * - ^ (column filter prefix)
- * - : (column filter)
- * - ( ) (grouping)
- * - + (prefix for NEAR queries)
- * - { } (NEAR distance)
- * - . (column path separator)
+ * Detect whether input contains FTS5 boolean operators.
  */
-const FTS5_SPECIAL_CHARS = /[():{}^+.]/g;
-
-export interface FtsQueryVariants {
-  primary: string;
-  fallback?: string;
+export function hasBooleanOperators(input: string): boolean {
+  return FTS5_BOOLEAN_OPS.test(input);
 }
 
 /**
- * Sanitize a raw user input string for safe use in FTS5 MATCH.
- * Removes characters that could cause FTS5 syntax errors.
+ * Sanitize user input for safe FTS5 queries.
+ * Preserves boolean operators (AND, OR, NOT) when detected.
  */
-export function sanitizeFtsInput(raw: string): string {
-  return raw.replace(FTS5_SPECIAL_CHARS, ' ').replace(/\s+/g, ' ').trim();
+export function sanitizeFtsInput(input: string): string {
+  if (hasBooleanOperators(input)) {
+    // Preserve boolean structure: only strip dangerous chars, keep quotes and parens
+    return input.replace(/[{}[\]^~*:]/g, ' ').replace(/\s+/g, ' ').trim();
+  }
+  // Preserve trailing * on words (FTS5 prefix search) but strip other special chars
+  return input
+    .replace(/['"(){}[\]^~:]/g, ' ')
+    .replace(/\*(?!\s|$)/g, ' ')    // strip * unless at end of word
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
-export function buildFtsQueryVariants(query: string): FtsQueryVariants {
-  const trimmed = query.trim();
+/**
+ * Truncate common French/English suffixes for stemming fallback.
+ * Returns stem + "*" ready string, or null if no stemming possible.
+ */
+function stemWord(word: string): string | null {
+  if (word.length < 5) return null;
+  const lower = word.toLowerCase();
+  for (const suffix of [
+    'tion', 'ment', 'eurs', 'euse', 'ance', 'ence', 'ique', 'ible', 'able',
+    'ies', 'ing', 'ers', 'ness',
+    'ous', 'ive', 'ed', 'es', 'er', 'ly', 's',
+  ]) {
+    if (lower.endsWith(suffix) && lower.length - suffix.length >= 3) {
+      return lower.slice(0, -suffix.length);
+    }
+  }
+  return null;
+}
 
-  if (EXPLICIT_FTS_SYNTAX.test(trimmed)) {
-    // User is using explicit FTS5 syntax — sanitize only dangerous chars,
-    // preserve AND/OR/NOT and quoted phrases
-    // Reuse FTS5_SPECIAL_CHARS constant (keep in sync with sanitizeFtsInput)
-    const sanitized = sanitizeFtsInput(trimmed);
-    return { primary: sanitized || trimmed };
+/**
+ * Build FTS5 query variants for a search term.
+ * Returns variants in order of specificity (most specific first):
+ * 1. Exact phrase match
+ * 2. All terms required (AND)
+ * 3. Prefix AND (last term gets prefix wildcard)
+ * 4. Stemmed prefix (suffix-truncated + wildcard)
+ * 5. Any term matches (OR) — broad fallback
+ *
+ * When boolean operators are detected, passes query through as-is.
+ */
+export function buildFtsQueryVariants(sanitized: string): string[] {
+  if (!sanitized || sanitized.trim().length === 0) {
+    return [];
   }
 
-  const tokens = sanitizeFtsInput(trimmed)
-    .split(/\s+/)
-    .filter(t => t.length > 0)
-    .map(t => t.replace(/[^\w\s\u00C0-\u024F-]/g, ''));
-
-  if (tokens.length === 0) {
-    return { primary: trimmed };
+  // Boolean passthrough — user knows what they want
+  if (hasBooleanOperators(sanitized)) {
+    return [sanitized];
   }
 
-  const primary = tokens.map(t => `"${t}"*`).join(' ');
-  const fallback = tokens.map(t => `${t}*`).join(' OR ');
+  const terms = sanitized.split(/\s+/).filter(t => t.length > 0);
+  if (terms.length === 0) return [];
 
-  return { primary, fallback };
+  const variants: string[] = [];
+
+  if (terms.length > 1) {
+    // Exact phrase
+    variants.push(`"${terms.join(' ')}"`);
+    // AND query
+    variants.push(terms.join(' AND '));
+    // Prefix AND on last term
+    variants.push([...terms.slice(0, -1), `${terms[terms.length - 1]}*`].join(' AND '));
+  } else {
+    // Single term
+    variants.push(terms[0]);
+    if (terms[0].length >= 3) {
+      variants.push(`${terms[0]}*`);
+    }
+  }
+
+  // Stemmed variant — truncate suffixes + wildcard
+  const stemmedTerms = terms.map(t => {
+    const stem = stemWord(t);
+    return stem ? `${stem}*` : t;
+  });
+  if (stemmedTerms.some((s, i) => s !== terms[i])) {
+    variants.push(stemmedTerms.join(' AND '));
+  }
+
+  // OR fallback — any term matches (broadest)
+  if (terms.length > 1) {
+    variants.push(terms.join(' OR '));
+  }
+
+  return variants;
+}
+
+/**
+ * Build a SQL LIKE pattern from search terms.
+ * Used as a final fallback when FTS5 returns no results.
+ * Example: "penalty offence" -> "%penalty%offence%"
+ */
+export function buildLikePattern(query: string): string {
+  const terms = query.trim().split(/\s+/).filter(t => t.length > 0);
+  if (terms.length === 0) return '%';
+  return `%${terms.join('%')}%`;
 }
