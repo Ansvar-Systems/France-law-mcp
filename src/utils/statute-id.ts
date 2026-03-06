@@ -12,6 +12,17 @@
 
 import type { Database } from '@ansvar/mcp-sqlite';
 
+// Well-known abbreviations and common French law references
+const ABBREVIATIONS: Record<string, string> = {
+  'Loi Informatique et Libertés': 'loi-informatique-libertes',
+  'loi informatique et libertés': 'loi-informatique-libertes',
+  'LOI INFORMATIQUE ET LIBERTÉS': 'loi-informatique-libertes',
+  'Loi Informatique et Libertes': 'loi-informatique-libertes',
+  'loi informatique et libertes': 'loi-informatique-libertes',
+  'LIL': 'loi-informatique-libertes',
+  'lil': 'loi-informatique-libertes',
+};
+
 export function isValidStatuteId(id: string): boolean {
   return id.length > 0 && id.trim().length > 0;
 }
@@ -39,6 +50,11 @@ export function resolveExistingStatuteId(
   db: Database,
   inputId: string,
 ): string | null {
+  // Check abbreviations first
+  const trimmed = inputId.trim();
+  const abbrev = ABBREVIATIONS[trimmed] ?? ABBREVIATIONS[trimmed.toUpperCase()] ?? ABBREVIATIONS[trimmed.toLowerCase()];
+  if (abbrev) return abbrev;
+
   // Try exact match first
   const exact = db.prepare(
     "SELECT id FROM legal_documents WHERE id = ? LIMIT 1"
