@@ -19,6 +19,7 @@ export interface ToolResponse<T> {
     total_available?: string;
     hint?: string;
   };
+  _citation?: import('./citation.js').CitationMetadata;
 }
 
 const STALENESS_THRESHOLD_DAYS = 30;
