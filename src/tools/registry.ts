@@ -27,8 +27,8 @@ import { getAbout, type AboutContext } from './about.js';
 export type { AboutContext } from './about.js';
 
 const COVERAGE_NOTE =
-  'COVERAGE NOTE: This server indexes 8 major French codes (~29,935 provisions) ' +
-  'from Legifrance open data. It is NOT a complete corpus of all French legislation. ' +
+  'COVERAGE NOTE: This server indexes 3,958 French statutes (~193,793 provisions, ~97.4% corpus coverage) ' +
+  'from Legifrance open data. ' +
   'Always verify against legifrance.gouv.fr for legal certainty.';
 
 const ABOUT_TOOL: Tool = {
