@@ -3,6 +3,7 @@
  */
 
 import type Database from '@ansvar/mcp-sqlite';
+import { generateResponseMetadata } from '../utils/metadata.js';
 
 export interface AboutContext {
   version: string;
@@ -57,5 +58,6 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
       open_law: 'https://ansvar.eu/open-law',
       directory: 'https://ansvar.ai/mcp',
     },
+    _metadata: generateResponseMetadata(db),
   };
 }
