@@ -24,4 +24,10 @@ RUN addgroup -S nodejs && adduser -S nodejs -G nodejs \
 USER nodejs
 
 ENV NODE_ENV=production
-CMD ["node", "dist/http-server.js"]
+
+# Clean stale node-sqlite3-wasm lock dirs left over from a SIGKILL'd prior
+# run. The library locks via mkdir(<dbpath>.lock); on crash the dir is not
+# removed, and the next start fails with "database is locked" forever.
+# The bind mount targets the database.db file, so the parent /app/data dir
+# is in the container's writable layer and safe to clean.
+CMD ["sh", "-c", "rm -rf /app/data/*.lock 2>/dev/null; exec node dist/http-server.js"]
