@@ -12,14 +12,6 @@
 
 import type { Database } from '@ansvar/mcp-sqlite';
 
-<<<<<<< HEAD
-const ABBREVIATIONS: Record<string, string> = {
-  'Loi Informatique et Libertés': 'loi-informatique-libertes',
-  'loi informatique et libertés': 'loi-informatique-libertes',
-  'Loi Informatique et Libertes': 'loi-informatique-libertes',
-  'loi informatique et libertes': 'loi-informatique-libertes',
-  'LIL': 'loi-informatique-libertes',
-=======
 // Well-known abbreviations and common French law references
 const ABBREVIATIONS: Record<string, string> = {
   'Loi Informatique et Libertés': 'loi-informatique-libertes',
@@ -29,7 +21,6 @@ const ABBREVIATIONS: Record<string, string> = {
   'loi informatique et libertes': 'loi-informatique-libertes',
   'LIL': 'loi-informatique-libertes',
   'lil': 'loi-informatique-libertes',
->>>>>>> origin/dev
 };
 
 export function isValidStatuteId(id: string): boolean {
@@ -60,13 +51,8 @@ export function resolveExistingStatuteId(
   inputId: string,
 ): string | null {
   // Check abbreviations first
-<<<<<<< HEAD
-  const abbrevKey = inputId.trim();
-  const abbrev = ABBREVIATIONS[abbrevKey] ?? ABBREVIATIONS[abbrevKey.toLowerCase()];
-=======
   const trimmed = inputId.trim();
   const abbrev = ABBREVIATIONS[trimmed] ?? ABBREVIATIONS[trimmed.toUpperCase()] ?? ABBREVIATIONS[trimmed.toLowerCase()];
->>>>>>> origin/dev
   if (abbrev) return abbrev;
 
   // Try exact match first
