@@ -1,8 +1,13 @@
 /**
  * about — Server metadata, dataset statistics, and provenance.
+ *
+ * Returns the fleet envelope shape: { results: { server, dataset, provenance, security }, _metadata }.
+ * Asserted by tests/integration/mcp-output.test.ts ('all tools return parseable JSON
+ * with results and _metadata envelopes').
  */
 
 import type Database from '@ansvar/mcp-sqlite';
+import { detectCapabilities, readDbMetadata } from '../capabilities.js';
 import { generateResponseMetadata } from '../utils/metadata.js';
 
 export interface AboutContext {
@@ -20,43 +25,54 @@ function safeCount(db: InstanceType<typeof Database>, sql: string): number {
   }
 }
 
-export function getAbout(db: InstanceType<typeof Database>, context: AboutContext) {
-
-  const euRefs = safeCount(db, 'SELECT COUNT(*) as count FROM eu_references');
-
-  const stats: Record<string, number> = {
-    documents: safeCount(db, 'SELECT COUNT(*) as count FROM legal_documents'),
-    provisions: safeCount(db, 'SELECT COUNT(*) as count FROM legal_provisions'),
-    definitions: safeCount(db, 'SELECT COUNT(*) as count FROM definitions'),
-  };
-
-  if (euRefs > 0) {
-    stats.eu_documents = safeCount(db, 'SELECT COUNT(*) as count FROM eu_documents');
-    stats.eu_references = euRefs;
+function safeCapabilities(db: InstanceType<typeof Database>): string[] {
+  try {
+    return [...detectCapabilities(db)];
+  } catch {
+    return [];
   }
+}
+
+export function getAbout(db: InstanceType<typeof Database>, context: AboutContext) {
+  const meta = readDbMetadata(db);
 
   return {
-    name: 'French Law MCP',
-    version: context.version,
-    jurisdiction: 'FR',
-    description: 'French Law MCP — legislation via Model Context Protocol',
-    stats,
-    data_sources: [
-      {
-        name: 'Legifrance',
-        url: 'https://www.legifrance.gouv.fr',
-        authority: 'Direction de l\'information legale et administrative',
+    results: {
+      server: {
+        name: 'French Law MCP',
+        version: context.version,
+        repository: 'https://github.com/Ansvar-Systems/French-law-mcp',
       },
-    ],
-    freshness: {
-      database_built: context.dbBuilt,
-    },
-    disclaimer:
-      'This is a research tool, not legal advice. Verify critical citations against official sources.',
-    network: {
-      name: 'Ansvar MCP Network',
-      open_law: 'https://ansvar.eu/open-law',
-      directory: 'https://ansvar.ai/mcp',
+      dataset: {
+        jurisdiction: 'France (FR)',
+        languages: ['fr'],
+        counts: {
+          legal_documents: safeCount(db, 'SELECT COUNT(*) as count FROM legal_documents'),
+          legal_provisions: safeCount(db, 'SELECT COUNT(*) as count FROM legal_provisions'),
+          definitions: safeCount(db, 'SELECT COUNT(*) as count FROM definitions'),
+          eu_documents: safeCount(db, 'SELECT COUNT(*) as count FROM eu_documents'),
+          eu_references: safeCount(db, 'SELECT COUNT(*) as count FROM eu_references'),
+        },
+        fingerprint: context.fingerprint,
+        built_at: context.dbBuilt,
+        tier: meta.tier,
+        schema_version: meta.schema_version,
+        capabilities: safeCapabilities(db),
+      },
+      provenance: {
+        sources: [
+          {
+            name: 'Légifrance',
+            authority: "Direction de l'information légale et administrative (DILA)",
+            url: 'https://www.legifrance.gouv.fr',
+            license: 'Public Domain (Code de la propriété intellectuelle, Art. L111-5)',
+          },
+        ],
+      },
+      security: {
+        access_model: 'read-only',
+        pii: 'none',
+      },
     },
     _metadata: generateResponseMetadata(db),
   };
