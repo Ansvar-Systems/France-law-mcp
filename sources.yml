@@ -13,8 +13,10 @@ sources:
     last_ingested: '2026-02-16'
     license_or_terms:
       type: 'Licence Ouverte v2.0'
+      ansvar_code: 'FR-Etalab-2.0'
       url: 'https://www.etalab.gouv.fr/licence-ouverte-open-licence/'
-      summary: 'French government open data license, free to use with attribution'
+      url_pattern: '^https?://(?:www\.)?legifrance\.gouv\.fr/.+'
+      summary: 'French Open Licence v2.0 (Etalab) — commercial reuse permitted with attribution. Statutory texts are NOT in public domain under French law; reuse depends on Etalab terms. See infrastructure/attribution-licenses.json FR-Etalab-2.0 in arch-docs.'
     coverage:
       scope: 'All consolidated French codes and laws from LEGI open data'
       limitations: 'Full corpus coverage — all codes and consolidated laws (TNC) from DILA LEGI archive'
