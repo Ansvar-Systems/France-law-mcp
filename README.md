@@ -375,9 +375,19 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 ### Data Licenses
 
-- **Statutes & Codes:** DILA / Direction de l'information légale et administrative ([Licence Ouverte](https://www.etalab.gouv.fr/licence-ouverte-open-licence))
-- **Case Law:** Légifrance open data
-- **EU Metadata:** EUR-Lex (EU public domain)
+Upstream legal materials are reused under the **French Open Licence v2.0**
+(Licence Ouverte, Etalab) — Ansvar attribution code `FR-Etalab-2.0`.
+
+- **Statutes & Codes:** DILA / Direction de l'information légale et administrative — published under [Licence Ouverte v2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence/). Commercial reuse permitted with attribution and licence-notice preservation.
+- **Case Law:** Légifrance open data, same Etalab licence.
+- **EU Metadata:** EUR-Lex (EU public-domain notice).
+
+**Important:** French statutes are NOT in the public domain. France did not
+adopt a statutory-PD carve-out comparable to Germany (UrhG §5) or Spain
+(TRLPI Art. 13). The reuse basis is Etalab's open licence, which requires
+attribution and licence-notice preservation. The Ansvar attribution code
+`FR-Etalab-2.0` is declared in `infrastructure/attribution-licenses.json`
+in the Ansvar architecture-documentation repo.
 
 ---
 
