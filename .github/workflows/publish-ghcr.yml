@@ -75,13 +75,38 @@ jobs:
         with:
           lfs: true  # repos that ship data/database.db via Git LFS need this
 
+      - name: Lint Dockerfile (Phase B regression gate)
+        # Catches the 2026-05-09 sector-MCP binding outage class: a Dockerfile
+        # that re-runs `npm ci --ignore-scripts` in its runtime stage strips
+        # better-sqlite3's postinstall (which builds the native .node binding);
+        # every SQLite tool call then fails with `Could not locate the bindings
+        # file` at runtime. Multi-stage builds with `COPY --from=builder
+        # /app/node_modules` are the fix. See spec §3.1.1.
+        #
+        # Vendored from arch-docs scripts/lint-mcp-dockerfile.py by
+        # apply-golden-standard.sh. Backwards-compatible: if the script isn't
+        # present yet (older repos that haven't refreshed), the step warns
+        # but doesn't fail — re-apply golden standard to enable the gate.
+        run: |
+          if [ -f .github/scripts/lint-dockerfile.py ]; then
+            python3 .github/scripts/lint-dockerfile.py Dockerfile
+          else
+            echo "::warning::Phase B Dockerfile lint script not vendored at .github/scripts/lint-dockerfile.py — re-run scripts/apply-golden-standard.sh from arch-docs to enable the regression gate."
+          fi
+
       - name: Provision database from GitHub Release if missing
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # If the Dockerfile doesn't COPY a .db file, the image builds the DB
           # itself (Cypriot's two-image pattern, etc.) — nothing to do here.
-          DB_FILES=$(grep -oP 'COPY\s+\K(data/\S+\.db)' Dockerfile 2>/dev/null || true)
+          # Regex must skip flag arguments (--chown=USER:GROUP, --from=stage)
+          # before reaching the data/...db path. The canonical Dockerfile rendered
+          # by apply-mcp-standard.py emits `COPY --chown=nodejs:nodejs data/<file>.db`
+          # so a regex that anchors on `COPY\s+\K(data/...)` would silently miss it
+          # — which it did, fleet-wide, until this fix. Per memory
+          # feedback_verify_db_pipeline_two_traps_2026_05_08.md.
+          DB_FILES=$(grep -oP 'COPY\s+(?:--\S+\s+)*\Kdata/\S+\.db' Dockerfile 2>/dev/null || true)
           if [ -z "$DB_FILES" ]; then
             echo "No data/*.db file referenced in Dockerfile COPY — DB built inside image. Skipping provisioning."
             exit 0
@@ -108,21 +133,44 @@ jobs:
 
             mkdir -p data
             echo "Downloading *.db.gz asset from release $TAG..."
-            # Glob match: some MCPs publish 'database.db.gz', others '<name>-free.db.gz', etc.
+            # Glob match: some MCPs publish 'database.db.gz', others '<name>-free.db.gz',
+            # others a jurisdiction-specific name (e.g. ftnet.db.gz for sector regulators
+            # using the db_release_path manifest pattern).
             if gh release download "$TAG" -p "*.db.gz" -D data/ 2>/dev/null; then
               for gz in data/*.db.gz; do
                 [ -e "$gz" ] || continue
                 gunzip -f "$gz"
               done
-              # Normalize filename so the Dockerfile's COPY data/database.db succeeds.
-              if [ ! -f data/database.db ]; then
+              # Flip journal_mode to DELETE on every provisioned .db before bake.
+              # Release-asset DBs that ship in WAL mode (byte 18 = 0x02) create
+              # latent read-only-FS bugs on container recreate (`docker compose
+              # up -d --remove-orphans` triggers a fresh container that can't
+              # write the -wal/-shm shadow files). Per memory
+              # feedback_mcp_db_journal_delete_for_read_only_fs_2026_05_14 and
+              # feedback_compose_recreate_surfaces_latent_image_regressions_2026_05_17.
+              # sqlite3 is preinstalled on ubuntu-latest runners; the PRAGMA is
+              # idempotent (no-op if already DELETE).
+              for db in data/*.db; do
+                [ -e "$db" ] || continue
+                mode=$(sqlite3 "$db" 'PRAGMA journal_mode=DELETE;' 2>/dev/null || true)
+                echo "Journal mode for $db: $mode"
+              done
+              # Normalize filename so the Dockerfile's COPY succeeds. The Dockerfile
+              # may reference data/database.db (legacy default) or a jurisdiction-
+              # specific path like data/ftnet.db (db_release_path manifest pattern).
+              # Use $DB_FILE as the target — that's what the Dockerfile's COPY line
+              # actually references, so renaming the gunzipped asset to it makes the
+              # build succeed regardless of asset name.
+              if [ ! -f "$DB_FILE" ]; then
                 first_db=$(ls data/*.db 2>/dev/null | head -1)
-                [ -n "$first_db" ] && mv "$first_db" data/database.db
+                if [ -n "$first_db" ] && [ "$first_db" != "$DB_FILE" ]; then
+                  mv "$first_db" "$DB_FILE"
+                fi
               fi
-              if [ -f data/database.db ]; then
-                echo "OK: provisioned $(du -sh data/database.db | cut -f1) from release $TAG."
+              if [ -f "$DB_FILE" ]; then
+                echo "OK: provisioned $(du -sh "$DB_FILE" | cut -f1) at $DB_FILE from release $TAG."
               else
-                echo "ERROR: archive downloaded but no .db file produced."
+                echo "ERROR: archive downloaded but no .db file produced at expected path $DB_FILE."
                 exit 1
               fi
             else
@@ -134,7 +182,15 @@ jobs:
       - name: Set image name from package.json
         id: meta
         run: |
-          NAME=$(node -e "console.log(require('./package.json').name.replace('@ansvar/', ''))")
+          # Strip any leading @scope/ prefix so `@ansvar/foo` and
+          # `@ansvar-systems/foo` (and any future scope) both yield `foo`.
+          # npm distribution is decommissioned (ADR-021), so the scope is
+          # arbitrary. The previous hard-coded `@ansvar/` replace broke on
+          # the 2026-05-14 swedish-civil-protection canary which had
+          # `@ansvar-systems/`, producing the invalid GHCR tag
+          # `ghcr.io/ansvar-systems/@ansvar-systems/foo:latest`. The regex
+          # form fixes the bug class fleet-wide.
+          NAME=$(node -e "console.log(require('./package.json').name.replace(/^@[^/]+\//, ''))")
           VERSION=$(node -e "console.log(require('./package.json').version)")
           echo "image_name=${NAME}" >> $GITHUB_OUTPUT
           echo "version=${VERSION}" >> $GITHUB_OUTPUT

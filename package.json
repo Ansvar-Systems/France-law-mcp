@@ -1,7 +1,7 @@
 {
   "name": "@ansvar/french-law-mcp",
   "version": "2.0.0",
-  "description": "French Law MCP — French legislation via Model Context Protocol",
+  "description": "French Law MCP \u2014 French legislation via Model Context Protocol",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
@@ -21,13 +21,8 @@
     "test:mcp": "vitest run tests/integration/mcp-output.test.ts",
     "test:watch": "vitest",
     "test:coverage": "vitest run --coverage",
-    "census": "node --import tsx scripts/census.ts",
-    "ingest": "node --import tsx scripts/ingest.ts",
-    "ingest:legi": "node --import tsx scripts/ingest-legi.ts",
-    "check-updates": "node --import tsx scripts/check-updates.ts",
     "pretest:contract": "test -f data/database.db || npm run build:db",
     "test:contract": "vitest run __tests__/contract/",
-    "drift:detect": "node --import tsx scripts/drift-detect.ts",
     "validate": "npm test && npm run test:contract",
     "prepublishOnly": "npm run build",
     "postinstall": "test -d dist || npm run build || true",
@@ -40,7 +35,6 @@
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.13",
     "@types/node": "^22.15.29",
-    "@vercel/node": "^5.6.3",
     "@vitest/coverage-v8": "^4.0.18",
     "better-sqlite3": "^12.6.2",
     "fast-xml-parser": "^5.3.5",
