@@ -216,11 +216,20 @@ function applyDelta(deltaPath: string, extractDir: string): void {
   }
 
   // 3. Additions/updates: overlay the delta's legi/ tree onto the extraction.
-  execFileSync(
-    'tar',
-    ['xzf', deltaPath, '-C', extractDir, '--strip-components=1', '--wildcards', '*/legi/*'],
-    { timeout: 1_800_000, maxBuffer: 64 * 1024 * 1024, stdio: ['ignore', 'pipe', 'pipe'] },
-  );
+  try {
+    execFileSync(
+      'tar',
+      ['xzf', deltaPath, '-C', extractDir, '--strip-components=1', '--wildcards', '*/legi/*'],
+      { timeout: 1_800_000, maxBuffer: 64 * 1024 * 1024, stdio: ['ignore', 'pipe', 'pipe'] },
+    );
+  } catch (err) {
+    // A suppression-only delta carries no legi/ members; GNU tar then exits 2
+    // with "Not found in archive". Anything else is a real failure.
+    const stderr = String((err as { stderr?: Buffer }).stderr ?? '');
+    if (!/not found in archive/i.test(stderr)) {
+      throw new Error(`Failed applying additions from ${deltaPath}: ${stderr || String(err)}`);
+    }
+  }
 }
 
 // ---------------------------------------------------------------------------
