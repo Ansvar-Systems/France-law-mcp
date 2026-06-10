@@ -2,8 +2,12 @@
 /**
  * Check for French law source updates.
  *
- * Detects whether a newer LEGI open-data archive is available than the
- * timestamp recorded in the local database metadata.
+ * Compares the corpus source stamp recorded in db_metadata (issue #97:
+ * 'source_stamp' = global archive stamp or last applied incremental delta)
+ * against the newest archive published on the DILA index — globals AND the
+ * daily incremental deltas. The pre-#97 checker only looked at
+ * Freemium_legi_global_* names; DILA cuts those rarely (the only one online
+ * is from 2025-07-13), so it could never detect the daily law changes.
  *
  * Usage:
  *   npm run check-updates
@@ -14,13 +18,12 @@ import Database from 'better-sqlite3';
 import * as fs from 'node:fs';
 import * as path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { fetchLegiIndexHtml, latestStamp, parseLegiIndex, stampToIso } from './lib/legi-archive.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const DB_PATH = path.resolve(__dirname, '../data/database.db');
-const LEGI_LIST_URL = 'https://echanges.dila.gouv.fr/OPENDATA/LEGI/';
-const ARCHIVE_PATTERN = /Freemium_legi_global_(\d{8}-\d{6})\.tar\.gz/gi;
 const REQUEST_TIMEOUT_MS = 15_000;
 const STALE_DAYS_THRESHOLD = 30;
 const STRICT_MODE = process.env['CHECK_UPDATES_STRICT'] === '1' || process.env['CI'] === 'true';
@@ -30,68 +33,16 @@ interface CheckSummary {
   strict_mode: boolean;
   db_exists: boolean;
   built_at: string | null;
+  db_source_stamp: string | null;
   legal_documents: number;
   legal_provisions: number;
   latest_archive_name: string | null;
   latest_archive_timestamp: string | null;
+  latest_source_stamp: string | null;
   has_update: boolean;
   stale_days: number | null;
   warnings: string[];
   errors: string[];
-}
-
-interface ArchiveInfo {
-  name: string;
-  timestamp: string;
-}
-
-function parseArchiveTokenToIso(token: string): string | null {
-  const match = token.match(/^(\d{4})(\d{2})(\d{2})-(\d{2})(\d{2})(\d{2})$/);
-  if (!match) return null;
-  const [, year, month, day, hour, minute, second] = match;
-  return `${year}-${month}-${day}T${hour}:${minute}:${second}Z`;
-}
-
-async function fetchLatestArchive(): Promise<ArchiveInfo> {
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS);
-
-  try {
-    const response = await fetch(LEGI_LIST_URL, {
-      headers: {
-        'User-Agent': 'France-Law-MCP/1.0.0',
-        Accept: 'text/html,application/xhtml+xml',
-      },
-      signal: controller.signal,
-    });
-
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status} while fetching ${LEGI_LIST_URL}`);
-    }
-
-    const html = await response.text();
-    const candidates = new Set<string>();
-    let match: RegExpExecArray | null;
-    while ((match = ARCHIVE_PATTERN.exec(html)) !== null) {
-      candidates.add(match[1]);
-    }
-
-    if (candidates.size === 0) {
-      throw new Error('No LEGI archive names found in listing');
-    }
-
-    const latestToken = [...candidates].sort().at(-1);
-    if (!latestToken) {
-      throw new Error('Unable to determine latest LEGI archive');
-    }
-
-    return {
-      name: `Freemium_legi_global_${latestToken}.tar.gz`,
-      timestamp: latestToken,
-    };
-  } finally {
-    clearTimeout(timeout);
-  }
 }
 
 function toIsoOrNull(value: string | null | undefined): string | null {
@@ -111,10 +62,12 @@ async function main(): Promise<void> {
     strict_mode: STRICT_MODE,
     db_exists: fs.existsSync(DB_PATH),
     built_at: null,
+    db_source_stamp: null,
     legal_documents: 0,
     legal_provisions: 0,
     latest_archive_name: null,
     latest_archive_timestamp: null,
+    latest_source_stamp: null,
     has_update: false,
     stale_days: null,
     warnings: [],
@@ -139,6 +92,12 @@ async function main(): Promise<void> {
       .get() as { value: string } | undefined;
     summary.built_at = toIsoOrNull(builtAtRow?.value);
 
+    const sourceStampRow = db
+      .prepare("SELECT value FROM db_metadata WHERE key = 'source_stamp'")
+      .get() as { value: string } | undefined;
+    summary.db_source_stamp =
+      sourceStampRow && sourceStampRow.value !== 'unstamped' ? sourceStampRow.value : null;
+
     summary.legal_documents = Number(
       (db.prepare('SELECT COUNT(*) AS count FROM legal_documents').get() as { count: number }).count,
     );
@@ -162,11 +121,15 @@ async function main(): Promise<void> {
 
   console.log(`Database: ${summary.legal_documents} documents, ${summary.legal_provisions} provisions`);
   console.log(`Built at: ${summary.built_at ?? 'unknown'}`);
+  console.log(`Corpus source stamp: ${summary.db_source_stamp ?? 'unstamped'}`);
 
   try {
-    const latest = await fetchLatestArchive();
-    summary.latest_archive_name = latest.name;
-    summary.latest_archive_timestamp = parseArchiveTokenToIso(latest.timestamp);
+    const refs = parseLegiIndex(await fetchLegiIndexHtml(REQUEST_TIMEOUT_MS));
+    const newest = latestStamp(refs);
+    const newestRef = refs.find((r) => r.stamp === newest);
+    summary.latest_source_stamp = newest;
+    summary.latest_archive_name = newestRef?.name ?? null;
+    summary.latest_archive_timestamp = stampToIso(newest);
   } catch (error) {
     const message = error instanceof Error ? error.message : String(error);
     summary.errors.push(`Source check failed: ${message}`);
@@ -182,24 +145,33 @@ async function main(): Promise<void> {
     process.exit(STRICT_MODE ? 2 : 0);
   }
 
-  console.log(`Latest LEGI archive: ${summary.latest_archive_name}`);
+  console.log(`Latest LEGI archive: ${summary.latest_archive_name} (globals + daily deltas considered)`);
   console.log(`Archive timestamp: ${summary.latest_archive_timestamp ?? 'unknown'}`);
 
-  if (summary.built_at && summary.latest_archive_timestamp) {
+  if (summary.db_source_stamp && summary.latest_source_stamp) {
+    // Exact corpus-version comparison: stamps are zero-padded YYYYMMDD-HHMMSS,
+    // so lexicographic order is chronological order.
+    summary.has_update = summary.latest_source_stamp > summary.db_source_stamp;
+  } else if (summary.built_at && summary.latest_archive_timestamp) {
+    summary.warnings.push(
+      'Database carries no source_stamp (built before issue #97 stamping) — falling back to a ' +
+        'built_at comparison, which UNDERSTATES staleness. Rebuild via census + ingest + build:db.',
+    );
     summary.has_update =
       new Date(summary.latest_archive_timestamp).getTime() > new Date(summary.built_at).getTime();
   } else {
     summary.has_update = false;
     summary.warnings.push(
-      'Could not compare source archive timestamp against local built_at metadata.',
+      'Could not compare source archive stamp against local database metadata.',
     );
   }
 
   if (summary.has_update) {
     console.log('');
     console.log('UPDATE AVAILABLE');
-    console.log('A newer LEGI archive exists than the currently built database.');
+    console.log('A newer LEGI archive exists than the corpus the database was built from.');
     console.log('Suggested next steps:');
+    console.log('  npm run census');
     console.log('  npm run ingest:legi');
     console.log('  npm run build:db');
   } else {

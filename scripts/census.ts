@@ -6,20 +6,22 @@
  * open data archive.  Writes data/census.json in golden standard format.
  *
  * Strategy:
- *   1. Download the Freemium LEGI global archive (if not cached)
- *   2. Extract it (if not already extracted)
- *   3. Walk the extracted directory tree to discover:
+ *   1. Resolve the newest LEGI global archive + every incremental delta from
+ *      the live DILA index (issue #97 — never a hardcoded archive), download,
+ *      extract, apply deltas, stamp the corpus identity marker
+ *   2. Walk the extracted directory tree to discover:
  *      a) All codes  (code_en_vigueur/LEGI/TEXT/...)
  *      b) All TNC — textes non codifiés (TNC_en_vigueur/JORF/TEXT/...)
- *   4. Parse the TEXTE_VERSION.xml for each text to get title & metadata
- *   5. Count article XML files per text
- *   6. Write data/census.json
+ *   3. Select each text's TEXTE_VERSION by validity window (NOT files[0])
+ *   4. Count article XML files per text
+ *   5. Write data/census.json, stamped with the source archive identity
  *
  * Usage:
  *   npx tsx scripts/census.ts
- *   npx tsx scripts/census.ts --extracted /tmp/legi_extracted
+ *   npx tsx scripts/census.ts --extracted /tmp/legi-cache/extracted
  *   npx tsx scripts/census.ts --archive /path/to/archive.tar.gz
  *   npx tsx scripts/census.ts --codes-only         # Skip TNC (laws)
+ *   npx tsx scripts/census.ts --allow-unstamped    # accept an unprovable corpus (loud)
  *
  * Data source: https://echanges.dila.gouv.fr/OPENDATA/LEGI/
  * Licence: Licence Ouverte v2.0
@@ -27,18 +29,15 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
-import { execFileSync } from 'child_process';
 import { fileURLToPath } from 'url';
-import { XMLParser } from 'fast-xml-parser';
+import { resolveCorpus } from './lib/legi-acquire.js';
+import { selectTexteVersion } from './lib/texte-version.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const DATA_DIR = path.resolve(__dirname, '../data');
 const CENSUS_PATH = path.join(DATA_DIR, 'census.json');
-const ARCHIVE_URL = 'https://echanges.dila.gouv.fr/OPENDATA/LEGI/Freemium_legi_global_20250713-140000.tar.gz';
-const DEFAULT_ARCHIVE_PATH = '/tmp/legi_global.tar.gz';
-const DEFAULT_EXTRACT_DIR = '/tmp/legi_extracted';
 
 // ---------------------------------------------------------------------------
 // CLI
@@ -48,6 +47,7 @@ interface CliArgs {
   archive?: string;
   extracted?: string;
   codesOnly: boolean;
+  allowUnstamped: boolean;
 }
 
 function parseArgs(): CliArgs {
@@ -55,87 +55,15 @@ function parseArgs(): CliArgs {
   let archive: string | undefined;
   let extracted: string | undefined;
   let codesOnly = false;
+  let allowUnstamped = false;
 
   for (let i = 0; i < args.length; i++) {
     if (args[i] === '--archive' && args[i + 1]) { archive = args[i + 1]; i++; }
     else if (args[i] === '--extracted' && args[i + 1]) { extracted = args[i + 1]; i++; }
     else if (args[i] === '--codes-only') { codesOnly = true; }
+    else if (args[i] === '--allow-unstamped') { allowUnstamped = true; }
   }
-  return { archive, extracted, codesOnly };
-}
-
-// ---------------------------------------------------------------------------
-// XML parser for TEXTE_VERSION.xml metadata
-// ---------------------------------------------------------------------------
-
-const xmlParser = new XMLParser({
-  ignoreAttributes: false,
-  attributeNamePrefix: '@_',
-  textNodeName: '#text',
-  trimValues: true,
-});
-
-interface TextMetadata {
-  id: string;          // LEGITEXT or JORFTEXT ID
-  title: string;
-  titleEn?: string;
-  shortName?: string;
-  status: 'in_force' | 'amended' | 'repealed';
-  issuedDate?: string;
-  inForceDate?: string;
-  nature?: string;     // CODE, LOI, ORDONNANCE, DECRET, etc.
-}
-
-/**
- * Parse the texte_version.xml found at the root of a LEGI text directory
- * to extract metadata.
- */
-function parseTexteVersion(xmlPath: string): TextMetadata | null {
-  try {
-    if (!fs.existsSync(xmlPath)) return null;
-    const xml = fs.readFileSync(xmlPath, 'utf-8');
-    const parsed = xmlParser.parse(xml);
-
-    // Navigate: TEXTE_VERSION > META > META_COMMUN + META_SPEC > META_TEXTE_VERSION
-    const texteVersion = parsed.TEXTE_VERSION ?? parsed;
-    const meta = texteVersion?.META;
-    const metaCommun = meta?.META_COMMUN;
-    const metaSpec = meta?.META_SPEC;
-    const metaTexte = metaSpec?.META_TEXTE_VERSION ?? metaSpec?.META_TEXTE_CHRONICLE;
-
-    const id = String(metaCommun?.ID ?? '');
-    const nature = String(metaCommun?.NATURE ?? metaTexte?.NATURE ?? '');
-    const titre = String(metaTexte?.TITRE ?? metaTexte?.TITREFULL ?? '');
-    const titreShort = String(metaTexte?.TITRECOURT ?? '');
-    const etat = String(metaTexte?.ETAT ?? 'VIGUEUR');
-    const dateDebut = metaTexte?.DATE_DEBUT ? String(metaTexte.DATE_DEBUT) : undefined;
-    const dateFin = metaTexte?.DATE_FIN ? String(metaTexte.DATE_FIN) : undefined;
-
-    // Determine status
-    let status: 'in_force' | 'amended' | 'repealed' = 'in_force';
-    const etatUpper = etat.toUpperCase();
-    if (etatUpper === 'ABROGE' || etatUpper === 'ABROGE_DIFF') {
-      status = 'repealed';
-    } else if (etatUpper === 'MODIFIE') {
-      status = 'amended';
-    }
-
-    // Skip if clearly not in force
-    if (dateFin && !dateFin.startsWith('2999') && dateFin < new Date().toISOString().split('T')[0]) {
-      status = 'repealed';
-    }
-
-    return {
-      id,
-      title: titre || titreShort || id,
-      shortName: titreShort || undefined,
-      status,
-      issuedDate: dateDebut,
-      nature: nature || undefined,
-    };
-  } catch {
-    return null;
-  }
+  return { archive, extracted, codesOnly, allowUnstamped };
 }
 
 /**
@@ -211,6 +139,15 @@ interface CensusLaw {
   ingestion_date: string | null;
 }
 
+interface CensusSourceArchive {
+  base: string;
+  base_stamp: string;
+  deltas_applied: number;
+  last_delta: string | null;
+  source_stamp: string;
+  acquired_at: string;
+}
+
 interface CensusOutput {
   schema_version: string;
   jurisdiction: string;
@@ -218,6 +155,7 @@ interface CensusOutput {
   portal: string;
   census_date: string;
   agent: string;
+  source_archive: CensusSourceArchive;
   summary: {
     total_laws: number;
     total_provisions: number;
@@ -279,67 +217,18 @@ function categorizeText(nature: string | undefined, title: string): string {
 }
 
 // ---------------------------------------------------------------------------
-// Archive download + extraction
-// ---------------------------------------------------------------------------
-
-function ensureArchive(archivePath: string): void {
-  if (fs.existsSync(archivePath)) {
-    const size = fs.statSync(archivePath).size;
-    console.log(`Using existing archive: ${archivePath} (${(size / 1024 / 1024).toFixed(0)}MB)`);
-    return;
-  }
-
-  console.log(`Downloading LEGI archive from ${ARCHIVE_URL}...`);
-  console.log('This is ~1.1GB and may take several minutes.');
-  execFileSync('curl', ['-fSL', '--progress-bar', '-o', archivePath, ARCHIVE_URL], {
-    stdio: 'inherit',
-    timeout: 1_800_000, // 30 min
-  });
-  console.log('Download complete.');
-}
-
-function ensureExtracted(archivePath: string, extractDir: string): void {
-  // Check if already extracted by looking for the legi/ directory
-  if (fs.existsSync(path.join(extractDir, 'legi'))) {
-    console.log(`Using previously extracted archive at ${extractDir}`);
-    return;
-  }
-
-  if (fs.existsSync(extractDir)) {
-    execFileSync('rm', ['-rf', extractDir]);
-  }
-  fs.mkdirSync(extractDir, { recursive: true });
-
-  console.log(`Extracting archive to ${extractDir}...`);
-  console.log('This extracts ~10GB, takes 2-5 minutes...');
-  execFileSync('tar', ['xzf', archivePath, '-C', extractDir], {
-    timeout: 1_200_000, // 20 min
-    maxBuffer: 50 * 1024 * 1024,
-    stdio: 'inherit',
-  });
-  console.log('Extraction complete.');
-}
-
-// ---------------------------------------------------------------------------
 // Main
 // ---------------------------------------------------------------------------
 
 async function main(): Promise<void> {
-  const { archive, extracted, codesOnly } = parseArgs();
+  const { archive, extracted, codesOnly, allowUnstamped } = parseArgs();
 
   console.log('=== French Law MCP — Census ===\n');
 
-  let extractDir: string;
-
-  if (extracted) {
-    extractDir = extracted;
-    console.log(`Using pre-extracted directory: ${extractDir}`);
-  } else {
-    const archivePath = archive ?? DEFAULT_ARCHIVE_PATH;
-    ensureArchive(archivePath);
-    extractDir = DEFAULT_EXTRACT_DIR;
-    ensureExtracted(archivePath, extractDir);
-  }
+  // Acquire the CURRENT corpus: newest global + all incremental deltas,
+  // resolved at runtime from the DILA index, identity-stamped.
+  const { extractDir, identity } = await resolveCorpus({ archive, extracted, allowUnstamped });
+  const today = new Date().toISOString().split('T')[0];
 
   // Discover all texts
   const codesBaseDir = path.join(extractDir, 'legi/global/code_et_TNC_en_vigueur/code_en_vigueur');
@@ -363,6 +252,7 @@ async function main(): Promise<void> {
   const laws: CensusLaw[] = [];
   let totalArticles = 0;
   let processed = 0;
+  let metadataMissing = 0;
 
   for (const { dir, textId } of allTexts) {
     processed++;
@@ -370,27 +260,11 @@ async function main(): Promise<void> {
       console.log(`  Processing ${processed}/${allTexts.length}...`);
     }
 
-    // LEGI archive stores metadata at texte/version/{LEGITEXT_ID}.xml
-    let metadataPath = path.join(dir, 'texte', 'version', `${textId}.xml`);
-    if (!fs.existsSync(metadataPath)) {
-      // Try finding any XML in texte/version/
-      const versionDir = path.join(dir, 'texte', 'version');
-      if (fs.existsSync(versionDir)) {
-        const files = fs.readdirSync(versionDir).filter(f => f.endsWith('.xml'));
-        if (files.length > 0) {
-          metadataPath = path.join(versionDir, files[0]);
-        }
-      }
-    }
-    if (!fs.existsSync(metadataPath)) {
-      // Fallback: search recursively
-      const texteVersionPaths = findTexteVersionXml(dir);
-      if (texteVersionPaths.length > 0) {
-        metadataPath = texteVersionPaths[0];
-      }
-    }
+    // Validity-aware TEXTE_VERSION selection (issue #97: files[0] picked the
+    // first alphabetical version file — usually the OLDEST version).
+    const metadata = selectTexteVersion(dir, today);
+    if (metadata === null) metadataMissing++;
 
-    const metadata = parseTexteVersion(metadataPath);
     const articleCount = countArticleFiles(dir);
     totalArticles += articleCount;
 
@@ -405,6 +279,8 @@ async function main(): Promise<void> {
     if (articleCount === 0) {
       classification = 'metadata_only';
       classificationReason = 'No article XML files found in archive';
+    } else if (metadata === null) {
+      classificationReason = 'Available in LEGI archive with XML articles (no parseable TEXTE_VERSION metadata)';
     }
 
     laws.push({
@@ -439,8 +315,16 @@ async function main(): Promise<void> {
     jurisdiction: 'FR',
     jurisdiction_name: 'France',
     portal: 'https://www.legifrance.gouv.fr',
-    census_date: new Date().toISOString().split('T')[0],
+    census_date: today,
     agent: 'census.ts',
+    source_archive: {
+      base: identity.base,
+      base_stamp: identity.base_stamp,
+      deltas_applied: identity.deltas_applied.length,
+      last_delta: identity.deltas_applied.at(-1) ?? null,
+      source_stamp: identity.source_stamp,
+      acquired_at: identity.updated_at,
+    },
     summary: {
       total_laws: laws.length,
       total_provisions: totalArticles,
@@ -457,6 +341,7 @@ async function main(): Promise<void> {
   fs.writeFileSync(CENSUS_PATH, JSON.stringify(census, null, 2), 'utf-8');
 
   console.log(`\n=== Census Summary ===`);
+  console.log(`Source corpus: ${identity.base} + ${identity.deltas_applied.length} deltas (stamp ${identity.source_stamp})`);
   console.log(`Total texts: ${laws.length}`);
   console.log(`  Codes: ${laws.filter(l => l.category === 'code').length}`);
   console.log(`  Lois: ${laws.filter(l => l.category === 'loi').length}`);
@@ -466,34 +351,10 @@ async function main(): Promise<void> {
   console.log(`Total article files: ${totalArticles}`);
   console.log(`Ingestable: ${ingestable}`);
   console.log(`Metadata only (no articles): ${metadataOnly}`);
+  if (metadataMissing > 0) {
+    console.log(`WARNING: ${metadataMissing} texts had no parseable TEXTE_VERSION metadata (title fell back to the text id).`);
+  }
   console.log(`\nWritten: ${CENSUS_PATH}`);
-}
-
-/**
- * Find metadata XML files in the text directory.
- * In LEGI archive, these are at texte/version/{ID}.xml
- * The XML wraps its content in a <TEXTE_VERSION> root element.
- */
-function findTexteVersionXml(dir: string): string[] {
-  const results: string[] = [];
-  const walk = (d: string, depth: number) => {
-    if (depth > 4) return;
-    let entries;
-    try { entries = fs.readdirSync(d, { withFileTypes: true }); } catch { return; }
-    for (const entry of entries) {
-      const fp = path.join(d, entry.name);
-      if (entry.isDirectory()) {
-        walk(fp, depth + 1);
-      } else if (
-        entry.name.endsWith('.xml') &&
-        (entry.name.startsWith('LEGITEXT') || entry.name.startsWith('JORFTEXT'))
-      ) {
-        results.push(fp);
-      }
-    }
-  };
-  walk(dir, 0);
-  return results;
 }
 
 main().catch(err => {

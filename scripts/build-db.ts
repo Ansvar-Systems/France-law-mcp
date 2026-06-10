@@ -11,12 +11,14 @@ import Database from 'better-sqlite3';
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
+import { dedupeProvisionSeeds } from './lib/version-select.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
 const DB_PATH = path.resolve(__dirname, '../data/database.db');
+const CENSUS_PATH = path.resolve(__dirname, '../data/census.json');
 
 // ---------------------------------------------------------------------------
 // Seed file types
@@ -219,21 +221,9 @@ CREATE TABLE db_metadata (
 // Helpers
 // ---------------------------------------------------------------------------
 
-function normalizeWhitespace(text: string): string {
-  return text.replace(/\s+/g, ' ').trim();
-}
-
-function dedupeProvisions(provisions: ProvisionSeed[]): ProvisionSeed[] {
-  const byRef = new Map<string, ProvisionSeed>();
-  for (const prov of provisions) {
-    const ref = prov.provision_ref.trim();
-    const existing = byRef.get(ref);
-    if (!existing || normalizeWhitespace(prov.content).length > normalizeWhitespace(existing.content).length) {
-      byRef.set(ref, { ...prov, provision_ref: ref });
-    }
-  }
-  return Array.from(byRef.values());
-}
+// Dedupe by provision_ref: newest valid_from wins; content length is the
+// legacy fallback for unstamped seeds (issue #97 — keep-longest could revert
+// an amendment that shortened an article). Lives in scripts/lib/version-select.ts.
 
 // ---------------------------------------------------------------------------
 // Build
@@ -316,7 +306,7 @@ function buildDatabase(): void {
       );
       totalDocs++;
 
-      const provisions = dedupeProvisions(seed.provisions ?? []);
+      const provisions = dedupeProvisionSeeds(seed.provisions ?? []);
 
       for (let i = 0; i < provisions.length; i++) {
         const prov = provisions[i];
@@ -401,7 +391,40 @@ function buildDatabase(): void {
   console.log(`Output: ${DB_PATH} (${(size / 1024).toFixed(1)} KB)`);
 }
 
+interface CensusSourceArchive {
+  base: string;
+  base_stamp: string;
+  deltas_applied: number;
+  last_delta: string | null;
+  source_stamp: string;
+  acquired_at: string;
+}
+
+/**
+ * Source identity from census.json (stamped there by census.ts, issue #97).
+ * Returns null when the census is absent or predates source stamping —
+ * the DB is then explicitly marked 'unstamped', never silently unversioned.
+ */
+function readSourceArchive(): CensusSourceArchive | null {
+  try {
+    if (!fs.existsSync(CENSUS_PATH)) return null;
+    const census = JSON.parse(fs.readFileSync(CENSUS_PATH, 'utf-8')) as {
+      source_archive?: CensusSourceArchive;
+    };
+    return census.source_archive ?? null;
+  } catch {
+    return null;
+  }
+}
+
 function writeMetadata(db: Database.Database): void {
+  const source = readSourceArchive();
+  if (!source) {
+    console.warn(
+      'WARNING: data/census.json carries no source_archive stamp — db_metadata.source_stamp ' +
+        "will be 'unstamped'. Re-run census + ingest to get a provable corpus version (issue #97).",
+    );
+  }
   const insertMeta = db.prepare('INSERT OR REPLACE INTO db_metadata (key, value) VALUES (?, ?)');
   const writeMeta = db.transaction(() => {
     insertMeta.run('tier', 'free');
@@ -409,6 +432,10 @@ function writeMetadata(db: Database.Database): void {
     insertMeta.run('jurisdiction', 'FR');
     insertMeta.run('built_at', new Date().toISOString());
     insertMeta.run('builder', 'build-db.ts');
+    insertMeta.run('source_base_archive', source?.base ?? 'unstamped');
+    insertMeta.run('source_last_delta', source?.last_delta ?? 'none');
+    insertMeta.run('source_stamp', source?.source_stamp ?? 'unstamped');
+    insertMeta.run('source_acquired_at', source?.acquired_at ?? 'unstamped');
   });
   writeMeta();
 }
