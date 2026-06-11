@@ -12,7 +12,7 @@
 import * as fs from 'node:fs';
 import * as path from 'node:path';
 import { XMLParser } from 'fast-xml-parser';
-import { parseLegiDate } from './parser.js';
+import { parseLegiDate, parseLegiDateOpenEnded } from './parser.js';
 import { selectCurrentOrLatest } from './version-select.js';
 
 const xmlParser = new XMLParser({
@@ -22,12 +22,14 @@ const xmlParser = new XMLParser({
   trimValues: true,
 });
 
+export type TexteStatus = 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
+
 export interface TexteVersionMeta {
   /** Version id (LEGITEXT… of this TEXTE_VERSION file). */
   id: string;
   title: string;
   shortName?: string;
-  status: 'in_force' | 'amended' | 'repealed';
+  status: TexteStatus;
   etat: string;
   /** ISO date; undefined when absent/unparseable. */
   dateDebut?: string;
@@ -38,57 +40,105 @@ export interface TexteVersionMeta {
   file: string;
 }
 
+// ---------------------------------------------------------------------------
+// Text-level ETAT -> status mapping (deliberate, fail-loud on drift)
+// ---------------------------------------------------------------------------
+
+/** Terminal not-in-force states — the text no longer carries force under this identity. */
+const TERMINAL_TEXTE_ETATS: ReadonlySet<string> = new Set([
+  'ABROGE', // repealed (effective)
+  'PERIME', // lapsed
+  'TRANSFERE', // content moved to another text/code
+  'DEPLACE', // moved
+  'ANNULE', // annulled
+  'MORT_NE', // never entered force
+  'MODIFIE_MORT_NE', // modification that never entered force
+]);
+
+/**
+ * Map a text-level ETAT plus its validity window to a status FACT (review
+ * finding texte-version.ts:69): ABROGE_DIFF is a DEFERRED repeal — the text
+ * is IN FORCE until its DATE_FIN; the scheduled repeal date stays recorded in
+ * dateFin. Unknown ETAT values throw — DILA vocabulary drift must fail loud,
+ * never default to "in force".
+ */
+export function mapTexteEtatToStatus(
+  etat: string,
+  window: { dateDebut?: string; dateFin?: string },
+  today: string,
+): TexteStatus {
+  const e = etat.toUpperCase();
+
+  if (TERMINAL_TEXTE_ETATS.has(e)) return 'repealed';
+  if (e === 'VIGUEUR_DIFF') return 'not_yet_in_force';
+
+  let status: TexteStatus;
+  if (e === 'VIGUEUR' || e === 'ABROGE_DIFF') {
+    status = 'in_force';
+  } else if (e === 'MODIFIE') {
+    status = 'amended';
+  } else {
+    throw new Error(
+      `TEXTE_VERSION carries ${e ? `unknown ETAT '${e}'` : 'NO ETAT'} — outside the mapped ` +
+        'DILA vocabulary, refusing to classify silently',
+    );
+  }
+
+  // The validity window is the controlling fact: [dateDebut, dateFin).
+  if (window.dateFin !== undefined && window.dateFin <= today) return 'repealed';
+  if (window.dateDebut !== undefined && window.dateDebut > today) return 'not_yet_in_force';
+  return status;
+}
+
 /**
  * Parse one TEXTE_VERSION xml. Returns null when the file is missing or not
- * parseable as a TEXTE_VERSION (callers count these loudly).
+ * parseable as a TEXTE_VERSION (callers count these loudly). An ETAT outside
+ * the mapped vocabulary — including a MISSING one — THROWS instead: a parse
+ * problem is countable, a mis-stated legal status is not.
  */
-export function parseTexteVersionFile(xmlPath: string): TexteVersionMeta | null {
+export function parseTexteVersionFile(xmlPath: string, today?: string): TexteVersionMeta | null {
+  if (!fs.existsSync(xmlPath)) return null;
+  let parsed: Record<string, unknown> | undefined;
   try {
-    if (!fs.existsSync(xmlPath)) return null;
     const xml = fs.readFileSync(xmlPath, 'utf-8');
-    const parsed = xmlParser.parse(xml);
-
-    const texteVersion = parsed.TEXTE_VERSION ?? parsed;
-    const meta = texteVersion?.META;
-    const metaCommun = meta?.META_COMMUN;
-    const metaSpec = meta?.META_SPEC;
-    const metaTexte = metaSpec?.META_TEXTE_VERSION ?? metaSpec?.META_TEXTE_CHRONICLE;
-
-    const id = String(metaCommun?.ID ?? '');
-    const nature = String(metaCommun?.NATURE ?? metaTexte?.NATURE ?? '');
-    const titre = String(metaTexte?.TITRE ?? metaTexte?.TITREFULL ?? '');
-    const titreShort = String(metaTexte?.TITRECOURT ?? '');
-    const etat = String(metaTexte?.ETAT ?? 'VIGUEUR');
-    const dateDebut = parseLegiDate(metaTexte?.DATE_DEBUT as string | number | undefined);
-    const dateFin = parseLegiDate(metaTexte?.DATE_FIN as string | number | undefined);
-
-    if (!id && !titre) return null;
-
-    let status: 'in_force' | 'amended' | 'repealed' = 'in_force';
-    const etatUpper = etat.toUpperCase();
-    if (etatUpper === 'ABROGE' || etatUpper === 'ABROGE_DIFF') {
-      status = 'repealed';
-    } else if (etatUpper === 'MODIFIE') {
-      status = 'amended';
-    }
-    if (dateFin && dateFin < new Date().toISOString().split('T')[0]) {
-      status = 'repealed';
-    }
-
-    return {
-      id,
-      title: titre || titreShort || id,
-      shortName: titreShort || undefined,
-      status,
-      etat,
-      dateDebut,
-      dateFin,
-      nature: nature || undefined,
-      file: xmlPath,
-    };
+    parsed = xmlParser.parse(xml) as Record<string, unknown>;
   } catch {
     return null;
   }
+
+  /* eslint-disable @typescript-eslint/no-explicit-any */
+  const texteVersion = (parsed as any).TEXTE_VERSION ?? parsed;
+  const meta = texteVersion?.META;
+  const metaCommun = meta?.META_COMMUN;
+  const metaSpec = meta?.META_SPEC;
+  const metaTexte = metaSpec?.META_TEXTE_VERSION ?? metaSpec?.META_TEXTE_CHRONICLE;
+  /* eslint-enable @typescript-eslint/no-explicit-any */
+
+  const id = String(metaCommun?.ID ?? '');
+  const nature = String(metaCommun?.NATURE ?? metaTexte?.NATURE ?? '');
+  const titre = String(metaTexte?.TITRE ?? metaTexte?.TITREFULL ?? '');
+  const titreShort = String(metaTexte?.TITRECOURT ?? '');
+  const etatRaw = metaTexte?.ETAT;
+  const etat = etatRaw === undefined || etatRaw === null ? '' : String(etatRaw);
+  const dateDebut = parseLegiDate(metaTexte?.DATE_DEBUT as string | number | undefined);
+  const dateFin = parseLegiDateOpenEnded(metaTexte?.DATE_FIN as string | number | undefined);
+
+  if (!id && !titre) return null;
+
+  const effectiveToday = today ?? new Date().toISOString().split('T')[0];
+  const status = mapTexteEtatToStatus(etat, { dateDebut, dateFin }, effectiveToday);
+
+  return {
+    id,
+    title: titre || titreShort || id,
+    shortName: titreShort || undefined,
+    status,
+    etat,
+    dateDebut,
+    dateFin,
+    nature: nature || undefined,
+    file: xmlPath,
+  };
 }
 
 /**
@@ -117,7 +167,7 @@ export function selectTexteVersion(textDir: string, today: string): TexteVersion
   if (files.length === 0) return null;
 
   const versions = files
-    .map((f) => parseTexteVersionFile(f))
+    .map((f) => parseTexteVersionFile(f, today))
     .filter((v): v is TexteVersionMeta => v !== null);
   if (versions.length === 0) return null;
 

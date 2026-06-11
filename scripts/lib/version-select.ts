@@ -48,8 +48,11 @@ export function selectCurrentVersion<T extends VersionWindow>(
 
 /**
  * Like selectCurrentVersion, but for metadata of texts that may be fully
- * repealed: when no version is in force, the newest version overall still
- * carries the authoritative final metadata (title, ABROGE state).
+ * repealed: when no version is in force, the newest version that EVER entered
+ * force carries the authoritative final metadata (title, ABROGE state).
+ * Never-in-force versions (DATE_DEBUT in the future, incl. the literal
+ * 2999-01-01 on mort-né/annulled versions) are not "final" anything — they
+ * only win when no version ever entered force.
  */
 export function selectCurrentOrLatest<T extends VersionWindow>(
   candidates: T[],
@@ -59,7 +62,9 @@ export function selectCurrentOrLatest<T extends VersionWindow>(
   const current = selectCurrentVersion(candidates, today, tieBreak);
   if (current) return current;
   if (candidates.length === 0) return null;
-  const sorted = [...candidates].sort((a, b) => byNewestDebut(a, b) || (tieBreak ? -tieBreak(a, b) : 0));
+  const everInForce = candidates.filter((c) => c.dateDebut === undefined || c.dateDebut <= today);
+  const pool = everInForce.length > 0 ? everInForce : candidates;
+  const sorted = [...pool].sort((a, b) => byNewestDebut(a, b) || (tieBreak ? -tieBreak(a, b) : 0));
   return sorted.at(-1) ?? null;
 }
 
@@ -82,8 +87,12 @@ export interface ArticleSelection<T> {
 
 /**
  * Group article versions by normalized number and pick the newest in-force
- * version of each. Tie-break inside an identical window: longer content, then
- * higher LEGIARTI id — content length is now the LAST resort, not the rule.
+ * version of each. Tie-break inside an identical window: HIGHER LEGIARTI id
+ * wins. Same-day duplicates are typically a rectificatif/correction pair —
+ * the later-allocated (higher) id is the corrected text, and it may well be
+ * SHORTER. Content length must never decide (it is exactly the keep-longest
+ * trap this module replaced; review finding version-select.ts:100). Ids are
+ * unique, so the tie-break is total and deterministic.
  */
 export function selectArticles<T extends ArticleVersionLike>(
   articles: T[],
@@ -96,8 +105,7 @@ export function selectArticles<T extends ArticleVersionLike>(
     else groups.set(art.normalizedNum, [art]);
   }
 
-  const tieBreak = (a: T, b: T): number =>
-    b.content.length - a.content.length || b.id.localeCompare(a.id);
+  const tieBreak = (a: T, b: T): number => b.id.localeCompare(a.id);
 
   const selected: T[] = [];
   const droppedExpiredNums: string[] = [];

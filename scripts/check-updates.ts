@@ -130,6 +130,23 @@ async function main(): Promise<void> {
     summary.latest_source_stamp = newest;
     summary.latest_archive_name = newestRef?.name ?? null;
     summary.latest_archive_timestamp = stampToIso(newest);
+
+    // DILA publishes deltas DAILY. A "newest" stamp older than the freshness
+    // window means the delta regex stopped matching (index layout drift) —
+    // comparing the DB against it would report UP TO DATE forever (PR #98
+    // review finding legi-archive.ts:96, path a). Same envelope as a fetch
+    // failure: this is a broken source check, not a fresh comparison.
+    const staleDays = Math.floor(
+      (Date.now() - new Date(stampToIso(newest)).getTime()) / (1000 * 60 * 60 * 24),
+    );
+    const maxIndexStaleDays = Number(process.env['LEGI_MAX_INDEX_STALENESS_DAYS'] ?? 7);
+    if (staleDays > maxIndexStaleDays) {
+      throw new Error(
+        `Newest archive on the DILA index (${newestRef?.name ?? newest}) is ${staleDays} days old ` +
+          `(max ${maxIndexStaleDays}; DILA publishes daily). The index is stale or the archive-name ` +
+          'regex no longer matches — the up-to-date comparison would be meaningless.',
+      );
+    }
   } catch (error) {
     const message = error instanceof Error ? error.message : String(error);
     summary.errors.push(`Source check failed: ${message}`);

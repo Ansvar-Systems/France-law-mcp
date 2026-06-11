@@ -12,6 +12,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
 import { dedupeProvisionSeeds } from './lib/version-select.js';
+import { verifySeedsAgainstCensus, type CensusSourceArchive } from './lib/corpus-gates.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -232,6 +233,16 @@ CREATE TABLE db_metadata (
 function buildDatabase(): void {
   console.log('Building French Law MCP database...\n');
 
+  // Build gate (review findings build-db.ts:282 and :408): refuse an empty or
+  // shrunken seed set, refuse seeds the census does not claim, refuse a
+  // source stamp the seeds do not actually carry. Runs BEFORE the existing
+  // database is touched — a failing gate leaves the previous build intact.
+  const gate = verifySeedsAgainstCensus({ censusPath: CENSUS_PATH, seedDir: SEED_DIR });
+  console.log(
+    `Seed/census cross-check passed: ${gate.stampedSeedCount} ingest-stamped seed(s) at stamp ` +
+      `${gate.sourceArchive?.source_stamp ?? 'unstamped'}, ${gate.manualSeedCount} manual seed(s).`,
+  );
+
   if (fs.existsSync(DB_PATH)) {
     fs.unlinkSync(DB_PATH);
   }
@@ -268,23 +279,10 @@ function buildDatabase(): void {
     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   `);
 
-  // Load seed files
-  if (!fs.existsSync(SEED_DIR)) {
-    console.log(`No seed directory at ${SEED_DIR} — creating empty database.`);
-    writeMetadata(db);
-    db.close();
-    return;
-  }
-
-  const seedFiles = fs.readdirSync(SEED_DIR)
-    .filter(f => f.endsWith('.json') && !f.startsWith('.') && !f.startsWith('_') && f !== 'eu-references.json');
-
-  if (seedFiles.length === 0) {
-    console.log('No seed files found. Database created with empty schema.');
-    writeMetadata(db);
-    db.close();
-    return;
-  }
+  // Seed files come from the gate — already verified non-empty and
+  // census-consistent. The old "empty schema" success paths are gone: an
+  // empty database stamped 'current' is never a valid build artifact.
+  const seedFiles = gate.seedFiles;
 
   let totalDocs = 0;
   let totalProvisions = 0;
@@ -378,7 +376,7 @@ function buildDatabase(): void {
   });
 
   loadAll();
-  writeMetadata(db);
+  writeMetadata(db, gate.sourceArchive);
 
   db.exec('ANALYZE');
   db.exec('VACUUM');
@@ -391,38 +389,18 @@ function buildDatabase(): void {
   console.log(`Output: ${DB_PATH} (${(size / 1024).toFixed(1)} KB)`);
 }
 
-interface CensusSourceArchive {
-  base: string;
-  base_stamp: string;
-  deltas_applied: number;
-  last_delta: string | null;
-  source_stamp: string;
-  acquired_at: string;
-}
-
 /**
- * Source identity from census.json (stamped there by census.ts, issue #97).
- * Returns null when the census is absent or predates source stamping —
- * the DB is then explicitly marked 'unstamped', never silently unversioned.
+ * Stamp db_metadata from the gate-verified source identity. The gate
+ * guarantees every ingest-stamped seed carries exactly this stamp; `source`
+ * is null ONLY for a census-less, manual-only seed set (explicitly unstamped,
+ * loudly warned — never a silently swallowed corrupt census; review finding
+ * build-db.ts:408).
  */
-function readSourceArchive(): CensusSourceArchive | null {
-  try {
-    if (!fs.existsSync(CENSUS_PATH)) return null;
-    const census = JSON.parse(fs.readFileSync(CENSUS_PATH, 'utf-8')) as {
-      source_archive?: CensusSourceArchive;
-    };
-    return census.source_archive ?? null;
-  } catch {
-    return null;
-  }
-}
-
-function writeMetadata(db: Database.Database): void {
-  const source = readSourceArchive();
+function writeMetadata(db: Database.Database, source: CensusSourceArchive | null): void {
   if (!source) {
     console.warn(
-      'WARNING: data/census.json carries no source_archive stamp — db_metadata.source_stamp ' +
-        "will be 'unstamped'. Re-run census + ingest to get a provable corpus version (issue #97).",
+      'WARNING: manual-only seed set without a census — db_metadata.source_stamp will be ' +
+        "'unstamped'. Re-run census + ingest to get a provable corpus version (issue #97).",
     );
   }
   const insertMeta = db.prepare('INSERT OR REPLACE INTO db_metadata (key, value) VALUES (?, ?)');

@@ -15,6 +15,7 @@ import { fileURLToPath } from 'node:url';
 import {
   parseLegiIndex,
   planAcquisition,
+  assertPlanContinuity,
   latestStamp,
   stampToIso,
   LEGI_BASE_URL,
@@ -116,5 +117,79 @@ describe('stampToIso', () => {
   it('throws on malformed stamps', () => {
     expect(() => stampToIso('2025-07-13')).toThrow();
     expect(() => stampToIso('')).toThrow();
+  });
+});
+
+/**
+ * Continuity / freshness gate (PR #98 review finding legi-archive.ts:96):
+ * DILA publishes deltas DAILY (332 deltas since 2025-07-13, max observed gap
+ * 2 days). A plan whose chain has a hole, or whose newest archive is stale,
+ * means purged dailies or index-regex drift — either way the resulting corpus
+ * would silently miss amendments. Fail loud.
+ */
+describe('assertPlanContinuity', () => {
+  const NOW = new Date('2026-06-11T12:00:00Z');
+
+  function planOf(baseStamp: string, deltaStamps: string[]) {
+    return {
+      base: {
+        name: `Freemium_legi_global_${baseStamp}.tar.gz`,
+        kind: 'global' as const,
+        stamp: baseStamp,
+        url: 'https://example.invalid/base',
+      },
+      deltas: deltaStamps.map((s) => ({
+        name: `LEGI_${s}.tar.gz`,
+        kind: 'delta' as const,
+        stamp: s,
+        url: `https://example.invalid/LEGI_${s}.tar.gz`,
+      })),
+      sourceStamp: deltaStamps.at(-1) ?? baseStamp,
+    };
+  }
+
+  it('accepts a continuous, fresh chain', () => {
+    const plan = planOf('20260601-140000', [
+      '20260603-210000',
+      '20260605-210000',
+      '20260607-210000',
+      '20260609-210000',
+      '20260610-214017',
+    ]);
+    expect(() => assertPlanContinuity(plan, { now: NOW })).not.toThrow();
+  });
+
+  it('accepts a fresh base-only plan (global just cut, no deltas yet)', () => {
+    expect(() => assertPlanContinuity(planOf('20260610-220000', []), { now: NOW })).not.toThrow();
+  });
+
+  it('throws when the newest archive is stale (delta regex drift re-pins to an old global silently otherwise)', () => {
+    expect(() => assertPlanContinuity(planOf('20250713-140000', []), { now: NOW })).toThrow(/stale|old/i);
+  });
+
+  it('throws when the newest delta is older than the freshness window', () => {
+    const plan = planOf('20260520-140000', ['20260522-210000', '20260524-210000']);
+    expect(() => assertPlanContinuity(plan, { now: NOW })).toThrow(/stale|old/i);
+  });
+
+  it('throws on a hole between consecutive deltas (purged dailies = silent amendment hole)', () => {
+    const plan = planOf('20260520-140000', [
+      '20260521-210000',
+      '20260601-210000', // 11-day hole
+      '20260610-214017',
+    ]);
+    expect(() => assertPlanContinuity(plan, { now: NOW })).toThrow(/20260521-210000.*20260601-210000|gap|hole/i);
+  });
+
+  it('throws on a hole between the base and the first delta', () => {
+    const plan = planOf('20260520-140000', ['20260605-210000', '20260610-214017']);
+    expect(() => assertPlanContinuity(plan, { now: NOW })).toThrow(/gap|hole/i);
+  });
+
+  it('respects explicit gap/staleness overrides (loud operator escape hatch)', () => {
+    const plan = planOf('20260520-140000', ['20260605-210000', '20260610-214017']);
+    expect(() =>
+      assertPlanContinuity(plan, { now: NOW, maxGapDays: 30, maxStalenessDays: 30 }),
+    ).not.toThrow();
   });
 });

@@ -32,6 +32,7 @@ import * as path from 'path';
 import { fileURLToPath } from 'url';
 import { resolveCorpus } from './lib/legi-acquire.js';
 import { selectTexteVersion } from './lib/texte-version.js';
+import { assertCensusFloors } from './lib/corpus-gates.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -67,13 +68,23 @@ function parseArgs(): CliArgs {
 }
 
 /**
+ * Walk-error accounting (PR #98 review finding census.ts:76): readdir
+ * failures during the walk mean files vanished or became unreadable while
+ * the census ran. They are COUNTED and gated (assertCensusFloors requires
+ * zero), never swallowed into a silently smaller universe.
+ */
+interface WalkErrorCounter {
+  count: number;
+}
+
+/**
  * Count article XML files under a text directory.
  */
-function countArticleFiles(textDir: string): number {
+function countArticleFiles(textDir: string, walkErrors: WalkErrorCounter): number {
   let count = 0;
   const walk = (dir: string) => {
     let entries;
-    try { entries = fs.readdirSync(dir, { withFileTypes: true }); } catch { return; }
+    try { entries = fs.readdirSync(dir, { withFileTypes: true }); } catch { walkErrors.count++; return; }
     for (const entry of entries) {
       const fp = path.join(dir, entry.name);
       if (entry.isDirectory()) {
@@ -92,7 +103,10 @@ function countArticleFiles(textDir: string): number {
  * Find all TEXTE directories under a base path.
  * Returns an array of { dir, textId } where textId is the LEGITEXT/JORFTEXT folder name.
  */
-function findTextDirectories(baseDir: string): Array<{ dir: string; textId: string }> {
+function findTextDirectories(
+  baseDir: string,
+  walkErrors: WalkErrorCounter,
+): Array<{ dir: string; textId: string }> {
   const results: Array<{ dir: string; textId: string }> = [];
 
   if (!fs.existsSync(baseDir)) return results;
@@ -101,7 +115,7 @@ function findTextDirectories(baseDir: string): Array<{ dir: string; textId: stri
   const walkForTexts = (dir: string, depth: number) => {
     if (depth > 12) return; // safety guard
     let entries;
-    try { entries = fs.readdirSync(dir, { withFileTypes: true }); } catch { return; }
+    try { entries = fs.readdirSync(dir, { withFileTypes: true }); } catch { walkErrors.count++; return; }
 
     for (const entry of entries) {
       if (!entry.isDirectory()) continue;
@@ -130,7 +144,14 @@ interface CensusLaw {
   title_en: string | null;
   identifier: string;
   url: string | null;
+  /**
+   * in_force | amended | repealed | not_yet_in_force | unknown.
+   * 'unknown' = no parseable TEXTE_VERSION metadata — a FACT, never a
+   * fabricated in_force (review finding ingest-legi.ts:375).
+   */
   status: string;
+  /** Scheduled repeal date for deferred repeals (text-level ABROGE_DIFF). */
+  repeal_date: string | null;
   category: string;
   classification: 'ingestable' | 'inaccessible' | 'metadata_only';
   classification_reason: string;
@@ -233,15 +254,16 @@ async function main(): Promise<void> {
   // Discover all texts
   const codesBaseDir = path.join(extractDir, 'legi/global/code_et_TNC_en_vigueur/code_en_vigueur');
   const tncBaseDir = path.join(extractDir, 'legi/global/code_et_TNC_en_vigueur/TNC_en_vigueur');
+  const walkErrors: WalkErrorCounter = { count: 0 };
 
   console.log('\nScanning for codes...');
-  const codeTexts = findTextDirectories(codesBaseDir);
+  const codeTexts = findTextDirectories(codesBaseDir, walkErrors);
   console.log(`  Found ${codeTexts.length} code text directories`);
 
   let tncTexts: Array<{ dir: string; textId: string }> = [];
   if (!codesOnly) {
     console.log('Scanning for TNC (consolidated laws)...');
-    tncTexts = findTextDirectories(tncBaseDir);
+    tncTexts = findTextDirectories(tncBaseDir, walkErrors);
     console.log(`  Found ${tncTexts.length} TNC text directories`);
   }
 
@@ -253,6 +275,7 @@ async function main(): Promise<void> {
   let totalArticles = 0;
   let processed = 0;
   let metadataMissing = 0;
+  const metadataMissingSamples: string[] = [];
 
   for (const { dir, textId } of allTexts) {
     processed++;
@@ -263,15 +286,23 @@ async function main(): Promise<void> {
     // Validity-aware TEXTE_VERSION selection (issue #97: files[0] picked the
     // first alphabetical version file — usually the OLDEST version).
     const metadata = selectTexteVersion(dir, today);
-    if (metadata === null) metadataMissing++;
+    if (metadata === null) {
+      metadataMissing++;
+      if (metadataMissingSamples.length < 10) metadataMissingSamples.push(textId);
+    }
 
-    const articleCount = countArticleFiles(dir);
+    const articleCount = countArticleFiles(dir, walkErrors);
     totalArticles += articleCount;
 
     const title = metadata?.title ?? textId;
     const docId = textIdToDocumentId(textId, title);
     const category = categorizeText(metadata?.nature, title);
-    const status = metadata?.status ?? 'in_force';
+    // No metadata = status UNKNOWN. Fabricating 'in_force' for an unreadable
+    // text mis-states the law (review finding ingest-legi.ts:375).
+    const status = metadata?.status ?? 'unknown';
+    // Deferred repeal (text-level ABROGE_DIFF): in force today, repeal
+    // scheduled at dateFin — record the date (review finding texte-version.ts:69).
+    const repealDate = metadata?.etat === 'ABROGE_DIFF' && metadata.dateFin ? metadata.dateFin : null;
 
     // Classify
     let classification: 'ingestable' | 'inaccessible' | 'metadata_only' = 'ingestable';
@@ -290,6 +321,7 @@ async function main(): Promise<void> {
       identifier: textId,
       url: textIdToUrl(textId),
       status,
+      repeal_date: repealDate,
       category,
       classification,
       classification_reason: classificationReason,
@@ -298,6 +330,17 @@ async function main(): Promise<void> {
       ingestion_date: null,
     });
   }
+
+  // Sanity floors over the walked tree (review finding census.ts:76): the
+  // identity marker certifies provenance, not integrity. A partial/vanished
+  // tree must fail the census, never produce a smaller "valid" one.
+  assertCensusFloors({
+    codes: codeTexts.length,
+    totalTexts: allTexts.length,
+    totalArticleFiles: totalArticles,
+    walkErrors: walkErrors.count,
+    codesOnly,
+  });
 
   // Sort: codes first, then by title
   laws.sort((a, b) => {
@@ -352,7 +395,11 @@ async function main(): Promise<void> {
   console.log(`Ingestable: ${ingestable}`);
   console.log(`Metadata only (no articles): ${metadataOnly}`);
   if (metadataMissing > 0) {
-    console.log(`WARNING: ${metadataMissing} texts had no parseable TEXTE_VERSION metadata (title fell back to the text id).`);
+    console.log(
+      `WARNING: ${metadataMissing} texts had no parseable TEXTE_VERSION metadata ` +
+        `(title fell back to the text id, status recorded as 'unknown'). ` +
+        `Samples: ${metadataMissingSamples.join(', ')}`,
+    );
   }
   console.log(`\nWritten: ${CENSUS_PATH}`);
 }

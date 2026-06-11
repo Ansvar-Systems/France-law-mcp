@@ -98,6 +98,55 @@ export function planAcquisition(refs: LegiArchiveRef[]): AcquisitionPlan {
   return { base, deltas, sourceStamp: deltas.at(-1)?.stamp ?? base.stamp };
 }
 
+/**
+ * Continuity + freshness gate over an acquisition plan (PR #98 review finding
+ * legi-archive.ts:96). DILA publishes deltas DAILY (332 deltas 2025-07-13 to
+ * 2026-06-10, max observed gap 2 days). Two silent-hole classes:
+ *   (a) the delta regex stops matching (index layout change) — the plan
+ *       degrades to base-only and the corpus silently re-pins to an old
+ *       global while check-updates reports "up to date";
+ *   (b) DILA purges old dailies — a rebuild applies base + surviving deltas
+ *       and ships a corpus with a multi-month amendment hole stamped current.
+ * Both surface here as a stale newest stamp or a hole in the chain. Defaults
+ * (7 days = 3.5x the observed worst gap) can be overridden via
+ * LEGI_MAX_DELTA_GAP_DAYS / LEGI_MAX_INDEX_STALENESS_DAYS — a loud,
+ * deliberate operator escape hatch, never a silent fallback.
+ */
+export function assertPlanContinuity(
+  plan: AcquisitionPlan,
+  opts: { now?: Date; maxGapDays?: number; maxStalenessDays?: number } = {},
+): void {
+  const now = opts.now ?? new Date();
+  const maxGapDays = opts.maxGapDays ?? Number(process.env['LEGI_MAX_DELTA_GAP_DAYS'] ?? 7);
+  const maxStalenessDays =
+    opts.maxStalenessDays ?? Number(process.env['LEGI_MAX_INDEX_STALENESS_DAYS'] ?? 7);
+  const dayMs = 24 * 60 * 60 * 1000;
+
+  const stamps = [plan.base.stamp, ...plan.deltas.map((d) => d.stamp)];
+  for (let i = 1; i < stamps.length; i++) {
+    const gapDays = (Date.parse(stampToIso(stamps[i])) - Date.parse(stampToIso(stamps[i - 1]))) / dayMs;
+    if (gapDays > maxGapDays) {
+      throw new Error(
+        `Acquisition plan has a ${gapDays.toFixed(1)}-day hole between ${stamps[i - 1]} and ` +
+          `${stamps[i]} (max gap ${maxGapDays} days; DILA publishes daily). Purged dailies or ` +
+          'index drift — the resulting corpus would silently miss amendments. Set ' +
+          'LEGI_MAX_DELTA_GAP_DAYS to override deliberately.',
+      );
+    }
+  }
+
+  const newest = stamps[stamps.length - 1];
+  const ageDays = (now.getTime() - Date.parse(stampToIso(newest))) / dayMs;
+  if (ageDays > maxStalenessDays) {
+    throw new Error(
+      `Newest archive in the acquisition plan (${newest}) is ${ageDays.toFixed(1)} days old ` +
+        `(max ${maxStalenessDays} days; DILA publishes daily). The index is stale or the ` +
+        'archive-name regex no longer matches the published deltas. Set ' +
+        'LEGI_MAX_INDEX_STALENESS_DAYS to override deliberately.',
+    );
+  }
+}
+
 /** Newest stamp across all published archives — what check-updates compares against. */
 export function latestStamp(refs: LegiArchiveRef[]): string {
   if (refs.length === 0) throw new Error('latestStamp: empty archive list');

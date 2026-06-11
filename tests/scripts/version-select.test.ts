@@ -142,15 +142,35 @@ describe('selectArticles (the dedupe that replaced keep-longest)', () => {
     expect(selected.map((a) => a.id)).toEqual(['a', 'b-new']);
   });
 
-  it('tie-breaks identical windows by longer content (legacy behavior, now LAST resort)', () => {
+  it('tie-breaks identical windows by HIGHER LEGIARTI id, even when the higher id is SHORTER', () => {
+    // Same-day duplicate versions are typically a rectificatif/correction
+    // pair: the later-allocated (higher) LEGIARTI id is the corrected text
+    // and may well be shorter. Content length is the keep-longest trap the
+    // PR exists to remove — it must not decide ambiguous cases.
     const { selected } = selectArticles(
       [
-        art({ id: 'short', dateDebut: '2024-01-01', content: 'ab' }),
-        art({ id: 'long', dateDebut: '2024-01-01', content: 'abcdef' }),
+        art({ id: 'LEGIARTI000000000001', dateDebut: '2024-01-01', content: 'texte original plus long' }),
+        art({ id: 'LEGIARTI000000000002', dateDebut: '2024-01-01', content: 'texte rectifie' }),
       ],
       TODAY,
     );
-    expect(selected.map((a) => a.id)).toEqual(['long']);
+    expect(selected.map((a) => a.id)).toEqual(['LEGIARTI000000000002']);
+  });
+});
+
+describe('selectCurrentOrLatest never-in-force fallback guard', () => {
+  it('does not pick a never-in-force (DATE_DEBUT 2999 / future) version as the final metadata of a repealed text', () => {
+    const versions = [
+      { id: 'initial', dateDebut: '1990-01-05', dateFin: '2001-06-01' },
+      { id: 'final-abroge', dateDebut: '2001-06-01', dateFin: '2018-10-01' },
+      { id: 'mort-ne', dateDebut: '2999-01-01' },
+    ];
+    expect(selectCurrentOrLatest(versions, TODAY)?.id).toBe('final-abroge');
+  });
+
+  it('still returns a never-in-force version when no version ever entered force', () => {
+    const versions = [{ id: 'only-future', dateDebut: '2990-01-01' }];
+    expect(selectCurrentOrLatest(versions, TODAY)?.id).toBe('only-future');
   });
 });
 

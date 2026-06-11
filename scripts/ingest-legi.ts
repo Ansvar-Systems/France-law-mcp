@@ -38,6 +38,7 @@ import { resolveCorpus, type ExtractIdentity } from './lib/legi-acquire.js';
 import { selectArticles } from './lib/version-select.js';
 import { resolveTextDir } from './lib/text-path.js';
 import { classifyZeroProvisionText, type ZeroProvisionStats } from './lib/ingest-outcome.js';
+import { assertOutOfForceCap } from './lib/corpus-gates.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -56,6 +57,8 @@ interface CensusLaw {
   identifier: string;        // LEGITEXT or JORFTEXT ID
   url: string | null;
   status: string;
+  /** Scheduled repeal date for deferred repeals (text-level ABROGE_DIFF). */
+  repeal_date?: string | null;
   category: string;
   classification: string;
   classification_reason: string;
@@ -176,6 +179,9 @@ function parseTextDirectory(textDir: string, censusEntry: CensusLaw, today: stri
   let fileErrors = 0;
   let parseErrors = 0;
   let articleNodesSeen = 0;
+  let servableVersions = 0;
+  let missingNumVersions = 0;
+  let emptyBodyVersions = 0;
 
   for (const xmlFile of articleFiles) {
     try {
@@ -183,6 +189,9 @@ function parseTextDirectory(textDir: string, censusEntry: CensusLaw, today: stri
       const result = parseLegiXml(xmlContent);
       articleNodesSeen += result.articleNodesSeen;
       parseErrors += result.errors.length;
+      servableVersions += result.servableVersions;
+      missingNumVersions += result.missingNumVersions;
+      emptyBodyVersions += result.emptyBodyVersions;
       candidates.push(...result.articles);
     } catch {
       fileErrors++;
@@ -191,8 +200,8 @@ function parseTextDirectory(textDir: string, censusEntry: CensusLaw, today: stri
 
   // Validity-aware version selection per article number (issue #97: the old
   // keep-longest dedupe could serve an outdated longer version forever).
-  const nonEmpty = candidates.filter((a) => a.content.trim().length > 0);
-  const { selected, droppedExpiredNums } = selectArticles(nonEmpty, today);
+  // candidates are already guaranteed non-empty with a NUM by the parser.
+  const { selected, droppedExpiredNums } = selectArticles(candidates, today);
 
   const provisions: ParsedProvision[] = selected.map((article) => ({
     provision_ref: `art${article.normalizedNum}`,
@@ -217,8 +226,10 @@ function parseTextDirectory(textDir: string, censusEntry: CensusLaw, today: stri
       fileErrors,
       parseErrors,
       articleNodesSeen,
-      vigueurVersions: candidates.length,
-      nonEmptyVigueurVersions: nonEmpty.length,
+      servableVersions,
+      missingNumVersions,
+      emptyBodyVersions,
+      selectableVersions: candidates.length,
       expiredOnlyNums: droppedExpiredNums.length,
     },
   };
@@ -228,15 +239,25 @@ function parseTextDirectory(textDir: string, censusEntry: CensusLaw, today: stri
 // Seed writers
 // ---------------------------------------------------------------------------
 
+const SEED_STATUSES = new Set(['in_force', 'amended', 'repealed', 'not_yet_in_force']);
+
 function writeSeed(law: ParsedLaw, identity: ExtractIdentity, retrievedAt: string): void {
   fs.mkdirSync(SEED_DIR, { recursive: true });
+  // Status is a FACT carried through from the census — never coerced. An
+  // unexpected value here means the census/texte-version contract drifted.
+  if (!SEED_STATUSES.has(law.status)) {
+    throw new Error(
+      `Text ${law.documentId} carries unexpected status '${law.status}' — refusing to coerce it ` +
+        'into the seed schema (in_force/amended/repealed/not_yet_in_force).',
+    );
+  }
   const seed = {
     id: law.documentId,
     type: 'statute',
     title: law.title,
     title_en: law.titleEn,
     short_name: law.shortName,
-    status: law.status === 'repealed' ? 'repealed' : law.status === 'amended' ? 'amended' : 'in_force',
+    status: law.status,
     url: law.url,
     description: law.description,
     provisions: law.provisions,
@@ -365,7 +386,8 @@ async function main(): Promise<void> {
   // Filter to ingestable texts.
   // Default: codes + lois + ordonnances (primary legislation)
   // --codes-only: only codes
-  let targets = census.laws.filter(l => l.classification === 'ingestable');
+  const ingestable = census.laws.filter(l => l.classification === 'ingestable');
+  let targets = ingestable;
   if (codesOnly) {
     targets = targets.filter(l => l.category === 'code');
     console.log(`Codes-only mode: ${targets.length} codes`);
@@ -380,10 +402,50 @@ async function main(): Promise<void> {
     console.log(`Limited to ${limit} texts`);
   }
 
+  if (targets.length === 0) {
+    console.error('No ingestion targets after filtering — refusing to run (a zero-target run would only shrink state).');
+    process.exit(1);
+  }
+
+  // Out-of-scope ingestable texts are enumerated, never silent (review
+  // finding ingest-legi.ts:375). 'unknown nature' = census could not parse
+  // any TEXTE_VERSION metadata, so categorization fell back to 'other'.
+  const targetIds = new Set(targets.map(t => t.id));
+  const outOfScope = ingestable.filter(l => !targetIds.has(l.id));
+  if (outOfScope.length > 0) {
+    const byCategory = new Map<string, number>();
+    for (const l of outOfScope) {
+      byCategory.set(l.category, (byCategory.get(l.category) ?? 0) + 1);
+    }
+    const breakdown = [...byCategory.entries()].sort((a, b) => b[1] - a[1]).map(([c, n]) => `${c}: ${n}`).join(', ');
+    console.log(`Out-of-scope ingestable texts (not primary legislation): ${outOfScope.length} (${breakdown})`);
+    const unknownNature = outOfScope.filter(
+      l => l.status === 'unknown' || l.classification_reason.includes('no parseable TEXTE_VERSION'),
+    );
+    if (unknownNature.length > 0) {
+      const samples = unknownNature.slice(0, 10).map(l => l.identifier).join(', ');
+      console.log(
+        `  of which UNKNOWN NATURE (no parseable TEXTE_VERSION metadata — excluded by category ` +
+          `fallback, not by a legal decision): ${unknownNature.length}. Samples: ${samples}`,
+      );
+    }
+  }
+
   console.log(`Texts to ingest: ${targets.length}\n`);
 
-  // Clear old seed files (except eu-references.json)
-  if (fs.existsSync(SEED_DIR)) {
+  // Seed-clearing scope (review finding ingest-legi.ts:386): a partial-scope
+  // run (--limit / --codes-only) must NEVER clear out-of-scope seeds — it
+  // rewrites only its own targets. Only a full run clears everything.
+  const partialRun = codesOnly || limit !== undefined;
+  fs.mkdirSync(SEED_DIR, { recursive: true });
+  if (partialRun) {
+    console.log('Partial-scope run: existing seeds are preserved; only selected texts are rewritten.');
+    for (const t of targets) {
+      fs.rmSync(path.join(SEED_DIR, `${t.id}.json`), { force: true });
+      t.ingested = false;
+      t.ingestion_date = null;
+    }
+  } else {
     const oldFiles = fs.readdirSync(SEED_DIR).filter(f =>
       f.endsWith('.json') && f !== 'eu-references.json'
     );
@@ -391,8 +453,13 @@ async function main(): Promise<void> {
       fs.unlinkSync(path.join(SEED_DIR, f));
     }
     console.log(`Cleared ${oldFiles.length} old seed files`);
+    // All seeds are gone — no census entry may keep claiming ingested=true
+    // (the build gate cross-checks census claims against seed files).
+    for (const l of census.laws) {
+      l.ingested = false;
+      l.ingestion_date = null;
+    }
   }
-  fs.mkdirSync(SEED_DIR, { recursive: true });
 
   // Ingest each text
   const results: Array<{ id: string; provisions: number }> = [];
@@ -400,8 +467,9 @@ async function main(): Promise<void> {
   const outOfForce: DroppedTarget[] = [];
   let totalProvisions = 0;
   let processed = 0;
-  let totalFileErrors = 0;
   let totalExpiredNums = 0;
+  let totalMissingNum = 0;
+  let totalEmptyBody = 0;
   const retrievedAt = new Date().toISOString();
 
   for (const entry of targets) {
@@ -423,8 +491,23 @@ async function main(): Promise<void> {
     }
 
     const law = parseTextDirectory(textDir, entry, today);
-    totalFileErrors += law.stats.fileErrors;
     totalExpiredNums += law.stats.expiredOnlyNums;
+    totalMissingNum += law.stats.missingNumVersions;
+    totalEmptyBody += law.stats.emptyBodyVersions;
+
+    // Parse/read failures are data loss even when OTHER articles of the text
+    // succeeded — a seed written over them would silently miss law. This also
+    // makes the parser's unknown-ETAT errors fail loud on every path.
+    if (law.stats.fileErrors > 0 || law.stats.parseErrors > 0) {
+      dropped.push({
+        id: entry.id,
+        identifier: entry.identifier,
+        reason:
+          `parse failures (file errors: ${law.stats.fileErrors}, article errors: ` +
+          `${law.stats.parseErrors}) — seed NOT written, content would be incomplete`,
+      });
+      continue;
+    }
 
     if (law.provisions.length === 0) {
       // Article-level evidence decides whether this is an EXPECTED exclusion
@@ -455,12 +538,25 @@ async function main(): Promise<void> {
     }
   }
 
+  // Accounting invariant: every target landed in exactly one bucket.
+  if (results.length + outOfForce.length + dropped.length !== targets.length) {
+    console.error(
+      `INTERNAL ERROR: target accounting does not add up (${results.length} ingested + ` +
+        `${outOfForce.length} out of force + ${dropped.length} dropped != ${targets.length} targets).`,
+    );
+    process.exit(1);
+  }
+
   // Write EU references and manual seeds
   writeEuReferences();
   writeManualSeeds();
 
-  // Update census with ingestion results
-  census.summary.total_provisions = totalProvisions;
+  // Update census with ingestion results. total_provisions is recomputed
+  // from EVERY ingested entry (not just this run's targets) so partial-scope
+  // runs do not clobber the corpus-wide total (review finding ingest-legi.ts:386).
+  census.summary.total_provisions = census.laws
+    .filter(l => l.ingested)
+    .reduce((sum, l) => sum + l.provision_count, 0);
   fs.writeFileSync(CENSUS_PATH, JSON.stringify(census, null, 2), 'utf-8');
   console.log(`\nUpdated census: ${CENSUS_PATH}`);
 
@@ -471,9 +567,10 @@ async function main(): Promise<void> {
   console.log(`Ingested: ${results.length} texts with provisions`);
   console.log(`Excluded as out of force: ${outOfForce.length}`);
   console.log(`Dropped (anomalies): ${dropped.length}`);
-  console.log(`Total provisions: ${totalProvisions}`);
-  console.log(`Article files unreadable/unparseable: ${totalFileErrors}`);
+  console.log(`Total provisions (this run): ${totalProvisions}`);
   console.log(`Article numbers excluded (no in-force version): ${totalExpiredNums}`);
+  console.log(`Servable versions skipped for an empty body: ${totalEmptyBody}`);
+  console.log(`Servable versions skipped for a missing NUM: ${totalMissingNum}`);
 
   // Top 10 largest
   results.sort((a, b) => b.provisions - a.provisions);
@@ -491,6 +588,17 @@ async function main(): Promise<void> {
     for (const d of outOfForce) {
       console.log(`  ${d.id} (${d.identifier}): ${d.reason}`);
     }
+  }
+
+  // Corpus-wide cap on out-of-force exclusions (review finding
+  // ingest-legi.ts:489): per-text classification routes systemic drift
+  // through the "expected" branch one text at a time; only an aggregate cap
+  // catches it. Observed real ratio ~6.3%, cap 15%.
+  try {
+    assertOutOfForceCap({ targetCount: targets.length, outOfForceCount: outOfForce.length });
+  } catch (err) {
+    console.error(`\n${(err as Error).message}`);
+    process.exit(1);
   }
 
   // FAIL LOUD on partial ingestion (issue #97 / no-silent-fallbacks): every
