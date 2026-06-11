@@ -12,25 +12,35 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le nombre des membres des chambres de commerce est déterminé par le décret qui les institue. Il peut être modifié par des décrets ultérieurs.Ce nombre ne peur être inférieur à neuf, ni excéder vingt et un, sauf à Paris, où il pourra s'élever jusqu'à trente-six."
+      "content": "Le nombre des membres des chambres de commerce est déterminé par le décret qui les institue. Il peut être modifié par des décrets ultérieurs.Ce nombre ne peur être inférieur à neuf, ni excéder vingt et un, sauf à Paris, où il pourra s'élever jusqu'à trente-six.",
+      "valid_from": "1898-04-19"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Lorsqu'une chambre de commerce se trouve, par l'effet des vacances survenues pour une cause quelconque, réduite aux trois quarts de ses membres, il est, dans le délai de deux mois à dater de la dernière vacance, procédé à des élections complémentaires.Les membres nommés dans une élection complémentaire ne demeurent en fonctions que pendant la durée du mandat qui avait été confié à leurs prédécesseurs."
+      "content": "Lorsqu'une chambre de commerce se trouve, par l'effet des vacances survenues pour une cause quelconque, réduite aux trois quarts de ses membres, il est, dans le délai de deux mois à dater de la dernière vacance, procédé à des élections complémentaires.Les membres nommés dans une élection complémentaire ne demeurent en fonctions que pendant la durée du mandat qui avait été confié à leurs prédécesseurs.",
+      "valid_from": "1951-05-29"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les chambres de commerce ne peuvent délibérer que si le nombre des membres présents dépasse la moitié de celui des membres en exercice.Les délibérations sont prises à la majorité absolue des votants.En cas de partage, la voix du président est prépondérante."
+      "content": "Les chambres de commerce ne peuvent délibérer que si le nombre des membres présents dépasse la moitié de celui des membres en exercice.Les délibérations sont prises à la majorité absolue des votants.En cas de partage, la voix du président est prépondérante.",
+      "valid_from": "1898-04-19"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "La présente loi est applicable à Mayotte."
+      "content": "La présente loi est applicable à Mayotte.",
+      "valid_from": "2005-02-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "L'article 1er est applicable à l'exploitation des appareils mentionnés au I de l'article L. 34-11 du code des postes et des communications électroniques installés depuis le 1er février 2019.Les opérateurs qui, à la date de publication de la présente loi, exploitent des appareils soumis à autorisation en vertu du même article L. 34-11 disposent d'un délai de deux mois pour déposer la demande d'autorisation préalable prévue audit article L. 34-11. Ce délai court à compter de la date de publication la plus tardive de l'arrêté mentionné au I ou du décret mentionné au II du même article L. 34-11, et au plus tard à compter de la fin du deuxième mois suivant la publication de la présente loi.L'arrêté mentionné au I et le décret mentionné au II du même article L. 34-11 sont publiés au plus tard deux mois à compter de la publication de la présente loi."
+      "content": "L'article 1er est applicable à l'exploitation des appareils mentionnés au I de l'article L. 34-11 du code des postes et des communications électroniques installés depuis le 1er février 2019.Les opérateurs qui, à la date de publication de la présente loi, exploitent des appareils soumis à autorisation en vertu du même article L. 34-11 disposent d'un délai de deux mois pour déposer la demande d'autorisation préalable prévue audit article L. 34-11. Ce délai court à compter de la date de publication la plus tardive de l'arrêté mentionné au I ou du décret mentionné au II du même article L. 34-11, et au plus tard à compter de la fin du deuxième mois suivant la publication de la présente loi.L'arrêté mentionné au I et le décret mentionné au II du même article L. 34-11 sont publiés au plus tard deux mois à compter de la publication de la présente loi.",
+      "valid_from": "2019-08-03"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "A compter du 1er juillet 2020, le Gouvernement remet au Parlement un rapport annuel sur l'application du régime d'autorisation préalable mis en place par la présente loi.Ce rapport analyse les impacts de ce régime sur les opérateurs et l'ensemble de leurs prestataires et sous-traitants, sur le rythme et le coût des déploiements des équipements de quatrième et cinquième générations sur l'ensemble du territoire, sur l'accès des usagers aux services de communications électroniques rendus grâce aux réseaux radioélectriques mobiles et évalue le nombre d'appareils n'ayant pas pu être installés ou ayant dû être retirés à la suite d'une décision de refus.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "A compter du 1er juillet 2020, le Gouvernement remet au Parlement un rapport annuel sur l'application du régime d'autorisation préalable mis en place par la présente loi.Ce rapport analyse les impacts de ce régime sur les opérateurs et l'ensemble de leurs prestataires et sous-traitants, sur le rythme et le coût des déploiements des équipements de quatrième et cinquième générations sur l'ensemble du territoire, sur l'accès des usagers aux services de communications électroniques rendus grâce aux réseaux radioélectriques mobiles et évalue le nombre d'appareils n'ayant pas pu être installés ou ayant dû être retirés à la suite d'une décision de refus.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2019-08-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

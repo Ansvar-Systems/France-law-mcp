@@ -12,331 +12,392 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions suivantes fixent le statut du personnel des cadres actifs de l'armée de l'air.\n\nLe personnel militaire des cadres actifs de l'armée de l'air se compose d'hommes de troupe encadrés par des officiers et des sous-officiers.\n\nLa hiérarchie militaire des cadres actifs de l'armée de l'air est donnée ci-dessous :\n\nHommes de troupe.\n\ncenter\n\nSoldat.\n\nCaporal.\n\nCaporal-chef.\n\nSous-officiers.\n\ncenter\n\nSergent.\n\nSergent-chef.\n\nAdjudant.\n\nAdjudant-chef.\n\nOfficiers.\n\ncenter\n\nSous-lieutenant.\n\nLieutenant.\n\nCapitaine.\n\nCommandant.\n\nLieutenant-colonel.\n\nColonel.\n\nGénéral de brigade.\n\nGénéral de division."
+      "content": "Les dispositions suivantes fixent le statut du personnel des cadres actifs de l'armée de l'air.\n\nLe personnel militaire des cadres actifs de l'armée de l'air se compose d'hommes de troupe encadrés par des officiers et des sous-officiers.\n\nLa hiérarchie militaire des cadres actifs de l'armée de l'air est donnée ci-dessous :\n\nHommes de troupe.\n\ncenter\n\nSoldat.\n\nCaporal.\n\nCaporal-chef.\n\nSous-officiers.\n\ncenter\n\nSergent.\n\nSergent-chef.\n\nAdjudant.\n\nAdjudant-chef.\n\nOfficiers.\n\ncenter\n\nSous-lieutenant.\n\nLieutenant.\n\nCapitaine.\n\nCommandant.\n\nLieutenant-colonel.\n\nColonel.\n\nGénéral de brigade.\n\nGénéral de division.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Nul ne peut être nommé caporal s'il n'a servi au moins cinq mois comme soldat.\n\nCette durée peut toutefois être réduite à trois mois pour les soldats remplissant l'une des conditions suivantes :\n\n1° Les soldats ayant acquis un brevet donnant accès dans le personnel navigant ou dans le personnel spécialiste breveté ;\n\n2° Les soldats pourvus d'un des brevets de préparation au service de l'armée de l'air ;\n\n3° Les soldats qui, n'ayant pas réussi au concours du brevet de préparation aérienne militaire supérieure, ont cependant obtenu des notes dont la moyenne dépasse un nombre fixé chaque année par le ministre de l'air ;\n\n4° Les soldats ayant suivi le peloton préparatoire aux pelotons d'élèves officiers de réserve.\n\nPeuvent être nommés caporaux-chefs les caporaux qui comptent trois mois de service effectif dans leur grade.\n\nLes soldats remplissant l'une des conditions fixées au deuxième alinéa du présent article peuvent cependant, dans la limite des places disponibles, être nommés directement caporaux-chefs."
+      "content": "Nul ne peut être nommé caporal s'il n'a servi au moins cinq mois comme soldat.\n\nCette durée peut toutefois être réduite à trois mois pour les soldats remplissant l'une des conditions suivantes :\n\n1° Les soldats ayant acquis un brevet donnant accès dans le personnel navigant ou dans le personnel spécialiste breveté ;\n\n2° Les soldats pourvus d'un des brevets de préparation au service de l'armée de l'air ;\n\n3° Les soldats qui, n'ayant pas réussi au concours du brevet de préparation aérienne militaire supérieure, ont cependant obtenu des notes dont la moyenne dépasse un nombre fixé chaque année par le ministre de l'air ;\n\n4° Les soldats ayant suivi le peloton préparatoire aux pelotons d'élèves officiers de réserve.\n\nPeuvent être nommés caporaux-chefs les caporaux qui comptent trois mois de service effectif dans leur grade.\n\nLes soldats remplissant l'une des conditions fixées au deuxième alinéa du présent article peuvent cependant, dans la limite des places disponibles, être nommés directement caporaux-chefs.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Nul ne peut être sergent s'il n'a accompli une année de service actif et s'il ne compte au moins trois mois de service comme caporal-chef ou six mois comme caporal.\n\nToutefois, les militaires de l'armée de l'air qui sortent d'un peloton d'élèves officiers de réserve peuvent être nommés sergents sans passage préalable par le ou les grades inférieurs.\n\nIl en est de même pour les militaires de l'armée de l'air ayant accompli six mois de service actif et titulaires d'un des brevets donnant accès dans le personnel navigant."
+      "content": "Nul ne peut être sergent s'il n'a accompli une année de service actif et s'il ne compte au moins trois mois de service comme caporal-chef ou six mois comme caporal.\n\nToutefois, les militaires de l'armée de l'air qui sortent d'un peloton d'élèves officiers de réserve peuvent être nommés sergents sans passage préalable par le ou les grades inférieurs.\n\nIl en est de même pour les militaires de l'armée de l'air ayant accompli six mois de service actif et titulaires d'un des brevets donnant accès dans le personnel navigant.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les différents corps de sous-officiers de carrière de l'armée de l'air sont les suivants :\n\n- le corps des sous-officiers du personnel navigant ;\n\n- le corps des sous-officiers du personnel non navigant spécialiste ;\n\n- le corps des sous-officiers du personnel non navigant du service général.\n\nDans chacun de ces corps, il peut être créé différentes spécialités."
+      "content": "Les différents corps de sous-officiers de carrière de l'armée de l'air sont les suivants :\n\n- le corps des sous-officiers du personnel navigant ;\n\n- le corps des sous-officiers du personnel non navigant spécialiste ;\n\n- le corps des sous-officiers du personnel non navigant du service général.\n\nDans chacun de ces corps, il peut être créé différentes spécialités.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le statut des différents corps de sous-officiers de carrière de l'armée de l'air est provisoirement celui fixé par la loi du 30 mars 1928 sur le statut des sous-officiers de carrière de l'armée de terre, compte tenu des dispositions suivantes :\n\nLes promotions au choix dans le grade se sergent-chef et dans les grades supérieurs ne peuvent être prononcées qu'en faveur du personnel figurant sur une liste d'aptitude sur laquelle il n'est inscrit qu'après avoir subi avec succès un examen dont les épreuves sont particulières à chacun des corps de sous-officiers ;\n\nLes sous-officiers du personnel navigant perçoivent une solde à l'air et, le cas échéant, une prime pour services aériens exceptionnels, dans les conditions fixées par l'article 41 de la présente loi.\n\nLeur aptitude physique aux emplois du personnel navigant fait l'objet d'un examen médical périodique dont les modalités sont fixées par arrêté."
+      "content": "Le statut des différents corps de sous-officiers de carrière de l'armée de l'air est provisoirement celui fixé par la loi du 30 mars 1928 sur le statut des sous-officiers de carrière de l'armée de terre, compte tenu des dispositions suivantes :\n\nLes promotions au choix dans le grade se sergent-chef et dans les grades supérieurs ne peuvent être prononcées qu'en faveur du personnel figurant sur une liste d'aptitude sur laquelle il n'est inscrit qu'après avoir subi avec succès un examen dont les épreuves sont particulières à chacun des corps de sous-officiers ;\n\nLes sous-officiers du personnel navigant perçoivent une solde à l'air et, le cas échéant, une prime pour services aériens exceptionnels, dans les conditions fixées par l'article 41 de la présente loi.\n\nLeur aptitude physique aux emplois du personnel navigant fait l'objet d'un examen médical périodique dont les modalités sont fixées par arrêté.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les sous-officiers du corps des sous-officiers du personnel navigant proviennent en principe du personnel recruté par voie de concours et formé à l'école des sous-officiers du personnel navigant de l'armée de l'air.\n\nLes sous-officiers du corps des sous-officiers du personnel non navigant spécialiste proviennent en principe du personnel recruté par voie de concours et formé à l'école d'apprentis mécaniciens de l'armée de l'air.\n\nLes sous-officiers appartenant au corps des sous-officiers du personnel navigant peuvent, dans des conditions fixées par décret, être versés dans un corps des sous-officiers du personnel non navigant.\n\nLes sous-officiers appartenant au corps des sous-officiers du personnel non navigant spécialiste peuvent, dans des conditions également fixées par décret, être versés dans le corps des sous-officiers du personnel non navigant du service général."
+      "content": "Les sous-officiers du corps des sous-officiers du personnel navigant proviennent en principe du personnel recruté par voie de concours et formé à l'école des sous-officiers du personnel navigant de l'armée de l'air.\n\nLes sous-officiers du corps des sous-officiers du personnel non navigant spécialiste proviennent en principe du personnel recruté par voie de concours et formé à l'école d'apprentis mécaniciens de l'armée de l'air.\n\nLes sous-officiers appartenant au corps des sous-officiers du personnel navigant peuvent, dans des conditions fixées par décret, être versés dans un corps des sous-officiers du personnel non navigant.\n\nLes sous-officiers appartenant au corps des sous-officiers du personnel non navigant spécialiste peuvent, dans des conditions également fixées par décret, être versés dans le corps des sous-officiers du personnel non navigant du service général.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "L'avancement des sous-officiers de carrière de l'armée de l'air a lieu dans chaque corps de sous-officiers."
+      "content": "L'avancement des sous-officiers de carrière de l'armée de l'air a lieu dans chaque corps de sous-officiers.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les officiers de l'armée de l'air se répartissent en plusieurs corps :\n\n- le corps des officiers de l'air comprenant un cadre navigant et un cadre sédentaire ;\n\n- le corps des officiers mécaniciens de l'air ;\n\n- le corps des officiers des services administratifs de l'air."
+      "content": "Les officiers de l'armée de l'air se répartissent en plusieurs corps :\n\n- le corps des officiers de l'air comprenant un cadre navigant et un cadre sédentaire ;\n\n- le corps des officiers mécaniciens de l'air ;\n\n- le corps des officiers des services administratifs de l'air.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les officiers de l'air des cadres navigant et sédentaire sont seuls qualifiés pour exercer le commandement des formations, établissements ou services de l'armée de l'air."
+      "content": "Les officiers de l'air des cadres navigant et sédentaire sont seuls qualifiés pour exercer le commandement des formations, établissements ou services de l'armée de l'air.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "L'état des officiers de l'armée de l'air est celui défini par la loi du 19 mai 1831, sur l'état des officiers ainsi que par les lois subséquentes et en particulier la loi du 26 décembre 1925."
+      "content": "L'état des officiers de l'armée de l'air est celui défini par la loi du 19 mai 1831, sur l'état des officiers ainsi que par les lois subséquentes et en particulier la loi du 26 décembre 1925.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Le cadre des officiers généraux forme l'état-major de l'armée de l'air et se divise en deux sections :\n\nLa première section comprend :\n\n- les généraux en activité et en disponibilité ;\n\nLa seconde section comprend :\n\n- les généraux atteints par la limite d'âge ;\n\n- les généraux ne pouvant être maintenus dans le service pour raisons de santé ;\n\n- les généraux ayant bénéficié d'un des congés du personnel navigant prévus par la loi du 30 mars 1928, relative au statut du personnel navigant et par l'article 55 de la présente loi."
+      "content": "Le cadre des officiers généraux forme l'état-major de l'armée de l'air et se divise en deux sections :\n\nLa première section comprend :\n\n- les généraux en activité et en disponibilité ;\n\nLa seconde section comprend :\n\n- les généraux atteints par la limite d'âge ;\n\n- les généraux ne pouvant être maintenus dans le service pour raisons de santé ;\n\n- les généraux ayant bénéficié d'un des congés du personnel navigant prévus par la loi du 30 mars 1928, relative au statut du personnel navigant et par l'article 55 de la présente loi.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "GRADES\n\nCORPS DES OFFICIERS DE L'AIR\n\nCORPS\n\ndes officiers mécaniciens.\n\nCORPS\n\ndes officiers des services administratifs.\n\nCadre navigant.\n\nCadre sédentaire.\n\n2\n\nGénéral de division\n\n57\n\n*\n\n*\n\n*\n\nGénéral de brigade\n\n55\n\n*\n\n62\n\n*\n\nColonel\n\n54\n\n59\n\n61\n\n*\n\nLieutenant-colonel\n\n53\n\n58\n\n60\n\n60\n\nCommandant\n\n51\n\n56\n\n59\n\n59\n\nCapitaine\n\n48\n\n53\n\n58\n\n58\n\nLieutenant ou sous-lieutenant\n\n47\n\n52\n\n56\n\n56\n\n1\n\n1\n\n1"
+      "content": "GRADES\n\nCORPS DES OFFICIERS DE L'AIR\n\nCORPS\n\ndes officiers mécaniciens.\n\nCORPS\n\ndes officiers des services administratifs.\n\nCadre navigant.\n\nCadre sédentaire.\n\n2\n\nGénéral de division\n\n57\n\n*\n\n*\n\n*\n\nGénéral de brigade\n\n55\n\n*\n\n62\n\n*\n\nColonel\n\n54\n\n59\n\n61\n\n*\n\nLieutenant-colonel\n\n53\n\n58\n\n60\n\n60\n\nCommandant\n\n51\n\n56\n\n59\n\n59\n\nCapitaine\n\n48\n\n53\n\n58\n\n58\n\nLieutenant ou sous-lieutenant\n\n47\n\n52\n\n56\n\n56\n\n1\n\n1\n\n1",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "L'avancement dans l'armée de l'air aura lieu dans chaque corps d'officiers."
+      "content": "L'avancement dans l'armée de l'air aura lieu dans chaque corps d'officiers.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Nul ne peut être nommé sous-lieutenant s'il ne remplit au moins une des conditions suivantes :\n\n1° Avoir servi huit ans dans les cadres actifs de l'armée de l'air, dont deux ans au moins dans le grade d'adjudant ou d'adjudant-chef et avoir satisfait à certaines conditions d'aptitude fixées par le ministre de l'air et obtenu en ce qui concerne les corps des officiers de l'air et des officiers mécaniciens de l'air les brevets correspondant respectivement à ces corps ;\n\n2° Avoir été admis à l'école de l'air à la suite d'un concours public et sous réserve d'avoir contracté un engagement volontaire de huit ans dans les conditions fixées par l'artile 30 de la loi du 31 mars 1928, sur le recrutement de l'armée, avoir suivi les cours de ladite école et avoir satisfait aux examens de sortie ;\n\n3° Avoir été déclaré admissible dans les services publics à la suite des examens de sortie de l'école polytechnique ;\n\n4° Avoir été admis, après deux ans de grade au moins de sous-officier ou de sous-lieutenant de réserve de l'armée de l'air à l'école de l'air (cours des sous-officiers élèves officiers des différents corps) et avoir satisfait aux examens de sortie de cette école.\n\nLe temps passé dans le grade de caporal-chef au delà de la durée légale du service compte, dans la limite de dix-huit mois, dans les deux ans de grade de sous-officiers exigés pour l'entrée à l'école visée au précédent alinéa ;\n\n5° Ayant été admis dans l'une des écoles suivantes :\n\n1° Ecole nationale supérieure d'aéronautique ;\n\n2° Ecole normale supérieure (section sciences) ;\n\n3° Ecole centrale des arts et manufactures,\n\net ayant satisfait aux examens de fin de cours, avoir acquis le grade de sous-lieutenant de réserve dans les conditions de l'article 31 de la loi du 31 mars 1928 sur le recrutement de l'armée et avoir accompli en cette qualité une année de service dans l'armée de l'air.\n\nLes jeunes gens qui auront été nommés sous-lieutenants dans les conditions du précédent alinéa recevront, au moment de leur admission dans les cadres acifs, un rappel d'ancienneté correpondant au temps de service accompli par eux dans le grade de sous-lieutenant de réserve ;\n\n6° Sous réserve d'être âgé de moins de trente ans, avoir été officier dans les cadres actifs d'un des différents corps de l'armée de l'air et avoir donné sa démission depuis moins de trois ans, être en possession du grade de sous-lieutenant de réserve et avoir accompli en cette qualité depuis sa démission un stage de deux mois, dans une formation.\n\nLa proportion des sous-lieutenants de chaque catégorie à admettre dans les différents corps d'officiers est fixée annuellement par le ministre de l'air sous réserve des dispositions spéciales à chacun de ces corps."
+      "content": "Nul ne peut être nommé sous-lieutenant s'il ne remplit au moins une des conditions suivantes :\n\n1° Avoir servi huit ans dans les cadres actifs de l'armée de l'air, dont deux ans au moins dans le grade d'adjudant ou d'adjudant-chef et avoir satisfait à certaines conditions d'aptitude fixées par le ministre de l'air et obtenu en ce qui concerne les corps des officiers de l'air et des officiers mécaniciens de l'air les brevets correspondant respectivement à ces corps ;\n\n2° Avoir été admis à l'école de l'air à la suite d'un concours public et sous réserve d'avoir contracté un engagement volontaire de huit ans dans les conditions fixées par l'artile 30 de la loi du 31 mars 1928, sur le recrutement de l'armée, avoir suivi les cours de ladite école et avoir satisfait aux examens de sortie ;\n\n3° Avoir été déclaré admissible dans les services publics à la suite des examens de sortie de l'école polytechnique ;\n\n4° Avoir été admis, après deux ans de grade au moins de sous-officier ou de sous-lieutenant de réserve de l'armée de l'air à l'école de l'air (cours des sous-officiers élèves officiers des différents corps) et avoir satisfait aux examens de sortie de cette école.\n\nLe temps passé dans le grade de caporal-chef au delà de la durée légale du service compte, dans la limite de dix-huit mois, dans les deux ans de grade de sous-officiers exigés pour l'entrée à l'école visée au précédent alinéa ;\n\n5° Ayant été admis dans l'une des écoles suivantes :\n\n1° Ecole nationale supérieure d'aéronautique ;\n\n2° Ecole normale supérieure (section sciences) ;\n\n3° Ecole centrale des arts et manufactures,\n\net ayant satisfait aux examens de fin de cours, avoir acquis le grade de sous-lieutenant de réserve dans les conditions de l'article 31 de la loi du 31 mars 1928 sur le recrutement de l'armée et avoir accompli en cette qualité une année de service dans l'armée de l'air.\n\nLes jeunes gens qui auront été nommés sous-lieutenants dans les conditions du précédent alinéa recevront, au moment de leur admission dans les cadres acifs, un rappel d'ancienneté correpondant au temps de service accompli par eux dans le grade de sous-lieutenant de réserve ;\n\n6° Sous réserve d'être âgé de moins de trente ans, avoir été officier dans les cadres actifs d'un des différents corps de l'armée de l'air et avoir donné sa démission depuis moins de trois ans, être en possession du grade de sous-lieutenant de réserve et avoir accompli en cette qualité depuis sa démission un stage de deux mois, dans une formation.\n\nLa proportion des sous-lieutenants de chaque catégorie à admettre dans les différents corps d'officiers est fixée annuellement par le ministre de l'air sous réserve des dispositions spéciales à chacun de ces corps.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les sous-lieutenants des différents corps de l'armée de l'air nommés à la même date prennent rang dans ces corps et par catégorie dans l'ordre suivant :\n\n1° Sous-lieutenants provenant du rang ;\n\n2° Sous-lieutenants provenant de l'école polytechnique ;\n\n3° Sous-lieutenants provenant de l'école de l'air (cours des élèves officiers) ;\n\n4° Sous-lieutenants provenant des grandes écoles visées au paragraphe 5, de l'article 14 ci-dessus ;\n\n5° Sous-lieutenants provenant de l'école de l'air (cours des sous-officiers élèves officiers).\n\nIls se classent provisoirement entre eux :\n\nDans chacune des 2e, 3e et 5e catégories, d'après leur rang de sortie de l'école dont ils proviennent ;\n\nDans la 4e, d'après l'école dont ils proviennent, en attribuant à ces écoles l'ordre de préférence indiqué à l'article 14 ci-dessus."
+      "content": "Les sous-lieutenants des différents corps de l'armée de l'air nommés à la même date prennent rang dans ces corps et par catégorie dans l'ordre suivant :\n\n1° Sous-lieutenants provenant du rang ;\n\n2° Sous-lieutenants provenant de l'école polytechnique ;\n\n3° Sous-lieutenants provenant de l'école de l'air (cours des élèves officiers) ;\n\n4° Sous-lieutenants provenant des grandes écoles visées au paragraphe 5, de l'article 14 ci-dessus ;\n\n5° Sous-lieutenants provenant de l'école de l'air (cours des sous-officiers élèves officiers).\n\nIls se classent provisoirement entre eux :\n\nDans chacune des 2e, 3e et 5e catégories, d'après leur rang de sortie de l'école dont ils proviennent ;\n\nDans la 4e, d'après l'école dont ils proviennent, en attribuant à ces écoles l'ordre de préférence indiqué à l'article 14 ci-dessus.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Nul ne peut être nommé au grade de lieutenant :\n\n- s'il n'a servi deux ans dans le grade de sous-lieutenant ;\n\n- ou si, âgé de moins de trente ans et ayant été officier dans les cadres actifs de l'armée de l'air et ayant donné sa démission depuis moins de trois ans, il n'est possesseur dans les réserves d'un grade au moins égal à celui de lieutenant et a accompli depuis sa démission un stage de deux mois dans une formation ou établissement désigné par le ministre de l'air."
+      "content": "Nul ne peut être nommé au grade de lieutenant :\n\n- s'il n'a servi deux ans dans le grade de sous-lieutenant ;\n\n- ou si, âgé de moins de trente ans et ayant été officier dans les cadres actifs de l'armée de l'air et ayant donné sa démission depuis moins de trois ans, il n'est possesseur dans les réserves d'un grade au moins égal à celui de lieutenant et a accompli depuis sa démission un stage de deux mois dans une formation ou établissement désigné par le ministre de l'air.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Nul ne peut être nommé aux grades de capitaine, commandant, lieutenant-colonel, s'il ne compte trois ans d'ancienneté dans le grade immédiatement inférieur.\n\nNul ne peut être nommé colonel, s'il ne compte dix-huit mois d'ancienneté dans le grade immédiatement inférieur.\n\nNul ne peut être nommé général de brigade ou général de division, s'il ne compte deux ans et demi d'ancienneté dans le grade immédiatement inférieur.\n\nNul ne peut, en temps de paix, être nommé à un des grades supérieurs à celui de commandant, s'il ne peut exercer les fonctions de ce nouveau grade pendant un an au moins, pour le cadre navigant, deux ans au moins pour les autres corps et le cadre sédentaire, avant d'être atteint par la limite d'âge de ce nouveau grade."
+      "content": "Nul ne peut être nommé aux grades de capitaine, commandant, lieutenant-colonel, s'il ne compte trois ans d'ancienneté dans le grade immédiatement inférieur.\n\nNul ne peut être nommé colonel, s'il ne compte dix-huit mois d'ancienneté dans le grade immédiatement inférieur.\n\nNul ne peut être nommé général de brigade ou général de division, s'il ne compte deux ans et demi d'ancienneté dans le grade immédiatement inférieur.\n\nNul ne peut, en temps de paix, être nommé à un des grades supérieurs à celui de commandant, s'il ne peut exercer les fonctions de ce nouveau grade pendant un an au moins, pour le cadre navigant, deux ans au moins pour les autres corps et le cadre sédentaire, avant d'être atteint par la limite d'âge de ce nouveau grade.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "L'avancement a lieu au choix ou à l'ancienneté.\n\nNul ne peut être promu au choix s'il n'est en activité ou en disponibilité et, pour l'avancement au choix aux grades de capitaine à colonel inclus, s'il n'est porté au tableau d'avancement établi par le ministre de l'air et publié au."
+      "content": "L'avancement a lieu au choix ou à l'ancienneté.\n\nNul ne peut être promu au choix s'il n'est en activité ou en disponibilité et, pour l'avancement au choix aux grades de capitaine à colonel inclus, s'il n'est porté au tableau d'avancement établi par le ministre de l'air et publié au.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Les sous-lieutenants des différents corps de l'armée de l'air sont promus au grade de lieutenant après deux ans de grade de sous-lieutenant.\n\nLes nominations au grade de capitaine ont lieu : deux tiers à l'ancienneté, un tiers au choix dans les différents corps d'officiers de l'armée de l'air.\n\nLes nominations au grade de commandant du cadre navigant du corps des officiers de l'air ont lieu exclusivement au choix. Dans les autres corps et dans le cadre sédentaire, elles ont lieu moitié à l'ancienneté, moitié au choix.\n\nLes nominations au grade de lieutenant-colonel et aux grades supérieurs ont lieu exclusivement au choix dans tous les corps."
+      "content": "Les sous-lieutenants des différents corps de l'armée de l'air sont promus au grade de lieutenant après deux ans de grade de sous-lieutenant.\n\nLes nominations au grade de capitaine ont lieu : deux tiers à l'ancienneté, un tiers au choix dans les différents corps d'officiers de l'armée de l'air.\n\nLes nominations au grade de commandant du cadre navigant du corps des officiers de l'air ont lieu exclusivement au choix. Dans les autres corps et dans le cadre sédentaire, elles ont lieu moitié à l'ancienneté, moitié au choix.\n\nLes nominations au grade de lieutenant-colonel et aux grades supérieurs ont lieu exclusivement au choix dans tous les corps.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "L'ancienneté pour l'avancement se détermine par la date de prise de rang du grade ou, à date semblable, par celle de la prise de rang du grade inférieur."
+      "content": "L'ancienneté pour l'avancement se détermine par la date de prise de rang du grade ou, à date semblable, par celle de la prise de rang du grade inférieur.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "1° En plus des conditions prévues par l'article 17 de la présente loi, à moins de services exceptionnels dont le détail devra figurer au, ne peuvent être inscrits au tableau d'avancement pour le grade supérieur que les capitaines et lieutenants figurant au 1er juillet de l'année de la proposition dans la première moitié de la liste d'ancienneté de leur grade ;\n\n2° Les officiers de chaque corps doivent satisfaire pour l'avancement au grade supérieur à des conditions de service ou de commandement qui sont déterminées par les dispositions spéciales à chacun de ces corps et insérées dans la présente loi."
+      "content": "1° En plus des conditions prévues par l'article 17 de la présente loi, à moins de services exceptionnels dont le détail devra figurer au, ne peuvent être inscrits au tableau d'avancement pour le grade supérieur que les capitaines et lieutenants figurant au 1er juillet de l'année de la proposition dans la première moitié de la liste d'ancienneté de leur grade ;\n\n2° Les officiers de chaque corps doivent satisfaire pour l'avancement au grade supérieur à des conditions de service ou de commandement qui sont déterminées par les dispositions spéciales à chacun de ces corps et insérées dans la présente loi.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Les dispositions relatives au passage des officiers de l'armée de terre dans l'armée de l'air, fixées par l'article 9 de la loi du 30 mars 1928 sur le statut du personnel navigant sont maintenues."
+      "content": "Les dispositions relatives au passage des officiers de l'armée de terre dans l'armée de l'air, fixées par l'article 9 de la loi du 30 mars 1928 sur le statut du personnel navigant sont maintenues.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "Nul ne peut, en aucun cas, être nommé à un grade sans emploi."
+      "content": "Nul ne peut, en aucun cas, être nommé à un grade sans emploi.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "Toutes les promotions d'officiers de l'armée de l'air sont immédiatement rendues publiques par insertion auavec indication du tour de l'avancement, du nom de l'intéressé qui était pourvu de l'emploi devenu vacant et de la cause de la vacance."
+      "content": "Toutes les promotions d'officiers de l'armée de l'air sont immédiatement rendues publiques par insertion auavec indication du tour de l'avancement, du nom de l'intéressé qui était pourvu de l'emploi devenu vacant et de la cause de la vacance.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "Nul officier d'un corps de l'armée de l'air, admis à la retraite, ne peut être replacé dans les cadres de cette armée."
+      "content": "Nul officier d'un corps de l'armée de l'air, admis à la retraite, ne peut être replacé dans les cadres de cette armée.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "L'emploi est distinct du grade. Un officier de l'armée de l'air ne peut être privé de son grade que dans les cas prévus par la loi et suivant les formes légales."
+      "content": "L'emploi est distinct du grade. Un officier de l'armée de l'air ne peut être privé de son grade que dans les cas prévus par la loi et suivant les formes légales.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "Les officiers subalternes des réserves de l'armée de l'air, titulaires d'un des brevets donnant accès dans le peronnel navigant, peuvent être autorisés à servir en situation d'activité dans le cadre navigant du corps des officiers de l'air pendant une durée minima de deux ans et maxima de dix ans par contrats successifs de deux ans renouvables.\n\nCes officiers sont désignés après concours dont les modalités sont fixées par le ministre de l'air ou sur titres aériens jugés exceptionnels par le conseil supérieur de l'air.\n\nLe nombre maximum d'officiers de réserve pouvant ainsi être admis annuellement en situation d'activité est fixé par la loi de finances."
+      "content": "Les officiers subalternes des réserves de l'armée de l'air, titulaires d'un des brevets donnant accès dans le peronnel navigant, peuvent être autorisés à servir en situation d'activité dans le cadre navigant du corps des officiers de l'air pendant une durée minima de deux ans et maxima de dix ans par contrats successifs de deux ans renouvables.\n\nCes officiers sont désignés après concours dont les modalités sont fixées par le ministre de l'air ou sur titres aériens jugés exceptionnels par le conseil supérieur de l'air.\n\nLe nombre maximum d'officiers de réserve pouvant ainsi être admis annuellement en situation d'activité est fixé par la loi de finances.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art33",
       "section": "33",
       "title": "Article 33",
-      "content": "Les officiers admis en situation d'activité dans les conditions de l'article précédent concourent pendant cette période pour l'avancement et les décorations avec les officiers de l'active.\n\nCeux qui ont servi pendant dix ans dans cette position continuent ensuite et pendant un délai de cinq années à concourir pour l'avancement dans l'ordre de la Légion d'honneur avec les officiers de l'active."
+      "content": "Les officiers admis en situation d'activité dans les conditions de l'article précédent concourent pendant cette période pour l'avancement et les décorations avec les officiers de l'active.\n\nCeux qui ont servi pendant dix ans dans cette position continuent ensuite et pendant un délai de cinq années à concourir pour l'avancement dans l'ordre de la Légion d'honneur avec les officiers de l'active.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "Ne peuvent bénéficier de ces dispositions que les officiers de réserve de l'armée de l'air accomplissant leur service actif ou libérés de ce service depuis moins de deux ans et âgés de moins de 28 ans à l'admission en situation d'activité.\n\nUn certain nombre de ces officiers peuvent, après avoir servi pendant dix ans en situation d'activité et après concours spécial, être admis définitivement dans les cadres actifs de l'armée de l'air.\n\nLe nombre d'officiers de réserve pouvant être ainsi admis dans les cadres actifs est fixé annuellement par le ministre de l'air ; il ne peut pas dépasser le sixième du nombre d'officiers de réserve ayant terminé, pendant l'exercice en cours, dix années de services effectifs en situation d'activité.\n\nL'officier de réserve admis définitivement dans les cadres actifs compte comme services effectifs pour l'ouverture des droits à pension d'ancienneté ou proportionnelle le temps passé par lui en situation d'activité hormis les cas visés par les articles 60 et 61 de la loi du 14 avril 1924."
+      "content": "Ne peuvent bénéficier de ces dispositions que les officiers de réserve de l'armée de l'air accomplissant leur service actif ou libérés de ce service depuis moins de deux ans et âgés de moins de 28 ans à l'admission en situation d'activité.\n\nUn certain nombre de ces officiers peuvent, après avoir servi pendant dix ans en situation d'activité et après concours spécial, être admis définitivement dans les cadres actifs de l'armée de l'air.\n\nLe nombre d'officiers de réserve pouvant être ainsi admis dans les cadres actifs est fixé annuellement par le ministre de l'air ; il ne peut pas dépasser le sixième du nombre d'officiers de réserve ayant terminé, pendant l'exercice en cours, dix années de services effectifs en situation d'activité.\n\nL'officier de réserve admis définitivement dans les cadres actifs compte comme services effectifs pour l'ouverture des droits à pension d'ancienneté ou proportionnelle le temps passé par lui en situation d'activité hormis les cas visés par les articles 60 et 61 de la loi du 14 avril 1924.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "A l'expiration de leur service en situation d'activité, les officiers auront droit, à l'exclusion de tous droits ultérieurs à pension d'ancienneté ou proportionnelle, à un capital dont le montant est calculé à raison de 4.000 ou 4.500 fr. par année de service accompli en situation d'activité, suivant que l'officier en cause aura terminé ce service avec le grade de lieutenant ou celui de capitaine.\n\nCe capital est augmenté de 500 fr. par annuité de service supplémentaire (bonifications pour services aériens, campagnes, etc.), décompté conformément aux articles 36, 37, 38 et 39 de la loi du 14 avril 1924.\n\nLes dispositions du présent article ne sont pas applicables aux officiers de réserve ayant servi en situation d'activité et admis dans les cadres actifs dans les conditions de l'article précédent."
+      "content": "A l'expiration de leur service en situation d'activité, les officiers auront droit, à l'exclusion de tous droits ultérieurs à pension d'ancienneté ou proportionnelle, à un capital dont le montant est calculé à raison de 4.000 ou 4.500 fr. par année de service accompli en situation d'activité, suivant que l'officier en cause aura terminé ce service avec le grade de lieutenant ou celui de capitaine.\n\nCe capital est augmenté de 500 fr. par annuité de service supplémentaire (bonifications pour services aériens, campagnes, etc.), décompté conformément aux articles 36, 37, 38 et 39 de la loi du 14 avril 1924.\n\nLes dispositions du présent article ne sont pas applicables aux officiers de réserve ayant servi en situation d'activité et admis dans les cadres actifs dans les conditions de l'article précédent.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "Les officiers de réserve servant en situation d'activité peuvent être rendus à la vie civile, sur leur demande, après préavis de trois mois. Par mesure de discipline ou en cas d'inaptitude de l'intéressé à remplir son emploi, le ministre de l'air peut, après avis d'un conseil d'enquête, faire cesser la situation d'activité après préavis de trois mois.\n\nLes officiers de réserve en situation d'activité ne pourront solliciter de congé interrupteur de l'ancienneté.\n\nIls peuvent être admis en non-activité pour infirmités temporaires pour une durée ne pouvant excéder trois ans.\n\nLe temps de service effectué en vertu d'un contrat résilié avant son expiration n'entre en compte pour le calcul du capital prévu par l'article précédent que si la résiliation est motivée par une inaptitude résultant de blessures ou maladies contractées en service aérien commandé."
+      "content": "Les officiers de réserve servant en situation d'activité peuvent être rendus à la vie civile, sur leur demande, après préavis de trois mois. Par mesure de discipline ou en cas d'inaptitude de l'intéressé à remplir son emploi, le ministre de l'air peut, après avis d'un conseil d'enquête, faire cesser la situation d'activité après préavis de trois mois.\n\nLes officiers de réserve en situation d'activité ne pourront solliciter de congé interrupteur de l'ancienneté.\n\nIls peuvent être admis en non-activité pour infirmités temporaires pour une durée ne pouvant excéder trois ans.\n\nLe temps de service effectué en vertu d'un contrat résilié avant son expiration n'entre en compte pour le calcul du capital prévu par l'article précédent que si la résiliation est motivée par une inaptitude résultant de blessures ou maladies contractées en service aérien commandé.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "Les officiers du corps des officiers de l'air encadrent et commandent les formations, écoles et services de l'armée de l'air. Ils doivent tous posséder un des brevets donnant accès dans le personnel navigant.\n\nLeur aptitude physique aux emplois du personnel navigant fait l'objet d'un examen médical périodique dont les modalités sont fixées par arrêté.\n\nCeux d'entre eux ayant acquis le \" brevet d'état-major de l'armée de l'air \" dont les conditions d'obtention sont fixées par décret sont titularisés dans l'emploi d'officier d'état-major de l'armée de l'air, après avoir accompli un stage de deux ans dans un état-major de cette armée."
+      "content": "Les officiers du corps des officiers de l'air encadrent et commandent les formations, écoles et services de l'armée de l'air. Ils doivent tous posséder un des brevets donnant accès dans le personnel navigant.\n\nLeur aptitude physique aux emplois du personnel navigant fait l'objet d'un examen médical périodique dont les modalités sont fixées par arrêté.\n\nCeux d'entre eux ayant acquis le \" brevet d'état-major de l'armée de l'air \" dont les conditions d'obtention sont fixées par décret sont titularisés dans l'emploi d'officier d'état-major de l'armée de l'air, après avoir accompli un stage de deux ans dans un état-major de cette armée.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "Le rang d'ancienneté définitif des sous-lieutenants du corps des officiers de l'air des 2e, 3e, 4e et 5e catégories prévues à l'article 15 de la présente loi est fixé par le classement de sortie du cours d'application de l'école de l'air.\n\nLes conditions dans lesquelles s'effectuent les classements provisoires et définitifs sont précisées par décret.\n\nCeux qui n'ont pas satisfait aux examens de sortie, qu'ils soient autorisés ou non à redoubler l'année d'application, perdent leur ancienneté. A la suite du nouvel examen qu'ils doivent subir, leur rang est établi dans la nouvelle promotion avec laquelle ils concourent, quelle que soit l'origine de ces officiers."
+      "content": "Le rang d'ancienneté définitif des sous-lieutenants du corps des officiers de l'air des 2e, 3e, 4e et 5e catégories prévues à l'article 15 de la présente loi est fixé par le classement de sortie du cours d'application de l'école de l'air.\n\nLes conditions dans lesquelles s'effectuent les classements provisoires et définitifs sont précisées par décret.\n\nCeux qui n'ont pas satisfait aux examens de sortie, qu'ils soient autorisés ou non à redoubler l'année d'application, perdent leur ancienneté. A la suite du nouvel examen qu'ils doivent subir, leur rang est établi dans la nouvelle promotion avec laquelle ils concourent, quelle que soit l'origine de ces officiers.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art39",
       "section": "39",
       "title": "Article 39",
-      "content": "En dehors des conditions fixées à l'article 16 de la présente loi, nul ne peut être nommé au grade de lieutenant du corps des officiers de l'air :\n\n- s'il n'a satisfait aux examens de sortie du cours d'application de l'école de l'air, pour les officiers visés aux paragraphes 2, 3 et 4 de l'article 14 ;\n\n- s'il n'est titulaire d'un brevet de navigation aérienne, pour les officiers visés au paragraphe 1er de l'article 14."
+      "content": "En dehors des conditions fixées à l'article 16 de la présente loi, nul ne peut être nommé au grade de lieutenant du corps des officiers de l'air :\n\n- s'il n'a satisfait aux examens de sortie du cours d'application de l'école de l'air, pour les officiers visés aux paragraphes 2, 3 et 4 de l'article 14 ;\n\n- s'il n'est titulaire d'un brevet de navigation aérienne, pour les officiers visés au paragraphe 1er de l'article 14.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art40",
       "section": "40",
       "title": "Article 40",
-      "content": "En dehors des conditions d'ancienneté requises pour l'avancement par les articles 17 et suivants de la présente loi, les officiers de l'air du cadre navigant devront satisfaire en temps de paix à des conditions de commandement fixées par décret de telle façon que tous ces officiers aient avant chaque promotion aux grades de capitaine, de commandant, de lieutenant-colonel, de général de brigade ou de général de division :\n\n- servi dans une escadrille ;\n\n- exercé le commandement d'une escadrille, d'un groupe, d'une escadre, d'une base ou d'une demi-brigade ou d'une brigade ;\n\n- accompli un minimum de services aériens, fixé par le ministre de l'air.\n\nEn outre, pour l'avancement au grade de commandant, les capitaines du cadre navigant devront justifier de connaissances générales techniques et tactiques suivant des modalités déterminées par le ministre de l'air.\n\nPour l'avancement au grade de général de division, les officiers du cadre navigant devront avoir suivi dans les grades de général de brigade ou de colonel ou de lieutenant-colonel, le cours d'études supérieures aériennes."
+      "content": "En dehors des conditions d'ancienneté requises pour l'avancement par les articles 17 et suivants de la présente loi, les officiers de l'air du cadre navigant devront satisfaire en temps de paix à des conditions de commandement fixées par décret de telle façon que tous ces officiers aient avant chaque promotion aux grades de capitaine, de commandant, de lieutenant-colonel, de général de brigade ou de général de division :\n\n- servi dans une escadrille ;\n\n- exercé le commandement d'une escadrille, d'un groupe, d'une escadre, d'une base ou d'une demi-brigade ou d'une brigade ;\n\n- accompli un minimum de services aériens, fixé par le ministre de l'air.\n\nEn outre, pour l'avancement au grade de commandant, les capitaines du cadre navigant devront justifier de connaissances générales techniques et tactiques suivant des modalités déterminées par le ministre de l'air.\n\nPour l'avancement au grade de général de division, les officiers du cadre navigant devront avoir suivi dans les grades de général de brigade ou de colonel ou de lieutenant-colonel, le cours d'études supérieures aériennes.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art41",
       "section": "41",
       "title": "Article 41",
-      "content": "Les officiers de l'air du cadre navigant perçoivent une solde à l'air. Cette solde, qui entre en compte pour le calcul des droits à pension, est acquise aux officiers du cadre navigant exécutant des services aériens dans des conditions déterminées par décret.\n\nPar ailleurs, une prime spéciale, dite de services aériens exceptionnels, est allouée à ce personnel dans des conditions également déterminées par décret.\n\nUn décret spécial fixe, dans la limite des crédits déterminés chaque année par la loi de finances, les taux de la solde à l'air et de la prime pour services aériens exceptionnels dans les différents grades (officiers et sous-officiers) du personnel navigant.\n\nLes différentes indemnités de fonction, allouées au personnel navigant par la réglementation en vigueur, seront supprimées à la date où les décrets prévus par le présent article auront été mis en application. Ces décrets devront intervenir dans un délai maximum de six mois après la promulgation de la présente loi."
+      "content": "Les officiers de l'air du cadre navigant perçoivent une solde à l'air. Cette solde, qui entre en compte pour le calcul des droits à pension, est acquise aux officiers du cadre navigant exécutant des services aériens dans des conditions déterminées par décret.\n\nPar ailleurs, une prime spéciale, dite de services aériens exceptionnels, est allouée à ce personnel dans des conditions également déterminées par décret.\n\nUn décret spécial fixe, dans la limite des crédits déterminés chaque année par la loi de finances, les taux de la solde à l'air et de la prime pour services aériens exceptionnels dans les différents grades (officiers et sous-officiers) du personnel navigant.\n\nLes différentes indemnités de fonction, allouées au personnel navigant par la réglementation en vigueur, seront supprimées à la date où les décrets prévus par le présent article auront été mis en application. Ces décrets devront intervenir dans un délai maximum de six mois après la promulgation de la présente loi.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art42",
       "section": "42",
       "title": "Article 42",
-      "content": "Le corps des officiers de l'air comprend un cadre spécial dit \" Personnel sédentaire \" dans les grades de colonel à sous-lieutenant inclus."
+      "content": "Le corps des officiers de l'air comprend un cadre spécial dit \" Personnel sédentaire \" dans les grades de colonel à sous-lieutenant inclus.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art43",
       "section": "43",
       "title": "Article 43",
-      "content": "Les officiers du cadre sédentaire de l'air concourent à l'encadrement des formations ne comportant pas l'utilisation active d'aéronefs.\n\nIls occupent, en outre, dans les établissements et services, des emplois et des commandements dont la liste est déterminée par décret.\n\nLes officiers du cadre sédentaire de l'air se recrutent dans la limite des effectifs de ce cadre, parmi les officiers du cadre navigant, n'effectuant plus de services aériens.\n\nLes officiers rayés du personnel navigant, conservent toutefois les limites d'âge de ce personnel :\n\n- s'ils ne peuvent être admis dans le cadre sédentaire faute de places ;\n\n- si leur radiation intervient moins de trois ans avant la limite d'âge fixée pour leur grade dans le cadre navigant.\n\nCes dispositions ne s'appliquent pas aux officiers rayés du personnel navigant pour cause d'inaptitude physique résultant de l'exécution de services aériens commandés. Ces officiers sont obligatoirement classés dans le cadre sédentaire et acquièrent, de ce fait, le droit aux limites d'âge de ce cadre."
+      "content": "Les officiers du cadre sédentaire de l'air concourent à l'encadrement des formations ne comportant pas l'utilisation active d'aéronefs.\n\nIls occupent, en outre, dans les établissements et services, des emplois et des commandements dont la liste est déterminée par décret.\n\nLes officiers du cadre sédentaire de l'air se recrutent dans la limite des effectifs de ce cadre, parmi les officiers du cadre navigant, n'effectuant plus de services aériens.\n\nLes officiers rayés du personnel navigant, conservent toutefois les limites d'âge de ce personnel :\n\n- s'ils ne peuvent être admis dans le cadre sédentaire faute de places ;\n\n- si leur radiation intervient moins de trois ans avant la limite d'âge fixée pour leur grade dans le cadre navigant.\n\nCes dispositions ne s'appliquent pas aux officiers rayés du personnel navigant pour cause d'inaptitude physique résultant de l'exécution de services aériens commandés. Ces officiers sont obligatoirement classés dans le cadre sédentaire et acquièrent, de ce fait, le droit aux limites d'âge de ce cadre.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art44",
       "section": "44",
       "title": "Article 44",
-      "content": "En temps de paix, les officiers classés dans le cadre sédentaire de l'air ne peuvent pas être admis à nouveau dans le cadre navigant."
+      "content": "En temps de paix, les officiers classés dans le cadre sédentaire de l'air ne peuvent pas être admis à nouveau dans le cadre navigant.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art45",
       "section": "45",
       "title": "Article 45",
-      "content": "Les officiers de l'air versés dans le cadre sédentaire y prennent rang lors de leur affectation avec le grade et l'ancienneté dans le grade qu'ils avaient dans le cadre navigant."
+      "content": "Les officiers de l'air versés dans le cadre sédentaire y prennent rang lors de leur affectation avec le grade et l'ancienneté dans le grade qu'ils avaient dans le cadre navigant.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art46",
       "section": "46",
       "title": "Article 46",
-      "content": "En plus des conditions imposées par les articles 17 et suivants de la présente loi, les officiers du cadre sédentaire doivent, pour être promus aux différents grades d'officiers supérieurs, avoir effectivement occupé pendant deux ans un commandement dans une formation comportant ou non l'utilisation active d'aéronefs ou un emploi équivalent dans un service.\n\nLa liste de ces commandements ou emplois est fixée par décret."
+      "content": "En plus des conditions imposées par les articles 17 et suivants de la présente loi, les officiers du cadre sédentaire doivent, pour être promus aux différents grades d'officiers supérieurs, avoir effectivement occupé pendant deux ans un commandement dans une formation comportant ou non l'utilisation active d'aéronefs ou un emploi équivalent dans un service.\n\nLa liste de ces commandements ou emplois est fixée par décret.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art47",
       "section": "47",
       "title": "Article 47",
-      "content": "Les officiers mécaniciens de l'air assurent la mise en oeuvre du matériel technique et l'instruction du personnel spécialiste sous la direction des officiers de l'air exerçant le commandement des formations."
+      "content": "Les officiers mécaniciens de l'air assurent la mise en oeuvre du matériel technique et l'instruction du personnel spécialiste sous la direction des officiers de l'air exerçant le commandement des formations.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art48",
       "section": "48",
       "title": "Article 48",
-      "content": "Pour pouvoir être promus au choix aux grades de commandant, lieutenant-colonel et colonel mécanicien, les capitaines, les commandants et les lieutenants-colonels mécaniciens doivent accomplir, dans une formation comportant l'emploi d'aéronefs, un séjour d'une durée minima de deux ans."
+      "content": "Pour pouvoir être promus au choix aux grades de commandant, lieutenant-colonel et colonel mécanicien, les capitaines, les commandants et les lieutenants-colonels mécaniciens doivent accomplir, dans une formation comportant l'emploi d'aéronefs, un séjour d'une durée minima de deux ans.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art49",
       "section": "49",
       "title": "Article 49",
-      "content": "Les officiers des cadres navigant et sédentaire du corps des officiers de l'air, en possession du grade de lieutenant, peuvent être admis, sur leur demande, dans le corps des officiers mécaniciens de l'air, après examen et dans les conditions fixées par décret.\n\nIls sont nommés lieutenant mécanicien dans le corps des officiers mécaniciens de l'air et prennent rang avec leur ancienneté dans ce grade.\n\nLe nombre total des admissions ne peut dépasser le sixième des nominations annuelles au grade de lieutenant mécanicien."
+      "content": "Les officiers des cadres navigant et sédentaire du corps des officiers de l'air, en possession du grade de lieutenant, peuvent être admis, sur leur demande, dans le corps des officiers mécaniciens de l'air, après examen et dans les conditions fixées par décret.\n\nIls sont nommés lieutenant mécanicien dans le corps des officiers mécaniciens de l'air et prennent rang avec leur ancienneté dans ce grade.\n\nLe nombre total des admissions ne peut dépasser le sixième des nominations annuelles au grade de lieutenant mécanicien.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art50",
       "section": "50",
       "title": "Article 50",
-      "content": "Les officiers des services administratifs de l'air ont pour mission :\n\n- de seconder le commandement dans l'administration du personnel, du matériel et des installations ;\n\n- d'assurer, sous l'autorité de ce commandement, la gestion des matières et deniers mis à sa disposition."
+      "content": "Les officiers des services administratifs de l'air ont pour mission :\n\n- de seconder le commandement dans l'administration du personnel, du matériel et des installations ;\n\n- d'assurer, sous l'autorité de ce commandement, la gestion des matières et deniers mis à sa disposition.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art51",
       "section": "51",
       "title": "Article 51",
-      "content": "Pour pouvoir être promus au choix aux grades de commandant et lieutenant-colonel, les capitaines et commandants des services adminstratifs doivent avoir occupé certains emplois, dans des conditions et pendant une durée déterminée par décret."
+      "content": "Pour pouvoir être promus au choix aux grades de commandant et lieutenant-colonel, les capitaines et commandants des services adminstratifs doivent avoir occupé certains emplois, dans des conditions et pendant une durée déterminée par décret.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art52",
       "section": "52",
       "title": "Article 52",
-      "content": "1° Le corps des officiers de l'air du cadre navigant sera constitué à l'origine :\n\na) Par les officiers provenant de l'aéronautique militaire pourvus d'un des brevets donnant accès dans le personnel navigant de l'aéronautique, à l'exception des officiers titulaires d'un de ces brevets mais classés, au moment de la promulgation de la présente loi, dans le corps des officiers mécaniciens de l'air ou dans la deuxième section de l'état-major particulier de l'aéronautique ;\n\nb) Par des officiers de marine et des équpages de la flotte, volontaires pour passer dans le cadre navigant du corps des officiers de l'air, pourvus d'un des brevets donnant accès dans le personnel navigant de l'aéronautique et ayant opté, conformément aux dispositions arrêtées par accord entre les départements de l'air et de la marine ;\n\n2° Ceux des officiers visés au paragraphe 1er a) précédent, rayés du personnel navigant à la promulgation de la présente loi, constituent le cadre sédentaire.\n\nCe cadre sera complété, à l'origine, par les officiers ne possédant pas de brevet donnant accès dans le personnel navigant, et occupant, au moment de la promulgation de la présente loi, dans l'encadrement des formations, les postes dont la liste sera fixée par décret."
+      "content": "1° Le corps des officiers de l'air du cadre navigant sera constitué à l'origine :\n\na) Par les officiers provenant de l'aéronautique militaire pourvus d'un des brevets donnant accès dans le personnel navigant de l'aéronautique, à l'exception des officiers titulaires d'un de ces brevets mais classés, au moment de la promulgation de la présente loi, dans le corps des officiers mécaniciens de l'air ou dans la deuxième section de l'état-major particulier de l'aéronautique ;\n\nb) Par des officiers de marine et des équpages de la flotte, volontaires pour passer dans le cadre navigant du corps des officiers de l'air, pourvus d'un des brevets donnant accès dans le personnel navigant de l'aéronautique et ayant opté, conformément aux dispositions arrêtées par accord entre les départements de l'air et de la marine ;\n\n2° Ceux des officiers visés au paragraphe 1er a) précédent, rayés du personnel navigant à la promulgation de la présente loi, constituent le cadre sédentaire.\n\nCe cadre sera complété, à l'origine, par les officiers ne possédant pas de brevet donnant accès dans le personnel navigant, et occupant, au moment de la promulgation de la présente loi, dans l'encadrement des formations, les postes dont la liste sera fixée par décret.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art53",
       "section": "53",
       "title": "Article 53",
-      "content": "A titre transitoire et pendant une période de cinq ans à compter du 1er janvier suivant la promulgation de la présente loi, les prescriptions du quatrième alinéa de l'article 17 de la présente loi sont suspendues pour le corps des officiers de l'air du cadre navigant."
+      "content": "A titre transitoire et pendant une période de cinq ans à compter du 1er janvier suivant la promulgation de la présente loi, les prescriptions du quatrième alinéa de l'article 17 de la présente loi sont suspendues pour le corps des officiers de l'air du cadre navigant.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art54",
       "section": "54",
       "title": "Article 54",
-      "content": "Les nouvelles limites d'âge prévues à l'article 12 ci-dessus seront réalisées de la façon suivante :\n\n- à dater de la promulgation de la présente loi, les limites d'âge actuelles seront réduites de trois ans ;\n\n- l'abaissemement des limites d'âge sera porté à cinq ans en tenant compte des nécessités de l'encadrement de l'armée de l'air à condition qu'il soit effectué dans un délai maximum de cinq années. Il pourra être réalisé par étapes. Les modalités de réduction seront fixées par la loi de finances."
+      "content": "Les nouvelles limites d'âge prévues à l'article 12 ci-dessus seront réalisées de la façon suivante :\n\n- à dater de la promulgation de la présente loi, les limites d'âge actuelles seront réduites de trois ans ;\n\n- l'abaissemement des limites d'âge sera porté à cinq ans en tenant compte des nécessités de l'encadrement de l'armée de l'air à condition qu'il soit effectué dans un délai maximum de cinq années. Il pourra être réalisé par étapes. Les modalités de réduction seront fixées par la loi de finances.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art55",
       "section": "55",
       "title": "Article 55",
-      "content": "A titre transitoire, les officiers appartenant actuellement au personnel navigant de l'armée de l'air seront, aux limites d'âge fixées par l'article 12 de la présente loi, placés dans la position de congé définitif déterminée par la loi du 30 mars 1928 sur le statut du personnel navigant de l'aéronautique.\n\nSeront placés en congés dans les mêmes conditions, les officiers affectés à ce personnel, soit dans un délai de deux ans à compter de la promulgation de la présente loi, soit par application de l'article 9 de la loi du 30 mars 1928, sous réserve, dans ce dernier cas, qu'ils aient été officiers avant l'expiration du délai susindiqué.\n\nCe congé cessera lorsque les intéressés auront atteint les limites d'âge fixées par la réglementation actuellement en vigueur.\n\nAu cours de ce congé, ils effectueront les services aériens prévus pour l'entraînement des officiers de réserve de l'armée de l'air, sans cependant avoir droit, de ce fait, à percevoir la solde à l'air.\n\nLes années passées en congé entreront en compte pour la liquidation de la retraite et pour l'avancement dans l'ordre de la Légion d'honneur, concurrement avec les officiers de l'active.\n\nUn contigent spécial et non limité de décorations sans traitement dans l'ordre de la Légion d'honneur sera mis à la disposition du ministre de l'air en leur faveur.\n\nEnfin, ils pourront être promus au grade supérieur si au moment de leur admission en congé :\n\n- ils satisfont aux conditions d'ancienneté fixées par l'article 17 de la présente loi ;\n\n- ils sont reconnus aptes aux fonctions du grade supérieur.\n\nMais ils ne pourront prétendre à aucun des avantages de solde afférent à leur nouveau grade.\n\nPar ailleurs, les congés du personnel navigant prévus par les articles 6 et 7 de la loi du 30 mars 1928 susvisée ne seront plus accordés qu'aux officiers atteints d'une invalidité d'au moins 40. pour 100 résultant de services aériens commandés ou ayant rendu des services aériens jugés exceptionnels par le conseil supérieur de l'air.\n\nLes officiers mis en congé, aux termes du présent article ne pourront, sous les peines de l'article 175 du code pénal, entrer ni demeurer, pendant la durée dudit congé, même au titre d'administrateur ou de conseil, au service d'industries aéronautiques ou d'entreprises de navigation aérienne."
+      "content": "A titre transitoire, les officiers appartenant actuellement au personnel navigant de l'armée de l'air seront, aux limites d'âge fixées par l'article 12 de la présente loi, placés dans la position de congé définitif déterminée par la loi du 30 mars 1928 sur le statut du personnel navigant de l'aéronautique.\n\nSeront placés en congés dans les mêmes conditions, les officiers affectés à ce personnel, soit dans un délai de deux ans à compter de la promulgation de la présente loi, soit par application de l'article 9 de la loi du 30 mars 1928, sous réserve, dans ce dernier cas, qu'ils aient été officiers avant l'expiration du délai susindiqué.\n\nCe congé cessera lorsque les intéressés auront atteint les limites d'âge fixées par la réglementation actuellement en vigueur.\n\nAu cours de ce congé, ils effectueront les services aériens prévus pour l'entraînement des officiers de réserve de l'armée de l'air, sans cependant avoir droit, de ce fait, à percevoir la solde à l'air.\n\nLes années passées en congé entreront en compte pour la liquidation de la retraite et pour l'avancement dans l'ordre de la Légion d'honneur, concurrement avec les officiers de l'active.\n\nUn contigent spécial et non limité de décorations sans traitement dans l'ordre de la Légion d'honneur sera mis à la disposition du ministre de l'air en leur faveur.\n\nEnfin, ils pourront être promus au grade supérieur si au moment de leur admission en congé :\n\n- ils satisfont aux conditions d'ancienneté fixées par l'article 17 de la présente loi ;\n\n- ils sont reconnus aptes aux fonctions du grade supérieur.\n\nMais ils ne pourront prétendre à aucun des avantages de solde afférent à leur nouveau grade.\n\nPar ailleurs, les congés du personnel navigant prévus par les articles 6 et 7 de la loi du 30 mars 1928 susvisée ne seront plus accordés qu'aux officiers atteints d'une invalidité d'au moins 40. pour 100 résultant de services aériens commandés ou ayant rendu des services aériens jugés exceptionnels par le conseil supérieur de l'air.\n\nLes officiers mis en congé, aux termes du présent article ne pourront, sous les peines de l'article 175 du code pénal, entrer ni demeurer, pendant la durée dudit congé, même au titre d'administrateur ou de conseil, au service d'industries aéronautiques ou d'entreprises de navigation aérienne.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art56",
       "section": "56",
       "title": "Article 56",
-      "content": "Le corps des officiers mécaniciens de l'air sera constitué à l'origine et dans un délai de six mois après la promulgation de la présente loi :\n\n- Par les officiers mécaniciens de l'aéronautique actuellement en service dans l'armée de l'air.\n\n- Sur demande individuelle, par des ingénieurs mécaniciens de la marine ayant servi pendant trois ans au moins dans les services de l'armée de l'air ou de l'aéronautique maritime et agréés par le ministre de l'air après accord du ministre de la marine.\n\n- Sur demande individuelle, par des ingénieurs mécaniciens de l'armée de mer, brevetés d'aéronautique ayant satisfait aux examens de fin de cours des écoles d'arts et métiers.\n\nCes officiers seront nommés avec leur grade et prendront rang avec leur ancienneté dans le corps des officiers mécaniciens de l'air.\n\nLe nombre par grade des ingénieurs mécaniciens de la marine qui pourront entrer à l'origine dans le corps des officiers mécaniciens de l'air sera fixé par décret contresigné par les ministres de l'air et de la marine. Ce décret fixera en outre les conditions d'ancienneté qui seront requises des intéressés."
+      "content": "Le corps des officiers mécaniciens de l'air sera constitué à l'origine et dans un délai de six mois après la promulgation de la présente loi :\n\n- Par les officiers mécaniciens de l'aéronautique actuellement en service dans l'armée de l'air.\n\n- Sur demande individuelle, par des ingénieurs mécaniciens de la marine ayant servi pendant trois ans au moins dans les services de l'armée de l'air ou de l'aéronautique maritime et agréés par le ministre de l'air après accord du ministre de la marine.\n\n- Sur demande individuelle, par des ingénieurs mécaniciens de l'armée de mer, brevetés d'aéronautique ayant satisfait aux examens de fin de cours des écoles d'arts et métiers.\n\nCes officiers seront nommés avec leur grade et prendront rang avec leur ancienneté dans le corps des officiers mécaniciens de l'air.\n\nLe nombre par grade des ingénieurs mécaniciens de la marine qui pourront entrer à l'origine dans le corps des officiers mécaniciens de l'air sera fixé par décret contresigné par les ministres de l'air et de la marine. Ce décret fixera en outre les conditions d'ancienneté qui seront requises des intéressés.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art57",
       "section": "57",
       "title": "Article 57",
-      "content": "Le corps des officiers des services administratifs de l'air sera constitué dans un délai de six mois à dater de la promulgation de la présente loi :\n\n- par les officiers des cadres actifs de l'armée de l'air, non officiers mécaniciens et non pourvus d'un des brevets donnant accès dans le personnel navigant et occupant des fonctions définies par décret ;\n\n- par les officiers des cadres actifs de l'armée de l'air, qui bien que pourvus antérieurement à leur admission à l'école militaire et d'application de l'armée de l'air, d'un brevet donnant accès dans le personnel navigant, sont sortis de la division des élèves officiers d'active du personnel non navigant (comptables).\n\n- par les officiers appartenant à la 2e section de l'état-major particulier de l'aéronautique ;\n\n- par les officiers des cadres actifs de l'armée de l'air, non officiers mécaniciens, occupant depuis deux ans au moins au moment de la promulgation de la présente loi, des emplois fixés par décret.\n\n- par les officiers des équipages de la flotte et officiers d'administration de la marine, sous réserve qu'ils aient servi pendant trois ans au moins dans les services de l'armée de l'air ou de l'aéronautique maritime et soient agréés par le ministre de l'air après accord du ministre de la marine."
+      "content": "Le corps des officiers des services administratifs de l'air sera constitué dans un délai de six mois à dater de la promulgation de la présente loi :\n\n- par les officiers des cadres actifs de l'armée de l'air, non officiers mécaniciens et non pourvus d'un des brevets donnant accès dans le personnel navigant et occupant des fonctions définies par décret ;\n\n- par les officiers des cadres actifs de l'armée de l'air, qui bien que pourvus antérieurement à leur admission à l'école militaire et d'application de l'armée de l'air, d'un brevet donnant accès dans le personnel navigant, sont sortis de la division des élèves officiers d'active du personnel non navigant (comptables).\n\n- par les officiers appartenant à la 2e section de l'état-major particulier de l'aéronautique ;\n\n- par les officiers des cadres actifs de l'armée de l'air, non officiers mécaniciens, occupant depuis deux ans au moins au moment de la promulgation de la présente loi, des emplois fixés par décret.\n\n- par les officiers des équipages de la flotte et officiers d'administration de la marine, sous réserve qu'ils aient servi pendant trois ans au moins dans les services de l'armée de l'air ou de l'aéronautique maritime et soient agréés par le ministre de l'air après accord du ministre de la marine.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art58",
       "section": "58",
       "title": "Article 58",
-      "content": "Les limites d'âge fixées par l'article 12 ci-dessus et plus élevées que celles prévues par les lois antérieures pour certaines catégories d'officiers versés dans le corps des officiers des services administratifs, d'après les dispositions du précédent article seront réalisées dans les conditions suivantes :\n\n- au 1er janvier suivant la promulgation de la présente loi, les limites d'âge actuelles seront majorées de six mois ;\n\n- au 1er janvier de chacune des années suivant la promulgation de la présente loi, les limites d'âge fixées au 1er janvier de l'année précédente seront majorées de six mois jusqu'à réalisation complète des nouvelles limites d'âge ;\n\n- au cours de cette période transitoire, les intéressés ne pourront bénéficier avant leur mise à la retraite que d'une seule majoration de limite d'âge qui sera celle fixée au 1er janvier de l'année au cours de laquelle ils auraient été atteints par leur limite d'âge antérieure."
+      "content": "Les limites d'âge fixées par l'article 12 ci-dessus et plus élevées que celles prévues par les lois antérieures pour certaines catégories d'officiers versés dans le corps des officiers des services administratifs, d'après les dispositions du précédent article seront réalisées dans les conditions suivantes :\n\n- au 1er janvier suivant la promulgation de la présente loi, les limites d'âge actuelles seront majorées de six mois ;\n\n- au 1er janvier de chacune des années suivant la promulgation de la présente loi, les limites d'âge fixées au 1er janvier de l'année précédente seront majorées de six mois jusqu'à réalisation complète des nouvelles limites d'âge ;\n\n- au cours de cette période transitoire, les intéressés ne pourront bénéficier avant leur mise à la retraite que d'une seule majoration de limite d'âge qui sera celle fixée au 1er janvier de l'année au cours de laquelle ils auraient été atteints par leur limite d'âge antérieure.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art59",
       "section": "59",
       "title": "Article 59",
-      "content": "Les officiers appartenant à la 2e section de l'état-major particulier de l'aéronautique, qui n'auront pas opté pour le corps des officiers des services administratifs de l'air, conserveront le statut qu'ils détiennent de par la loi du 17 février 1930."
+      "content": "Les officiers appartenant à la 2e section de l'état-major particulier de l'aéronautique, qui n'auront pas opté pour le corps des officiers des services administratifs de l'air, conserveront le statut qu'ils détiennent de par la loi du 17 février 1930.",
+      "valid_from": "1935-04-13"
     },
     {
       "provision_ref": "art60",
       "section": "60",
       "title": "Article 60",
-      "content": "Les différents corps de sous-officiers de carrière de l'armée de l'air seront constitués à l'origine :\n\n- par les sous-officiers classés sous-officiers de carrière antérieurement à la promulgation de la présente loi, au titre d'une des formations de l'armée de l'air ;\n\n- par les personnels du cadre de maistrance servant dans l'aéronautique maritime, volontaires et ayant signé une option, dans les conditions qui seront détérminées par décret contresigné par les ministres de l'air et de la marine, et actuellement classés dans la spécialité correspondant à chacun des corps constitués par la présente loi.\n\nLa présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l'Etat."
+      "content": "Les différents corps de sous-officiers de carrière de l'armée de l'air seront constitués à l'origine :\n\n- par les sous-officiers classés sous-officiers de carrière antérieurement à la promulgation de la présente loi, au titre d'une des formations de l'armée de l'air ;\n\n- par les personnels du cadre de maistrance servant dans l'aéronautique maritime, volontaires et ayant signé une option, dans les conditions qui seront détérminées par décret contresigné par les ministres de l'air et de la marine, et actuellement classés dans la spécialité correspondant à chacun des corps constitués par la présente loi.\n\nLa présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l'Etat.",
+      "valid_from": "1935-04-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

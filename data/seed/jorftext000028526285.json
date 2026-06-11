@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - A créé les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\nII. - Le I s'applique aux conventions conclues ou renouvelées à compter de la date de promulgation de la présente loi."
+      "content": "I. - A créé les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\nII. - Le I s'applique aux conventions conclues ou renouvelées à compter de la date de promulgation de la présente loi.",
+      "valid_from": "2014-01-29"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Chaque année pour une période de trois ans, le Gouvernement remet au Parlement, avant le 30 septembre, un rapport dressant un bilan et une évaluation des conventions mentionnées à l'article L. 863-8 du code de la sécurité sociale. Il porte notamment sur les garanties et prestations que ces conventions comportent, leurs conséquences pour les patients, en particulier en termes d'accès aux soins et de reste à charge, et leur impact sur les tarifs et prix pratiqués par les professionnels, établissements et services concernés."
+      "content": "Chaque année pour une période de trois ans, le Gouvernement remet au Parlement, avant le 30 septembre, un rapport dressant un bilan et une évaluation des conventions mentionnées à l'article L. 863-8 du code de la sécurité sociale. Il porte notamment sur les garanties et prestations que ces conventions comportent, leurs conséquences pour les patients, en particulier en termes d'accès aux soins et de reste à charge, et leur impact sur les tarifs et prix pratiqués par les professionnels, établissements et services concernés.",
+      "valid_from": "2014-01-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

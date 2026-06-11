@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 2010-49 du 13 janvier 2010 relative à la biologie médicale est ratifiée."
+      "content": "L'ordonnance n° 2010-49 du 13 janvier 2010 relative à la biologie médicale est ratifiée.",
+      "valid_from": "2013-06-01"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "I.-Plus de la moitié du capital social et des droits de vote d'une société d'exercice libéral de biologistes médicaux doit être détenue, directement ou par l'intermédiaire de sociétés de participations financières des professions libérales, par des biologistes médicaux en exercice au sein de la société.\n\nII.-A modifié les dispositions suivantes :\n\n-Code de la santé publique"
+      "content": "I.-Plus de la moitié du capital social et des droits de vote d'une société d'exercice libéral de biologistes médicaux doit être détenue, directement ou par l'intermédiaire de sociétés de participations financières des professions libérales, par des biologistes médicaux en exercice au sein de la société.\n\nII.-A modifié les dispositions suivantes :\n\n-Code de la santé publique",
+      "valid_from": "2024-09-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

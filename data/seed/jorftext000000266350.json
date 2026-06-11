@@ -12,61 +12,77 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I., III et IV - Paragraphes modificateurs.II. - Les dispositions du e du 3° de l'article L. 122-5 du code de la propriété intellectuelle s'appliquent à compter du 1er janvier 2009."
+      "content": "I., III et IV - Paragraphes modificateurs.II. - Les dispositions du e du 3° de l'article L. 122-5 du code de la propriété intellectuelle s'appliquent à compter du 1er janvier 2009.",
+      "valid_from": "2006-08-03"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - Paragraphe modificateur.II. - Les dispositions du dernier alinéa du 3° de l'article L. 211-3 du code de la propriété intellectuelle s'appliquent à compter du 1er janvier 2009."
+      "content": "I. - Paragraphe modificateur.II. - Les dispositions du dernier alinéa du 3° de l'article L. 211-3 du code de la propriété intellectuelle s'appliquent à compter du 1er janvier 2009.",
+      "valid_from": "2006-08-03"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. - Paragraphe modificateur.II. - Les dispositions du 4° de l'article L. 342-3 du code de la propriété intellectuelle s'appliquent à compter du 1er janvier 2009."
+      "content": "I. - Paragraphe modificateur.II. - Les dispositions du 4° de l'article L. 342-3 du code de la propriété intellectuelle s'appliquent à compter du 1er janvier 2009.",
+      "valid_from": "2006-08-03"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "I. - Paragraphe modificateur.II. - Paragraphe modificateur.III. - Les dispositions des I et II s'appliquent aux contrats conclus à compter de l'entrée en vigueur de la présente loi."
+      "content": "I. - Paragraphe modificateur.II. - Paragraphe modificateur.III. - Les dispositions des I et II s'appliquent aux contrats conclus à compter de l'entrée en vigueur de la présente loi.",
+      "valid_from": "2006-08-03"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "L'importation, le transfert depuis un Etat membre de la Union européenne, la fourniture ou l'édition de logiciels susceptibles de traiter des oeuvres protégées et intégrant des mesures techniques permettant le contrôle à distance direct ou indirect d'une ou plusieurs fonctionnalités ou l'accès à des données à caractère personnel sont soumis à une déclaration préalable auprès du service de l'Etat chargé de la sécurité des systèmes d'information. Le fournisseur, l'éditeur ou la personne procédant à l'importation ou au transfert depuis un Etat membre de l'Union européenne est tenu, à la demande de ce service, de transmettre à celui-ci les spécifications et le code source des logiciels concernés, le code source des bibliothèques utilisées lorsque celui-ci est disponible, ainsi que l'ensemble des outils et méthodes permettant l'obtention de ces logiciels à partir des codes source fournis. Le service de l'Etat chargé de la sécurité des systèmes d'information peut, si ces logiciels s'appuient sur des bibliothèques et composants logiciels créés, importés ou conçus par une tierce partie, demander à celle-ci la fourniture des mêmes éléments. Un décret en Conseil d'Etat fixe les conditions dans lesquelles sont souscrites ces déclarations et transmises les informations techniques visées ci-dessus.\n\nLes logiciels visés au premier alinéa ne peuvent être utilisés dans des systèmes de traitement automatisé de données dont la mise en oeuvre est nécessaire à la sauvegarde des droits afférents aux oeuvres protégées que lorsqu'ils sont opérés dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et dans des conditions ne portant notamment pas atteinte aux secrets protégés par la loi, ni à l'ordre public.\n\nL'Etat est autorisé à déterminer les conditions dans lesquelles les logiciels visés au premier alinéa peuvent être utilisés dans les systèmes de traitement automatisé de données des administrations de l'Etat, des collectivités territoriales et des opérateurs publics ou privés gérant des installations d'importance vitale au sens des articles L. 1332-1 à L. 1332-7 du code de la défense.\n\nUn décret en Conseil d'Etat fixe les conditions d'application du présent article ainsi que la nature des systèmes de traitement automatisé de données auxquels elles s'appliquent."
+      "content": "L'importation, le transfert depuis un Etat membre de la Union européenne, la fourniture ou l'édition de logiciels susceptibles de traiter des oeuvres protégées et intégrant des mesures techniques permettant le contrôle à distance direct ou indirect d'une ou plusieurs fonctionnalités ou l'accès à des données à caractère personnel sont soumis à une déclaration préalable auprès du service de l'Etat chargé de la sécurité des systèmes d'information. Le fournisseur, l'éditeur ou la personne procédant à l'importation ou au transfert depuis un Etat membre de l'Union européenne est tenu, à la demande de ce service, de transmettre à celui-ci les spécifications et le code source des logiciels concernés, le code source des bibliothèques utilisées lorsque celui-ci est disponible, ainsi que l'ensemble des outils et méthodes permettant l'obtention de ces logiciels à partir des codes source fournis. Le service de l'Etat chargé de la sécurité des systèmes d'information peut, si ces logiciels s'appuient sur des bibliothèques et composants logiciels créés, importés ou conçus par une tierce partie, demander à celle-ci la fourniture des mêmes éléments. Un décret en Conseil d'Etat fixe les conditions dans lesquelles sont souscrites ces déclarations et transmises les informations techniques visées ci-dessus.\n\nLes logiciels visés au premier alinéa ne peuvent être utilisés dans des systèmes de traitement automatisé de données dont la mise en oeuvre est nécessaire à la sauvegarde des droits afférents aux oeuvres protégées que lorsqu'ils sont opérés dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et dans des conditions ne portant notamment pas atteinte aux secrets protégés par la loi, ni à l'ordre public.\n\nL'Etat est autorisé à déterminer les conditions dans lesquelles les logiciels visés au premier alinéa peuvent être utilisés dans les systèmes de traitement automatisé de données des administrations de l'Etat, des collectivités territoriales et des opérateurs publics ou privés gérant des installations d'importance vitale au sens des articles L. 1332-1 à L. 1332-7 du code de la défense.\n\nUn décret en Conseil d'Etat fixe les conditions d'application du présent article ainsi que la nature des systèmes de traitement automatisé de données auxquels elles s'appliquent.",
+      "valid_from": "2019-06-01"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2006-540 DC du 27 juillet 2006.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2006-540 DC du 27 juillet 2006.]",
+      "valid_from": "2006-08-03"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "I. à III. -  Paragraphes modificateurs.IV. Les dispositions du I s'appliquent aux dépenses exposées pour la production, le développement et la numérisation d'enregistrements phonographiques ou vidéographiques musicaux ayant reçu un agrément à titre provisoire à compter du 1er janvier 2006."
+      "content": "I. à III. -  Paragraphes modificateurs.IV. Les dispositions du I s'appliquent aux dépenses exposées pour la production, le développement et la numérisation d'enregistrements phonographiques ou vidéographiques musicaux ayant reçu un agrément à titre provisoire à compter du 1er janvier 2006.",
+      "valid_from": "2006-08-03"
     },
     {
       "provision_ref": "art49",
       "section": "49",
       "title": "Article 49",
-      "content": "I. - La présente loi est applicable à Mayotte, en Polynésie française, dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie.II. - Paragraphe modificateur."
+      "content": "I. - La présente loi est applicable à Mayotte, en Polynésie française, dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie.II. - Paragraphe modificateur.",
+      "valid_from": "2006-08-03"
     },
     {
       "provision_ref": "art50",
       "section": "50",
       "title": "Article 50",
-      "content": "I. - Les dispositions de l'article 7 n'ont pas pour effet de protéger une interprétation, un phonogramme ou un vidéogramme dont la durée de protection a expiré au 22 décembre 2002.II. - Les dispositions du titre II ne sont applicables aux oeuvres créées par les agents de l'Etat, d'une collectivité territoriale, d'un établissement public à caractère administratif, d'une autorité administrative indépendante dotée de la personnalité morale ou de la Banque de France, antérieurement à l'entrée en vigueur de la présente loi, qu'à compter de cette entrée en vigueur.Toutefois, l'application de ces dispositions ne peut porter atteinte à l'exécution des conventions en cours lors de l'entrée en vigueur de la présente loi, lorsque celles-ci ont pour objet des oeuvres créées, par ces agents dans l'exercice de leurs fonctions ou d'après les instructions reçues, pour l'accomplissement de la mission de service public par la personne publique qui les emploie.III. - Les dispositions de l'article L. 133-1 du code du patrimoine ne sont applicables aux personnes mentionnées au i de l'article L. 132-2 du même code qu'à l'expiration d'un délai de trois ans à compter de la promulgation de la présente loi."
+      "content": "I. - Les dispositions de l'article 7 n'ont pas pour effet de protéger une interprétation, un phonogramme ou un vidéogramme dont la durée de protection a expiré au 22 décembre 2002.II. - Les dispositions du titre II ne sont applicables aux oeuvres créées par les agents de l'Etat, d'une collectivité territoriale, d'un établissement public à caractère administratif, d'une autorité administrative indépendante dotée de la personnalité morale ou de la Banque de France, antérieurement à l'entrée en vigueur de la présente loi, qu'à compter de cette entrée en vigueur.Toutefois, l'application de ces dispositions ne peut porter atteinte à l'exécution des conventions en cours lors de l'entrée en vigueur de la présente loi, lorsque celles-ci ont pour objet des oeuvres créées, par ces agents dans l'exercice de leurs fonctions ou d'après les instructions reçues, pour l'accomplissement de la mission de service public par la personne publique qui les emploie.III. - Les dispositions de l'article L. 133-1 du code du patrimoine ne sont applicables aux personnes mentionnées au i de l'article L. 132-2 du même code qu'à l'expiration d'un délai de trois ans à compter de la promulgation de la présente loi.",
+      "valid_from": "2006-08-03"
     },
     {
       "provision_ref": "art52",
       "section": "52",
       "title": "Article 52",
-      "content": "Le Gouvernement présente au Parlement un rapport sur la mise en oeuvre de l'ensemble des dispositions de la présente loi dans les dix-huit mois suivant sa promulgation. Ce rapport comporte un chapitre spécifique sur les conditions de mise en place d'une plate-forme publique de téléchargement permettant à tout créateur vivant, qui se trouve absent de l'offre commerciale en ligne, de mettre ses oeuvres ou ses interprétations à la disposition du public et d'en obtenir une juste rémunération."
+      "content": "Le Gouvernement présente au Parlement un rapport sur la mise en oeuvre de l'ensemble des dispositions de la présente loi dans les dix-huit mois suivant sa promulgation. Ce rapport comporte un chapitre spécifique sur les conditions de mise en place d'une plate-forme publique de téléchargement permettant à tout créateur vivant, qui se trouve absent de l'offre commerciale en ligne, de mettre ses oeuvres ou ses interprétations à la disposition du public et d'en obtenir une juste rémunération.",
+      "valid_from": "2006-08-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

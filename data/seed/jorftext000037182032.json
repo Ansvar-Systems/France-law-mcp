@@ -12,19 +12,28 @@
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "La première commission des sanctions comprend cinq membres nommés pour quatre ans et cinq membres nommés pour six ans. Parmi les membres nommés en application, respectivement, du a du 1°, du b du 1°, du a du 2°, du b du 2° et du 3° de l'article L. 232-7-2 du code du sport, l'un est nommé pour quatre ans et l'autre pour six ans. Parmi les personnalités mentionnées au 5° de l'article L. 241-1, l'une est nommée pour quatre ans et l'autre pour six ans.Le président et le vice-président de la commission des sanctions sont nommés pour six ans.Le mandat des membres de la première commission des sanctions commence à courir le jour de la première réunion de celle-ci.Lors de la première réunion de la commission des sanctions, il est procédé selon des modalités définies par décret en Conseil d'Etat à un tirage au sort afin de déterminer, entre les deux membres mentionnés respectivement aux a et b du 2° et au 3° de l'article L. 232-7-2 ainsi qu'au 5° de l'article L. 241-1, lequel effectue un mandat de six ans et lequel effectue un mandat de quatre ans. Les membres mentionnés au 1° de l'article L. 232-7-2 autres que le président et le vice-président effectuent un mandat de quatre ans."
+      "content": "La première commission des sanctions comprend cinq membres nommés pour quatre ans et cinq membres nommés pour six ans. Parmi les membres nommés en application, respectivement, du a du 1°, du b du 1°, du a du 2°, du b du 2° et du 3° de l'article L. 232-7-2 du code du sport, l'un est nommé pour quatre ans et l'autre pour six ans. Parmi les personnalités mentionnées au 5° de l'article L. 241-1, l'une est nommée pour quatre ans et l'autre pour six ans.Le président et le vice-président de la commission des sanctions sont nommés pour six ans.Le mandat des membres de la première commission des sanctions commence à courir le jour de la première réunion de celle-ci.Lors de la première réunion de la commission des sanctions, il est procédé selon des modalités définies par décret en Conseil d'Etat à un tirage au sort afin de déterminer, entre les deux membres mentionnés respectivement aux a et b du 2° et au 3° de l'article L. 232-7-2 ainsi qu'au 5° de l'article L. 241-1, lequel effectue un mandat de six ans et lequel effectue un mandat de quatre ans. Les membres mentionnés au 1° de l'article L. 232-7-2 autres que le président et le vice-président effectuent un mandat de quatre ans.",
+      "valid_from": "2018-09-01"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "La présente ordonnance entre en vigueur le 1er septembre 2018.Lorsque des griefs notifiés par l'Agence française de lutte contre le dopage n'ont pas encore, à cette date, donné lieu à décision de son collège, la commission des sanctions de l'agence est saisie du dossier en l'état. La notification des griefs est réputée avoir été transmise par le collège à la commission des sanctions."
+      "content": "La présente ordonnance entre en vigueur le 1er septembre 2018.Lorsque des griefs notifiés par l'Agence française de lutte contre le dopage n'ont pas encore, à cette date, donné lieu à décision de son collège, la commission des sanctions de l'agence est saisie du dossier en l'état. La notification des griefs est réputée avoir été transmise par le collège à la commission des sanctions.",
+      "valid_from": "2018-09-01"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Le Premier ministre et la ministre des sports sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre des sports sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2018-09-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. à III.-A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIV.-Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport dressant un état des lieux de l'intégration de la formation de sage-femme au sein de l'université. Ce rapport identifie notamment les conditions de la réussite d'une telle intégration.V.-Le 2° du I et les II et III du présent article s'appliquent à compter du 1er septembre 2027.\n\n-Code de l'éducation\n\n-Code de la santé publique\n\n-Code de la santé publique\n\n-Code de la sécurité sociale."
+      "content": "I. à III.-A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIV.-Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport dressant un état des lieux de l'intégration de la formation de sage-femme au sein de l'université. Ce rapport identifie notamment les conditions de la réussite d'une telle intégration.V.-Le 2° du I et les II et III du présent article s'appliquent à compter du 1er septembre 2027.\n\n-Code de l'éducation\n\n-Code de la santé publique\n\n-Code de la santé publique\n\n-Code de la sécurité sociale.",
+      "valid_from": "2023-01-27"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. et II. - A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIII. - Une révision des référentiels de formation des premier et deuxième cycles des études de maïeutique est mise en œuvre pour la rentrée universitaire de 2024.IV. - Le présent article s'applique aux étudiants qui débutent la deuxième année du premier cycle des études de maïeutique après le 1er septembre 2024.\n\n- Code de l'éducation\n\n- Code de la santé publique"
+      "content": "I. et II. - A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIII. - Une révision des référentiels de formation des premier et deuxième cycles des études de maïeutique est mise en œuvre pour la rentrée universitaire de 2024.IV. - Le présent article s'applique aux étudiants qui débutent la deuxième année du premier cycle des études de maïeutique après le 1er septembre 2024.\n\n- Code de l'éducation\n\n- Code de la santé publique",
+      "valid_from": "2023-01-27"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. ‒ L'activité des sages-femmes est intégrée au groupe 86.2 de la nomenclature d'activités françaises qui regroupe les professions de médecin et de chirurgien-dentiste. Une classe « 86.24 ‒ Activité des sages-femmes » est créée à cet effet. Le groupe 86.2 est renommé « Activités des médecins, des dentistes et des sages-femmes ». La sous-classe 86.90D est renommée « Activités des infirmiers ».II. - Dans la nomenclature des professions et catégories socioprofessionnelles, les sages-femmes sont regroupées dans les catégories détaillées 31 et 32, en fonction de leur mode d'exercice, hospitalier ou libéral.III. ‒ Les modalités d'application du présent article sont définies par décret et entrent en vigueur deux ans après la promulgation du décret, et au plus tard le 1er janvier 2025.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "I. ‒ L'activité des sages-femmes est intégrée au groupe 86.2 de la nomenclature d'activités françaises qui regroupe les professions de médecin et de chirurgien-dentiste. Une classe « 86.24 ‒ Activité des sages-femmes » est créée à cet effet. Le groupe 86.2 est renommé « Activités des médecins, des dentistes et des sages-femmes ». La sous-classe 86.90D est renommée « Activités des infirmiers ».II. - Dans la nomenclature des professions et catégories socioprofessionnelles, les sages-femmes sont regroupées dans les catégories détaillées 31 et 32, en fonction de leur mode d'exercice, hospitalier ou libéral.III. ‒ Les modalités d'application du présent article sont définies par décret et entrent en vigueur deux ans après la promulgation du décret, et au plus tard le 1er janvier 2025.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2023-01-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

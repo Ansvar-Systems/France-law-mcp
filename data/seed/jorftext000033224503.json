@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "L'ordonnance n° 2016-129 du 10 février 2016 portant sur un dispositif de continuité de fourniture succédant à la fin des offres de marché transitoires de gaz et d'électricité est ratifiée."
+      "content": "L'ordonnance n° 2016-129 du 10 février 2016 portant sur un dispositif de continuité de fourniture succédant à la fin des offres de marché transitoires de gaz et d'électricité est ratifiée.",
+      "valid_from": "2016-10-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

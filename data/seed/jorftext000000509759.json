@@ -12,25 +12,35 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les augmentations de capital réalisées en application des articles L. 225-187 et suivants du code de commerce sont exonérées du droit d'apport."
+      "content": "Les augmentations de capital réalisées en application des articles L. 225-187 et suivants du code de commerce sont exonérées du droit d'apport.",
+      "valid_from": "2000-09-21"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Le montant des prélèvements opérés sur les salaires en application des articles L. 225-192 et L. 225-196 du code de commerce est exonéré de l'impôt sur le revenu dans la limite annuelle de 457,35 euros."
+      "content": "Le montant des prélèvements opérés sur les salaires en application des articles L. 225-192 et L. 225-196 du code de commerce est exonéré de l'impôt sur le revenu dans la limite annuelle de 457,35 euros.",
+      "valid_from": "2000-09-21"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Le versement complémentaire de l'entreprise mentionné aux articles L. 225-192 et L. 225-196 du code de commerce n'est pas assujetti à la taxe sur les salaires prévue à l'article 231 du code général des impôts et n'est pas pris en considération pour l'application de la législation du travail et de la sécurité sociale. Il est déduit de son bénéfice pour l'assiette de l'impôt sur les sociétés.Il est exonéré de l'impôt sur le revenu dû par le salarié."
+      "content": "Le versement complémentaire de l'entreprise mentionné aux articles L. 225-192 et L. 225-196 du code de commerce n'est pas assujetti à la taxe sur les salaires prévue à l'article 231 du code général des impôts et n'est pas pris en considération pour l'application de la législation du travail et de la sécurité sociale. Il est déduit de son bénéfice pour l'assiette de l'impôt sur les sociétés.Il est exonéré de l'impôt sur le revenu dû par le salarié.",
+      "valid_from": "2000-09-21"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les dispositions de l'article L. 225-85 du code de commerce précité ne sont pas applicables aux salariés nommés au conseil de surveillance des sociétés répondant ou non à la définition de l'article L. 225-187 dudit code, dans lesquelles l'Etat détient plus de 50 p. 100 du capital social ou dans lesquelles des entreprises publiques et éventuellement l'Etat détiennent, conjointement ou séparément, plus de 50 p. 100 du capital social."
+      "content": "Les dispositions de l'article L. 225-85 du code de commerce précité ne sont pas applicables aux salariés nommés au conseil de surveillance des sociétés répondant ou non à la définition de l'article L. 225-187 dudit code, dans lesquelles l'Etat détient plus de 50 p. 100 du capital social ou dans lesquelles des entreprises publiques et éventuellement l'Etat détiennent, conjointement ou séparément, plus de 50 p. 100 du capital social.",
+      "valid_from": "2000-09-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,43 +12,56 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Il est créé un corps militaire du contrôle général des armées. Ce corps, qui relève directement du ministre des armées, est chargé de l'ensemble des attributions confiées par les textes en vigueur aux trois corps militaires de contrôle. Jusqu'à l'extinction de ces derniers corps, leurs membres concourent avec ceux du nouveau corps à l'exercice desdites attributions."
+      "content": "Il est créé un corps militaire du contrôle général des armées. Ce corps, qui relève directement du ministre des armées, est chargé de l'ensemble des attributions confiées par les textes en vigueur aux trois corps militaires de contrôle. Jusqu'à l'extinction de ces derniers corps, leurs membres concourent avec ceux du nouveau corps à l'exercice desdites attributions.",
+      "valid_from": "1966-07-06"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le corps du contrôle général des armées a une hiérarchie propre ne comportant aucune assimilation avec les grades des différents corps d'officiers. Ses membres ont le bénéfice de la loi du 19 mai 1834 sur l'état des officiers et des textes qui l'ont modifiée. La hiérarchie du corps du contrôle général des armées est la suivante :Contrôleur adjoint des armées ;Contrôleur des armées ;Contrôleur général des armées."
+      "content": "Le corps du contrôle général des armées a une hiérarchie propre ne comportant aucune assimilation avec les grades des différents corps d'officiers. Ses membres ont le bénéfice de la loi du 19 mai 1834 sur l'état des officiers et des textes qui l'ont modifiée. La hiérarchie du corps du contrôle général des armées est la suivante :Contrôleur adjoint des armées ;Contrôleur des armées ;Contrôleur général des armées.",
+      "valid_from": "1966-07-06"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "A compter de la date d'application de la présente loi, aucun recrutement par concours n'est plus effectué au profit des corps militaires de contrôle.L'avancement des membres de ces corps continue de s'effectuer dans les conditions en vigueur antérieurement à la date de promulgation de la présente loi, les contrôleurs adjoints et contrôleurs étant promus au grade supérieur en remplacement des contrôleurs et contrôleurs généraux du même corps d'origine.Lorsque les contrôleurs de ces trois corps sont promus au grade supérieur, ils sont nommés dans la première section du cadre des contrôleurs généraux du nouveau corps et cessent d'appartenir à leur corps d'origine.Si, par le fait de ces nominations, l'extinction de l'un des corps militaires de contrôle intervient avant celle des deux autres, les vacances dans le grade de contrôleur général de ce corps bénéficient aux contrôleurs des deux autres corps inscrits sur la liste d'aptitude et, à défaut de candidats de ces corps susceptibles d'être promus, aux contrôleurs des armées."
+      "content": "A compter de la date d'application de la présente loi, aucun recrutement par concours n'est plus effectué au profit des corps militaires de contrôle.L'avancement des membres de ces corps continue de s'effectuer dans les conditions en vigueur antérieurement à la date de promulgation de la présente loi, les contrôleurs adjoints et contrôleurs étant promus au grade supérieur en remplacement des contrôleurs et contrôleurs généraux du même corps d'origine.Lorsque les contrôleurs de ces trois corps sont promus au grade supérieur, ils sont nommés dans la première section du cadre des contrôleurs généraux du nouveau corps et cessent d'appartenir à leur corps d'origine.Si, par le fait de ces nominations, l'extinction de l'un des corps militaires de contrôle intervient avant celle des deux autres, les vacances dans le grade de contrôleur général de ce corps bénéficient aux contrôleurs des deux autres corps inscrits sur la liste d'aptitude et, à défaut de candidats de ces corps susceptibles d'être promus, aux contrôleurs des armées.",
+      "valid_from": "1966-07-06"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les inspecteurs généraux et inspecteurs des affaires d'outre-mer conservent, dans le cadre de la loi n° 60-1438 du 27 décembre 1960, la possibilité d'être intégrés dans les trois corps militaires de contrôle en extinction."
+      "content": "Les inspecteurs généraux et inspecteurs des affaires d'outre-mer conservent, dans le cadre de la loi n° 60-1438 du 27 décembre 1960, la possibilité d'être intégrés dans les trois corps militaires de contrôle en extinction.",
+      "valid_from": "1966-07-06"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les contrôleurs généraux et contrôleurs chargés de la direction des formations qui composent le contrôle général des armées ont autorité, à égalité de grade et quelle que soit leur ancienneté dans ce grade, sur les membres des corps militaires de contrôle et du corps du contrôle général des armées affectés à ces formations."
+      "content": "Les contrôleurs généraux et contrôleurs chargés de la direction des formations qui composent le contrôle général des armées ont autorité, à égalité de grade et quelle que soit leur ancienneté dans ce grade, sur les membres des corps militaires de contrôle et du corps du contrôle général des armées affectés à ces formations.",
+      "valid_from": "1966-07-06"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "L'article 3 de la loi n° 61-1411 du 22 décembre 1961 relative aux corps militaires de contrôle est abrogé à l'exception du deuxième alinéa qui sera maintenu en application, à titre transitoire, jusqu'au 31 décembre 1966."
+      "content": "L'article 3 de la loi n° 61-1411 du 22 décembre 1961 relative aux corps militaires de contrôle est abrogé à l'exception du deuxième alinéa qui sera maintenu en application, à titre transitoire, jusqu'au 31 décembre 1966.",
+      "valid_from": "1966-07-06"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Un décret en Conseil d'Etat fixera les conditions d'application de la présente loi."
+      "content": "Un décret en Conseil d'Etat fixera les conditions d'application de la présente loi.",
+      "valid_from": "1966-07-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

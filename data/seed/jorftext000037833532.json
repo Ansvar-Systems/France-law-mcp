@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code du sport est modifié conformément aux articles 2 à 36 de la présente ordonnance."
+      "content": "Le code du sport est modifié conformément aux articles 2 à 36 de la présente ordonnance.",
+      "valid_from": "2018-12-21"
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "I. - La présente ordonnance entre en vigueur le jour suivant la publication au Journal officiel du décret en Conseil d'Etat prévu par l'article L. 232-31 du code du sport et, au plus tard, le 1er mars 2019.II. - Jusqu'au 30 juin 2019, les interdictions prévues à l'article L. 232-9 ne s'appliquent pas aux substances ou méthodes pour lesquelles le sportif dispose d'une autorisation d'usage à des fins thérapeutiques ou d'une raison médicale dûment justifiée.III. - Les procédures de sanction engagées devant les fédérations sportives à la date d'entrée en vigueur de la présente ordonnance et n'ayant pas donné lieu à décision sont poursuivies de plein droit devant l'Agence française de lutte contre le dopage.IV. - Lorsque les procédures de sanction engagées par les fédérations sportives ont donné lieu à décision avant la date d'entrée en vigueur de la présente ordonnance, l'Agence française de lutte contre le dopage peut se saisir des décisions fédérales dont elle ne s'est pas encore saisie dans les délais prévus à l'article L. 232-21 dans sa rédaction antérieure à l'entrée en vigueur de la présente ordonnance, à des fins éventuelles de réformation ou d'extension de la décision fédérale.V. - Les procédures engagées par l'Agence française de lutte contre le dopage à des fins de réformation ou d'extension de la décision fédérale en application de l'article L. 232-22 antérieurement à l'entrée en vigueur de la présente ordonnance peuvent donner lieu à la réformation ou à l'extension de la décision fédérale.VI. - Lorsque les griefs ont été notifiés à l'intéressé préalablement à l'entrée en vigueur de la présente ordonnance, celui-ci peut accepter d'être suspendu provisoirement, dans les conditions prévues à l'article 29VII. - Lorsque les griefs ont été notifiés à l'intéressé préalablement à l'entrée en vigueur de la présente ordonnance, le secrétaire général de l'Agence française de lutte contre le dopage lui adresse une proposition d'entrée en voie de composition administrative conformément aux dispositions de l'article L. 232-21-1. La conclusion de l'accord entraîne l'annulation de la décision rendue le cas échéant par l'organe disciplinaire de la fédération.VIII. - Lorsque le collège de l'Agence française de lutte contre le dopage a octroyé un sursis par application de l'article L. 232-23-3-2, la commission des sanctions peut le révoquer dans les conditions prévues à l'article 26."
+      "content": "I. - La présente ordonnance entre en vigueur le jour suivant la publication au Journal officiel du décret en Conseil d'Etat prévu par l'article L. 232-31 du code du sport et, au plus tard, le 1er mars 2019.II. - Jusqu'au 30 juin 2019, les interdictions prévues à l'article L. 232-9 ne s'appliquent pas aux substances ou méthodes pour lesquelles le sportif dispose d'une autorisation d'usage à des fins thérapeutiques ou d'une raison médicale dûment justifiée.III. - Les procédures de sanction engagées devant les fédérations sportives à la date d'entrée en vigueur de la présente ordonnance et n'ayant pas donné lieu à décision sont poursuivies de plein droit devant l'Agence française de lutte contre le dopage.IV. - Lorsque les procédures de sanction engagées par les fédérations sportives ont donné lieu à décision avant la date d'entrée en vigueur de la présente ordonnance, l'Agence française de lutte contre le dopage peut se saisir des décisions fédérales dont elle ne s'est pas encore saisie dans les délais prévus à l'article L. 232-21 dans sa rédaction antérieure à l'entrée en vigueur de la présente ordonnance, à des fins éventuelles de réformation ou d'extension de la décision fédérale.V. - Les procédures engagées par l'Agence française de lutte contre le dopage à des fins de réformation ou d'extension de la décision fédérale en application de l'article L. 232-22 antérieurement à l'entrée en vigueur de la présente ordonnance peuvent donner lieu à la réformation ou à l'extension de la décision fédérale.VI. - Lorsque les griefs ont été notifiés à l'intéressé préalablement à l'entrée en vigueur de la présente ordonnance, celui-ci peut accepter d'être suspendu provisoirement, dans les conditions prévues à l'article 29VII. - Lorsque les griefs ont été notifiés à l'intéressé préalablement à l'entrée en vigueur de la présente ordonnance, le secrétaire général de l'Agence française de lutte contre le dopage lui adresse une proposition d'entrée en voie de composition administrative conformément aux dispositions de l'article L. 232-21-1. La conclusion de l'accord entraîne l'annulation de la décision rendue le cas échéant par l'organe disciplinaire de la fédération.VIII. - Lorsque le collège de l'Agence française de lutte contre le dopage a octroyé un sursis par application de l'article L. 232-23-3-2, la commission des sanctions peut le révoquer dans les conditions prévues à l'article 26.",
+      "valid_from": "2018-12-21"
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "Le Premier ministre et la ministre des sports sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre des sports sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2018-12-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La présente ordonnance entre en vigueur le 1er janvier 2016.\n\nLes dispositions des articles L. 331-4-1 à L. 331-4-3 du code rural et de la pêche maritime créés par le 1° de l'article 3 de la présente ordonnance entrent en vigueur à la même date que le schéma directeur régional des exploitations agricoles mentionné à l'article L. 331-2 de ce code."
+      "content": "La présente ordonnance entre en vigueur le 1er janvier 2016.\n\nLes dispositions des articles L. 331-4-1 à L. 331-4-3 du code rural et de la pêche maritime créés par le 1° de l'article 3 de la présente ordonnance entrent en vigueur à la même date que le schéma directeur régional des exploitations agricoles mentionné à l'article L. 331-2 de ce code.",
+      "valid_from": "2016-01-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le Premier ministre, le ministre des finances et des comptes publics, la ministre des affaires sociales, de la santé et des droits des femmes, la ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social, le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement, le ministre de l'économie, de l'industrie et du numérique, la ministre des outre-mer et la secrétaire d'Etat chargée de la réforme de l'Etat et de la simplification sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des finances et des comptes publics, la ministre des affaires sociales, de la santé et des droits des femmes, la ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social, le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement, le ministre de l'économie, de l'industrie et du numérique, la ministre des outre-mer et la secrétaire d'Etat chargée de la réforme de l'Etat et de la simplification sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

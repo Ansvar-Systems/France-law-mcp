@@ -12,31 +12,42 @@
       "provision_ref": "art43",
       "section": "43",
       "title": "Article 43",
-      "content": "I. à V. - Paragraphes modificateursVI. - Les dispositions de la loi n° 49-420 du 25 mars 1949 précitée sont applicables aux rentes perpétuelles constituées entre particuliers antérieurement au 1er janvier 1987.Le capital correspondant à la rente en perpétuel dont le rachat aura été demandé postérieurement au 30 septembre 1987 sera calculé, nonobstant toutes clauses ou conventions contraires, en tenant compte de la majoration dont cette rente a bénéficié ou aurait dû bénéficier en vertu de la présente loi.VII. - Les actions ouvertes par la loi n° 49-420 du 25 mars 1949 précitée, complétée par la loi n° 52-870 du 22 juillet 1952 et modifiée par la loi de finances pour 1987 (n° 86-1317 du 30 septembre 1986), pourront à nouveau être intentées pendant un délai de deux ans à dater de la publication de la présente loi.VIII. - Les taux de majoration fixés au paragraphe IV ci-dessus sont applicables, sous les mêmes conditions de date, aux rentes viagères visées par la loi n° 48-957 du 9 juin 1948 portant majoration des rentes viagères constituées au profit des anciens combattants auprès des caisses autonomes mutualistes et par l'article 1er de la loi n° 51-695 du 24 mai 1951 précitée, ainsi qu'aux rentes constituées par l'intermédiaire des sociétés mutualistes au profit des bénéficiaires de la majoration attribuée en application de l'article L. 321-9 du code de la mutualité."
+      "content": "I. à V. - Paragraphes modificateursVI. - Les dispositions de la loi n° 49-420 du 25 mars 1949 précitée sont applicables aux rentes perpétuelles constituées entre particuliers antérieurement au 1er janvier 1987.Le capital correspondant à la rente en perpétuel dont le rachat aura été demandé postérieurement au 30 septembre 1987 sera calculé, nonobstant toutes clauses ou conventions contraires, en tenant compte de la majoration dont cette rente a bénéficié ou aurait dû bénéficier en vertu de la présente loi.VII. - Les actions ouvertes par la loi n° 49-420 du 25 mars 1949 précitée, complétée par la loi n° 52-870 du 22 juillet 1952 et modifiée par la loi de finances pour 1987 (n° 86-1317 du 30 septembre 1986), pourront à nouveau être intentées pendant un délai de deux ans à dater de la publication de la présente loi.VIII. - Les taux de majoration fixés au paragraphe IV ci-dessus sont applicables, sous les mêmes conditions de date, aux rentes viagères visées par la loi n° 48-957 du 9 juin 1948 portant majoration des rentes viagères constituées au profit des anciens combattants auprès des caisses autonomes mutualistes et par l'article 1er de la loi n° 51-695 du 24 mai 1951 précitée, ainsi qu'aux rentes constituées par l'intermédiaire des sociétés mutualistes au profit des bénéficiaires de la majoration attribuée en application de l'article L. 321-9 du code de la mutualité.",
+      "valid_from": "1987-12-31"
     },
     {
       "provision_ref": "art92",
       "section": "92",
       "title": "Article 92",
-      "content": "Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 87-237 DC du 30 décembre 1987."
+      "content": "Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 87-237 DC du 30 décembre 1987.",
+      "valid_from": "1988-01-01"
     },
     {
       "provision_ref": "art100",
       "section": "100",
       "title": "Article 100",
-      "content": "Les rapatriés des Nouvelles-Hébrides, qui y avaient résidé habituellement pendant une période d'au moins trois ans avant la date d'accession à l'indépendance de ce pays, perçoivent une indemnité forfaitaire de 45 000 F pour la perte de biens de toute nature dont ils étaient propriétaires.Il n'est alloué qu'une indemnité par ménage."
+      "content": "Les rapatriés des Nouvelles-Hébrides, qui y avaient résidé habituellement pendant une période d'au moins trois ans avant la date d'accession à l'indépendance de ce pays, perçoivent une indemnité forfaitaire de 45 000 F pour la perte de biens de toute nature dont ils étaient propriétaires.Il n'est alloué qu'une indemnité par ménage.",
+      "valid_from": "1987-12-31"
     },
     {
       "provision_ref": "art104",
       "section": "104",
       "title": "Article 104",
-      "content": "Le Fonds spécial des grands travaux, créé par la loi n° 82-669 du 3 août 1982, et la caisse d'amortissement pour l'acier, créée par la loi n° 78-1022 du 23 octobre 1978, sont supprimés.Les droits et obligations des organismes précités sont transférés à l'Etat."
+      "content": "Le Fonds spécial des grands travaux, créé par la loi n° 82-669 du 3 août 1982, et la caisse d'amortissement pour l'acier, créée par la loi n° 78-1022 du 23 octobre 1978, sont supprimés.Les droits et obligations des organismes précités sont transférés à l'Etat.",
+      "valid_from": "1987-12-31"
     },
     {
       "provision_ref": "art110",
       "section": "110",
       "title": "Article 110",
-      "content": "Le fonds d'organisation de la nouvelle profession d'avocat institué par l'article 28 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques est supprimé.Les droits et obligations du fonds sont transférés à l'Etat."
+      "content": "Le fonds d'organisation de la nouvelle profession d'avocat institué par l'article 28 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques est supprimé.Les droits et obligations du fonds sont transférés à l'Etat.",
+      "valid_from": "1987-12-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

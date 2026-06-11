@@ -12,13 +12,21 @@
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "I. Le livret d'épargne institué par l'article 80 de la loi de finances pour 1977 (n° 76-1232 du 29 décembre 1976) peut être ouvert par les aides familiaux visés à l'article 1106-1 du Code rural et les associés d'exploitation visés par la loi n° 73-650 du 13 juillet 1973 relative au statut des associés d'exploitation et à la modification de l'assurance vieillesse des personnes non salariées agricoles."
+      "content": "I. Le livret d'épargne institué par l'article 80 de la loi de finances pour 1977 (n° 76-1232 du 29 décembre 1976) peut être ouvert par les aides familiaux visés à l'article 1106-1 du Code rural et les associés d'exploitation visés par la loi n° 73-650 du 13 juillet 1973 relative au statut des associés d'exploitation et à la modification de l'assurance vieillesse des personnes non salariées agricoles.",
+      "valid_from": "1977-12-31"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Les mandats sous seing privé donnés aux intermédiaires en opérations portant sur des immeubles, des fonds de commerce ou des actions ou parts de sociétés immobilières ne sont pas soumis à la formalité de l'enregistrement."
+      "content": "Les mandats sous seing privé donnés aux intermédiaires en opérations portant sur des immeubles, des fonds de commerce ou des actions ou parts de sociétés immobilières ne sont pas soumis à la formalité de l'enregistrement.",
+      "valid_from": "1977-12-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

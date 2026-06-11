@@ -1,0 +1,26 @@
+{
+  "id": "jorftext000000504704",
+  "type": "statute",
+  "title": "Loi n° 83-634 du 13 juillet 1983",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000504704",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Article 30",
+      "content": "En cas de faute grave commise par un fonctionnaire, qu'il s'agisse d'un manquement à ses obligations professionnelles ou d'une infraction de droit commun, l'auteur de cette faute peut être suspendu par l'autorité ayant pouvoir disciplinaire qui saisit, sans délai, le conseil de discipline.\n\nLe fonctionnaire suspendu conserve son traitement, l'indemnité de résidence, le supplément familial de traitement et les prestations familiales obligatoires. Sa situation doit être définitivement réglée dans le délai de quatre mois.\n\nSi, à l'expiration d'un délai de quatre mois, aucune décision n'a été prise par l'autorité ayant le pouvoir disciplinaire, le fonctionnaire qui ne fait pas l'objet de poursuites pénales est rétabli dans ses fonctions. S'il fait l'objet de poursuites pénales et que les mesures décidées par l'autorité judiciaire ou l'intérêt du service n'y font pas obstacle, il est également rétabli dans ses fonctions à l'expiration du même délai. Lorsque, sur décision motivée, il n'est pas rétabli dans ses fonctions, il peut être affecté provisoirement par l'autorité investie du pouvoir de nomination, sous réserve de l'intérêt du service, dans un emploi compatible avec les obligations du contrôle judiciaire auquel il est, le cas échéant, soumis. A défaut, il peut être détaché d'office, à titre provisoire, dans un autre corps ou cadre d'emplois pour occuper un emploi compatible avec de telles obligations. L'affectation provisoire ou le détachement provisoire prend fin lorsque la situation du fonctionnaire est définitivement réglée par l'administration ou lorsque l'évolution des poursuites pénales rend impossible sa prolongation.\n\nLe magistrat ayant ordonné le contrôle judiciaire et le procureur de la République sont informés des mesures prises à l'égard du fonctionnaire. La commission administrative paritaire de chaque catégorie compétente pour le corps ou cadre d'emplois d'origine du fonctionnaire est également tenue informée de ces mesures.\n\nLe fonctionnaire qui, en raison de poursuites pénales, n'est pas rétabli dans ses fonctions, affecté provisoirement ou détaché provisoirement dans un autre emploi peut subir une retenue, qui ne peut être supérieure à la moitié de la rémunération mentionnée au deuxième alinéa. Il continue, néanmoins, à percevoir la totalité des suppléments pour charges de famille.\n\nEn cas de non-lieu, relaxe, acquittement ou mise hors de cause, l'autorité hiérarchique procède au rétablissement dans ses fonctions du fonctionnaire. Un décret en Conseil d'Etat détermine les modalités de la publicité du procès-verbal de rétablissement dans les fonctions.",
+      "valid_from": "2019-08-08",
+      "valid_to": "2222-02-22"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

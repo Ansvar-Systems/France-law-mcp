@@ -12,19 +12,28 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les tribunaux ne pourront prendre directement ou indirectement aucune part à l’exercice du pouvoir législatif, ni empêcher ou suspendre l’exécution des décrets du Corps législatif, sanctionnés par le Roi, à peine de forfaiture."
+      "content": "Les tribunaux ne pourront prendre directement ou indirectement aucune part à l’exercice du pouvoir législatif, ni empêcher ou suspendre l’exécution des décrets du Corps législatif, sanctionnés par le Roi, à peine de forfaiture.",
+      "valid_from": "1790-08-16"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Ils ne pourront point faire de règlements, mais ils s’adresseront au corps législatif toutes les fois qu’ils croiront nécessaire, soit d’interpréter une loi, soit d’en faire une nouvelle."
+      "content": "Ils ne pourront point faire de règlements, mais ils s’adresseront au corps législatif toutes les fois qu’ils croiront nécessaire, soit d’interpréter une loi, soit d’en faire une nouvelle.",
+      "valid_from": "1790-08-16"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les fonctions judiciaires sont distinctes et demeureront toujours séparées des fonctions administratives. Les juges ne pourront, à peine de forfaiture, troubler, de quelque manière que ce soit, les opérations des corps administratifs, ni citer devant eux les administrateurs pour raison de leurs fonctions."
+      "content": "Les fonctions judiciaires sont distinctes et demeureront toujours séparées des fonctions administratives. Les juges ne pourront, à peine de forfaiture, troubler, de quelque manière que ce soit, les opérations des corps administratifs, ni citer devant eux les administrateurs pour raison de leurs fonctions.",
+      "valid_from": "1790-08-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

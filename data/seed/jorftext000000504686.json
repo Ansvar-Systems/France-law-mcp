@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les déclarations conjointes prévues aux articles 11 (alinéa 2), 16 et 20 de la loi n° 65-570 du 13 juillet 1965 peuvent être reçues jusqu'au 31 décembre 1967. Celles qui auraient été reçues après le 1er août 1966 n'ont pas à être renouvelées."
+      "content": "Les déclarations conjointes prévues aux articles 11 (alinéa 2), 16 et 20 de la loi n° 65-570 du 13 juillet 1965 peuvent être reçues jusqu'au 31 décembre 1967. Celles qui auraient été reçues après le 1er août 1966 n'ont pas à être renouvelées.",
+      "valid_from": "1966-11-25"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "A modifié les dispositions suivantes :\n\nLoi n° 65-570 du 13 juillet 1965\n\nArt. 17\n\nLes dispositions de l'alinéa précédent ont un caractère interprétatif.\n\nLa présente loi sera exécutée comme loi de l'Etat."
+      "content": "A modifié les dispositions suivantes :\n\nLoi n° 65-570 du 13 juillet 1965\n\nArt. 17\n\nLes dispositions de l'alinéa précédent ont un caractère interprétatif.\n\nLa présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "1966-11-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

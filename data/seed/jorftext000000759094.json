@@ -12,31 +12,42 @@
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "L'article L. 4432-3 du code général des collectivités territoriales est abrogé."
+      "content": "L'article L. 4432-3 du code général des collectivités territoriales est abrogé.",
+      "valid_from": "1999-01-20"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 98-407 DC du 14 janvier 1999.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 98-407 DC du 14 janvier 1999.]",
+      "valid_from": "1999-01-20"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "I. - L'article L. 371 du code électoral est abrogé.II. - Au premier alinéa de l'article L. 372 du même code, la référence à l'article L. 349 est supprimée."
+      "content": "I. - L'article L. 371 du code électoral est abrogé.II. - Au premier alinéa de l'article L. 372 du même code, la référence à l'article L. 349 est supprimée.",
+      "valid_from": "1999-01-20"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 98-407 DC du 14 janvier 1999.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 98-407 DC du 14 janvier 1999.]",
+      "valid_from": "1999-01-20"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "I. - Les dispositions de l'article 1er de la présente loi entreront en vigueur pour le premier renouvellement général des conseils régionaux qui suivra sa publication.II. - L'article 22 de la présente loi sera abrogé à compter de la date du prochain renouvellement général des conseils régionaux. Il cesse également d'être applicable à tout conseil régional renouvelé avant cette date. Il n'est pas applicable à la collectivité territoriale de Corse.III. - Les dispositions de l'article L. 4311-1-1 du code général des collectivités territoriales sont applicables dans les régions dont le budget ne peut être considéré comme adopté, à la date de promulgation de la présente loi, soit en application des deux premiers alinéas de l'article L. 4311-1-1 du code général des collectivités territoriales dans sa rédaction initiale, soit en application des quatre alinéas suivants.L'article L. 4311-1-1 du même code sera abrogé à compter de la date du prochain renouvellement général des conseils régionaux. Il cesse également d'être applicable à tout conseil régional renouvelé avant cette date."
+      "content": "I. - Les dispositions de l'article 1er de la présente loi entreront en vigueur pour le premier renouvellement général des conseils régionaux qui suivra sa publication.II. - L'article 22 de la présente loi sera abrogé à compter de la date du prochain renouvellement général des conseils régionaux. Il cesse également d'être applicable à tout conseil régional renouvelé avant cette date. Il n'est pas applicable à la collectivité territoriale de Corse.III. - Les dispositions de l'article L. 4311-1-1 du code général des collectivités territoriales sont applicables dans les régions dont le budget ne peut être considéré comme adopté, à la date de promulgation de la présente loi, soit en application des deux premiers alinéas de l'article L. 4311-1-1 du code général des collectivités territoriales dans sa rédaction initiale, soit en application des quatre alinéas suivants.L'article L. 4311-1-1 du même code sera abrogé à compter de la date du prochain renouvellement général des conseils régionaux. Il cesse également d'être applicable à tout conseil régional renouvelé avant cette date.",
+      "valid_from": "1999-01-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

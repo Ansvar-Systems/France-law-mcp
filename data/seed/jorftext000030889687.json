@@ -12,13 +12,21 @@
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "Les dispositions du 3° de l'article 7 entrent en vigueur à la date de prise d'effet de l'abrogation du règlement de la Commission intergouvernementale concernant l'utilisation du tunnel sous la Manche signé à Londres le 23 juillet 2009."
+      "content": "Les dispositions du 3° de l'article 7 entrent en vigueur à la date de prise d'effet de l'abrogation du règlement de la Commission intergouvernementale concernant l'utilisation du tunnel sous la Manche signé à Londres le 23 juillet 2009.",
+      "valid_from": "2015-07-17"
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "Le Premier ministre et la ministre de l'écologie, du développement durable et de l'énergie sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre de l'écologie, du développement durable et de l'énergie sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2015-07-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

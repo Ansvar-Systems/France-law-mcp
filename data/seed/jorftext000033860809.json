@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente ordonnance s'applique, pour chacun des conseils d'administration mentionnés aux articles L. 1142-22, L. 1222-5, L. 1413-1, L. 1418-3 et L. 5322-1 du code de la santé publique, ainsi que pour chacun des conseils de surveillance des agences mentionnées à l'article L. 1431-1 du même code, à compter de leur prochain renouvellement."
+      "content": "La présente ordonnance s'applique, pour chacun des conseils d'administration mentionnés aux articles L. 1142-22, L. 1222-5, L. 1413-1, L. 1418-3 et L. 5322-1 du code de la santé publique, ainsi que pour chacun des conseils de surveillance des agences mentionnées à l'article L. 1431-1 du même code, à compter de leur prochain renouvellement.",
+      "valid_from": "2017-01-14"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre et la ministre des affaires sociales et de la santé sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre des affaires sociales et de la santé sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-01-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "I.-Les prestataires de services d'investissement autorisés à fournir, au 3 janvier 2018, un service d'investissement mentionné à l'article L. 321-1 du code monétaire et financier sont dispensés, pour la fourniture de ce service, des procédures prévues à l'article L. 532-1 du même code et bénéficient des dispositions des articles L. 532-23 à L. 532-25 de ce code.II.-Les marchés réglementés fonctionnant régulièrement à la date du 3 janvier 2018 sont reconnus comme des marchés réglementés au sens de l'article L. 421-1 du code monétaire et financier.III.-Tout système multilatéral de négociation géré par une entreprise de marché fonctionnant régulièrement à la date du 3 janvier 2018 est réputé autorisé à condition qu'il soit conforme aux dispositions législatives et règlementaires qui lui sont applicables."
+      "content": "I.-Les prestataires de services d'investissement autorisés à fournir, au 3 janvier 2018, un service d'investissement mentionné à l'article L. 321-1 du code monétaire et financier sont dispensés, pour la fourniture de ce service, des procédures prévues à l'article L. 532-1 du même code et bénéficient des dispositions des articles L. 532-23 à L. 532-25 de ce code.II.-Les marchés réglementés fonctionnant régulièrement à la date du 3 janvier 2018 sont reconnus comme des marchés réglementés au sens de l'article L. 421-1 du code monétaire et financier.III.-Tout système multilatéral de négociation géré par une entreprise de marché fonctionnant régulièrement à la date du 3 janvier 2018 est réputé autorisé à condition qu'il soit conforme aux dispositions législatives et règlementaires qui lui sont applicables.",
+      "valid_from": "2016-06-25"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "La présente ordonnance entre en vigueur le 3 janvier 2018, à l'exception du II de l'article L. 549-15 du code monétaire et financier qui entre en vigueur le 3 septembre 2019."
+      "content": "La présente ordonnance entre en vigueur le 3 janvier 2018, à l'exception du II de l'article L. 549-15 du code monétaire et financier qui entre en vigueur le 3 septembre 2019.",
+      "valid_from": "2016-06-25"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "Le Premier ministre, le ministre des finances et des comptes publics et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des finances et des comptes publics et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-06-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

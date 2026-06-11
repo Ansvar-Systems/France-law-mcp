@@ -12,25 +12,35 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de l'éducation\n\nII. - Les professeurs des écoles et les instituteurs figurant sur la liste d'aptitude ainsi que les directeurs en poste à la date de publication de la présente loi y demeurent inscrits.Le III de l'article L. 411-2 du code de l'éducation entre en vigueur le 1er octobre 2022."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de l'éducation\n\nII. - Les professeurs des écoles et les instituteurs figurant sur la liste d'aptitude ainsi que les directeurs en poste à la date de publication de la présente loi y demeurent inscrits.Le III de l'article L. 411-2 du code de l'éducation entre en vigueur le 1er octobre 2022.",
+      "valid_from": "2021-12-23"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Lorsque la taille ou les spécificités de l'école le justifient, l'Etat peut mettre à la disposition des directeurs d'école les moyens leur garantissant une assistance administrative. Dans le respect de leurs compétences, les communes ou leurs groupements peuvent mettre à la disposition des directeurs d'école les moyens matériels nécessaires à l'exercice de leur fonction."
+      "content": "Lorsque la taille ou les spécificités de l'école le justifient, l'Etat peut mettre à la disposition des directeurs d'école les moyens leur garantissant une assistance administrative. Dans le respect de leurs compétences, les communes ou leurs groupements peuvent mettre à la disposition des directeurs d'école les moyens matériels nécessaires à l'exercice de leur fonction.",
+      "valid_from": "2021-12-23"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Un ou plusieurs référents direction d'école sont créés dans chaque direction des services départementaux de l'éducation nationale. Un décret précise les missions et les modalités de recrutement de ces référents, qui doivent déjà avoir exercé des missions de direction."
+      "content": "Un ou plusieurs référents direction d'école sont créés dans chaque direction des services départementaux de l'éducation nationale. Un décret précise les missions et les modalités de recrutement de ces référents, qui doivent déjà avoir exercé des missions de direction.",
+      "valid_from": "2021-12-23"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "L'élection des représentants des parents d'élèves au conseil d'école peut se faire par voie électronique sur décision du directeur d'école, après consultation du conseil d'école."
+      "content": "L'élection des représentants des parents d'élèves au conseil d'école peut se faire par voie électronique sur décision du directeur d'école, après consultation du conseil d'école.",
+      "valid_from": "2021-12-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

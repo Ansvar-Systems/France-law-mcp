@@ -12,7 +12,14 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'établissement mentionné à l'article L. 621-1 du code rural et de la pêche maritime est chargé de la gestion administrative et financière des opérations nécessaires pour assurer la présence française à l'Exposition universelle de Milan (Italie) en 2015.Dans ce cadre, pour la construction du Pavillon français, il est autorisé à passer, selon la procédure prévue à l'article 69 du code des marchés publics, un marché de conception-réalisation élargi, le cas échéant, à l'exploitation ou à la maintenance.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "L'établissement mentionné à l'article L. 621-1 du code rural et de la pêche maritime est chargé de la gestion administrative et financière des opérations nécessaires pour assurer la présence française à l'Exposition universelle de Milan (Italie) en 2015.Dans ce cadre, pour la construction du Pavillon français, il est autorisé à passer, selon la procédure prévue à l'article 69 du code des marchés publics, un marché de conception-réalisation élargi, le cas échéant, à l'exploitation ou à la maintenance.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2013-12-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

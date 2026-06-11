@@ -12,13 +12,21 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les personnes qui sont affiliées au régime général au titre de l'assurance volontaire instituée par l'ordonnance n° 67-709 du 21 août 1967 sont placées de plein droit sous le régime de l'assurance personnelle. Ladite assurance volontaire régie par le régime général est supprimée.\n\nLes personnes qui, à la date d'entrée en vigueur de la présente loi, sont affiliées à titre volontaire aux autres régimes institués par l'ordonnance n° 67-709 du 21 août 1967 ou ayant exercé soit l'option prévue à l'article 7-2 (1er alinéa), de ladite ordonnance, soit l'option prévue à l'article 3 de la loi n° 66-509 du 12 juillet 1966, modifiée par la loi n° 70-14 du 6 janvier 1970, sont maintenues aux régimes dont elles relèvent respectivement. Elles pourront toutefois adhérer à tout moment au régime de l'assurance personnelle."
+      "content": "Les personnes qui sont affiliées au régime général au titre de l'assurance volontaire instituée par l'ordonnance n° 67-709 du 21 août 1967 sont placées de plein droit sous le régime de l'assurance personnelle. Ladite assurance volontaire régie par le régime général est supprimée.\n\nLes personnes qui, à la date d'entrée en vigueur de la présente loi, sont affiliées à titre volontaire aux autres régimes institués par l'ordonnance n° 67-709 du 21 août 1967 ou ayant exercé soit l'option prévue à l'article 7-2 (1er alinéa), de ladite ordonnance, soit l'option prévue à l'article 3 de la loi n° 66-509 du 12 juillet 1966, modifiée par la loi n° 70-14 du 6 janvier 1970, sont maintenues aux régimes dont elles relèvent respectivement. Elles pourront toutefois adhérer à tout moment au régime de l'assurance personnelle.",
+      "valid_from": "1978-01-03"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "I ...II - Les articles 2 et 3 de la loi n° 65-883 du 20 octobre 1965 sont applicables aux personnes visées à l'article L. 244 second alinéa du code de la sécurité sociale tel que modifié par la loi n° 78-2 du 2 janvier 1978."
+      "content": "I ...II - Les articles 2 et 3 de la loi n° 65-883 du 20 octobre 1965 sont applicables aux personnes visées à l'article L. 244 second alinéa du code de la sécurité sociale tel que modifié par la loi n° 78-2 du 2 janvier 1978.",
+      "valid_from": "1978-01-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

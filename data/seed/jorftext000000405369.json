@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La République française reconnaît que la traite négrière transatlantique ainsi que la traite dans l'océan Indien d'une part, et l'esclavage d'autre part, perpétrés à partir du xve siècle, aux Amériques et aux Caraïbes, dans l'océan Indien et en Europe contre les populations africaines, amérindiennes, malgaches et indiennes constituent un crime contre l'humanité."
+      "content": "La République française reconnaît que la traite négrière transatlantique ainsi que la traite dans l'océan Indien d'une part, et l'esclavage d'autre part, perpétrés à partir du xve siècle, aux Amériques et aux Caraïbes, dans l'océan Indien et en Europe contre les populations africaines, amérindiennes, malgaches et indiennes constituent un crime contre l'humanité.",
+      "valid_from": "2001-05-23"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les programmes scolaires et les programmes de recherche en histoire et en sciences humaines accorderont à la traite négrière et à l'esclavage la place conséquente qu'ils méritent. La coopération qui permettra de mettre en articulation les archives écrites disponibles en Europe avec les sources orales et les connaissances archéologiques accumulées en Afrique, dans les Amériques, aux Caraïbes et dans tous les autres territoires ayant connu l'esclavage sera encouragée et favorisée."
+      "content": "Les programmes scolaires et les programmes de recherche en histoire et en sciences humaines accorderont à la traite négrière et à l'esclavage la place conséquente qu'ils méritent. La coopération qui permettra de mettre en articulation les archives écrites disponibles en Europe avec les sources orales et les connaissances archéologiques accumulées en Afrique, dans les Amériques, aux Caraïbes et dans tous les autres territoires ayant connu l'esclavage sera encouragée et favorisée.",
+      "valid_from": "2001-05-23"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Une requête en reconnaissance de la traite négrière transatlantique ainsi que de la traite dans l'océan Indien et de l'esclavage comme crime contre l'humanité sera introduite auprès du Conseil de l'Europe, des organisations internationales et de l'Organisation des Nations unies. Cette requête visera également la recherche d'une date commune au plan international pour commémorer l'abolition de la traite négrière et de l'esclavage, sans préjudice des dates commémoratives propres à chacun des départements d'outre-mer."
+      "content": "Une requête en reconnaissance de la traite négrière transatlantique ainsi que de la traite dans l'océan Indien et de l'esclavage comme crime contre l'humanité sera introduite auprès du Conseil de l'Europe, des organisations internationales et de l'Organisation des Nations unies. Cette requête visera également la recherche d'une date commune au plan international pour commémorer l'abolition de la traite négrière et de l'esclavage, sans préjudice des dates commémoratives propres à chacun des départements d'outre-mer.",
+      "valid_from": "2001-05-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

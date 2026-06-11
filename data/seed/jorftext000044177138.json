@@ -12,13 +12,21 @@
       "provision_ref": "art40",
       "section": "40",
       "title": "Article 40",
-      "content": "La présente ordonnance entre en vigueur le 1er juillet 2022, à l'exception des dispositions de l'article 7 qui entrent en vigueur le 1er janvier 2023."
+      "content": "La présente ordonnance entre en vigueur le 1er juillet 2022, à l'exception des dispositions de l'article 7 qui entrent en vigueur le 1er janvier 2023.",
+      "valid_from": "2022-07-01"
     },
     {
       "provision_ref": "art41",
       "section": "41",
       "title": "Article 41",
-      "content": "Le Premier ministre, le ministre des outre-mer, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales et la ministre de la culture sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des outre-mer, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales et la ministre de la culture sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2022-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

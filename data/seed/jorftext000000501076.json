@@ -12,85 +12,105 @@
       "provision_ref": "art48",
       "section": "48",
       "title": "Article 48",
-      "content": "La concession immobilière est le contrat par lequel le propriétaire d'un immeuble ou partie d'immeuble, bâti ou non bâti, en confère la jouissance à une personne dénommée concessionnaire, pour une durée de vingt années au minimum et moyennant le paiement d'une redevance annuelle.La concession immobilière est consentie par ceux qui ont la capacité de disposer ; elle fait l'objet d'un acte authentique, publié au fichier immobilier et qui doit comporter une référence expresse aux dispositions du présent chapitre. Elle ne peut se prolonger par tacite reconduction.La redevance est révisable selon les modalités prévues par le contrat."
+      "content": "La concession immobilière est le contrat par lequel le propriétaire d'un immeuble ou partie d'immeuble, bâti ou non bâti, en confère la jouissance à une personne dénommée concessionnaire, pour une durée de vingt années au minimum et moyennant le paiement d'une redevance annuelle.La concession immobilière est consentie par ceux qui ont la capacité de disposer ; elle fait l'objet d'un acte authentique, publié au fichier immobilier et qui doit comporter une référence expresse aux dispositions du présent chapitre. Elle ne peut se prolonger par tacite reconduction.La redevance est révisable selon les modalités prévues par le contrat.",
+      "valid_from": "1968-01-03"
     },
     {
       "provision_ref": "art49",
       "section": "49",
       "title": "Article 49",
-      "content": "Il est dû garantie au concessionnaire pour tous les vices ou défauts de l'immeuble concédé qui en empêchent ou en restreignent l'usage, même si le propriétaire ne les a pas connus lors de la conclusion du contrat."
+      "content": "Il est dû garantie au concessionnaire pour tous les vices ou défauts de l'immeuble concédé qui en empêchent ou en restreignent l'usage, même si le propriétaire ne les a pas connus lors de la conclusion du contrat.",
+      "valid_from": "1968-01-03"
     },
     {
       "provision_ref": "art50",
       "section": "50",
       "title": "Article 50",
-      "content": "Le concessionnaire a le droit de donner au bien qu'il a reçu en concession toute destination de son choix sous réserve des stipulations contractuelles tendant à assurer que cette destination est compatible avec la nature de l'immeuble, qu'elle ne porte pas préjudice à l'organisation générale de l'ensemble dans lequel il se situe, et qu'elle ne déroge pas à la règle prévue à l'article 56 ci-après.Il peut, à la condition d'en informer préalablement le propriétaire, apporter au bien concédé tout aménagement ou modification nécessité par l'exercice de son activité ou la transformation de celle-ci, lorsque leur réalisation n'intéresse pas d'autres parties de l'immeuble affectées à usage privatif, ou ne risque pas de compromettre le bon aspect ou la solidité de l'immeuble. Le propriétaire ne peut s'y opposer, si ce n'est pour un motif sérieux et légitime.Il peut faire toute construction qu'il estime nécessaire sous réserve des dispositions incluses au contrat."
+      "content": "Le concessionnaire a le droit de donner au bien qu'il a reçu en concession toute destination de son choix sous réserve des stipulations contractuelles tendant à assurer que cette destination est compatible avec la nature de l'immeuble, qu'elle ne porte pas préjudice à l'organisation générale de l'ensemble dans lequel il se situe, et qu'elle ne déroge pas à la règle prévue à l'article 56 ci-après.Il peut, à la condition d'en informer préalablement le propriétaire, apporter au bien concédé tout aménagement ou modification nécessité par l'exercice de son activité ou la transformation de celle-ci, lorsque leur réalisation n'intéresse pas d'autres parties de l'immeuble affectées à usage privatif, ou ne risque pas de compromettre le bon aspect ou la solidité de l'immeuble. Le propriétaire ne peut s'y opposer, si ce n'est pour un motif sérieux et légitime.Il peut faire toute construction qu'il estime nécessaire sous réserve des dispositions incluses au contrat.",
+      "valid_from": "1968-01-03"
     },
     {
       "provision_ref": "art51",
       "section": "51",
       "title": "Article 51",
-      "content": "Le concessionnaire peut céder tout ou partie de ses droits à un tiers. Le contrat peut stipuler qu'un droit préférentiel d'acquisition sera reconnu au propriétaire, et que, à défaut d'accord amiable, celui-ci pourra demander en justice la fixation du prix de cession.Le concessionnaire peut également, si la concession porte sur un bien à usage commercial, industriel ou artisanal, concéder son fonds de commerce en location-gérance dans les conditions prévues par la loi n° 56-277 du 20 mars 1956. Aucun autre droit d'occupation ne peut être accordé à un tiers par le concessionnaire.Le droit à la concession immobilière est susceptible d'être compris dans un nantissement prévu par la loi du 17 mars 1909, lorsqu'il porte sur un bien à usage commercial, industriel ou artisanal."
+      "content": "Le concessionnaire peut céder tout ou partie de ses droits à un tiers. Le contrat peut stipuler qu'un droit préférentiel d'acquisition sera reconnu au propriétaire, et que, à défaut d'accord amiable, celui-ci pourra demander en justice la fixation du prix de cession.Le concessionnaire peut également, si la concession porte sur un bien à usage commercial, industriel ou artisanal, concéder son fonds de commerce en location-gérance dans les conditions prévues par la loi n° 56-277 du 20 mars 1956. Aucun autre droit d'occupation ne peut être accordé à un tiers par le concessionnaire.Le droit à la concession immobilière est susceptible d'être compris dans un nantissement prévu par la loi du 17 mars 1909, lorsqu'il porte sur un bien à usage commercial, industriel ou artisanal.",
+      "valid_from": "1968-01-03"
     },
     {
       "provision_ref": "art52",
       "section": "52",
       "title": "Article 52",
-      "content": "Le concessionnaire répond des dégradations qui arrivent pendant sa jouissance, à moins qu'il ne prouve qu'elles ont eu lieu sans sa faute.Il peut être stipulé dans le contrat que le concessionnaire est tenu à tout ou partie des charges d'entretien et de réparation. Lorsqu'il ne remplit pas cette obligation, le propriétaire peut exécuter les travaux et lui en réclamer le remboursement, sans préjudice de la résiliation éventuelle du contrat conformément à l'article 53."
+      "content": "Le concessionnaire répond des dégradations qui arrivent pendant sa jouissance, à moins qu'il ne prouve qu'elles ont eu lieu sans sa faute.Il peut être stipulé dans le contrat que le concessionnaire est tenu à tout ou partie des charges d'entretien et de réparation. Lorsqu'il ne remplit pas cette obligation, le propriétaire peut exécuter les travaux et lui en réclamer le remboursement, sans préjudice de la résiliation éventuelle du contrat conformément à l'article 53.",
+      "valid_from": "1968-01-03"
     },
     {
       "provision_ref": "art53",
       "section": "53",
       "title": "Article 53",
-      "content": "Si pendant la durée de la concession, l'immeuble est détruit en totalité par cas fortuit, la concession est résiliée de plein droit. S'il n'est détruit qu'en partie, le concessionnaire peut demander une diminution de la redevance, ou la résiliation de la concession. Dans l'un et l'autre cas, il n'y a lieu à aucune indemnité.\n\nLa concession immobilière peut être résiliée à tout moment par accord entre les parties.\n\nLa concession immobilière peut également être résiliée par le concessionnaire pendant les six premières années, à charge pour lui de donner un préavis de six mois. La résiliation est de droit et ne donne lieu à aucune indemnité.\n\nLe propriétaire peut aussi résilier la concession si les biens qui font l'objet de la concession immobilière font partie d'un ensemble qui doit être démoli en vue de la réalisation d'une construction.\n\nEn dehors des cas visés aux alinéas précédents, la concession peut être résiliée dans les conditions prévues aux articles 1224 à 1230 du code civil.\n\nLa concession n'est pas résolue par un changement dans la personne du propriétaire ou du concessionnaire, même par décès, ni par la faillite de l'un d'eux."
+      "content": "Si pendant la durée de la concession, l'immeuble est détruit en totalité par cas fortuit, la concession est résiliée de plein droit. S'il n'est détruit qu'en partie, le concessionnaire peut demander une diminution de la redevance, ou la résiliation de la concession. Dans l'un et l'autre cas, il n'y a lieu à aucune indemnité.\n\nLa concession immobilière peut être résiliée à tout moment par accord entre les parties.\n\nLa concession immobilière peut également être résiliée par le concessionnaire pendant les six premières années, à charge pour lui de donner un préavis de six mois. La résiliation est de droit et ne donne lieu à aucune indemnité.\n\nLe propriétaire peut aussi résilier la concession si les biens qui font l'objet de la concession immobilière font partie d'un ensemble qui doit être démoli en vue de la réalisation d'une construction.\n\nEn dehors des cas visés aux alinéas précédents, la concession peut être résiliée dans les conditions prévues aux articles 1224 à 1230 du code civil.\n\nLa concession n'est pas résolue par un changement dans la personne du propriétaire ou du concessionnaire, même par décès, ni par la faillite de l'un d'eux.",
+      "valid_from": "2016-10-01"
     },
     {
       "provision_ref": "art54",
       "section": "54",
       "title": "Article 54",
-      "content": "Sauf dans les cas visés aux premier et troisième alinéas de l'article 53, et à moins qu'il n'en soit dispensé en tout ou partie par un accord amiable intervenu dans les conditions prévues au deuxième alinéa dudit article, le propriétaire est tenu quelle que soit la cause qui a mis fin à la concession de rembourser au concessionnaire quittant les lieux le coût des constructions et ouvrages faits par lui, apprécié à la date de sa sortie, mais seulement dans la limite de l'augmentation de la valeur de l'immeuble qui en résulte.Toutefois, les stipulations contractuelles peuvent fixer des règles d'indemnisation particulières pour les constructions et ouvrages entrepris pendant les cinq dernières années de validité du contrat."
+      "content": "Sauf dans les cas visés aux premier et troisième alinéas de l'article 53, et à moins qu'il n'en soit dispensé en tout ou partie par un accord amiable intervenu dans les conditions prévues au deuxième alinéa dudit article, le propriétaire est tenu quelle que soit la cause qui a mis fin à la concession de rembourser au concessionnaire quittant les lieux le coût des constructions et ouvrages faits par lui, apprécié à la date de sa sortie, mais seulement dans la limite de l'augmentation de la valeur de l'immeuble qui en résulte.Toutefois, les stipulations contractuelles peuvent fixer des règles d'indemnisation particulières pour les constructions et ouvrages entrepris pendant les cinq dernières années de validité du contrat.",
+      "valid_from": "1968-01-03"
     },
     {
       "provision_ref": "art55",
       "section": "55",
       "title": "Article 55",
-      "content": "Les privilèges et charges de toutes natures nés du chef du concessionnaire s'éteignent à la fin de la concession.Les droits des créanciers dont la sûreté est ainsi éteinte sont reportés sur l'indemnité éventuellement due par le propriétaire au concessionnaire, compte tenu du rang de préférence attaché à ces droits par les textes qui les régissent, sans préjudice des recours qui pourraient être, le cas échéant, exercés pour le surplus contre le concessionnaire."
+      "content": "Les privilèges et charges de toutes natures nés du chef du concessionnaire s'éteignent à la fin de la concession.Les droits des créanciers dont la sûreté est ainsi éteinte sont reportés sur l'indemnité éventuellement due par le propriétaire au concessionnaire, compte tenu du rang de préférence attaché à ces droits par les textes qui les régissent, sans préjudice des recours qui pourraient être, le cas échéant, exercés pour le surplus contre le concessionnaire.",
+      "valid_from": "1968-01-03"
     },
     {
       "provision_ref": "art56",
       "section": "56",
       "title": "Article 56",
-      "content": "Dans le cas où, à l'expiration du contrat, la concession d'un immeuble à usage commercial, industriel ou artisanal n'aurait pas été renouvelée par suite du refus du propriétaire, celui-ci ne peut, pendant les cinq années suivant cette expiration, ni se livrer dans l'immeuble concédé à une activité analogue à celle exercée par le concessionnaire, ni conférer ce droit à autrui. Toutefois, le   tribunal judiciaire peut autoriser, aux conditions qu'il détermine, le propriétaire à passer outre à cette interdiction si la poursuite de l'activité antérieurement exercée par le concessionnaire est indispensable à l'approvisionnement en biens de première nécessité des personnes résidant dans l'ensemble immobilier dans lequel le local est implanté ou si, du fait des aménagements dont le coût a été supporté par le propriétaire, le local ne se prête qu'à l'exercice d'une seule activité."
+      "content": "Dans le cas où, à l'expiration du contrat, la concession d'un immeuble à usage commercial, industriel ou artisanal n'aurait pas été renouvelée par suite du refus du propriétaire, celui-ci ne peut, pendant les cinq années suivant cette expiration, ni se livrer dans l'immeuble concédé à une activité analogue à celle exercée par le concessionnaire, ni conférer ce droit à autrui. Toutefois, le   tribunal judiciaire peut autoriser, aux conditions qu'il détermine, le propriétaire à passer outre à cette interdiction si la poursuite de l'activité antérieurement exercée par le concessionnaire est indispensable à l'approvisionnement en biens de première nécessité des personnes résidant dans l'ensemble immobilier dans lequel le local est implanté ou si, du fait des aménagements dont le coût a été supporté par le propriétaire, le local ne se prête qu'à l'exercice d'une seule activité.",
+      "valid_from": "2020-01-01"
     },
     {
       "provision_ref": "art57",
       "section": "57",
       "title": "Article 57",
-      "content": "Les dispositions législatives relatives aux contrats de louage ne sont pas applicables aux contrats de concession immobilière."
+      "content": "Les dispositions législatives relatives aux contrats de louage ne sont pas applicables aux contrats de concession immobilière.",
+      "valid_from": "1968-01-03"
     },
     {
       "provision_ref": "art58",
       "section": "58",
       "title": "Article 58",
-      "content": "Sont réputées non écrites, quelle qu'en soit la forme, les stipulations incluses dans un contrat de concession immobilière qui auraient pour effet de faire échec aux dispositions du présent chapitre."
+      "content": "Sont réputées non écrites, quelle qu'en soit la forme, les stipulations incluses dans un contrat de concession immobilière qui auraient pour effet de faire échec aux dispositions du présent chapitre.",
+      "valid_from": "1968-01-03"
     },
     {
       "provision_ref": "art59",
       "section": "59",
       "title": "Article 59",
-      "content": "Sont réputés sans cause :Tout versement d'argent ou de valeur, en sus de la redevance et des charges et prestations, fait par le concessionnaire en contrepartie ou à l'occasion de la conclusion d'un contrat de concession immobilière ;L'obligation pour le concessionnaire de fournir des prestations étrangères à l'aménagement des locaux ;Tout versement d'argent ou de valeur fait à un concessionnaire ou à des ayants cause, en contrepartie de la libération totale ou partielle des lieux donnés en concession.Les sommes indûment perçues sont sujettes à répétition. Le coût des prestations indûment fournies est sujet à remboursement par le propriétaire.Est toutefois autorisée la constitution d'un dépôt de garantie n'excédant pas le montant de six mois de redevance."
+      "content": "Sont réputés sans cause :Tout versement d'argent ou de valeur, en sus de la redevance et des charges et prestations, fait par le concessionnaire en contrepartie ou à l'occasion de la conclusion d'un contrat de concession immobilière ;L'obligation pour le concessionnaire de fournir des prestations étrangères à l'aménagement des locaux ;Tout versement d'argent ou de valeur fait à un concessionnaire ou à des ayants cause, en contrepartie de la libération totale ou partielle des lieux donnés en concession.Les sommes indûment perçues sont sujettes à répétition. Le coût des prestations indûment fournies est sujet à remboursement par le propriétaire.Est toutefois autorisée la constitution d'un dépôt de garantie n'excédant pas le montant de six mois de redevance.",
+      "valid_from": "1968-01-03"
     },
     {
       "provision_ref": "art60",
       "section": "60",
       "title": "Article 60",
-      "content": "La concession immobilière ne peut s'appliquer, lorsqu'il s'agit d'immeubles bâtis, qu'à ceux qui auront été construits ou achevés postérieurement à l'entrée en vigueur de la présente loi.Toutefois, les immeubles visées à l'article 14 de la présente loi peuvent faire l'objet de contrats de concession immobilière quelle que soit leur date de construction."
+      "content": "La concession immobilière ne peut s'appliquer, lorsqu'il s'agit d'immeubles bâtis, qu'à ceux qui auront été construits ou achevés postérieurement à l'entrée en vigueur de la présente loi.Toutefois, les immeubles visées à l'article 14 de la présente loi peuvent faire l'objet de contrats de concession immobilière quelle que soit leur date de construction.",
+      "valid_from": "1968-01-03"
     },
     {
       "provision_ref": "art61",
       "section": "61",
       "title": "Article 61",
-      "content": "Les articles 48 à 60 de la présente loi sont applicables à Mayotte, sous réserve des adaptations suivantes :1° Au deuxième alinéa de l'article 48, les mots : \"publié au fichier immobilier\" sont remplacés par les mots : \"publié au livre foncier\" ;2° Au deuxième alinéa de l'article 51, les mots : \"par la loi n° 56-277 du 20 mars 1956\" sont remplacés par les mots : \"par les articles L. 144-1 à L. 144-13 du code de commerce, tels qu'applicables à Mayotte\" ;Au troisième alinéa du même article, les mots : \"par la loi du 17 mars 1909.\" sont remplacés par les mots : \"par les articles L. 142-1 à L. 142-5 du code de commerce, applicables à Mayotte\" ;3° A la deuxième phrase de l'article 56, les mots : \"tribunal de grande instance\" sont remplacés par les mots : \"tribunal de première instance\" ;4° Le second alinéa de l'article 60 n'est pas applicable."
+      "content": "Les articles 48 à 60 de la présente loi sont applicables à Mayotte, sous réserve des adaptations suivantes :1° Au deuxième alinéa de l'article 48, les mots : \"publié au fichier immobilier\" sont remplacés par les mots : \"publié au livre foncier\" ;2° Au deuxième alinéa de l'article 51, les mots : \"par la loi n° 56-277 du 20 mars 1956\" sont remplacés par les mots : \"par les articles L. 144-1 à L. 144-13 du code de commerce, tels qu'applicables à Mayotte\" ;Au troisième alinéa du même article, les mots : \"par la loi du 17 mars 1909.\" sont remplacés par les mots : \"par les articles L. 142-1 à L. 142-5 du code de commerce, applicables à Mayotte\" ;3° A la deuxième phrase de l'article 56, les mots : \"tribunal de grande instance\" sont remplacés par les mots : \"tribunal de première instance\" ;4° Le second alinéa de l'article 60 n'est pas applicable.",
+      "valid_from": "2005-07-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

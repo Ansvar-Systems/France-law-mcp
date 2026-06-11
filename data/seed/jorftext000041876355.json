@@ -12,19 +12,28 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Lorsque le terme de la période d'application des ordonnances prises sur le fondement de l'article 11 de la loi du 23 mars 2020 susvisée est défini par référence à la cessation de l'état d'urgence sanitaire déclaré par l'article 4 de la même loi, ce terme peut, pour tenir compte de l'évolution de la situation sanitaire, être avancé par décret en Conseil d'Etat."
+      "content": "Lorsque le terme de la période d'application des ordonnances prises sur le fondement de l'article 11 de la loi du 23 mars 2020 susvisée est défini par référence à la cessation de l'état d'urgence sanitaire déclaré par l'article 4 de la même loi, ce terme peut, pour tenir compte de l'évolution de la situation sanitaire, être avancé par décret en Conseil d'Etat.",
+      "valid_from": "2020-05-15"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "I., II., III., IV. et V. - A modifié les dispositions suivantes :\n\nVI. - Les dispositions de l'article 6 de la présente ordonnance sont applicables dans les conditions définies à l'article 2 de l'ordonnance n° 2020-326 du 25 mars 2020 susvisée.VII. - Les dispositions de l'article 12 de la même ordonnance sont applicables sur l'ensemble du territoire de la République.\n\n- Ordonnance n°2020-306 du 25 mars 2020\n\n- Ordonnance n°2020-319 du 25 mars 2020\n\n- Ordonnance n°2020-320 du 25 mars 2020\n\n- Ordonnance n°2020-347 du 27 mars 2020\n\n- Ordonnance n°2020-351 du 27 mars 2020"
+      "content": "I., II., III., IV. et V. - A modifié les dispositions suivantes :\n\nVI. - Les dispositions de l'article 6 de la présente ordonnance sont applicables dans les conditions définies à l'article 2 de l'ordonnance n° 2020-326 du 25 mars 2020 susvisée.VII. - Les dispositions de l'article 12 de la même ordonnance sont applicables sur l'ensemble du territoire de la République.\n\n- Ordonnance n°2020-306 du 25 mars 2020\n\n- Ordonnance n°2020-319 du 25 mars 2020\n\n- Ordonnance n°2020-320 du 25 mars 2020\n\n- Ordonnance n°2020-347 du 27 mars 2020\n\n- Ordonnance n°2020-351 du 27 mars 2020",
+      "valid_from": "2020-05-15"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Le Premier ministre, la ministre des armées, la ministre de la transition écologique et solidaire, le ministre des solidarités et de la santé, le ministre de l'économie et des finances, la ministre du travail, le ministre de l'action et des comptes publics et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre des armées, la ministre de la transition écologique et solidaire, le ministre des solidarités et de la santé, le ministre de l'économie et des finances, la ministre du travail, le ministre de l'action et des comptes publics et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-05-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

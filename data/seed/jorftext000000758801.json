@@ -12,19 +12,28 @@
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Les articles 45, 46, 49 et 61 à 64 de la même loi sont abrogés."
+      "content": "Les articles 45, 46, 49 et 61 à 64 de la même loi sont abrogés.",
+      "valid_from": "1998-12-22"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Les conseils départementaux de l'aide juridique constitués à la date d'entrée en vigueur de la présente loi peuvent poursuivre leurs activités dans les conditions prévues par la deuxième partie de la loi n° 91-647 du 10 juillet 1991 précitée dans sa rédaction antérieure à la présente loi, jusqu'à l'expiration de la durée fixée dans leur convention constitutive et au plus tard jusqu'à l'expiration d'un délai de cinq ans à compter de la promulgation de la présente loi."
+      "content": "Les conseils départementaux de l'aide juridique constitués à la date d'entrée en vigueur de la présente loi peuvent poursuivre leurs activités dans les conditions prévues par la deuxième partie de la loi n° 91-647 du 10 juillet 1991 précitée dans sa rédaction antérieure à la présente loi, jusqu'à l'expiration de la durée fixée dans leur convention constitutive et au plus tard jusqu'à l'expiration d'un délai de cinq ans à compter de la promulgation de la présente loi.",
+      "valid_from": "1998-12-22"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Sous réserve des décisions de justice passées en force de chose jugée, sont validées les décisions limitant, pour la détermination de l'ancienneté des fonctionnaires du Sénat au moment de leur titularisation, la prise en compte de leurs services militaires au service national obligatoire ainsi qu'aux services de guerre et assimilés."
+      "content": "Sous réserve des décisions de justice passées en force de chose jugée, sont validées les décisions limitant, pour la détermination de l'ancienneté des fonctionnaires du Sénat au moment de leur titularisation, la prise en compte de leurs services militaires au service national obligatoire ainsi qu'aux services de guerre et assimilés.",
+      "valid_from": "1998-12-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

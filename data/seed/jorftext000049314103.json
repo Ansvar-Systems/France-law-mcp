@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "A modifié les dispositions suivantes :\n\n- LOI n°2022-217 du 21 février 2022\n\nLa présente loi sera exécutée comme loi de l'Etat."
+      "content": "A modifié les dispositions suivantes :\n\n- LOI n°2022-217 du 21 février 2022\n\nLa présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2024-03-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

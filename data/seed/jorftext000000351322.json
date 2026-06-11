@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est autorisée la ratification de la convention relative à l'adhésion du Royaume d'Espagne et de la République portugaise à la convention concernant la compétence judiciaire et l'exécution des décisions en matière civile et commerciale, ainsi qu'au protocole concernant son interprétation par la Cour de justice, avec les adaptations y apportées par la convention relative à l'adhésion du Royaume du Danemark, de l'Irlande et du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord et les adaptations y apportées par la convention relative à l'adhésion de la République hellénique, faite à Saint-Sébastien le 26 mai 1989 et dont le texte est annexé à la présente loi (2).(2) Il sera publié ultérieurement au Journal officiel de la République française."
+      "content": "Est autorisée la ratification de la convention relative à l'adhésion du Royaume d'Espagne et de la République portugaise à la convention concernant la compétence judiciaire et l'exécution des décisions en matière civile et commerciale, ainsi qu'au protocole concernant son interprétation par la Cour de justice, avec les adaptations y apportées par la convention relative à l'adhésion du Royaume du Danemark, de l'Irlande et du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord et les adaptations y apportées par la convention relative à l'adhésion de la République hellénique, faite à Saint-Sébastien le 26 mai 1989 et dont le texte est annexé à la présente loi (2).(2) Il sera publié ultérieurement au Journal officiel de la République française.",
+      "valid_from": "1990-07-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont, sur leur demande, intégrés dans les corps des services déconcentrés de l'administration pénitentiaire correspondant aux fonctions qu'ils exercent :a) Les fonctionnaires appartenant, à la date de promulgation de la présente loi, au cadre territorial de l'administration pénitentiaire de la Nouvelle-Calédonie ;b) Les agents titulaires appartenant à d'autres cadres du territoire, ainsi que les agents non titulaires, affectés à la même date à l'établissement pénitentiaire du territoire de Nouvelle-Calédonie.Un décret en Conseil d'Etat précise les modalités des intégrations prévues aux alinéas qui précèdent ; ces intégrations prennent effet à la date de la promulgation de la présente loi."
+      "content": "Sont, sur leur demande, intégrés dans les corps des services déconcentrés de l'administration pénitentiaire correspondant aux fonctions qu'ils exercent :a) Les fonctionnaires appartenant, à la date de promulgation de la présente loi, au cadre territorial de l'administration pénitentiaire de la Nouvelle-Calédonie ;b) Les agents titulaires appartenant à d'autres cadres du territoire, ainsi que les agents non titulaires, affectés à la même date à l'établissement pénitentiaire du territoire de Nouvelle-Calédonie.Un décret en Conseil d'Etat précise les modalités des intégrations prévues aux alinéas qui précèdent ; ces intégrations prennent effet à la date de la promulgation de la présente loi.",
+      "valid_from": "1992-02-08"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les personnels intégrés en application des dispositions de l'article 1er de la présente loi ne peuvent être mutés en dehors des limites territoriales de la Nouvelle-Calédonie que sur leur demande ou par mesure disciplinaire."
+      "content": "Les personnels intégrés en application des dispositions de l'article 1er de la présente loi ne peuvent être mutés en dehors des limites territoriales de la Nouvelle-Calédonie que sur leur demande ou par mesure disciplinaire.",
+      "valid_from": "1992-02-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

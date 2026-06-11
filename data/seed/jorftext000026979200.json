@@ -12,13 +12,21 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La présente ordonnance est applicable aux prestations dues à compter du mois de sa publication ainsi qu'aux cotisations et contributions dues sur les gains et rémunérations versés à compter du mois de sa publication.Pour l'application de l'article 42-1 de l'ordonnance du 27 mars 2002 susvisée, dans sa rédaction issue de la présente ordonnance, entrent en vigueur à Mayotte au 1er janvier 2014 :1° Les dispositions du dernier alinéa de l'article L. 831-4 du code de la sécurité sociale ;2° Les dispositions de l'article L. 832-1 du même code."
+      "content": "La présente ordonnance est applicable aux prestations dues à compter du mois de sa publication ainsi qu'aux cotisations et contributions dues sur les gains et rémunérations versés à compter du mois de sa publication.Pour l'application de l'article 42-1 de l'ordonnance du 27 mars 2002 susvisée, dans sa rédaction issue de la présente ordonnance, entrent en vigueur à Mayotte au 1er janvier 2014 :1° Les dispositions du dernier alinéa de l'article L. 831-4 du code de la sécurité sociale ;2° Les dispositions de l'article L. 832-1 du même code.",
+      "valid_from": "2013-01-27"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre, la ministre des affaires sociales et de la santé, la ministre de l'égalité des territoires et du logement et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre des affaires sociales et de la santé, la ministre de l'égalité des territoires et du logement et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2013-01-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

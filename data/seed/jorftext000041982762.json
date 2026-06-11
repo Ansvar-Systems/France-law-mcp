@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de la consommation\n\nII. - Le I du présent article entre en vigueur le 1er janvier 2021. A compter de cette date, les produits légalement fabriqués ou commercialisés avant cette même date dont l'étiquetage n'est pas conforme au troisième alinéa de l'article L. 412-4 du code de la consommation, dans sa rédaction résultant du présent article, peuvent être vendus ou distribués à titre gratuit jusqu'à l'épuisement des stocks."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de la consommation\n\nII. - Le I du présent article entre en vigueur le 1er janvier 2021. A compter de cette date, les produits légalement fabriqués ou commercialisés avant cette même date dont l'étiquetage n'est pas conforme au troisième alinéa de l'article L. 412-4 du code de la consommation, dans sa rédaction résultant du présent article, peuvent être vendus ou distribués à titre gratuit jusqu'à l'épuisement des stocks.",
+      "valid_from": "2020-06-12"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "I. - A créé les dispositions suivantes :\n\n- Code de la consommation\n\nII. - Le I du présent article entre en vigueur le 1er juin 2020."
+      "content": "I. - A créé les dispositions suivantes :\n\n- Code de la consommation\n\nII. - Le I du présent article entre en vigueur le 1er juin 2020.",
+      "valid_from": "2020-06-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

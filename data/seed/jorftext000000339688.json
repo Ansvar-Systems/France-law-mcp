@@ -12,25 +12,35 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Pendant une période de quinze ans, la fraction des redevances et superdividendes de la Banque de France, dévolue au crédit populaire en vertu des lois des 19 décembre 1926 et 17 mars 1934, est versée par priorité, à concurrence d'un montant maximum de cinq millions de francs chaque année, au fonds collectif de garantie constitué à la Caisse centrale des banques populaires, en exécution de l'article 6 de la loi du 13 août 1936."
+      "content": "Pendant une période de quinze ans, la fraction des redevances et superdividendes de la Banque de France, dévolue au crédit populaire en vertu des lois des 19 décembre 1926 et 17 mars 1934, est versée par priorité, à concurrence d'un montant maximum de cinq millions de francs chaque année, au fonds collectif de garantie constitué à la Caisse centrale des banques populaires, en exécution de l'article 6 de la loi du 13 août 1936.",
+      "valid_from": "1945-06-21"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "L'organisme institué par l'article 172 de la loi du 30 juin 1923 et par l'article 65 de la loi du 31 décembre 1937, sous la dénomination de Caisse centrale de crédit hôtelier, commercial et industriel relève de l'autorité de la chambre syndicale des banques populaires (1) dans les conditions qui sont fixées par un décret rendu sur la proposition du ministre de l'économie et des finances."
+      "content": "L'organisme institué par l'article 172 de la loi du 30 juin 1923 et par l'article 65 de la loi du 31 décembre 1937, sous la dénomination de Caisse centrale de crédit hôtelier, commercial et industriel relève de l'autorité de la chambre syndicale des banques populaires (1) dans les conditions qui sont fixées par un décret rendu sur la proposition du ministre de l'économie et des finances.",
+      "valid_from": "1981-01-31"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Nonobstant toutes dispositions contraires, l'amortissement des avances consenties par l'Etat au Crédit national hôtelier et à la Caisse centrale de crédit hôtelier, commercial et industriel jusqu'au 31 décembre 1944, en exécution de l'article 172 de la loi du 30 juin 1923, de l'article 54 de la loi du 10 mars 1925 et de l'article 65 de la loi du 19 décembre 1926, modifié par l'article 12 de la loi du 17 mars 1934, sera effectué dans les conditions suivantes :1° Une somme de 20 millions de francs restera à la dispositions de Caisse centrale de crédit hôtelier, commercial et industriel pour le service des prêts à moyen terme aux commerçants et industriels et ne sera exigible qu'en cas de liquidation de l'établissement ou dans le cas où il perdrait son caractère de banque populaire chargée de ce service ;2° Le solde de ces avances s'élevant à 49.322.473 fr. 22 sera remboursé au moyen de versements effectués par la caisse le 31 décembre de chaque année, et s'élevant à un million de francs de 1945 à 1949, à deux millions de francs de 1950 à 1954, à trois millions de francs de 1955 à 1959, à trois millions sept cent cinquante mille francs de 1960 à 1963 et à quatre millions trois cent vingt-deux mille quatre cent soixante treize francs vingt-deux en 1964."
+      "content": "Nonobstant toutes dispositions contraires, l'amortissement des avances consenties par l'Etat au Crédit national hôtelier et à la Caisse centrale de crédit hôtelier, commercial et industriel jusqu'au 31 décembre 1944, en exécution de l'article 172 de la loi du 30 juin 1923, de l'article 54 de la loi du 10 mars 1925 et de l'article 65 de la loi du 19 décembre 1926, modifié par l'article 12 de la loi du 17 mars 1934, sera effectué dans les conditions suivantes :1° Une somme de 20 millions de francs restera à la dispositions de Caisse centrale de crédit hôtelier, commercial et industriel pour le service des prêts à moyen terme aux commerçants et industriels et ne sera exigible qu'en cas de liquidation de l'établissement ou dans le cas où il perdrait son caractère de banque populaire chargée de ce service ;2° Le solde de ces avances s'élevant à 49.322.473 fr. 22 sera remboursé au moyen de versements effectués par la caisse le 31 décembre de chaque année, et s'élevant à un million de francs de 1945 à 1949, à deux millions de francs de 1950 à 1954, à trois millions de francs de 1955 à 1959, à trois millions sept cent cinquante mille francs de 1960 à 1963 et à quatre millions trois cent vingt-deux mille quatre cent soixante treize francs vingt-deux en 1964.",
+      "valid_from": "1981-01-31"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Sont validés les actes de l'autorité de fait se disant gouvernement de l'Etat français, dits lois n° 785 du 18 août 1942, relative aux banques populaires ; loi n° 134 du 2 mars 1943, relative au même objet, et arrêté du 26 janvier 1944, déterminant les opérations permises à ces établissements."
+      "content": "Sont validés les actes de l'autorité de fait se disant gouvernement de l'Etat français, dits lois n° 785 du 18 août 1942, relative aux banques populaires ; loi n° 134 du 2 mars 1943, relative au même objet, et arrêté du 26 janvier 1944, déterminant les opérations permises à ces établissements.",
+      "valid_from": "1945-06-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,31 +12,42 @@
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Si le procureur général près la Cour de cassation apprend qu'il a été rendu, en matière civile, une décision contraire aux lois, aux règlements ou aux formes de procéder, contre laquelle cependant aucune des parties n'a réclamé dans le délai fixé, ou qui a été exécutée, il en saisit la Cour de cassation après l'expiration du délai ou après l'exécution.Si une cassation intervient, les parties ne peuvent s'en prévaloir pour éluder les dispositions de la décision cassée."
+      "content": "Si le procureur général près la Cour de cassation apprend qu'il a été rendu, en matière civile, une décision contraire aux lois, aux règlements ou aux formes de procéder, contre laquelle cependant aucune des parties n'a réclamé dans le délai fixé, ou qui a été exécutée, il en saisit la Cour de cassation après l'expiration du délai ou après l'exécution.Si une cassation intervient, les parties ne peuvent s'en prévaloir pour éluder les dispositions de la décision cassée.",
+      "valid_from": "1968-01-01"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Le garde des sceaux, ministre de la justice, peut, en matière civile, prescrire au procureur général de déférer à la chambre compétente de la Cour de cassation les actes par lesquels les juges excèdent leurs pouvoirs.Les parties sont mises en cause par le procureur général qui leur fixe des délais pour produire leurs mémoires ampliatifs et en défense. Le ministère d'avocat n'est pas obligatoire.La chambre saisie annule ces actes s'il y a lieu et l'annulation vaut à l'égard de tous."
+      "content": "Le garde des sceaux, ministre de la justice, peut, en matière civile, prescrire au procureur général de déférer à la chambre compétente de la Cour de cassation les actes par lesquels les juges excèdent leurs pouvoirs.Les parties sont mises en cause par le procureur général qui leur fixe des délais pour produire leurs mémoires ampliatifs et en défense. Le ministère d'avocat n'est pas obligatoire.La chambre saisie annule ces actes s'il y a lieu et l'annulation vaut à l'égard de tous.",
+      "valid_from": "1968-01-01"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Sont abrogées toutes dispositions contraires à la présente loi et notamment l'article 16 de la loi du 27 novembre 1790, les titres 1er, III et V, la section III de la première partie du titre II, ainsi que les articles 51, 52 et 61 de la loi modifiée n° 47-1366 du 23 juillet 1947 modifiant l'organisation et la procédure de la Cour de cassation."
+      "content": "Sont abrogées toutes dispositions contraires à la présente loi et notamment l'article 16 de la loi du 27 novembre 1790, les titres 1er, III et V, la section III de la première partie du titre II, ainsi que les articles 51, 52 et 61 de la loi modifiée n° 47-1366 du 23 juillet 1947 modifiant l'organisation et la procédure de la Cour de cassation.",
+      "valid_from": "1968-01-01"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "Les références faites dans des textes législatifs ou réglementaires aux dispositions abrogées de la loi modifiée du 23 juillet 1947 sont réputées faites aux dispositions correspondantes de la présente loi."
+      "content": "Les références faites dans des textes législatifs ou réglementaires aux dispositions abrogées de la loi modifiée du 23 juillet 1947 sont réputées faites aux dispositions correspondantes de la présente loi.",
+      "valid_from": "1968-01-01"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Des décrets en Conseil d'Etat fixeront les modalités d'application de la présente loi et les mesures transitoires nécessaires à son application.La présente loi entrera en vigueur le 1er janvier 1968."
+      "content": "Des décrets en Conseil d'Etat fixeront les modalités d'application de la présente loi et les mesures transitoires nécessaires à son application.La présente loi entrera en vigueur le 1er janvier 1968.",
+      "valid_from": "1968-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,7 +12,14 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "La présente loi entre en vigueur au lendemain de sa publication au Journal officiel de la République française, [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2018-766 du 21 juin 2018].Toutefois, l'article 8 entre en vigueur à l'occasion du prochain renouvellement général du Parlement européen.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "La présente loi entre en vigueur au lendemain de sa publication au Journal officiel de la République française, [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2018-766 du 21 juin 2018].Toutefois, l'article 8 entre en vigueur à l'occasion du prochain renouvellement général du Parlement européen.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2018-06-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

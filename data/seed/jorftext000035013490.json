@@ -12,31 +12,42 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "A modifié les dispositions suivantes :\n\n10° L'article L. 531-12 est ainsi modifié :\n\ng) Au dernier alinéa du I, après les mots : \"lors d'opérations sur contrats financiers, les entreprises d'investissement\" sont insérés les mots : \"et les sociétés de gestion de portefeuille\" (1).\n\n- Code monétaire et financier"
+      "content": "A modifié les dispositions suivantes :\n\n10° L'article L. 531-12 est ainsi modifié :\n\ng) Au dernier alinéa du I, après les mots : \"lors d'opérations sur contrats financiers, les entreprises d'investissement\" sont insérés les mots : \"et les sociétés de gestion de portefeuille\" (1).\n\n- Code monétaire et financier",
+      "valid_from": "2017-06-28"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "1° et 2° A modifié les dispositions suivantes :\n\n-Code du travail"
+      "content": "1° et 2° A modifié les dispositions suivantes :\n\n-Code du travail",
+      "valid_from": "2017-06-28"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "I. - Les sociétés de gestion de sociétés civiles de placement immobilier existantes au jour de la publication de la présente ordonnance sont régies par les dispositions du code monétaire et financier en vigueur avant la date de publication de l'ordonnance n° 2013-676 du 25 juillet 2013.II. - Jusqu'au 3 juillet 2020 :1° L'obligation de compensation énoncée à l'article 4 du règlement (UE) n° 648/2012 et les techniques d'atténuation des risques énoncées à l'article 11, paragraphe 3, dudit règlement ne s'appliquent pas aux contrats relatifs à des produits dérivés sur produits énergétiques de la section C.6 conclus par des contreparties non financières qui répondent aux conditions prévues à l'article 10, paragraphe 1, de ce même règlement ou par des contreparties non financières qui seront agréées pour la première fois en tant qu'entreprises d'investissement à compter du 3 janvier 2017 ; et2° Ces contrats relatifs à des produits dérivés sur produits énergétiques de la section C.6 ne sont pas considérés comme des contrats de dérivés de gré à gré aux fins de détermination du seuil de compensation établi à l'article 10 du règlement (UE) n° 648/2012.Les contrats relatifs à des produits dérivés sur produits énergétiques de la section C.6 qui bénéficient du régime transitoire énoncé au premier alinéa sont soumis à toutes les autres exigences prévues par le règlement (UE) n° 648/2012.III. - L'exemption visée au II du présent article est accordée par l'Autorité des marchés financiers. L'Autorité des marchés financiers notifie à l'Autorité européenne des marchés financiers les contrats relatifs à des produits dérivés sur produits énergétiques de la section C.6 qui bénéficient d'une exemption en vertu du II et l'Autorité européenne des marchés financiers publie sur son site la liste de ces contrats."
+      "content": "I. - Les sociétés de gestion de sociétés civiles de placement immobilier existantes au jour de la publication de la présente ordonnance sont régies par les dispositions du code monétaire et financier en vigueur avant la date de publication de l'ordonnance n° 2013-676 du 25 juillet 2013.II. - Jusqu'au 3 juillet 2020 :1° L'obligation de compensation énoncée à l'article 4 du règlement (UE) n° 648/2012 et les techniques d'atténuation des risques énoncées à l'article 11, paragraphe 3, dudit règlement ne s'appliquent pas aux contrats relatifs à des produits dérivés sur produits énergétiques de la section C.6 conclus par des contreparties non financières qui répondent aux conditions prévues à l'article 10, paragraphe 1, de ce même règlement ou par des contreparties non financières qui seront agréées pour la première fois en tant qu'entreprises d'investissement à compter du 3 janvier 2017 ; et2° Ces contrats relatifs à des produits dérivés sur produits énergétiques de la section C.6 ne sont pas considérés comme des contrats de dérivés de gré à gré aux fins de détermination du seuil de compensation établi à l'article 10 du règlement (UE) n° 648/2012.Les contrats relatifs à des produits dérivés sur produits énergétiques de la section C.6 qui bénéficient du régime transitoire énoncé au premier alinéa sont soumis à toutes les autres exigences prévues par le règlement (UE) n° 648/2012.III. - L'exemption visée au II du présent article est accordée par l'Autorité des marchés financiers. L'Autorité des marchés financiers notifie à l'Autorité européenne des marchés financiers les contrats relatifs à des produits dérivés sur produits énergétiques de la section C.6 qui bénéficient d'une exemption en vertu du II et l'Autorité européenne des marchés financiers publie sur son site la liste de ces contrats.",
+      "valid_from": "2017-06-28"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "La présente ordonnance entre en vigueur le 3 janvier 2018."
+      "content": "La présente ordonnance entre en vigueur le 3 janvier 2018.",
+      "valid_from": "2017-06-28"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Le Premier ministre, le ministre de l'économie et des finances et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie et des finances et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-06-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

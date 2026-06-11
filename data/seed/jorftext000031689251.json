@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code de l'environnement est modifié conformément aux articles 2 à 6 de la présente ordonnance."
+      "content": "Le code de l'environnement est modifié conformément aux articles 2 à 6 de la présente ordonnance.",
+      "valid_from": "2015-12-27"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les dispositions de la section 1 du chapitre VIII du titre Ier du livre II du code de l'environnement sont applicables, dans leur rédaction en vigueur à la date de la présente ordonnance, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis-et-Futuna et dans les Terres australes et antarctiques françaises, sous réserve des compétences dévolues à ces collectivités dans les eaux territoriales."
+      "content": "Les dispositions de la section 1 du chapitre VIII du titre Ier du livre II du code de l'environnement sont applicables, dans leur rédaction en vigueur à la date de la présente ordonnance, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis-et-Futuna et dans les Terres australes et antarctiques françaises, sous réserve des compétences dévolues à ces collectivités dans les eaux territoriales.",
+      "valid_from": "2015-12-27"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le Premier ministre et la ministre de l'écologie, du développement durable et de l'énergie sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre de l'écologie, du développement durable et de l'énergie sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2015-12-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

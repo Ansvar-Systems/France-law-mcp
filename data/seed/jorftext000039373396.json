@@ -12,19 +12,28 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La présente ordonnance entre en vigueur le 1er mars 2020. Toutefois, elle ne s'applique pas aux procédures d'élaboration ou de révision de schémas d'aménagement régional en cours au 1er mars 2020."
+      "content": "La présente ordonnance entre en vigueur le 1er mars 2020. Toutefois, elle ne s'applique pas aux procédures d'élaboration ou de révision de schémas d'aménagement régional en cours au 1er mars 2020.",
+      "valid_from": "2020-03-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Lorsqu'un schéma d'aménagement régional comportant les orientations prévues par l'article L. 4433-7-3 du code général des collectivités territoriales issu de la présente ordonnance est approuvé, le schéma régional du climat, de l'air et de l'énergie applicable sur le territoire de la région ou de la collectivité concernée devient caduc, exception faite de son volet énergie qui figure dans la programmation pluriannuelle de l'énergie en application du II de l'article L. 141-5 du code de l'énergie."
+      "content": "Lorsqu'un schéma d'aménagement régional comportant les orientations prévues par l'article L. 4433-7-3 du code général des collectivités territoriales issu de la présente ordonnance est approuvé, le schéma régional du climat, de l'air et de l'énergie applicable sur le territoire de la région ou de la collectivité concernée devient caduc, exception faite de son volet énergie qui figure dans la programmation pluriannuelle de l'énergie en application du II de l'article L. 141-5 du code de l'énergie.",
+      "valid_from": "2020-03-01"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le Premier ministre, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, la ministre des outre-mer et le ministre auprès de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la ville et du logement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, la ministre des outre-mer et le ministre auprès de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la ville et du logement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-03-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

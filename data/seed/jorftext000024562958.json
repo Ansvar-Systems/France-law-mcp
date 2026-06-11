@@ -12,13 +12,21 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. ― Jusqu'à la désignation de l'organisme prévu à l'article L. 314-14 du code de l'énergie issu de la présente ordonnance, le gestionnaire du réseau de transport continue à gérer le système de délivrance et de suivi des garanties d'origine. Les garanties d'origine qu'il délivre peuvent être transférées ou utilisées dans les conditions en vigueur à la date de publication de la présente ordonnance.II. ― Le premier rapport annuel à remettre en application de l'article L. 641-8 du code de l'énergie issu de la présente ordonnance porte sur la période écoulée entre le premier jour du mois suivant la publication de l'arrêté prévu par le même article L. 641-8 et la fin de l'année civile.III. ― Pour l'application de l'article L. 661-4 du code de l'énergie issu de la présente ordonnance, les biocarburants et bioliquides produits dans des installations en fonctionnement avant le 23 janvier 2008 sont dispensés jusqu'au 1er avril 2013 de l'obligation énoncée au premier alinéa de cet article."
+      "content": "I. ― Jusqu'à la désignation de l'organisme prévu à l'article L. 314-14 du code de l'énergie issu de la présente ordonnance, le gestionnaire du réseau de transport continue à gérer le système de délivrance et de suivi des garanties d'origine. Les garanties d'origine qu'il délivre peuvent être transférées ou utilisées dans les conditions en vigueur à la date de publication de la présente ordonnance.II. ― Le premier rapport annuel à remettre en application de l'article L. 641-8 du code de l'énergie issu de la présente ordonnance porte sur la période écoulée entre le premier jour du mois suivant la publication de l'arrêté prévu par le même article L. 641-8 et la fin de l'année civile.III. ― Pour l'application de l'article L. 661-4 du code de l'énergie issu de la présente ordonnance, les biocarburants et bioliquides produits dans des installations en fonctionnement avant le 23 janvier 2008 sont dispensés jusqu'au 1er avril 2013 de l'obligation énoncée au premier alinéa de cet article.",
+      "valid_from": "2011-09-17"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable, des transports et du logement et le ministre de l'économie, des finances et de l'industrie sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable, des transports et du logement et le ministre de l'économie, des finances et de l'industrie sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2011-09-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

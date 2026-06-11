@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Par dérogation aux dispositions de l'article L. 231-2 du code de la sécurité sociale, les mandats des membres des conseils d'administration des organismes du régime général de sécurité sociale en fonctions à la date de publication de la présente loi sont prorogés jusqu'à une date, fixée par décret, qui ne pourra être postérieure au 31 mars 1991.\n\nLes mandats qui seraient pourvus après publication de la présente loi expireront à la même date que les mandats visés au premier alinéa."
+      "content": "Par dérogation aux dispositions de l'article L. 231-2 du code de la sécurité sociale, les mandats des membres des conseils d'administration des organismes du régime général de sécurité sociale en fonctions à la date de publication de la présente loi sont prorogés jusqu'à une date, fixée par décret, qui ne pourra être postérieure au 31 mars 1991.\n\nLes mandats qui seraient pourvus après publication de la présente loi expireront à la même date que les mandats visés au premier alinéa.",
+      "valid_from": "1989-07-12"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I-(modificateur)II-La date mentionnée au premier alinéa de l'article 69 de la loi 85-10 du 3 janvier 1985 précitée est fixée pour le régime d'assurance des salariés agricoles contre les accidents du travail et les maladies professionnelles prévu aux articles 1144 et suivants du code rural, ainsi que pour le régime d'assurance accident du code local des assurances sociales du 19 juillet 1911 en vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, en tant qu'il concerne les salariés agricoles, au 31 aôut 1987."
+      "content": "I-(modificateur)II-La date mentionnée au premier alinéa de l'article 69 de la loi 85-10 du 3 janvier 1985 précitée est fixée pour le régime d'assurance des salariés agricoles contre les accidents du travail et les maladies professionnelles prévu aux articles 1144 et suivants du code rural, ainsi que pour le régime d'assurance accident du code local des assurances sociales du 19 juillet 1911 en vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, en tant qu'il concerne les salariés agricoles, au 31 aôut 1987.",
+      "valid_from": "1989-07-12"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I - Les articles L. 644-3 et L. 723-25 du code de la sécurité sociale sont abrogés.    II - (modificateur)III - (modificateur)"
+      "content": "I - Les articles L. 644-3 et L. 723-25 du code de la sécurité sociale sont abrogés.    II - (modificateur)III - (modificateur)",
+      "valid_from": "1989-07-12"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Sont validés les certificats d'aptitude aux fonctions de direction d'établissement social délivrés en application de l'arrêté du 28 février 1985 du ministre des affaires sociales et de la solidarité nationale."
+      "content": "Sont validés les certificats d'aptitude aux fonctions de direction d'établissement social délivrés en application de l'arrêté du 28 février 1985 du ministre des affaires sociales et de la solidarité nationale.",
+      "valid_from": "1989-07-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,43 +12,56 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - A modifié les dispositions suivantes :\n\n- Code civil\n\n- Code de la justice pénale des mineurs\n\nIII. - Le présent article entre en vigueur à une date fixée par le décret prévu à l'article 375-1 du code civil, et au plus tard le premier jour du sixième mois suivant la promulgation de la présente loi."
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - A modifié les dispositions suivantes :\n\n- Code civil\n\n- Code de la justice pénale des mineurs\n\nIII. - Le présent article entre en vigueur à une date fixée par le décret prévu à l'article 375-1 du code civil, et au plus tard le premier jour du sixième mois suivant la promulgation de la présente loi.",
+      "valid_from": "2025-06-25"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-886 DC du 19 juin 2025.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-886 DC du 19 juin 2025.]",
+      "valid_from": "2025-06-25"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-886 DC du 19 juin 2025.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-886 DC du 19 juin 2025.]",
+      "valid_from": "2025-06-25"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-886 DC du 19 juin 2025.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-886 DC du 19 juin 2025.]",
+      "valid_from": "2025-06-25"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de la justice pénale des mineurs\n\nII. - Le I entre en vigueur à une date fixée par décret, et au plus tard le premier jour du sixième mois suivant la publication de la présente loi."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de la justice pénale des mineurs\n\nII. - Le I entre en vigueur à une date fixée par décret, et au plus tard le premier jour du sixième mois suivant la publication de la présente loi.",
+      "valid_from": "2025-06-25"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-886 DC du 19 juin 2025.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-886 DC du 19 juin 2025.]",
+      "valid_from": "2025-06-25"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-886 DC du 19 juin 2025.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-886 DC du 19 juin 2025.]",
+      "valid_from": "2025-06-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

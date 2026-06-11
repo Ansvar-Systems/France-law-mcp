@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le 5° de l'article L. 721-2 du code de la construction et de l'habitation dans sa rédaction issue de la présente ordonnance entre en vigueur le 1er janvier 2017."
+      "content": "Le 5° de l'article L. 721-2 du code de la construction et de l'habitation dans sa rédaction issue de la présente ordonnance entre en vigueur le 1er janvier 2017.",
+      "valid_from": "2015-08-29"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre et la ministre du logement, de l'égalité des territoires et de la ruralité sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre du logement, de l'égalité des territoires et de la ruralité sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2015-08-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

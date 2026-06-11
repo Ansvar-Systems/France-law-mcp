@@ -12,19 +12,28 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. - L'ensemble des personnels médicaux et paramédicaux, les travailleurs sociaux, les magistrats, les personnels de l'éducation nationale, les personnels d'animation sportive, culturelle et de loisirs, ainsi que les personnels de la police nationale, des polices municipales et de la gendarmerie nationale reçoivent, dans le cadre de leur formation initiale, une formation à la prévention des faits de harcèlement au sens de l'article 222-33-2-3 du code pénal ainsi qu'à l'identification et à la prise en charge des victimes, des témoins et des auteurs de ces faits. Une formation continue relative à la prévention, à la détection et à la prise en charge du harcèlement scolaire et universitaire est proposée à l'ensemble de ces personnes ainsi qu'à toutes celles intervenant à titre professionnel dans les établissements d'enseignement.\n\nII. - A créé les dispositions suivantes :\n\n- Code de l'éducation"
+      "content": "I. - L'ensemble des personnels médicaux et paramédicaux, les travailleurs sociaux, les magistrats, les personnels de l'éducation nationale, les personnels d'animation sportive, culturelle et de loisirs, ainsi que les personnels de la police nationale, des polices municipales et de la gendarmerie nationale reçoivent, dans le cadre de leur formation initiale, une formation à la prévention des faits de harcèlement au sens de l'article 222-33-2-3 du code pénal ainsi qu'à l'identification et à la prise en charge des victimes, des témoins et des auteurs de ces faits. Une formation continue relative à la prévention, à la détection et à la prise en charge du harcèlement scolaire et universitaire est proposée à l'ensemble de ces personnes ainsi qu'à toutes celles intervenant à titre professionnel dans les établissements d'enseignement.\n\nII. - A créé les dispositions suivantes :\n\n- Code de l'éducation",
+      "valid_from": "2022-03-04"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Gouvernement remet au Parlement, dans un délai d'un an à compter de la promulgation de la présente loi, un rapport relatif à la couverture des frais de consultation et de soins engagés par les victimes et par les auteurs de faits de harcèlement mentionnés à l'article 222-33-2-3 du code pénal auprès de psychologues et de psychiatres. Le rapport évalue les conditions d'une amélioration des remboursements assurés par les régimes d'assurance maladie au titre de ces prestations."
+      "content": "Le Gouvernement remet au Parlement, dans un délai d'un an à compter de la promulgation de la présente loi, un rapport relatif à la couverture des frais de consultation et de soins engagés par les victimes et par les auteurs de faits de harcèlement mentionnés à l'article 222-33-2-3 du code pénal auprès de psychologues et de psychiatres. Le rapport évalue les conditions d'une amélioration des remboursements assurés par les régimes d'assurance maladie au titre de ces prestations.",
+      "valid_from": "2022-03-04"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "A modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n-Loi n° 2004-575 du 21 janvier 2004"
+      "content": "A modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n-Loi n° 2004-575 du 21 janvier 2004",
+      "valid_from": "2022-03-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

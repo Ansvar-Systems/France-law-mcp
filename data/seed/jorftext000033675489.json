@@ -12,19 +12,28 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. - Les organismes de gestion collective informent les titulaires de droits qui leur ont déjà donné leur consentement à la gestion de leurs droits patrimoniaux à la date de publication de la présente ordonnance, des nouveaux droits institués à leur profit par le chapitre II du titre II du livre III du code de la propriété intellectuelle et par l'article L. 324-4 du même code, dans leur rédaction issue de la présente ordonnance, dans les trois mois à compter de la modification de leurs statuts.II. - L'article L. 325-4 du code de la propriété intellectuelle, dans sa rédaction issue de la présente ordonnance, entre en vigueur à compter du 10 avril 2017.III. - Le rapport de transparence annuel prévu à l'article L. 326-1 du code de la propriété intellectuelle est établi pour le premier exercice clos après la publication de la présente ordonnance et qui a pu être entièrement tenu comptablement conformément aux exigences de la présente ordonnance.IV. - Les membres de la commission permanente de contrôle prévue à l'article L. 321-13 du code de la propriété intellectuelle, dans sa rédaction antérieure à la publication de la présente ordonnance, continuent d'exercer leur mandat en cours au sein de la commission prévue à l'article L. 327-1 du code de la propriété intellectuelle résultant de la présente ordonnance, comme membres du collège de contrôle, pour la durée du mandat restant à courir."
+      "content": "I. - Les organismes de gestion collective informent les titulaires de droits qui leur ont déjà donné leur consentement à la gestion de leurs droits patrimoniaux à la date de publication de la présente ordonnance, des nouveaux droits institués à leur profit par le chapitre II du titre II du livre III du code de la propriété intellectuelle et par l'article L. 324-4 du même code, dans leur rédaction issue de la présente ordonnance, dans les trois mois à compter de la modification de leurs statuts.II. - L'article L. 325-4 du code de la propriété intellectuelle, dans sa rédaction issue de la présente ordonnance, entre en vigueur à compter du 10 avril 2017.III. - Le rapport de transparence annuel prévu à l'article L. 326-1 du code de la propriété intellectuelle est établi pour le premier exercice clos après la publication de la présente ordonnance et qui a pu être entièrement tenu comptablement conformément aux exigences de la présente ordonnance.IV. - Les membres de la commission permanente de contrôle prévue à l'article L. 321-13 du code de la propriété intellectuelle, dans sa rédaction antérieure à la publication de la présente ordonnance, continuent d'exercer leur mandat en cours au sein de la commission prévue à l'article L. 327-1 du code de la propriété intellectuelle résultant de la présente ordonnance, comme membres du collège de contrôle, pour la durée du mandat restant à courir.",
+      "valid_from": "2016-12-24"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les articles 1er, 2, à l'exception des 8° et 9°, et 5 sont applicables dans les îles Wallis et Futuna."
+      "content": "Les articles 1er, 2, à l'exception des 8° et 9°, et 5 sont applicables dans les îles Wallis et Futuna.",
+      "valid_from": "2016-12-24"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Premier ministre, la ministre de la culture et de la communication et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la culture et de la communication et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-12-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

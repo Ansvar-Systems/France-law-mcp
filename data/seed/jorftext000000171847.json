@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est autorisée l'approbation du deuxième protocole en date du 6 octobre 1995 annexé à l'accord général sur le commerce des services (ensemble les listes d'engagements dont la traduction est annexée à la présente loi) (1).(1) Il sera publié ultérieurement au Journal officiel de la République française."
+      "content": "Est autorisée l'approbation du deuxième protocole en date du 6 octobre 1995 annexé à l'accord général sur le commerce des services (ensemble les listes d'engagements dont la traduction est annexée à la présente loi) (1).(1) Il sera publié ultérieurement au Journal officiel de la République française.",
+      "valid_from": "1996-06-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Nonobstant toutes dispositions restrictives, les lois de droit commun ou d'exception, relatives aux baux à loyer et aux baux à ferme, réservent nécessairement le cas des ressortissants étrangers des pays qui offrent aux français les avantages d'une législation analogue, ainsi que celui des ressortissants étrangers dispensés par convention internationale de cette réciprocité, et sont en conséquence applicables à ces étrangers."
+      "content": "Nonobstant toutes dispositions restrictives, les lois de droit commun ou d'exception, relatives aux baux à loyer et aux baux à ferme, réservent nécessairement le cas des ressortissants étrangers des pays qui offrent aux français les avantages d'une législation analogue, ainsi que celui des ressortissants étrangers dispensés par convention internationale de cette réciprocité, et sont en conséquence applicables à ces étrangers.",
+      "valid_from": "1943-08-06"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Sont considérés comme dispensant de la réciprocité législative prévue à l'article 1er les traités diplomatiques qui admettent directement ou indirectement l'assimilation de l'étranger au national dans le domaine des droits civils, ou au moins dans celui régi par la loi dont l'application est revendiquée."
+      "content": "Sont considérés comme dispensant de la réciprocité législative prévue à l'article 1er les traités diplomatiques qui admettent directement ou indirectement l'assimilation de l'étranger au national dans le domaine des droits civils, ou au moins dans celui régi par la loi dont l'application est revendiquée.",
+      "valid_from": "1943-08-06"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions de l'article 1er ont un caractère interprétatif."
+      "content": "Les dispositions de l'article 1er ont un caractère interprétatif.",
+      "valid_from": "1943-08-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

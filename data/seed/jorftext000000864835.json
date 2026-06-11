@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "A compter de la promulgation de la présente loi, les vins bénéficiant de l'appellation d'origine contrôlée \"Vin d'Alsace\" ou \"Alsace\" ne pourront circuler, être présentés, mis en vente ou vendus qu'en bouteilles, conformément à la réglementation en vigueur, à l'exception des transferts de chais à chais dans les départements du Bas-Rhin et du Haut-Rhin.A compter de cette même date, la mise en bouteilles des vins à appellation d'origine contrôlée \"Vin d'Alsace\" ou \"Alsace\" ne pourra être effectuée que dans les départements du Bas-Rhin et du Haut-Rhin."
+      "content": "A compter de la promulgation de la présente loi, les vins bénéficiant de l'appellation d'origine contrôlée \"Vin d'Alsace\" ou \"Alsace\" ne pourront circuler, être présentés, mis en vente ou vendus qu'en bouteilles, conformément à la réglementation en vigueur, à l'exception des transferts de chais à chais dans les départements du Bas-Rhin et du Haut-Rhin.A compter de cette même date, la mise en bouteilles des vins à appellation d'origine contrôlée \"Vin d'Alsace\" ou \"Alsace\" ne pourra être effectuée que dans les départements du Bas-Rhin et du Haut-Rhin.",
+      "valid_from": "1972-07-10"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Des décrets fixeront, en tant que de besoin, les modalités d'application de la présente loi.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Des décrets fixeront, en tant que de besoin, les modalités d'application de la présente loi.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "1972-07-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

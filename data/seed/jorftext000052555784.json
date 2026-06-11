@@ -1,0 +1,32 @@
+{
+  "id": "jorftext000052555784",
+  "type": "statute",
+  "title": "Ordonnance n°2025-1073 du 10 novembre 2025",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000052555784",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Les dispositions de la présente ordonnance sont applicables aux assignations à résidence, aux placements et aux maintiens en zone d'attente ou en rétention décidées à compter de son entrée en vigueur.",
+      "valid_from": "2025-11-12"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Le Premier ministre, le ministre de l'intérieur, le garde des sceaux, ministre de la justice, et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2025-11-12"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

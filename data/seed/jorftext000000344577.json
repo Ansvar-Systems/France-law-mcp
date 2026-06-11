@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "A compter du 1er janvier 1992 *date d'effet*, toute référence à un indice des prix à la consommation pour la détermination d'une prestation, d'une rémunération, d'une dotation ou de tout autre avantage s'entend d'un indice ne prenant pas en compte le prix du tabac."
+      "content": "A compter du 1er janvier 1992 *date d'effet*, toute référence à un indice des prix à la consommation pour la détermination d'une prestation, d'une rémunération, d'une dotation ou de tout autre avantage s'entend d'un indice ne prenant pas en compte le prix du tabac.",
+      "valid_from": "1992-01-21"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les articles 13 à 15 de la loi n° 76-616 du 9 juillet 1976 précitée sont abrogés."
+      "content": "Les articles 13 à 15 de la loi n° 76-616 du 9 juillet 1976 précitée sont abrogés.",
+      "valid_from": "1991-01-12"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "A compter du 1er janvier 1993, par dérogation aux dispositions de l'article L. 17 du code des débits de boissons, l'exécution des contrats en cours au 1er janvier 1991 et relatifs à des opérations de publicité dans l'enceinte des débits de boissons est poursuivie jusqu'au 31 décembre 1993 au plus tard."
+      "content": "A compter du 1er janvier 1993, par dérogation aux dispositions de l'article L. 17 du code des débits de boissons, l'exécution des contrats en cours au 1er janvier 1991 et relatifs à des opérations de publicité dans l'enceinte des débits de boissons est poursuivie jusqu'au 31 décembre 1993 au plus tard.",
+      "valid_from": "1991-01-12"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 90-283 DC du 8 janvier 1991)."
+      "content": "(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 90-283 DC du 8 janvier 1991).",
+      "valid_from": "1991-01-12"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Un rapport d'évaluation de la présente loi devra être soumis par le Gouvernement au Parlement pour le 1er janvier 1993 et pour le 1er janvier 1995."
+      "content": "Un rapport d'évaluation de la présente loi devra être soumis par le Gouvernement au Parlement pour le 1er janvier 1993 et pour le 1er janvier 1995.",
+      "valid_from": "1991-01-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

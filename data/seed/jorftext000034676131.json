@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La section 4 du chapitre VIII du titre II du livre II du code de commerce est modifiée conformément aux articles 2 à 18 de la présente ordonnance."
+      "content": "La section 4 du chapitre VIII du titre II du livre II du code de commerce est modifiée conformément aux articles 2 à 18 de la présente ordonnance.",
+      "valid_from": "2017-05-12"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "La loi du 11 juillet 1934 relative à la compétence en matière de remboursement de titres ou de paiement de coupons émis par les sociétés et collectivités françaises ou étrangères est abrogée."
+      "content": "La loi du 11 juillet 1934 relative à la compétence en matière de remboursement de titres ou de paiement de coupons émis par les sociétés et collectivités françaises ou étrangères est abrogée.",
+      "valid_from": "2017-05-12"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Le décret-loi du 30 octobre 1935 relatif à la protection des obligataires est abrogé."
+      "content": "Le décret-loi du 30 octobre 1935 relatif à la protection des obligataires est abrogé.",
+      "valid_from": "2017-05-12"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Le Premier ministre, le ministre de l'économie et des finances, le garde des sceaux, ministre de la justice, et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie et des finances, le garde des sceaux, ministre de la justice, et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-05-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

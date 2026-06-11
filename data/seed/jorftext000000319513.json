@@ -12,49 +12,63 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La peine de mort est abolie."
+      "content": "La peine de mort est abolie.",
+      "valid_from": "1981-10-10"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les ayants droit d'une personne condamnée à la peine de mort dont la peine a été exécutée peuvent saisir la chambre criminelle de la Cour de cassation d'une demande tendant au rétablissement de l'honneur de cette personne à raison des gages d'amendement qu'elle a pu fournir."
+      "content": "Les ayants droit d'une personne condamnée à la peine de mort dont la peine a été exécutée peuvent saisir la chambre criminelle de la Cour de cassation d'une demande tendant au rétablissement de l'honneur de cette personne à raison des gages d'amendement qu'elle a pu fournir.",
+      "valid_from": "2020-12-27"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Dans tous les textes en vigueur prévoyant que la peine de mort est encourue, la référence à cette peine est remplacée par la référence à la réclusion criminelle à perpétuité ou à la détention criminelle à perpétuité suivant la nature du crime concerné."
+      "content": "Dans tous les textes en vigueur prévoyant que la peine de mort est encourue, la référence à cette peine est remplacée par la référence à la réclusion criminelle à perpétuité ou à la détention criminelle à perpétuité suivant la nature du crime concerné.",
+      "valid_from": "1981-10-10"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les articles 12, 13, 14, 15, 16 et 17 du code pénal et l'article 713 du Code de procédure pénale sont abrogés."
+      "content": "Les articles 12, 13, 14, 15, 16 et 17 du code pénal et l'article 713 du Code de procédure pénale sont abrogés.",
+      "valid_from": "1981-10-10"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le 1° de l'article 7 du code pénal est supprimé. Les 2°, 3°, 4° et 5° de cet article deviennent en conséquence les 1°, 2°, 3° et 4°."
+      "content": "Le 1° de l'article 7 du code pénal est supprimé. Les 2°, 3°, 4° et 5° de cet article deviennent en conséquence les 1°, 2°, 3° et 4°.",
+      "valid_from": "1981-10-10"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les articles 336 et 337 du Code de justice militaire sont abrogés."
+      "content": "Les articles 336 et 337 du Code de justice militaire sont abrogés.",
+      "valid_from": "1981-10-10"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "La présente loi est applicable, dans sa rédaction résultant de la loi n° 2020-1672 du 24 décembre 2020 relative au Parquet européen, à la justice environnementale et à la justice pénale spécialisée, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna."
+      "content": "La présente loi est applicable, dans sa rédaction résultant de la loi n° 2020-1672 du 24 décembre 2020 relative au Parquet européen, à la justice environnementale et à la justice pénale spécialisée, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.",
+      "valid_from": "2020-12-27"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les condamnations à la peine de mort prononcées après le 1er novembre 1980 seront converties de plein droit suivant la nature du crime concerné en condamnations à la réclusion criminelle à perpétuité ou en condamnations à la détention criminelle à perpétuité.Lorsqu'une condamnation a fait l'objet d'un pourvoi en cassation, les dispositions de l'alinéa précédent ne sont applicables qu'en cas de désistement ou de rejet du pourvoi."
+      "content": "Les condamnations à la peine de mort prononcées après le 1er novembre 1980 seront converties de plein droit suivant la nature du crime concerné en condamnations à la réclusion criminelle à perpétuité ou en condamnations à la détention criminelle à perpétuité.Lorsqu'une condamnation a fait l'objet d'un pourvoi en cassation, les dispositions de l'alinéa précédent ne sont applicables qu'en cas de désistement ou de rejet du pourvoi.",
+      "valid_from": "1981-10-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

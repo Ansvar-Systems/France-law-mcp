@@ -12,19 +12,28 @@
       "provision_ref": "artL321-1",
       "section": "L321-1",
       "title": "Article L. 321-1",
-      "content": "Sous réserve des dispositions de l'article L. 321-2, les immeubles ou droits immobiliers appartenant aux personnes mentionnées à l'article L. 111-1 sont vendus par adjudication publique, avec publicité.L'adjudication est autorisée par l'autorité compétente de la collectivité propriétaire."
+      "content": "Sous réserve des dispositions de l'article L. 321-2, les immeubles ou droits immobiliers appartenant aux personnes mentionnées à l'article L. 111-1 sont vendus par adjudication publique, avec publicité.L'adjudication est autorisée par l'autorité compétente de la collectivité propriétaire.",
+      "valid_from": "1993-07-01"
     },
     {
       "provision_ref": "artL321-2",
       "section": "L321-2",
       "title": "Article L. 321-2",
-      "content": "Toutefois, les immeubles ou droits immobiliers sont cédés à l'amiable lorsque des lois et règlements spéciaux prévoient ce mode d'aliénation pour des catégories d'immeubles déterminées.\n\nLes cessions peuvent également être faites à l'amiable :\n\n1° Lorsque l'adjudication publique a été infructueuse ;\n\n2° Lorsque l'immeuble est nécessaire à l'accomplissement d'une mission de service public ou à la réalisation d'une opération d'intérêt général ;\n\n3° Lorsque l'immeuble ne peut, en raison de sa spécificité, être cédé qu'à un acquéreur déterminé ;\n\n4° Lorsque la valeur vénale n'excède pas des montants fixés par décision de l'organe délibérant de la collectivité territoriale de Mayotte pour la collectivité territoriale et les communes.\n\nLes cessions amiables sont autorisées par l'autorité compétente de la collectivité propriétaire.\n\nDans le cas prévu au premier alinéa du présent article, le prix est, à défaut d'accord amiable, fixé comme en matière d'expropriation pour cause d'utilité publique, à moins qu'il n'en soit disposé autrement par les dispositions spéciales précitées."
+      "content": "Toutefois, les immeubles ou droits immobiliers sont cédés à l'amiable lorsque des lois et règlements spéciaux prévoient ce mode d'aliénation pour des catégories d'immeubles déterminées.\n\nLes cessions peuvent également être faites à l'amiable :\n\n1° Lorsque l'adjudication publique a été infructueuse ;\n\n2° Lorsque l'immeuble est nécessaire à l'accomplissement d'une mission de service public ou à la réalisation d'une opération d'intérêt général ;\n\n3° Lorsque l'immeuble ne peut, en raison de sa spécificité, être cédé qu'à un acquéreur déterminé ;\n\n4° Lorsque la valeur vénale n'excède pas des montants fixés par décision de l'organe délibérant de la collectivité territoriale de Mayotte pour la collectivité territoriale et les communes.\n\nLes cessions amiables sont autorisées par l'autorité compétente de la collectivité propriétaire.\n\nDans le cas prévu au premier alinéa du présent article, le prix est, à défaut d'accord amiable, fixé comme en matière d'expropriation pour cause d'utilité publique, à moins qu'il n'en soit disposé autrement par les dispositions spéciales précitées.",
+      "valid_from": "2008-08-30"
     },
     {
       "provision_ref": "artL410-2",
       "section": "L410-2",
       "title": "Article L. 410-2",
-      "content": "Le montant des sommes et produits de toute nature recouvrés par les comptables publics compétents en matière domaniale pour le compte des services et établissements dotés de la personnalité civile ou seulement de l'autonomie financière, ainsi que pour le compte de tiers, peut donner lieu à l'application d'un prélèvement au profit de l'Etat ou de la collectivité territoriale pour frais d'administration, de vente et de perception.Selon que le prélèvement est perçu au profit de l'Etat ou de la collectivité territoriale, le taux est fixé par décision du représentant du Gouvernement ou par décision du conseil général, dans la limite de 12 p. 100 du montant des recouvrements lorsque ceux-ci sont afférents à la gestion de patrimoines privés et de 8 p. 100 dans les autres cas."
+      "content": "Le montant des sommes et produits de toute nature recouvrés par les comptables publics compétents en matière domaniale pour le compte des services et établissements dotés de la personnalité civile ou seulement de l'autonomie financière, ainsi que pour le compte de tiers, peut donner lieu à l'application d'un prélèvement au profit de l'Etat ou de la collectivité territoriale pour frais d'administration, de vente et de perception.Selon que le prélèvement est perçu au profit de l'Etat ou de la collectivité territoriale, le taux est fixé par décision du représentant du Gouvernement ou par décision du conseil général, dans la limite de 12 p. 100 du montant des recouvrements lorsque ceux-ci sont afférents à la gestion de patrimoines privés et de 8 p. 100 dans les autres cas.",
+      "valid_from": "1993-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

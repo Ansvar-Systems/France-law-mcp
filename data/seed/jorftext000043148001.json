@@ -12,13 +12,21 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "I. - Les dispositions de la section 3 du chapitre V du titre IV du livre IV du code de l'énergie, dans leur rédaction résultant du I de l'article 3 de la présente ordonnance, entrent en vigueur le 1er avril 2023.II. - Les dispositions du chapitre II du titre II du livre VIII du même code, dans leur rédaction résultant de l'article 5 de la présente ordonnance, ne s'appliquent qu'aux installations dont la date de mise en service est postérieure au 31 décembre 2023.III. - Les dispositions de l'article L. 445-15, dans leur rédaction résultant du I de l'article 3 de la présente ordonnance ainsi que celles de l'article L. 824-1, dans leur rédaction résultant de l'article 5 de la même ordonnance, entrent en vigueur le 30 juin 2021."
+      "content": "I. - Les dispositions de la section 3 du chapitre V du titre IV du livre IV du code de l'énergie, dans leur rédaction résultant du I de l'article 3 de la présente ordonnance, entrent en vigueur le 1er avril 2023.II. - Les dispositions du chapitre II du titre II du livre VIII du même code, dans leur rédaction résultant de l'article 5 de la présente ordonnance, ne s'appliquent qu'aux installations dont la date de mise en service est postérieure au 31 décembre 2023.III. - Les dispositions de l'article L. 445-15, dans leur rédaction résultant du I de l'article 3 de la présente ordonnance ainsi que celles de l'article L. 824-1, dans leur rédaction résultant de l'article 5 de la même ordonnance, entrent en vigueur le 30 juin 2021.",
+      "valid_from": "2021-02-19"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le Premier ministre et la ministre de la transition écologique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre de la transition écologique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-02-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

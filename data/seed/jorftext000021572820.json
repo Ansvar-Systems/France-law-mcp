@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. - Sous réserve du II du présent article,les dispositions de la présente ordonnance entrent en vigueur au 1er janvier 2010.II. - Jusqu'aux dates des arrêtés par lesquels le ministre chargé des anciens combattants et victimes de guerre transfère les compétences des directions interdépartementales des anciens combattants, et au plus tard le 31 décembre 2011, ces directions font application des articles L. 18 et L. 28 du code des pensions militaires d'invalidité et des victimes de la guerre dans leur version en vigueur avant la date de publication de la présente ordonnance."
+      "content": "I. - Sous réserve du II du présent article,les dispositions de la présente ordonnance entrent en vigueur au 1er janvier 2010.II. - Jusqu'aux dates des arrêtés par lesquels le ministre chargé des anciens combattants et victimes de guerre transfère les compétences des directions interdépartementales des anciens combattants, et au plus tard le 31 décembre 2011, ces directions font application des articles L. 18 et L. 28 du code des pensions militaires d'invalidité et des victimes de la guerre dans leur version en vigueur avant la date de publication de la présente ordonnance.",
+      "valid_from": "2010-01-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, le ministre du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat, le ministre de la défense et le secrétaire d'Etat à la défense et aux anciens combattants sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat, le ministre de la défense et le secrétaire d'Etat à la défense et aux anciens combattants sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2010-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

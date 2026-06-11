@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Pendant une période d'au moins trois mois se terminant au plus tard en 2021, les établissements de santé mentionnés à l'article L. 6111-1 du code de la santé publique bénéficient, par dérogation aux articles L. 162-22-1, L. 162-22-6 et L. 162-23-1 du code de la sécurité sociale, d'une garantie de financement pour faire face à l'épidémie de covid-19. Le niveau mensuel de cette garantie est déterminé en tenant compte du volume d'activité et des recettes perçues antérieurement par l'établissement, notamment au titre de ses activités.Pendant la période concernée, lorsque les recettes issues de leur activité sont inférieures au montant du niveau de cette garantie pour une période d'un mois, les établissements bénéficient du versement d'un complément de recettes leur permettant d'atteindre ce niveau.Les dispositions de droit commun relatives à la tarification des établissements de santé s'appliquent sous réserve, le cas échéant, de l'adaptation des modalités de leur versement et des dispositions du premier alinéa.Les modalités de détermination du niveau de la garantie, des dates et de sa durée de mise en œuvre ainsi que les modalités de son versement et de la répartition entre les régimes des sommes versées aux établissements de santé par les régimes obligatoires d'assurance maladie sont fixées par arrêté des ministres chargés de la santé et de la sécurité sociale."
+      "content": "Pendant une période d'au moins trois mois se terminant au plus tard en 2021, les établissements de santé mentionnés à l'article L. 6111-1 du code de la santé publique bénéficient, par dérogation aux articles L. 162-22-1, L. 162-22-6 et L. 162-23-1 du code de la sécurité sociale, d'une garantie de financement pour faire face à l'épidémie de covid-19. Le niveau mensuel de cette garantie est déterminé en tenant compte du volume d'activité et des recettes perçues antérieurement par l'établissement, notamment au titre de ses activités.Pendant la période concernée, lorsque les recettes issues de leur activité sont inférieures au montant du niveau de cette garantie pour une période d'un mois, les établissements bénéficient du versement d'un complément de recettes leur permettant d'atteindre ce niveau.Les dispositions de droit commun relatives à la tarification des établissements de santé s'appliquent sous réserve, le cas échéant, de l'adaptation des modalités de leur versement et des dispositions du premier alinéa.Les modalités de détermination du niveau de la garantie, des dates et de sa durée de mise en œuvre ainsi que les modalités de son versement et de la répartition entre les régimes des sommes versées aux établissements de santé par les régimes obligatoires d'assurance maladie sont fixées par arrêté des ministres chargés de la santé et de la sécurité sociale.",
+      "valid_from": "2020-12-11"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Jusqu'au 31 juillet 2020, l'Agence centrale des organismes de sécurité sociale peut, à titre exceptionnel, consentir au titre de l'exercice 2020, contre rémunération, des prêts et avances de trésorerie d'une durée inférieure à douze mois aux organismes gérant un régime complémentaire obligatoire de sécurité sociale.Ces prêts et avances peuvent être consentis aux organismes mentionnés au premier alinéa qui, du fait des conséquences de l'épidémie de covid-19 sur la situation économique et financière, sont dans l'incapacité de couvrir par eux-mêmes l'intégralité de leur besoin de financement. La liste de ces organismes est fixée par arrêté des ministres chargés de la sécurité sociale et du budget.Les conditions de rémunérations et de tirages de ces prêts et avances sont déterminées par une convention conclue entre l'agence et l'organisme concerné et approuvée dans un délai de 15 jours par les ministres chargés de la sécurité sociale et du budget. La rémunération doit assurer au moins la couverture des charges constatées par l'Agence centrale des organismes de sécurité sociale au titre de ces prêts et avances."
+      "content": "Jusqu'au 31 juillet 2020, l'Agence centrale des organismes de sécurité sociale peut, à titre exceptionnel, consentir au titre de l'exercice 2020, contre rémunération, des prêts et avances de trésorerie d'une durée inférieure à douze mois aux organismes gérant un régime complémentaire obligatoire de sécurité sociale.Ces prêts et avances peuvent être consentis aux organismes mentionnés au premier alinéa qui, du fait des conséquences de l'épidémie de covid-19 sur la situation économique et financière, sont dans l'incapacité de couvrir par eux-mêmes l'intégralité de leur besoin de financement. La liste de ces organismes est fixée par arrêté des ministres chargés de la sécurité sociale et du budget.Les conditions de rémunérations et de tirages de ces prêts et avances sont déterminées par une convention conclue entre l'agence et l'organisme concerné et approuvée dans un délai de 15 jours par les ministres chargés de la sécurité sociale et du budget. La rémunération doit assurer au moins la couverture des charges constatées par l'Agence centrale des organismes de sécurité sociale au titre de ces prêts et avances.",
+      "valid_from": "2020-03-27"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Premier ministre, le ministre des solidarités et de la santé et le ministre de l'action et des comptes publics sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des solidarités et de la santé et le ministre de l'action et des comptes publics sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-03-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

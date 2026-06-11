@@ -1,0 +1,25 @@
+{
+  "id": "legitext000006069445",
+  "type": "statute",
+  "title": "Loi du 8 juin 1864",
+  "title_en": null,
+  "short_name": null,
+  "status": "repealed",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069445/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Article 30",
+      "content": "La libération des cautionnements en rentes ou en numéraire aura lieu conformément à l'article 8 de la loi du 21 ventôse an VII. Elle sera prononcée par le   tribunal judiciaire dans le ressort duquel le conservateur aura exercé ses fonctions en dernier lieu, et le procureur de la République entendu.Toutefois, après l'expiration du délai d'affectation prévu par cet article 8 de la loi du 21 ventôse an VII, la libération sera prononcée par le directeur des services fiscaux territorialement compétent, s'il n'existe ni opposition ni action en garantie ou en responsabilité contre le conservateur.",
+      "valid_from": "2020-01-01"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

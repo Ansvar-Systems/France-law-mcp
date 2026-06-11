@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Peuvent être négociés sans publicité mais avec mise en concurrence préalable les marchés de travaux soumis au code de la commande publique nécessaires à la reconstruction ou à la réfection des équipements publics et des bâtiments affectés par des dégradations ou destructions liées aux troubles à l'ordre et à la sécurité publics survenus entre le 27 juin et le 5 juillet 2023 et répondant à un besoin dont la valeur estimée est inférieure à 1 500 000 d'euros hors taxes.Ces dispositions sont également applicables aux lots dont le montant est inférieur à 1 000 000 d'euros hors taxes, à la condition que le montant cumulé de ces lots n'excède pas 20 % de la valeur totale estimée de tous les lots."
+      "content": "Peuvent être négociés sans publicité mais avec mise en concurrence préalable les marchés de travaux soumis au code de la commande publique nécessaires à la reconstruction ou à la réfection des équipements publics et des bâtiments affectés par des dégradations ou destructions liées aux troubles à l'ordre et à la sécurité publics survenus entre le 27 juin et le 5 juillet 2023 et répondant à un besoin dont la valeur estimée est inférieure à 1 500 000 d'euros hors taxes.Ces dispositions sont également applicables aux lots dont le montant est inférieur à 1 000 000 d'euros hors taxes, à la condition que le montant cumulé de ces lots n'excède pas 20 % de la valeur totale estimée de tous les lots.",
+      "valid_from": "2023-07-28"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Par dérogation aux dispositions des articles L. 2113-10 et L. 2113-11 du code de la commande publique, les marchés nécessaires à la reconstruction ou à la réfection des équipements publics et des bâtiments mentionnés à l'article 1er peuvent faire l'objet d'un marché unique."
+      "content": "Par dérogation aux dispositions des articles L. 2113-10 et L. 2113-11 du code de la commande publique, les marchés nécessaires à la reconstruction ou à la réfection des équipements publics et des bâtiments mentionnés à l'article 1er peuvent faire l'objet d'un marché unique.",
+      "valid_from": "2023-07-28"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les acheteurs peuvent confier à un opérateur économique une mission globale portant sur la conception, la construction ou l'aménagement des équipements publics et des bâtiments mentionnés à l'article 1er, y compris si les conditions posées au deuxième alinéa de l'article L. 2171-2 du code de la commande publique ne sont pas remplies.Les dispositions du second alinéa de l'article L. 2431-1 du même code ne sont pas applicables aux contrats ainsi conclus."
+      "content": "Les acheteurs peuvent confier à un opérateur économique une mission globale portant sur la conception, la construction ou l'aménagement des équipements publics et des bâtiments mentionnés à l'article 1er, y compris si les conditions posées au deuxième alinéa de l'article L. 2171-2 du code de la commande publique ne sont pas remplies.Les dispositions du second alinéa de l'article L. 2431-1 du même code ne sont pas applicables aux contrats ainsi conclus.",
+      "valid_from": "2023-07-28"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La présente ordonnance s'applique aux marchés pour lesquels une consultation est engagée ou un avis de publicité est envoyé à la publication à compter de son entrée en vigueur et pendant un délai de neuf mois à compter de cette date."
+      "content": "La présente ordonnance s'applique aux marchés pour lesquels une consultation est engagée ou un avis de publicité est envoyé à la publication à compter de son entrée en vigueur et pendant un délai de neuf mois à compter de cette date.",
+      "valid_from": "2023-07-28"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La Première ministre et le ministre de l'économie, des finances et de la souveraineté industrielle et numérique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "La Première ministre et le ministre de l'économie, des finances et de la souveraineté industrielle et numérique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2023-07-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

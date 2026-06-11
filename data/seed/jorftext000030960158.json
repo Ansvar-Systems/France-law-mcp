@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le titre IV du livre II du code rural et de la pêche maritime est modifié conformément aux articles 2 à 5."
+      "content": "Le titre IV du livre II du code rural et de la pêche maritime est modifié conformément aux articles 2 à 5.",
+      "valid_from": "2015-08-03"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les dispositions du dernier alinéa du IV de l'article L. 242-4-1 sont applicables à compter des premières élections pour le renouvellement des membres des conseils régionaux suivant la publication de la présente ordonnance."
+      "content": "Les dispositions du dernier alinéa du IV de l'article L. 242-4-1 sont applicables à compter des premières élections pour le renouvellement des membres des conseils régionaux suivant la publication de la présente ordonnance.",
+      "valid_from": "2015-08-03"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Premier ministre et le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2015-08-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

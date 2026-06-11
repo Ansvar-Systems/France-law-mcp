@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Il sera établi à Paris, pour tout notre royaume, une Académie royale de médecine."
+      "content": "Il sera établi à Paris, pour tout notre royaume, une Académie royale de médecine.",
+      "valid_from": "1820-12-20"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Notre Ministre secrétaire d'état au département de l'intérieur est chargé de l'exécution de la présente ordonnance, qui sera insérée au Bulletin des lois."
+      "content": "Notre Ministre secrétaire d'état au département de l'intérieur est chargé de l'exécution de la présente ordonnance, qui sera insérée au Bulletin des lois.",
+      "valid_from": "1820-12-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,43 +12,56 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code général des collectivités territoriales est modifié conformément aux dispositions des articles 2 à 16 de la présente ordonnance."
+      "content": "Le code général des collectivités territoriales est modifié conformément aux dispositions des articles 2 à 16 de la présente ordonnance.",
+      "valid_from": "2020-10-16"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- Code général des collectivités territoriales\n\nII. - L'article L. 5711-1 demeure en vigueur en Polynésie française dans sa rédaction résultant de la loi n° 2015-91 du 7 août 2015 jusqu'au renouvellement général des conseils municipaux suivant la promulgation de la présente ordonnance."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Code général des collectivités territoriales\n\nII. - L'article L. 5711-1 demeure en vigueur en Polynésie française dans sa rédaction résultant de la loi n° 2015-91 du 7 août 2015 jusqu'au renouvellement général des conseils municipaux suivant la promulgation de la présente ordonnance.",
+      "valid_from": "2020-10-16"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- Code général des collectivités territoriales\n\nII. - L'article L. 5721-2 demeure en vigueur en Polynésie française dans sa rédaction résultant de la loi n° 2018-607 du 13 juillet 2018 jusqu'au renouvellement général des conseils municipaux suivant la promulgation de la présente ordonnance."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Code général des collectivités territoriales\n\nII. - L'article L. 5721-2 demeure en vigueur en Polynésie française dans sa rédaction résultant de la loi n° 2018-607 du 13 juillet 2018 jusqu'au renouvellement général des conseils municipaux suivant la promulgation de la présente ordonnance.",
+      "valid_from": "2020-10-16"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Le code de la sécurité intérieure est modifié conformément aux dispositions des articles 18 à 20 de la présente ordonnance."
+      "content": "Le code de la sécurité intérieure est modifié conformément aux dispositions des articles 18 à 20 de la présente ordonnance.",
+      "valid_from": "2020-10-16"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de la sécurité intérieure\n\nII. - Les communes soumises à l'obligation de conclure une convention de coordination en application des dispositions modifiées par le I, pour lesquelles le maire ou le président de l'établissement public de coopération intercommunale n'a pas conventionné avant la publication de la présente ordonnance, sont tenues de s'y conformer dans un délai maximal de deux ans à compter de cette publication."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de la sécurité intérieure\n\nII. - Les communes soumises à l'obligation de conclure une convention de coordination en application des dispositions modifiées par le I, pour lesquelles le maire ou le président de l'établissement public de coopération intercommunale n'a pas conventionné avant la publication de la présente ordonnance, sont tenues de s'y conformer dans un délai maximal de deux ans à compter de cette publication.",
+      "valid_from": "2020-10-16"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Le code des communes de la Nouvelle-Calédonie est modifié conformément aux dispositions des articles 23 à 48 de la présente ordonnance."
+      "content": "Le code des communes de la Nouvelle-Calédonie est modifié conformément aux dispositions des articles 23 à 48 de la présente ordonnance.",
+      "valid_from": "2020-10-16"
     },
     {
       "provision_ref": "art51",
       "section": "51",
       "title": "Article 51",
-      "content": "Le Premier ministre, le ministre de l'intérieur, le ministre des outre-mer et la ministre de la cohésion des territoires et des relations avec les collectivités territoriales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'intérieur, le ministre des outre-mer et la ministre de la cohésion des territoires et des relations avec les collectivités territoriales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-10-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

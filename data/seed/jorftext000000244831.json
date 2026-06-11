@@ -12,43 +12,56 @@
       "provision_ref": "art33",
       "section": "33",
       "title": "Article 33",
-      "content": "Les ressortissants des Etats qui deviendront membres de l'Union européenne le 1er mai 2004 et remplissant au dernier jour de février 2004 les conditions prévues à l'article 2-2 de la loi n° 77-729 du 7 juillet 1977 sont inscrits, à leur demande, sur la liste électorale complémentaire de l'une des communes mentionnées à l'article L. 11 du code électoral."
+      "content": "Les ressortissants des Etats qui deviendront membres de l'Union européenne le 1er mai 2004 et remplissant au dernier jour de février 2004 les conditions prévues à l'article 2-2 de la loi n° 77-729 du 7 juillet 1977 sont inscrits, à leur demande, sur la liste électorale complémentaire de l'une des communes mentionnées à l'article L. 11 du code électoral.",
+      "valid_from": "2003-12-09"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "Les demandes d'inscription sont déposées dans les mairies jusqu'au 15 avril 2004.Chaque demande est accompagnée de la déclaration écrite prévue à l'article 2-4 de la loi du 7 juillet 1977 précitée."
+      "content": "Les demandes d'inscription sont déposées dans les mairies jusqu'au 15 avril 2004.Chaque demande est accompagnée de la déclaration écrite prévue à l'article 2-4 de la loi du 7 juillet 1977 précitée.",
+      "valid_from": "2003-12-09"
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "La commission administrative prévue au deuxième alinéa de l'article L. 17 du code électoral procède aux inscriptions au plus tard le 7 mai 2004.\n\nNul ne peut être inscrit sur plusieurs listes électorales."
+      "content": "La commission administrative prévue au deuxième alinéa de l'article L. 17 du code électoral procède aux inscriptions au plus tard le 7 mai 2004.\n\nNul ne peut être inscrit sur plusieurs listes électorales.",
+      "valid_from": "2003-12-09"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "Les articles L. 20, L. 25, L. 27, les sections IV et VI du chapitre II du titre Ier du livre Ier du code électoral sont applicables aux opérations prévues aux articles 33 à 35."
+      "content": "Les articles L. 20, L. 25, L. 27, les sections IV et VI du chapitre II du titre Ier du livre Ier du code électoral sont applicables aux opérations prévues aux articles 33 à 35.",
+      "valid_from": "2003-12-09"
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "Les articles 2-5, 2-7 et 2-8 de la loi du 7 juillet 1977 susvisée sont applicables aux opérations prévues aux articles 33 à 35."
+      "content": "Les articles 2-5, 2-7 et 2-8 de la loi du 7 juillet 1977 susvisée sont applicables aux opérations prévues aux articles 33 à 35.",
+      "valid_from": "2003-12-09"
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "I. - Les titres Ier, II, III, IV, VI, VIII et IX sont applicables en Nouvelle-Calédonie.II. - Les titres Ier, II, III, IV, à l'exception de l'article 17, VI, VIII et IX sont applicables en Polynésie française.III. - Les titres Ier, II, III, IV, VIII et IX sont applicables dans les îles Wallis et Futuna.IV. - Pour l'application du titre IX de la présente ordonnance, il est fait application des articles L. 328-1-1, L. 334-4, L. 385 à L. 387 et L. 389 du code électoral.Pour l'application dans les îles Wallis et Futuna du premier alinéa de l'article 34 de la présente ordonnance, les mots : dans les mairies sont remplacés par les mots : au siège des circonscriptions."
+      "content": "I. - Les titres Ier, II, III, IV, VI, VIII et IX sont applicables en Nouvelle-Calédonie.II. - Les titres Ier, II, III, IV, à l'exception de l'article 17, VI, VIII et IX sont applicables en Polynésie française.III. - Les titres Ier, II, III, IV, VIII et IX sont applicables dans les îles Wallis et Futuna.IV. - Pour l'application du titre IX de la présente ordonnance, il est fait application des articles L. 328-1-1, L. 334-4, L. 385 à L. 387 et L. 389 du code électoral.Pour l'application dans les îles Wallis et Futuna du premier alinéa de l'article 34 de la présente ordonnance, les mots : dans les mairies sont remplacés par les mots : au siège des circonscriptions.",
+      "valid_from": "2003-12-09"
     },
     {
       "provision_ref": "art39",
       "section": "39",
       "title": "Article 39",
-      "content": "Le Premier ministre, le ministre de l'intérieur, de la sécurité intérieure et des libertés locales, le garde des sceaux, ministre de la justice, le ministre des affaires étrangères et la ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'intérieur, de la sécurité intérieure et des libertés locales, le garde des sceaux, ministre de la justice, le ministre des affaires étrangères et la ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2003-12-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

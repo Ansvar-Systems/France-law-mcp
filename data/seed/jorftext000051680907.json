@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance, dans un délai de trois mois à compter de la promulgation de la présente loi, toute mesure relevant du domaine de la loi prévoyant les conditions et les modalités selon lesquelles, au terme de la convention du 5 juin 2020 portant concession à la mission catholique de l'enseignement du premier degré sur le territoire des îles Wallis et Futuna pour les années 2020-2025, les personnels enseignants qui en relèvent peuvent, quel que soit leur niveau de diplôme :1° Etre intégrés dans les corps de la fonction publique de l'Etat ;2° Opter en faveur du maintien de leur affiliation, pour leur retraite, au régime géré par la Caisse des prestations sociales des îles Wallis et Futuna ou être affiliés au régime spécial dont relève leur corps d'intégration et bénéficier des prestations de ces régimes."
+      "content": "Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance, dans un délai de trois mois à compter de la promulgation de la présente loi, toute mesure relevant du domaine de la loi prévoyant les conditions et les modalités selon lesquelles, au terme de la convention du 5 juin 2020 portant concession à la mission catholique de l'enseignement du premier degré sur le territoire des îles Wallis et Futuna pour les années 2020-2025, les personnels enseignants qui en relèvent peuvent, quel que soit leur niveau de diplôme :1° Etre intégrés dans les corps de la fonction publique de l'Etat ;2° Opter en faveur du maintien de leur affiliation, pour leur retraite, au régime géré par la Caisse des prestations sociales des îles Wallis et Futuna ou être affiliés au régime spécial dont relève leur corps d'intégration et bénéficier des prestations de ces régimes.",
+      "valid_from": "2025-06-04"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Un projet de loi de ratification est déposé devant le Parlement dans un délai de six mois à compter de la publication de l'ordonnance."
+      "content": "Un projet de loi de ratification est déposé devant le Parlement dans un délai de six mois à compter de la publication de l'ordonnance.",
+      "valid_from": "2025-06-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

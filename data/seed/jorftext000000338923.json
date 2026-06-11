@@ -12,25 +12,35 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les délibérations ou arrêtés relatifs à la composition, aux effectifs et à la rémunération du personnel du département de la Seine, de la ville de Paris, de la ville de Marseille, des communes suburbaines de la Seine et des établissements relevant de ces collectivités, sont approuvés par arrêté du ministre de l'intérieur et du ministre des finances et, lorsqu'il s'agit de l'assistance publique de Paris et de Marseille, du ministre de la santé publique.\n\nLes délibérations concernant le personnel des autres départements et communes et des établissements publics qui en relèvent sont approuvées par le préfet ou le sous-préfet lorsque celui-ci règle le budget. Le trésorier-payeur général est consulté lorsqu'il s'agit de personnel de départements ou de villes de plus de 20.000 habitants.\n\nEn cas de désaccord, il est statué par décision concertée du ministre de l'intérieur et du ministre des finances."
+      "content": "Les délibérations ou arrêtés relatifs à la composition, aux effectifs et à la rémunération du personnel du département de la Seine, de la ville de Paris, de la ville de Marseille, des communes suburbaines de la Seine et des établissements relevant de ces collectivités, sont approuvés par arrêté du ministre de l'intérieur et du ministre des finances et, lorsqu'il s'agit de l'assistance publique de Paris et de Marseille, du ministre de la santé publique.\n\nLes délibérations concernant le personnel des autres départements et communes et des établissements publics qui en relèvent sont approuvées par le préfet ou le sous-préfet lorsque celui-ci règle le budget. Le trésorier-payeur général est consulté lorsqu'il s'agit de personnel de départements ou de villes de plus de 20.000 habitants.\n\nEn cas de désaccord, il est statué par décision concertée du ministre de l'intérieur et du ministre des finances.",
+      "valid_from": "1945-05-18"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Il est créé une caisse nationale des retraites à laquelle pourront être affiliés les agents des départements et des communes et de leurs établissements publics s'ils sont investis d'un emploi permanent ainsi que les agents des établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière. Cette affiliation sera obligatoire pour les agents déjà tributaires d'un régime particulier de retraites. Un    décret en Conseil d'Etat déterminera les modalités d'application du présent article."
+      "content": "Il est créé une caisse nationale des retraites à laquelle pourront être affiliés les agents des départements et des communes et de leurs établissements publics s'ils sont investis d'un emploi permanent ainsi que les agents des établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière. Cette affiliation sera obligatoire pour les agents déjà tributaires d'un régime particulier de retraites. Un    décret en Conseil d'Etat déterminera les modalités d'application du présent article.",
+      "valid_from": "2009-07-23"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Est expressément constatée la nullité des actes suivants de l'autorité de fait se disant gouvernement de l'Etat français :\n\nLoi n° 3983 du 14 septembre 1941 portant extension de l'article 22 et du titre VIII de la loi n° 3981 du 14 septembre 1941 aux fonctionnaires des collectivités locales et aux agents et ouvriers des administrations publiques ;\n\nLoi du 9 septembre 1943 relative à l'organisation des services publics et des établissements publics de la commune ;\n\nDécret du 9 septembre 1943 portant règlement d'administration publique pour l'application de l'article 5 de la loi du 9 septembre susvisée."
+      "content": "Est expressément constatée la nullité des actes suivants de l'autorité de fait se disant gouvernement de l'Etat français :\n\nLoi n° 3983 du 14 septembre 1941 portant extension de l'article 22 et du titre VIII de la loi n° 3981 du 14 septembre 1941 aux fonctionnaires des collectivités locales et aux agents et ouvriers des administrations publiques ;\n\nLoi du 9 septembre 1943 relative à l'organisation des services publics et des établissements publics de la commune ;\n\nDécret du 9 septembre 1943 portant règlement d'administration publique pour l'application de l'article 5 de la loi du 9 septembre susvisée.",
+      "valid_from": "1945-05-18"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Sont abrogés :L'article 3 du décret du 12 novembre 1938 relatif à l'administration départementale et communale ;Les articles 1er à 3 du décret du 28 janvier 1939 relatif aux traitements et pensions des personnels des collectivités secondaires et des établissements et services publics de ces collectivités ;Le décret-loi du 1er septembre 1939 relatif à l'application des dispositions du décret du 28 janvier 1939 ;Le deuxième alinéa de l'article 1er du décret-loi du 28 septembre 1939 relatif à la limitation du recrutement des fonctionnaires."
+      "content": "Sont abrogés :L'article 3 du décret du 12 novembre 1938 relatif à l'administration départementale et communale ;Les articles 1er à 3 du décret du 28 janvier 1939 relatif aux traitements et pensions des personnels des collectivités secondaires et des établissements et services publics de ces collectivités ;Le décret-loi du 1er septembre 1939 relatif à l'application des dispositions du décret du 28 janvier 1939 ;Le deuxième alinéa de l'article 1er du décret-loi du 28 septembre 1939 relatif à la limitation du recrutement des fonctionnaires.",
+      "valid_from": "1945-05-18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

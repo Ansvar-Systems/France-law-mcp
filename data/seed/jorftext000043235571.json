@@ -12,13 +12,21 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les dispositions prévues par la présente ordonnance entreront en vigueur à la plus tardive des dates suivantes :\n\n- soit le lendemain de sa publication au Journal officiel ;- soit le lendemain de la publication au Journal officiel des décrets portant publication de la résolution MEPC.264 (68) du 15 mai 2015 du Comité de protection du milieu marin de l'Organisation maritime internationale, relative au Recueil international de règles applicables aux navires exploités dans les eaux polaires et de la résolution MEPC.265 (68) du 15 mai 2015 du Comité de protection du milieu marin de l'Organisation maritime internationale, relative aux amendements à l'annexe du protocole de 1978 relatif à la convention internationale de 1973 pour la prévention de la pollution par les navires (MARPOL) visant à rendre obligatoire l'application des dispositions du Recueil sur la navigation polaire relatives à l'environnement."
+      "content": "Les dispositions prévues par la présente ordonnance entreront en vigueur à la plus tardive des dates suivantes :\n\n- soit le lendemain de sa publication au Journal officiel ;- soit le lendemain de la publication au Journal officiel des décrets portant publication de la résolution MEPC.264 (68) du 15 mai 2015 du Comité de protection du milieu marin de l'Organisation maritime internationale, relative au Recueil international de règles applicables aux navires exploités dans les eaux polaires et de la résolution MEPC.265 (68) du 15 mai 2015 du Comité de protection du milieu marin de l'Organisation maritime internationale, relative aux amendements à l'annexe du protocole de 1978 relatif à la convention internationale de 1973 pour la prévention de la pollution par les navires (MARPOL) visant à rendre obligatoire l'application des dispositions du Recueil sur la navigation polaire relatives à l'environnement.",
+      "valid_from": "2021-03-18"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le Premier ministre, la ministre de la transition écologique, le ministre des outre-mer et la ministre de la mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la transition écologique, le ministre des outre-mer et la ministre de la mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-03-18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

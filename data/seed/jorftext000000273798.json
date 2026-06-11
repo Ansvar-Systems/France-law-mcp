@@ -12,13 +12,21 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I.-A modifié les dispositions suivantes :\n\n-Loi 91-647 du 10 juillet 1991 Art. 3\n\nII.-A modifié les dispositions suivantes :\n\n-Code de l'entrée et du séjour des étrangers Art. L512-1\n\nIII.-Un décret en Conseil d'Etat fixe les conditions d'application de ces dispositions."
+      "content": "I.-A modifié les dispositions suivantes :\n\n-Loi 91-647 du 10 juillet 1991 Art. 3\n\nII.-A modifié les dispositions suivantes :\n\n-Code de l'entrée et du séjour des étrangers Art. L512-1\n\nIII.-Un décret en Conseil d'Etat fixe les conditions d'application de ces dispositions.",
+      "valid_from": "2007-02-21"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "L'ordonnance n° 2005-1526 du 8 décembre 2005 modifiant la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique est ratifiée."
+      "content": "L'ordonnance n° 2005-1526 du 8 décembre 2005 modifiant la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique est ratifiée.",
+      "valid_from": "2007-02-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

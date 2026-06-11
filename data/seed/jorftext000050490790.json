@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- LOI n° 2004-575 du 21 juin 2004\n\nII. - Les personnes mentionnées au I de l'article 10 de la loi du 21 juin 2004 susvisée établies en Nouvelle-Calédonie, en Polynésie française ou dans les îles Wallis et Futuna, et dont le service permet l'accès à des contenus pornographiques, mettent en œuvre un système de vérification de l'âge conforme aux caractéristiques techniques du référentiel mentionné au même I dans un délai de trois mois à compter de la publication au Journal officiel de la République française de la présente ordonnance."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- LOI n° 2004-575 du 21 juin 2004\n\nII. - Les personnes mentionnées au I de l'article 10 de la loi du 21 juin 2004 susvisée établies en Nouvelle-Calédonie, en Polynésie française ou dans les îles Wallis et Futuna, et dont le service permet l'accès à des contenus pornographiques, mettent en œuvre un système de vérification de l'âge conforme aux caractéristiques techniques du référentiel mentionné au même I dans un délai de trois mois à compter de la publication au Journal officiel de la République française de la présente ordonnance.",
+      "valid_from": "2024-11-15"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de la santé publique\n\nII. - Le II de l'article 32 de la loi n° 2024-449 du 21 mai 2024 est applicable dans les îles Wallis et Futuna."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de la santé publique\n\nII. - Le II de l'article 32 de la loi n° 2024-449 du 21 mai 2024 est applicable dans les îles Wallis et Futuna.",
+      "valid_from": "2024-11-15"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, le ministre de l'intérieur, la ministre de l'éducation nationale, la ministre de la culture, le ministre de l'économie, des finances et de l'industrie, la ministre de la santé et de l'accès aux soins, le ministre de l'enseignement supérieur et de la recherche et le ministre auprès du Premier ministre, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, le ministre de l'intérieur, la ministre de l'éducation nationale, la ministre de la culture, le ministre de l'économie, des finances et de l'industrie, la ministre de la santé et de l'accès aux soins, le ministre de l'enseignement supérieur et de la recherche et le ministre auprès du Premier ministre, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2024-11-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

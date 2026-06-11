@@ -12,43 +12,56 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les chemins vicinaux et les chemins ruraux reconnus autres que ceux visés à l'article 9 sont incorporés de plein droit à la voirie rurale de la commune."
+      "content": "Les chemins vicinaux et les chemins ruraux reconnus autres que ceux visés à l'article 9 sont incorporés de plein droit à la voirie rurale de la commune.",
+      "valid_from": "1959-01-09"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "1 - En vue de pourvoir aux dépenses des voies communales et des chemins ruraux, les communes ont la faculté d'instituer soit une taxe des prestations soit une taxe de voirie.2 - La taxe des prestations et la taxe de voirie sont ajoutées à la liste des taxes communales facultatives contenue dans l'article 1494-1 du code général des impôts."
+      "content": "1 - En vue de pourvoir aux dépenses des voies communales et des chemins ruraux, les communes ont la faculté d'instituer soit une taxe des prestations soit une taxe de voirie.2 - La taxe des prestations et la taxe de voirie sont ajoutées à la liste des taxes communales facultatives contenue dans l'article 1494-1 du code général des impôts.",
+      "valid_from": "1960-01-01"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Le nombre maximum des journées de prestations est de sept."
+      "content": "Le nombre maximum des journées de prestations est de sept.",
+      "valid_from": "1960-01-01"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "La taxe de voirie est représentée par des centimes additionnels aux contributions directes visées à l'article 1379 du code général des impôts."
+      "content": "La taxe de voirie est représentée par des centimes additionnels aux contributions directes visées à l'article 1379 du code général des impôts.",
+      "valid_from": "1960-01-01"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Les dispositions des articles 13 à 20 inclus entreront en application le 1er janvier 1960."
+      "content": "Les dispositions des articles 13 à 20 inclus entreront en application le 1er janvier 1960.",
+      "valid_from": "1959-01-09"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Sont abrogés :1° La loi du 21 mai 1836, à l'exception du deuxième alinéa de l'article 20 et en tant qu'elle concerne les chemins vicinaux ordinaires, la loi du 8 juin 1864, l'article 86 de la loi du 10 août 1871 ;2° La loi du 21 juillet 1870, l'article 109 de la loi de finances du 3 mars 1932, l'article 93 de la loi de finances du 31 décembre 1937 ;3° Les articles 7 et 8 du décret du 25 octobre 1938 et les dispositions correspondantes de la loi du 21 mai 1836 en tant qu'elles s'appliquent aux chemins départementaux."
+      "content": "Sont abrogés :1° La loi du 21 mai 1836, à l'exception du deuxième alinéa de l'article 20 et en tant qu'elle concerne les chemins vicinaux ordinaires, la loi du 8 juin 1864, l'article 86 de la loi du 10 août 1871 ;2° La loi du 21 juillet 1870, l'article 109 de la loi de finances du 3 mars 1932, l'article 93 de la loi de finances du 31 décembre 1937 ;3° Les articles 7 et 8 du décret du 25 octobre 1938 et les dispositions correspondantes de la loi du 21 mai 1836 en tant qu'elles s'appliquent aux chemins départementaux.",
+      "valid_from": "1959-01-09"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi."
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi.",
+      "valid_from": "1959-01-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

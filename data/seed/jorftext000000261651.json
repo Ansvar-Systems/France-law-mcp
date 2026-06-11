@@ -12,49 +12,63 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le livre IV du code civil est modifié conformément aux articles 2 à 6."
+      "content": "Le livre IV du code civil est modifié conformément aux articles 2 à 6.",
+      "valid_from": "2005-07-29"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "La propriété peut être acquise par la délivrance gratuite par le Département de Mayotte de titres définitifs de propriété aux titulaires de droits coutumiers individuels établis à Mayotte qui ont mis individuellement en valeur et durablement des terrains appartenant au domaine de cette collectivité ou présumés lui appartenir, sur lesquels ils ne sont fondés à se prévaloir d'aucun droit de propriété.\n\nCes terrains ne peuvent faire l'objet, à peine de nullité de la cession, d'une aliénation volontaire pendant une durée de dix ans à compter de leur acquisition, sauf au profit d'une collectivité publique en vue de la réalisation d'un projet d'intérêt général. Dans ce cas, la cession onéreuse ne peut être réalisée à un prix supérieur à la valeur vénale du terrain."
+      "content": "La propriété peut être acquise par la délivrance gratuite par le Département de Mayotte de titres définitifs de propriété aux titulaires de droits coutumiers individuels établis à Mayotte qui ont mis individuellement en valeur et durablement des terrains appartenant au domaine de cette collectivité ou présumés lui appartenir, sur lesquels ils ne sont fondés à se prévaloir d'aucun droit de propriété.\n\nCes terrains ne peuvent faire l'objet, à peine de nullité de la cession, d'une aliénation volontaire pendant une durée de dix ans à compter de leur acquisition, sauf au profit d'une collectivité publique en vue de la réalisation d'un projet d'intérêt général. Dans ce cas, la cession onéreuse ne peut être réalisée à un prix supérieur à la valeur vénale du terrain.",
+      "valid_from": "2011-03-31"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "La personne, physique ou morale, titulaire d'une décision d'attribution de terrain prévue à l'article 11, approuvée dans les conditions fixées par les articles L. 221-13 à L. 221-18 du code du domaine de l'Etat et des collectivités publiques applicable à Mayotte, est tenue de requérir son immatriculation dans un délai fixé par décret en Conseil d'Etat.Cette décision d'attribution devient caduque si son bénéficiaire n'a pas satisfait, dans ce délai, à cette obligation.Chapitre II"
+      "content": "La personne, physique ou morale, titulaire d'une décision d'attribution de terrain prévue à l'article 11, approuvée dans les conditions fixées par les articles L. 221-13 à L. 221-18 du code du domaine de l'Etat et des collectivités publiques applicable à Mayotte, est tenue de requérir son immatriculation dans un délai fixé par décret en Conseil d'Etat.Cette décision d'attribution devient caduque si son bénéficiaire n'a pas satisfait, dans ce délai, à cette obligation.Chapitre II",
+      "valid_from": "2005-07-29"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les dispositions du titre Ier entrent en vigueur le 1er janvier 2008. A compter de cette date, est abrogé le décret du 4 février 1911 portant réorganisation du régime de la propriété foncière à Madagascar, modifié par le décret du 9 juin 1931 portant réorganisation du régime de la propriété foncière dans l'archipel des Comores. Toutefois, les immeubles en cours d'immatriculation et les droits en cours d'inscription à cette date continuent de relever jusqu'au terme des procédures des dispositions de ce décret.\n\nPour l'appréciation du délai de prescription acquisitive de trente ans mentionné au premier alinéa de l'article 2272 du code civil, il est tenu compte de la période antérieure au 1er janvier 2008."
+      "content": "Les dispositions du titre Ier entrent en vigueur le 1er janvier 2008. A compter de cette date, est abrogé le décret du 4 février 1911 portant réorganisation du régime de la propriété foncière à Madagascar, modifié par le décret du 9 juin 1931 portant réorganisation du régime de la propriété foncière dans l'archipel des Comores. Toutefois, les immeubles en cours d'immatriculation et les droits en cours d'inscription à cette date continuent de relever jusqu'au terme des procédures des dispositions de ce décret.\n\nPour l'appréciation du délai de prescription acquisitive de trente ans mentionné au premier alinéa de l'article 2272 du code civil, il est tenu compte de la période antérieure au 1er janvier 2008.",
+      "valid_from": "2022-02-23"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Les livres fonciers institués par le décret du 4 février 1911 sont maintenus comme registres de publicité.Les immatriculations, inscriptions et formalités accomplies sous l'empire des décrets du 4 février 1911 et du 9 juin 1931 conservent leurs force et valeur sans que les propriétaires d'immeuble ou les titulaires de droits mentionnés à l'article 2521 du code civil aient à accomplir de nouvelles formalités.L'application de la présente ordonnance n'affecte pas les droits collectifs de jouissance à titre gratuit qui peuvent être reconnus aux habitants des villages, dits anciennement de réserve, et ne fait pas obstacle à leur transformation éventuelle en titres individuels de propriété."
+      "content": "Les livres fonciers institués par le décret du 4 février 1911 sont maintenus comme registres de publicité.Les immatriculations, inscriptions et formalités accomplies sous l'empire des décrets du 4 février 1911 et du 9 juin 1931 conservent leurs force et valeur sans que les propriétaires d'immeuble ou les titulaires de droits mentionnés à l'article 2521 du code civil aient à accomplir de nouvelles formalités.L'application de la présente ordonnance n'affecte pas les droits collectifs de jouissance à titre gratuit qui peuvent être reconnus aux habitants des villages, dits anciennement de réserve, et ne fait pas obstacle à leur transformation éventuelle en titres individuels de propriété.",
+      "valid_from": "2006-03-24"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Le décret du 3 juin 1913 réglementant le régime des eaux à Madagascar est abrogé."
+      "content": "Le décret du 3 juin 1913 réglementant le régime des eaux à Madagascar est abrogé.",
+      "valid_from": "2005-07-29"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d'application du titre Ier."
+      "content": "Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d'application du titre Ier.",
+      "valid_from": "2005-07-29"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie, le garde des sceaux, ministre de la justice, et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie, le garde des sceaux, ministre de la justice, et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2005-07-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Le Gouvernement dépose, tous les deux ans, sur le bureau des assemblées parlementaires, un rapport sur la politique nationale de lutte contre les violences au sein des couples, portant notamment sur les conditions d'accueil, de soin et d'hébergement des victimes, leur réinsertion sociale, les modalités de la prise en charge sanitaire, sociale ou psychologique des auteurs des faits ainsi que le nombre, la durée et le fondement juridique des mesures judiciaires tendant à leur ordonner de résider hors du domicile ou de la résidence du couple."
+      "content": "Le Gouvernement dépose, tous les deux ans, sur le bureau des assemblées parlementaires, un rapport sur la politique nationale de lutte contre les violences au sein des couples, portant notamment sur les conditions d'accueil, de soin et d'hébergement des victimes, leur réinsertion sociale, les modalités de la prise en charge sanitaire, sociale ou psychologique des auteurs des faits ainsi que le nombre, la durée et le fondement juridique des mesures judiciaires tendant à leur ordonner de résider hors du domicile ou de la résidence du couple.",
+      "valid_from": "2006-04-05"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Les dispositions de la présente loi sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna."
+      "content": "Les dispositions de la présente loi sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.",
+      "valid_from": "2006-04-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

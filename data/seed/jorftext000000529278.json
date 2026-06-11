@@ -12,25 +12,35 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions des articles premier et 3 sont applicables aux gains et rémunérations versés à compter du 1er juillet 1993."
+      "content": "Les dispositions des articles premier et 3 sont applicables aux gains et rémunérations versés à compter du 1er juillet 1993.",
+      "valid_from": "1993-07-28"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. - *article(s) modificateur(s)*.II. - Les dispositions du I s'appliquent pour le crédit d'impôt formation de l'année 1993.III. - Les entreprises dont le bénéfice industriel et commercial est déterminé dans les conditions prévues à l'article 302 ter du code général des impôts peuvent bénéficier d'un crédit d'impôt égal à 25 p. 100 du produit de la somme de 28 000 francs par le nombre de nouveaux apprentis titulaires d'un contrat d'apprentissage régi par les dispositions des articles L. 117-1 à L. 117-18 du code du travail et conclu depuis le 1er janvier 1993. Pour le décompte du nombre d'apprentis, il est fait abstraction de ceux dont le contrat n'a pas atteint une durée au moins égale à deux mois au cours de l'année. Ce crédit d'impôt est accordé dans les conditions prévues à l'article 199 ter C du code général des impôts.Les entreprises doivent joindre à leur déclaration prévue à l'article 302 sexies du code général des impôts l'attestation prévue au IV bis de l'article 244 quater C du même code.IV. - Les dispositions du III s'appliquent à l'impôt sur le revenu dû au titre de l'année 1993."
+      "content": "I. - *article(s) modificateur(s)*.II. - Les dispositions du I s'appliquent pour le crédit d'impôt formation de l'année 1993.III. - Les entreprises dont le bénéfice industriel et commercial est déterminé dans les conditions prévues à l'article 302 ter du code général des impôts peuvent bénéficier d'un crédit d'impôt égal à 25 p. 100 du produit de la somme de 28 000 francs par le nombre de nouveaux apprentis titulaires d'un contrat d'apprentissage régi par les dispositions des articles L. 117-1 à L. 117-18 du code du travail et conclu depuis le 1er janvier 1993. Pour le décompte du nombre d'apprentis, il est fait abstraction de ceux dont le contrat n'a pas atteint une durée au moins égale à deux mois au cours de l'année. Ce crédit d'impôt est accordé dans les conditions prévues à l'article 199 ter C du code général des impôts.Les entreprises doivent joindre à leur déclaration prévue à l'article 302 sexies du code général des impôts l'attestation prévue au IV bis de l'article 244 quater C du même code.IV. - Les dispositions du III s'appliquent à l'impôt sur le revenu dû au titre de l'année 1993.",
+      "valid_from": "1993-07-28"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les contrats de travail conclus entre le 1er juillet 1993 et le 31 décembre 1995, en application des articles L. 117-1 et 981-1 du code du travail, ouvrent droit à une aide forfaitaire de l'Etat dont les conditions d'attribution et les montants sont fixés par décret.\n\nCette aide forfaitaire n'est pas considérée comme une subvention au sens du III de l'article 244 quater C du code général des impôts."
+      "content": "Les contrats de travail conclus entre le 1er juillet 1993 et le 31 décembre 1995, en application des articles L. 117-1 et 981-1 du code du travail, ouvrent droit à une aide forfaitaire de l'Etat dont les conditions d'attribution et les montants sont fixés par décret.\n\nCette aide forfaitaire n'est pas considérée comme une subvention au sens du III de l'article 244 quater C du code général des impôts.",
+      "valid_from": "1995-08-05"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "A titre expérimental, les conseils régionaux reçoivent de l'Etat une dotation financière destinée à soutenir les actions qu'ils engageront en matière de développement de l'emploi dans les activités liées à la protection de l'environnement, pour la période allant de juillet 1993 à juin 1994.Cette dotation est versée en 1993. Un bilan d'évaluation de l'impact sur l'emploi sera présenté au Parlement en décembre 1994."
+      "content": "A titre expérimental, les conseils régionaux reçoivent de l'Etat une dotation financière destinée à soutenir les actions qu'ils engageront en matière de développement de l'emploi dans les activités liées à la protection de l'environnement, pour la période allant de juillet 1993 à juin 1994.Cette dotation est versée en 1993. Un bilan d'évaluation de l'impact sur l'emploi sera présenté au Parlement en décembre 1994.",
+      "valid_from": "1993-07-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

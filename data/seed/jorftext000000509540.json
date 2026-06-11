@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est autorisée la ratification de l'accord européen établissant une association entre les communautés européennes et leurs Etats membres, d'une part, et la République de Hongrie, d'autre part (ensemble sept protocoles, treize annexes, deux échanges de lettres, un acte final et déclaration), signé le 16 décembre 1991 à Bruxelles, et dont le texte est annexé à la présente loi (1).(1) Il sera publié ultérieurement au Journal officiel de la République française."
+      "content": "Est autorisée la ratification de l'accord européen établissant une association entre les communautés européennes et leurs Etats membres, d'une part, et la République de Hongrie, d'autre part (ensemble sept protocoles, treize annexes, deux échanges de lettres, un acte final et déclaration), signé le 16 décembre 1991 à Bruxelles, et dont le texte est annexé à la présente loi (1).(1) Il sera publié ultérieurement au Journal officiel de la République française.",
+      "valid_from": "1993-10-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

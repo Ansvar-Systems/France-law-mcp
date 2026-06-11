@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La situation du personnel administratif des chambres d'agriculture, des chambres de commerce et des chambres de métiers de France est déterminée par un statut établi par des commissions paritaires nommées, pour chacune de ces institutions, par le ministre de tutelle."
+      "content": "La situation du personnel administratif des chambres d'agriculture, des chambres de commerce et des chambres de métiers de France est déterminée par un statut établi par des commissions paritaires nommées, pour chacune de ces institutions, par le ministre de tutelle.",
+      "valid_from": "1952-12-12"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Chaque commission se compose :\n\nD'un représentant du ministre de tutelle, président ;\n\nDe six présidents de chambres désignés par le bureau de l'assemblée des présidents de chambres, dont son président ;\n\nDe six représentants du personnel des chambres désignés par les organisations syndicales les plus représentatives."
+      "content": "Chaque commission se compose :\n\nD'un représentant du ministre de tutelle, président ;\n\nDe six présidents de chambres désignés par le bureau de l'assemblée des présidents de chambres, dont son président ;\n\nDe six représentants du personnel des chambres désignés par les organisations syndicales les plus représentatives.",
+      "valid_from": "1952-12-12"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les commissions paritaires se réuniront dans les trois mois qui suivront la promulgation de la présente loi ; le secrétariat en sera assuré par le ministère de tutelle."
+      "content": "Les commissions paritaires se réuniront dans les trois mois qui suivront la promulgation de la présente loi ; le secrétariat en sera assuré par le ministère de tutelle.",
+      "valid_from": "1952-12-12"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions de la présente loi sont applicables aux départements d'outre-mer.\n\nLa présente loi sera exécutée comme loi de l'Etat."
+      "content": "Les dispositions de la présente loi sont applicables aux départements d'outre-mer.\n\nLa présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2007-02-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

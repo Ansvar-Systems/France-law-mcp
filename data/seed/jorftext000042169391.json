@@ -12,13 +12,21 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "I. et IV-A modifié les dispositions suivantes :\n\nII.-Après la première évaluation prévue à l'article L. 541-15 du code de l'environnement postérieure à l'entrée en vigueur de la présente ordonnance, le plan régional de prévention et de gestion des déchets est révisé pour intégrer les dispositions prévues aux articles L. 541-11 et L. 541-13 du même code modifiés par la présente ordonnance et leurs modalités d'application.\n\nIII.-Après le premier bilan prévu à l'article L. 4251-10 du code général des collectivités territoriales postérieur à l'entrée en vigueur de la présente ordonnance, le schéma régional d'aménagement, de développement durable et d'égalité des territoires est modifié dans les conditions prévues au I de l'article L. 4251-9 du même code pour intégrer les dispositions prévues à l'article L. 541-11 du code de l'environnement modifié par la présente ordonnance et ses modalités d'application.\n\n-Code de l'environnement"
+      "content": "I. et IV-A modifié les dispositions suivantes :\n\nII.-Après la première évaluation prévue à l'article L. 541-15 du code de l'environnement postérieure à l'entrée en vigueur de la présente ordonnance, le plan régional de prévention et de gestion des déchets est révisé pour intégrer les dispositions prévues aux articles L. 541-11 et L. 541-13 du même code modifiés par la présente ordonnance et leurs modalités d'application.\n\nIII.-Après le premier bilan prévu à l'article L. 4251-10 du code général des collectivités territoriales postérieur à l'entrée en vigueur de la présente ordonnance, le schéma régional d'aménagement, de développement durable et d'égalité des territoires est modifié dans les conditions prévues au I de l'article L. 4251-9 du même code pour intégrer les dispositions prévues à l'article L. 541-11 du code de l'environnement modifié par la présente ordonnance et ses modalités d'application.\n\n-Code de l'environnement",
+      "valid_from": "2021-08-25"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Le Premier ministre, la ministre de la transition écologique, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales et le ministre de l'agriculture et de l'alimentation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la transition écologique, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales et le ministre de l'agriculture et de l'alimentation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-07-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

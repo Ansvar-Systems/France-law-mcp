@@ -12,7 +12,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Gouvernement remet au Parlement un rapport sur les marges brutes réelles des distributeurs, détaillées par catégorie de produits alimentaires. Le rapport analyse les systèmes de péréquation des marges mis en place par les distributeurs et précise les évolutions des marges commerciales réalisées par les enseignes de la grande distribution. Ce rapport indique les marges commerciales de ces acteurs par type de produits, les tendances d'évolution au cours des dix dernières années et la corrélation avec les effets de l'inflation des coûts des matières premières et de l'énergie."
+      "content": "Le Gouvernement remet au Parlement un rapport sur les marges brutes réelles des distributeurs, détaillées par catégorie de produits alimentaires. Le rapport analyse les systèmes de péréquation des marges mis en place par les distributeurs et précise les évolutions des marges commerciales réalisées par les enseignes de la grande distribution. Ce rapport indique les marges commerciales de ces acteurs par type de produits, les tendances d'évolution au cours des dix dernières années et la corrélation avec les effets de l'inflation des coûts des matières premières et de l'énergie.",
+      "valid_from": "2025-04-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

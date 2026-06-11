@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision n° 2017-748 DC du 16 mars 2017.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision n° 2017-748 DC du 16 mars 2017.]",
+      "valid_from": "2017-03-22"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les articles 1er à 5 entrent en vigueur trois mois après la promulgation de la présente loi."
+      "content": "Les articles 1er à 5 entrent en vigueur trois mois après la promulgation de la présente loi.",
+      "valid_from": "2017-03-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

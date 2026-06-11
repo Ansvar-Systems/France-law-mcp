@@ -12,7 +12,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions du deuxième alinéa de l'article 370-3 du code civil s'appliquent aux procédures engagées à compter de l'entrée en vigueur de la présente loi."
+      "content": "Les dispositions du deuxième alinéa de l'article 370-3 du code civil s'appliquent aux procédures engagées à compter de l'entrée en vigueur de la présente loi.",
+      "valid_from": "2001-02-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

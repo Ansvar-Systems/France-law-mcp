@@ -12,19 +12,28 @@
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "II. ― Au dernier alinéa de l'article 46 de la loi susvisée du 13 juin 2006, les mots : les articles L. 216-4, L. 216-5, L. 514-5 et L. 514-13 du code de l'environnement sont remplacés par les mots : les dispositions du chapitre II du titre VII du livre Ier du code de l'environnement (1)."
+      "content": "I. ― A modifié les dispositions suivantes :\n\nII. ― Au dernier alinéa de l'article 46 de la loi susvisée du 13 juin 2006, les mots : \"les articles L. 216-4, L. 216-5, L. 514-5 et L. 514-13 du code de l'environnement\" sont remplacés par les mots : \"les dispositions du chapitre II du titre VII du livre Ier du code de l'environnement (1)\".\n\n- Loi n°2006-11 du 5 janvier 2006",
+      "valid_from": "2012-01-13"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "I. ― Les articles 1er à 26 de la présente ordonnance entrent en vigueur le 1er juillet 2013.II. ― Les articles L. 171-7 et L. 171-8 du code de l'environnement, tels qu'ils résultent de l'article 1er de la présente ordonnance, s'appliquent aux manquements constatés à compter du 1er juillet 2013.Les fonctionnaires et agents commissionnés pour rechercher et constater des infractions aux dispositions du code de l'environnement antérieurement au 1er juillet 2013 restent compétents pour exercer ces fonctions jusqu'à ce qu'ils soient commissionnés en application des nouvelles dispositions du code de l'environnement prévues par la présente ordonnance."
+      "content": "I. ― Les articles 1er à 26 de la présente ordonnance entrent en vigueur le 1er juillet 2013.II. ― Les articles L. 171-7 et L. 171-8 du code de l'environnement, tels qu'ils résultent de l'article 1er de la présente ordonnance, s'appliquent aux manquements constatés à compter du 1er juillet 2013.Les fonctionnaires et agents commissionnés pour rechercher et constater des infractions aux dispositions du code de l'environnement antérieurement au 1er juillet 2013 restent compétents pour exercer ces fonctions jusqu'à ce qu'ils soient commissionnés en application des nouvelles dispositions du code de l'environnement prévues par la présente ordonnance.",
+      "valid_from": "2012-01-13"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable, des transports et du logement et le garde des sceaux, ministre de la justice et des libertés, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable, des transports et du logement et le garde des sceaux, ministre de la justice et des libertés, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2012-01-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

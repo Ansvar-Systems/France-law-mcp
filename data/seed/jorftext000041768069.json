@@ -12,7 +12,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les mandats des membres, titulaires et suppléants, de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet expirant le 30 juin 2020 sont prolongés jusqu'au 25 janvier 2021.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Les mandats des membres, titulaires et suppléants, de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet expirant le 30 juin 2020 sont prolongés jusqu'au 25 janvier 2021.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2020-04-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

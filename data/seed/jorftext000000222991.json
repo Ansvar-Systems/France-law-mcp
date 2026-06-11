@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La procédure prévue à l'article L. 15-9 du code de l'expropriation pour cause d'utilité publique pourra être appliquée en vue de la prise de possession immédiate par l'Etat des terrains bâtis ou non bâtis dont l'acquisition est nécessaire à l'exécution des travaux d'aménagement d'un itinéraire à très grand gabarit reliant les emprises du port autonome de Bordeaux à Toulouse, infrastructure d'intérêt national.Les décrets sur avis conforme du Conseil d'Etat prévus au même article L. 15-9 devront être pris au plus tard le 30 juin 2004."
+      "content": "La procédure prévue à l'article L. 15-9 du code de l'expropriation pour cause d'utilité publique pourra être appliquée en vue de la prise de possession immédiate par l'Etat des terrains bâtis ou non bâtis dont l'acquisition est nécessaire à l'exécution des travaux d'aménagement d'un itinéraire à très grand gabarit reliant les emprises du port autonome de Bordeaux à Toulouse, infrastructure d'intérêt national.Les décrets sur avis conforme du Conseil d'Etat prévus au même article L. 15-9 devront être pris au plus tard le 30 juin 2004.",
+      "valid_from": "2001-05-30"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions des articles L. 314-1 à L. 314-8 du code de l'urbanisme s'appliquent, le cas échéant, aux opérations réalisées en application de l'article 1er."
+      "content": "Les dispositions des articles L. 314-1 à L. 314-8 du code de l'urbanisme s'appliquent, le cas échéant, aux opérations réalisées en application de l'article 1er.",
+      "valid_from": "2001-05-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

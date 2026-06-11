@@ -12,13 +12,21 @@
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "I. - Les dispositions des articles 1er à 3 de la présente ordonnance sont applicables à compter du 7 juin 2021 aux œuvres et objets faisant l'objet d'une protection au titre du droit d'auteur ou des droits voisins à la date de publication de la présente ordonnance, y compris ceux téléversés antérieurement à cette date.II. - Les dispositions de l'article 5 de la présente ordonnance relatives à l'article L. 131-5-1 du code de la propriété intellectuelle, et de l'article 12 de la présente ordonnance relatives à l'article L. 212-3-1 du code de la propriété intellectuelle, entrent en vigueur le 7 juin 2022.Les articles L. 131-5-1 et L. 212-3-1 du code de la propriété intellectuelle dans leur rédaction résultant de ces mêmes articles 5 et 12 sont applicables aux contrats en cours à cette date."
+      "content": "I. - Les dispositions des articles 1er à 3 de la présente ordonnance sont applicables à compter du 7 juin 2021 aux œuvres et objets faisant l'objet d'une protection au titre du droit d'auteur ou des droits voisins à la date de publication de la présente ordonnance, y compris ceux téléversés antérieurement à cette date.II. - Les dispositions de l'article 5 de la présente ordonnance relatives à l'article L. 131-5-1 du code de la propriété intellectuelle, et de l'article 12 de la présente ordonnance relatives à l'article L. 212-3-1 du code de la propriété intellectuelle, entrent en vigueur le 7 juin 2022.Les articles L. 131-5-1 et L. 212-3-1 du code de la propriété intellectuelle dans leur rédaction résultant de ces mêmes articles 5 et 12 sont applicables aux contrats en cours à cette date.",
+      "valid_from": "2021-05-14"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Le Premier ministre et la ministre de la culture sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre de la culture sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-05-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

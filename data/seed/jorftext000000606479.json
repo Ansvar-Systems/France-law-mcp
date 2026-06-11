@@ -12,13 +12,21 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Dans un délai de six mois après la promulgation de la présente loi, le Gouvernement transmet au Parlement un rapport évaluant, d'une part, l'intérêt, en termes de santé publique, de la prise en charge par l'assurance maladie des substituts nicotiniques en faveur des mineurs de moins de dix-huit ans et, d'autre part, le coût de cette mesure."
+      "content": "Dans un délai de six mois après la promulgation de la présente loi, le Gouvernement transmet au Parlement un rapport évaluant, d'une part, l'intérêt, en termes de santé publique, de la prise en charge par l'assurance maladie des substituts nicotiniques en faveur des mineurs de moins de dix-huit ans et, d'autre part, le coût de cette mesure.",
+      "valid_from": "2003-08-03"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "En 2004, le Gouvernement déposera sur le bureau de l'Assemblée nationale et sur celui du Sénat un rapport faisant état de la possibilité pour les débitants de tabac d'un alignement sur le régime de droit commun des commerçants en matière de taxe professionnelle. Les informations données par ce rapport devront permettre de mieux apprécier le coût d'une telle mesure."
+      "content": "En 2004, le Gouvernement déposera sur le bureau de l'Assemblée nationale et sur celui du Sénat un rapport faisant état de la possibilité pour les débitants de tabac d'un alignement sur le régime de droit commun des commerçants en matière de taxe professionnelle. Les informations données par ce rapport devront permettre de mieux apprécier le coût d'une telle mesure.",
+      "valid_from": "2003-08-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. (modifie L'article L. 313-1 du code de la construction et de l'habitation)\n\nII. - Le taux de 0,72 % s'applique aux investissements qui doivent être réalisés en 1988 à raison des salaires payés en 1987."
+      "content": "I. (modifie L'article L. 313-1 du code de la construction et de l'habitation)\n\nII. - Le taux de 0,72 % s'applique aux investissements qui doivent être réalisés en 1988 à raison des salaires payés en 1987.",
+      "valid_from": "1988-01-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I (modifie le code de la construction et de l'habitation)\n\nII. - Ces dispositions s'appliquent aux contrats de réservation en cours à la date de publication de la présente loi, à l'exception de ceux contestés devant les tribunaux."
+      "content": "I (modifie le code de la construction et de l'habitation)\n\nII. - Ces dispositions s'appliquent aux contrats de réservation en cours à la date de publication de la présente loi, à l'exception de ceux contestés devant les tribunaux.",
+      "valid_from": "1988-01-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions prévues à l'article 3 entreront en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 31 mars 1988."
+      "content": "Les dispositions prévues à l'article 3 entreront en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 31 mars 1988.",
+      "valid_from": "1988-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

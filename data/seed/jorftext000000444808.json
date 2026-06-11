@@ -12,19 +12,28 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les articles 1er et 2 de la présente ordonnance sont applicables à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna."
+      "content": "Les articles 1er et 2 de la présente ordonnance sont applicables à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.",
+      "valid_from": "2005-04-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les articles 1er, 2 et 3 de la présente ordonnance entrent en vigueur à compter de la publication au Journal officiel de la République française des dispositions du règlement général de l'Autorité des marchés financiers auxquelles les articles L. 211-17 et L. 211-18 modifiés du code monétaire et financier renvoient."
+      "content": "Les articles 1er, 2 et 3 de la présente ordonnance entrent en vigueur à compter de la publication au Journal officiel de la République française des dispositions du règlement général de l'Autorité des marchés financiers auxquelles les articles L. 211-17 et L. 211-18 modifiés du code monétaire et financier renvoient.",
+      "valid_from": "2009-05-14"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie et la ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie et la ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2005-04-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les SICAV ou les sociétés de gestion agissant pour le compte de l'OPCVM qu'elles gèrent qui, avant le 18 mars 2016, ont désigné en tant que dépositaire un établissement qui ne satisfait pas aux exigences de l'article L. 214-10-1 du code monétaire et financier dans sa rédaction issue de la présente ordonnance désignent, avant le 18 mars 2018, un dépositaire y satisfaisant."
+      "content": "Les SICAV ou les sociétés de gestion agissant pour le compte de l'OPCVM qu'elles gèrent qui, avant le 18 mars 2016, ont désigné en tant que dépositaire un établissement qui ne satisfait pas aux exigences de l'article L. 214-10-1 du code monétaire et financier dans sa rédaction issue de la présente ordonnance désignent, avant le 18 mars 2018, un dépositaire y satisfaisant.",
+      "valid_from": "2016-03-19"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Le Premier ministre, le ministre des finances et des comptes publics et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des finances et des comptes publics et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-03-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

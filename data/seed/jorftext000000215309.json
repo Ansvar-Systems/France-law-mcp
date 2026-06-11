@@ -12,19 +12,28 @@
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "Les dispositions des deux derniers alinéas de l'article L. 221-2 du code des juridictions financières s'appliquent aux nominations de présidents de chambre régionale des comptes intervenant après la date de publication de la présente loi."
+      "content": "Les dispositions des deux derniers alinéas de l'article L. 221-2 du code des juridictions financières s'appliquent aux nominations de présidents de chambre régionale des comptes intervenant après la date de publication de la présente loi.",
+      "valid_from": "2001-12-26"
     },
     {
       "provision_ref": "art33",
       "section": "33",
       "title": "Article 33",
-      "content": "Le mandat en cours des membres du Conseil supérieur des chambres régionales des comptes est prolongé jusqu'à l'installation d'un conseil formé dans les conditions prévues par l'article 15 de la présente loi, dans la limite d'une durée de dix-huit mois à compter de la publication de celle-ci au Journal officiel de la République française. Pendant cette période de prolongation de leur mandat, les magistrats membres du conseil supérieur peuvent bénéficier d'un avancement."
+      "content": "Le mandat en cours des membres du Conseil supérieur des chambres régionales des comptes est prolongé jusqu'à l'installation d'un conseil formé dans les conditions prévues par l'article 15 de la présente loi, dans la limite d'une durée de dix-huit mois à compter de la publication de celle-ci au Journal officiel de la République française. Pendant cette période de prolongation de leur mandat, les magistrats membres du conseil supérieur peuvent bénéficier d'un avancement.",
+      "valid_from": "2001-12-26"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "La date d'effet des mesures individuelles de reclassement prises en application de l'article 18 est fixée au 1er janvier 2000, ou à la date de nomination des intéressés dans le corps si celle-ci est postérieure."
+      "content": "La date d'effet des mesures individuelles de reclassement prises en application de l'article 18 est fixée au 1er janvier 2000, ou à la date de nomination des intéressés dans le corps si celle-ci est postérieure.",
+      "valid_from": "2001-12-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

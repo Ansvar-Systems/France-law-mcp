@@ -12,43 +12,56 @@
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Les articles 57, 58, 61, 64, 65, 66 et 70 de la loi n° 93-2 du 4 janvier 1993 précitée sont abrogés."
+      "content": "Les articles 57, 58, 61, 64, 65, 66 et 70 de la loi n° 93-2 du 4 janvier 1993 précitée sont abrogés.",
+      "valid_from": "1993-09-02"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "Les articles 83 à 98, 100 et 101 de la loi n° 93-2 du 4 janvier 1993 précitée sont abrogés."
+      "content": "Les articles 83 à 98, 100 et 101 de la loi n° 93-2 du 4 janvier 1993 précitée sont abrogés.",
+      "valid_from": "1993-09-02"
     },
     {
       "provision_ref": "art33",
       "section": "33",
       "title": "Article 33",
-      "content": "Les articles 117 et 119 de la loi n° 93-2 du 4 janvier 1993 précitée sont abrogés."
+      "content": "Les articles 117 et 119 de la loi n° 93-2 du 4 janvier 1993 précitée sont abrogés.",
+      "valid_from": "1993-09-02"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "Les articles 227, 228, 231 à 236, 238 et 241 à 244 de la loi n° 93-2 du 4 janvier 1993 précitée sont abrogés."
+      "content": "Les articles 227, 228, 231 à 236, 238 et 241 à 244 de la loi n° 93-2 du 4 janvier 1993 précitée sont abrogés.",
+      "valid_from": "1993-09-02"
     },
     {
       "provision_ref": "art46",
       "section": "46",
       "title": "Article 46",
-      "content": "Dans les dispositions de nature législative, toute mention relative à l'inculpation est remplacée par une mention relative à la mise en examen et toute mention relative à l'inculpé est remplacée par une mention relative à la personne mise en examen."
+      "content": "Dans les dispositions de nature législative, toute mention relative à l'inculpation est remplacée par une mention relative à la mise en examen et toute mention relative à l'inculpé est remplacée par une mention relative à la personne mise en examen.",
+      "valid_from": "1993-09-02"
     },
     {
       "provision_ref": "art48",
       "section": "48",
       "title": "Article 48",
-      "content": "Une loi ultérieure précisera les conditions d'application de la présente loi à compter du 1er mai 1996 dans les territoires d'outre-mer et du 1er mai 1997 à Mayotte."
+      "content": "Une loi ultérieure précisera les conditions d'application de la présente loi à compter du 1er mai 1996 dans les territoires d'outre-mer et du 1er mai 1997 à Mayotte.",
+      "valid_from": "1996-01-03"
     },
     {
       "provision_ref": "art49",
       "section": "49",
       "title": "Article 49",
-      "content": "I. - Les dispositions de la présente loi entreront en vigueur le huitième jour suivant la date de sa publication au Journal officiel.II. - Les parties à une procédure d'instruction en cours à la date d'entrée en vigueur de la présente loi, à l'égard desquelles il n'a pas été fait application des dispositions des deuxième et troisième alinéas de l'article 80-3 du code de procédure pénale, doivent recevoir dans un délai de trois mois l'avis prévu par l'article 89-1 ou par le quatrième alinéa de l'article 116 du même code. Cet avis peut être donné, le cas échéant, par lettre recommandée ou, pour les personnes détenues, par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la copie du récépissé signé par l'intéressé. A défaut, cet avis doit être donné à chaque partie à l'occasion de l'application du premier alinéa de l'article 175 du code de procédure pénale."
+      "content": "I. - Les dispositions de la présente loi entreront en vigueur le huitième jour suivant la date de sa publication au Journal officiel.\n\nII. - Les parties à une procédure d'instruction en cours à la date d'entrée en vigueur de la présente loi, à l'égard desquelles il n'a pas été fait application des dispositions des deuxième et troisième alinéas de l'article 80-3 du code de procédure pénale, doivent recevoir dans un délai de trois mois l'avis prévu par l'article 89-1 ou par le quatrième alinéa de l'article 116 du même code. Cet avis peut être donné, le cas échéant, par lettre recommandée ou, pour les personnes détenues, par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la copie du récépissé signé par l'intéressé. A défaut, cet avis doit être donné à chaque partie à l'occasion de l'application du premier alinéa de l'article 175 du code de procédure pénale.",
+      "valid_from": "1993-09-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

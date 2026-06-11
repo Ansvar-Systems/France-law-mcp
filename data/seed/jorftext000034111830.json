@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Sont réputées avoir été régulièrement composées au regard du 3° de l'article L. 2334-37 du code général des collectivités territoriales, dans ses rédactions successives, les commissions qui se sont réunies avant l'entrée en vigueur de la présente loi.\n\n-Code général des collectivités territoriales"
+      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Sont réputées avoir été régulièrement composées au regard du 3° de l'article L. 2334-37 du code général des collectivités territoriales, dans ses rédactions successives, les commissions qui se sont réunies avant l'entrée en vigueur de la présente loi.\n\n-Code général des collectivités territoriales",
+      "valid_from": "2017-03-03"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Gouvernement remet au Parlement avant le 30 septembre 2017 un rapport sur le niveau d'endettement des collectivités territoriales et des établissements publics de coopération intercommunale comprenant d'anciens syndicats d'agglomération nouvelle et sur l'opportunité de conserver, d'adapter ou de supprimer progressivement les mécanismes dérogatoires de pondération du potentiel fiscal et du potentiel fiscal agrégé prévus à l'article L. 2336-2 du code général des collectivités territoriales, pour le Fonds national de péréquation des ressources intercommunales et communales, et à l'article L. 5211-30 du même code, pour la dotation d'intercommunalité."
+      "content": "Le Gouvernement remet au Parlement avant le 30 septembre 2017 un rapport sur le niveau d'endettement des collectivités territoriales et des établissements publics de coopération intercommunale comprenant d'anciens syndicats d'agglomération nouvelle et sur l'opportunité de conserver, d'adapter ou de supprimer progressivement les mécanismes dérogatoires de pondération du potentiel fiscal et du potentiel fiscal agrégé prévus à l'article L. 2336-2 du code général des collectivités territoriales, pour le Fonds national de péréquation des ressources intercommunales et communales, et à l'article L. 5211-30 du même code, pour la dotation d'intercommunalité.",
+      "valid_from": "2017-03-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

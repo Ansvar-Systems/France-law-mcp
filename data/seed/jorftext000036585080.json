@@ -12,67 +12,84 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Pour l'application à la Ville de Paris du livre des procédures fiscales et des dispositions législatives à caractère fiscal autres que celles du code général des impôts et du code général des collectivités territoriales :1° Les dispositions relatives aux communes et aux départements sont applicables de plein droit à la Ville de Paris ;2° Les références à la commune et au département sont remplacées par la référence à la Ville de Paris ;3° Les références au conseil municipal et au conseil départemental sont remplacées par la référence au conseil de Paris ;4° La référence au président du conseil départemental est remplacée par la référence au maire de Paris."
+      "content": "Pour l'application à la Ville de Paris du livre des procédures fiscales et des dispositions législatives à caractère fiscal autres que celles du code général des impôts et du code général des collectivités territoriales :1° Les dispositions relatives aux communes et aux départements sont applicables de plein droit à la Ville de Paris ;2° Les références à la commune et au département sont remplacées par la référence à la Ville de Paris ;3° Les références au conseil municipal et au conseil départemental sont remplacées par la référence au conseil de Paris ;4° La référence au président du conseil départemental est remplacée par la référence au maire de Paris.",
+      "valid_from": "2019-01-01"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les délibérations autres que celles relatives aux taux, prises en matière de taxes foncières, de taxe d'habitation et de cotisation foncière des entreprises, par le département de Paris et la commune de Paris antérieurement à la création de la Ville de Paris, sont maintenues tant qu'elles ne sont pas modifiées ou rapportées par une délibération prise dans les conditions prévues à l'article 1639 A bis du code général des impôts."
+      "content": "Les délibérations autres que celles relatives aux taux, prises en matière de taxes foncières, de taxe d'habitation et de cotisation foncière des entreprises, par le département de Paris et la commune de Paris antérieurement à la création de la Ville de Paris, sont maintenues tant qu'elles ne sont pas modifiées ou rapportées par une délibération prise dans les conditions prévues à l'article 1639 A bis du code général des impôts.",
+      "valid_from": "2024-01-01"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Les délibérations autres que celles relatives aux taux, prises en matière de taxe d'enlèvement des ordures ménagères, de taxe de balayage et de taxe sur les friches commerciales prises par la commune de Paris antérieurement à la création de la Ville de Paris, sont maintenues tant qu'elles ne sont pas modifiées ou rapportées par une délibération prise dans les conditions prévues à l'article 1639 A bis du code général des impôts."
+      "content": "Les délibérations autres que celles relatives aux taux, prises en matière de taxe d'enlèvement des ordures ménagères, de taxe de balayage et de taxe sur les friches commerciales prises par la commune de Paris antérieurement à la création de la Ville de Paris, sont maintenues tant qu'elles ne sont pas modifiées ou rapportées par une délibération prise dans les conditions prévues à l'article 1639 A bis du code général des impôts.",
+      "valid_from": "2019-01-01"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Pour l'application du 1° de l'article 1er de la présente ordonnance et par dérogation au I de l'article 1639 A bis du code général des impôts, pour les impositions de taxe foncière sur les propriétés bâties établies au titre de 2019, la Ville de Paris peut délibérer jusqu'au 15 février 2019 pour instituer l'exonération prévue au VI de l'article 1383 du même code tel qu'il résulte de l'article 1er de la présente ordonnance."
+      "content": "Pour l'application du 1° de l'article 1er de la présente ordonnance et par dérogation au I de l'article 1639 A bis du code général des impôts, pour les impositions de taxe foncière sur les propriétés bâties établies au titre de 2019, la Ville de Paris peut délibérer jusqu'au 15 février 2019 pour instituer l'exonération prévue au VI de l'article 1383 du même code tel qu'il résulte de l'article 1er de la présente ordonnance.",
+      "valid_from": "2019-01-01"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les délibérations prises en matière de droits d'enregistrement et de taxe de publicité foncière par la commune de Paris et par le département de Paris antérieurement à la création de la Ville de Paris demeurent applicables tant qu'elles n'ont pas été modifiées ou rapportées par délibération prise dans les conditions prévues par les dispositions de l'article 1594 E du code général des impôts."
+      "content": "Les délibérations prises en matière de droits d'enregistrement et de taxe de publicité foncière par la commune de Paris et par le département de Paris antérieurement à la création de la Ville de Paris demeurent applicables tant qu'elles n'ont pas été modifiées ou rapportées par délibération prise dans les conditions prévues par les dispositions de l'article 1594 E du code général des impôts.",
+      "valid_from": "2019-01-01"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Les délibérations prises en matière de taxe d'aménagement par la commune de Paris et par le département de Paris antérieurement à la création de la Ville de Paris demeurent applicables tant qu'elles n'ont pas été modifiées ou rapportées par délibération prise dans les conditions prévues par les articles L. 331-2, L. 331-3, L. 331-5, L. 331-9, et L. 331-13 à L. 331-17 du code de l'urbanisme."
+      "content": "Les délibérations prises en matière de taxe d'aménagement par la commune de Paris et par le département de Paris antérieurement à la création de la Ville de Paris demeurent applicables tant qu'elles n'ont pas été modifiées ou rapportées par délibération prise dans les conditions prévues par les articles L. 331-2, L. 331-3, L. 331-5, L. 331-9, et L. 331-13 à L. 331-17 du code de l'urbanisme.",
+      "valid_from": "2019-01-01"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "A compter du 1er janvier 2019, la Ville de Paris est subrogée dans les droits de la commune de Paris et du département de Paris auxquels elle succède pour les attributions du fonds de compensation pour la taxe sur la valeur ajoutée au titre de leurs dépenses éligibles en application de l'article L. 1615-1 du code général des collectivités territoriales."
+      "content": "A compter du 1er janvier 2019, la Ville de Paris est subrogée dans les droits de la commune de Paris et du département de Paris auxquels elle succède pour les attributions du fonds de compensation pour la taxe sur la valeur ajoutée au titre de leurs dépenses éligibles en application de l'article L. 1615-1 du code général des collectivités territoriales.",
+      "valid_from": "2018-02-10"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Les délibérations prises par la commune de Paris et par le département de Paris en matière de taxe communale sur la consommation finale d'électricité en application des articles L. 2333-4 et L. 5212-24 du code général des collectivités territoriales et de taxe départementale sur la consommation finale d'électricité en application de l'article L. 3333-3 du même code demeurent applicables tant qu'elles n'ont pas été modifiées ou rapportées par délibération prise dans les conditions prévues aux articles susmentionnés."
+      "content": "Les délibérations prises par la commune de Paris et par le département de Paris en matière de taxe communale sur la consommation finale d'électricité en application des articles L. 2333-4 et L. 5212-24 du code général des collectivités territoriales et de taxe départementale sur la consommation finale d'électricité en application de l'article L. 3333-3 du même code demeurent applicables tant qu'elles n'ont pas été modifiées ou rapportées par délibération prise dans les conditions prévues aux articles susmentionnés.",
+      "valid_from": "2019-01-01"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "I. - Pour l'exercice budgétaire 2019, par dérogation à l'article L. 1612-3 du code général des collectivités territoriales, le conseil de Paris, organe délibérant de la commune de Paris et du département de Paris, peut, avant le 1er janvier 2019, voter le budget de la Ville de Paris.II. - Dans le cas où le budget de l'exercice 2019 n'est pas adopté avant le 1er janvier 2019, il est fait application de l'article L. 1612-3 du code général des collectivités territoriales.III. - Pour le dernier exercice budgétaire de la commune de Paris et du département de Paris avant leur fusion, les dispositions de l'article L. 1612-11 du même code relatives à la journée complémentaire ne sont pas applicables.IV. - Le conseil d'arrondissement des 1er, 2e, 3e et 4e arrondissements est compétent pour approuver les comptes des états spéciaux des 1er, 2e, 3e et 4e arrondissements.V. - Le maire d'arrondissement et le conseil d'arrondissement des 1er, 2e, 3e et 4e arrondissements de Paris sont substitués aux maires des 1er, 2e, 3e et 4e arrondissements de Paris et aux conseils des 1er, 2e, 3e et 4e arrondissements de Paris dans l'ensemble de leurs droits et obligations dans toutes les délibérations et tous les actes qui relevaient de leurs compétences ainsi que dans toutes les procédures administratives et juridictionnelles en cours à la date de sa création."
+      "content": "I. - Pour l'exercice budgétaire 2019, par dérogation à l'article L. 1612-3 du code général des collectivités territoriales, le conseil de Paris, organe délibérant de la commune de Paris et du département de Paris, peut, avant le 1er janvier 2019, voter le budget de la Ville de Paris.II. - Dans le cas où le budget de l'exercice 2019 n'est pas adopté avant le 1er janvier 2019, il est fait application de l'article L. 1612-3 du code général des collectivités territoriales.III. - Pour le dernier exercice budgétaire de la commune de Paris et du département de Paris avant leur fusion, les dispositions de l'article L. 1612-11 du même code relatives à la journée complémentaire ne sont pas applicables.IV. - Le conseil d'arrondissement des 1er, 2e, 3e et 4e arrondissements est compétent pour approuver les comptes des états spéciaux des 1er, 2e, 3e et 4e arrondissements.V. - Le maire d'arrondissement et le conseil d'arrondissement des 1er, 2e, 3e et 4e arrondissements de Paris sont substitués aux maires des 1er, 2e, 3e et 4e arrondissements de Paris et aux conseils des 1er, 2e, 3e et 4e arrondissements de Paris dans l'ensemble de leurs droits et obligations dans toutes les délibérations et tous les actes qui relevaient de leurs compétences ainsi que dans toutes les procédures administratives et juridictionnelles en cours à la date de sa création.",
+      "valid_from": "2018-02-10"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Les articles 1er, 4, 10, 11, 12, 13, 14 et 16 s'appliquent à compter des impositions établies au titre de 2019.Les articles 2, 3 et 5, le 1° de l'article 6 et l'article 9 entrent en vigueur le 1er janvier 2019.Le 2° de l'article 6 et les IV et V de l'article 17 s'appliquent à compter de l'entrée en vigueur de l'article 21 de la loi du 28 février 2017 susvisée."
+      "content": "Les articles 1er, 4, 10, 11, 12, 13, 14 et 16 s'appliquent à compter des impositions établies au titre de 2019.Les articles 2, 3 et 5, le 1° de l'article 6 et l'article 9 entrent en vigueur le 1er janvier 2019.Le 2° de l'article 6 et les IV et V de l'article 17 s'appliquent à compter de l'entrée en vigueur de l'article 21 de la loi du 28 février 2017 susvisée.",
+      "valid_from": "2018-02-10"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'intérieur, le ministre de l'économie et des finances et le ministre de l'action et des comptes publics sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'intérieur, le ministre de l'économie et des finances et le ministre de l'action et des comptes publics sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2018-02-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "I. Paragraphe modificateurII. - Les dispositions du présent article ne s'appliquent aux documents d'urbanisme existants que lors de leur mise en révision engagée à l'initiative de la collectivité locale ou de l'établissement public de coopération intercommunale concerné."
+      "content": "I. Paragraphe modificateurII. - Les dispositions du présent article ne s'appliquent aux documents d'urbanisme existants que lors de leur mise en révision engagée à l'initiative de la collectivité locale ou de l'établissement public de coopération intercommunale concerné.",
+      "valid_from": "1997-01-01"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Alinéa modificateurLes dispositions du présent article s'appliquent aux demandes qui doivent être accompagnées d'une étude d'impact et qui sont déposées à compter du premier jour du septième mois suivant la publication de la présente loi."
+      "content": "Alinéa modificateurLes dispositions du présent article s'appliquent aux demandes qui doivent être accompagnées d'une étude d'impact et qui sont déposées à compter du premier jour du septième mois suivant la publication de la présente loi.",
+      "valid_from": "1997-01-01"
     },
     {
       "provision_ref": "art44",
       "section": "44",
       "title": "Article 44",
-      "content": "I. - Les textes réglementaires pris en application de la loi n° 61-842 du 2 août 1961 relative à la lutte contre les pollutions atmosphériques et les odeurs demeurent applicables jusqu'à la parution des décrets d'application de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire qui s'y substituent.II. et III. Paragraphes modificateursIV. -Les références au titre II du livre II du code de l'environnement et, pour ce qui concerne les installations nucléaires de base, à la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire sont substituées aux références à la loi n° 61-842 du 2 août 1961 et à la loi n° 48-400 du 10 mars 1948 dans tous les textes contenant de telles références."
+      "content": "I. - Les textes réglementaires pris en application de la loi n° 61-842 du 2 août 1961 relative à la lutte contre les pollutions atmosphériques et les odeurs demeurent applicables jusqu'à la parution des décrets d'application de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire qui s'y substituent.II. et III. Paragraphes modificateursIV. -Les références au titre II du livre II du code de l'environnement et, pour ce qui concerne les installations nucléaires de base, à la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire sont substituées aux références à la loi n° 61-842 du 2 août 1961 et à la loi n° 48-400 du 10 mars 1948 dans tous les textes contenant de telles références.",
+      "valid_from": "2006-06-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

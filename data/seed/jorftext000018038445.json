@@ -12,13 +12,21 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le présent titre s'applique aux procédures définies à l'article L. 143-11-10 du code du travail ouvertes à compter du premier jour du premier mois suivant la publication de la présente loi."
+      "content": "Le présent titre s'applique aux procédures définies à l'article L. 143-11-10 du code du travail ouvertes à compter du premier jour du premier mois suivant la publication de la présente loi.",
+      "valid_from": "2008-02-01"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les dispositions des articles 8, 9, 10  et 11 de la présente loi entrent en vigueur en même temps que celles de l'ordonnance n° 2007-329 du 12 mars 2007 relative au code du travail (partie législative).La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Les dispositions des articles 8, 9, 10  et 11 de la présente loi entrent en vigueur en même temps que celles de l'ordonnance n° 2007-329 du 12 mars 2007 relative au code du travail (partie législative).La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2008-07-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

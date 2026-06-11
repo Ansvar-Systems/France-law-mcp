@@ -12,25 +12,35 @@
       "provision_ref": "art48",
       "section": "48",
       "title": "Article 48",
-      "content": "I.-Le chapitre XIII de la loi n° 84-53 du 26 janvier 1984 précitée devient le chapitre XIV de la même loi.\n\nII.-A modifié les dispositions suivantes :\n\n-Loi n° 84-53 du 26 janvier 1984\n\nArt. 108-1 ; Art. 108-2 ; Art. 108-3"
+      "content": "I.-Le chapitre XIII de la loi n° 84-53 du 26 janvier 1984 précitée devient le chapitre XIV de la même loi.\n\nII.-A modifié les dispositions suivantes :\n\n-Loi n° 84-53 du 26 janvier 1984\n\nArt. 108-1 ; Art. 108-2 ; Art. 108-3",
+      "valid_from": "2007-02-21"
     },
     {
       "provision_ref": "art57",
       "section": "57",
       "title": "Article 57",
-      "content": "I.-La présente loi est applicable à Mayotte.\n\nII.-A créé les dispositions suivantes :\n\n-Loi n° 84-53 du 26 janvier 1984 Art. 112-1\n\nIII.-A créé les dispositions suivantes :\n\n-Loi n° 84-594 du 12 juillet 1984 Art. 51-1"
+      "content": "I.-La présente loi est applicable à Mayotte.\n\nII.-A créé les dispositions suivantes :\n\n-Loi n° 84-53 du 26 janvier 1984 Art. 112-1\n\nIII.-A créé les dispositions suivantes :\n\n-Loi n° 84-594 du 12 juillet 1984 Art. 51-1",
+      "valid_from": "2007-02-21"
     },
     {
       "provision_ref": "art62",
       "section": "62",
       "title": "Article 62",
-      "content": "Le transfert aux centres de gestion des missions jusque-là assumées par le Centre national de la fonction publique territoriale et énumérées aux 1°, 5° et 6° du II de l'article 23 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale entre en vigueur le premier jour du troisième mois qui suit la transmission au ministre chargé des collectivités territoriales de la dernière des conventions prévues à l'article 22-1 de la même loi ou, à défaut, la publication du décret pris en son absence. Au plus tard, ce transfert entre en vigueur le premier jour de la troisième année qui suit la publication de la présente loi."
+      "content": "Le transfert aux centres de gestion des missions jusque-là assumées par le Centre national de la fonction publique territoriale et énumérées aux 1°, 5° et 6° du II de l'article 23 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale entre en vigueur le premier jour du troisième mois qui suit la transmission au ministre chargé des collectivités territoriales de la dernière des conventions prévues à l'article 22-1 de la même loi ou, à défaut, la publication du décret pris en son absence. Au plus tard, ce transfert entre en vigueur le premier jour de la troisième année qui suit la publication de la présente loi.",
+      "valid_from": "2007-02-21"
     },
     {
       "provision_ref": "art68",
       "section": "68",
       "title": "Article 68",
-      "content": "Les personnels techniciens, ouvriers et de service qui étaient affectés à des services ou parties de services transférés à une collectivité territoriale ou à un groupement de collectivités territoriales dans les conditions prévues à l'article 104 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales avant d'être placés dans l'une des situations prévues au 4° de l'article 34 et aux articles 40 bis 45, 51 et 54 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat et qui n'ont pas été mis à disposition d'une collectivité territoriale dans les conditions prévues à l'article 105 de la loi n° 2004-809 du 13 août 2004 précitée sont, lors de leur réintégration, mis à disposition de plein droit de la collectivité territoriale de rattachement du service où ils exerçaient en dernier lieu, sous réserve que cette réintégration intervienne dans un délai de vingt-trois mois à compter de la date d'entrée en vigueur des décrets fixant les transferts définitifs de ces services ou parties de services.Les fonctionnaires mis à disposition dans les conditions prévues au présent article bénéficient du droit d'option prévu à l'article 109 de la loi n° 2004-809 du 13 août 2004 précitée."
+      "content": "Les personnels techniciens, ouvriers et de service qui étaient affectés à des services ou parties de services transférés à une collectivité territoriale ou à un groupement de collectivités territoriales dans les conditions prévues à l'article 104 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales avant d'être placés dans l'une des situations prévues au 4° de l'article 34 et aux articles 40 bis 45, 51 et 54 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat et qui n'ont pas été mis à disposition d'une collectivité territoriale dans les conditions prévues à l'article 105 de la loi n° 2004-809 du 13 août 2004 précitée sont, lors de leur réintégration, mis à disposition de plein droit de la collectivité territoriale de rattachement du service où ils exerçaient en dernier lieu, sous réserve que cette réintégration intervienne dans un délai de vingt-trois mois à compter de la date d'entrée en vigueur des décrets fixant les transferts définitifs de ces services ou parties de services.Les fonctionnaires mis à disposition dans les conditions prévues au présent article bénéficient du droit d'option prévu à l'article 109 de la loi n° 2004-809 du 13 août 2004 précitée.",
+      "valid_from": "2007-02-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

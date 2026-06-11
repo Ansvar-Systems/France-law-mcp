@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Lorsqu'ils sont destinés à s'intégrer à des constructions relevant d'autres régimes juridiques, les ouvrages édifiés par les organismes énumérés à l'article L. 411-2 du code de la construction et de l'habitation peuvent être dispensés de tout ou partie de l'application de la présente loi. Cette dispense est accordée par décision du représentant de l'Etat dans le département."
+      "content": "Lorsqu'ils sont destinés à s'intégrer à des constructions relevant d'autres régimes juridiques, les ouvrages édifiés par les organismes énumérés à l'article L. 411-2 du code de la construction et de l'habitation peuvent être dispensés de tout ou partie de l'application de la présente loi. Cette dispense est accordée par décision du représentant de l'Etat dans le département.",
+      "valid_from": "2019-04-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

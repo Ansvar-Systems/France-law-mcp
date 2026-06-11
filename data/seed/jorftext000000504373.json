@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Aucun monument de caractère commémoratif ou décoratif, tel que statue, stèle ou fontaine, etc., ne pourra être élevé sur l'assiette du domaine public ou du domaine privé de l'Etat et des autres collectivités publiques sans que l'emplacement et le projet ou la maquette, ainsi que le libellé des inscriptions, aient été préalablement approuvés par le ministre d'Etat chargé des affaires culturelles.En outre, l'érection des monuments commémoratifs est soumise à l'approbation préalable du ministre de l'intérieur, après entente, selon les cas, s'il s'agit de monuments commémoratifs de guerre, avec le ministre d'Etat chargé de la défense nationale."
+      "content": "Aucun monument de caractère commémoratif ou décoratif, tel que statue, stèle ou fontaine, etc., ne pourra être élevé sur l'assiette du domaine public ou du domaine privé de l'Etat et des autres collectivités publiques sans que l'emplacement et le projet ou la maquette, ainsi que le libellé des inscriptions, aient été préalablement approuvés par le ministre d'Etat chargé des affaires culturelles.En outre, l'érection des monuments commémoratifs est soumise à l'approbation préalable du ministre de l'intérieur, après entente, selon les cas, s'il s'agit de monuments commémoratifs de guerre, avec le ministre d'Etat chargé de la défense nationale.",
+      "valid_from": "1942-01-15"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "En cas d'inobservation des dispositions de l'article 1er de la présente loi, l'enlèvement du monument sera ordonné par le préfet."
+      "content": "En cas d'inobservation des dispositions de l'article 1er de la présente loi, l'enlèvement du monument sera ordonné par le préfet.",
+      "valid_from": "1942-01-15"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions de la présente loi ne sont pas applicables aux monuments funéraires individuels ou de famille placés dans l'enceinte des cimetières."
+      "content": "Les dispositions de la présente loi ne sont pas applicables aux monuments funéraires individuels ou de famille placés dans l'enceinte des cimetières.",
+      "valid_from": "1942-01-15"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Il n'est pas dérogé par la présente loi aux dispositions relatives à la protection des perspectives monumentales des monuments historiques ou des sites, à la législation concernant l'urbanisme, ainsi qu'à l'article 28 de la loi du 9 décembre 1905.Sont abrogés dans celles de leurs dispositions contraires à la présente loi, l'ordonnance du 10 juillet 1816, les décrets des 15 juillet et 18 novembre 1922."
+      "content": "Il n'est pas dérogé par la présente loi aux dispositions relatives à la protection des perspectives monumentales des monuments historiques ou des sites, à la législation concernant l'urbanisme, ainsi qu'à l'article 28 de la loi du 9 décembre 1905.Sont abrogés dans celles de leurs dispositions contraires à la présente loi, l'ordonnance du 10 juillet 1816, les décrets des 15 juillet et 18 novembre 1922.",
+      "valid_from": "1942-01-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

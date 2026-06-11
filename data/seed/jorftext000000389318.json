@@ -12,7 +12,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Premier ministre, le ministre de l'éducation nationale, de la recherche et de la technologie, le ministre de l'intérieur, le ministre de l'économie, des finances et de l'industrie, le ministre de la fonction publique, de la réforme de l'Etat et de la décentralisation, le secrétaire d'Etat à l'outre-mer et le secrétaire d'Etat au budget sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'éducation nationale, de la recherche et de la technologie, le ministre de l'intérieur, le ministre de l'économie, des finances et de l'industrie, le ministre de la fonction publique, de la réforme de l'Etat et de la décentralisation, le secrétaire d'Etat à l'outre-mer et le secrétaire d'Etat au budget sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "1998-07-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

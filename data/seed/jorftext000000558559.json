@@ -12,7 +12,14 @@
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "La présente loi est applicable dans les territoires d'outre-mer et la Mayotte.Pour l'application de l'article 15 dans les territoires d'outre-mer, les règles de procédure civile dont il est fait mention sont celles applicables localement."
+      "content": "La présente loi est applicable dans les territoires d'outre-mer et la Mayotte.Pour l'application de l'article 15 dans les territoires d'outre-mer, les règles de procédure civile dont il est fait mention sont celles applicables localement.",
+      "valid_from": "2001-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

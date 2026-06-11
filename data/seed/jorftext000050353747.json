@@ -12,13 +12,21 @@
       "provision_ref": "art49",
       "section": "49",
       "title": "Article 49",
-      "content": "I. - L'article 1er, à l'exception de son I, les articles 2, 3, 5, 6, les dispositions du 10 du I de l'article L. 311-2 du code monétaire et financier résultant du b) du 1° de l'article 7, les articles 8 à 13, 17, les dispositions des 1° à 5° de l'article 20, les dispositions du 2° de l'article 21, les articles 22, 23 et 38 à 45 entrent en vigueur le 30 décembre 2024.II. - Le I de l'article 1er, les articles 24 à 33 et 46 à 48 entrent en vigueur le 1er juillet 2026."
+      "content": "I. - L'article 1er, à l'exception de son I, les articles 2, 3, 5, 6, les dispositions du 10 du I de l'article L. 311-2 du code monétaire et financier résultant du b) du 1° de l'article 7, les articles 8 à 13, 17, les dispositions des 1° à 5° de l'article 20, les dispositions du 2° de l'article 21, les articles 22, 23 et 38 à 45 entrent en vigueur le 30 décembre 2024.II. - Le I de l'article 1er, les articles 24 à 33 et 46 à 48 entrent en vigueur le 1er juillet 2026.",
+      "valid_from": "2024-10-18"
     },
     {
       "provision_ref": "art50",
       "section": "50",
       "title": "Article 50",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie et le ministre auprès du Premier ministre, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie et le ministre auprès du Premier ministre, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2024-10-18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

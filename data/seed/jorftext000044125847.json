@@ -12,13 +12,21 @@
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Les dispositions des articles 2 à 10, 12 à 15, 18 et 19 s'appliquent aux contrats conclus à compter du 1er janvier 2022.Toutefois, les dispositions des articles L. 224-25-1 à L. 224-25-3, L. 224-25-10 à L. 224-25-25, L. 224-25-28, L. 224-25-29, L. 224-25-31, L. 224-25-32, L. 242-18-1 à L. 242-18-3, L. 242-18-5 à L. 242-18-7 et L. 242-18-9 du code de la consommation dans leur rédaction issue de la présente ordonnance sont applicables à la fourniture de contenus numériques et de services numériques à compter du 1er janvier 2022."
+      "content": "Les dispositions des articles 2 à 10, 12 à 15, 18 et 19 s'appliquent aux contrats conclus à compter du 1er janvier 2022.Toutefois, les dispositions des articles L. 224-25-1 à L. 224-25-3, L. 224-25-10 à L. 224-25-25, L. 224-25-28, L. 224-25-29, L. 224-25-31, L. 224-25-32, L. 242-18-1 à L. 242-18-3, L. 242-18-5 à L. 242-18-7 et L. 242-18-9 du code de la consommation dans leur rédaction issue de la présente ordonnance sont applicables à la fourniture de contenus numériques et de services numériques à compter du 1er janvier 2022.",
+      "valid_from": "2021-10-01"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance, le garde des sceaux, ministre de la justice, le ministre délégué auprès du ministre de l'économie, des finances et de la relance, chargé des petites et moyennes entreprises, et le secrétaire d'État auprès du ministre de l'économie, des finances et de la relance et de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la transition numérique et des communications électroniques, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance, le garde des sceaux, ministre de la justice, le ministre délégué auprès du ministre de l'économie, des finances et de la relance, chargé des petites et moyennes entreprises, et le secrétaire d'État auprès du ministre de l'économie, des finances et de la relance et de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la transition numérique et des communications électroniques, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-10-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,7 +12,14 @@
       "provision_ref": "art82",
       "section": "82",
       "title": "Article 82",
-      "content": "Aucun casino ouvrant des salles de jeux ne pourra être exploité à moins de 100 kilomètres de Paris.\n\nSont seuls exceptés des dispositions contenues dans ledit article, les casinos des stations thermales légalement reconnues situées à moins de 100 kilomètres de Paris.\n\nLe droit d'entrée des salles de baccara ne pourra être fixé par l'arrêté d'autorisation à un chiffre inférieur à 500 francs sans qu'il soit permis au casino, sous peine de retrait de l'autorisation de jeux, de prendre ce droit en tout ou partie à sa charge.\n\nLa moitié des redevances dont la commune bénéficiera, en vertu du cahier des charges, sera obligatoirement employée à l'amélioration de l'établissement thermal ou des organisations qui en dépendent."
+      "content": "Aucun casino ouvrant des salles de jeux ne pourra être exploité à moins de 100 kilomètres de Paris.\n\nSont seuls exceptés des dispositions contenues dans ledit article, les casinos des stations thermales légalement reconnues situées à moins de 100 kilomètres de Paris.\n\nLe droit d'entrée des salles de baccara ne pourra être fixé par l'arrêté d'autorisation à un chiffre inférieur à 500 francs sans qu'il soit permis au casino, sous peine de retrait de l'autorisation de jeux, de prendre ce droit en tout ou partie à sa charge.\n\nLa moitié des redevances dont la commune bénéficiera, en vertu du cahier des charges, sera obligatoirement employée à l'amélioration de l'établissement thermal ou des organisations qui en dépendent.",
+      "valid_from": "1998-07-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

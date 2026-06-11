@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est autorisée l'approbation du protocole additionnel à la convention européenne d'entraide judiciaire en matière pénale, fait à Strasbourg le 17 mars 1978, signé par la France le 28 mars 1990 et dont le texte est annexé à la présente loi (2)."
+      "content": "Est autorisée l'approbation du protocole additionnel à la convention européenne d'entraide judiciaire en matière pénale, fait à Strasbourg le 17 mars 1978, signé par la France le 28 mars 1990 et dont le texte est annexé à la présente loi (2).",
+      "valid_from": "1990-12-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

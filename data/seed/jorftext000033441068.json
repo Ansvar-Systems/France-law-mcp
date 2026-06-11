@@ -12,31 +12,42 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Par dérogation aux dispositions de l'article L. 221 du même code, il n'est procédé à aucune élection partielle de conseiller départemental dans les six mois précédant la fin du mandat des conseillers départementaux de Corse-du-Sud et de Haute-Corse."
+      "content": "Par dérogation aux dispositions de l'article L. 221 du même code, il n'est procédé à aucune élection partielle de conseiller départemental dans les six mois précédant la fin du mandat des conseillers départementaux de Corse-du-Sud et de Haute-Corse.",
+      "valid_from": "2016-11-23"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Dans le cas où la vacance du siège d'un sénateur rend nécessaire l'organisation d'une élection partielle et intervient à compter du 7 octobre 2017, l'élection est organisée à compter du 7 janvier 2018.Le décret de convocation du collège électoral appelé à pourvoir ce siège mentionne les membres de l'Assemblée de Corse élus conformément aux dispositions du I de l'article 7. Par dérogation aux dispositions des articles L. 280 et L. 281 du code électoral, les conseillers départementaux ne sont pas convoqués à cette élection.Lors de la réunion mentionnée au III de l'article 7, l'assemblée procède à la répartition de ses membres mentionnée à l'article L. 293-1 du même code dans sa rédaction issue de la présente ordonnance."
+      "content": "Dans le cas où la vacance du siège d'un sénateur rend nécessaire l'organisation d'une élection partielle et intervient à compter du 7 octobre 2017, l'élection est organisée à compter du 7 janvier 2018.Le décret de convocation du collège électoral appelé à pourvoir ce siège mentionne les membres de l'Assemblée de Corse élus conformément aux dispositions du I de l'article 7. Par dérogation aux dispositions des articles L. 280 et L. 281 du code électoral, les conseillers départementaux ne sont pas convoqués à cette élection.Lors de la réunion mentionnée au III de l'article 7, l'assemblée procède à la répartition de ses membres mentionnée à l'article L. 293-1 du même code dans sa rédaction issue de la présente ordonnance.",
+      "valid_from": "2016-11-23"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. - Par dérogation aux dispositions du dernier alinéa de l'article L. 364 du même code, les conseillers à l'Assemblée de Corse créée au 1er janvier 2018 sont élus en décembre 2017.L'élection a lieu dans les conditions prévues au titre II du livre IV du même code, dans sa rédaction issue du II de l'article 30 de la loi du 7 août 2015 susvisée.II. - Par dérogation aux dispositions du premier alinéa de l'article L. 364 du même code, le mandat des conseillers à l'Assemblée de Corse élus en décembre 2017 prend fin en même temps que celui des conseillers régionaux élus en décembre 2015.III. - Les conseillers à l'Assemblée de Corse élus en décembre 2017 tiennent la première réunion prévue à l'article L. 4422-8 du code général des collectivités territoriales le 2 janvier 2018.IV. - Entre la date du tour de scrutin où l'élection mentionnée au I est acquise et le 31 décembre 2017, les présidents des conseils départementaux gèrent les affaires courantes ou présentant un caractère urgent.V. - Entre la date du tour de scrutin où l'élection mentionnée au I est acquise et l'élection du nouveau président du conseil exécutif prévue lors de la réunion mentionnée au III, les affaires courantes ou urgentes sont administrées par le président du conseil exécutif."
+      "content": "I. - Par dérogation aux dispositions du dernier alinéa de l'article L. 364 du même code, les conseillers à l'Assemblée de Corse créée au 1er janvier 2018 sont élus en décembre 2017.L'élection a lieu dans les conditions prévues au titre II du livre IV du même code, dans sa rédaction issue du II de l'article 30 de la loi du 7 août 2015 susvisée.II. - Par dérogation aux dispositions du premier alinéa de l'article L. 364 du même code, le mandat des conseillers à l'Assemblée de Corse élus en décembre 2017 prend fin en même temps que celui des conseillers régionaux élus en décembre 2015.III. - Les conseillers à l'Assemblée de Corse élus en décembre 2017 tiennent la première réunion prévue à l'article L. 4422-8 du code général des collectivités territoriales le 2 janvier 2018.IV. - Entre la date du tour de scrutin où l'élection mentionnée au I est acquise et le 31 décembre 2017, les présidents des conseils départementaux gèrent les affaires courantes ou présentant un caractère urgent.V. - Entre la date du tour de scrutin où l'élection mentionnée au I est acquise et l'élection du nouveau président du conseil exécutif prévue lors de la réunion mentionnée au III, les affaires courantes ou urgentes sont administrées par le président du conseil exécutif.",
+      "valid_from": "2016-11-23"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les dispositions des articles 1er, 2, 3 et 8 entrent en vigueur au 1er janvier 2018."
+      "content": "Les dispositions des articles 1er, 2, 3 et 8 entrent en vigueur au 1er janvier 2018.",
+      "valid_from": "2016-11-23"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Le Premier ministre, le ministre de l'aménagement du territoire, de la ruralité et des collectivités territoriales et le ministre de l'intérieur sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'aménagement du territoire, de la ruralité et des collectivités territoriales et le ministre de l'intérieur sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-11-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

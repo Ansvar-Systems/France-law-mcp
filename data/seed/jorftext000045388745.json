@@ -12,13 +12,21 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2022-839 DC du 17 mars 2022.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2022-839 DC du 17 mars 2022.]",
+      "valid_from": "2022-09-01"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "La présente loi entre en vigueur le premier jour du sixième mois suivant sa promulgation.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "La présente loi entre en vigueur le premier jour du sixième mois suivant sa promulgation.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2022-09-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

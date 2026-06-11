@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "II.-Le 6° du I entre en vigueur à la date de publication des décrets prévus au II de l'article L. 4644-1 du code du travail et au plus tard le 1er juin 2012."
+      "content": "I.-A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nII.-Le 6° du I entre en vigueur à la date de publication des décrets prévus au II de l'article L. 4644-1 du code du travail et au plus tard le 1er juin 2012.\n\nIII.-L'habilitation d'intervenant en prévention des risques professionnels délivrée avant la date d'entrée en vigueur de la présente loi vaut enregistrement, au sens de l'article L. 4644-1 du code du travail, pendant une durée de trois ans à compter de la date de promulgation de la présente loi.\n\nIV.-A l'issue d'un délai de dix-huit mois à compter de la promulgation de la présente loi, les clauses des accords collectifs comportant des obligations en matière d'examens médicaux réalisés par le médecin du travail différentes de celles prévues par le code du travail ou le code rural et de la pêche maritime sont réputées caduques.\n\n-Code du travail\n\n-Code du travail",
+      "valid_from": "2011-07-25"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "II.-En l'absence d'accord étendu dans un délai de douze mois à compter de la date de promulgation de la présente loi, un décret en Conseil d'Etat pris après avis du Conseil national de l'ordre des médecins détermine les règles applicables à ces catégories de travailleurs.III.-Le Gouvernement remet au Parlement un rapport sur l'évaluation du recours à des médecins non spécialisés en médecine du travail prévu à l'article L. 4625-2 du code du travail, dans un délai de trois ans après l'entrée en vigueur de la présente loi."
+      "content": "I.-A modifié les dispositions suivantes :\n\nII.-En l'absence d'accord étendu dans un délai de douze mois à compter de la date de promulgation de la présente loi, un décret en Conseil d'Etat pris après avis du Conseil national de l'ordre des médecins détermine les règles applicables à ces catégories de travailleurs.\n\nIII.-Le Gouvernement remet au Parlement un rapport sur l'évaluation du recours à des médecins non spécialisés en médecine du travail prévu à l'article L. 4625-2 du code du travail, dans un délai de trois ans après l'entrée en vigueur de la présente loi.\n\n-Code du travail",
+      "valid_from": "2011-07-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

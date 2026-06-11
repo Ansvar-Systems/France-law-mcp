@@ -12,31 +12,42 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. à III. Paragraphes modificateursIV. - Les dispositions des I, II et III sont applicables aux requêtes enregistrées auprès des tribunaux administratifs, des cours administratives d'appel et du Conseil d'Etat à compter du 1er janvier 2004."
+      "content": "I. à III. Paragraphes modificateursIV. - Les dispositions des I, II et III sont applicables aux requêtes enregistrées auprès des tribunaux administratifs, des cours administratives d'appel et du Conseil d'Etat à compter du 1er janvier 2004.",
+      "valid_from": "2003-12-24"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "A. et B. Paragraphes modificateursC. I. Alinéa modificateurII. Un décret détermine les modalités d'application du I dont les dispositions s'appliquent aux opérations réalisées à compter du 1er janvier 2004."
+      "content": "A. et B. Paragraphes modificateursC. I. Alinéa modificateurII. Un décret détermine les modalités d'application du I dont les dispositions s'appliquent aux opérations réalisées à compter du 1er janvier 2004.",
+      "valid_from": "2003-12-24"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. à III. Paragraphes modificateursIV. - Les dispositions du I s'appliquent pour les délibérations prises à compter de 2004, celles du II et du III aux impositions établies à compter de 2004."
+      "content": "I. à III. Paragraphes modificateursIV. - Les dispositions du I s'appliquent pour les délibérations prises à compter de 2004, celles du II et du III aux impositions établies à compter de 2004.",
+      "valid_from": "2003-12-24"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. à IV. Paragraphes modificateursV. Les dispositions des I, III et IV entrent en vigueur à compter du 1er janvier 2004."
+      "content": "I. à IV. Paragraphes modificateursV. Les dispositions des I, III et IV entrent en vigueur à compter du 1er janvier 2004.",
+      "valid_from": "2003-12-24"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Premier ministre, le ministre des affaires sociales, du travail et de la solidarité, le garde des sceaux, ministre de la justice, le ministre de l'économie, des finances et de l'industrie et le ministre délégué au budget et à la réforme budgétaire sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des affaires sociales, du travail et de la solidarité, le garde des sceaux, ministre de la justice, le ministre de l'économie, des finances et de l'industrie et le ministre délégué au budget et à la réforme budgétaire sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2003-12-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

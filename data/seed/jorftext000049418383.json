@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Par dérogation au premier alinéa de l'article 187 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, les prochaines élections des membres du congrès et des assemblées de province ont lieu au plus tard le 15 décembre 2024. La liste électorale spéciale et le tableau annexe mentionnés à l'article 189 de la même loi organique sont mis à jour au plus tard dix jours avant la date du scrutin.Les mandats en cours des membres du congrès et des assemblées de province prennent fin le jour de la première réunion des assemblées nouvellement élues."
+      "content": "Par dérogation au premier alinéa de l'article 187 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, les prochaines élections des membres du congrès et des assemblées de province ont lieu au plus tard le 15 décembre 2024. La liste électorale spéciale et le tableau annexe mentionnés à l'article 189 de la même loi organique sont mis à jour au plus tard dix jours avant la date du scrutin.Les mandats en cours des membres du congrès et des assemblées de province prennent fin le jour de la première réunion des assemblées nouvellement élues.",
+      "valid_from": "2024-04-17"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La présente loi organique entre en vigueur le lendemain de sa publication au Journal officiel de la République française.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "La présente loi organique entre en vigueur le lendemain de sa publication au Journal officiel de la République française.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2024-04-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

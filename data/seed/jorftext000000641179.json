@@ -12,13 +12,21 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Les établissements de l'élevage mentionnés à l'article L. 653-7 du code rural demeurent chargés de l'enregistrement et du contrôle des performances des ruminants jusqu'à la désignation des opérateurs mentionnés à l'article L. 653-10 de ce code et au plus tard jusqu'au 31 décembre 2008."
+      "content": "Les établissements de l'élevage mentionnés à l'article L. 653-7 du code rural demeurent chargés de l'enregistrement et du contrôle des performances des ruminants jusqu'à la désignation des opérateurs mentionnés à l'article L. 653-10 de ce code et au plus tard jusqu'au 31 décembre 2008.",
+      "valid_from": "2006-12-08"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Le Premier ministre et le ministre de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2006-12-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

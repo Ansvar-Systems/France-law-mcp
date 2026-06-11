@@ -12,103 +12,126 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Toute pension alimentaire dont le recouvrement total ou partiel n'a pu être obtenu par l'une des voies d'exécution de droit privé peut être recouvrée pour le compte du créancier par les comptables publics compétents lorsque celle-ci a été fixée par :\n\n1° Une décision judiciaire devenue exécutoire ;\n\n1° bis Une convention homologuée par le juge ;\n\n2° Un accord par lequel les époux consentent mutuellement à leur divorce ou à leur séparation de corps par acte sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire selon les modalités prévues à l'article 229-1 du code civil ;\n\n3° Un acte reçu en la forme authentique par un notaire ;\n\n4° Un accord auquel l'organisme débiteur des prestations familiales a donné force exécutoire en application de l'article L. 582-2 du code de la sécurité sociale ;\n\n5° Une transaction ou un acte constatant un accord issu d'une médiation, d'une conciliation ou d'une procédure participative, lorsqu'ils sont contresignés par les avocats de chacune des parties et revêtus de la formule exécutoire par le greffe de la juridiction compétente en application du 7° de l'article L. 111-3 du code des procédures civiles d'exécution."
+      "content": "Toute pension alimentaire dont le recouvrement total ou partiel n'a pu être obtenu par l'une des voies d'exécution de droit privé peut être recouvrée pour le compte du créancier par les comptables publics compétents lorsque celle-ci a été fixée par :\n\n1° Une décision judiciaire devenue exécutoire ;\n\n1° bis Une convention homologuée par le juge ;\n\n2° Un accord par lequel les époux consentent mutuellement à leur divorce ou à leur séparation de corps par acte sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire selon les modalités prévues à l'article 229-1 du code civil ;\n\n3° Un acte reçu en la forme authentique par un notaire ;\n\n4° Un accord auquel l'organisme débiteur des prestations familiales a donné force exécutoire en application de l'article L. 582-2 du code de la sécurité sociale ;\n\n5° Une transaction ou un acte constatant un accord issu d'une médiation, d'une conciliation ou d'une procédure participative, lorsqu'ils sont contresignés par les avocats de chacune des parties et revêtus de la formule exécutoire par le greffe de la juridiction compétente en application du 7° de l'article L. 111-3 du code des procédures civiles d'exécution.",
+      "valid_from": "2021-12-25"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La demande de recouvrement public des pensions alimentaires est adressée par le créancier au procureur de la République près le   tribunal judiciaire dans le ressort duquel se trouve son domicile.\n\nCette demande est admise si le créancier justifie qu'il a eu recours effectivement à l'une des voies d'exécution de droit privé et que ce recours est resté infructueux."
+      "content": "La demande de recouvrement public des pensions alimentaires est adressée par le créancier au procureur de la République près le   tribunal judiciaire dans le ressort duquel se trouve son domicile.\n\nCette demande est admise si le créancier justifie qu'il a eu recours effectivement à l'une des voies d'exécution de droit privé et que ce recours est resté infructueux.",
+      "valid_from": "2020-01-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le procureur de la République établit un état exécutoire qu'il transmet au service compétent de l'Etat pour le recouvrement des termes à échoir de la pension alimentaire et, le cas échéant, de ceux qui sont échus à compter du sixième mois ayant précédé la date de la demande.\n\nLe procureur doit apporter à cet état exécutoire, soit de son propre chef, soit sur demande du créancier ou du débiteur, les modifications nécessaires, notamment en cas d'augmentation, de réduction ou de suppression de la pension alimentaire."
+      "content": "Le procureur de la République établit un état exécutoire qu'il transmet au service compétent de l'Etat pour le recouvrement des termes à échoir de la pension alimentaire et, le cas échéant, de ceux qui sont échus à compter du sixième mois ayant précédé la date de la demande.\n\nLe procureur doit apporter à cet état exécutoire, soit de son propre chef, soit sur demande du créancier ou du débiteur, les modifications nécessaires, notamment en cas d'augmentation, de réduction ou de suppression de la pension alimentaire.",
+      "valid_from": "2010-05-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "En cas de contestation relative à l'application des articles 2 et 3, il est statué, selon la procédure accélérée au fond, par le président du tribunal.\n\nLe président se prononce sur la contestation qui lui est soumise par le procureur de la République. Celui-ci prend, s'il y a lieu, toutes dispositions utiles pour l'exécution du jugement.\n\nLes décisions rendues en application du présent article ne sont susceptibles ni d'opposition, ni d'appel.\n\nLa procédure est gratuite et dispensée des droits de timbre et d'enregistrement.\n\nLa contestation n'interrompt pas le recouvrement public."
+      "content": "En cas de contestation relative à l'application des articles 2 et 3, il est statué, selon la procédure accélérée au fond, par le président du tribunal.\n\nLe président se prononce sur la contestation qui lui est soumise par le procureur de la République. Celui-ci prend, s'il y a lieu, toutes dispositions utiles pour l'exécution du jugement.\n\nLes décisions rendues en application du présent article ne sont susceptibles ni d'opposition, ni d'appel.\n\nLa procédure est gratuite et dispensée des droits de timbre et d'enregistrement.\n\nLa contestation n'interrompt pas le recouvrement public.",
+      "valid_from": "2020-01-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Dès le dépôt de la demande d'admission à la procédure de recouvrement public et jusqu'à la cessation de celle-ci, le créancier ne peut plus exercer aucune autre action pour le recouvrement des sommes qui font l'objet de cette demande."
+      "content": "Dès le dépôt de la demande d'admission à la procédure de recouvrement public et jusqu'à la cessation de celle-ci, le créancier ne peut plus exercer aucune autre action pour le recouvrement des sommes qui font l'objet de cette demande.",
+      "valid_from": "1976-01-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Pour les sommes qu'il est chargé de recouvrer, le service compétent de l'Etat est subrogé dans les actions et garanties dont dispose le créancier pour le recouvrement de sa pension alimentaire."
+      "content": "Pour les sommes qu'il est chargé de recouvrer, le service compétent de l'Etat est subrogé dans les actions et garanties dont dispose le créancier pour le recouvrement de sa pension alimentaire.",
+      "valid_from": "2010-05-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le recouvrement public des sommes à percevoir est effectué par les comptables publics compétents selon les procédures applicables en matière de contributions directes.\n\nLe montant de ces sommes est majoré de 10 % au profit du Trésor à titre de frais de recouvrement.\n\nLes frais de poursuites mis à la charge du débiteur sont calculés dans les conditions prévues à l'article 1912 du Code général des impôts."
+      "content": "Le recouvrement public des sommes à percevoir est effectué par les comptables publics compétents selon les procédures applicables en matière de contributions directes.\n\nLe montant de ces sommes est majoré de 10 % au profit du Trésor à titre de frais de recouvrement.\n\nLes frais de poursuites mis à la charge du débiteur sont calculés dans les conditions prévues à l'article 1912 du Code général des impôts.",
+      "valid_from": "2010-05-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Sous réserve des dispositions de l'article 6 de la loi n° 51-711 du 7 juin 1951 relative au secret professionnel en matière de statistiques, les administrations ou services de l'Etat et des collectivités publiques, les organismes de sécurité sociale et les organismes qui assurent la gestion des prestations sociales sont tenus de réunir et de communiquer, en faisant toutes les diligences nécessaires, au comptable public compétent les renseignements dont ils disposent ou peuvent disposer et qui sont utiles à la mise en oeuvre de la procédure de recouvrement public."
+      "content": "Sous réserve des dispositions de l'article 6 de la loi n° 51-711 du 7 juin 1951 relative au secret professionnel en matière de statistiques, les administrations ou services de l'Etat et des collectivités publiques, les organismes de sécurité sociale et les organismes qui assurent la gestion des prestations sociales sont tenus de réunir et de communiquer, en faisant toutes les diligences nécessaires, au comptable public compétent les renseignements dont ils disposent ou peuvent disposer et qui sont utiles à la mise en oeuvre de la procédure de recouvrement public.",
+      "valid_from": "2010-05-01"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "A compter de la notification au débiteur des sommes faisant l'objet du recouvrement public, le débiteur ne peut plus s'en libérer valablement qu'entre les mains du comptable public compétent."
+      "content": "A compter de la notification au débiteur des sommes faisant l'objet du recouvrement public, le débiteur ne peut plus s'en libérer valablement qu'entre les mains du comptable public compétent.",
+      "valid_from": "2010-05-01"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "En cas de décès du débiteur ou lorsque l'impossibilité de recouvrer la créance a été constatée par le comptable public compétent, ce dernier renvoie le titre exécutoire au procureur de la République qui met fin à la procédure de recouvrement public et décharge le comptable public."
+      "content": "En cas de décès du débiteur ou lorsque l'impossibilité de recouvrer la créance a été constatée par le comptable public compétent, ce dernier renvoie le titre exécutoire au procureur de la République qui met fin à la procédure de recouvrement public et décharge le comptable public.",
+      "valid_from": "2010-05-01"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Agissant seul ou conjointement avec le débiteur, le créancier de la pension alimentaire peut renoncer à la procédure de recouvrement public. Il adresse sa demande au procureur de la République qui met fin à la procédure de recouvrement public et décharge le comptable public."
+      "content": "Agissant seul ou conjointement avec le débiteur, le créancier de la pension alimentaire peut renoncer à la procédure de recouvrement public. Il adresse sa demande au procureur de la République qui met fin à la procédure de recouvrement public et décharge le comptable public.",
+      "valid_from": "1976-01-01"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Le débiteur qui, ayant acquitté les arriérés de la créance pris en charge par le Trésor, a versé, durant douze mois consécutifs le montant des termes courants de la pension à la caisse du comptable public compétent, sans que celui-ci ait à exercer des poursuites, peut demander de se libérer à l'avenir directement entre les mains du créancier de la pension. Il adresse sa demande au procureur de la République qui met fin à la procédure de recouvrement public et décharge le comptable public.\n\nEn cas de contestation, il est fait application de l'article 4."
+      "content": "Le débiteur qui, ayant acquitté les arriérés de la créance pris en charge par le Trésor, a versé, durant douze mois consécutifs le montant des termes courants de la pension à la caisse du comptable public compétent, sans que celui-ci ait à exercer des poursuites, peut demander de se libérer à l'avenir directement entre les mains du créancier de la pension. Il adresse sa demande au procureur de la République qui met fin à la procédure de recouvrement public et décharge le comptable public.\n\nEn cas de contestation, il est fait application de l'article 4.",
+      "valid_from": "2010-05-01"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Dans le cas d'une nouvelle défaillance du débiteur dans le délai de deux ans après la cessation du recouvrement public, le créancier peut, dès lors que le retard dans le paiement est supérieur à un mois demander à nouveau au procureur de la République la mise en oeuvre de la procédure de recouvrement public sans avoir à recourir préalablement à une voie d'exécution de droit privé.\n\nSi la nouvelle demande est admise, il est procédé au recouvrement de toutes les sommes dues depuis l'interruption du recouvrement public. Le montant des termes échus avant cette admission est majoré de 10 % au profit du créancier.\n\nToutefois, la remise de cette majoration peut être accordée au débiteur par le président du   tribunal judiciaire statuant dans les conditions prévues à l'article 4, s'il y a de justes motifs."
+      "content": "Dans le cas d'une nouvelle défaillance du débiteur dans le délai de deux ans après la cessation du recouvrement public, le créancier peut, dès lors que le retard dans le paiement est supérieur à un mois demander à nouveau au procureur de la République la mise en oeuvre de la procédure de recouvrement public sans avoir à recourir préalablement à une voie d'exécution de droit privé.\n\nSi la nouvelle demande est admise, il est procédé au recouvrement de toutes les sommes dues depuis l'interruption du recouvrement public. Le montant des termes échus avant cette admission est majoré de 10 % au profit du créancier.\n\nToutefois, la remise de cette majoration peut être accordée au débiteur par le président du   tribunal judiciaire statuant dans les conditions prévues à l'article 4, s'il y a de justes motifs.",
+      "valid_from": "2020-01-01"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les dispositions de la présente loi sont aussi applicables pour le recouvrement des sommes dues en exécution d'une décision judiciaire au titre des contributions aux charges du mariage prescrites par l'article 214 du Code civil, des rentes prévues par l'article 276 du même code ou des subsides de l'article 342."
+      "content": "Les dispositions de la présente loi sont aussi applicables pour le recouvrement des sommes dues en exécution d'une décision judiciaire au titre des contributions aux charges du mariage prescrites par l'article 214 du Code civil, des rentes prévues par l'article 276 du même code ou des subsides de l'article 342.",
+      "valid_from": "1976-01-01"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Le créancier d'aliments qui, de mauvaise foi, aura obtenu la mise en oeuvre de la procédure de recouvrement public sera condamné par le président du   tribunal judiciaire, statuant dans les conditions prévues aux alinéas 1er, 2 et 4 de l'article 4, à une amende civile de 200 à 20.000 F et au remboursement au débiteur des sommes qui auraient été perçues au titre des majorations pour termes échus non payés, des frais de recouvrement et des frais de poursuite, sans préjudice de tous dommages et intérêts."
+      "content": "Le créancier d'aliments qui, de mauvaise foi, aura obtenu la mise en oeuvre de la procédure de recouvrement public sera condamné par le président du   tribunal judiciaire, statuant dans les conditions prévues aux alinéas 1er, 2 et 4 de l'article 4, à une amende civile de 200 à 20.000 F et au remboursement au débiteur des sommes qui auraient été perçues au titre des majorations pour termes échus non payés, des frais de recouvrement et des frais de poursuite, sans préjudice de tous dommages et intérêts.",
+      "valid_from": "2020-01-01"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Un décret en Conseil d'Etat fixera les modalités d'application de la présente loi."
+      "content": "Un décret en Conseil d'Etat fixera les modalités d'application de la présente loi.",
+      "valid_from": "1976-01-01"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "La présente loi entrera en vigueur le 1er janvier 1976.\n\nElle est applicable dans les territoires d'outre-mer.\n\nElle est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna dans sa rédaction résultant de l'ordonnance n° 2019-738 du 17 juillet 2019."
+      "content": "La présente loi entrera en vigueur le 1er janvier 1976.\n\nElle est applicable dans les territoires d'outre-mer.\n\nElle est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna dans sa rédaction résultant de l'ordonnance n° 2019-738 du 17 juillet 2019.",
+      "valid_from": "2020-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -1,0 +1,39 @@
+{
+  "id": "legitext000006070684",
+  "type": "statute",
+  "title": "Loi du 28 mars 1933",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070684/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est autorisé le déclassement des ouvrages et postes militaires situés sur les côtes ou dans les îles avoisinant les côtes, reconnus inutiles aux besoins de la défense et énumérés sur la liste n° 1 annexée à la présente loi (liste non reproduite).",
+      "valid_from": "1933-03-31"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Le classement des ouvrages, batteries, postes photo-électriques, etc., inscrits sur la liste n° 3 (liste non reproduite), est établi ou modifié dans les conditions prévues à cette liste qui restera annexée à la présente loi.",
+      "valid_from": "1933-03-31"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Les déclassements prévus à l'article 1er de la présente loi seront prononcés par décrets successifs à la diligence du ministre de la défense nationale.",
+      "valid_from": "1933-03-31"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

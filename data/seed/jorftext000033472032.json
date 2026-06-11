@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions du code du travail applicable à Mayotte dans leur rédaction issue de la présente ordonnance sont applicables aux procédures collectives ouvertes postérieurement à la publication de la présente ordonnance.A compter de l'entrée en vigueur de la présente ordonnance, et pour une période de deux ans, les rémunérations de toute nature dues au salarié sont couvertes par l'association pour la gestion du régime d'assurance des créances des salariés mentionnée à l'article L. 3253-14 du code du travail, dans la limite des seules créances salariales résultant de l'activité du salarié au cours des six derniers mois ayant précédé le jugement d'ouverture de la procédure de redressement ou de liquidation judiciaire de son employeur."
+      "content": "Les dispositions du code du travail applicable à Mayotte dans leur rédaction issue de la présente ordonnance sont applicables aux procédures collectives ouvertes postérieurement à la publication de la présente ordonnance.A compter de l'entrée en vigueur de la présente ordonnance, et pour une période de deux ans, les rémunérations de toute nature dues au salarié sont couvertes par l'association pour la gestion du régime d'assurance des créances des salariés mentionnée à l'article L. 3253-14 du code du travail, dans la limite des seules créances salariales résultant de l'activité du salarié au cours des six derniers mois ayant précédé le jugement d'ouverture de la procédure de redressement ou de liquidation judiciaire de son employeur.",
+      "valid_from": "2016-11-26"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, la ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-11-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

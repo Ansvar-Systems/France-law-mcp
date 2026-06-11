@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "I. et II. - A modifié les dispositions suivantes :\n\n- LOI n° 2017-285 du 6 mars 2017\n\n- Code général des impôts, CGI.\n\nIII. - La perte de recettes résultant pour l'Etat de la présente loi est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services."
+      "content": "I. et II. - A modifié les dispositions suivantes :\n\n- LOI n° 2017-285 du 6 mars 2017\n\n- Code général des impôts, CGI.",
+      "valid_from": "2025-02-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

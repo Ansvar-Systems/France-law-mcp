@@ -12,19 +12,28 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Une fois par an, le représentant de l'Etat dans la région présente au comité régional de la formation professionnelle, de la promotion sociale et de l'emploi un rapport sur la mise en oeuvre des contrats de retour à l'emploi.Dix-huit mois après la promulgation de la présente loi, le Gouvernement présentera au Parlement un rapport suivi d'un débat sur l'application des contrats de retour à l'emploi, portant notamment sur les bénéficiaires de ces contrats et analysant les conséquences sur les politiques de recrutement et de gestion des entreprises."
+      "content": "Une fois par an, le représentant de l'Etat dans la région présente au comité régional de la formation professionnelle, de la promotion sociale et de l'emploi un rapport sur la mise en oeuvre des contrats de retour à l'emploi.Dix-huit mois après la promulgation de la présente loi, le Gouvernement présentera au Parlement un rapport suivi d'un débat sur l'application des contrats de retour à l'emploi, portant notamment sur les bénéficiaires de ces contrats et analysant les conséquences sur les politiques de recrutement et de gestion des entreprises.",
+      "valid_from": "1990-01-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Une fois par an, le représentant de l'Etat dans la région présente au comité régional de la formation professionnelle, de la promotion sociale et de l'emploi un rapport sur la mise en oeuvre des contrats d'accompagnement dans l'emploi, des contrats initiative-emploi et des contrats d'avenir.Dix-huit mois après la promulgation de la présente loi, le Gouvernement présentera au Parlement un rapport suivi d'un débat sur l'application des contrats emploi-solidarité, portant notamment sur les bénéficiaires de ces contrats et analysant les conséquences sur les politiques de recrutement et de gestion des employeurs utilisateurs."
+      "content": "Une fois par an, le représentant de l'Etat dans la région présente au comité régional de la formation professionnelle, de la promotion sociale et de l'emploi un rapport sur la mise en oeuvre des contrats d'accompagnement dans l'emploi, des contrats initiative-emploi et des contrats d'avenir.Dix-huit mois après la promulgation de la présente loi, le Gouvernement présentera au Parlement un rapport suivi d'un débat sur l'application des contrats emploi-solidarité, portant notamment sur les bénéficiaires de ces contrats et analysant les conséquences sur les politiques de recrutement et de gestion des employeurs utilisateurs.",
+      "valid_from": "2005-01-19"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les dispositions de la présente loi entreront en vigueur à compter du 1er janvier 1990."
+      "content": "Les dispositions de la présente loi entreront en vigueur à compter du 1er janvier 1990.",
+      "valid_from": "1990-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

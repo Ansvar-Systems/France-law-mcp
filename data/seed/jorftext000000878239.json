@@ -12,31 +12,43 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Nos (les) procureurs près les tribunaux de grande instance feront dans le même délai et dans les mêmes formes, par eux-mêmes ou leurs substituts, la vérification des feuilles d'audience, minutes et actes des greffes des tribunaux de police établis dans les lieux de leur résidence.A l'égard de ceux desdits tribunaux établis dans le ressort, mais hors du lieu où siège le tribunal de grande instance, les procureurs pourront déléguer celui des juges d'instance qui ne sera pas de service près ledit tribunal.Ce juge du tribunal d'instance fera la vérification dans le délai et dans les formes ci-dessus prescrites, et sera tenu de leur envoyer, dans le même délai que dessus, son procès-verbal, sauf à nosdits (auxdits) procureurs à faire lesdites vérifications par eux-mêmes ou par leurs substituts, quand bon leur semblera."
+      "content": "Nos (les) procureurs près les tribunaux de grande instance feront dans le même délai et dans les mêmes formes, par eux-mêmes ou leurs substituts, la vérification des feuilles d'audience, minutes et actes des greffes des tribunaux de police établis dans les lieux de leur résidence.A l'égard de ceux desdits tribunaux établis dans le ressort, mais hors du lieu où siège le tribunal de grande instance, les procureurs pourront déléguer celui des juges d'instance qui ne sera pas de service près ledit tribunal.Ce juge du tribunal d'instance fera la vérification dans le délai et dans les formes ci-dessus prescrites, et sera tenu de leur envoyer, dans le même délai que dessus, son procès-verbal, sauf à nosdits (auxdits) procureurs à faire lesdites vérifications par eux-mêmes ou par leurs substituts, quand bon leur semblera.",
+      "valid_from": "1823-11-05",
+      "valid_to": "2029-01-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Ces procès-verbaux, ensemble ceux de nosdits (desdits) procureurs près les tribunaux de grande instance, seront par lesdits officiers, dans la huitaine suivante, transmis, avec un rapport sommaire, à notre (au) procureur général près la cour royale (cour d'appel) du ressort."
+      "content": "Ces procès-verbaux, ensemble ceux de nosdits (desdits) procureurs près les tribunaux de grande instance, seront par lesdits officiers, dans la huitaine suivante, transmis, avec un rapport sommaire, à notre (au) procureur général près la cour royale (cour d'appel) du ressort.",
+      "valid_from": "1823-11-05"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les présidents des tribunaux de commerce constateront pareillement chaque mois, dans le même temps et dans les mêmes formes, l'état matériel et de situation des feuilles d'audience et de toutes autres minutes de jugements et actes reçus et passés dans le greffe de leur juridiction.Ils enverront, dans les cinq jours suivants, leur procès-verbal à notre (au) procureur général près la cour royale (cour d'appel) du ressort, lequel pourra vérifier, lorsqu'il le trouvera convenable, soit par lui-même, soit par l'un de ses substituts délégué à cet effet, l'état des registres, feuilles d'audience, minutes et jugements et actes desdits greffes."
+      "content": "Les présidents des tribunaux de commerce constateront pareillement chaque mois, dans le même temps et dans les mêmes formes, l'état matériel et de situation des feuilles d'audience et de toutes autres minutes de jugements et actes reçus et passés dans le greffe de leur juridiction.Ils enverront, dans les cinq jours suivants, leur procès-verbal à notre (au) procureur général près la cour royale (cour d'appel) du ressort, lequel pourra vérifier, lorsqu'il le trouvera convenable, soit par lui-même, soit par l'un de ses substituts délégué à cet effet, l'état des registres, feuilles d'audience, minutes et jugements et actes desdits greffes.",
+      "valid_from": "1823-11-05"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Nos (Les) procureurs généraux rendront compte à notre (au) garde des sceaux, ministre secrétaire d'Etat au département de la justice, du résultat desdites vérifications, des mesures qu'ils auront requises pour faire rectifier les irrégularités, s'il en avait été commis, et des poursuites qu'ils auront dirigées pour faire prononcer contre les greffiers contrevenants les peines portées par les lois, sans préjudice de la destitution desdits greffiers s'il y a lieu.Ce compte sera adressé par nosdits (les) procureurs à notre (au) garde des sceaux, dans la seconde quinzaine du mois qui suivra celui pour lequel la vérification aura été faite."
+      "content": "Nos (Les) procureurs généraux rendront compte à notre (au) garde des sceaux, ministre secrétaire d'Etat au département de la justice, du résultat desdites vérifications, des mesures qu'ils auront requises pour faire rectifier les irrégularités, s'il en avait été commis, et des poursuites qu'ils auront dirigées pour faire prononcer contre les greffiers contrevenants les peines portées par les lois, sans préjudice de la destitution desdits greffiers s'il y a lieu.Ce compte sera adressé par nosdits (les) procureurs à notre (au) garde des sceaux, dans la seconde quinzaine du mois qui suivra celui pour lequel la vérification aura été faite.",
+      "valid_from": "1823-11-05"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Notre garde des sceaux, ministre secrétaire d'état au département de la justice, est chargé de l'exécution de la présente ordonnance, qui sera insérée au Bulletin des lois."
+      "content": "Notre garde des sceaux, ministre secrétaire d'état au département de la justice, est chargé de l'exécution de la présente ordonnance, qui sera insérée au Bulletin des lois.",
+      "valid_from": "1823-11-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

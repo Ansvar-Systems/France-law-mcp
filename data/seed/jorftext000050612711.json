@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Le I, à l'exception du dernier alinéa du c du 1°, entre en vigueur à une date fixée par décret, et au plus tard le 20 mai 2026.\n\n-Code du tourisme."
+      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Le I, à l'exception du dernier alinéa du c du 1°, entre en vigueur à une date fixée par décret, et au plus tard le 20 mai 2026.\n\n-Code du tourisme.",
+      "valid_from": "2024-11-21"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I.- A créé les dispositions suivantes :\n\nII.- A modifié les dispositions suivantes :\n\n- Code du tourisme.\n\n- Code de la construction et de l'habitation.\n\nIII.-Le I entre en vigueur le 1er janvier 2034."
+      "content": "I.- A créé les dispositions suivantes :\n\nII.- A modifié les dispositions suivantes :\n\n- Code du tourisme.\n\n- Code de la construction et de l'habitation.\n\nIII.-Le I entre en vigueur le 1er janvier 2034.",
+      "valid_from": "2024-11-21"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I, II, III.-A modifié les dispositions suivantes :\n\nIV.-A.-Le 1° du I et le III entrent en vigueur le 1er janvier 2025.B.-Le 3° du I entre en vigueur à la date fixée par le décret mentionné au II de l'article 1er.\n\n-Code du tourisme."
+      "content": "I, II, III.-A modifié les dispositions suivantes :\n\nIV.-A.-Le 1° du I et le III entrent en vigueur le 1er janvier 2025.B.-Le 3° du I entre en vigueur à la date fixée par le décret mentionné au II de l'article 1er.\n\n-Code du tourisme.",
+      "valid_from": "2024-11-21"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I.-A modifié les dispositions suivantes :\n\n- Code général des impôts, CGI.\n\nII.-Le présent article s'applique aux revenus perçus à compter du 1er janvier 2025.III.-Pour l'imposition des revenus perçus en 2024, l'article 50-0 du code général des impôts s'applique dans sa rédaction antérieure à la loi n° 2023-1322 du 29 décembre 2023 de finances pour 2024."
+      "content": "I.-A modifié les dispositions suivantes :\n\n- Code général des impôts, CGI.\n\nII.-Le présent article s'applique aux revenus perçus à compter du 1er janvier 2025.III.-Pour l'imposition des revenus perçus en 2024, l'article 50-0 du code général des impôts s'applique dans sa rédaction antérieure à la loi n° 2023-1322 du 29 décembre 2023 de finances pour 2024.",
+      "valid_from": "2024-11-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

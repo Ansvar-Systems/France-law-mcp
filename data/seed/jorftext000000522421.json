@@ -12,55 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sous peine d'irrecevabilité, les plaintes tendant à l'application de sanctions pénales en matière d'impôts directs, de taxe sur la valeur ajoutée et autres taxes sur le chiffre d'affaires, de droits d'enregistrement, de taxe de publicité foncière et de droit de timbre sont, à compter du 1er janvier 1978, déposées par l'administration sur avis conforme d'une commission des infractions fiscales.\n\nLa commission est composée, sous la présidence d'un membre du Conseil d'Etat, de membres du Conseil d'Etat et de magistrats de la Cour des comptes, choisis parmi ces magistrats et ces membres en activité ou à la retraite.\n\nLe président et les membres de la commission ainsi que leurs suppléants sont nommés par décret pour trois ans ; ils sont tenus au secret professionnel.\n\nLa commission peut se réunir en sections présidées par le président de la commission ou son représentant. Elle peut s'adjoindre des rapporteurs. En cas de partage égal des voix, celle du président est prépondérante.\n\nLa commission examine les affaires qui lui sont soumises par le ministre de l'économie et des finances. Le contribuable est avisé de la saisine de la commission qui l'invite à lui communiquer, dans un délai de trente jours, les informations qu'il jugerait nécessaires. Les agents de l'administration sont déliés du secret professionnel à l'égard des membres et rapporteurs de la commission.\n\nLe ministre est lié par les avis de la commission.\n\nLa prescription de l'action publique est suspendue, pendant une durée maximum de six mois, entre la date de saisine de la commission et la date à laquelle elle émet son avis."
-    },
-    {
-      "provision_ref": "art7",
-      "section": "7",
-      "title": "Article 7",
-      "content": "Les amendes fiscales du double, du triple ou du quadruple prévues aux articles 411, 413, 414 et 416 du code des douanes, les pénalités du quintuple prévues aux articles 1791, 1793, 1794, 1795, 1797, 1801 et 1804 du code général des impôts, ainsi que celle du décuple prévue à l'article 1796 sont remplacées par des pénalités dont le montant est compris entre une et trois fois l'élément à partir duquel les pénalités prévues aux articles ci-dessus sont calculées.\n\nSi le contrevenant commet, dans les cinq ans qui suivent une transaction ou une condamnation devenue définitive après l'entrée en vigueur de la présente loi, une nouvelle infraction   tombant sous le coup des sanctions prévues au premier alinéa ci-dessus, le taux maximal de ces pénalités est doublé. Cette disposition n'est pas applicable, sauf le cas de faute personnelle, à ceux qui font profession d'accomplir pour autrui les formalités de douane.\n\nEn sus des pénalités fiscales, le tribunal ordonne le paiement des sommes fraudées ou indûment obtenues à raison de l'infraction."
-    },
-    {
-      "provision_ref": "art9",
-      "section": "9",
-      "title": "Article 9",
-      "content": "Lorsque les tribunaux reconnaissent les circonstances atténuantes, le minimum des condamnations encourues en cas d'infractions en matière de contributions indirectes est fixé au tiers de la somme servant de base au calcul de la pénalité proportionnelle. Les circonstances atténuantes peuvent être reconnues pour les infractions visées aux articles 1797 et 1810 du code général des impôts, ainsi que pour les infractions au régime économique de l'alcool, au monopole des tabacs et à la réglementation prohibant l'absinthe et les liqueurs similaires.Les tribunaux ne peuvent dispenser le redevable du paiement des sommes fraudées ou indûment obtenues."
-    },
-    {
-      "provision_ref": "art16",
-      "section": "16",
-      "title": "Article 16",
-      "content": "En matière de contributions indirectes, de douane, de législation et de réglementation relative aux relations financières avec l'étranger, après mise en mouvement par l'administration ou le ministère public d'une action judiciaire, l'administration ne peut transiger que si l'autorité judiciaire admet le principe d'une transaction.L'accord de principe est donné par le ministère public lorsque l'infraction est passible à la fois de sanctions fiscales et de peines, par le président de la juridiction saisie lorsque l'infraction est passible seulement de sanctions fiscales.Après jugement définitif, les sanctions fiscales prononcées par les tribunaux ne peuvent faire l'objet de transaction.Les demandes de remise, totale ou partielle, des sanctions fiscales pour tenir compte des ressources et des charges du débiteur ou d'autres circonstances particulières en ce qui concerne ceux qui font profession d'accomplir pour autrui les formalités de douane, sont instruites par l'administration et soumises au président de la juridiction qui a prononcé la condamnation. La remise ne peut être accordée qu'après avis conforme du président de la juridiction.Les dispositions du présent article s'appliquent aux transactions conclues et aux remises accordées à compter du 1er janvier 1978."
-    },
-    {
-      "provision_ref": "art17",
-      "section": "17",
-      "title": "Article 17",
-      "content": "Les visites effectuées dans les locaux servant exclusivement à l'habitation pour la recherche et la constatation des infractions à la réglementation économique ou fiscale doivent être préalablement autorisées par une ordonnance du président du tribunal judiciaire, du juge d'instruction ou du juge du   tribunal judiciaire. Les visites domiciliaires effectuées en application du code des douanes demeurent soumises à la législation existante."
+      "content": "Sous peine d'irrecevabilité, les plaintes tendant à l'application de sanctions pénales en matière d'impôts directs, de taxe sur la valeur ajoutée et autres taxes sur le chiffre d'affaires, de droits d'enregistrement, de taxe de publicité foncière et de droit de timbre sont, à compter du 1er janvier 1978, déposées par l'administration sur avis conforme d'une commission des infractions fiscales.\n\nLa commission est composée, sous la présidence d'un membre du Conseil d'Etat, de membres du Conseil d'Etat et de magistrats de la Cour des comptes, choisis parmi ces magistrats et ces membres en activité ou à la retraite.\n\nLe président et les membres de la commission ainsi que leurs suppléants sont nommés par décret pour trois ans ; ils sont tenus au secret professionnel.\n\nLa commission peut se réunir en sections présidées par le président de la commission ou son représentant. Elle peut s'adjoindre des rapporteurs. En cas de partage égal des voix, celle du président est prépondérante.\n\nLa commission examine les affaires qui lui sont soumises par le ministre de l'économie et des finances. Le contribuable est avisé de la saisine de la commission qui l'invite à lui communiquer, dans un délai de trente jours, les informations qu'il jugerait nécessaires. Les agents de l'administration sont déliés du secret professionnel à l'égard des membres et rapporteurs de la commission.\n\nLe ministre est lié par les avis de la commission.\n\nLa prescription de l'action publique est suspendue, pendant une durée maximum de six mois, entre la date de saisine de la commission et la date à laquelle elle émet son avis.",
+      "valid_from": "2019-03-25"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "En cas de contestation juridictionnelle des pénalités fiscales appliquées à un contribuable au titre des impôts et taxes mentionnés à l'article 1er, la preuve de la mauvaise foi ou des manoeuvres frauduleuses incombe à l'administration."
+      "content": "En cas de contestation juridictionnelle des pénalités fiscales appliquées à un contribuable au titre des impôts et taxes mentionnés à l'article 1er, la preuve de la mauvaise foi ou des manoeuvres frauduleuses incombe à l'administration.",
+      "valid_from": "1977-12-30"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Il est institué un comité du contentieux fiscal, douanier et des changes chargé d'émettre un avis sur les transactions ou remises excédant les limites de compétence des services déconcentrés de la direction générale des impôts ou de la direction générale des douanes et qui n'entrent pas dans le champ d'application de l'article 16 ci-dessus.\n\nCe comité est composé, sous la présidence d'un membre du Conseil d'Etat, de membres du Conseil d'Etat , de membres de la Cour de cassation et de magistrats de la Cour des comptes, choisis parmi ces magistrats et ces membres en activité ou à la retraite.\n\nLe président et les membres du comité ainsi que leurs suppléants sont nommés par décret pour trois ans.\n\nEn cas de partage égal des voix, celle du président est prépondérante.\n\nLe comité invite le contribuable à produire, dans un délai de trente jours, les observations écrites que celui-ci juge utile de présenter à l'appui de sa demande de transaction ou de remise, ou à présenter des observations orales à la séance où il sera convié. Pour présenter ses observations le contribuable peut se faire assister ou représenter par un conseil ou représentant de son choix, tenu pour les faits de l'espèce au respect du secret professionnel.\n\nLe comité élabore à l'intention du Gouvernement et du Parlement un rapport annuel, qui fera l'objet d'une publication, sur les conditions dans lesquelles ont été conclues ou accordées les transactions, remises ou modérations relevant de la compétence des services déconcentrés de la direction générale des impôts et de la direction générale des douanes ; il procède dans les services déconcentrés de ces deux directions aux enquêtes qu'il juge utiles. A cette fin, les agents de l'administration sont déliés du secret professionnel vis-à-vis des membres du comité.\n\nUn décret en Conseil d'Etat fixe la composition et les conditions de fonctionnement du comité.\n\nLes dispositions du présent article s'appliquent aux transactions conclues et aux remises accordées à compter du 1er janvier 1978."
+      "content": "Il est institué un comité du contentieux fiscal, douanier et des changes chargé d'émettre un avis sur les transactions ou remises excédant les limites de compétence des services déconcentrés de la direction générale des impôts ou de la direction générale des douanes et qui n'entrent pas dans le champ d'application de l'article 16 ci-dessus.\n\nCe comité est composé, sous la présidence d'un membre du Conseil d'Etat, de membres du Conseil d'Etat , de membres de la Cour de cassation et de magistrats de la Cour des comptes, choisis parmi ces magistrats et ces membres en activité ou à la retraite.\n\nLe président et les membres du comité ainsi que leurs suppléants sont nommés par décret pour trois ans.\n\nEn cas de partage égal des voix, celle du président est prépondérante.\n\nLe comité invite le contribuable à produire, dans un délai de trente jours, les observations écrites que celui-ci juge utile de présenter à l'appui de sa demande de transaction ou de remise, ou à présenter des observations orales à la séance où il sera convié. Pour présenter ses observations le contribuable peut se faire assister ou représenter par un conseil ou représentant de son choix, tenu pour les faits de l'espèce au respect du secret professionnel.\n\nLe comité élabore à l'intention du Gouvernement et du Parlement un rapport annuel, qui fera l'objet d'une publication, sur les conditions dans lesquelles ont été conclues ou accordées les transactions, remises ou modérations relevant de la compétence des services déconcentrés de la direction générale des impôts et de la direction générale des douanes ; il procède dans les services déconcentrés de ces deux directions aux enquêtes qu'il juge utiles. A cette fin, les agents de l'administration sont déliés du secret professionnel vis-à-vis des membres du comité.\n\nUn décret en Conseil d'Etat fixe la composition et les conditions de fonctionnement du comité.\n\nLes dispositions du présent article s'appliquent aux transactions conclues et aux remises accordées à compter du 1er janvier 1978.",
+      "valid_from": "2019-03-25"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Le comité du contentieux fiscal, douanier et des changes prévu à l'article 20 peut être consulté par le ministre de l'économie et des finances sur toute question générale ou particulière relative au contentieux fiscal, douanier et des changes.Il peut également faire, de sa propre initiative, au ministre de l'économie et des finances les observations et recommandations qu'il estime utiles. Tout assujetti au respect de la réglementation fiscale, douanière et des changes et tout organisme représentatif de ces assujettis peut informer le comité des difficultés rencontrées en matière contentieuse."
+      "content": "Le comité du contentieux fiscal, douanier et des changes prévu à l'article 20 peut être consulté par le ministre de l'économie et des finances sur toute question générale ou particulière relative au contentieux fiscal, douanier et des changes.Il peut également faire, de sa propre initiative, au ministre de l'économie et des finances les observations et recommandations qu'il estime utiles. Tout assujetti au respect de la réglementation fiscale, douanière et des changes et tout organisme représentatif de ces assujettis peut informer le comité des difficultés rencontrées en matière contentieuse.",
+      "valid_from": "1977-12-30"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Le délai général de réclamation prévu au 1 de l'article 1932 du code général des impôts est prolongé d'un an. Toutefois, cette disposition n'est pas applicable aux réclamations relatives aux impôts directs locaux et aux taxes annexes à ces impôts."
+      "content": "Le délai général de réclamation prévu au 1 de l'article 1932 du code général des impôts est prolongé d'un an. Toutefois, cette disposition n'est pas applicable aux réclamations relatives aux impôts directs locaux et aux taxes annexes à ces impôts.",
+      "valid_from": "1977-12-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

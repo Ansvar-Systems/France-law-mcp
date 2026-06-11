@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code général des impôts est modifié conformément aux dispositions des\n\t\t\t\t\tarticles 2 à 74 du présent titre."
+      "content": "Le code général des impôts est modifié conformément aux dispositions des\n\t\t\t\t\tarticles 2 à 74 du présent titre.",
+      "valid_from": "2010-05-01"
     },
     {
       "provision_ref": "art75",
       "section": "75",
       "title": "Article 75",
-      "content": "Le livre des procédures fiscales est modifié conformément aux dispositions des\n\t\t\t\t\tarticles 76 à 99 du présent titre."
+      "content": "Le livre des procédures fiscales est modifié conformément aux dispositions des\n\t\t\t\t\tarticles 76 à 99 du présent titre.",
+      "valid_from": "2010-05-01"
     },
     {
       "provision_ref": "art89",
       "section": "89",
       "title": "Article 89",
-      "content": "A modifié les dispositions suivantes :\n\nLivre des procédures fiscales\n\nArt.L. 135 X"
+      "content": "A modifié les dispositions suivantes :\n\nLivre des procédures fiscales\n\nArt.L. 135 X",
+      "valid_from": "2010-05-01"
     },
     {
       "provision_ref": "art130",
       "section": "130",
       "title": "Article 130",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur à compter de la\n\t\t\t\t\tpublication de celle-ci.Toutefois, dans les circonscriptions dans lesquelles les directions régionales,\n\t\t\t\t\tdépartementales et locales des finances publiques n'ont pas encore été\n\t\t\t\t\tconstituées, les dispositions modifiées par les articles 2, 8, 21, 23, le 1° de\n\t\t\t\t\tl'article 24, 25, le 2° de l'article 35, 37, 38, 39, 40, 44, 47, 48, le 2° de\n\t\t\t\t\tl'article 49, le 1° de l'article 51, 52, 53, le 3° de l'article 65, 74, 85, 96,\n\t\t\t\t\tle 1° et le b du 2° de l'article 100, 102, les 3° et 4° de l'article 103, les\n\t\t\t\t\t1°, 2°, le c du 4° et les 5° et 6° de l'article 109, les 2°, 3° et c du 4° de\n\t\t\t\t\tl'article 110, le 2° de l'article 115, le 1° de l'article 117, le 2° et le b du\n\t\t\t\t\t3° de l'article 119, les 1° à 5° de l'article 121, 126, 128 de la présente\n\t\t\t\t\tordonnance demeurent applicables dans leur rédaction antérieure à la publication\n\t\t\t\t\tde la présente ordonnance, au plus tard jusqu'au 31 décembre 2012.Dans les départements ne disposant pas de direction départementale des finances\n\t\t\t\t\tpubliques, la communication aux communes mentionnée au II de l'article 1528 du\n\t\t\t\t\tcode général des impôts est effectuée par les directions des services fiscaux,\n\t\t\t\t\tau plus tard jusqu'au 31 décembre 2012."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur à compter de la\n\t\t\t\t\tpublication de celle-ci.Toutefois, dans les circonscriptions dans lesquelles les directions régionales,\n\t\t\t\t\tdépartementales et locales des finances publiques n'ont pas encore été\n\t\t\t\t\tconstituées, les dispositions modifiées par les articles 2, 8, 21, 23, le 1° de\n\t\t\t\t\tl'article 24, 25, le 2° de l'article 35, 37, 38, 39, 40, 44, 47, 48, le 2° de\n\t\t\t\t\tl'article 49, le 1° de l'article 51, 52, 53, le 3° de l'article 65, 74, 85, 96,\n\t\t\t\t\tle 1° et le b du 2° de l'article 100, 102, les 3° et 4° de l'article 103, les\n\t\t\t\t\t1°, 2°, le c du 4° et les 5° et 6° de l'article 109, les 2°, 3° et c du 4° de\n\t\t\t\t\tl'article 110, le 2° de l'article 115, le 1° de l'article 117, le 2° et le b du\n\t\t\t\t\t3° de l'article 119, les 1° à 5° de l'article 121, 126, 128 de la présente\n\t\t\t\t\tordonnance demeurent applicables dans leur rédaction antérieure à la publication\n\t\t\t\t\tde la présente ordonnance, au plus tard jusqu'au 31 décembre 2012.Dans les départements ne disposant pas de direction départementale des finances\n\t\t\t\t\tpubliques, la communication aux communes mentionnée au II de l'article 1528 du\n\t\t\t\t\tcode général des impôts est effectuée par les directions des services fiscaux,\n\t\t\t\t\tau plus tard jusqu'au 31 décembre 2012.",
+      "valid_from": "2010-05-01"
     },
     {
       "provision_ref": "art131",
       "section": "131",
       "title": "Article 131",
-      "content": "Le Premier ministre, la ministre de l'économie, de l'industrie et de l'emploi \t\t\t\t\tet le ministre du budget, des comptes publics et de la réforme de l'Etat sont \t\t\t\t\tresponsables, chacun en ce qui le concerne, de l'application de la présente \t\t\t\t\tordonnance, qui sera publiée au Journal officiel de la République \t\t\t\t\tfrançaise."
+      "content": "Le Premier ministre, la ministre de l'économie, de l'industrie et de l'emploi \t\t\t\t\tet le ministre du budget, des comptes publics et de la réforme de l'Etat sont \t\t\t\t\tresponsables, chacun en ce qui le concerne, de l'application de la présente \t\t\t\t\tordonnance, qui sera publiée au Journal officiel de la République \t\t\t\t\tfrançaise.",
+      "valid_from": "2010-05-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

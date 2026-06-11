@@ -12,43 +12,56 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "L'article 22 de la loi n° 78-1 du 2 janvier 1978 ainsi que le décret n° 77-1010 du 7 septembre 1977 sont abrogés."
+      "content": "L'article 22 de la loi n° 78-1 du 2 janvier 1978 ainsi que le décret n° 77-1010 du 7 septembre 1977 sont abrogés.",
+      "valid_from": "1982-01-07"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Bénéficient d'un droit à une indemnité les personnes physiques qui ont été personnellement dépossédées de leurs meubles meublants d'usage courant et familial par suite d'événements politiques dans un territoire antérieurement placé sous la souveraineté, le protectorat ou la tutelle de la France et qui, satisfaisant aux critères définis aux 2° et 3° de l'article 2 de la loi n° 70-632 du 15 juillet 1970 précitée, remplissent les conditions suivantes, et cela qu'elles aient ou non établi un dossier d'indemnisation :\n\n- être majeur à la date du rapatriement ou, pour les mineurs, être orphelin de père ou de mère à la même date ;\n\n- avoir bénéficié en 1980 d'un revenu brut annuel inférieur à celui qui résulterait de l'application du salaire minimum de croissance.  Pour un ménage ou une personne ayant au moins un enfant à charge, le revenu brut maximum pris en considération est doublé."
+      "content": "Bénéficient d'un droit à une indemnité les personnes physiques qui ont été personnellement dépossédées de leurs meubles meublants d'usage courant et familial par suite d'événements politiques dans un territoire antérieurement placé sous la souveraineté, le protectorat ou la tutelle de la France et qui, satisfaisant aux critères définis aux 2° et 3° de l'article 2 de la loi n° 70-632 du 15 juillet 1970 précitée, remplissent les conditions suivantes, et cela qu'elles aient ou non établi un dossier d'indemnisation :\n\n- être majeur à la date du rapatriement ou, pour les mineurs, être orphelin de père ou de mère à la même date ;\n\n- avoir bénéficié en 1980 d'un revenu brut annuel inférieur à celui qui résulterait de l'application du salaire minimum de croissance.  Pour un ménage ou une personne ayant au moins un enfant à charge, le revenu brut maximum pris en considération est doublé.",
+      "valid_from": "1982-01-07"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Cette indemnité, accordée en supplément de celles qui résultent des textes antérieurs, échappe aux modalités de liquidation de celles-ci."
+      "content": "Cette indemnité, accordée en supplément de celles qui résultent des textes antérieurs, échappe aux modalités de liquidation de celles-ci.",
+      "valid_from": "1982-01-07"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Le droit prévu à l'article 11 est exclusivement attaché à la personne du titulaire. L'indemnisation accordée est insaisissable."
+      "content": "Le droit prévu à l'article 11 est exclusivement attaché à la personne du titulaire. L'indemnisation accordée est insaisissable.",
+      "valid_from": "1982-01-07"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "L'indemnité prévue par l'article 11 est fixée forfaitairement à 10.000 F pour un ménage, une personne veuve, une personne ayant au moins un enfant à charge et à 6.000 F dans les autres cas."
+      "content": "L'indemnité prévue par l'article 11 est fixée forfaitairement à 10.000 F pour un ménage, une personne veuve, une personne ayant au moins un enfant à charge et à 6.000 F dans les autres cas.",
+      "valid_from": "1982-01-07"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les demandes d'indemnité doivent, sous peine de forclusion, être présentées par les personnes visées à l'article 11 dans un délai d'un an suivant la publication de la présente loi."
+      "content": "Les demandes d'indemnité doivent, sous peine de forclusion, être présentées par les personnes visées à l'article 11 dans un délai d'un an suivant la publication de la présente loi.",
+      "valid_from": "1982-01-07"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Un décret en Conseil d'Etat fixera les modalités d'application de la présente loi."
+      "content": "Un décret en Conseil d'Etat fixera les modalités d'application de la présente loi.",
+      "valid_from": "1982-01-07"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Il est institué un régime d'assurance vieillesse complémentaire obligatoire par répartition au bénéfice des chefs d'exploitation ou d'entreprise agricole dans les conditions déterminées par la présente loi."
+      "content": "Il est institué un régime d'assurance vieillesse complémentaire obligatoire par répartition au bénéfice des chefs d'exploitation ou d'entreprise agricole dans les conditions déterminées par la présente loi.",
+      "valid_from": "2014-01-22"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Conseil supérieur des prestations sociales agricoles est chargé de suivre la mise en place du régime institué par la présente loi. Il établit, au cours du premier semestre de chaque année, un bilan de fonctionnement du régime et fait des propositions sur son extension aux conjoints et aux aides familiaux."
+      "content": "Le Conseil supérieur des prestations sociales agricoles est chargé de suivre la mise en place du régime institué par la présente loi. Il établit, au cours du premier semestre de chaque année, un bilan de fonctionnement du régime et fait des propositions sur son extension aux conjoints et aux aides familiaux.",
+      "valid_from": "2003-01-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les dispositions de la présente loi entreront en vigueur le 1er janvier 2003, à l'exception des articles L. 732-60, L. 732-62 et L. 762-35 du code rural."
+      "content": "Les dispositions de la présente loi entreront en vigueur le 1er janvier 2003, à l'exception des articles L. 732-60, L. 732-62 et L. 762-35 du code rural.",
+      "valid_from": "2002-12-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont nulles de plein droit et de nul effet les obligations contractées, pour rémunération de leurs services ou de leurs avances, envers les intermédiaires qui, moyennant émoluments convenus au préalable, se chargent d'assurer aux victimes d'accidents de droit commun ou à leurs ayants droit, le bénéfice d'accords amiables ou de décisions judiciaires."
+      "content": "Sont nulles de plein droit et de nul effet les obligations contractées, pour rémunération de leurs services ou de leurs avances, envers les intermédiaires qui, moyennant émoluments convenus au préalable, se chargent d'assurer aux victimes d'accidents de droit commun ou à leurs ayants droit, le bénéfice d'accords amiables ou de décisions judiciaires.",
+      "valid_from": "1942-04-03"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Tout intermédiaire convaincu d'avoir offert les services spécifiés à l'article 1er est puni d'une amende de 4 500 €. En outre, le tribunal peut ordonner l'affichage ou la diffusion de la décision, ou d'un communiqué dans les conditions précisées à l'article 131-35 du code pénal."
+      "content": "Tout intermédiaire convaincu d'avoir offert les services spécifiés à l'article 1er est puni d'une amende de 4 500 €. En outre, le tribunal peut ordonner l'affichage ou la diffusion de la décision, ou d'un communiqué dans les conditions précisées à l'article 131-35 du code pénal.",
+      "valid_from": "2011-05-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

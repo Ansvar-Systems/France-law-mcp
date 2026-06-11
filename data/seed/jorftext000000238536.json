@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est ratifiée, telle que modifiée par la présente loi, l'ordonnance n° 2000-549 du 15 juin 2000 relative à la partie Législative du code de l'éducation, prise en application de la loi n° 99-1071 du 16 décembre 1999 portant habilitation du Gouvernement à procéder, par ordonnances, à l'adoption de la partie Législative de certains codes."
+      "content": "Est ratifiée, telle que modifiée par la présente loi, l'ordonnance n° 2000-549 du 15 juin 2000 relative à la partie Législative du code de l'éducation, prise en application de la loi n° 99-1071 du 16 décembre 1999 portant habilitation du Gouvernement à procéder, par ordonnances, à l'adoption de la partie Législative de certains codes.",
+      "valid_from": "2003-04-15"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les articles 3 et 4 de la présente loi sont applicables à Mayotte."
+      "content": "Les articles 3 et 4 de la présente loi sont applicables à Mayotte.",
+      "valid_from": "2003-04-15"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La règle fixée à l'article 20 bis de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat ne s'applique pas aux jurys qui ont été en partie constitués avant l'entrée en vigueur du décret mentionné au second alinéa dudit article."
+      "content": "La règle fixée à l'article 20 bis de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat ne s'applique pas aux jurys qui ont été en partie constitués avant l'entrée en vigueur du décret mentionné au second alinéa dudit article.",
+      "valid_from": "2003-04-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

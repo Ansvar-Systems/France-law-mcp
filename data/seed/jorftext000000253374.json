@@ -12,319 +12,401 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I.-En Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, sont soumises à une taxe dénommée octroi de mer :\n\n1° Les importations de biens ;\n\n2° Les livraisons de biens effectuées à titre onéreux par les personnes qui les ont produits.\n\nII.-Pour l'application de la présente loi, la Martinique et la Guadeloupe sont considérées comme un territoire unique dénommé : \" marché unique antillais \"."
+      "content": "I.-En Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, sont soumises à une taxe dénommée octroi de mer :\n\n1° Les importations de biens ;\n\n2° Les livraisons de biens effectuées à titre onéreux par les personnes qui les ont produits.\n\nII.-Pour l'application de la présente loi, la Martinique et la Guadeloupe sont considérées comme un territoire unique dénommé : \" marché unique antillais \".",
+      "valid_from": "2015-07-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Sont assujetties à l'octroi de mer les personnes qui exercent de manière indépendante, à titre exclusif ou non exclusif, une activité de production dans une collectivité mentionnée à l'article 1er, lorsque, au titre de l'année civile précédente, leur chiffre d'affaires afférent à cette activité a atteint ou dépassé 550 000 €, quels que soient leur statut juridique et leur situation au regard des autres impôts.\n\nSont considérées comme des activités de production les opérations de fabrication, de transformation ou de rénovation de biens meubles corporels, ainsi que les opérations agricoles et extractives.\n\nLe seuil de 550 000 € mentionné au premier alinéa s'apprécie en faisant abstraction de la taxe sur la valeur ajoutée et de l'octroi de mer lui-même. Pour les personnes qui ont débuté leur activité au cours de l'année de référence, il est ajusté au prorata du temps d'exploitation.\n\nUne opération de transformation, telle que mentionnée au deuxième alinéa, est caractérisée lorsque le bien transformé se classe, dans la nomenclature figurant à l'annexe I au règlement (CEE) n° 2658/87 du Conseil du 23 juillet 1987 relatif à la nomenclature tarifaire et statistique et au tarif douanier commun, à une position tarifaire différente de celle des biens mis en œuvre pour l'obtenir. Ce changement s'apprécie au niveau de nomenclature du système harmonisé dit “ SH 4 ”, soit les quatre premiers chiffres de la nomenclature combinée."
+      "content": "Sont assujetties à l'octroi de mer les personnes qui exercent de manière indépendante, à titre exclusif ou non exclusif, une activité de production dans une collectivité mentionnée à l'article 1er, lorsque, au titre de l'année civile précédente, leur chiffre d'affaires afférent à cette activité a atteint ou dépassé 550 000 €, quels que soient leur statut juridique et leur situation au regard des autres impôts.\n\nSont considérées comme des activités de production les opérations de fabrication, de transformation ou de rénovation de biens meubles corporels, les activités extractives et les activités réputées agricoles en application de l'article L. 311-1 du code rural et de la pêche maritime.\n\nLe seuil de 550 000 € mentionné au premier alinéa s'apprécie en faisant abstraction de la taxe sur la valeur ajoutée et de l'octroi de mer lui-même. Pour les personnes qui ont débuté leur activité au cours de l'année de référence, il est ajusté au prorata du temps d'exploitation.\n\nUne opération de transformation, telle que mentionnée au deuxième alinéa, est caractérisée lorsque le bien transformé se classe, dans la nomenclature figurant à l'annexe I au règlement (CEE) n° 2658/87 du Conseil du 23 juillet 1987 relatif à la nomenclature tarifaire et statistique et au tarif douanier commun, à une position tarifaire différente de celle des biens mis en œuvre pour l'obtenir. Ce changement s'apprécie au niveau de nomenclature du système harmonisé dit “ SH 4 ”, soit les quatre premiers chiffres de la nomenclature combinée.",
+      "valid_from": "2026-02-21"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Pour l'application de la présente loi :\n\n1° Est considérée comme importation d'un bien :\n\na) Son entrée sur le territoire d'une collectivité mentionnée à l'article 1er.\n\nPar dérogation au premier alinéa du présent a, l'entrée en Guadeloupe d'un bien en provenance de la Martinique et l'entrée en Martinique d'un bien en provenance de la Guadeloupe ne sont pas considérées comme des importations ;\n\nb) Sa mise à la consommation sur le territoire d'une collectivité mentionnée à l'article 1er si, lors de son entrée sur le territoire, il a été placé :\n\n- sous l'un des régimes suivants prévus par les règlements communautaires en vigueur : entrepôt d'importation, perfectionnement actif, transformation sous douane, transit et admission temporaire en exonération totale, ou magasin de dépôt temporaire. Il en est de même si le bien a reçu la destination douanière de l'entrepôt franc ou de la zone franche ;\n\n- sous le régime suspensif mentionné au a du 2° et au 7° du I de l'article 277 A du code général des impôts ;\n\n- ou lors de la mise à la consommation ou de la livraison de produits pétroliers relevant de l'une des catégories mentionnées à l'article L. 312-3 du code des impositions sur les biens et les services lorsqu'ils sortent du régime de suspension de l'accise.\n\n2° Est considérée comme livraison d'un bien le transfert du pouvoir de disposer d'un bien meuble corporel comme un propriétaire."
+      "content": "Pour l'application de la présente loi :\n\n1° Est considérée comme importation d'un bien :\n\na) Son entrée sur le territoire d'une collectivité mentionnée à l'article 1er.\n\nPar dérogation au premier alinéa du présent a, l'entrée en Guadeloupe d'un bien en provenance de la Martinique et l'entrée en Martinique d'un bien en provenance de la Guadeloupe ne sont pas considérées comme des importations ;\n\nb) Sa mise à la consommation sur le territoire d'une collectivité mentionnée à l'article 1er si, lors de son entrée sur le territoire, il a été placé :\n\n- sous l'un des régimes suivants prévus par les règlements communautaires en vigueur : entrepôt d'importation, perfectionnement actif, transformation sous douane, transit et admission temporaire en exonération totale, ou magasin de dépôt temporaire. Il en est de même si le bien a reçu la destination douanière de l'entrepôt franc ou de la zone franche ;\n\n- sous le régime suspensif mentionné au a du 2° et au 7° du I de l'article 277 A du code général des impôts ;\n\n- ou lors de la mise à la consommation ou de la livraison de produits pétroliers relevant de l'une des catégories mentionnées à l'article L. 312-3 du code des impositions sur les biens et les services lorsqu'ils sortent du régime de suspension de l'accise.\n\n2° Est considérée comme livraison d'un bien le transfert du pouvoir de disposer d'un bien meuble corporel comme un propriétaire.",
+      "valid_from": "2024-01-01",
+      "valid_to": "2026-09-01"
     },
     {
       "provision_ref": "art3-1",
       "section": "3-1",
       "title": "Article 3-1",
-      "content": "I. - L'importation d'un bien est effectuée dans la collectivité mentionnée à l'article 1er sur le territoire duquel le bien se trouve au moment de son entrée ou au moment de sa mise à la consommation.\n\nII. - Le lieu de la livraison d'un bien est :\n\n1° L'endroit où le bien se trouve au moment de la livraison, dans le cas où le bien n'est pas expédié ou transporté ;\n\n2° L'endroit où le bien se trouve au moment du départ de l'expédition ou du transport à destination de l'acquéreur, dans le cas où le bien est expédié ou transporté."
+      "content": "I. - L'importation d'un bien est effectuée dans la collectivité mentionnée à l'article 1er sur le territoire duquel le bien se trouve au moment de son entrée ou au moment de sa mise à la consommation.\n\nII. - Le lieu de la livraison d'un bien est :\n\n1° L'endroit où le bien se trouve au moment de la livraison, dans le cas où le bien n'est pas expédié ou transporté ;\n\n2° L'endroit où le bien se trouve au moment du départ de l'expédition ou du transport à destination de l'acquéreur, dans le cas où le bien est expédié ou transporté.",
+      "valid_from": "2017-01-01"
+    },
+    {
+      "provision_ref": "art3-2",
+      "section": "3-2",
+      "title": "Article 3-2",
+      "content": "Les dispositions de l'article 277 A du code général des impôts relatives au régime fiscal suspensif sont applicables à Mayotte et en Guyane pour les seuls besoins de l'octroi de mer et de l'octroi de mer régional.\n\nCe régime est applicable aux marchandises expédiées à destination de ces collectivités et au départ d'une autre partie du territoire douanier de l'Union européenne. Un décret précise les modalités d'application du présent article.",
+      "valid_from": "2026-02-21"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Sont exonérées de l'octroi de mer :\n\n1° Les livraisons dans une collectivité mentionnée à l'article 1er de biens expédiés ou transportés hors de cette collectivité par l'assujetti, par l'acquéreur qui n'est pas établi dans cette collectivité ou pour leur compte, à l'exception des livraisons dans une collectivité du marché unique antillais de biens expédiés ou transportés à destination de l'autre collectivité du marché unique antillais ou de la Guyane et des livraisons en Guyane de biens expédiés ou transportés à destination du marché unique antillais ;\n\n2° Les importations en Guyane de biens dont la livraison a été taxée dans le marché unique antillais et les importations dans le marché unique antillais de biens dont la livraison a été taxée en Guyane ;\n\n3° Les livraisons de biens placés sous le régime fiscal suspensif mentionné au a du 2° du I de l'article 277 A du code général des impôts en vue de faire l'objet d'une livraison mentionnée au 1° du présent article."
+      "content": "Sont exonérées de l'octroi de mer :\n\n1° Les livraisons dans une collectivité mentionnée à l'article 1er de biens expédiés ou transportés hors de cette collectivité par l'assujetti, par l'acquéreur qui n'est pas établi dans cette collectivité ou pour leur compte, à l'exception des livraisons dans une collectivité du marché unique antillais de biens expédiés ou transportés à destination de l'autre collectivité du marché unique antillais ou de la Guyane et des livraisons en Guyane de biens expédiés ou transportés à destination du marché unique antillais ;\n\n2° Les importations en Guyane de biens dont la livraison a été taxée dans le marché unique antillais et les importations dans le marché unique antillais de biens dont la livraison a été taxée en Guyane ;\n\n3° Les livraisons de biens placés sous le régime fiscal suspensif mentionné au a du 2° du I de l'article 277 A du code général des impôts en vue de faire l'objet d'une livraison mentionnée au 1° du présent article.",
+      "valid_from": "2015-07-01",
+      "valid_to": "2026-09-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I.-Pour les biens relevant des positions tarifaires 2208 40, 2208 70, 2208 90, 3208 90, 3209 10, 4818 10, 4818 2091, 4818 2099, 4818 9010, 7214 20 et 7214 99 et par dérogation à l'article 4 :\n\n1° Les livraisons mentionnées au 1° du même article 4 dans une collectivité du marché unique antillais de biens expédiés ou transportés par l'assujetti, par l'acquéreur qui n'est pas établi dans cette collectivité ou pour leur compte à destination de la Guyane et les livraisons en Guyane de biens expédiés ou transportés par l'assujetti, par l'acquéreur qui n'est pas établi dans cette collectivité ou pour leur compte à destination du marché unique antillais sont exonérées de l'octroi de mer ;\n\n2° Les importations en Guyane de biens dont la livraison a été exonérée dans le marché unique antillais et les importations dans le marché unique antillais de biens dont la livraison a été exonérée en Guyane sont soumises à l'octroi de mer.\n\nII.-Il est créé une commission de concertation sur la mise en œuvre de l'octroi de mer et d'évaluation de l'ensemble des échanges de biens sur les marchés de Guadeloupe, de Guyane et de Martinique.\n\nElle est chargée :\n\n1° D'analyser les flux d'échanges entre la Guyane et le marché unique antillais ;\n\n2° De proposer des évolutions des règles d'échanges et de taxation ;\n\n3° De proposer, si nécessaire, la modification de la liste de produits mentionnée au I, notamment sur la base d'un état statistique des flux d'échanges entre la Guyane et le marché unique antillais. Cette proposition intervient au plus tard le 1er septembre.\n\nLa présidence de la commission est assurée à tour de rôle par le président du conseil régional de Guadeloupe ou son représentant ou par le président de l'assemblée de Guyane ou son représentant ou par le président du conseil exécutif de l'assemblée de Martinique ou son représentant.\n\nLa commission est composée d'élus du conseil régional de Guadeloupe, de l'assemblée de Guyane et de l'assemblée de Martinique.\n\nLes services de l'Etat compétents apportent leur expertise technique sur demande de la commission.\n\nLes acteurs socioprofessionnels peuvent être consultés sur proposition de la commission.\n\nUn décret fixe les conditions d'application du présent article."
+      "content": "I.-Pour les biens relevant des positions tarifaires 2208 40, 2208 70, 2208 90, 3208 90, 3209 10, 4818 10, 4818 2091, 4818 2099, 4818 9010, 7214 20 et 7214 99 et par dérogation à l'article 4 :\n\n1° Les livraisons mentionnées au 1° du même article 4 dans une collectivité du marché unique antillais de biens expédiés ou transportés par l'assujetti, par l'acquéreur qui n'est pas établi dans cette collectivité ou pour leur compte à destination de la Guyane et les livraisons en Guyane de biens expédiés ou transportés par l'assujetti, par l'acquéreur qui n'est pas établi dans cette collectivité ou pour leur compte à destination du marché unique antillais sont exonérées de l'octroi de mer ;\n\n2° Les importations en Guyane de biens dont la livraison a été exonérée dans le marché unique antillais et les importations dans le marché unique antillais de biens dont la livraison a été exonérée en Guyane sont soumises à l'octroi de mer.\n\nII.-Il est créé une commission de concertation sur la mise en œuvre de l'octroi de mer et d'évaluation de l'ensemble des échanges de biens sur les marchés de Guadeloupe, de Guyane et de Martinique.\n\nElle est chargée :\n\n1° D'analyser les flux d'échanges entre la Guyane et le marché unique antillais ;\n\n2° De proposer des évolutions des règles d'échanges et de taxation ;\n\n3° De proposer, si nécessaire, la modification de la liste de produits mentionnée au I, notamment sur la base d'un état statistique des flux d'échanges entre la Guyane et le marché unique antillais. Cette proposition intervient au plus tard le 1er septembre.\n\nLa présidence de la commission est assurée à tour de rôle par le président du conseil régional de Guadeloupe ou son représentant ou par le président de l'assemblée de Guyane ou son représentant ou par le président du conseil exécutif de l'assemblée de Martinique ou son représentant.\n\nLa commission est composée d'élus du conseil régional de Guadeloupe, de l'assemblée de Guyane et de l'assemblée de Martinique.\n\nLes services de l'Etat compétents apportent leur expertise technique sur demande de la commission.\n\nLes acteurs socioprofessionnels peuvent être consultés sur proposition de la commission.\n\nUn décret fixe les conditions d'application du présent article.",
+      "valid_from": "2015-07-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les conseils régionaux de Guadeloupe et de La Réunion, l'assemblée de Guyane, l'assemblée de Martinique et le conseil départemental de Mayotte peuvent exonérer l'importation :\n\n1° De biens destinés à une personne exerçant une activité économique, au sens de l'article 256 A du code général des impôts. Les exonérations sont accordées par secteur d'activité économique et par position tarifaire, dans des conditions fixées par décret ;\n\n2° De biens destinés à des établissements ou à des personnes morales exerçant des activités scientifiques, de recherche ou d'enseignement ;\n\n3° De biens destinés à l'accomplissement des missions régaliennes de l'Etat ;\n\n4° De biens destinés aux établissements et centres de santé, ainsi qu'aux établissements et services sociaux et médico-sociaux publics ou privés ;\n\n5° De biens réimportés, dans l'état où ils ont été exportés, par la personne qui les a exportés et qui bénéficient de la franchise des droits de douane ou en bénéficieraient s'ils étaient soumis à des droits de douane ;\n\n6° De biens destinés à des organismes mentionnés au b du 1 de l'article 200 du code général des impôts."
+      "content": "Les conseils régionaux de Guadeloupe et de La Réunion, l'assemblée de Guyane, l'assemblée de Martinique et le conseil départemental de Mayotte peuvent exonérer l'importation :\n\n1° De biens destinés à une personne exerçant une activité économique, au sens de l'article 256 A du code général des impôts. Le champ des biens concernés est défini par secteur d'activité économique et par position tarifaire de la nomenclature combinée définie par le règlement (CEE) n° 2658/87 du Conseil du 23 juillet 1987 relatif à la nomenclature tarifaire et statistique et au tarif douanier commun, dans les conditions déterminées par décret ;\n\n2° De biens destinés à des établissements ou à des personnes morales exerçant des activités scientifiques, de recherche ou d'enseignement. Le champ des biens concernés est défini par secteur d'activité économique et par position tarifaire de la nomenclature combinée définie par le règlement (CEE) n° 2658/87 du Conseil du 23 juillet 1987 précité, dans des conditions déterminées par décret ;\n\n3° De biens destinés à l'accomplissement des missions régaliennes de l'Etat ;\n\n4° De biens destinés aux établissements et centres de santé, ainsi qu'aux établissements et services sociaux et médico-sociaux publics ou privés ;\n\n5° De biens réimportés, dans l'état où ils ont été exportés, par la personne qui les a exportés et qui bénéficient de la franchise des droits de douane ou en bénéficieraient s'ils étaient soumis à des droits de douane ;\n\n6° De biens destinés à des organismes mentionnés au b du 1 de l'article 200 du code général des impôts.",
+      "valid_from": "2026-02-21",
+      "valid_to": "2026-09-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les conseils régionaux de Guadeloupe et de La Réunion, l'assemblée de Guyane, l'assemblée de Martinique et le conseil départemental de Mayotte peuvent exonérer les livraisons de biens produits localement.\n\nCes exonérations prennent la forme d'un taux réduit ou d'un taux zéro. Le taux est arrêté dans les limites fixées à l'article 28."
+      "content": "Les conseils régionaux de Guadeloupe et de La Réunion, l'assemblée de Guyane, l'assemblée de Martinique et le conseil départemental de Mayotte peuvent exonérer les livraisons de biens produits localement.\n\nCes exonérations prennent la forme d'un taux réduit ou d'un taux zéro. Le taux est arrêté dans les limites fixées à l'article 28.",
+      "valid_from": "2015-07-01"
     },
     {
       "provision_ref": "art7-1",
       "section": "7-1",
       "title": "Article 7-1",
-      "content": "Les conseils régionaux de Guadeloupe et de La Réunion, l'assemblée de Guyane, l'assemblée de Martinique et le conseil départemental de Mayotte peuvent exonérer les importations, mises à la consommation et livraisons :\n\n1° De biens destinés à l'avitaillement des aéronefs et des navires ;\n\n2° De carburants destinés à un usage professionnel qui ont fait l'objet d'une adjonction de produits colorants et d'agents traceurs en application du 8° de l'article L. 311-39 du code des impositions sur les biens et service. Cette exonération est accordée par secteur d'activité économique."
+      "content": "Les conseils régionaux de Guadeloupe et de La Réunion, l'assemblée de Guyane, l'assemblée de Martinique et le conseil départemental de Mayotte peuvent exonérer les importations, mises à la consommation et livraisons :\n\n1° De biens destinés à l'avitaillement des aéronefs et des navires ;\n\n2° De carburants destinés à un usage professionnel qui ont fait l'objet d'une adjonction de produits colorants et d'agents traceurs en application du 8° de l'article L. 311-39 du code des impositions sur les biens et service. Cette exonération est accordée par secteur d'activité économique.",
+      "valid_from": "2022-01-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les biens importés en franchise de droits et taxes bénéficient d'une franchise d'octroi de mer.\n\nLes biens en provenance d'un Etat membre de l'Union européenne sont importés en franchise de taxe sur la valeur ajoutée et d'octroi de mer lorsque leur valeur totale n'excède pas 1 000 € pour les biens transportés par les voyageurs ou 400 € pour les biens qui font l'objet de petits envois non commerciaux."
+      "content": "Les biens importés en franchise de droits et taxes bénéficient d'une franchise d'octroi de mer.\n\nLes biens en provenance d'un Etat membre de l'Union européenne sont importés en franchise de taxe sur la valeur ajoutée et d'octroi de mer lorsque leur valeur totale n'excède pas 1 000 € pour les biens transportés par les voyageurs ou 400 € pour les biens qui font l'objet de petits envois non commerciaux.",
+      "valid_from": "2023-04-01",
+      "valid_to": "2026-09-01"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "La base d'imposition est constituée par :\n\n1° La valeur en douane des biens, telle que définie par la réglementation communautaire en vigueur, pour les opérations mentionnées au 1° de l'article 1er ;\n\n2° Les prix hors taxe sur la valeur ajoutée et hors accises pour les opérations mentionnées au 2° de l'article 1er ;\n\n3° Le prix payé ou à payer au prestataire situé en dehors de la collectivité, pour les biens qui sont expédiés temporairement hors d'une collectivité mentionnée à l'article 1er et réimportés dans cette collectivité, après avoir fait l'objet d'une réparation, d'une transformation, d'une adaptation, d'une façon ou d'une ouvraison. Le présent 3° ne s'applique pas aux biens dont l'importation est exonérée conformément au 2° de l'article 4 ;\n\n4° Le prix hors taxes et redevances pour les mises à la consommation ou les livraisons de produits pétroliers relevant de l'une des catégories mentionnées à l'article L. 312-3 du code des impositions sur les biens et les services lorsqu'ils sortent du régime de suspension de l'accise."
+      "content": "La base d'imposition est constituée par :\n\n1° La valeur en douane des biens, telle que définie par la réglementation communautaire en vigueur, pour les opérations mentionnées au 1° de l'article 1er ;\n\n2° Les prix hors taxe sur la valeur ajoutée et hors accises pour les opérations mentionnées au 2° de l'article 1er ;\n\n3° Le prix payé ou à payer au prestataire situé en dehors de la collectivité, pour les biens qui sont expédiés temporairement hors d'une collectivité mentionnée à l'article 1er et réimportés dans cette collectivité, après avoir fait l'objet d'une réparation, d'une transformation, d'une adaptation, d'une façon ou d'une ouvraison. Le présent 3° ne s'applique pas aux biens dont l'importation est exonérée conformément au 2° de l'article 4 ;\n\n4° Le prix hors taxes et redevances pour les mises à la consommation ou les livraisons de produits pétroliers relevant de l'une des catégories mentionnées à l'article L. 312-3 du code des impositions sur les biens et les services lorsqu'ils sortent du régime de suspension de l'accise.",
+      "valid_from": "2024-01-01"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "I. - Le fait générateur de l'octroi de mer se produit et l'octroi de mer devient exigible au moment de l'importation ou de la livraison du bien.\n\nII. (Abrogé)"
+      "content": "I. - Le fait générateur de l'octroi de mer se produit et l'octroi de mer devient exigible au moment de l'importation ou de la livraison du bien.\n\nII. (Abrogé)",
+      "valid_from": "2017-01-01"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "L'octroi de mer est liquidé :1° Pour les opérations d'importation mentionnées au 1° de l'article 1er, sur la déclaration en douane ;2° Pour les opérations mentionnées au 2° du même article, au vu de déclarations trimestrielles souscrites par les assujettis."
+      "content": "L'octroi de mer est liquidé :1° Pour les opérations d'importation mentionnées au 1° de l'article 1er, sur la déclaration en douane ;2° Pour les opérations mentionnées au 2° du même article, au vu de déclarations trimestrielles souscrites par les assujettis.",
+      "valid_from": "2004-08-01"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "L'octroi de mer qui a grevé les éléments du prix d'une opération imposable est déductible de l'octroi de mer applicable à cette opération dans les conditions prévues au présent chapitre."
+      "content": "L'octroi de mer qui a grevé les éléments du prix d'une opération imposable est déductible de l'octroi de mer applicable à cette opération dans les conditions prévues au présent chapitre.",
+      "valid_from": "2004-08-01"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Le droit à déduction prend naissance lorsque l'octroi de mer déductible devient exigible dans les conditions déterminées au chapitre III."
+      "content": "Le droit à déduction prend naissance lorsque l'octroi de mer déductible devient exigible dans les conditions déterminées au chapitre III.",
+      "valid_from": "2004-08-01"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "La déduction de l'octroi de mer est opérée par imputation sur l'octroi de mer dû par l'assujetti au titre de la période pendant laquelle le droit à déduction a pris naissance.Le montant de l'octroi de mer dont la déduction est ouverte doit être mentionné sur la déclaration afférente au trimestre au cours duquel le droit à déduction a pris naissance. Toutefois, à condition qu'elle fasse l'objet d'une inscription distincte, la taxe dont la déduction a été omise sur cette déclaration peut figurer sur les déclarations ultérieures déposées avant le 31 décembre de la deuxième année qui suit celle de l'omission."
+      "content": "La déduction de l'octroi de mer est opérée par imputation sur l'octroi de mer dû par l'assujetti au titre de la période pendant laquelle le droit à déduction a pris naissance.Le montant de l'octroi de mer dont la déduction est ouverte doit être mentionné sur la déclaration afférente au trimestre au cours duquel le droit à déduction a pris naissance. Toutefois, à condition qu'elle fasse l'objet d'une inscription distincte, la taxe dont la déduction a été omise sur cette déclaration peut figurer sur les déclarations ultérieures déposées avant le 31 décembre de la deuxième année qui suit celle de l'omission.",
+      "valid_from": "2004-08-01"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "L'octroi de mer dont les assujettis peuvent opérer la déduction est, selon les cas :\n\n1° Celui qui est acquitté à l'importation ;\n\n2° Celui qui figure sur les factures d'achats qui leur sont délivrées par leurs fournisseurs, si ces derniers sont légalement autorisés à le faire figurer sur lesdites factures."
+      "content": "L'octroi de mer dont les assujettis peuvent opérer la déduction est, selon les cas :\n\n1° Celui qui est acquitté à l'importation ;\n\n2° Celui qui figure sur les factures d'achats qui leur sont délivrées par leurs fournisseurs, si ces derniers sont légalement autorisés à le faire figurer sur lesdites factures.",
+      "valid_from": "2015-07-01"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Les opérations exonérées en application des 1° et 3° de l'article 4 et du 1° du I de l'article 5 ouvrent droit à déduction dans les mêmes conditions que si elles étaient soumises à l'octroi de mer."
+      "content": "Les opérations exonérées en application des 1° et 3° de l'article 4 et du 1° du I de l'article 5 ouvrent droit à déduction dans les mêmes conditions que si elles étaient soumises à l'octroi de mer.",
+      "valid_from": "2015-07-01"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "I. - L'octroi de mer qui a grevé un bien d'investissement est déductible en totalité lorsque le bien est affecté à hauteur de plus de 50 % à des opérations ouvrant droit à déduction et l'octroi de mer n'est pas déductible lorsque le bien est affecté à hauteur de 50 % ou moins à des opérations ouvrant droit à déduction.\n\nII. - L'octroi de mer qui a grevé les véhicules ou engins, quelle que soit leur nature, qui sont conçus pour transporter des personnes ou à usage mixte et qui constituent une immobilisation n'est pas déductible. Il en est de même de l'octroi de mer qui a grevé les éléments constitutifs, les pièces détachées et les accessoires de ces véhicules et engins.\n\nToutefois, cette exclusion ne s'applique pas aux véhicules routiers comportant, outre le siège du conducteur, plus de huit places assises et utilisés par des entreprises pour amener leur personnel sur les lieux de travail."
+      "content": "I. - L'octroi de mer qui a grevé un bien d'investissement est déductible en totalité lorsque le bien est affecté à hauteur de plus de 50 % à des opérations ouvrant droit à déduction et l'octroi de mer n'est pas déductible lorsque le bien est affecté à hauteur de 50 % ou moins à des opérations ouvrant droit à déduction.\n\nII. - L'octroi de mer qui a grevé les véhicules ou engins, quelle que soit leur nature, qui sont conçus pour transporter des personnes ou à usage mixte et qui constituent une immobilisation n'est pas déductible. Il en est de même de l'octroi de mer qui a grevé les éléments constitutifs, les pièces détachées et les accessoires de ces véhicules et engins.\n\nToutefois, cette exclusion ne s'applique pas aux véhicules routiers comportant, outre le siège du conducteur, plus de huit places assises et utilisés par des entreprises pour amener leur personnel sur les lieux de travail.",
+      "valid_from": "2015-07-01"
     },
     {
       "provision_ref": "art19-1",
       "section": "19-1",
       "title": "Article 19-1",
-      "content": "Les personnes qui, au cours d'une année civile, franchissent le seuil d'assujettissement mentionné à l'article 2 peuvent, dans les conditions prévues à l'article 19, déduire l'octroi de mer qui a grevé les biens d'investissement acquis durant cette année civile et durant l'année civile précédente. Le montant de l'octroi de mer dont la déduction est ainsi ouverte doit être mentionné de façon distincte sur la première déclaration trimestrielle. L'octroi de mer dont la déduction a été omise sur cette déclaration peut figurer sur les déclarations ultérieures, dans les conditions prévues au second alinéa de l'article 16."
+      "content": "Les personnes qui, au cours d'une année civile, franchissent le seuil d'assujettissement mentionné à l'article 2 peuvent, dans les conditions prévues à l'article 19, déduire l'octroi de mer qui a grevé les biens d'investissement acquis durant cette année civile et durant l'année civile précédente. Le montant de l'octroi de mer dont la déduction est ainsi ouverte doit être mentionné de façon distincte sur la première déclaration trimestrielle. L'octroi de mer dont la déduction a été omise sur cette déclaration peut figurer sur les déclarations ultérieures, dans les conditions prévues au second alinéa de l'article 16.",
+      "valid_from": "2015-07-01"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "La déduction ne peut être opérée si les assujettis ne sont pas en possession soit des factures mentionnant l'octroi de mer, soit de la déclaration souscrite lors de l'importation du bien sur laquelle ils sont désignés comme destinataires.Lorsque ces factures ou ces documents font l'objet d'une rectification, les assujettis doivent apporter les rectifications correspondantes dans leurs déductions et les mentionner sur la déclaration qu'ils souscrivent au titre du trimestre au cours duquel ils ont eu connaissance de cette rectification."
+      "content": "La déduction ne peut être opérée si les assujettis ne sont pas en possession soit des factures mentionnant l'octroi de mer, soit de la déclaration souscrite lors de l'importation du bien sur laquelle ils sont désignés comme destinataires.Lorsque ces factures ou ces documents font l'objet d'une rectification, les assujettis doivent apporter les rectifications correspondantes dans leurs déductions et les mentionner sur la déclaration qu'ils souscrivent au titre du trimestre au cours duquel ils ont eu connaissance de cette rectification.",
+      "valid_from": "2004-08-01"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Les assujettis sont tenus de procéder à une régularisation :1° Si les marchandises ont disparu ;2° Lorsque l'opération n'est pas effectivement soumise à la taxe."
+      "content": "Les assujettis sont tenus de procéder à une régularisation :1° Si les marchandises ont disparu ;2° Lorsque l'opération n'est pas effectivement soumise à la taxe.",
+      "valid_from": "2004-08-01"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "L'octroi de mer facturé à l'occasion de ventes résiliées, annulées ou restées définitivement impayées est imputé sur l'octroi de mer dû à raison des ventes ultérieures.Cette imputation est subordonnée à la rectification préalable de la facture initiale."
+      "content": "L'octroi de mer facturé à l'occasion de ventes résiliées, annulées ou restées définitivement impayées est imputé sur l'octroi de mer dû à raison des ventes ultérieures.Cette imputation est subordonnée à la rectification préalable de la facture initiale.",
+      "valid_from": "2004-08-01"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Lorsque le montant de l'octroi de mer déductible mentionné sur une déclaration excède le montant de l'octroi de mer dû d'après les éléments qui figurent sur cette déclaration, l'excédent de taxe dont l'imputation ne peut être faite est reporté, jusqu'à épuisement, sur la ou les déclarations suivantes."
+      "content": "Lorsque le montant de l'octroi de mer déductible mentionné sur une déclaration excède le montant de l'octroi de mer dû d'après les éléments qui figurent sur cette déclaration, l'excédent de taxe dont l'imputation ne peut être faite est reporté, jusqu'à épuisement, sur la ou les déclarations suivantes.",
+      "valid_from": "2004-08-01"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "L'octroi de mer dont l'imputation n'a pu être opérée ne peut pas faire l'objet d'un remboursement.\n\nToutefois, cette disposition n'est pas applicable à la taxe qui a grevé l'acquisition des biens d'investissements ou les éléments du prix de produits dont la livraison est exonérée en application des 1° et 3° de l'article 4 et du 1° du I de l'article 5."
+      "content": "L'octroi de mer dont l'imputation n'a pu être opérée ne peut pas faire l'objet d'un remboursement.\n\nToutefois, cette disposition n'est pas applicable à la taxe qui a grevé l'acquisition des biens d'investissements ou les éléments du prix de produits dont la livraison est exonérée en application des 1° et 3° de l'article 4 et du 1° du I de l'article 5.",
+      "valid_from": "2015-07-01"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "L'octroi de mer qui a grevé des biens qui, dans les deux ans suivant leur importation par une personne exerçant une activité économique, au sens de l'article 256 A du code général des impôts, ou leur livraison à une telle personne, font l'objet, par cette personne, d'une livraison exonérée en application des 1° et 3° de l'article 4 et du 1° du I de l'article 5 de la présente loi peut être remboursé dès lors que la taxe a été facturée ou acquittée et n'a pas été imputée."
+      "content": "L'octroi de mer qui a grevé des biens qui, dans les deux ans suivant leur importation par une personne exerçant une activité économique, au sens de l'article 256 A du code général des impôts, ou leur livraison à une telle personne, font l'objet, par cette personne, d'une livraison exonérée en application des 1° et 3° de l'article 4 et du 1° du I de l'article 5 de la présente loi peut être remboursé dès lors que la taxe a été facturée ou acquittée et n'a pas été imputée.",
+      "valid_from": "2015-07-01",
+      "valid_to": "2026-09-01"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "Le crédit d'octroi de mer déductible dont le remboursement a été demandé ne peut donner lieu à imputation. Il est annulé lors du remboursement."
+      "content": "Le crédit d'octroi de mer déductible dont le remboursement a été demandé ne peut donner lieu à imputation. Il est annulé lors du remboursement.",
+      "valid_from": "2004-08-01"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Les taux de l'octroi de mer sont fixés par délibération du conseil régional de Guadeloupe et de La Réunion, de l'assemblée de Guyane, de l'assemblée de Martinique ou du conseil départemental de Mayotte.\n\nIls sont fixés par référence aux codes de la nomenclature combinée figurant à l'annexe I au règlement (CEE) n° 2658/87 du Conseil, du 23 juillet 1987, relatif à la nomenclature tarifaire et statistique et au tarif douanier commun ou aux codes de toute autre nomenclature qui reprend la nomenclature combinée en y ajoutant éventuellement des subdivisions pour les positions limitativement prévues à l'annexe I à la décision (UE) 2021/991 du Conseil du 7 juin 2021 relative au régime de l'octroi de mer dans les régions ultrapériphériques françaises et modifiant la décision n° 940/2014/ UE.\n\nLes taux de l'octroi de mer ne peuvent pas excéder un taux maximal de 60 % et, pour les produits alcooliques et les tabacs manufacturés, un taux maximal de 90 %. A Mayotte, ces taux maximaux sont majorés de moitié.\n\nSous réserve de l'article 28 de la présente loi, les produits identiques ou similaires sont soumis au même taux, qu'ils soient livrés à titre onéreux ou importés, quelle qu'en soit la provenance."
+      "content": "Les taux de l'octroi de mer sont fixés par délibération du conseil régional de Guadeloupe et de La Réunion, de l'assemblée de Guyane, de l'assemblée de Martinique ou du conseil départemental de Mayotte. Un décret détermine les conditions dans lesquelles les délibérations des conseils régionaux et des organes délibérants des collectivités territoriales compétentes en matière d'octroi de mer sont communiquées à l'administration des douanes et droits indirects ainsi que les dates auxquelles elles entrent en vigueur ou avant lesquelles elles ne peuvent entrer en vigueur. Ces dates ne peuvent être postérieures au premier jour du troisième mois suivant leur communication.\n\nIls sont fixés par référence aux codes de la nomenclature combinée figurant à l'annexe I au règlement (CEE) n° 2658/87 du Conseil, du 23 juillet 1987, relatif à la nomenclature tarifaire et statistique et au tarif douanier commun ou aux codes de toute autre nomenclature qui reprend la nomenclature combinée en y ajoutant éventuellement des subdivisions pour les positions limitativement prévues à l'annexe I à la décision (UE) 2021/991 du Conseil du 7 juin 2021 relative au régime de l'octroi de mer dans les régions ultrapériphériques françaises et modifiant la décision n° 940/2014/ UE.\n\nLes taux de l'octroi de mer ne peuvent pas excéder un taux maximal de 60 % et, pour les produits alcooliques et les tabacs manufacturés, un taux maximal de 90 %. A Mayotte, ces taux maximaux sont majorés de moitié.\n\nSous réserve de l'article 28 de la présente loi, les produits identiques ou similaires sont soumis au même taux, qu'ils soient livrés à titre onéreux ou importés, quelle qu'en soit la provenance.",
+      "valid_from": "2026-02-21"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "L'écart, résultant de délibérations prises en application de l'article 7, entre le taux applicable aux importations et le taux applicable aux livraisons d'un même bien ne peut excéder :\n\n1° Vingt points de pourcentage pour les produits mentionnés dans la partie A de l'annexe I à la décision (UE) 2021/991 du Conseil du 7 juin 2021 relative au régime de l'octroi de mer dans les régions ultrapériphériques françaises et modifiant la décision n° 940/2014/ UE ;\n\n2° Trente points de pourcentage pour les produits mentionnés dans la partie B de la même annexe."
+      "content": "L'écart, résultant de délibérations prises en application de l'article 7, entre le taux applicable aux importations et le taux applicable aux livraisons d'un même bien ne peut excéder :\n\n1° Vingt points de pourcentage pour les produits mentionnés dans la partie A de l'annexe I à la décision (UE) 2021/991 du Conseil du 7 juin 2021 relative au régime de l'octroi de mer dans les régions ultrapériphériques françaises et modifiant la décision n° 940/2014/ UE ;\n\n2° Trente points de pourcentage pour les produits mentionnés dans la partie B de la même annexe.",
+      "valid_from": "2022-01-01"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "En vue de l'actualisation des listes de produits A et B mentionnés à l'annexe I à la décision (UE) 2021/991 du Conseil du 7 juin 2021 précitée, le conseil régional de Guadeloupe ou de La Réunion, l'assemblée de Guyane, l'assemblée de Martinique ou le conseil départemental de Mayotte adresse au représentant de l'Etat une demande circonstanciée permettant, notamment, de justifier les différences de taux à retenir au regard des surcoûts supportés par les productions locales dont l'inclusion dans les listes précitées est sollicitée. Cette demande intervient au maximum une fois par an et au cours du premier semestre de l'année.\n\nEn cas de mise en péril d'une production locale ou de besoin impérieux pour une nouvelle production locale, la demande peut être adressée indépendamment de la périodicité et du calendrier prévus au précédent alinéa."
+      "content": "En vue de l'actualisation des listes de produits A et B mentionnés à l'annexe I à la décision (UE) 2021/991 du Conseil du 7 juin 2021 précitée, le conseil régional de Guadeloupe ou de La Réunion, l'assemblée de Guyane, l'assemblée de Martinique ou le conseil départemental de Mayotte adresse au représentant de l'Etat une demande circonstanciée permettant, notamment, de justifier les différences de taux à retenir au regard des surcoûts supportés par les productions locales dont l'inclusion dans les listes précitées est sollicitée. Cette demande intervient au maximum une fois par an et au cours du premier semestre de l'année.\n\nEn cas de mise en péril d'une production locale ou de besoin impérieux pour une nouvelle production locale, la demande peut être adressée indépendamment de la périodicité et du calendrier prévus au précédent alinéa.",
+      "valid_from": "2022-01-01"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "Dans les limites mentionnées à l'article 28, sans excéder le pourcentage strictement nécessaire pour maintenir, promouvoir et développer les activités locales, les taux sont déterminés en fonction des handicaps que supportent les productions locales du fait de leur localisation dans une région ultrapériphérique de l'Union européenne.\n\nAvant la fin du premier semestre de chaque année, le conseil régional de Guadeloupe ou de La Réunion, l'assemblée de Guyane, l'assemblée de Martinique ou le conseil départemental de Mayotte adresse au représentant de l'Etat dans la collectivité un rapport sur la mise en oeuvre des exonérations pendant l'année précédente."
+      "content": "Dans les limites mentionnées à l'article 28, sans excéder le pourcentage strictement nécessaire pour maintenir, promouvoir et développer les activités locales, les taux sont déterminés en fonction des handicaps que supportent les productions locales du fait de leur localisation dans une région ultrapériphérique de l'Union européenne.\n\nAvant la fin du premier semestre de chaque année, le conseil régional de Guadeloupe ou de La Réunion, l'assemblée de Guyane, l'assemblée de Martinique ou le conseil départemental de Mayotte adresse au représentant de l'Etat dans la collectivité un rapport sur la mise en oeuvre des exonérations pendant l'année précédente. Les administrations de l'Etat transmettent aux organes délibérants, avant le 1er juin de chaque année, les informations qui relèvent de leur compétence, dans des conditions déterminées par décret.",
+      "valid_from": "2026-02-21"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "Aucune différence de taxation n'est autorisée entre les importations de produits bénéficiant du régime spécifique d'approvisionnement prévu au chapitre III du règlement (UE) n° 228/2013 du Parlement européen et du Conseil, du 13 mars 2013, portant mesures spécifiques dans le domaine de l'agriculture en faveur des régions ultrapériphériques de l'Union et abrogeant le règlement (CE) n° 247/2006 du Conseil et les livraisons de produits similaires dans la collectivité."
+      "content": "Aucune différence de taxation n'est autorisée entre les importations de produits bénéficiant du régime spécifique d'approvisionnement prévu au chapitre III du règlement (UE) n° 228/2013 du Parlement européen et du Conseil, du 13 mars 2013, portant mesures spécifiques dans le domaine de l'agriculture en faveur des régions ultrapériphériques de l'Union et abrogeant le règlement (CE) n° 247/2006 du Conseil et les livraisons de produits similaires dans la collectivité.",
+      "valid_from": "2015-07-01"
     },
     {
       "provision_ref": "art33",
       "section": "33",
       "title": "Article 33",
-      "content": "I. - L'octroi de mer est dû par :\n\n1° Les personnes désignées comme destinataires réels des biens sur la déclaration en douane pour les opérations d'importation mentionnées au 1° de l'article 1er ;\n\n2° Les personnes qui réalisent des opérations imposables mentionnées au 2° de l'article 1er ;\n\n3° Les personnes qui acquièrent pour mise à la consommation des produits pétroliers et biens assimilés relevant de l'une des catégories mentionnées à l'article L. 312-3 du code des impositions sur les biens et les services lorsqu'ils sortent du régime de suspension de l'accise.\n\nII. - Toute personne qui mentionne l'octroi de mer sur une facture ou sur tout autre document en tenant lieu est redevable de la taxe du seul fait de sa facturation, hors le cas où elle a corrigé une erreur commise de bonne foi et que la taxe n'a pas été répercutée."
+      "content": "I. - L'octroi de mer est dû par :\n\n1° Les personnes désignées comme destinataires réels des biens sur la déclaration en douane pour les opérations d'importation mentionnées au 1° de l'article 1er ;\n\n2° Les personnes qui réalisent des opérations imposables mentionnées au 2° de l'article 1er ;\n\n3° Les personnes qui acquièrent pour mise à la consommation des produits pétroliers et biens assimilés relevant de l'une des catégories mentionnées à l'article L. 312-3 du code des impositions sur les biens et les services lorsqu'ils sortent du régime de suspension de l'accise.\n\nII. - Toute personne qui mentionne l'octroi de mer sur une facture ou sur tout autre document en tenant lieu est redevable de la taxe du seul fait de sa facturation, hors le cas où elle a corrigé une erreur commise de bonne foi et que la taxe n'a pas été répercutée.",
+      "valid_from": "2024-01-01"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "Toute personne assujettie à l'octroi de mer doit s'identifier auprès du bureau de douane territorialement compétent."
+      "content": "Toute personne assujettie à l'octroi de mer doit s'identifier auprès du bureau de douane territorialement compétent.",
+      "valid_from": "2015-07-01"
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "I. - Tout assujetti à l'octroi de mer doit délivrer une facture pour les biens livrés à un autre assujetti lorsque la livraison de biens est imposable en application du 2° de l'article 1er.\n\nII. - Les factures doivent faire apparaître distinctement, pour chaque bien, le montant de l'octroi de mer, le taux d'imposition ainsi que sa position par référence aux codes de la nomenclature combinée figurant à l'annexe I au règlement (CEE) n° 2658/87, du 23 juillet 1987, précité ou aux codes de toute autre nomenclature qui reprend la nomenclature combinée en y ajoutant éventuellement des subdivisions pour les positions limitativement prévues à l'annexe I à la décision (UE) 2021/991 du Conseil du 7 juin 2021 précitée.\n\nLorsque les livraisons sont exonérées totalement en application des articles 7 et 7-1, les factures portent la mention : \"livraison exonérée d'octroi de mer\"."
+      "content": "I. - Tout assujetti à l'octroi de mer doit délivrer une facture pour les biens livrés à un autre assujetti lorsque la livraison de biens est imposable en application du 2° de l'article 1er.\n\nII. - Les factures doivent faire apparaître distinctement, pour chaque bien, le montant de l'octroi de mer, le taux d'imposition ainsi que sa position par référence aux codes de la nomenclature combinée figurant à l'annexe I au règlement (CEE) n° 2658/87, du 23 juillet 1987, précité ou aux codes de toute autre nomenclature qui reprend la nomenclature combinée en y ajoutant éventuellement des subdivisions pour les positions limitativement prévues à l'annexe I à la décision (UE) 2021/991 du Conseil du 7 juin 2021 précitée.\n\nLorsque les livraisons sont exonérées totalement en application des articles 7 et 7-1, les factures portent la mention : \"livraison exonérée d'octroi de mer\".",
+      "valid_from": "2022-01-01"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "Les personnes assujetties à l'octroi de mer doivent tenir une comptabilité faisant apparaître d'une manière distincte les opérations taxées et celles qui ne le sont pas.\n\nLa comptabilité et les pièces justificatives des opérations réalisées par les assujettis à l'octroi de mer doivent être conservées selon les délais et modalités prévus à l'article 65 du code des douanes. Les pièces justificatives relatives à des opérations ouvrant droit à déduction doivent être des pièces d'origine.\n\nLes personnes assujetties à l'octroi de mer doivent fournir à l'administration, au lieu du principal établissement dans la collectivité, toutes justifications nécessaires à la fixation des opérations imposables à l'octroi de mer, sans préjudice de l'exercice par l'administration des douanes du droit de communication qu'elle tient des dispositions de l'article 65 du code des douanes."
+      "content": "Les personnes assujetties à l'octroi de mer doivent tenir une comptabilité faisant apparaître d'une manière distincte les opérations taxées et celles qui ne le sont pas.\n\nLa comptabilité et les pièces justificatives des opérations réalisées par les assujettis à l'octroi de mer doivent être conservées selon les délais et modalités prévus à l'article 65 du code des douanes. Les pièces justificatives relatives à des opérations ouvrant droit à déduction doivent être des pièces d'origine.\n\nLes personnes assujetties à l'octroi de mer doivent fournir à l'administration, au lieu du principal établissement dans la collectivité, toutes justifications nécessaires à la fixation des opérations imposables à l'octroi de mer, sans préjudice de l'exercice par l'administration des douanes du droit de communication qu'elle tient des dispositions de l'article 65 du code des douanes.",
+      "valid_from": "2015-07-01"
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "I. – Les conseils régionaux de Guadeloupe et de La Réunion, l'assemblée de Guyane, l'assemblée de Martinique ou le conseil départemental de Mayotte peuvent instituer, au profit de la collectivité, un octroi de mer régional ayant la même assiette que l'octroi de mer.\n\nSont exonérées de l'octroi de mer régional les opérations mentionnées aux articles 4 et 8 ainsi que celles exonérées en application du I de l'article 5.\n\nIndépendamment des décisions qu'ils prennent en vertu des articles 6 à 7-1, les conseils régionaux de Guadeloupe et de La Réunion, l'assemblée de Guyane, l'assemblée de Martinique et le conseil départemental de Mayotte peuvent exonérer de l'octroi de mer régional les opérations mentionnées à ces articles dans les conditions prévues pour l'exonération de l'octroi de mer.\n\nSous réserve des dispositions du II et du III du présent article, le régime d'imposition à l'octroi de mer régional et les obligations des assujettis sont ceux applicables à l'octroi de mer.\n\nII. – Les taux de base de l'octroi de mer régional ne peuvent excéder 2,5 % en Guadeloupe, en Martinique, à Mayotte et à La Réunion, et 5 % en Guyane.\n\nII bis. – Un taux supplémentaire ne pouvant excéder 2,5 % peut être décidé par les assemblées mentionnées au I qui ont signé le plan de convergence prévu à l'article 7 de la loi n° 2017-256 du 28 février 2017 de programmation relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique.\n\nIII. – L'institution de l'octroi de mer régional, les exonérations qui résultent de l'application du I et la fixation du taux de cette taxe ne peuvent avoir pour effet de porter la différence entre le taux global de l'octroi de mer et de l'octroi de mer régional applicable aux importations de marchandises et le taux global des deux mêmes taxes applicable aux livraisons de biens faites dans la collectivité par les assujettis au-delà des limites fixées à l'article 28."
+      "content": "I. – Les conseils régionaux de Guadeloupe et de La Réunion, l'assemblée de Guyane, l'assemblée de Martinique ou le conseil départemental de Mayotte peuvent instituer, au profit de la collectivité, un octroi de mer régional ayant la même assiette que l'octroi de mer.\n\nSont exonérées de l'octroi de mer régional les opérations mentionnées aux articles 4 et 8 ainsi que celles exonérées en application du I de l'article 5.\n\nIndépendamment des décisions qu'ils prennent en vertu des articles 6 à 7-1, les conseils régionaux de Guadeloupe et de La Réunion, l'assemblée de Guyane, l'assemblée de Martinique et le conseil départemental de Mayotte peuvent exonérer de l'octroi de mer régional les opérations mentionnées à ces articles dans les conditions prévues pour l'exonération de l'octroi de mer.\n\nSous réserve des dispositions du II et du III du présent article, le régime d'imposition à l'octroi de mer régional et les obligations des assujettis sont ceux applicables à l'octroi de mer.\n\nI bis. - Le fait générateur et l'exigibilité de l'octroi de mer régional sont ceux prévus au chapitre III du présent titre.\n\nII. – Les taux de base de l'octroi de mer régional ne peuvent excéder 2,5 % en Guadeloupe, en Martinique, à Mayotte et à La Réunion, et 5 % en Guyane.\n\nII bis. – Un taux supplémentaire ne pouvant excéder 2,5 % peut être décidé par les assemblées mentionnées au I qui ont signé le plan de convergence prévu à l'article 7 de la loi n° 2017-256 du 28 février 2017 de programmation relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique.\n\nIII. – L'institution de l'octroi de mer régional, les exonérations qui résultent de l'application du I et la fixation du taux de cette taxe ne peuvent avoir pour effet de porter la différence entre le taux global de l'octroi de mer et de l'octroi de mer régional applicable aux importations de marchandises et le taux global des deux mêmes taxes applicable aux livraisons de biens faites dans la collectivité par les assujettis au-delà des limites fixées à l'article 28.",
+      "valid_from": "2026-02-21"
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "Les mouvements, d'une part, de biens importés ou produits en Guadeloupe et expédiés ou livrés en Martinique et, d'autre part, de biens importés ou produits en Martinique et expédiés ou livrés en Guadeloupe font l'objet d'une déclaration périodique et du dépôt d'un document d'accompagnement.\n\nLes modalités de la déclaration et le contenu du document d'accompagnement sont fixés par voie réglementaire."
+      "content": "Les mouvements, d'une part, de biens importés ou produits en Guadeloupe et expédiés ou livrés en Martinique et, d'autre part, de biens importés ou produits en Martinique et expédiés ou livrés en Guadeloupe font l'objet d'une déclaration périodique et du dépôt d'un document d'accompagnement.\n\nLes modalités de la déclaration et le contenu du document d'accompagnement sont fixés par voie réglementaire.",
+      "valid_from": "2019-12-30"
     },
     {
       "provision_ref": "art39",
       "section": "39",
       "title": "Article 39",
-      "content": "L'expédition à destination de Martinique et de Guadeloupe ou la livraison dans ces collectivités de biens qui ont fait l'objet dans l'une de ces collectivités d'une importation donnent lieu à un versement annuel affecté aux communes de la collectivité de destination des biens.\n\nLe versement est prélevé sur les produits de l'octroi de mer et de l'octroi de mer régional perçus dans la collectivité d'importation. Il vient en complément des produits de l'octroi de mer et de l'octroi de mer régional perçus directement dans la collectivité de destination au titre des articles 1er et 37.\n\nIl est calculé selon des modalités fixées par le décret prévu à l'article 52. Ces modalités reposent sur l'application des taux d'octroi de mer et d'octroi de mer régional exigibles à l'importation dans la collectivité à partir de laquelle les biens ont été expédiés ou livrés à :\n\n1° La valeur en douane des biens en cas d'expédition sans transfert de la propriété. La valeur en douane est calculée comme en matière de valeur en douane à l'exportation ;\n\n2° Au prix hors taxe facturé en cas de livraison.\n\nLes taux applicables sont ceux en vigueur au 31 décembre de l'année au titre de laquelle le versement intervient.\n\nIl est procédé au versement un an au plus tard après la date à laquelle a été réalisée l'expédition ou la livraison de biens dans la collectivité de destination."
+      "content": "L'expédition à destination de Martinique et de Guadeloupe ou la livraison dans ces collectivités de biens qui ont fait l'objet dans l'une de ces collectivités d'une importation donnent lieu à un versement annuel affecté aux communes de la collectivité de destination des biens.\n\nLe versement est prélevé sur les produits de l'octroi de mer et de l'octroi de mer régional perçus dans la collectivité d'importation. Il vient en complément des produits de l'octroi de mer et de l'octroi de mer régional perçus directement dans la collectivité de destination au titre des articles 1er et 37.\n\nIl est calculé selon des modalités fixées par le décret prévu à l'article 52. Ces modalités reposent sur l'application des taux d'octroi de mer et d'octroi de mer régional exigibles à l'importation dans la collectivité à partir de laquelle les biens ont été expédiés ou livrés à :\n\n1° La valeur en douane des biens en cas d'expédition sans transfert de la propriété. La valeur en douane est calculée comme en matière de valeur en douane à l'exportation ;\n\n2° Au prix hors taxe facturé en cas de livraison.\n\nLes taux applicables sont ceux en vigueur au 31 décembre de l'année au titre de laquelle le versement intervient.\n\nIl est procédé au versement un an au plus tard après la date à laquelle a été réalisée l'expédition ou la livraison de biens dans la collectivité de destination.",
+      "valid_from": "2019-12-30"
     },
     {
       "provision_ref": "art40",
       "section": "40",
       "title": "Article 40",
-      "content": "Le défaut de production dans les délais de la déclaration prévue à l'article 38 est passible d'une amende de 750 euros.L'amende est portée à 1500 euros à défaut de production de la déclaration dans les trente jours d'une mise en demeure.Chaque omission ou inexactitude dans la déclaration produite est passible d'une amende de 15 euros, sans que le total puisse excéder 1500 euros.L'amende ne peut être mise en recouvrement avant l'expiration d'un délai de trente jours à compter de la notification du document par lequel l'administration a fait connaître au contrevenant la sanction qu'elle se propose d'appliquer, les motifs de celle-ci et la possibilité dont dispose l'intéressé de présenter dans ce délai ses observations.L'amende est prononcée par l'administration des douanes dans le même délai de reprise qu'en matière de taxe sur la valeur ajoutée. Le contentieux de cette amende est soumis aux mêmes procédures et son recouvrement bénéficie des mêmes garanties, sûretés et privilèges que ceux prévus pour la taxe sur la valeur ajoutée."
+      "content": "Le défaut de production dans les délais de la déclaration prévue à l'article 38 est passible d'une amende de 750 euros.L'amende est portée à 1500 euros à défaut de production de la déclaration dans les trente jours d'une mise en demeure.Chaque omission ou inexactitude dans la déclaration produite est passible d'une amende de 15 euros, sans que le total puisse excéder 1500 euros.L'amende ne peut être mise en recouvrement avant l'expiration d'un délai de trente jours à compter de la notification du document par lequel l'administration a fait connaître au contrevenant la sanction qu'elle se propose d'appliquer, les motifs de celle-ci et la possibilité dont dispose l'intéressé de présenter dans ce délai ses observations.L'amende est prononcée par l'administration des douanes dans le même délai de reprise qu'en matière de taxe sur la valeur ajoutée. Le contentieux de cette amende est soumis aux mêmes procédures et son recouvrement bénéficie des mêmes garanties, sûretés et privilèges que ceux prévus pour la taxe sur la valeur ajoutée.",
+      "valid_from": "2019-12-30",
+      "valid_to": "2026-09-01"
     },
     {
       "provision_ref": "art41",
       "section": "41",
       "title": "Article 41",
-      "content": "Les agents des douanes peuvent adresser aux personnes tenues de souscrire la déclaration mentionnée à l'article 38 des demandes de renseignements et de documents destinées à vérifier qu'elles se sont acquittées des obligations mises à leur charge par ledit article. Ces demandes fixent un délai de réponse qui ne peut être inférieur à cinq jours.L'administration peut procéder à la convocation du redevable de la déclaration. Celui-ci est entendu, à sa demande, par l'administration. L'audition donne lieu à l'établissement d'un procès-verbal dont une copie est remise au redevable. Celui-ci peut se faire représenter.Le refus de déférer à une convocation, le défaut de réponse à une demande de renseignement écrite ou la non-remise des documents nécessaires à l'établissement de la déclaration mentionnée à l'article 38 est passible d'une amende de 1500 euros.Cette amende est prononcée par l'administration des douanes. Elle est recouvrée selon les modalités prévues aux quatrième et cinquième alinéas de l'article 40. Le contentieux de cette amende est soumis aux mêmes procédures et son recouvrement bénéficie des mêmes garanties, sûretés et privilèges que ceux prévus pour la taxe sur la valeur ajoutée."
+      "content": "Les agents des douanes peuvent adresser aux personnes tenues de souscrire la déclaration mentionnée à l'article 38 des demandes de renseignements et de documents destinées à vérifier qu'elles se sont acquittées des obligations mises à leur charge par ledit article. Ces demandes fixent un délai de réponse qui ne peut être inférieur à cinq jours.L'administration peut procéder à la convocation du redevable de la déclaration. Celui-ci est entendu, à sa demande, par l'administration. L'audition donne lieu à l'établissement d'un procès-verbal dont une copie est remise au redevable. Celui-ci peut se faire représenter.Le refus de déférer à une convocation, le défaut de réponse à une demande de renseignement écrite ou la non-remise des documents nécessaires à l'établissement de la déclaration mentionnée à l'article 38 est passible d'une amende de 1500 euros.Cette amende est prononcée par l'administration des douanes. Elle est recouvrée selon les modalités prévues aux quatrième et cinquième alinéas de l'article 40. Le contentieux de cette amende est soumis aux mêmes procédures et son recouvrement bénéficie des mêmes garanties, sûretés et privilèges que ceux prévus pour la taxe sur la valeur ajoutée.",
+      "valid_from": "2019-12-30",
+      "valid_to": "2026-09-01"
+    },
+    {
+      "provision_ref": "art41nonies",
+      "section": "41nonies",
+      "title": "Article 41nonies",
+      "content": "Le bénéfice des exonérations mentionnées au 1° de l'article 41 ter, à l'article 41 septies et au I de l'article 41 octies ou du remboursement mentionné au III du même article 41 octies est subordonné, au titre du droit européen des aides d'Etat, au respect par le vendeur autorisé des conditions prévues par le règlement général de minimis mentionné au 3° de l'article L. 133-4 du code des impositions sur les biens et services.\n\nL'octroi de mer et l'octroi de mer régional qui n'a pas été appliqué conformément à l'article 41 ter de la présente loi devient exigible auprès du vendeur autorisé qui ne remplit pas les conditions prévues par le règlement général de minimis mentionné au premier alinéa du présent article.\n\nLe vendeur autorisé qui ne remplit pas les conditions prévues par le règlement général de minimis mentionné au même premier alinéa devient redevable de l'accise portant sur les biens pour lesquels l'exonération mentionnée au I de l'article 41 octies a été appliquée.",
+      "valid_from": "2023-12-31",
+      "valid_to": "2222-02-22"
     },
     {
       "provision_ref": "art42",
       "section": "42",
       "title": "Article 42",
-      "content": "L'octroi de mer et l'octroi de mer régional sont perçus, contrôlés et recouvrés par la direction générale des douanes et droits indirects, selon les règles, garanties, privilèges et sanctions prévus par le code des douanes. Les infractions sont constatées, réprimées et les instances instruites et jugées conformément aux dispositions du même code."
+      "content": "L'octroi de mer et l'octroi de mer régional sont perçus, contrôlés et recouvrés par la direction générale des douanes et droits indirects, selon les règles, garanties, privilèges et sanctions prévus par le code des douanes. Les infractions sont constatées, réprimées et les instances instruites et jugées conformément aux dispositions du même code.",
+      "valid_from": "2004-08-01"
     },
     {
       "provision_ref": "art44",
       "section": "44",
       "title": "Article 44",
-      "content": "L'Etat perçoit sur le produit de l'octroi de mer un prélèvement pour frais d'assiette et de recouvrement égal à 1,5 % du montant dudit produit."
+      "content": "L'Etat perçoit sur le produit de l'octroi de mer un prélèvement pour frais d'assiette et de recouvrement égal à 1,5 % du montant dudit produit.\n\nAucuns frais ne sont perçus sur le produit de l'octroi de mer régional.",
+      "valid_from": "2026-02-21"
     },
     {
       "provision_ref": "art45",
       "section": "45",
       "title": "Article 45",
-      "content": "Par exception aux dispositions du 1° du I de l'article 267 et du 1° de l'article 292 du code général des impôts, l'octroi de mer et l'octroi de mer régional ne sont pas compris dans la base d'imposition de la taxe sur la valeur ajoutée."
+      "content": "Par exception aux dispositions du 1° du I de l'article 267 et du 1° de l'article 292 du code général des impôts, l'octroi de mer et l'octroi de mer régional ne sont pas compris dans la base d'imposition de la taxe sur la valeur ajoutée.",
+      "valid_from": "2015-07-01",
+      "valid_to": "2026-09-01"
     },
     {
       "provision_ref": "art46",
       "section": "46",
       "title": "Article 46",
-      "content": "Par dérogation à l'article 6 de la loi n° 75-622 du 11 juillet 1975 relative à la nationalisation de l'électricité dans les départements d'outre-mer, les montants de l'octroi de mer et de l'octroi de mer régional peuvent être répercutés dans le prix de vente de l'électricité."
+      "content": "Par dérogation à l'article 6 de la loi n° 75-622 du 11 juillet 1975 relative à la nationalisation de l'électricité dans les départements d'outre-mer, les montants de l'octroi de mer et de l'octroi de mer régional peuvent être répercutés dans le prix de vente de l'électricité.",
+      "valid_from": "2004-08-01"
     },
     {
       "provision_ref": "art47",
       "section": "47",
       "title": "Article 47",
-      "content": "En Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, le produit de l'octroi de mer fait l'objet, après le prélèvement pour frais d'assiette et de recouvrement prévu par l'article 44, d'une affectation annuelle à une dotation globale garantie. Cette dotation est répartie entre les communes. Le montant de cette dotation est égal au montant de l'année précédente majoré d'un indice égal à la somme du taux d'évolution de la moyenne annuelle du prix de la consommation hors tabac des ménages et du taux d'évolution du produit intérieur brut total en volume, tels qu'ils figurent dans les documents annexés au projet de loi de finances de l'année en cours.\n\nDans le cas où, pour une année, le produit global de l'octroi de mer est inférieur au montant de la dotation globale garantie répartie l'année précédente augmentée de l'indice prévu à l'alinéa précédent, la dotation globale garantie de l'année en cours est réduite à due concurrence. Par dérogation au premier alinéa, le montant de la dotation globale garantie de l'année suivante est alors égal au montant de la dotation de l'antépénultième année majoré des indices mentionnés au premier alinéa correspondants à l'année précédente et à l'année en cours.\n\nS'il existe un solde, celui-ci est affecté à une dotation au fonds régional pour le développement et l'emploi institué par l'article 49."
+      "content": "En Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, le produit de l'octroi de mer fait l'objet, après le prélèvement pour frais d'assiette et de recouvrement prévu par l'article 44, d'une affectation annuelle à une dotation globale garantie. Cette dotation est répartie entre les communes. Le montant de cette dotation est égal au montant de l'année précédente majoré d'un indice égal à la somme du taux d'évolution de la moyenne annuelle du prix de la consommation hors tabac des ménages et du taux d'évolution du produit intérieur brut total en volume, tels qu'ils figurent dans les documents annexés au projet de loi de finances de l'année en cours.\n\nDans le cas où, pour une année, le produit global de l'octroi de mer est inférieur au montant de la dotation globale garantie répartie l'année précédente augmentée de l'indice prévu à l'alinéa précédent, la dotation globale garantie de l'année en cours est réduite à due concurrence. Par dérogation au premier alinéa, le montant de la dotation globale garantie de l'année suivante est alors égal au montant de la dotation de l'antépénultième année majoré des indices mentionnés au premier alinéa correspondants à l'année précédente et à l'année en cours.\n\nS'il existe un solde, celui-ci est affecté à une dotation au fonds régional pour le développement et l'emploi institué par l'article 49.",
+      "valid_from": "2019-01-01"
     },
     {
       "provision_ref": "art48",
       "section": "48",
       "title": "Article 48",
-      "content": "Les modalités de répartition de la dotation globale garantie mentionnée à l'article 47 peuvent être modifiées par décret pris sur la proposition du conseil régional de Guadeloupe ou de La Réunion, de l'assemblée de Guyane, de l'assemblée de Martinique ou du conseil départemental de Mayotte dans un délai de deux mois à compter de la transmission de cette proposition au représentant de l'Etat dans la collectivité. Passé ce délai, et en l'absence de décision contraire du Gouvernement, la délibération devient applicable."
+      "content": "Les modalités de répartition de la dotation globale garantie mentionnée à l'article 47 peuvent être modifiées par décret pris sur la proposition du conseil régional de Guadeloupe ou de La Réunion, de l'assemblée de Guyane, de l'assemblée de Martinique ou du conseil départemental de Mayotte dans un délai de deux mois à compter de la transmission de cette proposition au représentant de l'Etat dans la collectivité. Passé ce délai, et en l'absence de décision contraire du Gouvernement, la délibération devient applicable.",
+      "valid_from": "2019-01-01"
     },
     {
       "provision_ref": "art49",
       "section": "49",
       "title": "Article 49",
-      "content": "Le fonds régional pour le développement et l'emploi créé en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion est alimenté par le solde du produit de l'octroi de mer, après affectation à la dotation globale garantie prévue à l'article 47.\n\nLes ressources disponibles du fonds régional pour le développement et l'emploi sont affectées, chaque année, à une part communale et à une part régionale en Guadeloupe et à La Réunion, territoriale en Guyane et en Martinique et départementale à Mayotte :\n\n1° La part communale est égale à 80 % du fonds régional pour le développement et l'emploi. En Guadeloupe, 10 % de cette part communale est exclusivement consacrée aux îles du Sud, à savoir, Grand-Bourg, Saint-Louis, Capesterre-de-Marie-Galante, La Désirade, Terre-de-Haut et Terre-de-Bas. Cette part communale est constituée par une dotation d'équipement local répartie entre les communes au prorata de leur population. La population prise en compte pour cette répartition est majorée de 20 % pour les communes chefs-lieux de département et de 15 % pour les communes chefs-lieux d'arrondissement.\n\nLa dotation d'équipement local est inscrite en recette de la section d'investissement de chaque commune bénéficiaire, pour financer, prioritairement, des projets facilitant l'installation d'entreprises et la création d'emplois ou contribuant à la réalisation d'infrastructures et d'équipements publics nécessaires au développement ;\n\n2° La part régionale, territoriale ou départementale est constituée de 20 % des ressources annuelles du fonds régional pour le développement et l'emploi. Cette ressource est affectée, par délibération du conseil régional de Guadeloupe ou de La Réunion, de l'assemblée de Guyane, de l'assemblée de Martinique ou du conseil départemental de Mayotte au financement d'investissements contribuant au développement économique, à l'aménagement du territoire et au désenclavement, sous maîtrise d'ouvrage de la collectivité, de syndicats mixtes ou d'établissements publics de coopération intercommunale.\n\nCes subventions sont cumulables avec celles dont peuvent bénéficier les communes, les établissements publics de coopération intercommunale, les régions, les collectivités territoriales de Guyane et de Martinique, les départements et les syndicats mixtes, de la part de l'Etat ou d'autres collectivités publiques, ou au titre des fonds structurels européens.\n\nDans les trois mois qui suivent l'achèvement du projet, les bénéficiaires de subventions de la part régionale, territoriale ou départementale du fonds régional pour le développement et l'emploi transmettent au conseil régional de Guadeloupe ou de La Réunion, à l'assemblée de Guyane, à l'assemblée de Martinique ou au conseil départemental de Mayotte un rapport de réalisation des investissements financés par le fonds."
+      "content": "Le fonds régional pour le développement et l'emploi créé en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion est alimenté par le solde du produit de l'octroi de mer, après affectation à la dotation globale garantie prévue à l'article 47.\n\nLes ressources disponibles du fonds régional pour le développement et l'emploi sont affectées, chaque année, à une part communale et à une part régionale en Guadeloupe et à La Réunion, territoriale en Guyane et en Martinique et départementale à Mayotte :\n\n1° La part communale est égale à 80 % du fonds régional pour le développement et l'emploi. En Guadeloupe, 10 % de cette part communale est exclusivement consacrée aux îles du Sud, à savoir, Grand-Bourg, Saint-Louis, Capesterre-de-Marie-Galante, La Désirade, Terre-de-Haut et Terre-de-Bas. Cette part communale est constituée par une dotation d'équipement local répartie entre les communes au prorata de leur population. La population prise en compte pour cette répartition est majorée de 20 % pour les communes chefs-lieux de département et de 15 % pour les communes chefs-lieux d'arrondissement.\n\nLa dotation d'équipement local est inscrite en recette de la section d'investissement de chaque commune bénéficiaire, pour financer, prioritairement, des projets facilitant l'installation d'entreprises et la création d'emplois ou contribuant à la réalisation d'infrastructures et d'équipements publics nécessaires au développement ;\n\n2° La part régionale, territoriale ou départementale est constituée de 20 % des ressources annuelles du fonds régional pour le développement et l'emploi. Cette ressource est affectée, par délibération du conseil régional de Guadeloupe ou de La Réunion, de l'assemblée de Guyane, de l'assemblée de Martinique ou du conseil départemental de Mayotte au financement d'investissements contribuant au développement économique, à l'aménagement du territoire et au désenclavement, sous maîtrise d'ouvrage de la collectivité, de syndicats mixtes ou d'établissements publics de coopération intercommunale.\n\nCes subventions sont cumulables avec celles dont peuvent bénéficier les communes, les établissements publics de coopération intercommunale, les régions, les collectivités territoriales de Guyane et de Martinique, les départements et les syndicats mixtes, de la part de l'Etat ou d'autres collectivités publiques, ou au titre des fonds structurels européens.\n\nDans les trois mois qui suivent l'achèvement du projet, les bénéficiaires de subventions de la part régionale, territoriale ou départementale du fonds régional pour le développement et l'emploi transmettent au conseil régional de Guadeloupe ou de La Réunion, à l'assemblée de Guyane, à l'assemblée de Martinique ou au conseil départemental de Mayotte un rapport de réalisation des investissements financés par le fonds.",
+      "valid_from": "2015-07-01"
     },
     {
       "provision_ref": "art51",
       "section": "51",
       "title": "Article 51",
-      "content": "En vue de l'établissement du rapport d'évaluation prévu à l'article 3 de la décision (UE) 2021/991 du Conseil du 7 juin 2021 précitée, les conseils régionaux de Guadeloupe et de La Réunion, l'assemblée de Guyane, l'assemblée de Martinique et le conseil départemental de Mayotte adressent au représentant de l'Etat, au plus tard le 30 juin 2025, les éléments mentionnés à l'annexe II à cette même décision."
+      "content": "En vue de l'établissement du rapport d'évaluation prévu à l'article 3 de la décision (UE) 2021/991 du Conseil du 7 juin 2021 précitée, les conseils régionaux de Guadeloupe et de La Réunion, l'assemblée de Guyane, l'assemblée de Martinique et le conseil départemental de Mayotte adressent au représentant de l'Etat, au plus tard le 30 juin 2025, les éléments mentionnés à l'annexe II à cette même décision.",
+      "valid_from": "2022-01-01"
     },
     {
       "provision_ref": "art51-1",
       "section": "51-1",
       "title": "Article 51-1",
-      "content": "Pour l'application de la présente loi en Guyane et en Martinique jusqu'à la date de la première réunion suivant la première élection de l'assemblée de Guyane et de l'assemblée de Martinique créées en application de la loi n° 2011-884 du 27 juillet 2011 relative aux collectivités territoriales de Guyane et de Martinique :\n\n1° Les références à la collectivité territoriale de Guyane sont remplacées par les références à la région de Guyane, à l'exception de celles figurant à l'article 47 et au deuxième alinéa de l'article 48 où elles sont remplacées par les références au département de Guyane ;\n\n2° Les références à la collectivité territoriale de Martinique sont remplacées par les références à la région de Martinique ;\n\n3° Les références à l'assemblée de Guyane et à l'assemblée de Martinique sont remplacées, respectivement, par les références au conseil régional de Guyane et au conseil régional de Martinique."
+      "content": "Pour l'application de la présente loi en Guyane et en Martinique jusqu'à la date de la première réunion suivant la première élection de l'assemblée de Guyane et de l'assemblée de Martinique créées en application de la loi n° 2011-884 du 27 juillet 2011 relative aux collectivités territoriales de Guyane et de Martinique :\n\n1° Les références à la collectivité territoriale de Guyane sont remplacées par les références à la région de Guyane, à l'exception de celles figurant à l'article 47 et au deuxième alinéa de l'article 48 où elles sont remplacées par les références au département de Guyane ;\n\n2° Les références à la collectivité territoriale de Martinique sont remplacées par les références à la région de Martinique ;\n\n3° Les références à l'assemblée de Guyane et à l'assemblée de Martinique sont remplacées, respectivement, par les références au conseil régional de Guyane et au conseil régional de Martinique.",
+      "valid_from": "2015-07-01"
     },
     {
       "provision_ref": "art52",
       "section": "52",
       "title": "Article 52",
-      "content": "Un décret fixe, en tant que de besoin, les modalités d'application de la présente loi, notamment celles :1° De la section 2 du chapitre IV du titre Ier, en particulier pour ce qui concerne les régularisations auxquelles les assujettis peuvent procéder, les délais de dépôt des demandes de remboursement et les seuils applicables à ces demandes ;2° Du chapitre VII du titre Ier relatif aux obligations déclaratives auxquelles sont soumises les personnes assujetties à l'octroi de mer à raison des opérations réalisées conformément au 2° de l'article 1er, en particulier pour ce qui concerne le contenu des déclarations ainsi que les conditions et délais dans lesquels elles doivent être remises à l'administration, notamment en cas de cession ou de cessation d'activité ;3° Des articles 31, 38 et 39."
+      "content": "Un décret fixe, en tant que de besoin, les modalités d'application de la présente loi, notamment celles :1° De la section 2 du chapitre IV du titre Ier, en particulier pour ce qui concerne les régularisations auxquelles les assujettis peuvent procéder, les délais de dépôt des demandes de remboursement et les seuils applicables à ces demandes ;2° Du chapitre VII du titre Ier relatif aux obligations déclaratives auxquelles sont soumises les personnes assujetties à l'octroi de mer à raison des opérations réalisées conformément au 2° de l'article 1er, en particulier pour ce qui concerne le contenu des déclarations ainsi que les conditions et délais dans lesquels elles doivent être remises à l'administration, notamment en cas de cession ou de cessation d'activité ;3° Des articles 31, 38 et 39.",
+      "valid_from": "2004-08-01"
     },
     {
       "provision_ref": "art53",
       "section": "53",
       "title": "Article 53",
-      "content": "La loi n° 92-676 du 17 juillet 1992 relative à l'octroi de mer et portant mise en oeuvre de la décision du conseil des ministres des Communautés européennes n° 89-688 du 22 décembre 1989 est abrogée à compter du 31 juillet 2004.(alinéa modificateur)."
+      "content": "La loi n° 92-676 du 17 juillet 1992 relative à l'octroi de mer et portant mise en oeuvre de la décision du conseil des ministres des Communautés européennes n° 89-688 du 22 décembre 1989 est abrogée à compter du 31 juillet 2004.(alinéa modificateur).",
+      "valid_from": "2004-08-01"
     },
     {
       "provision_ref": "art54",
       "section": "54",
       "title": "Article 54",
-      "content": "Les dispositions de la présente loi entrent en vigueur à compter du 1er août 2004."
+      "content": "Les dispositions de la présente loi entrent en vigueur à compter du 1er août 2004.",
+      "valid_from": "2004-08-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

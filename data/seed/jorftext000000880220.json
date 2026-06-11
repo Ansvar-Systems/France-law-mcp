@@ -12,7 +12,14 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions de la présente loi sont applicables aux enfants naturels nés avant son entrée en vigueur. Ceux-ci ne pourront néanmoins demander à s'en prévaloir dans les successions déjà liquidées."
+      "content": "Les dispositions de la présente loi sont applicables aux enfants naturels nés avant son entrée en vigueur. Ceux-ci ne pourront néanmoins demander à s'en prévaloir dans les successions déjà liquidées.",
+      "valid_from": "1982-06-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

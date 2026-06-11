@@ -12,25 +12,35 @@
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "III.-A l'article L. 251-1 du code de l'action sociale et des familles dans sa version applicable à Mayotte (1), la référence à l'ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers à Mayotte est remplacée par la référence au code de l'entrée et du séjour des étrangers et du droit d'asile."
+      "content": "A abrogé les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIII.-A l'article L. 251-1 du code de l'action sociale et des familles dans sa version applicable à Mayotte (1), la référence à l'ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers à Mayotte est remplacée par la référence au code de l'entrée et du séjour des étrangers et du droit d'asile.\n\nIV.-Pour l'application à Mayotte de dispositions législatives autres que celles mentionnées au présent article, les références aux dispositions de l'ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers à Mayotte sont remplacées par les références aux dispositions du code de l'entrée et du séjour des étrangers et du droit d'asile.\n\n-Ordonnance n° 2000-373 du 26 avril 2000\n\n-Code de l'organisation judiciaire\n\n-Code de l'action sociale et des familles\n\n-Code de la santé publique\n\n-Code de la sécurité intérieure",
+      "valid_from": "2014-05-26"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "L'observatoire prévu à l'article L. 111-11 du code de l'entrée et du séjour des étrangers et du droit d'asile est convoqué par le représentant de l'Etat à Mayotte dans un délai de six mois à compter de la publication de la présente ordonnance."
+      "content": "L'observatoire prévu à l'article L. 111-11 du code de l'entrée et du séjour des étrangers et du droit d'asile est convoqué par le représentant de l'Etat à Mayotte dans un délai de six mois à compter de la publication de la présente ordonnance.",
+      "valid_from": "2014-05-26"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 26 mai 2014."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 26 mai 2014.",
+      "valid_from": "2014-05-26"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'intérieur et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'intérieur et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2014-05-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

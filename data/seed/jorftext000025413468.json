@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le 11 novembre, jour anniversaire de l'armistice de 1918 et de commémoration annuelle de la victoire et de la Paix, il est rendu hommage à tous les morts pour la France.Cet hommage ne se substitue pas aux autres journées de commémoration nationales."
+      "content": "Le 11 novembre, jour anniversaire de l'armistice de 1918 et de commémoration annuelle de la victoire et de la Paix, il est rendu hommage à tous les morts pour la France.Cet hommage ne se substitue pas aux autres journées de commémoration nationales.",
+      "valid_from": "2012-03-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente loi est applicable sur l'ensemble du territoire de la République."
+      "content": "La présente loi est applicable sur l'ensemble du territoire de la République.",
+      "valid_from": "2012-03-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

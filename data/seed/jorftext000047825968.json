@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 2021-1200 du 15 septembre 2021 relative aux titres Ier et II de la partie législative du livre VII du code monétaire et financier est ratifiée.L'ordonnance n° 2022-230 du 15 février 2022 relative aux titres III à VIII de la partie législative du livre VII du code monétaire et financier est ratifiée.L'ordonnance n° 2022-1229 du 14 septembre 2022 modifiant l'ordonnance n° 2021-1735 du 22 décembre 2021 modernisant le cadre relatif au financement participatif et l'ordonnance n° 2022-230 du 15 février 2022 relatif aux titres III à VIII de la partie législative du livre VII du code monétaire et financier est ratifiée."
+      "content": "L'ordonnance n° 2021-1200 du 15 septembre 2021 relative aux titres Ier et II de la partie législative du livre VII du code monétaire et financier est ratifiée.L'ordonnance n° 2022-230 du 15 février 2022 relative aux titres III à VIII de la partie législative du livre VII du code monétaire et financier est ratifiée.L'ordonnance n° 2022-1229 du 14 septembre 2022 modifiant l'ordonnance n° 2021-1735 du 22 décembre 2021 modernisant le cadre relatif au financement participatif et l'ordonnance n° 2022-230 du 15 février 2022 relatif aux titres III à VIII de la partie législative du livre VII du code monétaire et financier est ratifiée.",
+      "valid_from": "2023-07-15"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I.-A modifié les dispositions suivantes :\n\n-Code monétaire et financier\n\nII.-Le b du 5° du I entre en vigueur le 1er janvier 2024."
+      "content": "I.-A modifié les dispositions suivantes :\n\n-Code monétaire et financier\n\nII.-Le b du 5° du I entre en vigueur le 1er janvier 2024.",
+      "valid_from": "2023-07-15"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les articles L. 721-14, L. 721-15, L. 721-24 et L. 721-26 du code monétaire et financier, dans leur rédaction résultant de la présente loi, s'appliquent à compter du 1er janvier 2024 aux comptes d'épargne réglementée et à partir du 1er janvier 2025 à la déclaration des coffres-forts, des mandataires et des bénéficiaires effectifs de personnes morales.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Les articles L. 721-14, L. 721-15, L. 721-24 et L. 721-26 du code monétaire et financier, dans leur rédaction résultant de la présente loi, s'appliquent à compter du 1er janvier 2024 aux comptes d'épargne réglementée et à partir du 1er janvier 2025 à la déclaration des coffres-forts, des mandataires et des bénéficiaires effectifs de personnes morales.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2023-07-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

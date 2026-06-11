@@ -12,13 +12,21 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "I. - Le chapitre Ier s'applique aux crédits et réductions d'impôt calculés au titre des exercices clos à compter du 31 décembre 2015.II. - Les articles 3 et 4 s'appliquent aux déclarations souscrites à compter du 1er février 2016.III. - 1° Le 1° de l'article 6 s'applique aux retenues effectuées à compter du 1er janvier 2016 ;2° Le 2° du même article s'applique aux exercices clos à compter du 31 décembre 2015.IV. - Le chapitre V entre en vigueur le 1er janvier 2016.V. - Le chapitre VI s'applique aux distributions mises en paiement à compter du 1er janvier 2015.VI. - Le chapitre VII s'applique aux états de suivi joints aux déclarations de résultats des exercices clos à compter de la date d'entrée en vigueur de la présente ordonnance."
+      "content": "I. - Le chapitre Ier s'applique aux crédits et réductions d'impôt calculés au titre des exercices clos à compter du 31 décembre 2015.II. - Les articles 3 et 4 s'appliquent aux déclarations souscrites à compter du 1er février 2016.III. - 1° Le 1° de l'article 6 s'applique aux retenues effectuées à compter du 1er janvier 2016 ;2° Le 2° du même article s'applique aux exercices clos à compter du 31 décembre 2015.IV. - Le chapitre V entre en vigueur le 1er janvier 2016.V. - Le chapitre VI s'applique aux distributions mises en paiement à compter du 1er janvier 2015.VI. - Le chapitre VII s'applique aux états de suivi joints aux déclarations de résultats des exercices clos à compter de la date d'entrée en vigueur de la présente ordonnance.",
+      "valid_from": "2015-06-20"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Le Premier ministre et le ministre des finances et des comptes publics sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre des finances et des comptes publics sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2015-06-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Afin de mieux accompagner les personnes touchées par la covid-19, une plateforme de suivi est mise en place. Elle peut se décliner sous toutes les formes proposées par les technologies, notamment des sites internet et des applications. Elle permet à tous les patients qui le souhaitent de se faire référencer comme souffrant ou ayant souffert de symptômes post-covid. Son accès est gratuit.Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, précise les modalités d'application de la plateforme."
+      "content": "Afin de mieux accompagner les personnes touchées par la covid-19, une plateforme de suivi est mise en place. Elle peut se décliner sous toutes les formes proposées par les technologies, notamment des sites internet et des applications. Elle permet à tous les patients qui le souhaitent de se faire référencer comme souffrant ou ayant souffert de symptômes post-covid. Son accès est gratuit.Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, précise les modalités d'application de la plateforme.",
+      "valid_from": "2022-01-26"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Après traitement des déclarations enregistrées sur la plateforme de suivi, les personnes, majeures ou mineures, ayant des symptômes persistants de la covid-19 sont prises en charge soit par leur médecin traitant dans le cadre d'un protocole déterminé, soit dans une unité de soins post-covid pour les malades atteints de pathologies plus lourdes.L'agence régionale de santé facilite une mise en œuvre rapide des unités de soins post-covid dans les établissements hospitaliers de proximité, en veillant à leur apporter les moyens humains et financiers permettant de développer un suivi personnalisé à la hauteur de ces symptômes persistants.Les analyses et les soins liés à la covid-19 et remboursés par l'assurance maladie en application de l'article L. 160-8 du code de la sécurité sociale sont couverts intégralement, dans la limite des tarifs de responsabilité, par la prise en charge conjointe de l'assurance maladie et des contrats mentionnés à l'article L. 871-1 du même code ou de la protection complémentaire en matière de santé mentionnée à l'article L. 861-1 dudit code.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Après traitement des déclarations enregistrées sur la plateforme de suivi, les personnes, majeures ou mineures, ayant des symptômes persistants de la covid-19 sont prises en charge soit par leur médecin traitant dans le cadre d'un protocole déterminé, soit dans une unité de soins post-covid pour les malades atteints de pathologies plus lourdes.L'agence régionale de santé facilite une mise en œuvre rapide des unités de soins post-covid dans les établissements hospitaliers de proximité, en veillant à leur apporter les moyens humains et financiers permettant de développer un suivi personnalisé à la hauteur de ces symptômes persistants.Les analyses et les soins liés à la covid-19 et remboursés par l'assurance maladie en application de l'article L. 160-8 du code de la sécurité sociale sont couverts intégralement, dans la limite des tarifs de responsabilité, par la prise en charge conjointe de l'assurance maladie et des contrats mentionnés à l'article L. 871-1 du même code ou de la protection complémentaire en matière de santé mentionnée à l'article L. 861-1 dudit code.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2022-01-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

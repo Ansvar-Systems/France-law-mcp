@@ -12,553 +12,651 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. - A., B., II. : paragraphes modificateursI. -  C. - La dotation prévue au premier alinéa du IV de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986) est majorée d'un montant global de 30 millions d'euros versés, chaque année, à hauteur de 25 %, de 2004 à 2007.III. - Pour le calcul de la compensation prévue par le II du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), les compléments de bases nettes imposables au titre de 1999 afférents aux salaires imposés par voie de rôles supplémentaires donnent lieu à un complément de compensation à compter de l'année suivant celle de la mise en recouvrement desdits rôles. Les dégrèvements contentieux prononcés au titre de 1999 afférents aux salaires imposés donnent lieu à une minoration de la compensation à compter de l'année qui suit celle de la décision du dégrèvement.IV. - Pour le calcul de la compensation prévue par le B de l'article 26 de la loi de finances pour 2003 (n° 2002-1575 du 30 décembre 2002), les compléments de bases nettes imposables au titre de 2003, afférents aux recettes visées au premier alinéa du 2° de l'article 1467 du code général des impôts, imposés par voie de rôles supplémentaires, donnent lieu à un complément de compensation à compter de l'année suivant celle de la mise en recouvrement desdits rôles. Les dégrèvements contentieux prononcés au titre de 2003 afférents aux recettes imposées donnent lieu à une minoration de la compensation à compter de l'année qui suit celle de la décision du dégrèvement.V. - A. - A compter de 2005, la compensation prévue au III de l'article 9 de la loi de finances pour 1993 (n° 92-1376 du 30 décembre 1992) est calculée à partir des pertes de recettes constatées dans les rôles généraux de l'année courante et dans les rôles supplémentaires d'imposition émis au cours de l'année précédente. Le bénéficiaire de cette compensation est la collectivité territoriale qui bénéficie, au titre de l'année courante, du rôle général de taxe foncière sur les propriétés non bâties ou de taxe spéciale d'équipement additionnelle à la taxe foncière sur les propriétés non bâties en ce qui concerne la région d'Ile-de-France.B. - La compensation prévue au III de l'article 9 de la loi de finances pour 1993 précitée est majorée d'un montant de 655 000 Euros en 2004.VI. - A. - A compter de 2005, la compensation prévue au III de l'article 2 de la loi n° 94-1131 du 27 décembre 1994 portant statut fiscal de la Corse est calculée à partir des pertes de recettes constatées dans les rôles généraux de l'année courante et dans les rôles supplémentaires d'imposition émis au cours de l'année précédente. Le bénéficiaire de cette compensation est la commune ou l'établissement public de coopération intercommunale doté d'une fiscalité propre qui bénéficie du rôle général de taxe professionnelle au titre de l'année courante ainsi que la collectivité territoriale de Corse et les départements de la Corse-du-Sud et de la Haute-Corse.B. - La compensation prévue au III de l'article 2 de la loi n° 94-1131 du 27 décembre 1994 précitée est majorée d'un montant de 332 000 Euros en 2004.VII. - Sous réserve des décisions de justice passées en force de chose jugée, les dotations versées en application du II de l'article 13, du II de l'article 14 et du II de l'article 18 de la loi de finances rectificative pour 1982 (n° 82-540 du 28 juin 1982), du II du D de l'article 44 de la loi de finances pour 1999 précitée, du II du B de l'article 26 de la loi de finances pour 2003 précitée, du III de l'article 9 de la loi de finances pour 1993 précitée et du III de l'article 2 de la loi n° 94-1131 du 27 décembre 1994 précitée sont réputées régulières en tant que leur légalité serait contestée sur le fondement de l'absence de prise en compte des pertes de recettes comprises dans les rôles supplémentaires."
+      "content": "I. - A., B., II. : paragraphes modificateursI. -  C. - La dotation prévue au premier alinéa du IV de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986) est majorée d'un montant global de 30 millions d'euros versés, chaque année, à hauteur de 25 %, de 2004 à 2007.III. - Pour le calcul de la compensation prévue par le II du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), les compléments de bases nettes imposables au titre de 1999 afférents aux salaires imposés par voie de rôles supplémentaires donnent lieu à un complément de compensation à compter de l'année suivant celle de la mise en recouvrement desdits rôles. Les dégrèvements contentieux prononcés au titre de 1999 afférents aux salaires imposés donnent lieu à une minoration de la compensation à compter de l'année qui suit celle de la décision du dégrèvement.IV. - Pour le calcul de la compensation prévue par le B de l'article 26 de la loi de finances pour 2003 (n° 2002-1575 du 30 décembre 2002), les compléments de bases nettes imposables au titre de 2003, afférents aux recettes visées au premier alinéa du 2° de l'article 1467 du code général des impôts, imposés par voie de rôles supplémentaires, donnent lieu à un complément de compensation à compter de l'année suivant celle de la mise en recouvrement desdits rôles. Les dégrèvements contentieux prononcés au titre de 2003 afférents aux recettes imposées donnent lieu à une minoration de la compensation à compter de l'année qui suit celle de la décision du dégrèvement.V. - A. - A compter de 2005, la compensation prévue au III de l'article 9 de la loi de finances pour 1993 (n° 92-1376 du 30 décembre 1992) est calculée à partir des pertes de recettes constatées dans les rôles généraux de l'année courante et dans les rôles supplémentaires d'imposition émis au cours de l'année précédente. Le bénéficiaire de cette compensation est la collectivité territoriale qui bénéficie, au titre de l'année courante, du rôle général de taxe foncière sur les propriétés non bâties ou de taxe spéciale d'équipement additionnelle à la taxe foncière sur les propriétés non bâties en ce qui concerne la région d'Ile-de-France.B. - La compensation prévue au III de l'article 9 de la loi de finances pour 1993 précitée est majorée d'un montant de 655 000 Euros en 2004.VI. - A. - A compter de 2005, la compensation prévue au III de l'article 2 de la loi n° 94-1131 du 27 décembre 1994 portant statut fiscal de la Corse est calculée à partir des pertes de recettes constatées dans les rôles généraux de l'année courante et dans les rôles supplémentaires d'imposition émis au cours de l'année précédente. Le bénéficiaire de cette compensation est la commune ou l'établissement public de coopération intercommunale doté d'une fiscalité propre qui bénéficie du rôle général de taxe professionnelle au titre de l'année courante ainsi que la collectivité territoriale de Corse et les départements de la Corse-du-Sud et de la Haute-Corse.B. - La compensation prévue au III de l'article 2 de la loi n° 94-1131 du 27 décembre 1994 précitée est majorée d'un montant de 332 000 Euros en 2004.VII. - Sous réserve des décisions de justice passées en force de chose jugée, les dotations versées en application du II de l'article 13, du II de l'article 14 et du II de l'article 18 de la loi de finances rectificative pour 1982 (n° 82-540 du 28 juin 1982), du II du D de l'article 44 de la loi de finances pour 1999 précitée, du II du B de l'article 26 de la loi de finances pour 2003 précitée, du III de l'article 9 de la loi de finances pour 1993 précitée et du III de l'article 2 de la loi n° 94-1131 du 27 décembre 1994 précitée sont réputées régulières en tant que leur légalité serait contestée sur le fondement de l'absence de prise en compte des pertes de recettes comprises dans les rôles supplémentaires.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les personnes qui exploitent des serres dans le cadre de leur activité de production agricole et utilisent du gaz naturel comme combustible pour leur chauffage peuvent obtenir, sur demande de leur part, un remboursement de la taxe intérieure mentionnée à l'article 266 quinquies du code des douanes pour les quantités livrées entre le 1er juillet et le 31 décembre 2004.Le montant du remboursement est fixé à 0,71 Euros par millier de kilowattheures.Seules les personnes mentionnées au premier alinéa, dont les consommations de gaz naturel ont été effectivement soumises à la taxe intérieure en 2004 dans les conditions prévues au 2 de l'article 266 quinquies précité, peuvent présenter une demande de remboursement. Ces demandes seront adressées aux services et organismes désignés par décret dans les conditions qui y seront fixées."
+      "content": "Les personnes qui exploitent des serres dans le cadre de leur activité de production agricole et utilisent du gaz naturel comme combustible pour leur chauffage peuvent obtenir, sur demande de leur part, un remboursement de la taxe intérieure mentionnée à l'article 266 quinquies du code des douanes pour les quantités livrées entre le 1er juillet et le 31 décembre 2004.Le montant du remboursement est fixé à 0,71 Euros par millier de kilowattheures.Seules les personnes mentionnées au premier alinéa, dont les consommations de gaz naturel ont été effectivement soumises à la taxe intérieure en 2004 dans les conditions prévues au 2 de l'article 266 quinquies précité, peuvent présenter une demande de remboursement. Ces demandes seront adressées aux services et organismes désignés par décret dans les conditions qui y seront fixées.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "En recettes, le compte de commerce n° 904-11 Régie industrielle des établissements pénitentiaires peut bénéficier en 2004 d'un versement du budget général."
+      "content": "En recettes, le compte de commerce n° 904-11 Régie industrielle des établissements pénitentiaires peut bénéficier en 2004 d'un versement du budget général.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "L'ajustement des recettes tel qu'il résulte des évaluations révisées figurant à l'état A annexé à la présente loi et le supplément de charges du budget de l'Etat pour 2004 sont fixés ainsi qu'il suit : (Tableau non reproduit)."
+      "content": "L'ajustement des recettes tel qu'il résulte des évaluations révisées figurant à l'état A annexé à la présente loi et le supplément de charges du budget de l'Etat pour 2004 sont fixés ainsi qu'il suit : (Tableau non reproduit).",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Il est ouvert aux ministres, au titre des dépenses ordinaires des services civils pour 2004, des crédits supplémentaires s'élevant à la somme totale de 4 579 022 492 Euros, conformément à la répartition par titre et par ministère qui est donnée à l'état B annexé à la présente loi."
+      "content": "Il est ouvert aux ministres, au titre des dépenses ordinaires des services civils pour 2004, des crédits supplémentaires s'élevant à la somme totale de 4 579 022 492 Euros, conformément à la répartition par titre et par ministère qui est donnée à l'état B annexé à la présente loi.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Il est annulé, au titre des dépenses ordinaires des services civils pour 2004, des crédits s'élevant à la somme totale de 1 799 886 682 Euros, conformément à la répartition par titre et par ministère qui est donnée à l'état B annexé à la présente loi."
+      "content": "Il est annulé, au titre des dépenses ordinaires des services civils pour 2004, des crédits s'élevant à la somme totale de 1 799 886 682 Euros, conformément à la répartition par titre et par ministère qui est donnée à l'état B annexé à la présente loi.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Il est ouvert aux ministres, au titre des dépenses en capital des services civils pour 2004, des autorisations de programme et des crédits de paiement supplémentaires s'élevant respectivement aux sommes totales de 2 804 226 531 Euros et 870 936 299 Euros, conformément à la répartition par titre et par ministère qui est donnée à l'état C annexé à la présente loi."
+      "content": "Il est ouvert aux ministres, au titre des dépenses en capital des services civils pour 2004, des autorisations de programme et des crédits de paiement supplémentaires s'élevant respectivement aux sommes totales de 2 804 226 531 Euros et 870 936 299 Euros, conformément à la répartition par titre et par ministère qui est donnée à l'état C annexé à la présente loi.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Il est annulé, au titre des dépenses en capital des services civils pour 2004, des autorisations de programme et des crédits de paiement s'élevant respectivement aux sommes totales de 955 871 295 Euros et 367 908 434 Euros, conformément à la répartition par titre et par ministère qui est donnée à l'état C annexé à la présente loi."
+      "content": "Il est annulé, au titre des dépenses en capital des services civils pour 2004, des autorisations de programme et des crédits de paiement s'élevant respectivement aux sommes totales de 955 871 295 Euros et 367 908 434 Euros, conformément à la répartition par titre et par ministère qui est donnée à l'état C annexé à la présente loi.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Il est ouvert à la ministre de la défense, au titre des dépenses ordinaires des services militaires pour 2004, des crédits supplémentaires s'élevant à la somme totale de 209 840 000 Euros."
+      "content": "Il est ouvert à la ministre de la défense, au titre des dépenses ordinaires des services militaires pour 2004, des crédits supplémentaires s'élevant à la somme totale de 209 840 000 Euros.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Il est annulé, au titre des dépenses ordinaires des services militaires pour 2004, une autorisation de programme s'élevant à la somme de 250 000 000 Euros."
+      "content": "Il est annulé, au titre des dépenses ordinaires des services militaires pour 2004, une autorisation de programme s'élevant à la somme de 250 000 000 Euros.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Il est ouvert à la ministre de la défense, au titre des dépenses en capital des services militaires pour 2004, des autorisations de programme et des crédits de paiement s'élevant respectivement aux sommes totales de 575 508 850 Euros et 660 508 850 Euros."
+      "content": "Il est ouvert à la ministre de la défense, au titre des dépenses en capital des services militaires pour 2004, des autorisations de programme et des crédits de paiement s'élevant respectivement aux sommes totales de 575 508 850 Euros et 660 508 850 Euros.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Il est annulé, au titre des dépenses en capital des services militaires pour 2004, une autorisation de programme s'élevant à la somme de 221 000 000 Euros."
+      "content": "Il est annulé, au titre des dépenses en capital des services militaires pour 2004, une autorisation de programme s'élevant à la somme de 221 000 000 Euros.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Il est annulé, au titre des dépenses ordinaires pour 2004 du compte d'affectation spéciale n° 902-25 Fonds d'intervention pour les aéroports et le transport aérien, un crédit s'élevant à la somme de 12 000 000 Euros."
+      "content": "Il est annulé, au titre des dépenses ordinaires pour 2004 du compte d'affectation spéciale n° 902-25 Fonds d'intervention pour les aéroports et le transport aérien, un crédit s'élevant à la somme de 12 000 000 Euros.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Il est ouvert au ministre chargé de l'économie, des finances et de l'industrie, au titre des dépenses en capital du compte de prêts n° 903-07 Prêts du Trésor à des États étrangers et à l'Agence française de développement en vue de favoriser le développement économique et social, une autorisation de programme supplémentaire s'élevant à la somme de 232 000 000 Euros."
+      "content": "Il est ouvert au ministre chargé de l'économie, des finances et de l'industrie, au titre des dépenses en capital du compte de prêts n° 903-07 Prêts du Trésor à des États étrangers et à l'Agence française de développement en vue de favoriser le développement économique et social, une autorisation de programme supplémentaire s'élevant à la somme de 232 000 000 Euros.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Sont ratifiés les crédits ouverts par les décrets n° 2004-544 du 14 juin 2004, n° 2004-817 du 19 août 2004, n° 2004-931 du 3 septembre 2004 et n° 2004-1146 du 28 octobre 2004, portant ouverture de crédits à titre d'avance."
+      "content": "Sont ratifiés les crédits ouverts par les décrets n° 2004-544 du 14 juin 2004, n° 2004-817 du 19 août 2004, n° 2004-931 du 3 septembre 2004 et n° 2004-1146 du 28 octobre 2004, portant ouverture de crédits à titre d'avance.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I sont applicables aux demandes adressées à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I sont applicables aux demandes adressées à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du 2° du I s'appliquent aux procédures amiables ouvertes à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du 2° du I s'appliquent aux procédures amiables ouvertes à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "I. II. (paragraphes modificateurs).III. - Les dispositions des I et II s'appliquent à compter du 1er janvier 2005."
+      "content": "I. II. (paragraphes modificateurs).III. - Les dispositions des I et II s'appliquent à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I sont applicables aux demandes adressées à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I sont applicables aux demandes adressées à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "I. II. (paragraphes modificateurs).III. - Les dispositions des I et II entrent en vigueur à compter du 1er janvier 2005 et celles de l'article 1609 quinvicies du code général des impôts sont abrogés à compter du 1er janvier 2005.La taxe prévue à l'article 1609 quinvicies précité, due au titre de l'année 2004, est recouvrée selon les modalités prévues par cet article dans sa rédaction au 31 décembre 2004."
+      "content": "I. II. (paragraphes modificateurs).III. - Les dispositions des I et II entrent en vigueur à compter du 1er janvier 2005 et celles de l'article 1609 quinvicies du code général des impôts sont abrogés à compter du 1er janvier 2005.La taxe prévue à l'article 1609 quinvicies précité, due au titre de l'année 2004, est recouvrée selon les modalités prévues par cet article dans sa rédaction au 31 décembre 2004.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "I. (paragraphe modificateur).II. - 1. Les dispositions du 1° du I sont applicables aux demandes présentées à compter du 1er janvier 2005.2. Les dispositions du 2° du I sont applicables aux contrôles engagés à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - 1. Les dispositions du 1° du I sont applicables aux demandes présentées à compter du 1er janvier 2005.2. Les dispositions du 2° du I sont applicables aux contrôles engagés à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "I. II. (paragraphes modificateurs).III. - Les dispositions des I et II sont applicables aux propositions de rectification adressées à compter du 1er janvier 2005."
+      "content": "I. II. (paragraphes modificateurs).III. - Les dispositions des I et II sont applicables aux propositions de rectification adressées à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter du 1er novembre 2004."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter du 1er novembre 2004.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "I. II. III. (paragraphes modificateurs).IV. - Les dispositions du présent article s'appliquent à compter du 1er février 2005."
+      "content": "I. II. III. (paragraphes modificateurs).IV. - Les dispositions du présent article s'appliquent à compter du 1er février 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent aux déclarations souscrites à compter du 1er janvier 2007."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent aux déclarations souscrites à compter du 1er janvier 2007.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent aux contribuables qui transfèrent leur domicile hors de France à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent aux contribuables qui transfèrent leur domicile hors de France à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter de l'imposition des revenus de 2004."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter de l'imposition des revenus de 2004.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent pour la détermination des résultats des exercices clos à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent pour la détermination des résultats des exercices clos à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art33",
       "section": "33",
       "title": "Article 33",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I sont applicables à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I sont applicables à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du 2° du I sont applicables aux cotisations versées à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du 2° du I sont applicables aux cotisations versées à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "I. (paragraphe modificateur).II. - 1. Les dispositions du 1° du I s'appliquent pour l'imposition des revenus perçus à compter du 1er janvier 2005.2. Les dispositions du 2° du I s'appliquent pour l'imposition des revenus réalisés à compter du 1er janvier 2004."
+      "content": "I. (paragraphe modificateur).II. - 1. Les dispositions du 1° du I s'appliquent pour l'imposition des revenus perçus à compter du 1er janvier 2005.2. Les dispositions du 2° du I s'appliquent pour l'imposition des revenus réalisés à compter du 1er janvier 2004.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "I. à VIII. (paragraphes modificateurs).IX. - 1. Les dispositions des 1°, 3°, 4°, 5° et 6° du I, du II, des 1°, 2°, 3°, 4°, 5°, 7° et 9° du III et du IV s'appliquent aux revenus distribués ou répartis perçus à compter du 1er janvier 2005.2. Les dispositions du a du 2° du I s'appliquent aux rapports et propositions de résolution soumis aux assemblées générales d'actionnaires ou d'associés tenues à compter du 1er janvier 2005, pour les revenus distribués mis en paiement à compter du 1er janvier 2005, et celles du b du 2° du I s'appliquent aux revenus distribués résultant de décisions intervenues à compter de cette même date. S'agissant des décisions des assemblées générales d'actionnaires ou d'associés tenues antérieurement au 1er janvier 2005, ou de décisions intervenues antérieurement à cette même date, et prévoyant une mise en paiement des distributions à compter du 1er janvier 2005, les informations prévues à l'article 243 bis doivent être communiquées aux établissements payeurs au plus tard à la date de la mise en paiement de ces distributions.3. Les dispositions du 6° du III et du VIII s'appliquent aux distributions mises en paiement à compter du 1er janvier 2005.4. Les dispositions du V s'appliquent à compter de l'imposition des revenus de l'année 2005."
+      "content": "I. à VIII. (paragraphes modificateurs).IX. - 1. Les dispositions des 1°, 3°, 4°, 5° et 6° du I, du II, des 1°, 2°, 3°, 4°, 5°, 7° et 9° du III et du IV s'appliquent aux revenus distribués ou répartis perçus à compter du 1er janvier 2005.2. Les dispositions du a du 2° du I s'appliquent aux rapports et propositions de résolution soumis aux assemblées générales d'actionnaires ou d'associés tenues à compter du 1er janvier 2005, pour les revenus distribués mis en paiement à compter du 1er janvier 2005, et celles du b du 2° du I s'appliquent aux revenus distribués résultant de décisions intervenues à compter de cette même date. S'agissant des décisions des assemblées générales d'actionnaires ou d'associés tenues antérieurement au 1er janvier 2005, ou de décisions intervenues antérieurement à cette même date, et prévoyant une mise en paiement des distributions à compter du 1er janvier 2005, les informations prévues à l'article 243 bis doivent être communiquées aux établissements payeurs au plus tard à la date de la mise en paiement de ces distributions.3. Les dispositions du 6° du III et du VIII s'appliquent aux distributions mises en paiement à compter du 1er janvier 2005.4. Les dispositions du V s'appliquent à compter de l'imposition des revenus de l'année 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art39",
       "section": "39",
       "title": "Article 39",
-      "content": "I. II. III. (paragraphes modificateurs).IV. - Les sommes portées à la réserve spéciale mentionnée au 1 de l'article 209 quater du code général des impôts inscrite au bilan à la clôture du premier exercice clos à compter du 31 décembre 2004 sont virées à un autre compte de réserve avant le 31 décembre 2005 dans la limite de 200 millions d'euros.Les personnes morales passibles de l'impôt sur les sociétés sont soumises à une taxe exceptionnelle de 2,5 % assise sur le montant des sommes virées dans les conditions mentionnées au premier alinéa, augmentées de celles incorporées au capital et des pertes imputées sur la réserve spéciale depuis le 1er septembre 2004, sous déduction d'un abattement de 500 000 Euros. Cette taxe est prélevée en priorité sur l'autre compte de réserve mentionné au même alinéa.Jusqu'au 31 décembre 2006, les entreprises peuvent opter pour le virement de tout ou partie de la fraction de la réserve spéciale qui excède le plafond de 200 millions d'euros à l'autre compte de réserve mentionné au premier alinéa. Ces sommes sont alors assujetties, dans leur intégralité, à la taxe exceptionnelle prévue à l'alinéa précédent.Les sommes virées dans les conditions prévues aux premier et troisième alinéas ne donnent pas lieu à application des dispositions du 2 de l'article 209 quater du code général des impôts.Pour l'appréciation du plafond de 200 millions d'euros mentionné au premier alinéa, il est tenu compte du total de la réserve spéciale inscrit au bilan de chaque société.En cas de non-respect des dispositions prévues au premier alinéa, la fraction de la réserve spéciale correspondante supporte la taxe exceptionnelle mentionnée au deuxième alinéa au taux de 5 %.Les sociétés membres d'un groupe fiscal au sens de l'article 223 A du code général des impôts sont soumises à cette taxe exceptionnelle dans les conditions prévues aux deux premiers alinéas au titre de leur propre réserve spéciale. La société mère est redevable de la taxe due par les sociétés filiales du groupe. Chaque société filiale du groupe est tenue solidairement au paiement de cette taxe et, le cas échéant, des intérêts de retard, majorations et amendes fiscales correspondantes, dont la société mère est redevable, à hauteur de la taxe et des pénalités qui seraient dues par la société si celle-ci n'était pas membre du groupe.La taxe due par les sociétés agréées au régime du bénéfice consolidé prévu à l'article 209 quinquies du code général des impôts n'est ni imputable ni restituable.Cette taxe est établie, contrôlée et recouvrée comme l'impôt sur les sociétés et sous les mêmes garanties et sanctions.La taxe exceptionnelle est payée spontanément au comptable de la direction générale des impôts. Elle est acquittée pour moitié à la date du 15 mars 2006. Le solde est acquitté à la date du 15 mars 2007.La taxe n'est pas admise dans les charges déductibles pour l'établissement de l'impôt sur les sociétés.Les avoirs fiscaux ou crédits d'impôt de toute nature ainsi que la créance visée à l'article 220 quinquies du code général des impôts et l'imposition forfaitaire annuelle mentionnée à l'article 223 septies du même code ne sont pas imputables sur cette taxe. Il en est de même de la créance résultant du prélèvement prévu à l'article 95 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003).V. - Un décret précise les obligations déclaratives et la définition des sociétés à prépondérance immobilière."
+      "content": "I. II. III. (paragraphes modificateurs).IV. - Les sommes portées à la réserve spéciale mentionnée au 1 de l'article 209 quater du code général des impôts inscrite au bilan à la clôture du premier exercice clos à compter du 31 décembre 2004 sont virées à un autre compte de réserve avant le 31 décembre 2005 dans la limite de 200 millions d'euros.Les personnes morales passibles de l'impôt sur les sociétés sont soumises à une taxe exceptionnelle de 2,5 % assise sur le montant des sommes virées dans les conditions mentionnées au premier alinéa, augmentées de celles incorporées au capital et des pertes imputées sur la réserve spéciale depuis le 1er septembre 2004, sous déduction d'un abattement de 500 000 Euros. Cette taxe est prélevée en priorité sur l'autre compte de réserve mentionné au même alinéa.Jusqu'au 31 décembre 2006, les entreprises peuvent opter pour le virement de tout ou partie de la fraction de la réserve spéciale qui excède le plafond de 200 millions d'euros à l'autre compte de réserve mentionné au premier alinéa. Ces sommes sont alors assujetties, dans leur intégralité, à la taxe exceptionnelle prévue à l'alinéa précédent.Les sommes virées dans les conditions prévues aux premier et troisième alinéas ne donnent pas lieu à application des dispositions du 2 de l'article 209 quater du code général des impôts.Pour l'appréciation du plafond de 200 millions d'euros mentionné au premier alinéa, il est tenu compte du total de la réserve spéciale inscrit au bilan de chaque société.En cas de non-respect des dispositions prévues au premier alinéa, la fraction de la réserve spéciale correspondante supporte la taxe exceptionnelle mentionnée au deuxième alinéa au taux de 5 %.Les sociétés membres d'un groupe fiscal au sens de l'article 223 A du code général des impôts sont soumises à cette taxe exceptionnelle dans les conditions prévues aux deux premiers alinéas au titre de leur propre réserve spéciale. La société mère est redevable de la taxe due par les sociétés filiales du groupe. Chaque société filiale du groupe est tenue solidairement au paiement de cette taxe et, le cas échéant, des intérêts de retard, majorations et amendes fiscales correspondantes, dont la société mère est redevable, à hauteur de la taxe et des pénalités qui seraient dues par la société si celle-ci n'était pas membre du groupe.La taxe due par les sociétés agréées au régime du bénéfice consolidé prévu à l'article 209 quinquies du code général des impôts n'est ni imputable ni restituable.Cette taxe est établie, contrôlée et recouvrée comme l'impôt sur les sociétés et sous les mêmes garanties et sanctions.La taxe exceptionnelle est payée spontanément au comptable de la direction générale des impôts. Elle est acquittée pour moitié à la date du 15 mars 2006. Le solde est acquitté à la date du 15 mars 2007.La taxe n'est pas admise dans les charges déductibles pour l'établissement de l'impôt sur les sociétés.Les avoirs fiscaux ou crédits d'impôt de toute nature ainsi que la créance visée à l'article 220 quinquies du code général des impôts et l'imposition forfaitaire annuelle mentionnée à l'article 223 septies du même code ne sont pas imputables sur cette taxe. Il en est de même de la créance résultant du prélèvement prévu à l'article 95 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003).V. - Un décret précise les obligations déclaratives et la définition des sociétés à prépondérance immobilière.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art40",
       "section": "40",
       "title": "Article 40",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du présent article s'appliquent aux revenus et produits perçus ou inscrits en compte et aux cessions réalisées à compter du 1er janvier 2005.Toutefois, l'option pour l'assujettissement des produits ou revenus perçus ou inscrits en compte entre le 1er janvier 2005 et le 30 juin 2005 inclus au prélèvement prévu aux I et II de l'article 125 D du code général des impôts est exercée, et le paiement correspondant acquitté, au plus tard le 15 juillet 2005. Cette disposition s'applique également aux gains mentionnés à l'article 125 D précité lorsque la cession est réalisée au cours de la même période."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du présent article s'appliquent aux revenus et produits perçus ou inscrits en compte et aux cessions réalisées à compter du 1er janvier 2005.Toutefois, l'option pour l'assujettissement des produits ou revenus perçus ou inscrits en compte entre le 1er janvier 2005 et le 30 juin 2005 inclus au prélèvement prévu aux I et II de l'article 125 D du code général des impôts est exercée, et le paiement correspondant acquitté, au plus tard le 15 juillet 2005. Cette disposition s'applique également aux gains mentionnés à l'article 125 D précité lorsque la cession est réalisée au cours de la même période.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art41",
       "section": "41",
       "title": "Article 41",
-      "content": "I. (paragraphe modificateur).\n\nII. - 1. Les dispositions des 1° et 3° du I sont applicables aux résultats des exercices clos à compter du 16 décembre 2003, et jusqu'au 31 décembre 2006 inclus.\n\n2. Les dispositions des 4°, 5° et 6° du I s'appliquent à compter des impositions établies au titre de 2004."
+      "content": "I. (paragraphe modificateur).\n\nII. - 1. Les dispositions des 1° et 3° du I sont applicables aux résultats des exercices clos à compter du 16 décembre 2003, et jusqu'au 31 décembre 2006 inclus.\n\n2. Les dispositions des 4°, 5° et 6° du I s'appliquent à compter des impositions établies au titre de 2004.",
+      "valid_from": "2022-01-01"
     },
     {
       "provision_ref": "art42",
       "section": "42",
       "title": "Article 42",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions des A à D du I sont applicables aux opérations de fusions et assimilées réalisées à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions des A à D du I sont applicables aux opérations de fusions et assimilées réalisées à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art43",
       "section": "43",
       "title": "Article 43",
-      "content": "I. (paragraphe modificateur).\n\nII. - Les dispositions du I s'appliquent aux exercices clos à compter du 1er janvier 2005.\n\nIII. - Les dispositions du 4 bis de l'article 38 du code général des impôts s'appliquent également aux impositions établies à compter du 1er janvier 2005. Toutefois, lorsque ces dernières conduisent à imposer des sommes qui, en leur absence, auraient été atteintes par la prescription, les impositions correspondantes ne peuvent être assorties que des intérêts de retard."
+      "content": "I. (paragraphe modificateur).\n\nII. - Les dispositions du I s'appliquent aux exercices clos à compter du 1er janvier 2005.\n\nIII. - Les dispositions du 4 bis de l'article 38 du code général des impôts s'appliquent également aux impositions établies à compter du 1er janvier 2005. Toutefois, lorsque ces dernières conduisent à imposer des sommes qui, en leur absence, auraient été atteintes par la prescription, les impositions correspondantes ne peuvent être assorties que des intérêts de retard.",
+      "valid_from": "2010-12-11"
     },
     {
       "provision_ref": "art44",
       "section": "44",
       "title": "Article 44",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I sont applicables aux dividendes distribués à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I sont applicables aux dividendes distribués à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art45",
       "section": "45",
       "title": "Article 45",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent au crédit d'impôt calculé au titre des dépenses de recherche exposées à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent au crédit d'impôt calculé au titre des dépenses de recherche exposées à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art46",
       "section": "46",
       "title": "Article 46",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent aux dépenses exposées entre le 1er janvier 2005 et le 31 décembre 2007."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent aux dépenses exposées entre le 1er janvier 2005 et le 31 décembre 2007.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art47",
       "section": "47",
       "title": "Article 47",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent pour la détermination des résultats des exercices ouverts à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent pour la détermination des résultats des exercices ouverts à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art48",
       "section": "48",
       "title": "Article 48",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent aux dépenses exposées pour la production d'oeuvres cinématographiques ou audiovisuelles dont les prises de vues commencent à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent aux dépenses exposées pour la production d'oeuvres cinématographiques ou audiovisuelles dont les prises de vues commencent à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art49",
       "section": "49",
       "title": "Article 49",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter de l'imposition des revenus de l'année 2004.Le montant des dépenses supportées pour le compte du locataire par le propriétaire, dont il n'a pu obtenir le remboursement à la date du départ du locataire et qui a été pris en compte pour la détermination des revenus fonciers au titre des années antérieures à 2004, n'est pas admis en déduction."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter de l'imposition des revenus de l'année 2004.Le montant des dépenses supportées pour le compte du locataire par le propriétaire, dont il n'a pu obtenir le remboursement à la date du départ du locataire et qui a été pris en compte pour la détermination des revenus fonciers au titre des années antérieures à 2004, n'est pas admis en déduction.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art50",
       "section": "50",
       "title": "Article 50",
-      "content": "I. à V. (paragraphes modificateurs).VI. - Les dispositions du IV de l'article 72 de la loi n° 2004-810 du 13 août 2004 relative à l'assurance maladie sont applicables à compter du 1er janvier 2004.VII. - Les dispositions de la loi n° 76-660 du 19 juillet 1976 portant imposition des plus-values et création d'une taxe forfaitaire sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité sont abrogées à l'exception de celles prévues à l'article 8, aux VII et VIII de l'article 9 et aux articles 10 à 13 de cette loi.VIII. - Les dispositions prévues au a du 1°, aux c et e du 3° et au c du 6° du I s'appliquent pour l'imposition des plus-values réalisées lors des cessions à titre onéreux intervenues à compter du 1er janvier 2004.Les dispositions du b du 3° du I s'appliquent pour l'imposition des plus-values réalisées lors des cessions d'usufruit à titre onéreux intervenues à compter du 1er janvier 2004. Elles s'appliquent pour l'imposition des plus-values réalisées lors des cessions de la nue-propriété à titre onéreux intervenues à compter du 1er janvier 2005.Les autres dispositions du I et le VII s'appliquent pour l'imposition des plus-values réalisées lors des cessions à titre onéreux intervenues à compter du 1er janvier 2005."
+      "content": "I. à V. (paragraphes modificateurs).VI. - Les dispositions du IV de l'article 72 de la loi n° 2004-810 du 13 août 2004 relative à l'assurance maladie sont applicables à compter du 1er janvier 2004.VII. - Les dispositions de la loi n° 76-660 du 19 juillet 1976 portant imposition des plus-values et création d'une taxe forfaitaire sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité sont abrogées à l'exception de celles prévues à l'article 8, aux VII et VIII de l'article 9 et aux articles 10 à 13 de cette loi.VIII. - Les dispositions prévues au a du 1°, aux c et e du 3° et au c du 6° du I s'appliquent pour l'imposition des plus-values réalisées lors des cessions à titre onéreux intervenues à compter du 1er janvier 2004.Les dispositions du b du 3° du I s'appliquent pour l'imposition des plus-values réalisées lors des cessions d'usufruit à titre onéreux intervenues à compter du 1er janvier 2004. Elles s'appliquent pour l'imposition des plus-values réalisées lors des cessions de la nue-propriété à titre onéreux intervenues à compter du 1er janvier 2005.Les autres dispositions du I et le VII s'appliquent pour l'imposition des plus-values réalisées lors des cessions à titre onéreux intervenues à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art52",
       "section": "52",
       "title": "Article 52",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent aux cessions intervenues entre le 1er janvier et le 31 décembre 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent aux cessions intervenues entre le 1er janvier et le 31 décembre 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art53",
       "section": "53",
       "title": "Article 53",
-      "content": "I. II. III. (paragraphes modificateurs).IV. - Les dispositions du 1° du I, du deuxième alinéa du 2° du I, des 3° et 4° du I ainsi que du III s'appliquent à compter de 2005.V. - Pour l'année 2005, le taux de l'année précédente de la taxe prévue à l'article 1600 du code général des impôts est celui résultant du rapport constaté entre, d'une part, le produit arrêté par la chambre de commerce et d'industrie au titre de 2004, majoré le cas échéant du montant reporté au titre de cette même année conformément au III du même article dans sa rédaction en vigueur avant la publication de la présente loi et, d'autre part, le total des bases imposées au profit de la chambre de commerce et d'industrie au titre de 2004.Toutefois, lorsque les bases de l'année 2005 diminuent par rapport aux bases imposées au profit de la chambre de commerce et d'industrie en 2004 ou augmentent dans une proportion qui n'excède pas 1,5 %, ce taux est corrigé en proportion inverse de la variation des bases constatée entre 2004 et 2005 ; le taux ainsi corrigé peut être augmenté dans la limite de 1,5 %."
+      "content": "I. II. III. (paragraphes modificateurs).IV. - Les dispositions du 1° du I, du deuxième alinéa du 2° du I, des 3° et 4° du I ainsi que du III s'appliquent à compter de 2005.V. - Pour l'année 2005, le taux de l'année précédente de la taxe prévue à l'article 1600 du code général des impôts est celui résultant du rapport constaté entre, d'une part, le produit arrêté par la chambre de commerce et d'industrie au titre de 2004, majoré le cas échéant du montant reporté au titre de cette même année conformément au III du même article dans sa rédaction en vigueur avant la publication de la présente loi et, d'autre part, le total des bases imposées au profit de la chambre de commerce et d'industrie au titre de 2004.Toutefois, lorsque les bases de l'année 2005 diminuent par rapport aux bases imposées au profit de la chambre de commerce et d'industrie en 2004 ou augmentent dans une proportion qui n'excède pas 1,5 %, ce taux est corrigé en proportion inverse de la variation des bases constatée entre 2004 et 2005 ; le taux ainsi corrigé peut être augmenté dans la limite de 1,5 %.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art55",
       "section": "55",
       "title": "Article 55",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I sont applicables à compter des impositions établies au titre de 2005.Pour l'application de ces dispositions au titre de 2005, les délibérations mentionnées au premier alinéa de l'article 1382 C du code général des impôts doivent intervenir avant le 31 janvier 2005 et la déclaration prévue au deuxième alinéa de cet article doit être souscrite avant le 15 février 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I sont applicables à compter des impositions établies au titre de 2005.Pour l'application de ces dispositions au titre de 2005, les délibérations mentionnées au premier alinéa de l'article 1382 C du code général des impôts doivent intervenir avant le 31 janvier 2005 et la déclaration prévue au deuxième alinéa de cet article doit être souscrite avant le 15 février 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art56",
       "section": "56",
       "title": "Article 56",
-      "content": "Une majoration exceptionnelle d'un montant maximal de 7 Euros au profit des chambres de métiers de la Guadeloupe, de la Martinique, de la Guyane et de La Réunion est recouvrée, en 2005, auprès des assujettis au droit fixe de la taxe prévue à l'article 1601 du code général des impôts. Cette majoration est recouvrée dans les mêmes conditions que ce droit."
+      "content": "Une majoration exceptionnelle d'un montant maximal de 7 Euros au profit des chambres de métiers de la Guadeloupe, de la Martinique, de la Guyane et de La Réunion est recouvrée, en 2005, auprès des assujettis au droit fixe de la taxe prévue à l'article 1601 du code général des impôts. Cette majoration est recouvrée dans les mêmes conditions que ce droit.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art58",
       "section": "58",
       "title": "Article 58",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent aux investissements réalisés outre-mer à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent aux investissements réalisés outre-mer à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art72",
       "section": "72",
       "title": "Article 72",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent aux biens cédés après le 1er janvier 2004.III. - Pour l'application des dispositions des I et II en cas de création d'établissement ou de changement d'exploitant au cours de l'année 2004, des déclarations rectificatives des bases de taxe professionnelle doivent être souscrites avant le 1er mai 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent aux biens cédés après le 1er janvier 2004.III. - Pour l'application des dispositions des I et II en cas de création d'établissement ou de changement d'exploitant au cours de l'année 2004, des déclarations rectificatives des bases de taxe professionnelle doivent être souscrites avant le 1er mai 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art73",
       "section": "73",
       "title": "Article 73",
-      "content": "I. III. (paragraphes modificateurs).II. - Les dispositions du I s'appliquent à compter de 2005."
+      "content": "I. III. (paragraphes modificateurs).II. - Les dispositions du I s'appliquent à compter de 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art74",
       "section": "74",
       "title": "Article 74",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I sont applicables à compter de 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I sont applicables à compter de 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art75",
       "section": "75",
       "title": "Article 75",
-      "content": "A. (paragraphe modificateur).B. - Les dispositions du A sont applicables à compter de 2005.Toutefois, pour 2005, les délibérations mentionnées aux 1° des I et II du A peuvent être prises jusqu'au 31 janvier 2005."
+      "content": "A. (paragraphe modificateur).B. - Les dispositions du A sont applicables à compter de 2005.Toutefois, pour 2005, les délibérations mentionnées aux 1° des I et II du A peuvent être prises jusqu'au 31 janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art76",
       "section": "76",
       "title": "Article 76",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter de 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter de 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art77",
       "section": "77",
       "title": "Article 77",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter de 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter de 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art78",
       "section": "78",
       "title": "Article 78",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter de 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter de 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art81",
       "section": "81",
       "title": "Article 81",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent aux opérations réalisées à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent aux opérations réalisées à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art82",
       "section": "82",
       "title": "Article 82",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I entrent en vigueur à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I entrent en vigueur à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art83",
       "section": "83",
       "title": "Article 83",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art84",
       "section": "84",
       "title": "Article 84",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I sont applicables à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I sont applicables à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art85",
       "section": "85",
       "title": "Article 85",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art86",
       "section": "86",
       "title": "Article 86",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter du ler janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter du ler janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art87",
       "section": "87",
       "title": "Article 87",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter du 1er juillet 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter du 1er juillet 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art90",
       "section": "90",
       "title": "Article 90",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art92",
       "section": "92",
       "title": "Article 92",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art95",
       "section": "95",
       "title": "Article 95",
-      "content": "I. II. V. (paragraphes modificateurs).III. - Il est perçu au profit de l'Etat une taxe sur les opérations donnant lieu à la perception d'un droit d'enregistrement ou d'une taxe de publicité foncière au profit des départements en application des articles 1594 A et 1594 B du code général des impôts. Elle s'additionne à ces droits ou taxe.Son taux est de :0,2 % s'agissant des mutations passibles du tarif prévu par l'article 1594 D du même code ;0,1 % dans les autres cas.Elle est soumise aux règles qui gouvernent l'exigibilité, la restitution et le recouvrement des droits d'enregistrement ou de la taxe de publicité foncière auxquelles elle s'ajoute.IV. - Les dispositions des I à III s'appliquent aux conventions conclues et actes passés à compter du 1er janvier 2006 lorsqu'ils sont obligatoirement déclarés ou soumis à la formalité de l'enregistrement, et dans les autres cas, lorsque leur présentation volontaire à la formalité intervient à compter de cette date.VI. - Les dispositions du V s'appliquent aux déclarations et états publiés au fichier immobilier à compter du 1er janvier 2005."
+      "content": "I. II. V. (paragraphes modificateurs).III. - Il est perçu au profit de l'Etat une taxe sur les opérations donnant lieu à la perception d'un droit d'enregistrement ou d'une taxe de publicité foncière au profit des départements en application des articles 1594 A et 1594 B du code général des impôts. Elle s'additionne à ces droits ou taxe.Son taux est de :0,2 % s'agissant des mutations passibles du tarif prévu par l'article 1594 D du même code ;0,1 % dans les autres cas.Elle est soumise aux règles qui gouvernent l'exigibilité, la restitution et le recouvrement des droits d'enregistrement ou de la taxe de publicité foncière auxquelles elle s'ajoute.IV. - Les dispositions des I à III s'appliquent aux conventions conclues et actes passés à compter du 1er janvier 2006 lorsqu'ils sont obligatoirement déclarés ou soumis à la formalité de l'enregistrement, et dans les autres cas, lorsque leur présentation volontaire à la formalité intervient à compter de cette date.VI. - Les dispositions du V s'appliquent aux déclarations et états publiés au fichier immobilier à compter du 1er janvier 2005.",
+      "valid_from": "2006-01-01"
     },
     {
       "provision_ref": "art96",
       "section": "96",
       "title": "Article 96",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I sont applicables aux résultats des exercices clos à compter du 31 décembre 2004."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I sont applicables aux résultats des exercices clos à compter du 31 décembre 2004.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art97",
       "section": "97",
       "title": "Article 97",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent aux exercices ouverts à compter du 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I s'appliquent aux exercices ouverts à compter du 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art101",
       "section": "101",
       "title": "Article 101",
-      "content": "A compter du 1er janvier 2002, le montant de la contribution de l'Etat pour l'exploitation des services transférés visée au troisième alinéa de l'article L. 1614-8-1 du code général des collectivités territoriales est fixé à 1 063 791 055 euros. Conformément au neuvième alinéa de cet article, ce montant est majoré de 67 092 143 euros pour tenir compte des modifications des modalités de fixation des redevances d'utilisation du réseau ferré national, applicables à compter du 1er janvier 2002.Pour chaque région, le montant de la contribution pour l'exploitation des services transférés est celui figurant dans le tableau suivant :R É G I O N SCONTRIBUTION pour l'exploitation des services transférés au 1er janvier 2002 (en valeur 2002) - services régionaux de voyageursAlsace59 076 285 EurosAquitaine59 302 472 EurosAuvergne50 732 877 EurosBasse-Normandie23 556 051 EurosBourgogne62 402 535 EurosBretagne41 190 207 EurosCentre54 738 600 EurosChampagne-Ardenne40 738 149 EurosFranche-Comté37 929 828 EurosHaute-Normandie24 867 097 EurosLanguedoc-Roussillon56 204 539 EurosLimousin40 836 970 EurosLorraine59 061 435 EurosMidi-Pyrénées54 714 205 EurosNord - Pas-de-Calais61 201 405 EurosPays de la Loire44 914 686 EurosPicardie64 982 812 EurosPoitou-Charentes25 260 228 EurosProvence-Alpes-Côte d'Azur85 383 931 EurosRhône-Alpes183 788 887 EurosTotal1 130 883 198 Euros"
+      "content": "A compter du 1er janvier 2002, le montant de la contribution de l'Etat pour l'exploitation des services transférés visée au troisième alinéa de l'article L. 1614-8-1 du code général des collectivités territoriales est fixé à 1 063 791 055 euros. Conformément au neuvième alinéa de cet article, ce montant est majoré de 67 092 143 euros pour tenir compte des modifications des modalités de fixation des redevances d'utilisation du réseau ferré national, applicables à compter du 1er janvier 2002.Pour chaque région, le montant de la contribution pour l'exploitation des services transférés est celui figurant dans le tableau suivant :R É G I O N SCONTRIBUTION pour l'exploitation des services transférés au 1er janvier 2002 (en valeur 2002) - services régionaux de voyageursAlsace59 076 285 EurosAquitaine59 302 472 EurosAuvergne50 732 877 EurosBasse-Normandie23 556 051 EurosBourgogne62 402 535 EurosBretagne41 190 207 EurosCentre54 738 600 EurosChampagne-Ardenne40 738 149 EurosFranche-Comté37 929 828 EurosHaute-Normandie24 867 097 EurosLanguedoc-Roussillon56 204 539 EurosLimousin40 836 970 EurosLorraine59 061 435 EurosMidi-Pyrénées54 714 205 EurosNord - Pas-de-Calais61 201 405 EurosPays de la Loire44 914 686 EurosPicardie64 982 812 EurosPoitou-Charentes25 260 228 EurosProvence-Alpes-Côte d'Azur85 383 931 EurosRhône-Alpes183 788 887 EurosTotal1 130 883 198 Euros",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art104",
       "section": "104",
       "title": "Article 104",
-      "content": "Dans le cadre du plan de financement global d'Alstom de 2004, la garantie de l'Etat est accordée à la Caisse française de développement industriel pour un montant maximum de 1 250 millions d'euros au titre des opérations de contre-garantie des cautions reprises ou émises dans les vingt-quatre mois qui suivent le 2 août 2004, date d'entrée en vigueur du nouveau dispositif prévu dans le plan susmentionné.La présente garantie remplace, à compter de la même date, le mécanisme de contre-garantie de cautions autorisé par le II de l'article 80 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003)."
+      "content": "Dans le cadre du plan de financement global d'Alstom de 2004, la garantie de l'Etat est accordée à la Caisse française de développement industriel pour un montant maximum de 1 250 millions d'euros au titre des opérations de contre-garantie des cautions reprises ou émises dans les vingt-quatre mois qui suivent le 2 août 2004, date d'entrée en vigueur du nouveau dispositif prévu dans le plan susmentionné.La présente garantie remplace, à compter de la même date, le mécanisme de contre-garantie de cautions autorisé par le II de l'article 80 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003).",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art105",
       "section": "105",
       "title": "Article 105",
-      "content": "La garantie de l'Etat est accordée à la Caisse régionale du Crédit agricole de la Corse, dans les conditions prévues dans la convention en date du 29 janvier 2004 intervenue entre l'Etat, Crédit agricole SA et la Caisse régionale du Crédit agricole de la Corse, sur les nouveaux échéanciers en principal et intérêt résultant des plans de remboursement que la Caisse régionale du Crédit agricole de la Corse s'est engagée à conclure avec les exploitants agricoles installés en Corse surendettés, dans le cadre du protocole en date du 29 janvier 2004."
+      "content": "La garantie de l'Etat est accordée à la Caisse régionale du Crédit agricole de la Corse, dans les conditions prévues dans la convention en date du 29 janvier 2004 intervenue entre l'Etat, Crédit agricole SA et la Caisse régionale du Crédit agricole de la Corse, sur les nouveaux échéanciers en principal et intérêt résultant des plans de remboursement que la Caisse régionale du Crédit agricole de la Corse s'est engagée à conclure avec les exploitants agricoles installés en Corse surendettés, dans le cadre du protocole en date du 29 janvier 2004.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art106",
       "section": "106",
       "title": "Article 106",
-      "content": "I.-Les droits et obligations incombant à l'Agence nationale de valorisation de la recherche, afférents à la gestion des aides à la recherche industrielle relevant de l'article 30 du chapitre 66-02 \" Fonds de compétitivité des entreprises \" du budget du ministère de l'économie, des finances et de l'industrie, sont transférés à l'Etat à compter du 1er janvier 2005.II.-A compter de la transformation de l'établissement public industriel et commercial dénommé Agence nationale de valorisation de la recherche en société commerciale, la garantie de l'Etat lui est accordée, par arrêté du ministre chargé de l'économie, pour les engagements de financement envers les entreprises pris au titre des aides relevant des articles 40 et 50 du chapitre 66-02, accordées jusqu'au 31 décembre 2004, qui lui ont été confiées par l'article 43 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003).III.-La garantie de l'Etat peut être accordée, par arrêté du ministre chargé de l'économie, à l'établissement public industriel et commercial auquel l'Etat apportera les participations qu'il détient, ou viendra à détenir, au capital de la Banque de développement des petites et moyennes entreprises et de la société commerciale résultant de la transformation de l'établissement public industriel et commercial Agence nationale de valorisation de la recherche, pour des opérations d'emprunt.IV.-Les transferts et apports d'actifs, mobiliers et immobiliers, résultant des fusions-absorptions des sociétés Banque de développement des petites et moyennes entreprises, Auxicomi, Auximurs, Procrédit-Probail et Enerbail par la société Crédit d'équipement des petites et moyennes entreprises ne donnent lieu spécifiquement à la perception d'aucun impôt, droit, taxe, contribution prévue à l'article 879 du code général des impôts, honoraires, frais, émoluments et débours des notaires et des greffiers des tribunaux de commerce.Les actes de fusion précités rendent de plein droit opposable aux tiers le transfert à la société absorbante, quelle que soit sa future dénomination, des actifs mobiliers des sociétés absorbées ainsi que leurs sûretés, garanties et accessoires, sans autre formalité que celles requises pour la radiation des sociétés absorbées. Il en est de même en ce qui concerne les sûretés, garanties et accessoires attachés aux actifs immobiliers.Les formalités de publicité foncière des transferts à la société absorbante des biens immobiliers des sociétés absorbées prévues dans le cadre des fusions précitées sont reportées à la mutation suivante.V.-Les sociétés ayant reçu en apport des actifs issus de sociétés pour le financement des économies d'énergie visées à l'article 30 de la loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à l'utilisation de la chaleur sont autorisées à exercer l'activité de ces sociétés dans les conditions prévues par l'article 30 de la loi n° 80-531 du 15 juillet 1980 précitée, le II de l'article 87 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), l'article 10 de la loi n° 92-646 du 13 juillet 1992 relative à l'élimination des déchets et l'article 29 de la loi de finances rectificative pour 1999 (n° 99-1173 du 30 décembre 1999)."
+      "content": "I.-Les droits et obligations incombant à l'Agence nationale de valorisation de la recherche, afférents à la gestion des aides à la recherche industrielle relevant de l'article 30 du chapitre 66-02 \" Fonds de compétitivité des entreprises \" du budget du ministère de l'économie, des finances et de l'industrie, sont transférés à l'Etat à compter du 1er janvier 2005.II.-A compter de la transformation de l'établissement public industriel et commercial dénommé Agence nationale de valorisation de la recherche en société commerciale, la garantie de l'Etat lui est accordée, par arrêté du ministre chargé de l'économie, pour les engagements de financement envers les entreprises pris au titre des aides relevant des articles 40 et 50 du chapitre 66-02, accordées jusqu'au 31 décembre 2004, qui lui ont été confiées par l'article 43 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003).III.-La garantie de l'Etat peut être accordée, par arrêté du ministre chargé de l'économie, à l'établissement public industriel et commercial auquel l'Etat apportera les participations qu'il détient, ou viendra à détenir, au capital de la Banque de développement des petites et moyennes entreprises et de la société commerciale résultant de la transformation de l'établissement public industriel et commercial Agence nationale de valorisation de la recherche, pour des opérations d'emprunt.IV.-Les transferts et apports d'actifs, mobiliers et immobiliers, résultant des fusions-absorptions des sociétés Banque de développement des petites et moyennes entreprises, Auxicomi, Auximurs, Procrédit-Probail et Enerbail par la société Crédit d'équipement des petites et moyennes entreprises ne donnent lieu spécifiquement à la perception d'aucun impôt, droit, taxe, contribution prévue à l'article 879 du code général des impôts, honoraires, frais, émoluments et débours des notaires et des greffiers des tribunaux de commerce.Les actes de fusion précités rendent de plein droit opposable aux tiers le transfert à la société absorbante, quelle que soit sa future dénomination, des actifs mobiliers des sociétés absorbées ainsi que leurs sûretés, garanties et accessoires, sans autre formalité que celles requises pour la radiation des sociétés absorbées. Il en est de même en ce qui concerne les sûretés, garanties et accessoires attachés aux actifs immobiliers.Les formalités de publicité foncière des transferts à la société absorbante des biens immobiliers des sociétés absorbées prévues dans le cadre des fusions précitées sont reportées à la mutation suivante.V.-Les sociétés ayant reçu en apport des actifs issus de sociétés pour le financement des économies d'énergie visées à l'article 30 de la loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à l'utilisation de la chaleur sont autorisées à exercer l'activité de ces sociétés dans les conditions prévues par l'article 30 de la loi n° 80-531 du 15 juillet 1980 précitée, le II de l'article 87 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), l'article 10 de la loi n° 92-646 du 13 juillet 1992 relative à l'élimination des déchets et l'article 29 de la loi de finances rectificative pour 1999 (n° 99-1173 du 30 décembre 1999).",
+      "valid_from": "2013-01-01"
     },
     {
       "provision_ref": "art107",
       "section": "107",
       "title": "Article 107",
-      "content": "Les emprunts contractés par l'UNEDIC pour contribuer à couvrir le déficit de l'année 2004 peuvent bénéficier de la garantie de l'Etat en principal et en intérêts, dans la limite de 2,2 milliards d'euros en principal.\n\nLes dispositions de la seconde phrase de l'avant-dernier alinéa de l'article L. 213-15 du code monétaire et financier ne s'appliquent pas aux émissions d'emprunt de l'UNEDIC qui bénéficient de la garantie de l'Etat."
+      "content": "Les emprunts contractés par l'UNEDIC pour contribuer à couvrir le déficit de l'année 2004 peuvent bénéficier de la garantie de l'Etat en principal et en intérêts, dans la limite de 2,2 milliards d'euros en principal.\n\nLes dispositions de la seconde phrase de l'avant-dernier alinéa de l'article L. 213-15 du code monétaire et financier ne s'appliquent pas aux émissions d'emprunt de l'UNEDIC qui bénéficient de la garantie de l'Etat.",
+      "valid_from": "2011-12-30"
     },
     {
       "provision_ref": "art108",
       "section": "108",
       "title": "Article 108",
-      "content": "La société dénommée Dagris-Développement des agro-industries du Sud est ajoutée à la liste annexée à la loi n° 93-923 du 19 juillet 1993 de privatisation."
+      "content": "La société dénommée Dagris-Développement des agro-industries du Sud est ajoutée à la liste annexée à la loi n° 93-923 du 19 juillet 1993 de privatisation.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art109",
       "section": "109",
       "title": "Article 109",
-      "content": "L'emprunt à contracter par la société Arianespace auprès de la Banque européenne d'investissement pour le financement de l'implantation du lanceur Soyouz au Centre spatial guyanais peut faire l'objet, pour tout ou partie, d'une garantie de l'Etat en principal et intérêts pour un montant maximal en principal de 121 millions d'euros."
+      "content": "L'emprunt à contracter par la société Arianespace auprès de la Banque européenne d'investissement pour le financement de l'implantation du lanceur Soyouz au Centre spatial guyanais peut faire l'objet, pour tout ou partie, d'une garantie de l'Etat en principal et intérêts pour un montant maximal en principal de 121 millions d'euros.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art110",
       "section": "110",
       "title": "Article 110",
-      "content": "La Caisse nationale d'assurance vieillesse des travailleurs salariés bénéficie d'une garantie de l'Etat au titre de la partie de la contribution qui lui est due par la Caisse nationale des industries électriques et gazières et fait l'objet de versements directs entre 2005 et 2024, en application du 3° de l'article 19 de la loi n° 2004-803 du 9 août 2004 relative au service public de l'électricité et du gaz et aux entreprises électriques et gazières."
+      "content": "La Caisse nationale d'assurance vieillesse des travailleurs salariés bénéficie d'une garantie de l'Etat au titre de la partie de la contribution qui lui est due par la Caisse nationale des industries électriques et gazières et fait l'objet de versements directs entre 2005 et 2024, en application du 3° de l'article 19 de la loi n° 2004-803 du 9 août 2004 relative au service public de l'électricité et du gaz et aux entreprises électriques et gazières.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art111",
       "section": "111",
       "title": "Article 111",
-      "content": "I. - Les producteurs de bananes, installés dans les départements d'outre-mer, y exerçant leur activité au 1er janvier 2004 et adhérents à cette même date à un groupement de producteurs reconnu, peuvent demander, dans un délai de douze mois à compter de la date de publication de la présente loi, à la caisse de sécurité sociale compétente de leur département, le sursis à poursuite pour le règlement des créances se rapportant à la période antérieure au 1er octobre 2004 relatives aux cotisations sociales patronales ainsi qu'aux pénalités et majorations de retard correspondantes.Les dispositions prévues à l'alinéa précédent sont applicables aux créances, même déclarées et constatées après cette date, qu'elles aient ou non fait l'objet de notifications ou de mises en demeure.Cette demande entraîne de plein droit une suspension de six mois des poursuites afférentes auxdites créances ainsi que la suspension du calcul des pénalités et majorations de retard durant cette période.II. - Durant cette période de six mois, et postérieurement au reversement effectif de la part salariale des cotisations et contributions sociales dues au titre des périodes antérieures au 1er octobre 2004 ou à l'engagement du producteur d'y procéder, un plan d'apurement des dettes sociales assorti, le cas échéant, de l'annulation des pénalités et majorations de retard, est signé entre le producteur et la caisse compétente pour une durée maximale de quinze ans.Le producteur bénéficie alors d'une aide de l'Etat dans la limite de 50 % des cotisations patronales dues au 30 septembre 2004. Le versement de cette aide est subordonné au respect par chaque producteur des conditions suivantes :1° Apporter la preuve par un audit extérieur de la viabilité de l'exploitation ;2° Etre à jour des cotisations sociales afférentes aux périodes d'activités postérieures au 1er octobre 2004 ;3° S'être acquitté auprès de la caisse de sécurité sociale d'au moins 50 % de la dette relative aux cotisations patronales de sécurité sociale antérieure au 1er octobre 2004 et, dans un délai de quatre ans suivant la signature du plan, de la totalité de la part salariale des cotisations et contributions sociales dues pour la même période ;4° Autoriser l'Etat à se subroger dans le paiement des cotisations sociales auprès de la caisse.III. - Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'application du présent article."
+      "content": "I. - Les producteurs de bananes, installés dans les départements d'outre-mer, y exerçant leur activité au 1er janvier 2004 et adhérents à cette même date à un groupement de producteurs reconnu, peuvent demander, dans un délai de douze mois à compter de la date de publication de la présente loi, à la caisse de sécurité sociale compétente de leur département, le sursis à poursuite pour le règlement des créances se rapportant à la période antérieure au 1er octobre 2004 relatives aux cotisations sociales patronales ainsi qu'aux pénalités et majorations de retard correspondantes.Les dispositions prévues à l'alinéa précédent sont applicables aux créances, même déclarées et constatées après cette date, qu'elles aient ou non fait l'objet de notifications ou de mises en demeure.Cette demande entraîne de plein droit une suspension de six mois des poursuites afférentes auxdites créances ainsi que la suspension du calcul des pénalités et majorations de retard durant cette période.II. - Durant cette période de six mois, et postérieurement au reversement effectif de la part salariale des cotisations et contributions sociales dues au titre des périodes antérieures au 1er octobre 2004 ou à l'engagement du producteur d'y procéder, un plan d'apurement des dettes sociales assorti, le cas échéant, de l'annulation des pénalités et majorations de retard, est signé entre le producteur et la caisse compétente pour une durée maximale de quinze ans.Le producteur bénéficie alors d'une aide de l'Etat dans la limite de 50 % des cotisations patronales dues au 30 septembre 2004. Le versement de cette aide est subordonné au respect par chaque producteur des conditions suivantes :1° Apporter la preuve par un audit extérieur de la viabilité de l'exploitation ;2° Etre à jour des cotisations sociales afférentes aux périodes d'activités postérieures au 1er octobre 2004 ;3° S'être acquitté auprès de la caisse de sécurité sociale d'au moins 50 % de la dette relative aux cotisations patronales de sécurité sociale antérieure au 1er octobre 2004 et, dans un délai de quatre ans suivant la signature du plan, de la totalité de la part salariale des cotisations et contributions sociales dues pour la même période ;4° Autoriser l'Etat à se subroger dans le paiement des cotisations sociales auprès de la caisse.III. - Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'application du présent article.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art113",
       "section": "113",
       "title": "Article 113",
-      "content": "I. - Le compte de commerce prévu au II de l'article 22 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances est divisé en deux sections.\n\nLa première section retrace les opérations relatives à la gestion de la dette et de la trésorerie de l'Etat, à l'exclusion des opérations réalisées au moyen d'instruments financiers à terme. Elle comporte, en recettes et en dépenses, les produits et les charges résultant de ces opérations ainsi que les dépenses directement liées à l'émission de la dette de l'Etat.\n\nLa seconde section retrace les opérations de gestion de la dette et de la trésorerie de l'Etat effectuées au moyen d'instruments financiers à terme. Elle comporte, en dépenses et en recettes, les produits et les charges des opérations d'échange de devises ou de taux d'intérêt, d'achat ou de vente d'options ou de contrats à terme sur titres d'Etat autorisées en loi de finances.\n\nII. - La première section fait l'objet de versements réguliers du budget général. Elle fait l'objet d'une autorisation de découvert évaluative dont le montant est fixé chaque année par la loi de finances. En cas de dépassement de l'autorisation de découvert, le ministre chargé des finances informe sans délai les commissions des finances de l'Assemblée nationale et du Sénat du montant et des circonstances de ce dépassement.\n\nLa seconde section fait l'objet d'une autorisation de découvert limitative dont le montant est fixé chaque année par la loi de finances.\n\nIII. - Abrogé."
+      "content": "I. - Le compte de commerce prévu au II de l'article 22 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances est divisé en deux sections.\n\nLa première section retrace les opérations relatives à la gestion de la dette et de la trésorerie de l'Etat, à l'exclusion des opérations réalisées au moyen d'instruments financiers à terme. Elle comporte, en recettes et en dépenses, les produits et les charges résultant de ces opérations ainsi que les dépenses directement liées à l'émission de la dette de l'Etat.\n\nLa seconde section retrace les opérations de gestion de la dette et de la trésorerie de l'Etat effectuées au moyen d'instruments financiers à terme. Elle comporte, en dépenses et en recettes, les produits et les charges des opérations d'échange de devises ou de taux d'intérêt, d'achat ou de vente d'options ou de contrats à terme sur titres d'Etat autorisées en loi de finances.\n\nII. - La première section fait l'objet de versements réguliers du budget général. Elle fait l'objet d'une autorisation de découvert évaluative dont le montant est fixé chaque année par la loi de finances. En cas de dépassement de l'autorisation de découvert, le ministre chargé des finances informe sans délai les commissions des finances de l'Assemblée nationale et du Sénat du montant et des circonstances de ce dépassement.\n\nLa seconde section fait l'objet d'une autorisation de découvert limitative dont le montant est fixé chaque année par la loi de finances.\n\nIII. - Abrogé.",
+      "valid_from": "2014-12-30"
     },
     {
       "provision_ref": "art115",
       "section": "115",
       "title": "Article 115",
-      "content": "I. - Il est ouvert au compte spécial du Trésor n° 904-06 Opérations commerciales des domaines, créé par l'article 10 de la loi n° 49-310 du 8 mars 1949 relative aux comptes spéciaux du Trésor, une subdivision intitulée Opérations réalisées en application des décisions de justice. Elle est destinée à retracer les recettes et les dépenses afférentes aux opérations réalisées qui sont liées aux remises effectuées en application de décisions de justice, à l'exception des opérations effectuées dans le cadre de la lutte contre les stupéfiants et des remises décidées en cours d'instruction en application de l'article 99-2 du code de procédure pénale.II. - Sur la base de la situation provisoire au 30 septembre de chaque année, le ministre chargé du budget est autorisé à reverser, au profit du budget général, les excédents de trésorerie disponibles, au-delà de quatre mois de recettes, des subdivisions Ventes mobilières, Gestion d'immeubles domaniaux confiés provisoirement à l'administration des domaines et Opérations réalisées en application des décisions de justice du compte spécial du Trésor n° 904-06 précité."
+      "content": "I. - Il est ouvert au compte spécial du Trésor n° 904-06 Opérations commerciales des domaines, créé par l'article 10 de la loi n° 49-310 du 8 mars 1949 relative aux comptes spéciaux du Trésor, une subdivision intitulée Opérations réalisées en application des décisions de justice. Elle est destinée à retracer les recettes et les dépenses afférentes aux opérations réalisées qui sont liées aux remises effectuées en application de décisions de justice, à l'exception des opérations effectuées dans le cadre de la lutte contre les stupéfiants et des remises décidées en cours d'instruction en application de l'article 99-2 du code de procédure pénale.II. - Sur la base de la situation provisoire au 30 septembre de chaque année, le ministre chargé du budget est autorisé à reverser, au profit du budget général, les excédents de trésorerie disponibles, au-delà de quatre mois de recettes, des subdivisions Ventes mobilières, Gestion d'immeubles domaniaux confiés provisoirement à l'administration des domaines et Opérations réalisées en application des décisions de justice du compte spécial du Trésor n° 904-06 précité.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art117",
       "section": "117",
       "title": "Article 117",
-      "content": "I. (paragraphe modificateur).II. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article."
+      "content": "I. (paragraphe modificateur).II. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art118",
       "section": "118",
       "title": "Article 118",
-      "content": "I. II. (paragraphes modificateurs).III. - Les dispositions du II du présent article sont applicables à compter du 1er janvier 2004.IV. - Sous réserve des décisions de justice passées en force de chose jugée, le montant prévisionnel des charges imputables aux missions de service public de l'électricité pour l'année 2004 est fixé à 1 735 200 000 Euros et le montant de la contribution applicable à chaque kilowattheure pour les années 2004 et 2005 est fixé à 0,0045 Euros."
+      "content": "I. II. (paragraphes modificateurs).III. - Les dispositions du II du présent article sont applicables à compter du 1er janvier 2004.IV. - Sous réserve des décisions de justice passées en force de chose jugée, le montant prévisionnel des charges imputables aux missions de service public de l'électricité pour l'année 2004 est fixé à 1 735 200 000 Euros et le montant de la contribution applicable à chaque kilowattheure pour les années 2004 et 2005 est fixé à 0,0045 Euros.",
+      "valid_from": "2005-07-14"
     },
     {
       "provision_ref": "art121",
       "section": "121",
       "title": "Article 121",
-      "content": "I. II. (paragraphes modificateurs).III. - Les agences de l'eau subventionnent, à compter du 1er janvier 2005, dans le cadre de leurs attributions et selon le principe d'une solidarité envers les communes rurales, la réalisation des travaux d'adduction d'eau et d'assainissement en milieu rural relevant précédemment de l'article 40 du chapitre 61-40 du budget du ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales."
+      "content": "I. II. (paragraphes modificateurs).III. - Les agences de l'eau subventionnent, à compter du 1er janvier 2005, dans le cadre de leurs attributions et selon le principe d'une solidarité envers les communes rurales, la réalisation des travaux d'adduction d'eau et d'assainissement en milieu rural relevant précédemment de l'article 40 du chapitre 61-40 du budget du ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art123",
       "section": "123",
       "title": "Article 123",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I entrent en vigueur au 1er janvier 2005."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I entrent en vigueur au 1er janvier 2005.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art124",
       "section": "124",
       "title": "Article 124",
-      "content": "Par dérogation aux dispositions du II de l'article 92 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003), les disponibilités nettes du Fonds pour le renouvellement urbain constatées au 31 décembre 2004 sont versées à l'Agence nationale pour la rénovation urbaine."
+      "content": "Par dérogation aux dispositions du II de l'article 92 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003), les disponibilités nettes du Fonds pour le renouvellement urbain constatées au 31 décembre 2004 sont versées à l'Agence nationale pour la rénovation urbaine.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art125",
       "section": "125",
       "title": "Article 125",
-      "content": "I. II. (paragraphes modificateurs).III. - Pour les comptes et les justifications des opérations qui ont été produits avant l'entrée en vigueur de la présente loi, le délai résultant du I est décompté à partir de la production de ces comptes ou de ces justifications."
+      "content": "I. II. (paragraphes modificateurs).III. - Pour les comptes et les justifications des opérations qui ont été produits avant l'entrée en vigueur de la présente loi, le délai résultant du I est décompté à partir de la production de ces comptes ou de ces justifications.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art127",
       "section": "127",
       "title": "Article 127",
-      "content": "I. (paragraphe modificateur).II. - Le produit de la vente après réforme des véhicules et engins automobiles provenant des services civils de l'Etat, versé avant le 31 décembre 2004 à l'établissement public économique et financier Union des groupements d'achats publics, demeure affecté en 2005 à la réalisation d'opérations de renouvellement du parc automobile des services concernés."
+      "content": "I. (paragraphe modificateur).II. - Le produit de la vente après réforme des véhicules et engins automobiles provenant des services civils de l'Etat, versé avant le 31 décembre 2004 à l'établissement public économique et financier Union des groupements d'achats publics, demeure affecté en 2005 à la réalisation d'opérations de renouvellement du parc automobile des services concernés.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art128",
       "section": "128",
       "title": "Article 128",
-      "content": "I.-Lorsque le comptable du Trésor public est autorisé par des dispositions législatives ou réglementaires à procéder au recouvrement forcé d'une créance ou d'une condamnation pécuniaire, il peut, préalablement à la mise en oeuvre de toute procédure coercitive, demander à un huissier de justice d'obtenir du débiteur ou du condamné qu'il s'acquitte entre ses mains du montant de sa dette ou de sa condamnation pécuniaire.\n\nLes frais de recouvrement sont versés directement par le débiteur ou le condamné à l'huissier de justice.\n\nLe montant des frais, qui restent acquis à l'huissier de justice, est calculé selon un taux proportionnel aux sommes recouvrées fixé par arrêté conjoint des ministres chargés des finances et de la justice.\n\nII.-Le recouvrement par les comptables publics compétents des amendes et des condamnations pécuniaires peut être assuré par voie de saisie administrative à tiers détenteur dans les conditions prévues à l'article L. 262 du livre des procédures fiscales.L'exécution par le destinataire de la saisie administrative à tiers détenteur n'est pas affectée par une contestation postérieure de l'existence, du montant ou de l'exigibilité de la créance.\n\nUn décret en Conseil d'Etat détermine les modalités d'application du présent II."
+      "content": "I. - Lorsque le comptable de l'administration des finances publiques est autorisé par des dispositions législatives ou réglementaires à procéder au recouvrement forcé d'une créance, il peut demander à un commissaire de justice d'obtenir du débiteur qu'il s'acquitte entre ses mains du montant de sa dette.\n\nLes frais de recouvrement sont versés directement par le débiteur ou le condamné au commissaire de justice.\n\nLe montant des frais, qui restent acquis au commissaire de justice, est calculé selon un taux proportionnel aux sommes recouvrées fixé par arrêté conjoint des ministres chargés des finances et de la justice.\n\nII.-Le recouvrement par les comptables publics compétents des amendes et des condamnations pécuniaires peut être assuré par voie de saisie administrative à tiers détenteur dans les conditions prévues à l'article L. 262 du livre des procédures fiscales.\n\nL'exécution par le destinataire de la saisie administrative à tiers détenteur n'est pas affectée par une contestation postérieure de l'existence, du montant ou de l'exigibilité de la créance.\n\nUn décret en Conseil d'Etat détermine les modalités d'application du présent II.",
+      "valid_from": "2026-02-21"
     },
     {
       "provision_ref": "art130",
       "section": "130",
       "title": "Article 130",
-      "content": "I. - En vue d'accélérer le programme d'aliénation de biens domaniaux reconnus inutiles à la Défense, est autorisée la cession en pleine propriété d'immeubles à l'amiable, au profit d'opérateurs gérant des logements destinés aux personnels de la Défense.La liste des biens est arrêtée conjointement par le ministre de la défense et le ministre chargé du domaine qui fixe le prix des actifs cédés.Lorsque ces actifs doivent faire l'objet d'une dépollution avant leur aliénation, l'Etat peut confier, sous sa responsabilité, la gestion et le financement des opérations de dépollution à l'opérateur bénéficiaire de la cession.II. - Abrogé"
+      "content": "I. - En vue d'accélérer le programme d'aliénation de biens domaniaux reconnus inutiles à la Défense, est autorisée la cession en pleine propriété d'immeubles à l'amiable, au profit d'opérateurs gérant des logements destinés aux personnels de la Défense.La liste des biens est arrêtée conjointement par le ministre de la défense et le ministre chargé du domaine qui fixe le prix des actifs cédés.Lorsque ces actifs doivent faire l'objet d'une dépollution avant leur aliénation, l'Etat peut confier, sous sa responsabilité, la gestion et le financement des opérations de dépollution à l'opérateur bénéficiaire de la cession.II. - Abrogé",
+      "valid_from": "2005-12-31"
     },
     {
       "provision_ref": "art134",
       "section": "134",
       "title": "Article 134",
-      "content": "Il est institué une aide à la modernisation des diffuseurs de presse, financée en 2005 par les crédits inscrits à l'article 30 du chapitre 41-11 du budget des services généraux du Premier ministre.Dans les conditions déterminées par une convention, l'instruction des dossiers individuels de demande et le paiement des aides à chaque bénéficiaire peuvent être délégués par l'Etat à un organisme public ou privé désigné après appel public à la concurrence dans les conditions prévues par l'article 38 de la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la corruption et à la transparence de la vie économique et des procédures publiques.L'Etat verse à l'organisme désigné les crédits nécessaires au paiement des aides et lui consent, en tant que de besoin, des avances dans la limite des deux tiers de la dotation annuelle. L'organisme est rémunéré, le cas échéant, par une commission assise sur les sommes gérées.L'organisme gestionnaire transmet au Parlement et au Gouvernement, dans les six mois suivant la clôture de l'exercice, un rapport retraçant l'emploi des crédits qu'il a gérés."
+      "content": "Il est institué une aide à la modernisation des diffuseurs de presse, financée en 2005 par les crédits inscrits à l'article 30 du chapitre 41-11 du budget des services généraux du Premier ministre.Dans les conditions déterminées par une convention, l'instruction des dossiers individuels de demande et le paiement des aides à chaque bénéficiaire peuvent être délégués par l'Etat à un organisme public ou privé désigné après appel public à la concurrence dans les conditions prévues par l'article 38 de la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la corruption et à la transparence de la vie économique et des procédures publiques.L'Etat verse à l'organisme désigné les crédits nécessaires au paiement des aides et lui consent, en tant que de besoin, des avances dans la limite des deux tiers de la dotation annuelle. L'organisme est rémunéré, le cas échéant, par une commission assise sur les sommes gérées.L'organisme gestionnaire transmet au Parlement et au Gouvernement, dans les six mois suivant la clôture de l'exercice, un rapport retraçant l'emploi des crédits qu'il a gérés.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art135",
       "section": "135",
       "title": "Article 135",
-      "content": "Il est institué une aide à la modernisation sociale de la presse quotidienne d'information politique et générale, financée en 2005 par les crédits inscrits à l'article 10 du chapitre 41-11 du budget des services généraux du Premier ministre.Dans les conditions prévues par une convention établie entre l'Etat, la ou les organisations professionnelles représentant les entreprises éligibles au niveau de la branche et l'organisme que celles-ci désignent, ce dernier assure la liquidation des aides et leur versement aux bénéficiaires.L'Etat verse à l'organisme gestionnaire les crédits nécessaires au paiement des aides et lui consent, en tant que de besoin, des avances dans la limite des deux tiers de la dotation annuelle.L'organisme gestionnaire transmet au Parlement et au Gouvernement, dans les six mois suivant la clôture de l'exercice, un rapport retraçant l'emploi des crédits qu'il a gérés."
+      "content": "Il est institué une aide à la modernisation sociale de la presse quotidienne d'information politique et générale, financée en 2005 par les crédits inscrits à l'article 10 du chapitre 41-11 du budget des services généraux du Premier ministre.Dans les conditions prévues par une convention établie entre l'Etat, la ou les organisations professionnelles représentant les entreprises éligibles au niveau de la branche et l'organisme que celles-ci désignent, ce dernier assure la liquidation des aides et leur versement aux bénéficiaires.L'Etat verse à l'organisme gestionnaire les crédits nécessaires au paiement des aides et lui consent, en tant que de besoin, des avances dans la limite des deux tiers de la dotation annuelle.L'organisme gestionnaire transmet au Parlement et au Gouvernement, dans les six mois suivant la clôture de l'exercice, un rapport retraçant l'emploi des crédits qu'il a gérés.",
+      "valid_from": "2004-12-31"
     },
     {
       "provision_ref": "art136",
       "section": "136",
       "title": "Article 136",
-      "content": "I. (paragraphe modificateur).II. - Les dispositions du I sont applicables aux demandes présentées avant leur entrée en vigueur qui n'ont pas donné lieu à une décision de justice passée en force de chose jugée."
+      "content": "I. (paragraphe modificateur).II. - Les dispositions du I sont applicables aux demandes présentées avant leur entrée en vigueur qui n'ont pas donné lieu à une décision de justice passée en force de chose jugée.",
+      "valid_from": "2004-12-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

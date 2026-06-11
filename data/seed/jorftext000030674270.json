@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le livre II du code rural et de la pêche maritime est modifié conformément aux articles 2 à 6."
+      "content": "Le livre II du code rural et de la pêche maritime est modifié conformément aux articles 2 à 6.",
+      "valid_from": "2015-06-06"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "I. - Le 1° de l'article 2, les 2° et 4° de l'article 4, le 3° de l'article 5 et les 1° et 3° de l'article 6 de la présente ordonnance entrent en vigueur à compter de la publication du décret codifiant dans la partie réglementaire du code rural et de la pêche maritime la liste des agents habilités à constater les manquements au livre II de ce code.II. - Le b du 7° et le 8° de l'article 4 de la présente ordonnance entrent en vigueur à compter de la date de publication du décret précisant les modalités d'enregistrement et d'agrément prévus par le règlement (CE) n° 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 susvisé, les conditions d'utilisations spécifiques des sous-produits animaux et produits dérivés prévues aux articles 17 et 18 du même règlement et les lieux et conditions d'enfouissement et d'incinération de certains sous-produits animaux et produits dérivés, et au plus tard le 1er janvier 2016."
+      "content": "I. - Le 1° de l'article 2, les 2° et 4° de l'article 4, le 3° de l'article 5 et les 1° et 3° de l'article 6 de la présente ordonnance entrent en vigueur à compter de la publication du décret codifiant dans la partie réglementaire du code rural et de la pêche maritime la liste des agents habilités à constater les manquements au livre II de ce code.II. - Le b du 7° et le 8° de l'article 4 de la présente ordonnance entrent en vigueur à compter de la date de publication du décret précisant les modalités d'enregistrement et d'agrément prévus par le règlement (CE) n° 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 susvisé, les conditions d'utilisations spécifiques des sous-produits animaux et produits dérivés prévues aux articles 17 et 18 du même règlement et les lieux et conditions d'enfouissement et d'incinération de certains sous-produits animaux et produits dérivés, et au plus tard le 1er janvier 2016.",
+      "valid_from": "2015-06-06"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Ne sont pas applicables à Saint-Barthélemy et à Saint-Pierre-et-Miquelon :1° Les 5°, 6° et 8° de l'article 3 ;2° Les 6° à 8° et 11° et 12° de l'article 4 ;3° Le 2° de l'article 7."
+      "content": "Ne sont pas applicables à Saint-Barthélemy et à Saint-Pierre-et-Miquelon :1° Les 5°, 6° et 8° de l'article 3 ;2° Les 6° à 8° et 11° et 12° de l'article 4 ;3° Le 2° de l'article 7.",
+      "valid_from": "2015-06-06"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement, et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement, et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2015-06-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

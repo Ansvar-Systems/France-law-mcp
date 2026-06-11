@@ -12,19 +12,28 @@
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Lorsqu'un club accueille, à l'occasion d'une compétition exceptionnelle, une équipe de catégorie supérieure, il n'est pas tenu de mettre ses équipements aux normes techniques applicables pour les compétitions auxquelles participent des équipes de cette catégorie. Cette dispense ne concerne pas les normes de sécurité."
+      "content": "Lorsqu'un club accueille, à l'occasion d'une compétition exceptionnelle, une équipe de catégorie supérieure, il n'est pas tenu de mettre ses équipements aux normes techniques applicables pour les compétitions auxquelles participent des équipes de cette catégorie. Cette dispense ne concerne pas les normes de sécurité.",
+      "valid_from": "1992-07-16"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "I. - (abrogé)II. - Les pertes de ressources résultant des dispositions du I ci-dessus sont compensées par un accroissement à due concurrence de la cotisation instituée par l'article L. 245-7 du code de la sécurité sociale."
+      "content": "I. - (abrogé)II. - Les pertes de ressources résultant des dispositions du I ci-dessus sont compensées par un accroissement à due concurrence de la cotisation instituée par l'article L. 245-7 du code de la sécurité sociale.",
+      "valid_from": "2006-05-25"
     },
     {
       "provision_ref": "art39",
       "section": "39",
       "title": "Article 39",
-      "content": "I. - Les groupements sportifs disposent d'un délai de dix-huit mois à compter de la publication de la présente loi pour se mettre en conformité avec les dispositions de l'article 2.II. - Les dispositions de l'article 24 entreront en vigueur un an après la publication de la présente loi."
+      "content": "I. - Les groupements sportifs disposent d'un délai de dix-huit mois à compter de la publication de la présente loi pour se mettre en conformité avec les dispositions de l'article 2.II. - Les dispositions de l'article 24 entreront en vigueur un an après la publication de la présente loi.",
+      "valid_from": "1992-07-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,235 +12,280 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "A droit à la réintégration dans son emploi ou, à défaut, dans un emploi équivalent chez le même employeur, à la condition que cette réintégration soit possible, tout titulaire d'un contrat de travail compris dans les catégories suivantes :1° Tout engagé volontaire, appelé, rappelé ou maintenu dans l'armée française ou dans une armée alliée au cours des hostilités, y compris les anciens militaires alsaciens ou lorrains remplissant les conditions, prévues à l'article 1er de l'ordonnance du 10 mars 1945 relative aux pensions militaires ;2° Tout prisonnier de guerre rapatrié ;3° Toute personne détenue ou maintenue en détention en France ou déportée à l'étranger pour des motifs politiques ou militaires sur l'ordre de l'ennemi ou de l'autorité de fait se disant gouvernement de l'Etat français ;4° Toute personne qui a quitté son emploi pour participer à l'action d'une organisation da résistance ou en a été privée pour fait de résistance ;5° Toute personne ayant dû quitter son emploi soit pour travailler au profit de l'ennemi dans des conditions exclusives de toute intention réelle de coopérer à l'effort de guerre de celui-ci, soit pour se soustraira à un travail effectué pour le compte de l'ennemi ;6° Toute personne qui a contracté un engagement volontaire à titre civil dans les conditions fixées par l'article 18 de la loi du 11 juillet 1938 ;7° Toute personne ayant fait l'objet d'un ordre de réquisition civile pour être affectée dans un établissement ou service autre que celui où elle était occupée antérieure ;8° Dans les conditions déterminées par un    décret en Conseil d'Etat, toute personne qui a dû abandonner son emploi par suite des circonstances de guerre, soit pour se réfugier dans une autre localité, soit par suite de la destruction de son domicile, soit en raison de mesures d'ordre politique prises par les autorités ennemies ou par l'autorité de fait se disant Gouvernement de l'Etat français, ou sous la menace d'arrestation, poursuite, mesures ou voies de fait susceptibles d'être opérées ou exercées pour les mêmes motifs par les mêmes autorités."
+      "content": "A droit à la réintégration dans son emploi ou, à défaut, dans un emploi équivalent chez le même employeur, à la condition que cette réintégration soit possible, tout titulaire d'un contrat de travail compris dans les catégories suivantes :1° Tout engagé volontaire, appelé, rappelé ou maintenu dans l'armée française ou dans une armée alliée au cours des hostilités, y compris les anciens militaires alsaciens ou lorrains remplissant les conditions, prévues à l'article 1er de l'ordonnance du 10 mars 1945 relative aux pensions militaires ;2° Tout prisonnier de guerre rapatrié ;3° Toute personne détenue ou maintenue en détention en France ou déportée à l'étranger pour des motifs politiques ou militaires sur l'ordre de l'ennemi ou de l'autorité de fait se disant gouvernement de l'Etat français ;4° Toute personne qui a quitté son emploi pour participer à l'action d'une organisation da résistance ou en a été privée pour fait de résistance ;5° Toute personne ayant dû quitter son emploi soit pour travailler au profit de l'ennemi dans des conditions exclusives de toute intention réelle de coopérer à l'effort de guerre de celui-ci, soit pour se soustraira à un travail effectué pour le compte de l'ennemi ;6° Toute personne qui a contracté un engagement volontaire à titre civil dans les conditions fixées par l'article 18 de la loi du 11 juillet 1938 ;7° Toute personne ayant fait l'objet d'un ordre de réquisition civile pour être affectée dans un établissement ou service autre que celui où elle était occupée antérieure ;8° Dans les conditions déterminées par un    décret en Conseil d'Etat, toute personne qui a dû abandonner son emploi par suite des circonstances de guerre, soit pour se réfugier dans une autre localité, soit par suite de la destruction de son domicile, soit en raison de mesures d'ordre politique prises par les autorités ennemies ou par l'autorité de fait se disant Gouvernement de l'Etat français, ou sous la menace d'arrestation, poursuite, mesures ou voies de fait susceptibles d'être opérées ou exercées pour les mêmes motifs par les mêmes autorités.",
+      "valid_from": "1945-10-25"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Pour apprécier si la réintégration est possible, il est tenu compte uniquement, d'une part, des changements essentiels survenus depuis le départ de l'intéressé dans le fonctionnement de l'administration, service ou entreprise par suite de destructions d'établissement ou d'outillage, de modifications importantes dans les procédés de travail on de diminution durable d'activité, et, d'autre part, des maladies, blessures ou infirmités de nature à modifier notablement l'aptitude de l'intéressé à l'emploi qu'il occupait.La charge de la preuve de l'impossibilité incombe à l'employeur.Le contrat de travail souscrit en vue de pourvoir directement ou indirectement au remplacement d'une personne bénéficiaire des dispositions de l'article 1er n'est pas opposable à celle-ci et ne peut être invoqué par l'employeur comme une cause d'impossibilité on d'empêchement à la réintégration."
+      "content": "Pour apprécier si la réintégration est possible, il est tenu compte uniquement, d'une part, des changements essentiels survenus depuis le départ de l'intéressé dans le fonctionnement de l'administration, service ou entreprise par suite de destructions d'établissement ou d'outillage, de modifications importantes dans les procédés de travail on de diminution durable d'activité, et, d'autre part, des maladies, blessures ou infirmités de nature à modifier notablement l'aptitude de l'intéressé à l'emploi qu'il occupait.La charge de la preuve de l'impossibilité incombe à l'employeur.Le contrat de travail souscrit en vue de pourvoir directement ou indirectement au remplacement d'une personne bénéficiaire des dispositions de l'article 1er n'est pas opposable à celle-ci et ne peut être invoqué par l'employeur comme une cause d'impossibilité on d'empêchement à la réintégration.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "S'il existe, pour un même emploi, plusieurs bénéficiaires du droit à la réintégration, la préférence est toujours accordée aux travailleurs visés à l'article 1er sous les n° 1, 2, 3 et 4.Entre ceux-ci, la préférence est donnée au titulaire du contrat de travail le plus ancien en date, suspendu du fait de l'événement qui justifie l'ouverture du droit A la réintégration ; l'ancienneté est majorée d'un an pour l'ouvrier marié et d'un an pour chaque enfant à charge au sens de législation sur les allocations familiales.Entre les travailleurs visés à l'article 1er sous les n°s 5, 6, 7 et 8, la préférence, est accordée comme il est indiqué à l'alinéa précédent."
+      "content": "S'il existe, pour un même emploi, plusieurs bénéficiaires du droit à la réintégration, la préférence est toujours accordée aux travailleurs visés à l'article 1er sous les n° 1, 2, 3 et 4.Entre ceux-ci, la préférence est donnée au titulaire du contrat de travail le plus ancien en date, suspendu du fait de l'événement qui justifie l'ouverture du droit A la réintégration ; l'ancienneté est majorée d'un an pour l'ouvrier marié et d'un an pour chaque enfant à charge au sens de législation sur les allocations familiales.Entre les travailleurs visés à l'article 1er sous les n°s 5, 6, 7 et 8, la préférence, est accordée comme il est indiqué à l'alinéa précédent.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les bénéficiaires de l'article 1er qui ne peuvent être réintégrés dans leur ancien emploi doivent être pourvus d'un emploi équivalent, même dans le cas où la reprise de l'intéressé entraîne le licenciement d'autres salariés de l'entreprise.Leur réintégration doit se faire d'après leurs aptitudes professionnelles et à égalité d'aptitude professionnelle, en tenant compte de l'ancienneté dans l'établissement, majorée dans les conditions prévues par l'article précédent."
+      "content": "Les bénéficiaires de l'article 1er qui ne peuvent être réintégrés dans leur ancien emploi doivent être pourvus d'un emploi équivalent, même dans le cas où la reprise de l'intéressé entraîne le licenciement d'autres salariés de l'entreprise.Leur réintégration doit se faire d'après leurs aptitudes professionnelles et à égalité d'aptitude professionnelle, en tenant compte de l'ancienneté dans l'établissement, majorée dans les conditions prévues par l'article précédent.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les mesures de licenciement qui seraient éventuelle éventuellement rendues nécessaires par l'application des dispositions de l'article précédent ne peuvent porter que sur les salariés entrés dans l'établissement après le départ du bénéficiaire du droit à la réintégration.En aucun cas, le licenciement ne peut porter sur un ancien combattant ni sur un ancien prisonnier de guerre."
+      "content": "Les mesures de licenciement qui seraient éventuelle éventuellement rendues nécessaires par l'application des dispositions de l'article précédent ne peuvent porter que sur les salariés entrés dans l'établissement après le départ du bénéficiaire du droit à la réintégration.En aucun cas, le licenciement ne peut porter sur un ancien combattant ni sur un ancien prisonnier de guerre.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les bénéficiaires de l'article 1er de la présente ordonnance dont la réintégration ne serait pas possible dans leur ancien service ou leur ancien établissement doivent, s'ils en font la demande, obtenir leur réemploi dans l'un des autres services ou des autres établissements de la même administration on de la même entreprise où ils sont en mesure de se rendre."
+      "content": "Les bénéficiaires de l'article 1er de la présente ordonnance dont la réintégration ne serait pas possible dans leur ancien service ou leur ancien établissement doivent, s'ils en font la demande, obtenir leur réemploi dans l'un des autres services ou des autres établissements de la même administration on de la même entreprise où ils sont en mesure de se rendre.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Dans les administrations, services ou entreprises dans lesquels, en vertu soit d'une disposition législative ou réglementaire, soit d'un statut particulier, soit d'une convention collective du travail, il existe des avantages fondés sur la durée du service, notamment en ce qui concerne l'avancement, l'augmentation des traitements ou des salaires, l'allocation des primes, les personnes visées à l'article 1er sont considérées comme ayant fait partie des administrations, services ou entreprises pendant tout le temps qui s'est écoulé entre leur départ et la date de leur réintégration."
+      "content": "Dans les administrations, services ou entreprises dans lesquels, en vertu soit d'une disposition législative ou réglementaire, soit d'un statut particulier, soit d'une convention collective du travail, il existe des avantages fondés sur la durée du service, notamment en ce qui concerne l'avancement, l'augmentation des traitements ou des salaires, l'allocation des primes, les personnes visées à l'article 1er sont considérées comme ayant fait partie des administrations, services ou entreprises pendant tout le temps qui s'est écoulé entre leur départ et la date de leur réintégration.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Pour être valable, la demande de réintégration doit être notifiée à l'employeur dans le délai de trois mois à compter de la publication de la trois ordonnance ou dans les trois mois qui suivent la démobilisation de l'intéressé, le terme de son hospitalisation, ou de sa convalescence, la cessation du travail obligatoire, la levée de la réquisition civile ou le retour à son domicile. Au cas où l'établissement où travaillait l'intéressé est fermé, le délai de trois mois ne commence à courir qu'à la date de réouverture de l'établissement.En aucun cas, les demandes de réintégration ne peuvent être présentées plus de trois ans après la date légale de cessation légale des hostilités.Dans les cas où les conditions d'application de la présente ordonnance sont déterminées par un    décret en Conseil d'Etat, ce règlement fixera notamment le point de départ des délais prévus par le présent article."
+      "content": "Pour être valable, la demande de réintégration doit être notifiée à l'employeur dans le délai de trois mois à compter de la publication de la trois ordonnance ou dans les trois mois qui suivent la démobilisation de l'intéressé, le terme de son hospitalisation, ou de sa convalescence, la cessation du travail obligatoire, la levée de la réquisition civile ou le retour à son domicile. Au cas où l'établissement où travaillait l'intéressé est fermé, le délai de trois mois ne commence à courir qu'à la date de réouverture de l'établissement.En aucun cas, les demandes de réintégration ne peuvent être présentées plus de trois ans après la date légale de cessation légale des hostilités.Dans les cas où les conditions d'application de la présente ordonnance sont déterminées par un    décret en Conseil d'Etat, ce règlement fixera notamment le point de départ des délais prévus par le présent article.",
+      "valid_from": "1945-10-25"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "La preuve que la demande de réintégration a été présentée dans le délai imparti peut être faite par tous les moyens et notamment par la production du récépissé constatant l'envoi d'une lettre recommandée."
+      "content": "La preuve que la demande de réintégration a été présentée dans le délai imparti peut être faite par tous les moyens et notamment par la production du récépissé constatant l'envoi d'une lettre recommandée.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "L'employeur est tenu, dans les quinze jours qui suivent la demande de réintégration de signifier à l'intéressé soit qu'il accepte de réintégrer soit qu'il juge sa réintégration impossible.Dans ce dernier cas, il doit indiquer les motifs de sa décision et en même temps qu'il la notifie à l'intéressé, en adresser une copie à l'inspecteur du travail. L'employeur est tenu, avant de prendre sa décision, de consulter le comité d'entreprise ou, à défaut, les délégués du personnel s'il en existe. Leur avis est également communiqué à l'inspecteur du travail."
+      "content": "L'employeur est tenu, dans les quinze jours qui suivent la demande de réintégration de signifier à l'intéressé soit qu'il accepte de réintégrer soit qu'il juge sa réintégration impossible.Dans ce dernier cas, il doit indiquer les motifs de sa décision et en même temps qu'il la notifie à l'intéressé, en adresser une copie à l'inspecteur du travail. L'employeur est tenu, avant de prendre sa décision, de consulter le comité d'entreprise ou, à défaut, les délégués du personnel s'il en existe. Leur avis est également communiqué à l'inspecteur du travail.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Si l'inspecteur du travail estime que le refus de l'employeur est insuffisamment motivé, il est tenu, selon le motif invoqué, soit de faire procéder à un examen médical de l'intéressé soit de saisir la commission de réemploi instituée par la présente ordonnance."
+      "content": "Si l'inspecteur du travail estime que le refus de l'employeur est insuffisamment motivé, il est tenu, selon le motif invoqué, soit de faire procéder à un examen médical de l'intéressé soit de saisir la commission de réemploi instituée par la présente ordonnance.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Sous réserve des dispositions prises en faveur des mutilés de guerre et des pères de famille nombreuse, a droit à la priorité d'emploi :1° Toute personne visée par l'article 1er de la présente ordonnance qui n'a pu être réintégrée dans l'emploi qu'elle occupait avant son départ ;2° Toute personne visée par le même article qui était en chômage ou qui n'exerçait pas d'emploi au moment où elle s'est trouvée dans l'une des situations qui justifient l'ouverture du droit à la réintégration."
+      "content": "Sous réserve des dispositions prises en faveur des mutilés de guerre et des pères de famille nombreuse, a droit à la priorité d'emploi :1° Toute personne visée par l'article 1er de la présente ordonnance qui n'a pu être réintégrée dans l'emploi qu'elle occupait avant son départ ;2° Toute personne visée par le même article qui était en chômage ou qui n'exerçait pas d'emploi au moment où elle s'est trouvée dans l'une des situations qui justifient l'ouverture du droit à la réintégration.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les employeurs sont tenus d'embaucher dans les emplois qu'ils ont déclarés vacants les personnes bénéficiaires des dispositions de l'article précédent qui leur sont présentées par le service de la main-d'oeuvre, si ces personnes satisfont aux conditions de capacité professionnelle requises pour ces emplois.Toutefois, cette obligation ne joue que lorsque le total des personnes bénéficiaires de priorités d'emplois n'excède pas la moitié de l'effectif total de l'entreprise."
+      "content": "Les employeurs sont tenus d'embaucher dans les emplois qu'ils ont déclarés vacants les personnes bénéficiaires des dispositions de l'article précédent qui leur sont présentées par le service de la main-d'oeuvre, si ces personnes satisfont aux conditions de capacité professionnelle requises pour ces emplois.Toutefois, cette obligation ne joue que lorsque le total des personnes bénéficiaires de priorités d'emplois n'excède pas la moitié de l'effectif total de l'entreprise.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Le droit à l'emploi par priorité ne peut jouer qu'une seule fois en faveur de chacun des intéressés et que pendant les douze mois qui suivent la date de la demande d'emploi adressée au service de la main-d'oeuvre."
+      "content": "Le droit à l'emploi par priorité ne peut jouer qu'une seule fois en faveur de chacun des intéressés et que pendant les douze mois qui suivent la date de la demande d'emploi adressée au service de la main-d'oeuvre.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "L'obligation d'emploi par l'article 13 ne vise pas les emplois pour lesquels les qualités personnelles du titulaire jouent un rôle déterminant et dont la liste sera fixée par arrêté du ministre du travail et de la sécurité sociale."
+      "content": "L'obligation d'emploi par l'article 13 ne vise pas les emplois pour lesquels les qualités personnelles du titulaire jouent un rôle déterminant et dont la liste sera fixée par arrêté du ministre du travail et de la sécurité sociale.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Tout travailleur bénéficiaire des dispositions du présent titre, présenté par le service de la main-d'oeuvre, doit être soumis par l'employeur à l'essai professionnel prévu par la convention collective de travail ou par l'usage."
+      "content": "Tout travailleur bénéficiaire des dispositions du présent titre, présenté par le service de la main-d'oeuvre, doit être soumis par l'employeur à l'essai professionnel prévu par la convention collective de travail ou par l'usage.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "A droit à l'admission par priorité dans un établissement public ou privé assurant la formation ou la rééducation professionnelle toute personne visée à l'article 1er de la présente ordonnance qui n'a pu être pourvue d'un emploi, si elle remplit, par ailleurs, l'une des conditions suivantes :1°  Avoir subi une diminution de capacité physique la rendant inapte à l'exercice de son ancienne profession ;2° Avoir été dans l'impossibilité d'entreprendre ou dans l'obligation d'interrompre toute formation professionnelle ;3° Se trouver dans l'obligation de changer de profession en raison des conditions nouvelles de production ;4° Avoir l'intention de reprendre un métier précédemment exercé et partiellement oublié.L'admission au bénéfice de la formation ou de la rééducation professionnelle a lieu dans la limite des places disponibles, dans l'ordre ci-dessus indiqué."
+      "content": "A droit à l'admission par priorité dans un établissement public ou privé assurant la formation ou la rééducation professionnelle toute personne visée à l'article 1er de la présente ordonnance qui n'a pu être pourvue d'un emploi, si elle remplit, par ailleurs, l'une des conditions suivantes :1°  Avoir subi une diminution de capacité physique la rendant inapte à l'exercice de son ancienne profession ;2° Avoir été dans l'impossibilité d'entreprendre ou dans l'obligation d'interrompre toute formation professionnelle ;3° Se trouver dans l'obligation de changer de profession en raison des conditions nouvelles de production ;4° Avoir l'intention de reprendre un métier précédemment exercé et partiellement oublié.L'admission au bénéfice de la formation ou de la rééducation professionnelle a lieu dans la limite des places disponibles, dans l'ordre ci-dessus indiqué.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Les personnes visées à l'article 23 de la présente ordonnance, même dans le cas ou elles peuvent être réintégrées ou pourvues d'un emploi, sans être admises, sur leur demande, dans les institutions publiques ou privées de formation professionnelle ou de promotion ouvrière.Elles continuent, dans ce cas, à bénéficier de la garantie de rémunération dans les conditions prévues par le titre IV de la présente ordonnance."
+      "content": "Les personnes visées à l'article 23 de la présente ordonnance, même dans le cas ou elles peuvent être réintégrées ou pourvues d'un emploi, sans être admises, sur leur demande, dans les institutions publiques ou privées de formation professionnelle ou de promotion ouvrière.Elles continuent, dans ce cas, à bénéficier de la garantie de rémunération dans les conditions prévues par le titre IV de la présente ordonnance.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "L'inspecteur du travail eu le fonctionnaire désigné par le ministre du travail statue sur les demandes d'admission au bénéfice de la formation, de la réadaptation eu de la promotion ouvrière.La demande d'admission doit être présentée dans les conditions fixées par l'article 8 ci-dessus, le délai de trois mois étant porté à un an."
+      "content": "L'inspecteur du travail eu le fonctionnaire désigné par le ministre du travail statue sur les demandes d'admission au bénéfice de la formation, de la réadaptation eu de la promotion ouvrière.La demande d'admission doit être présentée dans les conditions fixées par l'article 8 ci-dessus, le délai de trois mois étant porté à un an.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Lorsqu'une personne visée par l'article 1er de la présente ordonnance n'a pu être pourvue d'un emploi en raison de l'insuffisance de sa formation professionnelle, le service de la main-d'oeuvre peut lui imposer comme condition préalable à l'exercice de son droit de priorité l'obligation d'effectuer, un stage dans un centre de formation ou de rééducation professionnelles."
+      "content": "Lorsqu'une personne visée par l'article 1er de la présente ordonnance n'a pu être pourvue d'un emploi en raison de l'insuffisance de sa formation professionnelle, le service de la main-d'oeuvre peut lui imposer comme condition préalable à l'exercice de son droit de priorité l'obligation d'effectuer, un stage dans un centre de formation ou de rééducation professionnelles.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Pendant une durée de six mois le contrat de travail qui lie à un employeur l'une des personnes visées à l'article 1er ne peut être résilié que dans le cas de faute grave ou de force majeure."
+      "content": "Pendant une durée de six mois le contrat de travail qui lie à un employeur l'une des personnes visées à l'article 1er ne peut être résilié que dans le cas de faute grave ou de force majeure.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Les dispositions de la présente ordonnance ne portant aucune atteinte au droit des intéressés d'invoquer les dispositions générales en vigueur en matière de rupture abusive du contrat de travail."
+      "content": "Les dispositions de la présente ordonnance ne portant aucune atteinte au droit des intéressés d'invoquer les dispositions générales en vigueur en matière de rupture abusive du contrat de travail.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Les personnes aptes au travail visées à l'article 1er de la présente ordonnance et appartenant à l'une des catégories énumérées ci-après bénéficient pendant six mois, de la garantie du salaire minimum réglementaire horaire ou mensuel correspondant à l'emploi occupé par le bénéficiaire avant son départ :1° Engagé volontaire, appelé, rappelé ou maintenu sous les drapeaux an cours des hostilités pendant une durée d'au moins trois ans ;2° Déporté politique à l'étranger ;3° Prisonnier de guerre.Le point de départ de la garantie de la rémunération est fixé au jour de la reprise du travail et, au plus tard, quinze jours après la date de la demande de réintégration adressée à l'ancien employeur ou de la demande de réemploi ou d'admission dans un centre spécial de réadaptation adressée au service de la main-d'oeuvre."
+      "content": "Les personnes aptes au travail visées à l'article 1er de la présente ordonnance et appartenant à l'une des catégories énumérées ci-après bénéficient pendant six mois, de la garantie du salaire minimum réglementaire horaire ou mensuel correspondant à l'emploi occupé par le bénéficiaire avant son départ :1° Engagé volontaire, appelé, rappelé ou maintenu sous les drapeaux an cours des hostilités pendant une durée d'au moins trois ans ;2° Déporté politique à l'étranger ;3° Prisonnier de guerre.Le point de départ de la garantie de la rémunération est fixé au jour de la reprise du travail et, au plus tard, quinze jours après la date de la demande de réintégration adressée à l'ancien employeur ou de la demande de réemploi ou d'admission dans un centre spécial de réadaptation adressée au service de la main-d'oeuvre.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "La charge de la rémunération garantie incombe à l'employeur lorsque le salarié est réintégré dans l'entreprise où il était occupé avant son départ soit dans son emploi, soit dans un emploi équivalent."
+      "content": "La charge de la rémunération garantie incombe à l'employeur lorsque le salarié est réintégré dans l'entreprise où il était occupé avant son départ soit dans son emploi, soit dans un emploi équivalent.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Lorsque l'intéressé a été pourvu, dans un établissement autre que son établissement d'origine, d'un emploi comportant un salaire horaire ou mensuel inférieur an salaire garanti, soit lorsqu'il a été admis dans un centre de réadaptation professionnelle, la rémunération garantie est versée en totalité par l'employeur ou par la centre de réadaptation professionnelle. La part de cette rémunération correspondant à l'emploi qu'il occupe ou, dans le cas de réadaptation professionnelle. La valeur des services rendus, ainsi que les charges sociales afférentes restent seules à la charge de l'employeur ou du centre de réadaptation professionnelle, l'autre part de cette rémunération et des charges sociales est remboursée par l'Etat."
+      "content": "Lorsque l'intéressé a été pourvu, dans un établissement autre que son établissement d'origine, d'un emploi comportant un salaire horaire ou mensuel inférieur an salaire garanti, soit lorsqu'il a été admis dans un centre de réadaptation professionnelle, la rémunération garantie est versée en totalité par l'employeur ou par la centre de réadaptation professionnelle. La part de cette rémunération correspondant à l'emploi qu'il occupe ou, dans le cas de réadaptation professionnelle. La valeur des services rendus, ainsi que les charges sociales afférentes restent seules à la charge de l'employeur ou du centre de réadaptation professionnelle, l'autre part de cette rémunération et des charges sociales est remboursée par l'Etat.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "Lorsque l'intéressé ne peut être pourvu d'un emploi ni admis au bénéfice d'une réadaptation professionnelle, la charge de la rémunération garantie incombe à l'Etat et le payement en est assuré par les services de la main-d'oeuvre."
+      "content": "Lorsque l'intéressé ne peut être pourvu d'un emploi ni admis au bénéfice d'une réadaptation professionnelle, la charge de la rémunération garantie incombe à l'Etat et le payement en est assuré par les services de la main-d'oeuvre.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Les modalités d'application des dispositions des deux articles précédents seront déterminées par un décret contresigné par le ministre du travail et de la sécurité sociale, le ministre des prisonniers de guerre, déportés et réfugiés et le ministre des finances."
+      "content": "Les modalités d'application des dispositions des deux articles précédents seront déterminées par un décret contresigné par le ministre du travail et de la sécurité sociale, le ministre des prisonniers de guerre, déportés et réfugiés et le ministre des finances.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "Si l'activité de l'établissement se trouve réduite ou modifiée et que le réemploi du travailleur soit impossible chez son employeur, l'intéressé est tenu, sous peine de perdre le bénéfice des dispositions de l'article 23, d'accepter tout emploi, correspondant à ses aptitudes, qui lui est offert dans le cadre de département ou des départements limitrophes par le service de la main-d'oeuvre. Il est également tenu de se soumettre aux mesures de rééducation professionnelle indiquées sous le titre III."
+      "content": "Si l'activité de l'établissement se trouve réduite ou modifiée et que le réemploi du travailleur soit impossible chez son employeur, l'intéressé est tenu, sous peine de perdre le bénéfice des dispositions de l'article 23, d'accepter tout emploi, correspondant à ses aptitudes, qui lui est offert dans le cadre de département ou des départements limitrophes par le service de la main-d'oeuvre. Il est également tenu de se soumettre aux mesures de rééducation professionnelle indiquées sous le titre III.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "Il est institué dans chaque section territoriale de l'inspection du travail une commission interprofessionnelle de réemploi.Il peut être institué également, par arrêté du préfet sur proposition de l'inspecteur du travail dans chacune des sections susvisées une ou plusieurs commissions professionnelles de réemploi. Dans ce cas, la commission interprofessionnelle reste compétente pour examiner les affaires qui ne ressortissent pas aux commissions professionnelles instituées."
+      "content": "Il est institué dans chaque section territoriale de l'inspection du travail une commission interprofessionnelle de réemploi.Il peut être institué également, par arrêté du préfet sur proposition de l'inspecteur du travail dans chacune des sections susvisées une ou plusieurs commissions professionnelles de réemploi. Dans ce cas, la commission interprofessionnelle reste compétente pour examiner les affaires qui ne ressortissent pas aux commissions professionnelles instituées.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "La commission de réemploi est chargée de statuer sur les différends qui lui sont soumis concernant la réintégration dans leur ancien établissement des personnes visées à l'article 1er de la présente ordonnance."
+      "content": "La commission de réemploi est chargée de statuer sur les différends qui lui sont soumis concernant la réintégration dans leur ancien établissement des personnes visées à l'article 1er de la présente ordonnance.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "La commission est saisie, soit par l'inspecteur du travail dans les conditions indiquées à l'article 11, soit directement par toute personne intéressée."
+      "content": "La commission est saisie, soit par l'inspecteur du travail dans les conditions indiquées à l'article 11, soit directement par toute personne intéressée.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "Elle statue définitivement en indiquant expressément si la réintégration de la personne intéressée est possible dans l'établissement où celle-ci travaillait avant son départ, finit dans l'emploi qu'elle occupait, soit dans un autre emploi."
+      "content": "Elle statue définitivement en indiquant expressément si la réintégration de la personne intéressée est possible dans l'établissement où celle-ci travaillait avant son départ, finit dans l'emploi qu'elle occupait, soit dans un autre emploi.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art33",
       "section": "33",
       "title": "Article 33",
-      "content": "Les membres de la commission de réemploi sont nommés par le préfet.Un fonctionnaire ou un ancien fonctionnaire, président ;Un représentant des employeurs et un représentant des travailleurs choisis parmi les anciens combattants ou anciens prisonniers sur la proposition des organisations syndicales les plus représentatives.Des membres suppléants en nombre égal à celui des membres titulaires sont désignés dans les mêmes conditions.L'inspecteur du travail et, pour les affaires les concernant, le directeur de l'office départemental des mutilés et anciens combattants, le secrétaire départemental au reclassement professionnel des anciens prisonniers et déportés et le contrôleur des réfugiés, ou leurs représentants, assistent aux séances de la commission avec voix consultative."
+      "content": "Les membres de la commission de réemploi sont nommés par le préfet.Un fonctionnaire ou un ancien fonctionnaire, président ;Un représentant des employeurs et un représentant des travailleurs choisis parmi les anciens combattants ou anciens prisonniers sur la proposition des organisations syndicales les plus représentatives.Des membres suppléants en nombre égal à celui des membres titulaires sont désignés dans les mêmes conditions.L'inspecteur du travail et, pour les affaires les concernant, le directeur de l'office départemental des mutilés et anciens combattants, le secrétaire départemental au reclassement professionnel des anciens prisonniers et déportés et le contrôleur des réfugiés, ou leurs représentants, assistent aux séances de la commission avec voix consultative.",
+      "valid_from": "1945-10-25"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "Tous les employeurs, quels qu'ils soient, sont assujettis aux prescriptions de la présente ordonnance, même pour l'exécution des contrats d'emploi de droit public. Toutefois, les obligations de l'Etat et des établissements publics de l'Etat envers leurs fonctionnaires restent régis par les dispositions spéciales.Des réglements d'administration publique détermineront les conditions d'application de la présente ordonnance aux professions forestières et agricoles."
+      "content": "Tous les employeurs, quels qu'ils soient, sont assujettis aux prescriptions de la présente ordonnance, même pour l'exécution des contrats d'emploi de droit public. Toutefois, les obligations de l'Etat et des établissements publics de l'Etat envers leurs fonctionnaires restent régis par les dispositions spéciales.Des réglements d'administration publique détermineront les conditions d'application de la présente ordonnance aux professions forestières et agricoles.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "Dans les établissements autres que les exploitations agricoles et forestières, l'exécution des prescriptions de la présente ordonnance et des mesures prises pour son application est assurée concurremment par les officiers de police judiciaires et les inspecteurs du travail."
+      "content": "Dans les établissements autres que les exploitations agricoles et forestières, l'exécution des prescriptions de la présente ordonnance et des mesures prises pour son application est assurée concurremment par les officiers de police judiciaires et les inspecteurs du travail.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "Toute infraction aux obligations imposées aux employeurs par la présente ordonnance est punie d'une amende de 500 à 15000 fr.En cas de récidive au cours de la même année, le maximum de l'amende est porté an double et le tribunal peut, en outre, prononcer un emprisonnement de six jours à trois mois."
+      "content": "Toute infraction aux obligations imposées aux employeurs par la présente ordonnance est punie d'une amende de 500 à 15000 fr.En cas de récidive au cours de la même année, le maximum de l'amende est porté an double et le tribunal peut, en outre, prononcer un emprisonnement de six jours à trois mois.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "Outre les peines ci-dessus prévues, l'employeur qui refuse de réintégrer une des personnes visées à l'article 1er, contrairement à la décision de la commission de réemploi, est passible d'une amende administrative égale au montant de trois mois de salaires, au taux de rémunération légalement en vigueur dans la profession de l'intéressé au moment du refus de la réintégration."
+      "content": "Outre les peines ci-dessus prévues, l'employeur qui refuse de réintégrer une des personnes visées à l'article 1er, contrairement à la décision de la commission de réemploi, est passible d'une amende administrative égale au montant de trois mois de salaires, au taux de rémunération légalement en vigueur dans la profession de l'intéressé au moment du refus de la réintégration.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "Le décret du 21 avril 1939 est abrogé.Est expressément constatée la nullité des actes dits :Loi du 13 septembre 1940 relative à l'obligation d'emploi des démobilisés ;Décret du 29 novembre 1940 fixant les modalités d'application de la loi du 13 septembre 1940 ;Loi du 30 juin 1944 ayant pour objet de garantir aux hommes rappelés sous les drapeaux la reprise de leur contrat de travail ;Loi du 2 février 1942 modifiant la loi du 13 septembre 1940 relative au réemploi des prisonniers de guerre rapatriés ;Loi du 30 mai 1942 créant des commissions pour le reclassement professionnel des prisonniers rapatriés ;Loi du 6 juin 1942 modifiant la loi du 13 septembre 1940 relative à l'obligation d'emploi des démobilisés ;Décret du 21 juillet 1942 portant règlement d'administration publique pour l'application de la loi du 2 février 1942 relative à l'emploi des prisonniers de guerre rapatriés et de l'article 3 de la loi du 13 septembre 1940 relative à l'emploi des démobilisés ;Loi du 2 octobre 1942 relative à l'emploi des travailleurs qui se rendent en Allemagne pour occuper un emploi salarié ;Arrêté du 27 août 1913 relatif au réemploi des prisonniers de guerre rapatriés en cas d'inaptitude physique.Toutefois, les effets produits par lesdits actes antérieurement à l'application de la présente ordonnance sont validés. En outre, et à titre transitoire, les infractions déjà commises et non encore définitivement réprimées, seront sanctionnées conformément aux dispositions des textes annulés."
+      "content": "Le décret du 21 avril 1939 est abrogé.Est expressément constatée la nullité des actes dits :Loi du 13 septembre 1940 relative à l'obligation d'emploi des démobilisés ;Décret du 29 novembre 1940 fixant les modalités d'application de la loi du 13 septembre 1940 ;Loi du 30 juin 1944 ayant pour objet de garantir aux hommes rappelés sous les drapeaux la reprise de leur contrat de travail ;Loi du 2 février 1942 modifiant la loi du 13 septembre 1940 relative au réemploi des prisonniers de guerre rapatriés ;Loi du 30 mai 1942 créant des commissions pour le reclassement professionnel des prisonniers rapatriés ;Loi du 6 juin 1942 modifiant la loi du 13 septembre 1940 relative à l'obligation d'emploi des démobilisés ;Décret du 21 juillet 1942 portant règlement d'administration publique pour l'application de la loi du 2 février 1942 relative à l'emploi des prisonniers de guerre rapatriés et de l'article 3 de la loi du 13 septembre 1940 relative à l'emploi des démobilisés ;Loi du 2 octobre 1942 relative à l'emploi des travailleurs qui se rendent en Allemagne pour occuper un emploi salarié ;Arrêté du 27 août 1913 relatif au réemploi des prisonniers de guerre rapatriés en cas d'inaptitude physique.Toutefois, les effets produits par lesdits actes antérieurement à l'application de la présente ordonnance sont validés. En outre, et à titre transitoire, les infractions déjà commises et non encore définitivement réprimées, seront sanctionnées conformément aux dispositions des textes annulés.",
+      "valid_from": "1945-05-02"
     },
     {
       "provision_ref": "art39",
       "section": "39",
       "title": "Article 39",
-      "content": "La présente ordonnance sera publiée au Journal officiel de la République que française et exécutée comme loi."
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République que française et exécutée comme loi.",
+      "valid_from": "1945-05-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

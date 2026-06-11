@@ -12,7 +12,14 @@
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Dans des conditions définies par décret, l'engagement des élèves en tant que jeune sapeur-pompier ou sapeur-pompier volontaire est valorisé."
+      "content": "Dans des conditions définies par décret, l'engagement des élèves en tant que jeune sapeur-pompier ou sapeur-pompier volontaire est valorisé.",
+      "valid_from": "2011-07-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

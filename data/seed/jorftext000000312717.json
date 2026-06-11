@@ -12,7 +12,14 @@
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "a) Paragraphe abrogé.b) La prise de service militaire à l'étranger, même antérieure à la promulgation de la présente loi, ne peut entraîner la déchéance de la qualité de Français, à moins que cette déchéance n'ait été constatée par une décision de justice passée en force de chose jugée."
+      "content": "a) Paragraphe abrogé.b) La prise de service militaire à l'étranger, même antérieure à la promulgation de la présente loi, ne peut entraîner la déchéance de la qualité de Français, à moins que cette déchéance n'ait été constatée par une décision de justice passée en force de chose jugée.",
+      "valid_from": "1945-10-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,7 +12,14 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "I. A modifié les dispositions suivantes :\n\nCode électoral\n\nArt. L 290-1\n\nII. ― Le I entre en vigueur à la date d'entrée en vigueur de l'article 33 de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral."
+      "content": "I. A modifié les dispositions suivantes :\n\nCode électoral\n\nArt. L 290-1\n\nII. ― Le I entre en vigueur à la date d'entrée en vigueur de l'article 33 de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral.",
+      "valid_from": "2013-08-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

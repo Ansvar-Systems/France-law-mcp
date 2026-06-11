@@ -12,7 +12,14 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I.-Les articles 1er à 4 de la présente loi entrent en vigueur dans les conditions prévues par un décret en Conseil d'Etat et au plus tard au terme d'un délai de cinq ans à compter de la date de sa publication.\n\nI bis.-Les propriétaires ayant signé un contrat d'achat des détecteurs au plus tard au 8 mars 2015 sont réputés satisfaire à l'obligation prévue à l'article L. 142-1 du code de la construction et de l'habitation, à la condition que le détecteur de fumée soit installé avant le 1er janvier 2016.\n\nII.-Un rapport sur l'application et sur l'évaluation de ces dispositions est transmis au Parlement à l'issue de ce délai de cinq ans. Ce rapport rend également compte des actions d'information du public sur la prévention des incendies domestiques et sur la conduite à tenir en cas d'incendie menées depuis la publication de la présente loi."
+      "content": "I.-Les articles 1er à 4 de la présente loi entrent en vigueur dans les conditions prévues par un décret en Conseil d'Etat et au plus tard au terme d'un délai de cinq ans à compter de la date de sa publication.\n\nI bis.-Les propriétaires ayant signé un contrat d'achat des détecteurs au plus tard au 8 mars 2015 sont réputés satisfaire à l'obligation prévue à l'article L. 142-1 du code de la construction et de l'habitation, à la condition que le détecteur de fumée soit installé avant le 1er janvier 2016.\n\nII.-Un rapport sur l'application et sur l'évaluation de ces dispositions est transmis au Parlement à l'issue de ce délai de cinq ans. Ce rapport rend également compte des actions d'information du public sur la prévention des incendies domestiques et sur la conduite à tenir en cas d'incendie menées depuis la publication de la présente loi.",
+      "valid_from": "2021-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,7 +12,14 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions de l'article 1er ci-dessus ne font pas obstacle au maintien des droits acquis à la garantie de ressources résultant des dispositions législatives et réglementaires en vigueur à la date de publication de la présente loi ou d'engagements conventionnels pris avec l'Etat avant la publication de la présente loi. Les modalités d'application du présent article seront fixées par décret."
+      "content": "Les dispositions de l'article 1er ci-dessus ne font pas obstacle au maintien des droits acquis à la garantie de ressources résultant des dispositions législatives et réglementaires en vigueur à la date de publication de la présente loi ou d'engagements conventionnels pris avec l'Etat avant la publication de la présente loi. Les modalités d'application du présent article seront fixées par décret.",
+      "valid_from": "1983-07-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

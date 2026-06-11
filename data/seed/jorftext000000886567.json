@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La présente loi est applicable dans les territoires de la Nouvelle-Calédonie, de la Polynésie française, de Wallis et Futuna et des Terres australes et antarctiques françaises ainsi que dans la collectivité territoriale de Mayotte."
+      "content": "La présente loi est applicable dans les territoires de la Nouvelle-Calédonie, de la Polynésie française, de Wallis et Futuna et des Terres australes et antarctiques françaises ainsi que dans la collectivité territoriale de Mayotte.",
+      "valid_from": "1978-07-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les conditions d'application de la présente loi seront fixées par décret en Conseil d'Etat.Ce décret procédera notamment, sans en modifier le fond, à l'adaptation aux dispositions de la présente loi des références faites par d'autres textes aux anciens articles 1832 à 1873 du code civil, et supprimera celles de ces références qui n'ont plus d'objet."
+      "content": "Les conditions d'application de la présente loi seront fixées par décret en Conseil d'Etat.Ce décret procédera notamment, sans en modifier le fond, à l'adaptation aux dispositions de la présente loi des références faites par d'autres textes aux anciens articles 1832 à 1873 du code civil, et supprimera celles de ces références qui n'ont plus d'objet.",
+      "valid_from": "1978-07-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La présente loi entrera en vigueur le premier jour du sixième mois qui suivra sa publication.Elle s'appliquera aux sociétés qui se constitueront à compter de son entrée en vigueur.Elle sera applicable aux sociétés constituées avant son entrée en vigueur deux ans après celle-ci. Elle sera applicable avant cette date aux sociétés jouissant de la personnalité morale dès leur immatriculation et aux sociétés en participation si les associés en décident ainsi.Par dérogation à l'article 1845-1 du code civil, les sociétés civiles constituées avant l'entrée en vigueur de la présente loi ont la faculté de maintenir des parts sociales inégales.A dater de l'application de la présente loi à une société, les dispositions statutaires contraires sont réputées non écrites.Les sociétés constituées pendant la période comprise entre la publication de la présente loi et la date prévue ci-dessus pour son entrée en vigueur pourront, par une clause expresse de leurs statuts, se soumettre au droit nouveau. Jusqu'à leur immatriculation, qui ne pourra intervenir qu'après ladite entrée en vigueur, elles seront régies par les articles 1842 à 1843-1 du code civil."
+      "content": "La présente loi entrera en vigueur le premier jour du sixième mois qui suivra sa publication.Elle s'appliquera aux sociétés qui se constitueront à compter de son entrée en vigueur.Elle sera applicable aux sociétés constituées avant son entrée en vigueur deux ans après celle-ci. Elle sera applicable avant cette date aux sociétés jouissant de la personnalité morale dès leur immatriculation et aux sociétés en participation si les associés en décident ainsi.Par dérogation à l'article 1845-1 du code civil, les sociétés civiles constituées avant l'entrée en vigueur de la présente loi ont la faculté de maintenir des parts sociales inégales.A dater de l'application de la présente loi à une société, les dispositions statutaires contraires sont réputées non écrites.Les sociétés constituées pendant la période comprise entre la publication de la présente loi et la date prévue ci-dessus pour son entrée en vigueur pourront, par une clause expresse de leurs statuts, se soumettre au droit nouveau. Jusqu'à leur immatriculation, qui ne pourra intervenir qu'après ladite entrée en vigueur, elles seront régies par les articles 1842 à 1843-1 du code civil.",
+      "valid_from": "2002-11-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,7 +12,14 @@
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Les dispositions de l'article 161 du code de la famille et de l'aide sociale sont abrogées sauf en ce qui concerne les personnes mentionnées à l'article 184 dudit code."
+      "content": "Les dispositions de l'article 161 du code de la famille et de l'aide sociale sont abrogées sauf en ce qui concerne les personnes mentionnées à l'article 184 dudit code.",
+      "valid_from": "1972-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

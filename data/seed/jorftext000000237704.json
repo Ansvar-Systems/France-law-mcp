@@ -12,13 +12,21 @@
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "Les titres II et III sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna."
+      "content": "Les titres II et III sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.",
+      "valid_from": "2003-04-12"
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "Un décret en Conseil d'Etat fixe les modalités d'application de la présente loi."
+      "content": "Un décret en Conseil d'Etat fixe les modalités d'application de la présente loi.",
+      "valid_from": "2003-04-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

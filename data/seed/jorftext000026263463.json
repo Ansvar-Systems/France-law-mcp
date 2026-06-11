@@ -12,13 +12,22 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les articles 1er à 6 de la présente loi sont applicables à Wallis-et-Futuna, en Polynésie française et en Nouvelle-Calédonie."
+      "content": "Les articles 1er à 6 de la présente loi sont applicables à Wallis-et-Futuna, en Polynésie française et en Nouvelle-Calédonie.",
+      "valid_from": "2012-08-08"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Lorsque, en raison de l'abrogation de l'article 222-33 du code pénal résultant de la décision du Conseil constitutionnel n° 2012-240 QPC du 4 mai 2012, le tribunal correctionnel ou la chambre des appels correctionnels constate l'extinction de l'action publique, la juridiction demeure compétente, sur la demande de la partie civile formulée avant la clôture des débats, pour accorder, en application des règles du droit civil, réparation de tous les dommages résultant des faits qui ont fondé la poursuite ainsi que le paiement d'une somme qu'elle détermine au titre des frais exposés par la partie civile et non payés par l'Etat.\n\nLe présent article est applicable à Wallis-et-Futuna, en Polynésie française et en Nouvelle-Calédonie."
+      "content": "Lorsque, en raison de l'abrogation de l'article 222-33 du code pénal résultant de la décision du Conseil constitutionnel n° 2012-240 QPC du 4 mai 2012, le tribunal correctionnel ou la chambre des appels correctionnels constate l'extinction de l'action publique, la juridiction demeure compétente, sur la demande de la partie civile formulée avant la clôture des débats, pour accorder, en application des règles du droit civil, réparation de tous les dommages résultant des faits qui ont fondé la poursuite ainsi que le paiement d'une somme qu'elle détermine au titre des frais exposés par la partie civile et non payés par l'Etat.\n\nLe présent article est applicable à Wallis-et-Futuna, en Polynésie française et en Nouvelle-Calédonie.",
+      "valid_from": "2012-08-08",
+      "valid_to": "2029-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

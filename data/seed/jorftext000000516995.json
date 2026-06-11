@@ -12,7 +12,14 @@
       "provision_ref": "art33",
       "section": "33",
       "title": "Article 33",
-      "content": "La présente ordonnance entrera en vigueur en même temps que l'ordonnance n° 58-1273 du 22 décembre 1958 relative à l'organisation judiciaire."
+      "content": "La présente ordonnance entrera en vigueur en même temps que l'ordonnance n° 58-1273 du 22 décembre 1958 relative à l'organisation judiciaire.",
+      "valid_from": "1959-03-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

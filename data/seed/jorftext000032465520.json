@@ -12,13 +12,21 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "A l'exception du III de l'article 5, les dispositions de la présente ordonnance entrent en vigueur le 1er octobre 2016.\n\nLe III de l'article 5 entre en vigueur le 1er juillet 2016."
+      "content": "A l'exception du III de l'article 5, les dispositions de la présente ordonnance entrent en vigueur le 1er octobre 2016.\n\nLe III de l'article 5 entre en vigueur le 1er juillet 2016.",
+      "valid_from": "2016-04-30"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le Premier ministre, le ministre des finances et des comptes publics, le ministre de l'économie, de l'industrie et du numérique et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des finances et des comptes publics, le ministre de l'économie, de l'industrie et du numérique et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-04-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

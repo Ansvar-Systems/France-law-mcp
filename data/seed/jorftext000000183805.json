@@ -12,25 +12,35 @@
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "L'article 29 de l'ordonnance n° 86-1134 du 21 octobre 1986 précitée est abrogé."
+      "content": "L'article 29 de l'ordonnance n° 86-1134 du 21 octobre 1986 précitée est abrogé.",
+      "valid_from": "1994-07-27"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "Jusqu'au 31 décembre 1994, les droits constitués au profit des salariés au titre de la participation sont négociables ou exigibles avant l'expiration des délais fixés aux deux premiers alinéas de l'article 13, au deuxième alinéa de l'article 17 et à l'article 26 de l'ordonnance n° 86-1134 du 21 octobre 1986 précitée lorsque le bénéficiaire justifie avoir engagé depuis le 15 février 1994 l'une des dépenses suivantes :\n\n1° Acquisition d'une voiture particulière ;\n\n2° Réalisation de travaux immobiliers d'un montant au moins égal à 20 000 F.\n\nLes droits sont liquidés pour un montant au plus égal à la dépense effective.\n\nToutefois, pour les sociétés coopératives de production, les droits constitués sous forme de créance sur l'entreprise selon les dispositions du cinquième alinéa de l'article 11 de l'ordonnance n° 86-1134 du 21 octobre 1986 précitée ne sont exigibles, à compter de la publication de la présente loi, que sous réserve de la conclusion d'un accord dans les conditions prévues par l'article 16 de ladite ordonnance."
+      "content": "Jusqu'au 31 décembre 1994, les droits constitués au profit des salariés au titre de la participation sont négociables ou exigibles avant l'expiration des délais fixés aux deux premiers alinéas de l'article 13, au deuxième alinéa de l'article 17 et à l'article 26 de l'ordonnance n° 86-1134 du 21 octobre 1986 précitée lorsque le bénéficiaire justifie avoir engagé depuis le 15 février 1994 l'une des dépenses suivantes :\n\n1° Acquisition d'une voiture particulière ;\n\n2° Réalisation de travaux immobiliers d'un montant au moins égal à 20 000 F.\n\nLes droits sont liquidés pour un montant au plus égal à la dépense effective.\n\nToutefois, pour les sociétés coopératives de production, les droits constitués sous forme de créance sur l'entreprise selon les dispositions du cinquième alinéa de l'article 11 de l'ordonnance n° 86-1134 du 21 octobre 1986 précitée ne sont exigibles, à compter de la publication de la présente loi, que sous réserve de la conclusion d'un accord dans les conditions prévues par l'article 16 de ladite ordonnance.",
+      "valid_from": "2014-08-02"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "Par dérogation au premier alinéa de l'article L. 442-10 et à l'article L. 443-6 du Code du travail , un accord conclu dans les conditions prévues par l'article 16 de ladite ordonnance peut prévoir que tout ou partie des droits constitués au profit de chaque salarié au titre de la réserve spéciale de participation des exercices ouverts en 1989 et 1990 sont négociables ou exigibles à compter de la publication de la présente loi."
+      "content": "Par dérogation au premier alinéa de l'article L. 442-10 et à l'article L. 443-6 du Code du travail , un accord conclu dans les conditions prévues par l'article 16 de ladite ordonnance peut prévoir que tout ou partie des droits constitués au profit de chaque salarié au titre de la réserve spéciale de participation des exercices ouverts en 1989 et 1990 sont négociables ou exigibles à compter de la publication de la présente loi.",
+      "valid_from": "1994-07-27"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "Les dispositions des articles 12 et 13 de la présente loi sont applicables aux accords conclus ou renouvelés à compter du 1er octobre 1994.Les dispositions de l'article 16 sont applicables pour chaque entreprise au premier exercice ouvert après sa publication, nonobstant toute clause conventionnelle contraire.Les dispositions de l'article 20 s'appliquent pour la détermination des résultats imposables du premier exercice ouvert à compter du 1er janvier 1994.Les dispositions de l'article 23 s'appliquent aux versements effectués à compter du 1er janvier 1994."
+      "content": "Les dispositions des articles 12 et 13 de la présente loi sont applicables aux accords conclus ou renouvelés à compter du 1er octobre 1994.Les dispositions de l'article 16 sont applicables pour chaque entreprise au premier exercice ouvert après sa publication, nonobstant toute clause conventionnelle contraire.Les dispositions de l'article 20 s'appliquent pour la détermination des résultats imposables du premier exercice ouvert à compter du 1er janvier 1994.Les dispositions de l'article 23 s'appliquent aux versements effectués à compter du 1er janvier 1994.",
+      "valid_from": "1994-07-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

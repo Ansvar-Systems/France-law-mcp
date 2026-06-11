@@ -12,13 +12,21 @@
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "I.-Les articles 1er, 2,3, le II de l'article 4, les articles 5,7,8,25 et 26 de la présente loi sont applicables dans les îles Wallis et Futuna.II.-Les articles 1er, 2,3, le II de l'article 4, les articles 5,7,8 et 26 de la présente loi sont applicables en Polynésie française.\n\nA modifié les dispositions suivantes :\n\n- Code de procédure pénale\n\n- Code pénal\n\n- Loi n° 91-647 du 10 juillet 1991"
+      "content": "I.-Les articles 1er, 2,3, le II de l'article 4, les articles 5,7,8,25 et 26 de la présente loi sont applicables dans les îles Wallis et Futuna.II.-Les articles 1er, 2,3, le II de l'article 4, les articles 5,7,8 et 26 de la présente loi sont applicables en Polynésie française.\n\nA modifié les dispositions suivantes :\n\n- Code de procédure pénale\n\n- Code pénal\n\n- Loi n° 91-647 du 10 juillet 1991",
+      "valid_from": "2020-08-01"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "A modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- LOI n° 2013-659 du 22 juillet 2013"
+      "content": "A modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- LOI n° 2013-659 du 22 juillet 2013",
+      "valid_from": "2020-08-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

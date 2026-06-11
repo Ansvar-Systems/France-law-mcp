@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les courtiers jurés d'assurances et les courtiers interprètes et conducteurs de navires cessent d'être astreints à déposer un cautionnement dans les caisses du Trésor."
+      "content": "Les courtiers jurés d'assurances et les courtiers interprètes et conducteurs de navires cessent d'être astreints à déposer un cautionnement dans les caisses du Trésor.",
+      "valid_from": "1951-09-12"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les intéressés pourront obtenir le remboursement des cautionnements qu'ils ont versés, en adressant une demande sur papier timbré à la caisse des dépôts et consignations chargée de gérer le cautionnement (service central ou local)."
+      "content": "Les intéressés pourront obtenir le remboursement des cautionnements qu'ils ont versés, en adressant une demande sur papier timbré à la caisse des dépôts et consignations chargée de gérer le cautionnement (service central ou local).",
+      "valid_from": "1951-09-12"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "L'article 9 de la loi du 28 ventôse an IX est abrogé en ce qui concerne les courtiers jurés d'assurances et les courtiers interprètes et conducteurs de navires."
+      "content": "L'article 9 de la loi du 28 ventôse an IX est abrogé en ce qui concerne les courtiers jurés d'assurances et les courtiers interprètes et conducteurs de navires.",
+      "valid_from": "1951-09-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

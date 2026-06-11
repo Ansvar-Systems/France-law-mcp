@@ -12,25 +12,35 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Sont abrogés :1° L'article 7 de la loi n° 70-597 du 9 juillet 1970 instituant un taux légal d'alcoolémie et généralisant le dépistage par l'air expiré ;2° L'article 19 et le deuxième alinéa de l'article 20 de la loi n° 89-469 du 10 juillet 1989 relative à diverses dispositions en matière de sécurité routière et en matière de contraventions ;3° Les articles 14 à 16 de l'ordonnance n° 92-1149 du 2 octobre 1992 portant actualisation et adaptation des dispositions législatives de procédure pénale applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna."
+      "content": "Sont abrogés :1° L'article 7 de la loi n° 70-597 du 9 juillet 1970 instituant un taux légal d'alcoolémie et généralisant le dépistage par l'air expiré ;2° L'article 19 et le deuxième alinéa de l'article 20 de la loi n° 89-469 du 10 juillet 1989 relative à diverses dispositions en matière de sécurité routière et en matière de contraventions ;3° Les articles 14 à 16 de l'ordonnance n° 92-1149 du 2 octobre 1992 portant actualisation et adaptation des dispositions législatives de procédure pénale applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.",
+      "valid_from": "1995-02-02"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Sous réserve des décharges ou dégrèvements prononcés par décision de justice passée en force de chose jugée, les centimes additionnels à la contribution des patentes à l'impôt foncier sur les propriétés bâties et à la contribution des licences perçus par les communes de Polynésie française pour les années 1972 à 1994 sont validés en tant que leur légalité serait contestée par le moyen tiré de ce que l'autorité ayant pris l'arrêté n° 3005 BAC du 20 septembre 1972 fixant le maximum des centimes additionnels aux contributions locales perçus au profit des budgets communaux n'était pas compétente pour déterminer la nature des contributions locales auxquelles ces centimes additionnels s'appliquent."
+      "content": "Sous réserve des décharges ou dégrèvements prononcés par décision de justice passée en force de chose jugée, les centimes additionnels à la contribution des patentes à l'impôt foncier sur les propriétés bâties et à la contribution des licences perçus par les communes de Polynésie française pour les années 1972 à 1994 sont validés en tant que leur légalité serait contestée par le moyen tiré de ce que l'autorité ayant pris l'arrêté n° 3005 BAC du 20 septembre 1972 fixant le maximum des centimes additionnels aux contributions locales perçus au profit des budgets communaux n'était pas compétente pour déterminer la nature des contributions locales auxquelles ces centimes additionnels s'appliquent.",
+      "valid_from": "1995-02-02"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Dans la collectivité territoriale de Mayotte, la responsabilité des conservateurs des hypothèques, telle que découlant des articles 167, 171 et 173 du décret du 4 février 1911 portant règlement sur la propriété foncière à Madagascar déclaré applicable à l'archipel des Comores par le décret du 9 juin 1931 portant réorganisation du régime de la propriété foncière dans l'archipel des Comores, est écartée en tant qu'elle résulte de la destruction des locaux des services de la conservation foncière et hypothécaire de Mamoudzou-Mayotte et est limitée à l'exploitation de la documentation reçue postérieurement au constat établi le 4 juin 1993, en exécution du jugement sur requête du président du tribunal de première instance de Mamoudzou-Mayotte.Jusqu'au 1er janvier 1996, tout acte, formalité, notification ou sommation prescrits à peine de déchéance, nullité, caducité, forclusion, péremption ou inopposabilité, qui n'a pu être accompli par une personne publique ou privée du fait de l'interruption du fonctionnement normal des services de la conservation foncière et hypothécaire de Mamoudzou-Mayotte, sera prorogé dans ses effets d'une période d'un mois à compter de la réception des pièces, des notifications ou des états-réponses délivrés par ces services."
+      "content": "Dans la collectivité territoriale de Mayotte, la responsabilité des conservateurs des hypothèques, telle que découlant des articles 167, 171 et 173 du décret du 4 février 1911 portant règlement sur la propriété foncière à Madagascar déclaré applicable à l'archipel des Comores par le décret du 9 juin 1931 portant réorganisation du régime de la propriété foncière dans l'archipel des Comores, est écartée en tant qu'elle résulte de la destruction des locaux des services de la conservation foncière et hypothécaire de Mamoudzou-Mayotte et est limitée à l'exploitation de la documentation reçue postérieurement au constat établi le 4 juin 1993, en exécution du jugement sur requête du président du tribunal de première instance de Mamoudzou-Mayotte.Jusqu'au 1er janvier 1996, tout acte, formalité, notification ou sommation prescrits à peine de déchéance, nullité, caducité, forclusion, péremption ou inopposabilité, qui n'a pu être accompli par une personne publique ou privée du fait de l'interruption du fonctionnement normal des services de la conservation foncière et hypothécaire de Mamoudzou-Mayotte, sera prorogé dans ses effets d'une période d'un mois à compter de la réception des pièces, des notifications ou des états-réponses délivrés par ces services.",
+      "valid_from": "1995-02-02"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "L'acte de la Chambre des députés des Comores n° 69-02/CHD du 16 avril 1969 relatif à certaines infractions en matière de sécurité intérieure cesse d'avoir effet dans la collectivité territoriale de Mayotte."
+      "content": "L'acte de la Chambre des députés des Comores n° 69-02/CHD du 16 avril 1969 relatif à certaines infractions en matière de sécurité intérieure cesse d'avoir effet dans la collectivité territoriale de Mayotte.",
+      "valid_from": "1995-02-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

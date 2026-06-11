@@ -12,43 +12,56 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. et II. - ((paragraphes modificateurs)).III. - Les règles d'imposition et d'assiette, autres que celles mentionnées au dernier alinéa du 1 et au 7 de l'article 6 du code général des impôts, les règles de liquidation et de paiement de l'impôt sur le revenu et des impôts directs locaux ainsi que celles concernant la souscription des déclarations et le contrôle des mêmes impôts prévues par le code général des impôts et le livre des procédures fiscales pour les contribuables mentionnés au deuxième alinéa du 1 de l'article 6 du code général des impôts s'appliquent aux partenaires liés par un pacte civil de solidarité qui font l'objet d'une imposition commune."
+      "content": "I. et II. - ((paragraphes modificateurs)).III. - Les règles d'imposition et d'assiette, autres que celles mentionnées au dernier alinéa du 1 et au 7 de l'article 6 du code général des impôts, les règles de liquidation et de paiement de l'impôt sur le revenu et des impôts directs locaux ainsi que celles concernant la souscription des déclarations et le contrôle des mêmes impôts prévues par le code général des impôts et le livre des procédures fiscales pour les contribuables mentionnés au deuxième alinéa du 1 de l'article 6 du code général des impôts s'appliquent aux partenaires liés par un pacte civil de solidarité qui font l'objet d'une imposition commune.",
+      "valid_from": "1999-11-16"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "La conclusion d'un pacte civil de solidarité constitue l'un des éléments d'appréciation des liens personnels en France, au sens du 7° de l'article 12 bis de l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France, pour l'obtention d'un titre de séjour."
+      "content": "La conclusion d'un pacte civil de solidarité constitue l'un des éléments d'appréciation des liens personnels en France, au sens du 7° de l'article 12 bis de l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France, pour l'obtention d'un titre de séjour.",
+      "valid_from": "1999-11-16"
     },
     {
       "provision_ref": "art14-1",
       "section": "14-1",
       "title": "Article 14-1",
-      "content": "Les officiers de l'état civil et les notaires établissent des statistiques semestrielles relatives au nombre de pactes civils de solidarité qu'ils enregistrent. Ces statistiques recensent également le nombre des pactes ayant pris fin en distinguant les cas mentionnés à l'article 515-7 du code civil, la durée moyenne des pactes ainsi que l'âge moyen des personnes concernées. Par dérogation à l'article 6 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, elles distinguent les données relatives aux pactes conclus :\n\n-entre des personnes de sexe différent ;\n\n-entre des personnes de sexe féminin ;\n\n-entre des personnes de sexe masculin."
+      "content": "Les officiers de l'état civil et les notaires établissent des statistiques semestrielles relatives au nombre de pactes civils de solidarité qu'ils enregistrent. Ces statistiques recensent également le nombre des pactes ayant pris fin en distinguant les cas mentionnés à l'article 515-7 du code civil, la durée moyenne des pactes ainsi que l'âge moyen des personnes concernées. Par dérogation à l'article 6 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, elles distinguent les données relatives aux pactes conclus :\n\n-entre des personnes de sexe différent ;\n\n-entre des personnes de sexe féminin ;\n\n-entre des personnes de sexe masculin.",
+      "valid_from": "2019-06-01"
     },
     {
       "provision_ref": "art14-2",
       "section": "14-2",
       "title": "Article 14-2",
-      "content": "Les articles 515-1 à 515-7 du code civil sont applicables en Nouvelle-Calédonie et dans les îles Wallis et Futuna."
+      "content": "Les articles 515-1 à 515-7 du code civil sont applicables en Nouvelle-Calédonie et dans les îles Wallis et Futuna.",
+      "valid_from": "2009-05-29"
     },
     {
       "provision_ref": "art14-3",
       "section": "14-3",
       "title": "Article 14-3",
-      "content": "L'article 515-8 du code civil est applicable en Nouvelle-Calédonie et dans les îles Wallis et Futuna."
+      "content": "L'article 515-8 du code civil est applicable en Nouvelle-Calédonie et dans les îles Wallis et Futuna.",
+      "valid_from": "2009-05-29"
     },
     {
       "provision_ref": "art14-4",
       "section": "14-4",
       "title": "Article 14-4",
-      "content": "L'article 14-1 est applicable en Nouvelle-Calédonie et dans les îles Wallis et Futuna."
+      "content": "L'article 14-1 est applicable en Nouvelle-Calédonie et dans les îles Wallis et Futuna.",
+      "valid_from": "2011-03-30"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les conditions d'application de la présente loi sont fixées par décrets en Conseil d'Etat.Le décret relatif aux conditions dans lesquelles sont traitées et conservées les informations relatives à la formation, la modification et la dissolution du pacte civil de solidarité est pris après avis de la Commission nationale de l'informatique et des libertés."
+      "content": "Les conditions d'application de la présente loi sont fixées par décrets en Conseil d'Etat.Le décret relatif aux conditions dans lesquelles sont traitées et conservées les informations relatives à la formation, la modification et la dissolution du pacte civil de solidarité est pris après avis de la Commission nationale de l'informatique et des libertés.",
+      "valid_from": "1999-11-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

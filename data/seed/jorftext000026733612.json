@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La République française institue une journée nationale du souvenir et de recueillement à la mémoire des victimes civiles et militaires de la guerre d'Algérie et des combats en Tunisie et au Maroc."
+      "content": "La République française institue une journée nationale du souvenir et de recueillement à la mémoire des victimes civiles et militaires de la guerre d'Algérie et des combats en Tunisie et au Maroc.",
+      "valid_from": "2012-12-08"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Cette journée, ni fériée ni chômée, est fixée au 19 mars, jour anniversaire du cessez-le-feu en Algérie."
+      "content": "Cette journée, ni fériée ni chômée, est fixée au 19 mars, jour anniversaire du cessez-le-feu en Algérie.",
+      "valid_from": "2012-12-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

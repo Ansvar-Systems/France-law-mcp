@@ -12,13 +12,21 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les agréments prévus par les articles L. 1221-2 et L. 1223-2 délivrés aux établissements de transfusion sanguine concernant les activités de collecte de sang ou de ses composants mentionnée à l'article L. 1221-2, de qualification biologique du don, de préparation, de distribution et de délivrance des produits sanguins labiles et en vigueur à la date de publication de la présente ordonnance sont considérés comme délivrés à l'Etablissement français du sang."
+      "content": "Les agréments prévus par les articles L. 1221-2 et L. 1223-2 délivrés aux établissements de transfusion sanguine concernant les activités de collecte de sang ou de ses composants mentionnée à l'article L. 1221-2, de qualification biologique du don, de préparation, de distribution et de délivrance des produits sanguins labiles et en vigueur à la date de publication de la présente ordonnance sont considérés comme délivrés à l'Etablissement français du sang.",
+      "valid_from": "2016-10-22"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Premier ministre, la ministre des affaires sociales et de la santé et le ministre de la défense sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre des affaires sociales et de la santé et le ministre de la défense sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-10-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

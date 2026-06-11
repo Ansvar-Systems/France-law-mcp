@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'exploitation du monopole fiscal des tabacs et du monopole fiscal des allumettes, gérés par la caisse autonome d'amortissement est confiée à un établissement public à caractère industriel et commercial, doté de l'autonomie financière et dénommé \"Service d'exploitation industrielle des tabacs et des allumettes\" (S.E.I.T.A.).Cet établissement, administre par un conseil assisté d'un directeur général, est placé sous la tutelle du ministre des finances et soumis au contrôle économique et financier de l'Etat."
+      "content": "L'exploitation du monopole fiscal des tabacs et du monopole fiscal des allumettes, gérés par la caisse autonome d'amortissement est confiée à un établissement public à caractère industriel et commercial, doté de l'autonomie financière et dénommé \"Service d'exploitation industrielle des tabacs et des allumettes\" (S.E.I.T.A.).Cet établissement, administre par un conseil assisté d'un directeur général, est placé sous la tutelle du ministre des finances et soumis au contrôle économique et financier de l'Etat.",
+      "valid_from": "1959-01-08"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les prix de vente en France métropolitaine et dans le département de la Guadeloupe sont fixés par arrêté du ministre des finances. Cet arrêté détermine la part des prix revenant par préciput à l'Etat et la part qui constitue une recette d'exploitation du service.Les remises allouées pour la vente des tabacs et des allumettes sont fixées par arrêté du ministre des finances.Délégation peut être donnée par le ministre des finances au conseil d'administration pour modifier en cas de simples changements dans la présentation des produits ou de ventes publicitaires temporaires les prix remises, fixés conformément aux dispositions des alinéas qui précédent. Toutefois, il ne pourra résulter des décisions du conseil aucune réduction du montant de la part préciputaire prévue au premier alinéa du présent article."
+      "content": "Les prix de vente en France métropolitaine et dans le département de la Guadeloupe sont fixés par arrêté du ministre des finances. Cet arrêté détermine la part des prix revenant par préciput à l'Etat et la part qui constitue une recette d'exploitation du service.Les remises allouées pour la vente des tabacs et des allumettes sont fixées par arrêté du ministre des finances.Délégation peut être donnée par le ministre des finances au conseil d'administration pour modifier en cas de simples changements dans la présentation des produits ou de ventes publicitaires temporaires les prix remises, fixés conformément aux dispositions des alinéas qui précédent. Toutefois, il ne pourra résulter des décisions du conseil aucune réduction du montant de la part préciputaire prévue au premier alinéa du présent article.",
+      "valid_from": "1959-01-08"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le statut et le régime de retraite des personnels du service d'exploitation industrielle des tabacs et des allumettes sont fixés par décret pris sur le rapport du ministre des finances, après avis du conseil d'administration.Les personnels actuellement en fonction continueront à appartenir au ministère des finances et seront détachés auprès du nouvel organisme ou seront mis à sa disposition.Les régimes statutaires et les régimes de retraite de ces personnels seront applicables dans le nouvel organisme jusqu'à parution du statut prévu à l'alinéa 1er du présent article."
+      "content": "Le statut et le régime de retraite des personnels du service d'exploitation industrielle des tabacs et des allumettes sont fixés par décret pris sur le rapport du ministre des finances, après avis du conseil d'administration.Les personnels actuellement en fonction continueront à appartenir au ministère des finances et seront détachés auprès du nouvel organisme ou seront mis à sa disposition.Les régimes statutaires et les régimes de retraite de ces personnels seront applicables dans le nouvel organisme jusqu'à parution du statut prévu à l'alinéa 1er du présent article.",
+      "valid_from": "1959-01-08"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Des décrets en Conseil d'Etat fixeront, en tant que de besoin, les conditions d'application de la présente ordonnance et, en particulier, la composition et les modalités de constitution de la dotation du nouvel établissement, les conditions de son organisation, de son fonctionnement et de son contrôle, les modalités du concours qui lui est apporté par les administrations publiques et la procédure d'attribution à l'Etat des sommes lui revenant."
+      "content": "Des décrets en Conseil d'Etat fixeront, en tant que de besoin, les conditions d'application de la présente ordonnance et, en particulier, la composition et les modalités de constitution de la dotation du nouvel établissement, les conditions de son organisation, de son fonctionnement et de son contrôle, les modalités du concours qui lui est apporté par les administrations publiques et la procédure d'attribution à l'Etat des sommes lui revenant.",
+      "valid_from": "1959-01-08"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Tant que ne seront pas intervenus les décrets prévus à l'article 4 ci-dessus, qui devront être publiés dans un délai de six mois, le service d'exploitation industrielle des tabacs et des allumettes sera géré conformément aux règles antérieures. Toutefois, les pouvoirs qui appartenaient à la caisse autonome d'amortissement seront exercés par le ministre des finances."
+      "content": "Tant que ne seront pas intervenus les décrets prévus à l'article 4 ci-dessus, qui devront être publiés dans un délai de six mois, le service d'exploitation industrielle des tabacs et des allumettes sera géré conformément aux règles antérieures. Toutefois, les pouvoirs qui appartenaient à la caisse autonome d'amortissement seront exercés par le ministre des finances.",
+      "valid_from": "1959-01-08"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "La présente ordonnance sera publiée au Journal Officiel de la République française et èxécutée comme loi."
+      "content": "La présente ordonnance sera publiée au Journal Officiel de la République française et èxécutée comme loi.",
+      "valid_from": "1959-01-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

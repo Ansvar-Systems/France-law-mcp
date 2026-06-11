@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions de l'article 2 ci-dessus sont applicables aux demandes de permis de construire sur lesquelles il n'a pas encore été statué à la date de publication de la présente loi."
+      "content": "Les dispositions de l'article 2 ci-dessus sont applicables aux demandes de permis de construire sur lesquelles il n'a pas encore été statué à la date de publication de la présente loi.",
+      "valid_from": "1991-01-05"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Par dérogation aux articles 10 et 11 de la loi n° 83-557 du 1er juillet 1983 portant réforme des caisses d'épargne et de prévoyance, les mandats des membres des conseils consultatifs et des conseils d'orientation et de surveillance en fonction lors de la promulgation de la présente loi sont prorogés d'un an à compter de leur date normale d'expiration.Toutefois, dans le cas d'une fusion de caisses d'épargne et de prévoyance, lorsque l'agrément de la caisse résultant de la fusion par le comité des établissements de crédit et des entreprises d'investissement a été obtenu antérieurement à l'expiration du délai visé au premier alinéa, les mandats des membres du conseil d'orientation et de surveillance issu de l'application de l'article 11-1 de la loi n° 83-557 du 1er juillet 1983 précitée expirent quatre mois après notification de la décision d'agrément par le comité des établissements de crédit et des entreprises d'investissement. Les conseils consultatifs sont renouvelés préalablement au renouvellement du conseil d'orientation et de surveillance.Les mandats des membres des organes statutaires élus par l'assemblée générale du Centre national des caisses d'épargne et de prévoyance sont prorogés jusqu'au 30 mars 1992.Les fusions de caisses d'épargne doivent être réalisées préférentiellement dans le cadre territorial des régions."
+      "content": "Par dérogation aux articles 10 et 11 de la loi n° 83-557 du 1er juillet 1983 portant réforme des caisses d'épargne et de prévoyance, les mandats des membres des conseils consultatifs et des conseils d'orientation et de surveillance en fonction lors de la promulgation de la présente loi sont prorogés d'un an à compter de leur date normale d'expiration.Toutefois, dans le cas d'une fusion de caisses d'épargne et de prévoyance, lorsque l'agrément de la caisse résultant de la fusion par le comité des établissements de crédit et des entreprises d'investissement a été obtenu antérieurement à l'expiration du délai visé au premier alinéa, les mandats des membres du conseil d'orientation et de surveillance issu de l'application de l'article 11-1 de la loi n° 83-557 du 1er juillet 1983 précitée expirent quatre mois après notification de la décision d'agrément par le comité des établissements de crédit et des entreprises d'investissement. Les conseils consultatifs sont renouvelés préalablement au renouvellement du conseil d'orientation et de surveillance.Les mandats des membres des organes statutaires élus par l'assemblée générale du Centre national des caisses d'épargne et de prévoyance sont prorogés jusqu'au 30 mars 1992.Les fusions de caisses d'épargne doivent être réalisées préférentiellement dans le cadre territorial des régions.",
+      "valid_from": "1996-07-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

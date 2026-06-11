@@ -12,13 +12,21 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "La présente loi est applicable dans les îles Wallis et Futuna, en Nouvelle-Calédonie et en Polynésie française."
+      "content": "La présente loi est applicable dans les îles Wallis et Futuna, en Nouvelle-Calédonie et en Polynésie française.",
+      "valid_from": "2014-10-01"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "I. - La présente loi entre en vigueur le premier jour du quatrième mois suivant sa publication au Journal officiel.II. - Les actes, formalités et décisions intervenus antérieurement à son entrée en vigueur demeurent valables.Les demandes en révision dont est saisie la commission de révision des condamnations pénales ou la chambre criminelle statuant comme cour de révision et sur lesquelles il n'a pas encore été statué à cette date sont transmises, respectivement, à la commission d'instruction des demandes en révision et en réexamen et à la formation de jugement de la cour de révision et de réexamen.Les demandes en réexamen dont est saisie la commission de réexamen et sur lesquelles il n'a pas encore été statué sont transmises à la commission d'instruction des demandes en révision et en réexamen."
+      "content": "I. - La présente loi entre en vigueur le premier jour du quatrième mois suivant sa publication au Journal officiel.II. - Les actes, formalités et décisions intervenus antérieurement à son entrée en vigueur demeurent valables.Les demandes en révision dont est saisie la commission de révision des condamnations pénales ou la chambre criminelle statuant comme cour de révision et sur lesquelles il n'a pas encore été statué à cette date sont transmises, respectivement, à la commission d'instruction des demandes en révision et en réexamen et à la formation de jugement de la cour de révision et de réexamen.Les demandes en réexamen dont est saisie la commission de réexamen et sur lesquelles il n'a pas encore été statué sont transmises à la commission d'instruction des demandes en révision et en réexamen.",
+      "valid_from": "2014-10-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,25 +12,35 @@
       "provision_ref": "art83",
       "section": "83",
       "title": "Article 83",
-      "content": "Les dispositions de la présente loi ne sont pas applicables aux accidents du travail survenus dans les professions agricoles."
+      "content": "Les dispositions de la présente loi ne sont pas applicables aux accidents du travail survenus dans les professions agricoles.",
+      "valid_from": "1946-10-31"
     },
     {
       "provision_ref": "art84",
       "section": "84",
       "title": "Article 84",
-      "content": "La Caisse des dépôts et consignations ouvrira dans ses écritures, à la date du 1er janvier 1947, des comptes à des fonds spéciaux aux accidents du travail agricole, correspondant respectivement au fonds de garantie, au fonds de prévoyance des blessés de la guerre, au fonds de rééducation et au fonds de solidarité des employeurs, et ayant le même rôle."
+      "content": "La Caisse des dépôts et consignations ouvrira dans ses écritures, à la date du 1er janvier 1947, des comptes à des fonds spéciaux aux accidents du travail agricole, correspondant respectivement au fonds de garantie, au fonds de prévoyance des blessés de la guerre, au fonds de rééducation et au fonds de solidarité des employeurs, et ayant le même rôle.",
+      "valid_from": "1946-10-31"
     },
     {
       "provision_ref": "art85",
       "section": "85",
       "title": "Article 85",
-      "content": "Sont applicables aux quatre nouveaux fonds agricoles les dispositions législatives et réglementaires en vigueur relatives à l'organisation et au fonctionnement des fonds dont ils sont issus. Toutefois, les attributions dévolues par ces textes au ministre du Travail et de la Sécurité sociale sont exercées par le ministre de l'Agriculture."
+      "content": "Sont applicables aux quatre nouveaux fonds agricoles les dispositions législatives et réglementaires en vigueur relatives à l'organisation et au fonctionnement des fonds dont ils sont issus. Toutefois, les attributions dévolues par ces textes au ministre du Travail et de la Sécurité sociale sont exercées par le ministre de l'Agriculture.",
+      "valid_from": "1946-10-31"
     },
     {
       "provision_ref": "art86",
       "section": "86",
       "title": "Article 86",
-      "content": "Les fonds agricoles seront alimentés par une contribution des exploitants agricoles, assise, liquidée, recouvrée et ventilée dans les conditions fixées par la loi du 30 décembre 1922, modifiée et complétée par les lois validées du 24 décembre 1940 et du 15 mars 1944. Ils supporteront les dépenses afférentes aux accidents du travail agricole dans les conditions suivantes :a) Le fonds agricole de garantie, lorsque la déclaration faite au maire par le crédirentier parviendra à la Caisse des dépôts et consignations après le 31 décembre 1946 ;b) Le fonds agricole de rééducation professionnelle, lorsque l'entrée du mutilé dans l'établissement où il a été admis est postérieure au 31 décembre 1946 ;c) Le fonds agricole de solidarité des employeurs et le fonds agricole de prévoyance des blessés de guerre, lorsque la date de l'accident est postérieure au 31 décembre 1946.Les exploitants agricoles continueront, en outre, de participer à l'alimentation des fonds visés à l'article 83 dans la mesure où ces fonds auront encore à effectuer, à partir du 1er janvier 1947, des dépenses relatives à des accidents du travail agricole.Un décret, rendu sur la proposition du ministre du Travail et de la Sécurité sociale, du ministre de l'Agriculture, du ministre de l'Economie nationale et du ministre des Finances, déterminera pour chacun des mêmes fonds la fraction des disponibilités au 31 décembre 1946 et des taxes exigibles à cette date, mais versées postérieurement, qui sera transférée au compte du fonds agricole correspondant."
+      "content": "Les fonds agricoles seront alimentés par une contribution des exploitants agricoles, assise, liquidée, recouvrée et ventilée dans les conditions fixées par la loi du 30 décembre 1922, modifiée et complétée par les lois validées du 24 décembre 1940 et du 15 mars 1944. Ils supporteront les dépenses afférentes aux accidents du travail agricole dans les conditions suivantes :a) Le fonds agricole de garantie, lorsque la déclaration faite au maire par le crédirentier parviendra à la Caisse des dépôts et consignations après le 31 décembre 1946 ;b) Le fonds agricole de rééducation professionnelle, lorsque l'entrée du mutilé dans l'établissement où il a été admis est postérieure au 31 décembre 1946 ;c) Le fonds agricole de solidarité des employeurs et le fonds agricole de prévoyance des blessés de guerre, lorsque la date de l'accident est postérieure au 31 décembre 1946.Les exploitants agricoles continueront, en outre, de participer à l'alimentation des fonds visés à l'article 83 dans la mesure où ces fonds auront encore à effectuer, à partir du 1er janvier 1947, des dépenses relatives à des accidents du travail agricole.Un décret, rendu sur la proposition du ministre du Travail et de la Sécurité sociale, du ministre de l'Agriculture, du ministre de l'Economie nationale et du ministre des Finances, déterminera pour chacun des mêmes fonds la fraction des disponibilités au 31 décembre 1946 et des taxes exigibles à cette date, mais versées postérieurement, qui sera transférée au compte du fonds agricole correspondant.",
+      "valid_from": "1946-10-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

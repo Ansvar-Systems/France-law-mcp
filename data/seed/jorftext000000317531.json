@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les communes auxquelles s'applique la présente loi sont définies à l'article L. 321-2 du code de l'environnement."
+      "content": "Les communes auxquelles s'applique la présente loi sont définies à l'article L. 321-2 du code de l'environnement.",
+      "valid_from": "2000-09-21"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "En cas de condamnation pour infraction aux dispositions des articles L. 211-4 du code de l'environnement et 6 de la loi n° 64-1245 du 16 décembre 1964 précitée, l'exécution d'office prévue à l'article 21 de la même loi se fait aux frais et risques du maître d'ouvrage."
+      "content": "En cas de condamnation pour infraction aux dispositions des articles L. 211-4 du code de l'environnement et 6 de la loi n° 64-1245 du 16 décembre 1964 précitée, l'exécution d'office prévue à l'article 21 de la même loi se fait aux frais et risques du maître d'ouvrage.",
+      "valid_from": "2000-09-21"
     },
     {
       "provision_ref": "art40A",
       "section": "40A",
       "title": "Article 40A",
-      "content": "Les conseils régionaux des régions littorales limitrophes peuvent coordonner leurs politiques du littoral et élaborer un schéma interrégional de littoral.Ce schéma veille à la cohérence des projets d'équipement et des actions de l'Etat et des collectivités territoriales qui ont une incidence sur l'aménagement ou la protection du littoral. Il respecte les orientations des schémas de services collectifs prévus à l'article 2 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire et celles des schémas régionaux d'aménagement et de développement du territoire établis par les régions concernées et prévus à l'article 34 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat."
+      "content": "Les conseils régionaux des régions littorales limitrophes peuvent coordonner leurs politiques du littoral et élaborer un schéma interrégional de littoral.Ce schéma veille à la cohérence des projets d'équipement et des actions de l'Etat et des collectivités territoriales qui ont une incidence sur l'aménagement ou la protection du littoral. Il respecte les orientations des schémas de services collectifs prévus à l'article 2 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire et celles des schémas régionaux d'aménagement et de développement du territoire établis par les régions concernées et prévus à l'article 34 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat.",
+      "valid_from": "1999-06-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

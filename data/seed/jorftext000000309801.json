@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont déclarés applicables dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle :1° L'article 97, 1°, de la loi du 5 avril 1884 sur l'organisation municipale, en tant qu'il s'applique à la démolition et à la réparation des édifices menaçant ruine ;2° Les articles 3, 4, 5 et 6 de la loi du 21 juin 1898 sur le code rural, modifiée et complétée par le décret du 30 octobre 1935.La compétence reconnue au conseil de préfecture, par les textes susmentionnés, appartient au tribunal administratif d'Alsace et de Lorraine.Les textes antérieurs, encore applicables dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, sont abrogés en tout ce qu'ils ont de contraire à la législation précitée."
+      "content": "Sont déclarés applicables dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle :1° L'article 97, 1°, de la loi du 5 avril 1884 sur l'organisation municipale, en tant qu'il s'applique à la démolition et à la réparation des édifices menaçant ruine ;2° Les articles 3, 4, 5 et 6 de la loi du 21 juin 1898 sur le code rural, modifiée et complétée par le décret du 30 octobre 1935.La compétence reconnue au conseil de préfecture, par les textes susmentionnés, appartient au tribunal administratif d'Alsace et de Lorraine.Les textes antérieurs, encore applicables dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, sont abrogés en tout ce qu'ils ont de contraire à la législation précitée.",
+      "valid_from": "1949-12-02"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Pour l'application de la législation, sur les bâtiments menaçant ruine, les préfets des départements du Haut-Rhin, du Bas-Rhin et de la Moselle disposent des pouvoirs conférés aux préfets par l'article 99 de la loi du 5 avril 1884."
+      "content": "Pour l'application de la législation, sur les bâtiments menaçant ruine, les préfets des départements du Haut-Rhin, du Bas-Rhin et de la Moselle disposent des pouvoirs conférés aux préfets par l'article 99 de la loi du 5 avril 1884.",
+      "valid_from": "1949-12-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

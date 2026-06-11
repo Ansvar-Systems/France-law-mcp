@@ -12,25 +12,35 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I.  Les services de police judiciaire existant avant l'entrée en vigueur de la présente loi conservent leurs attributions et leurs limites territoriales jusqu'à l'entrée en vigueur du décret pris en application de l'article 15-1 du code de procédure pénale.II.  Dès l'entrée en vigueur de la présente loi et jusqu'à celle du décret prévu au I, les officiers de police judiciaire des circonscriptions de sécurité publique ont compétence dans toute l'étendue de la circonscription où ils exercent leurs fonctions habituelles et des autres circonscriptions de sécurité publique sises dans l'ensemble du ressort du tribunal de grande instance."
+      "content": "I.  Les services de police judiciaire existant avant l'entrée en vigueur de la présente loi conservent leurs attributions et leurs limites territoriales jusqu'à l'entrée en vigueur du décret pris en application de l'article 15-1 du code de procédure pénale.II.  Dès l'entrée en vigueur de la présente loi et jusqu'à celle du décret prévu au I, les officiers de police judiciaire des circonscriptions de sécurité publique ont compétence dans toute l'étendue de la circonscription où ils exercent leurs fonctions habituelles et des autres circonscriptions de sécurité publique sises dans l'ensemble du ressort du tribunal de grande instance.",
+      "valid_from": "1994-02-02"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Sont abrogés :l'article 111 du code de procédure pénale ;les articles 5, 6 et 7 du code des instruments monétaires et des médailles ;le dernier alinéa de l'article L. 13 du code de la route ;les articles L. 116-1 et L. 201 du code électoral ;les articles 50, 72, 162 et 293 de la loi n° 92-1336 du 16 décembre 1992 précitée."
+      "content": "Sont abrogés :l'article 111 du code de procédure pénale ;les articles 5, 6 et 7 du code des instruments monétaires et des médailles ;le dernier alinéa de l'article L. 13 du code de la route ;les articles L. 116-1 et L. 201 du code électoral ;les articles 50, 72, 162 et 293 de la loi n° 92-1336 du 16 décembre 1992 précitée.",
+      "valid_from": "1994-03-01"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "L'article 800 du code de procédure pénale, dans sa rédaction en vigueur en métropole à la date de la présente loi, est applicable dans le territoire de la Polynésie française."
+      "content": "L'article 800 du code de procédure pénale, dans sa rédaction en vigueur en métropole à la date de la présente loi, est applicable dans le territoire de la Polynésie française.",
+      "valid_from": "1994-02-02"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "A l'exception des dispositions de ses titres Ier et V, la présente loi entrera en vigueur le 1er mars 1994."
+      "content": "A l'exception des dispositions de ses titres Ier et V, la présente loi entrera en vigueur le 1er mars 1994.",
+      "valid_from": "1994-03-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

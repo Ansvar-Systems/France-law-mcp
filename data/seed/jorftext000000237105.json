@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. - Paragraphe modificateur.II. - Il est procédé aux mêmes modifications dans l'ensemble des dispositions législatives en vigueur relatives au Conseil supérieur des Français de l'étranger."
+      "content": "I. - Paragraphe modificateur.II. - Il est procédé aux mêmes modifications dans l'ensemble des dispositions législatives en vigueur relatives au Conseil supérieur des Français de l'étranger.",
+      "valid_from": "2004-08-11"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les dispositions des articles 2 et 4 de la présente loi s'appliquent à compter des renouvellements triennaux de l'Assemblée des Français de l'étranger de 2006 et de 2009."
+      "content": "Les dispositions des articles 2 et 4 de la présente loi s'appliquent à compter des renouvellements triennaux de l'Assemblée des Français de l'étranger de 2006 et de 2009.",
+      "valid_from": "2004-08-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

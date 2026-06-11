@@ -12,7 +12,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Gouvernement remet au Parlement, avant le 1er septembre 2019, un rapport présentant un état des lieux des violences éducatives en France et évaluant les besoins et moyens nécessaires au renforcement de la politique de sensibilisation, d'accompagnement et de soutien à la parentalité à destination des parents ainsi que de formation des professionnels concernés.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Le Gouvernement remet au Parlement, avant le 1er septembre 2019, un rapport présentant un état des lieux des violences éducatives en France et évaluant les besoins et moyens nécessaires au renforcement de la politique de sensibilisation, d'accompagnement et de soutien à la parentalité à destination des parents ainsi que de formation des professionnels concernés.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2019-07-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

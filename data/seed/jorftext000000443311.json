@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les immeubles dans lesquels sont effectués les contrôles techniques de véhicules prévus à l'article L. 323-1 du code de la route font partie du domaine privé de la personne publique propriétaire, y compris lorsqu'ils continuent d'être utilisés pour les besoins du contrôle exercé par l'Etat. Si leur aliénation est décidée, l'acte d'aliénation comporte des clauses permettant de préserver la continuité du service public."
+      "content": "Les immeubles dans lesquels sont effectués les contrôles techniques de véhicules prévus à l'article L. 323-1 du code de la route font partie du domaine privé de la personne publique propriétaire, y compris lorsqu'ils continuent d'être utilisés pour les besoins du contrôle exercé par l'Etat. Si leur aliénation est décidée, l'acte d'aliénation comporte des clauses permettant de préserver la continuité du service public.",
+      "valid_from": "2004-08-21"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'économie, des finances et de l'industrie, et le ministre de l'intérieur, de la sécurité intérieure et des libertés locales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'économie, des finances et de l'industrie, et le ministre de l'intérieur, de la sécurité intérieure et des libertés locales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2004-08-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

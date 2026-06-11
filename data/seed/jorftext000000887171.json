@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Jusqu'à une date qui sera fixée par décret, la compétence des gardes particuliers commissionnés, en application de l'article 22 de la loi du 3 mai 1844, pour exercer les fonctions de garde des eaux et forêts, chargés spécialement de la police de la chasse, est étendue à la recherche et à la constatation des délits et contraventions aux lois et règlements ayant pour but la protection des récoltes et des bois ne relevant pas du régime forestier."
+      "content": "Jusqu'à une date qui sera fixée par décret, la compétence des gardes particuliers commissionnés, en application de l'article 22 de la loi du 3 mai 1844, pour exercer les fonctions de garde des eaux et forêts, chargés spécialement de la police de la chasse, est étendue à la recherche et à la constatation des délits et contraventions aux lois et règlements ayant pour but la protection des récoltes et des bois ne relevant pas du régime forestier.",
+      "valid_from": "2001-07-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

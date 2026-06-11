@@ -12,19 +12,28 @@
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Les conventions de substitution conclues, en application de l'article L. 211-5 du code de la mutualité, dans sa rédaction antérieure à la présente ordonnance, avant la date de publication de celle-ci, doivent, avant le 31 décembre 2018, être mises en conformité avec les dispositions de cet article, dans sa rédaction issue de la présente ordonnance."
+      "content": "Les conventions de substitution conclues, en application de l'article L. 211-5 du code de la mutualité, dans sa rédaction antérieure à la présente ordonnance, avant la date de publication de celle-ci, doivent, avant le 31 décembre 2018, être mises en conformité avec les dispositions de cet article, dans sa rédaction issue de la présente ordonnance.",
+      "valid_from": "2017-05-06"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "I. - Les dispositions de l'article L. 223-20-2 du code de la mutualité, créé par l'article 7 de la présente ordonnance, sont applicables aux contrats en cours à compter de la publication de celle-ci.II. - Les dispositions de l'article L. 932-23-4 du code de la sécurité sociale, créé par le III de l'article 15 de la présente ordonnance, sont applicables aux contrats en cours à compter de la publication de celle-ci."
+      "content": "I. - Les dispositions de l'article L. 223-20-2 du code de la mutualité, créé par l'article 7 de la présente ordonnance, sont applicables aux contrats en cours à compter de la publication de celle-ci.II. - Les dispositions de l'article L. 932-23-4 du code de la sécurité sociale, créé par le III de l'article 15 de la présente ordonnance, sont applicables aux contrats en cours à compter de la publication de celle-ci.",
+      "valid_from": "2017-05-06"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Le Premier ministre, le ministre de l'économie et des finances et la ministre des affaires sociales et de la santé sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie et des finances et la ministre des affaires sociales et de la santé sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-05-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

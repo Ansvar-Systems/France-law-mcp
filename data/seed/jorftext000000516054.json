@@ -12,7 +12,14 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions de l'article 4 de la loi du 2 juin 1891 sont applicables aux paris concernant les courses de lévriers.Le décret du 17 juin 1938 portant extension aux courses de lévriers, pour lesquelles le pari mutuel est autorisé, des dispositions du décret du 30 octobre 1935 relatives à la répression des paris clandestins est abrogé."
+      "content": "Les dispositions de l'article 4 de la loi du 2 juin 1891 sont applicables aux paris concernant les courses de lévriers.Le décret du 17 juin 1938 portant extension aux courses de lévriers, pour lesquelles le pari mutuel est autorisé, des dispositions du décret du 30 octobre 1935 relatives à la répression des paris clandestins est abrogé.",
+      "valid_from": "1951-06-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

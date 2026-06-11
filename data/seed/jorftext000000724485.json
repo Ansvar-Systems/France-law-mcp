@@ -12,7 +12,14 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Dans l'ensemble des dispositions législatives non visées par la présente loi, toute référence à la première ou à la seconde session ordinaire du Parlement est remplacée par une référence à la session ordinaire du Parlement telle qu'elle a été instituée par la loi constitutionnelle n° 95-880 du 4 août 1995."
+      "content": "Dans l'ensemble des dispositions législatives non visées par la présente loi, toute référence à la première ou à la seconde session ordinaire du Parlement est remplacée par une référence à la session ordinaire du Parlement telle qu'elle a été instituée par la loi constitutionnelle n° 95-880 du 4 août 1995.",
+      "valid_from": "1996-01-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

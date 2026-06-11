@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. - L'ordonnance n° 2006-1048 du 25 août 2006 relative aux sociétés anonymes coopératives d'intérêt collectif pour l'accession à la propriété est ratifiée.II. à XIII. Paragraphes modificateurs"
+      "content": "I. - L'ordonnance n° 2006-1048 du 25 août 2006 relative aux sociétés anonymes coopératives d'intérêt collectif pour l'accession à la propriété est ratifiée.II. à XIII. Paragraphes modificateurs",
+      "valid_from": "2006-12-19"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les établissements de crédit dans lesquels les sociétés anonymes coopératives d'intérêt collectif pour l'accession à la propriété détiennent directement ou indirectement une participation et sur lesquels le Crédit immobilier de France développement exerce un contrôle au sens de l'article L. 233-3 du code de commerce forment un réseau ayant pour organe central, au sens de l'article L. 511-30 du code monétaire et financier, le Crédit immobilier de France développement, à la condition que la majorité du capital de cet établissement soit détenu conjointement par des sociétés anonymes coopératives d'intérêt collectif pour l'accession à la propriété."
+      "content": "Les établissements de crédit dans lesquels les sociétés anonymes coopératives d'intérêt collectif pour l'accession à la propriété détiennent directement ou indirectement une participation et sur lesquels le Crédit immobilier de France développement exerce un contrôle au sens de l'article L. 233-3 du code de commerce forment un réseau ayant pour organe central, au sens de l'article L. 511-30 du code monétaire et financier, le Crédit immobilier de France développement, à la condition que la majorité du capital de cet établissement soit détenu conjointement par des sociétés anonymes coopératives d'intérêt collectif pour l'accession à la propriété.",
+      "valid_from": "2006-12-19"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Crédit immobilier de France développement succède, dès qu'il acquiert la qualité d'organe central, à la chambre syndicale des sociétés anonymes de crédit immobilier dans l'ensemble de ses droits et obligations pour les missions définies aux articles L. 511-31 et L. 511-32 du code monétaire et financier à l'égard des établissements de crédit mentionnés à l'article 3 et comprenant notamment la gestion de la fraction du fonds de garantie et d'intervention, constitué par la chambre syndicale des sociétés anonymes de crédit immobilier, couvrant les engagements spécifiques éventuellement pris envers un ou plusieurs établissements de crédit dont le Crédit immobilier de France développement est organe central."
+      "content": "Le Crédit immobilier de France développement succède, dès qu'il acquiert la qualité d'organe central, à la chambre syndicale des sociétés anonymes de crédit immobilier dans l'ensemble de ses droits et obligations pour les missions définies aux articles L. 511-31 et L. 511-32 du code monétaire et financier à l'égard des établissements de crédit mentionnés à l'article 3 et comprenant notamment la gestion de la fraction du fonds de garantie et d'intervention, constitué par la chambre syndicale des sociétés anonymes de crédit immobilier, couvrant les engagements spécifiques éventuellement pris envers un ou plusieurs établissements de crédit dont le Crédit immobilier de France développement est organe central.",
+      "valid_from": "2006-12-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

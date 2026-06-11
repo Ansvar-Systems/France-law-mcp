@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le titre V du livre VI du code de l'environnement est modifié conformément aux articles 2 à 11 de la présente ordonnance."
+      "content": "Le titre V du livre VI du code de l'environnement est modifié conformément aux articles 2 à 11 de la présente ordonnance.",
+      "valid_from": "2006-01-01"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "La présente ordonnance entrera en vigueur le 1er janvier 2006."
+      "content": "La présente ordonnance entrera en vigueur le 1er janvier 2006.",
+      "valid_from": "2006-01-01"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Le Premier ministre, la ministre de l'écologie et du développement durable et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'écologie et du développement durable et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2006-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

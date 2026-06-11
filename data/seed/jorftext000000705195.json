@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'indemnité parlementaire est calculée par référence au traitement des fonctionnaires occupant les emplois de l'Etat classés dans la catégorie présentement dite \"hors échelle\". Elle est égale à la moyenne du traitement le plus bas et du traitement le plus élevé de cette catégorie."
+      "content": "L'indemnité parlementaire est calculée par référence au traitement des fonctionnaires occupant les emplois de l'Etat classés dans la catégorie présentement dite \"hors échelle\". Elle est égale à la moyenne du traitement le plus bas et du traitement le plus élevé de cette catégorie.",
+      "valid_from": "1958-12-14"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'indemnité parlementaire est complétée par une indemnité dite indemnité de fonction.Le montant de cette indemnité est égal au quart du montant de l'indemnité parlementaire.Le règlement de chaque assemblée détermine les conditions dans lesquelles le montant de l'indemnité de fonction varie en fonction de la participation du parlementaire aux travaux de l'assemblée à laquelle il appartient."
+      "content": "L'indemnité parlementaire est complétée par une indemnité dite indemnité de fonction.Le montant de cette indemnité est égal au quart du montant de l'indemnité parlementaire.Le règlement de chaque assemblée détermine les conditions dans lesquelles le montant de l'indemnité de fonction varie en fonction de la participation du parlementaire aux travaux de l'assemblée à laquelle il appartient.",
+      "valid_from": "1958-12-14"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les indemnités visées aux articles précédents sont perçues dans les conditions prévues par la loi du 4 février 1938."
+      "content": "Les indemnités visées aux articles précédents sont perçues dans les conditions prévues par la loi du 4 février 1938.",
+      "valid_from": "1958-12-14"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "L'indemnité parlementaire est exclusive de toute rémunération publique, réserve faite de l'application des dispositions de l'article 12 de l'ordonnance du 24 octobre 1958 portant loi organique relative aux conditions d'éligibilité et aux incompatibilités parlementaires, qui doit se faire conformément aux règles du cumul des rémunérations publiques.\n\nNéanmoins, peuvent être cumulés avec l'indemnité parlementaire les pensions civiles et militaires de toute nature, les pensions allouées à titre de récompense nationale, les traitements afférents à la Légion d'honneur et à la médaille militaire\n\nEn outre, le parlementaire titulaire d'autres mandats électoraux ou qui siège au conseil d'administration d'un établissement public local, du centre national de la fonction publique territoriale, au conseil d'administration ou au conseil de surveillance d'une société d'économie mixte locale ne peut cumuler les rémunérations et indemnités afférentes à ces mandats ou fonctions avec son indemnité parlementaire de base que dans la limite d'une fois et demie le montant de cette dernière.\n\nChaque assemblée veille, dans les conditions déterminées par son règlement, à la mise en œuvre de ces règles et à la sanction de leur violation, ainsi qu'aux modalités suivant lesquelles son président défère les faits correspondants au ministère public près la Cour des comptes."
+      "content": "L'indemnité parlementaire est exclusive de toute rémunération publique, réserve faite de l'application des dispositions de l'article 12 de l'ordonnance du 24 octobre 1958 portant loi organique relative aux conditions d'éligibilité et aux incompatibilités parlementaires, qui doit se faire conformément aux règles du cumul des rémunérations publiques.\n\nNéanmoins, peuvent être cumulés avec l'indemnité parlementaire les pensions civiles et militaires de toute nature, les pensions allouées à titre de récompense nationale, les traitements afférents à la Légion d'honneur et à la médaille militaire\n\nEn outre, le parlementaire titulaire d'autres mandats électoraux ou qui siège au conseil d'administration d'un établissement public local, du centre national de la fonction publique territoriale, au conseil d'administration ou au conseil de surveillance d'une société d'économie mixte locale ne peut cumuler les rémunérations et indemnités afférentes à ces mandats ou fonctions avec son indemnité parlementaire de base que dans la limite d'une fois et demie le montant de cette dernière.\n\nChaque assemblée veille, dans les conditions déterminées par son règlement, à la mise en œuvre de ces règles et à la sanction de leur violation, ainsi qu'aux modalités suivant lesquelles son président défère les faits correspondants au ministère public près la Cour des comptes.",
+      "valid_from": "2023-11-22"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les caisses établies par les résolutions de la Chambre des députés en date du 23 décembre 1904 et du Sénat en date du 28 janvier 1905 sont maintenues au profit des membres de l'Assemblée nationale et du Sénat ; elles continueront à assurer des pensions aux anciens membres de ces deux assemblées ou des assemblées précédentes ainsi qu'à leurs conjoints veufs et leurs orphelins mineurs ; elles pourront recevoir des dons et legs.Les pensions payées par ces caisses sont incessibles et insaisissables, sauf lorsqu'il s'agit du payement d'une pension alimentaire."
+      "content": "Les caisses établies par les résolutions de la Chambre des députés en date du 23 décembre 1904 et du Sénat en date du 28 janvier 1905 sont maintenues au profit des membres de l'Assemblée nationale et du Sénat ; elles continueront à assurer des pensions aux anciens membres de ces deux assemblées ou des assemblées précédentes ainsi qu'à leurs conjoints veufs et leurs orphelins mineurs ; elles pourront recevoir des dons et legs.Les pensions payées par ces caisses sont incessibles et insaisissables, sauf lorsqu'il s'agit du payement d'une pension alimentaire.",
+      "valid_from": "1958-12-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

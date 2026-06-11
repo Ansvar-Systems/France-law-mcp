@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Au plus tard à la rentrée scolaire 2027, sont créés :1° Dans chaque circonscription académique de l'hexagone et dans chaque académie d'outre-mer, au moins un dispositif consacré à la scolarisation en milieu ordinaire des élèves de l'enseignement primaire présentant un trouble du neuro-développement, avec l'appui des personnels des établissements et des services mentionnés au 2° du I de l'article L. 312-1 du code de l'action sociale et des familles ;2° Dans chaque département, au moins un dispositif consacré à la scolarisation en milieu ordinaire des élèves de l'enseignement secondaire présentant un tel trouble, avec l'appui des mêmes personnels."
+      "content": "Au plus tard à la rentrée scolaire 2027, sont créés :1° Dans chaque circonscription académique de l'hexagone et dans chaque académie d'outre-mer, au moins un dispositif consacré à la scolarisation en milieu ordinaire des élèves de l'enseignement primaire présentant un trouble du neuro-développement, avec l'appui des personnels des établissements et des services mentionnés au 2° du I de l'article L. 312-1 du code de l'action sociale et des familles ;2° Dans chaque département, au moins un dispositif consacré à la scolarisation en milieu ordinaire des élèves de l'enseignement secondaire présentant un tel trouble, avec l'appui des mêmes personnels.",
+      "valid_from": "2024-11-17"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Dans les établissements et les services mentionnés aux articles L. 214-1 à L. 214-7, L. 227-1 à L. 227-12 et R. 227-1 à R. 227-30 du code de l'action sociale et des familles, les personnels d'encadrement, d'accueil et de service et le personnel technique reçoivent, au cours de leur formation initiale et de leur formation continue, une formation spécifique concernant l'accueil et le suivi des enfants et des jeunes handicapés, notamment de ceux qui présentent un trouble du neuro-développement, et comportant une information sur le handicap défini à l'article L. 114 du même code."
+      "content": "Dans les établissements et les services mentionnés aux articles L. 214-1 à L. 214-7, L. 227-1 à L. 227-12 et R. 227-1 à R. 227-30 du code de l'action sociale et des familles, les personnels d'encadrement, d'accueil et de service et le personnel technique reçoivent, au cours de leur formation initiale et de leur formation continue, une formation spécifique concernant l'accueil et le suivi des enfants et des jeunes handicapés, notamment de ceux qui présentent un trouble du neuro-développement, et comportant une information sur le handicap défini à l'article L. 114 du même code.",
+      "valid_from": "2024-11-17"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "I. - A créé les dispositions suivantes :\n\nII. - A abrogé les dispositions suivantes :\n\nIII. - Le présent article entre en vigueur le 1er janvier 2025.\n\n- Code de l'action sociale et des familles\n\n- LOI n° 2018-727 du 10 août 2018\n\n- LOI n° 2019-485 du 22 mai 2019\n\n- LOI n°2021-1754 du 23 décembre 2021"
+      "content": "I. - A créé les dispositions suivantes :\n\nII. - A abrogé les dispositions suivantes :\n\nIII. - Le présent article entre en vigueur le 1er janvier 2025.\n\n- Code de l'action sociale et des familles\n\n- LOI n° 2018-727 du 10 août 2018\n\n- LOI n° 2019-485 du 22 mai 2019\n\n- LOI n°2021-1754 du 23 décembre 2021",
+      "valid_from": "2024-11-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

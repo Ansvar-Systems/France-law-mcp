@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Sous réserve des décisions de justice passées en force de chose jugée, les dispositions de la présente loi s'appliquent aux sociétés mentionnées aux articles L. 1521-1 et L. 1531-1 du code général des collectivités territoriales et à l'article L. 327-1 du code de l'urbanisme constituées antérieurement à sa date de publication."
+      "content": "Sous réserve des décisions de justice passées en force de chose jugée, les dispositions de la présente loi s'appliquent aux sociétés mentionnées aux articles L. 1521-1 et L. 1531-1 du code général des collectivités territoriales et à l'article L. 327-1 du code de l'urbanisme constituées antérieurement à sa date de publication.",
+      "valid_from": "2019-05-19"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. - Au titre VI du livre VIII de la première partie du code général des collectivités territoriales, les références à l'article L. 1522-1 du même code renvoient au même article L. 1522-1 dans sa rédaction résultant de la présente loi.II. - A l'article 8-1 de la loi n° 99-210 du 19 mars 1999 relative à la Nouvelle-Calédonie, la référence à l'article L. 1522-1 du code général des collectivités territoriales renvoie au même article L. 1522-1 dans sa rédaction résultant de la présente loi.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "I. - Au titre VI du livre VIII de la première partie du code général des collectivités territoriales, les références à l'article L. 1522-1 du même code renvoient au même article L. 1522-1 dans sa rédaction résultant de la présente loi.II. - A l'article 8-1 de la loi n° 99-210 du 19 mars 1999 relative à la Nouvelle-Calédonie, la référence à l'article L. 1522-1 du code général des collectivités territoriales renvoie au même article L. 1522-1 dans sa rédaction résultant de la présente loi.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2019-05-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

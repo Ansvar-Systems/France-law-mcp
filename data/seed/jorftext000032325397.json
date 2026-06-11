@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code rural et de la pêche maritime est modifié conformément aux articles 2 à 11."
+      "content": "Le code rural et de la pêche maritime est modifié conformément aux articles 2 à 11.",
+      "valid_from": "2016-07-01"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Outre celles mentionnées aux articles 12 à 16, les références faites dans des dispositions législatives ou réglementaires à des dispositions du code rural et de la pêche maritime modifiées par les articles 2 à 11 de la présente ordonnance sont remplacées par les références nouvelles issues de ces articles."
+      "content": "Outre celles mentionnées aux articles 12 à 16, les références faites dans des dispositions législatives ou réglementaires à des dispositions du code rural et de la pêche maritime modifiées par les articles 2 à 11 de la présente ordonnance sont remplacées par les références nouvelles issues de ces articles.",
+      "valid_from": "2016-07-01"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Les articles L. 373-2 et L. 683-1 du code rural et de la pêche maritime, dans leur rédaction en vigueur antérieurement à la publication de la présente ordonnance, sont maintenus en vigueur en tant que la compétence pour les modifier relève de la Polynésie française.Les articles L. 373-3 à L. 373-6, L. 582-1 à L. 582-12 et L. 582-13 à L. 582-17, L. 583-1 à L. 583-5 et L. 683-1 du même code, dans leur rédaction en vigueur antérieurement à la publication de la présente ordonnance, sont maintenus en vigueur en tant que la compétence pour les modifier relève de la Nouvelle-Calédonie."
+      "content": "Les articles L. 373-2 et L. 683-1 du code rural et de la pêche maritime, dans leur rédaction en vigueur antérieurement à la publication de la présente ordonnance, sont maintenus en vigueur en tant que la compétence pour les modifier relève de la Polynésie française.Les articles L. 373-3 à L. 373-6, L. 582-1 à L. 582-12 et L. 582-13 à L. 582-17, L. 583-1 à L. 583-5 et L. 683-1 du même code, dans leur rédaction en vigueur antérieurement à la publication de la présente ordonnance, sont maintenus en vigueur en tant que la compétence pour les modifier relève de la Nouvelle-Calédonie.",
+      "valid_from": "2016-07-01"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "La présente ordonnance entre en vigueur le 1er juillet 2016."
+      "content": "La présente ordonnance entre en vigueur le 1er juillet 2016.",
+      "valid_from": "2016-07-01"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Le Premier ministre, le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les articles L. 577, L. 577 ter et L. 578 du code de la santé publique sont abrogés.L'article L. 577 bis devient l'article L. 577."
+      "content": "Les articles L. 577, L. 577 ter et L. 578 du code de la santé publique sont abrogés.L'article L. 577 bis devient l'article L. 577.",
+      "valid_from": "1992-12-11"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Le chapitre IV du titre III du livre V du code de la santé publique est abrogé."
+      "content": "Le chapitre IV du titre III du livre V du code de la santé publique est abrogé.",
+      "valid_from": "1992-12-11"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "Sont validées les décisions prises avant le 10 janvier 1992 par le ministre chargé de la santé et les préfets de chacun des départements d'outre-mer sur les demandes de créations d'officines de pharmacie par la voie dérogatoire dans ces départements, en vertu des arrêtés du 8 juillet 1949 et du 26 mars 1957 pris pour l'application de l'article L. 573 du code de la santé publique, en tant qu'elles seraient contestées en raison de l'incompétence du ministre chargé de la santé pour prendre de telles décisions."
+      "content": "Sont validées les décisions prises avant le 10 janvier 1992 par le ministre chargé de la santé et les préfets de chacun des départements d'outre-mer sur les demandes de créations d'officines de pharmacie par la voie dérogatoire dans ces départements, en vertu des arrêtés du 8 juillet 1949 et du 26 mars 1957 pris pour l'application de l'article L. 573 du code de la santé publique, en tant qu'elles seraient contestées en raison de l'incompétence du ministre chargé de la santé pour prendre de telles décisions.",
+      "valid_from": "1992-12-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

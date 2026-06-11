@@ -12,7 +12,14 @@
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "I.-La présente loi est applicable en Polynésie française, à l'exception de l'article 22.\n\nII.-A modifié les dispositions suivantes :\n\nIII.-A modifié les dispositions suivantes :\n\n-Code général des collectivités territoriales\n\n-Code des communes de la Nouvelle-Calédonie"
+      "content": "I.-La présente loi est applicable en Polynésie française, à l'exception de l'article 22.\n\nII.-A modifié les dispositions suivantes :\n\nIII.-A modifié les dispositions suivantes :\n\n-Code général des collectivités territoriales\n\n-Code des communes de la Nouvelle-Calédonie",
+      "valid_from": "2013-05-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

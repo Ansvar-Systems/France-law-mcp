@@ -9,16 +9,17 @@
   "description": null,
   "provisions": [
     {
-      "provision_ref": "art2",
-      "section": "2",
-      "title": "Article 2",
-      "content": "Par dérogation aux articles L. 2131-3 et L. 2131-6 du code général des collectivités territoriales, le représentant de l'Etat dans le département défère les actes relevant du 5° de l'article R. 311-2 du code de justice administrative à la juridiction administrative mentionnée au même article R. 311-2."
-    },
-    {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. à IV. − A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nV. − Les personnes qui, à la date de publication de la présente loi, occupent l'une des fonctions mentionnées au 5° du III bis de l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, dans sa rédaction résultant du IV du présent article, adressent au président de la Haute Autorité pour la transparence de la vie publique une déclaration d'intérêts et une déclaration de situation patrimoniale dans un délai de trois mois à compter de cette même date de publication.\n\nVI.-A modifié les dispositions suivantes :\n\n-Code du sport.\n\n-Code du sport.\n\n-LOI n° 2013-907 du 11 octobre 2013\n\n-Code général des collectivités territoriales\n\n-Code du sport."
+      "content": "I. à IV. − A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nV. − Les personnes qui, à la date de publication de la présente loi, occupent l'une des fonctions mentionnées au 5° du III bis de l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, dans sa rédaction résultant du IV du présent article, adressent au président de la Haute Autorité pour la transparence de la vie publique une déclaration d'intérêts et une déclaration de situation patrimoniale dans un délai de trois mois à compter de cette même date de publication.\n\nVI.-A modifié les dispositions suivantes :\n\n-Code du sport.\n\n-Code du sport.\n\n-LOI n° 2013-907 du 11 octobre 2013\n\n-Code général des collectivités territoriales\n\n-Code du sport.",
+      "valid_from": "2019-08-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

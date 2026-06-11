@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Afin de faire face aux conséquences économiques, financières et sociales de la propagation du covid-19, l'indemnité complémentaire mentionnée à l'article L. 1226-1 du code du travail est versée :1° Aux salariés qui bénéficient d'un arrêt de travail en application des dispositions prises pour l'application de l'article L. 16-10-1 du code de la sécurité sociale, sans que la condition d'ancienneté prévue au premier alinéa de l'article L. 1226-1 du code du travail ni les conditions prévues aux 1° et 3° du même article ne soient requises et sans que l'exclusion des catégories de salariés mentionnées au cinquième alinéa du même article ne s'applique ;2° Aux salariés en situation d'absence au travail justifiée par l'incapacité résultant de maladie ou d'accident mentionnés à l'article L. 1226-1 du code du travail, sans que la condition d'ancienneté prévue au premier alinéa de cet article ne soit requise et sans que l'exclusion des catégories de salariés mentionnées au cinquième alinéa du même article ne s'applique.Un décret peut aménager les modalités de calcul de l'indemnité mentionnée au premier alinéa ainsi que les délais et modalités selon lesquels elle est versée aux salariés mentionnés aux 1° et 2°.Les dispositions du présent article sont applicables aux arrêts de travail en cours au 12 mars 2020 ainsi qu'à ceux ayant commencé postérieurement à cette date, quelle que soit la date du premier jour de ces arrêts de travail, pour les indemnités complémentaires perçues par les salariés mentionnés aux 1° et 2° à compter de cette date. Elles cessent d'être applicables à une date, fixée par décret, qui ne pourra excéder le 31 décembre 2020."
+      "content": "Afin de faire face aux conséquences économiques, financières et sociales de la propagation du covid-19, l'indemnité complémentaire mentionnée à l'article L. 1226-1 du code du travail est versée :1° Aux salariés qui bénéficient d'un arrêt de travail en application des dispositions prises pour l'application de l'article L. 16-10-1 du code de la sécurité sociale, sans que la condition d'ancienneté prévue au premier alinéa de l'article L. 1226-1 du code du travail ni les conditions prévues aux 1° et 3° du même article ne soient requises et sans que l'exclusion des catégories de salariés mentionnées au cinquième alinéa du même article ne s'applique ;2° Aux salariés en situation d'absence au travail justifiée par l'incapacité résultant de maladie ou d'accident mentionnés à l'article L. 1226-1 du code du travail, sans que la condition d'ancienneté prévue au premier alinéa de cet article ne soit requise et sans que l'exclusion des catégories de salariés mentionnées au cinquième alinéa du même article ne s'applique.Un décret peut aménager les modalités de calcul de l'indemnité mentionnée au premier alinéa ainsi que les délais et modalités selon lesquels elle est versée aux salariés mentionnés aux 1° et 2°.Les dispositions du présent article sont applicables aux arrêts de travail en cours au 12 mars 2020 ainsi qu'à ceux ayant commencé postérieurement à cette date, quelle que soit la date du premier jour de ces arrêts de travail, pour les indemnités complémentaires perçues par les salariés mentionnés aux 1° et 2° à compter de cette date. Elles cessent d'être applicables à une date, fixée par décret, qui ne pourra excéder le 31 décembre 2020.",
+      "valid_from": "2020-04-17"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Par dérogation aux dispositions du code du travail régissant le versement des sommes dues au titre de la participation ou de l'intéressement et aux stipulations conventionnelles applicables dans l'entreprise, la date limite de versement aux bénéficiaires ou d'affectation sur un plan d'épargne salariale ou un compte courant bloqué des sommes attribuées en 2020 au titre d'un régime d'intéressement ou de participation est reportée au 31 décembre 2020."
+      "content": "Par dérogation aux dispositions du code du travail régissant le versement des sommes dues au titre de la participation ou de l'intéressement et aux stipulations conventionnelles applicables dans l'entreprise, la date limite de versement aux bénéficiaires ou d'affectation sur un plan d'épargne salariale ou un compte courant bloqué des sommes attribuées en 2020 au titre d'un régime d'intéressement ou de participation est reportée au 31 décembre 2020.",
+      "valid_from": "2020-03-26"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Premier ministre et la ministre du travail sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française et qui entrera en vigueur immédiatement."
+      "content": "Le Premier ministre et la ministre du travail sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française et qui entrera en vigueur immédiatement.",
+      "valid_from": "2020-03-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

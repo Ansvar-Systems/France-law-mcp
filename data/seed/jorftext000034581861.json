@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code du cinéma et de l'image animée est modifié conformément aux dispositions des articles 2 à 41 de la présente ordonnance."
+      "content": "Le code du cinéma et de l'image animée est modifié conformément aux dispositions des articles 2 à 41 de la présente ordonnance.",
+      "valid_from": "2017-05-06"
     },
     {
       "provision_ref": "art42",
       "section": "42",
       "title": "Article 42",
-      "content": "Les formules d'accès au cinéma dont l'agrément arrive à échéance en 2017 sont prorogées de six mois à compter de leur date d'échéance.Les articles 15 à 17 s'appliquent pour l'instruction des demandes de renouvellement de ces formules."
+      "content": "Les formules d'accès au cinéma dont l'agrément arrive à échéance en 2017 sont prorogées de six mois à compter de leur date d'échéance.Les articles 15 à 17 s'appliquent pour l'instruction des demandes de renouvellement de ces formules.",
+      "valid_from": "2017-05-06"
     },
     {
       "provision_ref": "art43",
       "section": "43",
       "title": "Article 43",
-      "content": "Le 1° de l'article 2 et l'article 21 entrent en vigueur le 1er janvier 2018."
+      "content": "Le 1° de l'article 2 et l'article 21 entrent en vigueur le 1er janvier 2018.",
+      "valid_from": "2017-05-06"
     },
     {
       "provision_ref": "art44",
       "section": "44",
       "title": "Article 44",
-      "content": "Le Premier ministre et la ministre de la culture et de la communication sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre de la culture et de la communication sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-05-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

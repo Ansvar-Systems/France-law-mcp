@@ -9,52 +9,74 @@
   "description": null,
   "provisions": [
     {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "I. - L'établissement public mentionné au I de l'article 124 de la loi de finances pour 1991 (n° 90-1168 du 29 décembre 1990) prend le nom de Voies navigables de France. Il constitue un établissement public industriel et commercial.\n\nII. - L'Etat attribue en pleine propriété à Voies navigables de France les biens meubles nécessaires à l'accomplissement de ses missions.\n\nIII. - L'établissement public Voies navigables de France est substitué à l'Etat dans l'exercice des pouvoirs dévolus à ce dernier pour la répression des atteintes à l'intégrité et à la conservation du domaine public qui lui est confié ; il représente l'Etat dans l'exercice du pouvoir de transaction institué par l'article 44 du code du domaine public fluvial et de la navigation intérieure.\n\nToutefois, les contraventions continuent à être constatées par les agents mentionnés à l'article 41 du même code.\n\nIV. - Dans le cas où des atteintes à l'intégrité et à la conservation du domaine ont été constatées, les autorités énumérées ci-dessous saisissent le tribunal administratif territorialement compétent dans les conditions et suivant les procédures prévues par le code des tribunaux administratifs :\n\n- le président de Voies navigables de France pour le domaine confié à cet établissement public. Il peut déléguer sa signature au directeur général. Le directeur général peut subdéléguer sa signature aux chefs des services déconcentrés qui sont les représentants locaux de l'établissement ;\n\n- le directeur du Port autonome de Paris pour le domaine confié à cet établissement public ; il peut déléguer sa signature au secrétaire général ;\n\n- le directeur du Port autonome de Strasbourg pour le domaine confié à cet établissement public ; il peut déléguer sa signature à son adjoint.\n\nV. - L'annexe II mentionnée à l'article 4 de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public est complétée par un alinéa ainsi rédigé :\n\n\" Voies navigables de France \".\n\nVI. - Les comptables de l'établissement public procèdent au recouvrement des redevances et droits fixes dus pour toute emprise sur le domaine confié à l'établissement public en application de l'article 124 de la loi n° 90-1168 du 29 décembre 1990 précitée ou pour tout autre usage de celui-ci.\n\nVII. - Un contrat de plan est établi entre l'Etat et l'établissement public Voies navigables de France, qui détermine les objectifs généraux assignés à l'établissement public et les moyens à mettre en oeuvre pour les atteindre, notamment en ce qui concerne le financement des infrastructures nouvelles.",
+      "valid_from": "1992-02-08",
+      "valid_to": "2222-02-22"
+    },
+    {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Pendant une période de vingt ans à compter de la date de promulgation de la présente loi, l'Etat garantit Voies navigables de France des conséquences financières des dommages causés par un accident dû à un élément du domaine qui lui est confié si le sinistre est imputable à la gestion antérieure de l'Etat. Une convention passée entre l'Etat et l'établissement public fixe les modalités d'application de la présente disposition."
+      "content": "Pendant une période de vingt ans à compter de la date de promulgation de la présente loi, l'Etat garantit Voies navigables de France des conséquences financières des dommages causés par un accident dû à un élément du domaine qui lui est confié si le sinistre est imputable à la gestion antérieure de l'Etat. Une convention passée entre l'Etat et l'établissement public fixe les modalités d'application de la présente disposition.",
+      "valid_from": "1992-01-01"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Pour la mise en oeuvre de l'article 7 de la convention signée le 6 décembre 1982 par la République fédérale d'Allemagne et la République française, l'Etat peut instituer à son profit des servitudes d'utilité publique permettant l'inondation périodique de terrains publics ou privés situés dans des zones dites \" zones de rétention des crues \"."
+      "content": "Pour la mise en oeuvre de l'article 7 de la convention signée le 6 décembre 1982 par la République fédérale d'Allemagne et la République française, l'Etat peut instituer à son profit des servitudes d'utilité publique permettant l'inondation périodique de terrains publics ou privés situés dans des zones dites \" zones de rétention des crues \".",
+      "valid_from": "1992-01-01"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "La zone de rétention des crues est instituée par arrêté préfectoral après enquête publique menée conformément au code de l'expropriation pour cause d'utilité publique.En cas d'avis défavorable du commissaire enquêteur ou de la commission chargée de l'enquête, le Gouvernement peut déclarer l'utilité publique par un décret en Conseil d'Etat.L'acte déclaratif d'utilité publique fixe le périmètre de la zone de rétention des crues et les servitudes qui s'y appliquent. Le cas échéant, il détermine les éléments existants faisant obstacle à l'utilisation de la zone qui doivent être supprimés ou modifiés."
+      "content": "La zone de rétention des crues est instituée par arrêté préfectoral après enquête publique menée conformément au code de l'expropriation pour cause d'utilité publique.En cas d'avis défavorable du commissaire enquêteur ou de la commission chargée de l'enquête, le Gouvernement peut déclarer l'utilité publique par un décret en Conseil d'Etat.L'acte déclaratif d'utilité publique fixe le périmètre de la zone de rétention des crues et les servitudes qui s'y appliquent. Le cas échéant, il détermine les éléments existants faisant obstacle à l'utilisation de la zone qui doivent être supprimés ou modifiés.",
+      "valid_from": "1992-01-01"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les servitudes instituées en application du présent chapitre consistent notamment en l'inondation périodique des zones délimitées conformément à l'article 11 pour permettre tant la rétention des crues du Rhin que l'accoutumance de la faune et de la flore auxdites inondations.Elles obligent les propriétaires et les exploitants à :a) S'abstenir de tout acte de nature à nuire au bon fonctionnement, à l'entretien et à la conservation des ouvrages ;b) Soumettre tout projet de digue, remblai, dépôt de matières encombrantes, clôture, plantation d'arbres et de haies, construction, ou de tout autre ouvrage susceptible de faire obstacle à l'écoulement des eaux, à déclaration préalable à l'administration par lettre recommandée avec demande d'avis de réception : l'administration a, pendant un délai de trois mois qui commence à courir à compter de l'avis de réception mentionné ci-dessus, la faculté d'interdire l'exécution des travaux ou d'ordonner les modifications nécessaires pour assurer le libre écoulement des eaux ;c) Prendre les dispositions nécessaires pour, dans le délai prescrit par l'administration avant l'inondation, évacuer tout véhicule ou engin mobile pouvant provoquer ou subir des dommages ;d) Permettre en tout temps aux agents de l'administration chargés de l'aménagement, de l'entretien et de l'exploitation des ouvrages d'accéder aux terrains inclus dans le périmètre desdites zones."
+      "content": "Les servitudes instituées en application du présent chapitre consistent notamment en l'inondation périodique des zones délimitées conformément à l'article 11 pour permettre tant la rétention des crues du Rhin que l'accoutumance de la faune et de la flore auxdites inondations.Elles obligent les propriétaires et les exploitants à :a) S'abstenir de tout acte de nature à nuire au bon fonctionnement, à l'entretien et à la conservation des ouvrages ;b) Soumettre tout projet de digue, remblai, dépôt de matières encombrantes, clôture, plantation d'arbres et de haies, construction, ou de tout autre ouvrage susceptible de faire obstacle à l'écoulement des eaux, à déclaration préalable à l'administration par lettre recommandée avec demande d'avis de réception : l'administration a, pendant un délai de trois mois qui commence à courir à compter de l'avis de réception mentionné ci-dessus, la faculté d'interdire l'exécution des travaux ou d'ordonner les modifications nécessaires pour assurer le libre écoulement des eaux ;c) Prendre les dispositions nécessaires pour, dans le délai prescrit par l'administration avant l'inondation, évacuer tout véhicule ou engin mobile pouvant provoquer ou subir des dommages ;d) Permettre en tout temps aux agents de l'administration chargés de l'aménagement, de l'entretien et de l'exploitation des ouvrages d'accéder aux terrains inclus dans le périmètre desdites zones.",
+      "valid_from": "1992-01-01"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les indemnités destinées à réparer les préjudices résultant de l'institution de la zone de rétention des crues sont fixées et payées comme en matière d'expropriation pour cause d'utilité publique."
+      "content": "Les indemnités destinées à réparer les préjudices résultant de l'institution de la zone de rétention des crues sont fixées et payées comme en matière d'expropriation pour cause d'utilité publique.",
+      "valid_from": "1992-01-01"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Le propriétaire d'un terrain situé dans une zone de rétention des crues peut à tout moment en requérir l'acquisition partielle ou totale par l'Etat.A défaut de réponse dans un délai de trois mois à compter de la date de réception de la demande, ou en cas de refus, le propriétaire peut saisir le juge de l'expropriation. Si le juge fait droit à la demande et, à défaut d'accord amiable dans les trois mois de sa décision, sur nouvelle saisine, le juge prononce le transfert de propriété et fixe les conditions de la cession. Le montant de l'indemnité est fixé et payé comme en matière d'expropriation."
+      "content": "Le propriétaire d'un terrain situé dans une zone de rétention des crues peut à tout moment en requérir l'acquisition partielle ou totale par l'Etat.A défaut de réponse dans un délai de trois mois à compter de la date de réception de la demande, ou en cas de refus, le propriétaire peut saisir le juge de l'expropriation. Si le juge fait droit à la demande et, à défaut d'accord amiable dans les trois mois de sa décision, sur nouvelle saisine, le juge prononce le transfert de propriété et fixe les conditions de la cession. Le montant de l'indemnité est fixé et payé comme en matière d'expropriation.",
+      "valid_from": "1992-01-01"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les infractions aux dispositions des articles 11 et 12 du présent chapitre constituent des contraventions de grande voirie réprimées par la juridiction administrative.Dans un délai fixé par la mise en demeure faite par le représentant de l'Etat dans le département et qui, sauf péril imminent, ne peut être inférieur à un mois, les contrevenants sont tenus de supprimer ou de modifier les éléments et obstacles mentionnés à la dernière phrase de l'article 11 et à l'article 12 indûment maintenus ou exécutés, le tout à leurs frais."
+      "content": "Les infractions aux dispositions des articles 11 et 12 du présent chapitre constituent des contraventions de grande voirie réprimées par la juridiction administrative.Dans un délai fixé par la mise en demeure faite par le représentant de l'Etat dans le département et qui, sauf péril imminent, ne peut être inférieur à un mois, les contrevenants sont tenus de supprimer ou de modifier les éléments et obstacles mentionnés à la dernière phrase de l'article 11 et à l'article 12 indûment maintenus ou exécutés, le tout à leurs frais.",
+      "valid_from": "1992-01-01"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Les conditions d'application du présent chapitre sont fixées par décret en Conseil d'Etat."
+      "content": "Les conditions d'application du présent chapitre sont fixées par décret en Conseil d'Etat.",
+      "valid_from": "1992-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

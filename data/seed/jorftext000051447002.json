@@ -12,115 +12,140 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les régisseurs nationaux de l'enregistrement, des domaines et des droits réunis, seront tenus d'approvisionner tous leurs bureaux de vente de papier timbré, de feuilles imprimées pour la formation des registres à souche destinés à recevoir les déclarations et soumissions pour obtention de patentes."
+      "content": "Les régisseurs nationaux de l'enregistrement, des domaines et des droits réunis, seront tenus d'approvisionner tous leurs bureaux de vente de papier timbré, de feuilles imprimées pour la formation des registres à souche destinés à recevoir les déclarations et soumissions pour obtention de patentes.",
+      "valid_from": "1791-10-09"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Ces feuilles de registre à souche seront imprimées conformément au modèle annexé au présent décret, et seront fournies par la régie aux municipalités, qui en acquitteront le prix, soit comptant, soit par une reconnoissance payable dans le délai de six mois au plus tard, et se feront rembourser le droit de timbre par les soumissionnaires, en délivrant les certificats, lesquels, ainsi que la quittance, ne seront point assujétis au droit d'enregistrement."
+      "content": "Ces feuilles de registre à souche seront imprimées conformément au modèle annexé au présent décret, et seront fournies par la régie aux municipalités, qui en acquitteront le prix, soit comptant, soit par une reconnoissance payable dans le délai de six mois au plus tard, et se feront rembourser le droit de timbre par les soumissionnaires, en délivrant les certificats, lesquels, ainsi que la quittance, ne seront point assujétis au droit d'enregistrement.",
+      "valid_from": "1791-10-09"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les municipalités qui sont déjà approvisionnées de registres, continueront à se servir des mêmes registres pour l'année 1791 seulement."
+      "content": "Les municipalités qui sont déjà approvisionnées de registres, continueront à se servir des mêmes registres pour l'année 1791 seulement.",
+      "valid_from": "1791-10-09"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Toutes les patentes, à l'exception de celles des propriétaires vendant des vins en détail pendant six mois au plus, et de celles des colporteurs, seront désignées par,et; en conséquence, les déclarations, certificats et patentes ne contiendront la désignation d'aucunes professions, mais seulement la désignation de,,."
+      "content": "Toutes les patentes, à l'exception de celles des propriétaires vendant des vins en détail pendant six mois au plus, et de celles des colporteurs, seront désignées par,et; en conséquence, les déclarations, certificats et patentes ne contiendront la désignation d'aucunes professions, mais seulement la désignation de,,.",
+      "valid_from": "1791-10-09"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les particuliers qui ne seront pourvus que de la demi-patente, ne pourront exercer que la profession de boulanger, conformément à l'article 13 du décret du 2 mars dernier.\n\nCeux qui seront pourvus d'une patente simple, pourront exercer une telle profession, ou en cumuler autant qu'ils jugeront convenable, conformément à l'article 7 du même décret, à l'exception de celles désignées par l'article 14 du même décret.\n\nCeux qui seront pourvus de la patente supérieure, pourront exercer toutes les professions, et se livrer à tous les commerces ou industries, sans aucune exception."
+      "content": "Les particuliers qui ne seront pourvus que de la demi-patente, ne pourront exercer que la profession de boulanger, conformément à l'article 13 du décret du 2 mars dernier.\n\nCeux qui seront pourvus d'une patente simple, pourront exercer une telle profession, ou en cumuler autant qu'ils jugeront convenable, conformément à l'article 7 du même décret, à l'exception de celles désignées par l'article 14 du même décret.\n\nCeux qui seront pourvus de la patente supérieure, pourront exercer toutes les professions, et se livrer à tous les commerces ou industries, sans aucune exception.",
+      "valid_from": "1791-10-09"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les directoires de district feront faire, dans les premiers jours de chaque trimestre, le relevé des déclarations portées sur le registre à souche de chaque municipalité."
+      "content": "Les directoires de district feront faire, dans les premiers jours de chaque trimestre, le relevé des déclarations portées sur le registre à souche de chaque municipalité.",
+      "valid_from": "1791-10-09"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Sur ces relevés, il sera formé pour chaque municipalité un rôle qui désignera le nom des soumissionnaires du trimestre précédent, la nature de la patente, le montant du loyer, le prix de la patente et la distribution des termes de payement ; conformément au modèle annexé au présent décret."
+      "content": "Sur ces relevés, il sera formé pour chaque municipalité un rôle qui désignera le nom des soumissionnaires du trimestre précédent, la nature de la patente, le montant du loyer, le prix de la patente et la distribution des termes de payement ; conformément au modèle annexé au présent décret.",
+      "valid_from": "1791-10-09"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "La réunion des rôles formés par trimestre pour chaque municipalité, donnera le montant total du produit du droit de patentes dont le percepteur de la communauté devra compter, à la déduction de deux sous pour livre alloués à la caisse de la commune, et de trois deniers pour livre de taxations, entre les mains du receveur de district ; et celui-ci à la trésorerie nationale, à la déduction de ses taxations sur le pied d'un denier pour livre."
+      "content": "La réunion des rôles formés par trimestre pour chaque municipalité, donnera le montant total du produit du droit de patentes dont le percepteur de la communauté devra compter, à la déduction de deux sous pour livre alloués à la caisse de la commune, et de trois deniers pour livre de taxations, entre les mains du receveur de district ; et celui-ci à la trésorerie nationale, à la déduction de ses taxations sur le pied d'un denier pour livre.",
+      "valid_from": "1791-10-09"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Il sera formé dans les premiers mois de chaque trimestre ; pour toutes les communautés du district, un bordereau général du montant des rôles de patentes expédiées pour le trimestre précédent ; et le directoire de district adressera une expédition de ce bordereau, signée et certifiée de lui, au receveur du district, et une seconde sera remise au directoire du département."
+      "content": "Il sera formé dans les premiers mois de chaque trimestre ; pour toutes les communautés du district, un bordereau général du montant des rôles de patentes expédiées pour le trimestre précédent ; et le directoire de district adressera une expédition de ce bordereau, signée et certifiée de lui, au receveur du district, et une seconde sera remise au directoire du département.",
+      "valid_from": "1791-10-09"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Le directoire du département, aussitôt la réunion de ces bordereaux, en formera un état général par districts, dont une expédition sera adressée au ministre des contributions publiques, qui en fera passer une copie aux commissaires de la trésorerie nationale."
+      "content": "Le directoire du département, aussitôt la réunion de ces bordereaux, en formera un état général par districts, dont une expédition sera adressée au ministre des contributions publiques, qui en fera passer une copie aux commissaires de la trésorerie nationale.",
+      "valid_from": "1791-10-09"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Il sera établi dans chaque département des préposés sous le nom de, au nombre de six au plus, et dont l'un aura celui de visiteur principal. Il seront chargés de compulser dans chaque municipalité le nombre des déclarations des patentes, et d'aider lesdites municipalités à la formation des matrices des rôles des contributions foncière et mobiliaire, conformément à l'article 8 du décret des 11 et 13 juin 1791."
+      "content": "Il sera établi dans chaque département des préposés sous le nom de, au nombre de six au plus, et dont l'un aura celui de visiteur principal. Il seront chargés de compulser dans chaque municipalité le nombre des déclarations des patentes, et d'aider lesdites municipalités à la formation des matrices des rôles des contributions foncière et mobiliaire, conformément à l'article 8 du décret des 11 et 13 juin 1791.",
+      "valid_from": "1791-10-09"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Ces visiteurs seront subordonnés à un inspecteur général des rôles, dont la résidence sera fixée dans le chef-lieu et auprès du directoire du département. Les relevés faits par les visiteurs des rôles et visiteur principal, seront adressés à cet inspecteur général qui sera chargé de faire former les rôles."
+      "content": "Ces visiteurs seront subordonnés à un inspecteur général des rôles, dont la résidence sera fixée dans le chef-lieu et auprès du directoire du département. Les relevés faits par les visiteurs des rôles et visiteur principal, seront adressés à cet inspecteur général qui sera chargé de faire former les rôles.",
+      "valid_from": "1791-10-09"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les visiteurs, visiteur principal et inspecteur général des rôles, seront tous nommés, pour cette première fois, par le roi, qui ne pourra les choisir, conformément à l'article 3 du décret du 7 mars dernier, que parmi les personnes qui justifieront avoir été précédemment employées au service de la nation, dans les administrations réduites ou supprimées."
+      "content": "Les visiteurs, visiteur principal et inspecteur général des rôles, seront tous nommés, pour cette première fois, par le roi, qui ne pourra les choisir, conformément à l'article 3 du décret du 7 mars dernier, que parmi les personnes qui justifieront avoir été précédemment employées au service de la nation, dans les administrations réduites ou supprimées.",
+      "valid_from": "1791-10-09"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "A compter du 1er janvier 1792, jusqu'au 1er avril 1794, les directoires de département pourvoiront pareillement à ceux de ces emplois qui deviendroient vacans, en faveur d'employés des anciennes administrations réduites ou supprimées."
+      "content": "A compter du 1er janvier 1792, jusqu'au 1er avril 1794, les directoires de département pourvoiront pareillement à ceux de ces emplois qui deviendroient vacans, en faveur d'employés des anciennes administrations réduites ou supprimées.",
+      "valid_from": "1791-10-09"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "A compter dudit jour 1er avril 1794, les visiteurs des rôles seront choisis et nommés par les directoires de département, parmi les employés de leurs bureaux, ou de ceux des directoires de district."
+      "content": "A compter dudit jour 1er avril 1794, les visiteurs des rôles seront choisis et nommés par les directoires de département, parmi les employés de leurs bureaux, ou de ceux des directoires de district.",
+      "valid_from": "1791-10-09"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Le visiteur principal sera toujours choisi parmi les visiteurs ordinaires du département ; mais l'inspecteur général pourra être choisi hors du département parmi tous les visiteurs généraux."
+      "content": "Le visiteur principal sera toujours choisi parmi les visiteurs ordinaires du département ; mais l'inspecteur général pourra être choisi hors du département parmi tous les visiteurs généraux.",
+      "valid_from": "1791-10-09"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Le traitement des visiteurs des rôles sera de 1500 liv. dont 1200 liv. acquittées sur le produit des patentes, et 300 liv. sur les sous pour livre additionnels du département.\n\nCelui de visiteur principal sera de 2000 liv. dont 1500 liv. sur le produit des patentes, et 500 liv. sur les sous pour livre additionnels.\n\nEnfin, celui de l'inspecteur général sera de 3600 liv. dont 2400 liv. sur le produit des patentes, et 1200 liv. sur les sous pour livre additionnels."
+      "content": "Le traitement des visiteurs des rôles sera de 1500 liv. dont 1200 liv. acquittées sur le produit des patentes, et 300 liv. sur les sous pour livre additionnels du département.\n\nCelui de visiteur principal sera de 2000 liv. dont 1500 liv. sur le produit des patentes, et 500 liv. sur les sous pour livre additionnels.\n\nEnfin, celui de l'inspecteur général sera de 3600 liv. dont 2400 liv. sur le produit des patentes, et 1200 liv. sur les sous pour livre additionnels.",
+      "valid_from": "1791-10-09"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Pourront au surplus les directoires de département délibérer en faveur desdits employés telles gratifications qu'ils jugeront convenables, de manière cependant que le traitement des visiteurs des rôles ne puisse excéder 1800 livres, celui de visiteur principal, 2400 livres, et celui de l'inspecteur général, 4000 liv."
+      "content": "Pourront au surplus les directoires de département délibérer en faveur desdits employés telles gratifications qu'ils jugeront convenables, de manière cependant que le traitement des visiteurs des rôles ne puisse excéder 1800 livres, celui de visiteur principal, 2400 livres, et celui de l'inspecteur général, 4000 liv.",
+      "valid_from": "1791-10-09"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Lorsque les inspecteurs et visiteurs reconnoîtront la fausseté ou l'insuffisance des déclarations, ou lorsqu'ils seront avertis de cette fausseté par les municipalités, ils seront tenus d'en dresser procès-verbal qu'ils remettront dans huitaine au procureur-syndic du district, pour être par lui demandé la rectification devant le directoire de district."
+      "content": "Lorsque les inspecteurs et visiteurs reconnoîtront la fausseté ou l'insuffisance des déclarations, ou lorsqu'ils seront avertis de cette fausseté par les municipalités, ils seront tenus d'en dresser procès-verbal qu'ils remettront dans huitaine au procureur-syndic du district, pour être par lui demandé la rectification devant le directoire de district.",
+      "valid_from": "1791-10-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

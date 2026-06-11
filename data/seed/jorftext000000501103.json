@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les médecins des armées assurent la direction et le fonctionnement du service de santé des armées et commandent les formations qui en dépendent.\n\nLes pharmaciens chimistes des armées, sous l'autorité des médecins titulaires des emplois de direction générale du service de santé :\n\na) Collaborent, au même titre que les médecins, à la direction et au fonctionnement du service de santé des armées dans les emplois correspondant à leur spécialisation ;\n\nb) Assurent le commandement et la gestion des établissements du service de santé à activité pharmaceutique.\n\nLes médecins des armées et les pharmaciens chimistes des armées peuvent également être mis à la disposition d'organismes publics nationaux ou internationaux ou d'Etats étrangers pour y remplir des fonctions de leur spécialité.\n\nIls sont assistés des officiers d'administration, des officiers techniciens, des sous-officiers et des personnels militaires féminins du service de santé des armées."
+      "content": "Les médecins des armées assurent la direction et le fonctionnement du service de santé des armées et commandent les formations qui en dépendent.\n\nLes pharmaciens chimistes des armées, sous l'autorité des médecins titulaires des emplois de direction générale du service de santé :\n\na) Collaborent, au même titre que les médecins, à la direction et au fonctionnement du service de santé des armées dans les emplois correspondant à leur spécialisation ;\n\nb) Assurent le commandement et la gestion des établissements du service de santé à activité pharmaceutique.\n\nLes médecins des armées et les pharmaciens chimistes des armées peuvent également être mis à la disposition d'organismes publics nationaux ou internationaux ou d'Etats étrangers pour y remplir des fonctions de leur spécialité.\n\nIls sont assistés des officiers d'administration, des officiers techniciens, des sous-officiers et des personnels militaires féminins du service de santé des armées.",
+      "valid_from": "1969-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

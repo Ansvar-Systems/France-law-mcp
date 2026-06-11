@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le rapport annuel prévu à l'article 51 de la loi n° 2007-1199 du 10 août 2007 relative aux libertés et responsabilités des universités comporte un volet sur la mise en œuvre du transfert du patrimoine immobilier de l'Etat aux universités, le bilan des opérations immobilières en cours et l'exercice des droits réels par les universités sur le patrimoine immobilier."
+      "content": "Le rapport annuel prévu à l'article 51 de la loi n° 2007-1199 du 10 août 2007 relative aux libertés et responsabilités des universités comporte un volet sur la mise en œuvre du transfert du patrimoine immobilier de l'Etat aux universités, le bilan des opérations immobilières en cours et l'exercice des droits réels par les universités sur le patrimoine immobilier.",
+      "valid_from": "2010-12-15"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - L'exécution des contrats conférant des droits réels à des tiers que l'Etat a conclus avant l'entrée en vigueur de la présente loi sur les biens qu'il a mis à disposition des établissements publics d'enseignement supérieur se poursuit jusqu'à leur terme.\n\nIII. - A modifié les dispositions suivantes :\n\nIV. - Les I et II s'appliquent dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.\n\n- Code de l'éducation\n\n- Code général des collectivités territoriales"
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - L'exécution des contrats conférant des droits réels à des tiers que l'Etat a conclus avant l'entrée en vigueur de la présente loi sur les biens qu'il a mis à disposition des établissements publics d'enseignement supérieur se poursuit jusqu'à leur terme.\n\nIII. - A modifié les dispositions suivantes :\n\nIV. - Les I et II s'appliquent dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.\n\n- Code de l'éducation\n\n- Code général des collectivités territoriales",
+      "valid_from": "2010-12-15"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "II. - Le présent article est applicable en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna."
+      "content": "II. - Le présent article est applicable en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna.",
+      "valid_from": "2010-12-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

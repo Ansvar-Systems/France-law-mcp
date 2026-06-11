@@ -12,19 +12,28 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Dans un délai de six mois à compter de l'entrée en vigueur de la présente loi, les références au S.M.I.G. contenues dans des dispositions législatives ou réglementaires seront examinées et éventuellement remplacées par d'autres références."
+      "content": "Dans un délai de six mois à compter de l'entrée en vigueur de la présente loi, les références au S.M.I.G. contenues dans des dispositions législatives ou réglementaires seront examinées et éventuellement remplacées par d'autres références.",
+      "valid_from": "1970-01-04"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "A partir de l'entrée en vigueur de la présente loi, toutes les références au S.M.I.G. contenues dans la loi n° 68-1249 du 31 décembre 1968, relative à la rémunération des stagiaires de la formation professionnelle, sont remplacées par des références au salaire minimum de croissance."
+      "content": "A partir de l'entrée en vigueur de la présente loi, toutes les références au S.M.I.G. contenues dans la loi n° 68-1249 du 31 décembre 1968, relative à la rémunération des stagiaires de la formation professionnelle, sont remplacées par des références au salaire minimum de croissance.",
+      "valid_from": "1970-01-04"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le salaire minimum de croissance est égal en métropole, à la date d'entrée en vigueur de la présente loi, au salaire minimum national interprofessionnel garanti applicable à cette date.L'indice de référence à retenir pour la première modification du salaire minimum de croissance, par application des dispositions de l'article 31 x c du livre Ier du code du travail, est l'indice publié lors du dernier relèvement du S.M.I.G..Dans chaque département d'outre-mer, le salaire minimum de croissance est égal, à compter de la date d'entrée en vigueur de la présente loi, au salaire minimum interprofessionnel garanti applicable dans ce département à ladite date."
+      "content": "Le salaire minimum de croissance est égal en métropole, à la date d'entrée en vigueur de la présente loi, au salaire minimum national interprofessionnel garanti applicable à cette date.L'indice de référence à retenir pour la première modification du salaire minimum de croissance, par application des dispositions de l'article 31 x c du livre Ier du code du travail, est l'indice publié lors du dernier relèvement du S.M.I.G..Dans chaque département d'outre-mer, le salaire minimum de croissance est égal, à compter de la date d'entrée en vigueur de la présente loi, au salaire minimum interprofessionnel garanti applicable dans ce département à ladite date.",
+      "valid_from": "1970-01-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "L'article L. 123-5 du code de la propriété intellectuelle est abrogé."
+      "content": "L'article L. 123-5 du code de la propriété intellectuelle est abrogé.",
+      "valid_from": "1994-05-11"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "La présente loi est applicable dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte."
+      "content": "La présente loi est applicable dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.",
+      "valid_from": "1994-05-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,37 +12,49 @@
       "provision_ref": "art43A",
       "section": "43A",
       "title": "Article 43A",
-      "content": "Les règles relatives aux hypothèques maritimes sont fixées à la section 7 du chapitre Ier du titre IX du code des douanes ainsi qu'au présent chapitre."
+      "content": "Les règles relatives aux hypothèques maritimes sont fixées à la section 7 du chapitre Ier du titre IX du code des douanes ainsi qu'au présent chapitre.",
+      "valid_from": "2016-06-22"
     },
     {
       "provision_ref": "art47",
       "section": "47",
       "title": "Article 47",
-      "content": "Si le bâtiment est perdu ou avarié, sont subrogées au bâtiment et à ses accessoires :a) Les indemnités dues au propriétaire à raison des dommages matériels subis par le bâtiment ;b) Les sommes dues au propriétaire pour contribution aux avaries communes subies par le bâtiment ;c) Les indemnités dues au propriétaire pour assistance prêtée ou sauvetage effectué depuis l'inscription de l'hypothèque, dans la mesure où elles représentent la perte ou l'avarie du bâtiment hypothéqué ;d) Les indemnités d'assurance sur le corps du bâtiment.Les paiements faits de bonne foi avant opposition sont valables."
+      "content": "Si le bâtiment est perdu ou avarié, sont subrogées au bâtiment et à ses accessoires :a) Les indemnités dues au propriétaire à raison des dommages matériels subis par le bâtiment ;b) Les sommes dues au propriétaire pour contribution aux avaries communes subies par le bâtiment ;c) Les indemnités dues au propriétaire pour assistance prêtée ou sauvetage effectué depuis l'inscription de l'hypothèque, dans la mesure où elles représentent la perte ou l'avarie du bâtiment hypothéqué ;d) Les indemnités d'assurance sur le corps du bâtiment.Les paiements faits de bonne foi avant opposition sont valables.",
+      "valid_from": "1968-02-04"
     },
     {
       "provision_ref": "art50",
       "section": "50",
       "title": "Article 50",
-      "content": "Les sûretés conventionnelles, constituées avant la francisation sur un bâtiment, sont valables et produisent effet à condition :1° D'avoir été publiées, conformément à la loi du pavillon du bâtiment ou, à défaut, du lieu de construction du bâtiment ;2° D'avoir été portées à la connaissance de l'acquéreur avant l'acte de transfert du bâtiment ;3° D'avoir fait l'objet de la publicité réglementaire lors de la francisation.Des décrets détermineront les sûretés constituées en application d'une législation étrangère auxquelles s'applique le présent article."
+      "content": "Les sûretés conventionnelles, constituées avant la francisation sur un bâtiment, sont valables et produisent effet à condition :1° D'avoir été publiées, conformément à la loi du pavillon du bâtiment ou, à défaut, du lieu de construction du bâtiment ;2° D'avoir été portées à la connaissance de l'acquéreur avant l'acte de transfert du bâtiment ;3° D'avoir fait l'objet de la publicité réglementaire lors de la francisation.Des décrets détermineront les sûretés constituées en application d'une législation étrangère auxquelles s'applique le présent article.",
+      "valid_from": "1968-02-04"
     },
     {
       "provision_ref": "art55",
       "section": "55",
       "title": "Article 55",
-      "content": "Les créanciers ayant hypothèque inscrite sur un bâtiment ou portion de bâtiment, le suivent, en quelques mains qu'il passe, pour être colloqués et payés suivant l'ordre de leurs inscriptions.Si l'hypothèque ne grève qu'une portion du bâtiment, le créancier ne peut saisir et faire vendre que la portion qui lui est affectée. Toutefois, si plus de la moitié du bâtiment se trouve hypothéquée, le créancier pourra, après saisie, le faire vendre en totalité, à charge d'appeler à la vente les copropriétaires."
+      "content": "Les créanciers ayant hypothèque inscrite sur un bâtiment ou portion de bâtiment, le suivent, en quelques mains qu'il passe, pour être colloqués et payés suivant l'ordre de leurs inscriptions.Si l'hypothèque ne grève qu'une portion du bâtiment, le créancier ne peut saisir et faire vendre que la portion qui lui est affectée. Toutefois, si plus de la moitié du bâtiment se trouve hypothéquée, le créancier pourra, après saisie, le faire vendre en totalité, à charge d'appeler à la vente les copropriétaires.",
+      "valid_from": "1968-02-04"
     },
     {
       "provision_ref": "art56",
       "section": "56",
       "title": "Article 56",
-      "content": "Dans tous les cas de copropriété, par dérogation à l'article 883 du Code civil, les hypothèques consenties durant l'indivision, par un ou plusieurs des copropriétaires, sur une portion du bâtiment, continuent de subsister après le partage ou la licitation.Toutefois, si la licitation s'est faite en justice, le droit des créanciers n'ayant hypothèque que sur une portion du bâtiment sera limité au droit de préférence sur la partie du prix afférente à l'intérêt hypothéqué."
+      "content": "Dans tous les cas de copropriété, par dérogation à l'article 883 du Code civil, les hypothèques consenties durant l'indivision, par un ou plusieurs des copropriétaires, sur une portion du bâtiment, continuent de subsister après le partage ou la licitation.Toutefois, si la licitation s'est faite en justice, le droit des créanciers n'ayant hypothèque que sur une portion du bâtiment sera limité au droit de préférence sur la partie du prix afférente à l'intérêt hypothéqué.",
+      "valid_from": "1968-02-04"
     },
     {
       "provision_ref": "art57bis",
       "section": "57bis",
       "title": "Article 57bis",
-      "content": "L'article 43 A est applicable à Saint-Pierre-et-Miquelon, à Wallis-et-Futuna, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises dans sa rédaction résultant de l'article 10 de la loi n° 2016-816 du 20 juin 2016 pour l'économie bleue."
+      "content": "L'article 43 A est applicable à Saint-Pierre-et-Miquelon, à Wallis-et-Futuna, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises dans sa rédaction résultant de l'article 10 de la loi n° 2016-816 du 20 juin 2016 pour l'économie bleue.",
+      "valid_from": "2016-06-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,31 +12,42 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "II. - Le présent article entre en vigueur le premier jour du quatrième mois suivant la promulgation de la présente loi."
+      "content": "II. - Le présent article entre en vigueur le premier jour du quatrième mois suivant la promulgation de la présente loi.",
+      "valid_from": "2014-11-15"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "I. - Les ordonnances n° 2012-351 du 12 mars 2012 relative à la partie législative du code de la sécurité intérieure, n° 2013-518 du 20 juin 2013 modifiant certaines dispositions du code de la sécurité intérieure et du code de la défense (parties législatives) relatives aux armes et munitions et n° 2013-519 du 20 juin 2013 modifiant certaines dispositions du code de la sécurité intérieure (partie législative) relatives à l'outre-mer sont ratifiées.\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure"
+      "content": "I. - Les ordonnances n° 2012-351 du 12 mars 2012 relative à la partie législative du code de la sécurité intérieure, n° 2013-518 du 20 juin 2013 modifiant certaines dispositions du code de la sécurité intérieure et du code de la défense (parties législatives) relatives aux armes et munitions et n° 2013-519 du 20 juin 2013 modifiant certaines dispositions du code de la sécurité intérieure (partie législative) relatives à l'outre-mer sont ratifiées.\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure",
+      "valid_from": "2014-11-15"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnances les mesures relevant du domaine de la loi nécessaires pour appliquer et adapter les dispositions de la présente loi en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna, ainsi que pour permettre l'assignation à résidence sur l'ensemble du territoire de la République d'un étranger expulsé ou interdit du territoire, quel que soit le lieu où ces décisions ont été prononcées.Les ordonnances sont prises dans un délai de trois mois suivant la promulgation de la présente loi.Le projet de loi de ratification de chaque ordonnance est déposé devant le Parlement au plus tard le dernier jour du sixième mois suivant celui de sa publication."
+      "content": "Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnances les mesures relevant du domaine de la loi nécessaires pour appliquer et adapter les dispositions de la présente loi en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna, ainsi que pour permettre l'assignation à résidence sur l'ensemble du territoire de la République d'un étranger expulsé ou interdit du territoire, quel que soit le lieu où ces décisions ont été prononcées.Les ordonnances sont prises dans un délai de trois mois suivant la promulgation de la présente loi.Le projet de loi de ratification de chaque ordonnance est déposé devant le Parlement au plus tard le dernier jour du sixième mois suivant celui de sa publication.",
+      "valid_from": "2014-11-15"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Les articles 2 et 3 de la présente loi sont applicables à Saint-Barthélemy et à Saint-Martin."
+      "content": "Les articles 2 et 3 de la présente loi sont applicables à Saint-Barthélemy et à Saint-Martin.",
+      "valid_from": "2014-11-15"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "I et II. - A modifié les dispositions suivantes :\n\n- Code de la sécurité intérieure"
+      "content": "I et II. - A modifié les dispositions suivantes :\n\n- Code de la sécurité intérieure",
+      "valid_from": "2014-11-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

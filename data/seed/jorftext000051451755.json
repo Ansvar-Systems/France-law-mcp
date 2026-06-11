@@ -12,7 +12,14 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I.-A créé les dispositions suivantes :\n\n-Code général des collectivités territoriales\n\nII.-La perte de recettes résultant pour l'Etat du I est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services."
+      "content": "I. - A créé les dispositions suivantes :\n\nII. - (Abrogé).\n\n-Code général des collectivités territoriales",
+      "valid_from": "2026-02-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "L'entrée en vigueur de la présente loi ne peut avoir pour effet de majorer de plus de 50 % les cotisations mentionnées à l'article L. 762-6-4 du code de la sécurité sociale acquittées précédemment à titre individuel par un assuré de la Caisse des Français de l'étranger en application du 1° de l'article L. 762-3 et des articles L. 763-4, L. 764-4, L. 765-2-1 et L. 765-6 à L. 765-9 du même code, dans leur rédaction antérieure à la présente loi."
+      "content": "L'entrée en vigueur de la présente loi ne peut avoir pour effet de majorer de plus de 50 % les cotisations mentionnées à l'article L. 762-6-4 du code de la sécurité sociale acquittées précédemment à titre individuel par un assuré de la Caisse des Français de l'étranger en application du 1° de l'article L. 762-3 et des articles L. 763-4, L. 764-4, L. 765-2-1 et L. 765-6 à L. 765-9 du même code, dans leur rédaction antérieure à la présente loi.",
+      "valid_from": "2018-12-27"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "A modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- Code de la sécurité sociale."
+      "content": "A modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- Code de la sécurité sociale.",
+      "valid_from": "2018-12-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

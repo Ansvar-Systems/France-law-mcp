@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les entreprises et les groupes d'entreprises de dimension communautaire dans lesquels il existait, à la date du 15 décembre 1999, un accord applicable à l'ensemble des salariés, prévoyant des instances ou autres modalités d'information, d'échanges de vues et de dialogue à l'échelon communautaire, et qui ne relèveraient des dispositions de l'article L. 439-6 du code du travail que par suite de l'extension au Royaume-Uni, par la directive 97/74/CE du Conseil du 15 décembre 1997, de la directive 94/45/CE du Conseil du 22 septembre 1994 concernant l'institution d'un comité d'entreprise européen ou d'une procédure dans les entreprises de dimension communautaire et les groupes d'entreprises de dimension communautaire en vue d'informer et de consulter les travailleurs, ne sont pas soumis aux obligations découlant du chapitre X du titre III du livre IV du code du travail. Il en va de même si, lorsque ces accords arrivent à expiration, les parties signataires décident de les reconduire. Toutefois, les dispositions de l'article L. 439-24 du code du travail leur sont applicables."
+      "content": "Les entreprises et les groupes d'entreprises de dimension communautaire dans lesquels il existait, à la date du 15 décembre 1999, un accord applicable à l'ensemble des salariés, prévoyant des instances ou autres modalités d'information, d'échanges de vues et de dialogue à l'échelon communautaire, et qui ne relèveraient des dispositions de l'article L. 439-6 du code du travail que par suite de l'extension au Royaume-Uni, par la directive 97/74/CE du Conseil du 15 décembre 1997, de la directive 94/45/CE du Conseil du 22 septembre 1994 concernant l'institution d'un comité d'entreprise européen ou d'une procédure dans les entreprises de dimension communautaire et les groupes d'entreprises de dimension communautaire en vue d'informer et de consulter les travailleurs, ne sont pas soumis aux obligations découlant du chapitre X du titre III du livre IV du code du travail. Il en va de même si, lorsque ces accords arrivent à expiration, les parties signataires décident de les reconduire. Toutefois, les dispositions de l'article L. 439-24 du code du travail leur sont applicables.",
+      "valid_from": "2001-02-24"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Premier ministre et la ministre de l'emploi et de la solidarité sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre de l'emploi et de la solidarité sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2001-02-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

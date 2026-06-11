@@ -12,13 +12,21 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les dispositions de la présente ordonnance sont applicables aux schémas de cohérence territoriale, aux plans locaux d'urbanisme, aux documents en tenant lieu et aux cartes communales dont l'élaboration ou la révision est engagée à compter du 1er avril 2021.Toutefois, l'établissement public prévu à l'article L. 143-16 du code de l'urbanisme ayant, avant cette date, prescrit une procédure d'élaboration ou de révision peut, tant qu'il n'a pas arrêté le projet prévu à l'article L. 143-20 du même code, décider de faire application des dispositions du code de l'urbanisme dans leur rédaction issue de la présente ordonnance, à la condition que le schéma entre en vigueur à compter du 1er avril 2021."
+      "content": "Les dispositions de la présente ordonnance sont applicables aux schémas de cohérence territoriale, aux plans locaux d'urbanisme, aux documents en tenant lieu et aux cartes communales dont l'élaboration ou la révision est engagée à compter du 1er avril 2021.Toutefois, l'établissement public prévu à l'article L. 143-16 du code de l'urbanisme ayant, avant cette date, prescrit une procédure d'élaboration ou de révision peut, tant qu'il n'a pas arrêté le projet prévu à l'article L. 143-20 du même code, décider de faire application des dispositions du code de l'urbanisme dans leur rédaction issue de la présente ordonnance, à la condition que le schéma entre en vigueur à compter du 1er avril 2021.",
+      "valid_from": "2021-04-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le Premier ministre, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales et le ministre auprès de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la ville et du logement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales et le ministre auprès de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la ville et du logement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-04-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

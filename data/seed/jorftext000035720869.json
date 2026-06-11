@@ -12,19 +12,28 @@
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "La présente ordonnance entre en vigueur le 1er avril 2018."
+      "content": "La présente ordonnance entre en vigueur le 1er avril 2018.",
+      "valid_from": "2018-04-01"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "Pour l'application de la présente ordonnance aux règlements, contrats, et adhésions souscrits antérieurement au 1er avril 2018, lorsque le professionnel souhaite modifier le support sur lequel il fournit ou met à disposition y compris le cas échéant contre récépissé, des informations ou des documents à un client au moyen d'un support durable autre que le papier, il s'assure préalablement que ce mode de communication est adapté à sa situation ; il informe le client de façon claire, précise et compréhensible, sur support papier et par envoi distinct, de la poursuite de la relation commerciale sur un support durable autre que le papier, et de la possibilité dont le client dispose de s'y opposer par tout moyen.Selon les mêmes modalités, les clauses de ces règlements, contrats et adhésions sont rendus si nécessaire conformes aux dispositions de la présente ordonnance."
+      "content": "Pour l'application de la présente ordonnance aux règlements, contrats, et adhésions souscrits antérieurement au 1er avril 2018, lorsque le professionnel souhaite modifier le support sur lequel il fournit ou met à disposition y compris le cas échéant contre récépissé, des informations ou des documents à un client au moyen d'un support durable autre que le papier, il s'assure préalablement que ce mode de communication est adapté à sa situation ; il informe le client de façon claire, précise et compréhensible, sur support papier et par envoi distinct, de la poursuite de la relation commerciale sur un support durable autre que le papier, et de la possibilité dont le client dispose de s'y opposer par tout moyen.Selon les mêmes modalités, les clauses de ces règlements, contrats et adhésions sont rendus si nécessaire conformes aux dispositions de la présente ordonnance.",
+      "valid_from": "2018-04-01"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "Le Premier ministre, le ministre de l'économie et des finances et la ministre de l'outre-mer sont responsables, chacun en ce qui les concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie et des finances et la ministre de l'outre-mer sont responsables, chacun en ce qui les concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2018-04-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

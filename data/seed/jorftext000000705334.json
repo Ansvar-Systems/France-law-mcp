@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. - Lorsqu'une décision juridictionnelle passée en force de chose jugée a condamné l'Etat au paiement d'une somme d'argent dont le montant est fixé par la décision elle-même, cette somme doit être ordonnancée dans un délai de deux mois à compter de la notification de la décision de justice.\n\nSi la dépense est imputable sur des crédits limitatifs qui se révèlent insuffisants, l'ordonnancement est fait dans la limite des crédits disponibles. Les ressources nécessaires pour les compléter sont dégagées dans les conditions prévues par l'ordonnance n° 59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances. Dans ce cas, l'ordonnancement complémentaire doit être fait dans un délai de quatre mois à compter de la notification.\n\nA défaut d'ordonnancement dans les délais mentionnés aux alinéas ci-dessus, le comptable assignataire de la dépense doit, à la demande du créancier et sur présentation de la décision de justice, procéder au paiement.\n\nII. - Lorsqu'une décision juridictionnelle passée en force de chose jugée a condamné une collectivité locale ou un établissement public au paiement d'une somme d'argent dont le montant est fixé par la décision elle-même, cette somme doit être mandatée ou ordonnancée dans un délai de deux mois à compter de la notification de la décision de justice. A défaut de mandatement ou d'ordonnancement dans ce délai, le représentant de l'Etat dans le département ou l'autorité de tutelle procède au mandatement d'office.\n\nEn cas d'insuffisance de crédits, le représentant de l'Etat dans le département ou l'autorité de tutelle adresse à la collectivité ou à l'établissement une mise en demeure de créer les ressources nécessaires ; si l'organe délibérant de la collectivité ou de l'établissement n'a pas dégagé ou créé ces ressources, le représentant de l'Etat dans le département ou l'autorité de tutelle y pourvoit et procède, s'il y a lieu, au mandatement d'office. \"\n\nIII. - (Abrogé).\n\nIV. - L'ordonnateur d'une collectivité territoriale ou d'un établissement public local est tenu d'émettre l'état nécessaire au recouvrement de la créance résultant d'une décision juridictionnelle passée en force de chose jugée dans le délai de deux mois à compter de la date de notification de la décision de justice.\n\nFaute de dresser l'état dans ce délai, le représentant de l'Etat adresse à la collectivité territoriale ou à l'établissement public local une mise en demeure d'y procéder dans le délai d'un mois ; à défaut, il émet d'office l'état nécessaire au recouvrement correspondant.\n\nEn cas d'émission de l'état par l'ordonnateur de la collectivité ou de l'établissement public local après mise en demeure du représentant de l'Etat, ce dernier peut néanmoins autoriser le comptable à effectuer des poursuites en cas de refus de l'ordonnateur.\n\nL'état de recouvrement émis d'office par le représentant de l'Etat est adressé au comptable de la collectivité territoriale ou de l'établissement public local pour prise en charge et recouvrement, et à la collectivité territoriale ou à l'établissement public local pour inscription budgétaire et comptable."
+      "content": "I. - Lorsqu'une décision juridictionnelle passée en force de chose jugée a condamné l'Etat au paiement d'une somme d'argent dont le montant est fixé par la décision elle-même, cette somme doit être ordonnancée dans un délai de deux mois à compter de la notification de la décision de justice.\n\nSi la dépense est imputable sur des crédits limitatifs qui se révèlent insuffisants, l'ordonnancement est fait dans la limite des crédits disponibles. Les ressources nécessaires pour les compléter sont dégagées dans les conditions prévues par l'ordonnance n° 59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances. Dans ce cas, l'ordonnancement complémentaire doit être fait dans un délai de quatre mois à compter de la notification.\n\nA défaut d'ordonnancement dans les délais mentionnés aux alinéas ci-dessus, le comptable assignataire de la dépense doit, à la demande du créancier et sur présentation de la décision de justice, procéder au paiement.\n\nII. - Lorsqu'une décision juridictionnelle passée en force de chose jugée a condamné une collectivité locale ou un établissement public au paiement d'une somme d'argent dont le montant est fixé par la décision elle-même, cette somme doit être mandatée ou ordonnancée dans un délai de deux mois à compter de la notification de la décision de justice. A défaut de mandatement ou d'ordonnancement dans ce délai, le représentant de l'Etat dans le département ou l'autorité de tutelle procède au mandatement d'office.\n\nEn cas d'insuffisance de crédits, le représentant de l'Etat dans le département ou l'autorité de tutelle adresse à la collectivité ou à l'établissement une mise en demeure de créer les ressources nécessaires ; si l'organe délibérant de la collectivité ou de l'établissement n'a pas dégagé ou créé ces ressources, le représentant de l'Etat dans le département ou l'autorité de tutelle y pourvoit et procède, s'il y a lieu, au mandatement d'office. \"\n\nIII. - (Abrogé).\n\nIV. - L'ordonnateur d'une collectivité territoriale ou d'un établissement public local est tenu d'émettre l'état nécessaire au recouvrement de la créance résultant d'une décision juridictionnelle passée en force de chose jugée dans le délai de deux mois à compter de la date de notification de la décision de justice.\n\nFaute de dresser l'état dans ce délai, le représentant de l'Etat adresse à la collectivité territoriale ou à l'établissement public local une mise en demeure d'y procéder dans le délai d'un mois ; à défaut, il émet d'office l'état nécessaire au recouvrement correspondant.\n\nEn cas d'émission de l'état par l'ordonnateur de la collectivité ou de l'établissement public local après mise en demeure du représentant de l'Etat, ce dernier peut néanmoins autoriser le comptable à effectuer des poursuites en cas de refus de l'ordonnateur.\n\nL'état de recouvrement émis d'office par le représentant de l'Etat est adressé au comptable de la collectivité territoriale ou de l'établissement public local pour prise en charge et recouvrement, et à la collectivité territoriale ou à l'établissement public local pour inscription budgétaire et comptable.",
+      "valid_from": "2000-04-13"
     },
     {
       "provision_ref": "art1-1",
       "section": "1-1",
       "title": "Article 1-1",
-      "content": "Les dispositions de l'article 1er sont applicables aux décisions du juge des référés accordant une provision."
+      "content": "Les dispositions de l'article 1er sont applicables aux décisions du juge des référés accordant une provision.",
+      "valid_from": "2000-04-13"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "a modifié les dispositions suivantes\n\nloi n° 48-1484 du 25 septembre 1948"
+      "content": "a modifié les dispositions suivantes\n\nloi n° 48-1484 du 25 septembre 1948",
+      "valid_from": "1980-07-17"
     },
     {
       "provision_ref": "art7-1",
       "section": "7-1",
       "title": "Article 7-1",
-      "content": "La présente loi est applicable en Nouvelle-Calédonie et dans les collectivités d'outre-mer régies par l'article 74 de la Constitution."
+      "content": "La présente loi est applicable en Nouvelle-Calédonie et dans les collectivités d'outre-mer régies par l'article 74 de la Constitution.",
+      "valid_from": "2007-02-22"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les modalités d'application de la présente loi seront fixées par un décret en Conseil d'Etat."
+      "content": "Les modalités d'application de la présente loi seront fixées par un décret en Conseil d'Etat.",
+      "valid_from": "1980-07-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

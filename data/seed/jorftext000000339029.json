@@ -12,25 +12,35 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'article 14 du titre VII du livre Ier de l'ordonnance d'août 1681 ainsi que les articles 6 et 7 de la loi du 28 ventôse an IX sont abrogés en tant qu'ils concernent les courtiers d'assurances maritimes."
+      "content": "L'article 14 du titre VII du livre Ier de l'ordonnance d'août 1681 ainsi que les articles 6 et 7 de la loi du 28 ventôse an IX sont abrogés en tant qu'ils concernent les courtiers d'assurances maritimes.",
+      "valid_from": "1978-12-17"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "L'honorariat peut être attribué par le garde des sceaux aux courtiers d'assurances maritimes comptant, à la date de publication de la présente loi, au moins vingt ans d'activité en cette qualité."
+      "content": "L'honorariat peut être attribué par le garde des sceaux aux courtiers d'assurances maritimes comptant, à la date de publication de la présente loi, au moins vingt ans d'activité en cette qualité.",
+      "valid_from": "1978-12-17"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "A l'article L. 648 du Code de la sécurité sociale , les mots \"courtier juré d'assurance\" sont supprimés. Toutefois, les courtiers d'assurances maritimes affiliés à l'organisation autonome d'allocation vieillesse des professions libérales à la date d'entrée en vigueur de la présente loi continuent à relever de cette organisation jusqu'au 30 juin 1980.A compter de cette date, les obligations de la caisse d'allocation vieillesse des officiers ministériels, des officiers publics et des compagnies judiciaires sont, en ce qui concerne le régime de base et le régime complémentaire d'assurance vieillesse dont bénéficiaient les courtiers d'assurances maritimes en retraite ou ayant exercé cette activité, ainsi que leurs ayants droit, prises en charge par l'organisation autonome d'assurance vieillesse des travailleurs non salariés des professions industrielles et commerciales. Pour ceux qui continuent d'exercer cette activité, ainsi que leurs ayants droit, elles sont prises en charge par les régimes de base et complémentaires d'assurance vieillesse auxquels les intéressés seront affiliés en raison de la modification du mode d'exercice de ladite activité.Les modalités de cette prise en charge seront fixées par décret ou, lorsque se trouvent concernées des institutions relevant de l'article L. 4 du Code de la sécurité sociale, par voie de convention entre lesdites institutions et la caisse d'allocation vieillesse visée ci-dessus ."
+      "content": "A l'article L. 648 du Code de la sécurité sociale , les mots \"courtier juré d'assurance\" sont supprimés. Toutefois, les courtiers d'assurances maritimes affiliés à l'organisation autonome d'allocation vieillesse des professions libérales à la date d'entrée en vigueur de la présente loi continuent à relever de cette organisation jusqu'au 30 juin 1980.A compter de cette date, les obligations de la caisse d'allocation vieillesse des officiers ministériels, des officiers publics et des compagnies judiciaires sont, en ce qui concerne le régime de base et le régime complémentaire d'assurance vieillesse dont bénéficiaient les courtiers d'assurances maritimes en retraite ou ayant exercé cette activité, ainsi que leurs ayants droit, prises en charge par l'organisation autonome d'assurance vieillesse des travailleurs non salariés des professions industrielles et commerciales. Pour ceux qui continuent d'exercer cette activité, ainsi que leurs ayants droit, elles sont prises en charge par les régimes de base et complémentaires d'assurance vieillesse auxquels les intéressés seront affiliés en raison de la modification du mode d'exercice de ladite activité.Les modalités de cette prise en charge seront fixées par décret ou, lorsque se trouvent concernées des institutions relevant de l'article L. 4 du Code de la sécurité sociale, par voie de convention entre lesdites institutions et la caisse d'allocation vieillesse visée ci-dessus .",
+      "valid_from": "1978-12-17"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les courtiers d'assurances maritimes qui exercent leur activité à la date d'entrée en vigueur de la présente loi continuent à relever jusqu'au 30 juin 1980 du régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles et, pour les prestations familiales, de la section des employeurs et travailleurs indépendants des professions non agricoles."
+      "content": "Les courtiers d'assurances maritimes qui exercent leur activité à la date d'entrée en vigueur de la présente loi continuent à relever jusqu'au 30 juin 1980 du régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles et, pour les prestations familiales, de la section des employeurs et travailleurs indépendants des professions non agricoles.",
+      "valid_from": "1978-12-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

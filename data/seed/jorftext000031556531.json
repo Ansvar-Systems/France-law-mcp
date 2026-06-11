@@ -12,19 +12,28 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Les articles 1er à 8 sont applicables dans les îles Wallis et Futuna.Les articles 1er à 8 et les I à III de l'article 10 sont applicables dans les Terres australes et antarctiques françaises."
+      "content": "Les articles 1er à 8 sont applicables dans les îles Wallis et Futuna.Les articles 1er à 8 et les I à III de l'article 10 sont applicables dans les Terres australes et antarctiques françaises.",
+      "valid_from": "2015-12-04"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "I. - A créé les dispositions suivantes :"
+      "content": "I. - A créé les dispositions suivantes :",
+      "valid_from": "2015-12-04"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Dans un délai de douze mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur les risques de contamination accidentelle de cultures conventionnelles ou biologiques par des organismes génétiquement modifiés, notamment dans les zones frontalières, ainsi que sur les mesures techniques de coexistence et sur la responsabilité juridique et financière des utilisateurs d'organismes génétiquement modifiés."
+      "content": "Dans un délai de douze mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur les risques de contamination accidentelle de cultures conventionnelles ou biologiques par des organismes génétiquement modifiés, notamment dans les zones frontalières, ainsi que sur les mesures techniques de coexistence et sur la responsabilité juridique et financière des utilisateurs d'organismes génétiquement modifiés.",
+      "valid_from": "2015-12-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

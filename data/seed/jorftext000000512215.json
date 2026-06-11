@@ -12,25 +12,35 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Pour l'élection générale des conseillers prud'hommes de 1987, les listes établies par l'employeur comportent, outre les mentions visées à l'article L. 513-3 du code du travail, le numéro de sécurité sociale des salariés."
+      "content": "Pour l'élection générale des conseillers prud'hommes de 1987, les listes établies par l'employeur comportent, outre les mentions visées à l'article L. 513-3 du code du travail, le numéro de sécurité sociale des salariés.",
+      "valid_from": "1986-12-31"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "I. - (article modificateur)\n\nII. - Le troisième alinéa du même article L. 511-1 est abrogé. Toutefois, il continuera à régir les instances relatives aux licenciements pour motif économique prononcés avant le 1er janvier 1987."
+      "content": "I. - (article modificateur)\n\nII. - Le troisième alinéa du même article L. 511-1 est abrogé. Toutefois, il continuera à régir les instances relatives aux licenciements pour motif économique prononcés avant le 1er janvier 1987.",
+      "valid_from": "1986-12-31"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Le mandat des conseillers prud'hommes appartenant à une section de l'agriculture supprimée en application de la présente loi prendra fin à la date de l'installation des conseillers élus lors du prochain renouvellement général des conseils de prud'hommes."
+      "content": "Le mandat des conseillers prud'hommes appartenant à une section de l'agriculture supprimée en application de la présente loi prendra fin à la date de l'installation des conseillers élus lors du prochain renouvellement général des conseils de prud'hommes.",
+      "valid_from": "1986-12-31"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les procédures en cours devant les sections de l'agriculture supprimées en application de la présente loi seront transférées, en l'état, aux conseils de prud'hommes désormais compétents pour connaître des litiges de ces sections.Le premier président de la cour d'appel statue, par ordonnance non susceptible de recours, sur les difficultés auxquelles peut donner lieu l'application du présent article."
+      "content": "Les procédures en cours devant les sections de l'agriculture supprimées en application de la présente loi seront transférées, en l'état, aux conseils de prud'hommes désormais compétents pour connaître des litiges de ces sections.Le premier président de la cour d'appel statue, par ordonnance non susceptible de recours, sur les difficultés auxquelles peut donner lieu l'application du présent article.",
+      "valid_from": "1986-12-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

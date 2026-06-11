@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. - A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\n- Code monétaire et financier\n\n- Code monétaire et financier\n\nII. - Le I entre en vigueur six mois après la promulgation de la présente loi."
+      "content": "I. - A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\n- Code monétaire et financier\n\n- Code monétaire et financier\n\nII. - Le I entre en vigueur six mois après la promulgation de la présente loi.",
+      "valid_from": "2025-05-15"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Dans un délai d'un an à compter de la publication du décret prévu au dernier alinéa de l'article L. 312-1-4-1 du code monétaire et financier, le Gouvernement remet au Parlement un rapport évaluant les effets de la présente loi sur l'évolution des frais appliqués dans le cadre des opérations liées à la clôture des comptes et des produits d'épargne du défunt ainsi que le nombre de personnes bénéficiant de la gratuité de ces frais. Ce rapport s'appuie notamment sur les travaux du Comité consultatif du secteur financier."
+      "content": "Dans un délai d'un an à compter de la publication du décret prévu au dernier alinéa de l'article L. 312-1-4-1 du code monétaire et financier, le Gouvernement remet au Parlement un rapport évaluant les effets de la présente loi sur l'évolution des frais appliqués dans le cadre des opérations liées à la clôture des comptes et des produits d'épargne du défunt ainsi que le nombre de personnes bénéficiant de la gratuité de ces frais. Ce rapport s'appuie notamment sur les travaux du Comité consultatif du secteur financier.",
+      "valid_from": "2025-05-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

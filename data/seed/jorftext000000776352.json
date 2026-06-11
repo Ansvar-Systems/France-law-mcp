@@ -12,19 +12,28 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "I. - Les dispositions des articles 1er à 10 sont applicables aux instances en cours qui n'ont pas donné lieu à une décision passée en force de chose jugée.II. - Les dispositions du premier alinéa de l'article 372 du code civil sont applicables aux enfants nés antérieurement à l'entrée en vigueur de la présente loi, dès lors qu'ils ont été reconnus par leurs père et mère dans l'année de leur naissance."
+      "content": "I. - Les dispositions des articles 1er à 10 sont applicables aux instances en cours qui n'ont pas donné lieu à une décision passée en force de chose jugée.II. - Les dispositions du premier alinéa de l'article 372 du code civil sont applicables aux enfants nés antérieurement à l'entrée en vigueur de la présente loi, dès lors qu'ils ont été reconnus par leurs père et mère dans l'année de leur naissance.",
+      "valid_from": "2002-03-05"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "I. - La prostitution des mineurs est interdite sur tout le territoire de la République.II. - Tout mineur qui se livre à la prostitution, même occasionnellement, est réputé en danger et relève de la protection du juge des enfants au titre de la procédure d'assistance éducative.III. - (Paragraphe modificateur)."
+      "content": "I. - La prostitution des mineurs est interdite sur tout le territoire de la République.II. - Tout mineur qui se livre à la prostitution, même occasionnellement, est réputé en danger et relève de la protection du juge des enfants au titre de la procédure d'assistance éducative.III. - (Paragraphe modificateur).",
+      "valid_from": "2002-03-05"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "I. - Les articles 62, 75, 368, 372-2, 373-3, 374-1, 388-1, 388-2, 389 à 389-5 du code civil et les dispositions du V de l'article 8 de la présente loi sont applicables à Mayotte.Les dispositions du V de l'article 8 sont applicables dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.II. - Les dispositions des articles 13 à 15 sont applicables dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.III. - Les dispositions du II de l'article 17 sont applicables en Nouvelle-Calédonie, à Mayotte, dans les îles Wallis et Futuna et en Polynésie française.IV. - (Paragraphe modificateur).V. - (Paragraphe modificateur)."
+      "content": "I. - Les articles 62, 75, 368, 372-2, 373-3, 374-1, 388-1, 388-2, 389 à 389-5 du code civil et les dispositions du V de l'article 8 de la présente loi sont applicables à Mayotte.Les dispositions du V de l'article 8 sont applicables dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.II. - Les dispositions des articles 13 à 15 sont applicables dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.III. - Les dispositions du II de l'article 17 sont applicables en Nouvelle-Calédonie, à Mayotte, dans les îles Wallis et Futuna et en Polynésie française.IV. - (Paragraphe modificateur).V. - (Paragraphe modificateur).",
+      "valid_from": "2003-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,31 +12,42 @@
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "I. et II. - A modifié les dispositions suivantes :\n\nIII.-Le présent article est applicable à l'allocation de rentrée scolaire due à compter de la rentrée scolaire de 2016.\n\n-Code de la sécurité sociale.\n\n-Ordonnance n° 77-1102 du 26 septembre 1977"
+      "content": "I. et II. - A modifié les dispositions suivantes :\n\nIII.-Le présent article est applicable à l'allocation de rentrée scolaire due à compter de la rentrée scolaire de 2016.\n\n-Code de la sécurité sociale.\n\n-Ordonnance n° 77-1102 du 26 septembre 1977",
+      "valid_from": "2016-03-16"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "II.-Pour les droits de succession dont le fait générateur est antérieur à la date d'entrée en vigueur de la présente loi, par dérogation à l'article L. 247 du livre des procédures fiscales, l'administration procède, à la demande du contribuable, à la remise des droits restés impayés, pour la partie qui excède les droits qui auraient été dus si le I du présent article avait été en vigueur à la date du fait générateur."
+      "content": "II.-Pour les droits de succession dont le fait générateur est antérieur à la date d'entrée en vigueur de la présente loi, par dérogation à l'article L. 247 du livre des procédures fiscales, l'administration procède, à la demande du contribuable, à la remise des droits restés impayés, pour la partie qui excède les droits qui auraient été dus si le I du présent article avait été en vigueur à la date du fait générateur.",
+      "valid_from": "2016-03-16"
     },
     {
       "provision_ref": "art44",
       "section": "44",
       "title": "Article 44",
-      "content": "II.-Le présent article est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna."
+      "content": "II.-Le présent article est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.",
+      "valid_from": "2016-03-16"
     },
     {
       "provision_ref": "art45",
       "section": "45",
       "title": "Article 45",
-      "content": "II.-Le présent article est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna."
+      "content": "II.-Le présent article est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.",
+      "valid_from": "2016-03-16"
     },
     {
       "provision_ref": "art47",
       "section": "47",
       "title": "Article 47",
-      "content": "II.-Le présent article est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna."
+      "content": "II.-Le présent article est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.",
+      "valid_from": "2016-03-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

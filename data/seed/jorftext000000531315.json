@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est approuvée la convention ci-annexée, (annexe non reproduite, consulter le fac-similé) passée le 10 juin 1993 entre le ministre de l'économie et le gouverneur de la Banque de France."
+      "content": "Est approuvée la convention ci-annexée, (annexe non reproduite, consulter le fac-similé) passée le 10 juin 1993 entre le ministre de l'économie et le gouverneur de la Banque de France.",
+      "valid_from": "1994-01-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La loi n° 73-1121 du 21 décembre 1973 modifiant la loi n° 73-7 du 3 janvier 1973 sur la Banque de France et approuvant une convention conclue entre le ministre de l'économie et des finances et le gouverneur de la Banque de France est abrogée."
+      "content": "La loi n° 73-1121 du 21 décembre 1973 modifiant la loi n° 73-7 du 3 janvier 1973 sur la Banque de France et approuvant une convention conclue entre le ministre de l'économie et des finances et le gouverneur de la Banque de France est abrogée.",
+      "valid_from": "1994-01-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente loi entre en vigueur le premier jour du mois suivant celui de l'entrée en vigueur de l'ensemble des dispositions de la loi relative au statut de la Banque de France et à l'activité et au contrôle des établissements de crédit, et au plus tard le 1er janvier 1994."
+      "content": "La présente loi entre en vigueur le premier jour du mois suivant celui de l'entrée en vigueur de l'ensemble des dispositions de la loi relative au statut de la Banque de France et à l'activité et au contrôle des établissements de crédit, et au plus tard le 1er janvier 1994.",
+      "valid_from": "1994-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

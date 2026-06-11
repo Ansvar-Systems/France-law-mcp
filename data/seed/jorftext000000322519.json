@@ -12,13 +12,21 @@
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Le décret en Conseil d'Etat prévu à l'article 32 de la présente loi détermine les conditions dans lesquelles sont délivrés les expéditions et extraits authentiques de documents d'archives.Un décret, pris sur le rapport du ministre intéressé et du ministre chargé du budget, fixe le tarif :- des droits d'expédition ou d'extrait authentique des pièces conservées dans les dépôts d'archives de l'Etat, des départements et des communes ;- du droit de visa perçu pour certifier authentiques les copies des plans conservés dans ces mêmes dépôts, exécutés à la même échelle que les originaux à la diligence des intéressés ;- du droit de visa perçu pour certifier authentiques les photocopies et toutes reproductions photographiques des documents conservés dans ces mêmes dépôts."
+      "content": "Le décret en Conseil d'Etat prévu à l'article 32 de la présente loi détermine les conditions dans lesquelles sont délivrés les expéditions et extraits authentiques de documents d'archives.Un décret, pris sur le rapport du ministre intéressé et du ministre chargé du budget, fixe le tarif :- des droits d'expédition ou d'extrait authentique des pièces conservées dans les dépôts d'archives de l'Etat, des départements et des communes ;- du droit de visa perçu pour certifier authentiques les copies des plans conservés dans ces mêmes dépôts, exécutés à la même échelle que les originaux à la diligence des intéressés ;- du droit de visa perçu pour certifier authentiques les photocopies et toutes reproductions photographiques des documents conservés dans ces mêmes dépôts.",
+      "valid_from": "1979-01-05"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Les dispositions des articles 6 à 8, 10 et 25 de la présente loi seront affichées de façon très apparente dans les locaux ouverts au public de l'administration des archives et des services détenteurs d'archives publiques en application de l'article 3, dernier alinéa, de la présente loi."
+      "content": "Les dispositions des articles 6 à 8, 10 et 25 de la présente loi seront affichées de façon très apparente dans les locaux ouverts au public de l'administration des archives et des services détenteurs d'archives publiques en application de l'article 3, dernier alinéa, de la présente loi.",
+      "valid_from": "1979-01-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

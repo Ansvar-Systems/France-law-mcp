@@ -12,49 +12,63 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les actes de l'état civil des personnes qui ont bénéficié de la reconnaissance de la nationalité française pourront être établis sur les registres du service central de l'état civil du ministère des affaires étrangères, lorsqu'ils ont été ou auraient dû être dressés soit en Algérie, soit dans un ancien territoire français d'outre-mer ou sous tutelle devenu indépendant, avant l'enregistrement de ladite reconnaissance."
+      "content": "Les actes de l'état civil des personnes qui ont bénéficié de la reconnaissance de la nationalité française pourront être établis sur les registres du service central de l'état civil du ministère des affaires étrangères, lorsqu'ils ont été ou auraient dû être dressés soit en Algérie, soit dans un ancien territoire français d'outre-mer ou sous tutelle devenu indépendant, avant l'enregistrement de ladite reconnaissance.",
+      "valid_from": "1968-07-26"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les actes de l'état civil des personnes ayant conservé de plein droit ou acquis la nationalité française pourront également être établis sur les registres du service central de l'état civil lorsqu'ils ont été ou auraient dû être dressés soit en Algérie avant le 1er janvier 1963, soit dans un ancien territoire français d'outre-mer ou sous tutelle avant l'accession de celui-ci à l'indépendance."
+      "content": "Les actes de l'état civil des personnes ayant conservé de plein droit ou acquis la nationalité française pourront également être établis sur les registres du service central de l'état civil lorsqu'ils ont été ou auraient dû être dressés soit en Algérie avant le 1er janvier 1963, soit dans un ancien territoire français d'outre-mer ou sous tutelle avant l'accession de celui-ci à l'indépendance.",
+      "valid_from": "1968-07-26"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions des articles précédents ne sont toutefois applicables que si les actes de l'état civil n'ont pas déjà été portés sur des registres conservés par des autorités par des autorités françaises."
+      "content": "Les dispositions des articles précédents ne sont toutefois applicables que si les actes de l'état civil n'ont pas déjà été portés sur des registres conservés par des autorités par des autorités françaises.",
+      "valid_from": "1968-07-26"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les actes mentionnés aux articles 1er et 2 de la présente loi sont établis, soit par reproduction des registres originaux, soit au vu de copies ou extraits d'actes de l'état civil, soit, à défaut, au vu de tous documents judiciaires ou administratifs ou même sur actes de notoriété dressés en application de l'article 46 du code civil.\n\nLes diverses mentions marginales prévues par la loi y seront apposées par les officiers de l'état civil du service central de l'état civil."
+      "content": "Les actes mentionnés aux articles 1er et 2 de la présente loi sont établis, soit par reproduction des registres originaux, soit au vu de copies ou extraits d'actes de l'état civil, soit, à défaut, au vu de tous documents judiciaires ou administratifs ou même sur actes de notoriété dressés en application de l'article 46 du code civil.\n\nLes diverses mentions marginales prévues par la loi y seront apposées par les officiers de l'état civil du service central de l'état civil.",
+      "valid_from": "2019-03-25"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les énonciations des actes de naissance et de mariage d'une même personne peuvent figurer sur un même document."
+      "content": "Les énonciations des actes de naissance et de mariage d'une même personne peuvent figurer sur un même document.",
+      "valid_from": "1968-07-26"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le chef du service central de l'état civil du ministère des affaires étrangères est habilité à ordonner la rectification des actes établis conformément à la présente loi et des mentions apposées en marge de ces actes en cas d'erreurs et omissions purement matérielles, conformément à l'article 99-1 du code civil, ainsi que des erreurs portant sur le nom de famille. Les personnes habilitées à exercer les fonctions d'officier de l'état civil pour dresser lesdits actes peuvent procéder aux mêmes rectifications."
+      "content": "Le chef du service central de l'état civil du ministère des affaires étrangères est habilité à ordonner la rectification des actes établis conformément à la présente loi et des mentions apposées en marge de ces actes en cas d'erreurs et omissions purement matérielles, conformément à l'article 99-1 du code civil, ainsi que des erreurs portant sur le nom de famille. Les personnes habilitées à exercer les fonctions d'officier de l'état civil pour dresser lesdits actes peuvent procéder aux mêmes rectifications.",
+      "valid_from": "2016-11-20"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "En cas de désaccord avec les énonciations de l'état civil étranger, les actes établis conformément à la présente loi feront foi jusqu'à décision de rectification intervenue en application, soit de l'article précédent, soit de l'article 99 ou de l'article 99-1 du code civil.\n\nLes copies et extraits de ces actes ont la force probante des copies et extraits des actes de l'état civil.\n\nIls ont, en ce qui concerne la preuve de l'enregistrement d'une reconnaissance de la nationalité française, la même valeur que les attestations ministérielles prévues aux articles 139 et suivants du code de la nationalité."
+      "content": "En cas de désaccord avec les énonciations de l'état civil étranger, les actes établis conformément à la présente loi feront foi jusqu'à décision de rectification intervenue en application, soit de l'article précédent, soit de l'article 99 ou de l'article 99-1 du code civil.\n\nLes copies et extraits de ces actes ont la force probante des copies et extraits des actes de l'état civil.\n\nIls ont, en ce qui concerne la preuve de l'enregistrement d'une reconnaissance de la nationalité française, la même valeur que les attestations ministérielles prévues aux articles 139 et suivants du code de la nationalité.",
+      "valid_from": "2016-11-20"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les actes de l'état civil pouvant être établis dans les conditions de la présente loi ne seront plus transcrits sur les registres consulaires."
+      "content": "Les actes de l'état civil pouvant être établis dans les conditions de la présente loi ne seront plus transcrits sur les registres consulaires.",
+      "valid_from": "1968-07-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

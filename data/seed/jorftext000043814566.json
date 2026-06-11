@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions de la présente ordonnance s'appliquent à compter du 1er janvier 2023.Par dérogation au I de l'article L. 4022-2 du code de la santé publique, les médecins, chirurgiens-dentistes, sages-femmes, pharmaciens, infirmiers, masseurs-kinésithérapeutes et pédicures-podologues en exercice au 1er janvier 2023 dispose d'un délai de neuf ans pour établir avoir réalisé les actions requises au titre de l'obligation de certification professionnelle périodique pour leur première période de certification qui commence à compter de cette date."
+      "content": "Les dispositions de la présente ordonnance s'appliquent à compter du 1er janvier 2023.Par dérogation au I de l'article L. 4022-2 du code de la santé publique, les médecins, chirurgiens-dentistes, sages-femmes, pharmaciens, infirmiers, masseurs-kinésithérapeutes et pédicures-podologues en exercice au 1er janvier 2023 dispose d'un délai de neuf ans pour établir avoir réalisé les actions requises au titre de l'obligation de certification professionnelle périodique pour leur première période de certification qui commence à compter de cette date.",
+      "valid_from": "2021-07-22"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, la ministre des armées, le ministre des solidarités et de la santé et la ministre de l'enseignement supérieur, de la recherche et de l'innovation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre des armées, le ministre des solidarités et de la santé et la ministre de l'enseignement supérieur, de la recherche et de l'innovation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-07-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

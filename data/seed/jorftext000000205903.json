@@ -12,19 +12,28 @@
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Un rapport sur le droit de la responsabilité et de l'indemnisation applicable à l'aléa thérapeutique sera déposé par le Gouvernement sur les bureaux des deux assemblées avant le 31 décembre 1998."
+      "content": "Un rapport sur le droit de la responsabilité et de l'indemnisation applicable à l'aléa thérapeutique sera déposé par le Gouvernement sur les bureaux des deux assemblées avant le 31 décembre 1998.",
+      "valid_from": "1998-05-21"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Les dispositions du titre IV bis du livre III du code civil sont applicables aux produits dont la mise en circulation est postérieure à la date d'entrée en vigueur de la présente loi, même s'ils ont fait l'objet d'un contrat antérieur."
+      "content": "Les dispositions du titre IV bis du livre III du code civil sont applicables aux produits dont la mise en circulation est postérieure à la date d'entrée en vigueur de la présente loi, même s'ils ont fait l'objet d'un contrat antérieur.",
+      "valid_from": "1998-05-21"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "La présente loi est applicable dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte, à l'exception du dernier alinéa de l'article 7."
+      "content": "La présente loi est applicable dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte, à l'exception du dernier alinéa de l'article 7.",
+      "valid_from": "1998-05-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

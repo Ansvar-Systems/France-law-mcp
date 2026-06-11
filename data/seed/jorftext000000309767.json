@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "A l'intérieur de la Champagne viticole délimitée, toute fabrication de vins mousseux autres que ceux pouvant prétendre à l'appellation \"Champagne\" est interdite.\n\nEst également interdite la vente de vins mousseux accompagnés d'un nom de commune comprise dans la Champagne viticole délimitée."
+      "content": "A l'intérieur de la Champagne viticole délimitée, toute fabrication de vins mousseux autres que ceux pouvant prétendre à l'appellation \"Champagne\" est interdite.\n\nEst également interdite la vente de vins mousseux accompagnés d'un nom de commune comprise dans la Champagne viticole délimitée.",
+      "valid_from": "1934-03-23"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Pendant les quinze jours qui suivront la promulgation de la présente loi, les négociants en vins mousseux établis en Champagne seront tenus de déclarer leurs stocks de bouteilles à l'Administration des Contributions indirectes."
+      "content": "Pendant les quinze jours qui suivront la promulgation de la présente loi, les négociants en vins mousseux établis en Champagne seront tenus de déclarer leurs stocks de bouteilles à l'Administration des Contributions indirectes.",
+      "valid_from": "1934-03-23"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "A compter du jour de la promulgation de la présente loi, un délai d'une année sera accordé aux détenteurs de vins mousseux pour l'écoulement de leur stock ; à l'expiration de ce délai, aucune vente de vins mousseux ne sera permise."
+      "content": "A compter du jour de la promulgation de la présente loi, un délai d'une année sera accordé aux détenteurs de vins mousseux pour l'écoulement de leur stock ; à l'expiration de ce délai, aucune vente de vins mousseux ne sera permise.",
+      "valid_from": "1934-03-23"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les infractions aux dispositions de la présente loi seront punies d'un emprisonnement d'un an et d'une amende de  4 500 euros ou de l'une de ces deux peines seulement.\n\nElles seront constatées par les agents chargés de la répression des fraudes et par les fonctionnaires des contributions indirectes."
+      "content": "Les infractions aux dispositions de la présente loi seront punies d'un emprisonnement d'un an et d'une amende de  4 500 euros ou de l'une de ces deux peines seulement.\n\nElles seront constatées par les agents chargés de la répression des fraudes et par les fonctionnaires des contributions indirectes.",
+      "valid_from": "1934-03-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art46",
       "section": "46",
       "title": "Article 46",
-      "content": "Les dispositions des articles 126 à 136 inclus de la loi du 26 janvier 1984 précitée sont applicables aux agents non titulaires, d'une ancienneté au moins égale à six mois, recrutés par les régions avant la publication de la présente loi."
+      "content": "Les dispositions des articles 126 à 136 inclus de la loi du 26 janvier 1984 précitée sont applicables aux agents non titulaires, d'une ancienneté au moins égale à six mois, recrutés par les régions avant la publication de la présente loi.",
+      "valid_from": "1984-07-13"
     },
     {
       "provision_ref": "art47",
       "section": "47",
       "title": "Article 47",
-      "content": "Les dispositions des articles 126 à 136 inclus de la loi du 26 janvier 1984 précitée sont applicables aux forestiers-sapeurs d'une ancienneté au moins égale à six mois, recrutés par les départements avant le 31 décembre 1984, dès lors qu'ils étaient employés, au moment de ce recrutement, dans le cadre de conventions conclues entre l'Etat et ces départements."
+      "content": "Les dispositions des articles 126 à 136 inclus de la loi du 26 janvier 1984 précitée sont applicables aux forestiers-sapeurs d'une ancienneté au moins égale à six mois, recrutés par les départements avant le 31 décembre 1984, dès lors qu'ils étaient employés, au moment de ce recrutement, dans le cadre de conventions conclues entre l'Etat et ces départements.",
+      "valid_from": "1984-07-13"
     },
     {
       "provision_ref": "art51-1",
       "section": "51-1",
       "title": "Article 51-1",
-      "content": "La présente loi est applicable à Mayotte. Pour cette application, la référence au département ou à la région est remplacée par la référence à la collectivité départementale."
+      "content": "La présente loi est applicable à Mayotte. Pour cette application, la référence au département ou à la région est remplacée par la référence à la collectivité départementale.",
+      "valid_from": "2007-02-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

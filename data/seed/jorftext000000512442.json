@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La présente loi s'applique aux dispositions relatives à l'état et à la capacité des personnes, aux régimes matrimoniaux, aux successions et libéralités faisant partie du statut civil de droit commun mentionné à l'article 75 de la Constitution. Elle ne déroge pas au statut personnel mentionné audit article."
+      "content": "La présente loi s'applique aux dispositions relatives à l'état et à la capacité des personnes, aux régimes matrimoniaux, aux successions et libéralités faisant partie du statut civil de droit commun mentionné à l'article 75 de la Constitution. Elle ne déroge pas au statut personnel mentionné audit article.",
+      "valid_from": "1970-07-10"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Sont étendues aux territoires d'outre-mer, en tant qu'elles n'y sont pas déjà applicables, les dispositions législatives relatives aux matières mentionnées à l'article précédent et antérieures à l'entrée en vigueur de la présente loi, ainsi que les dispositions pénales qui s'y rapportent."
+      "content": "Sont étendues aux territoires d'outre-mer, en tant qu'elles n'y sont pas déjà applicables, les dispositions législatives relatives aux matières mentionnées à l'article précédent et antérieures à l'entrée en vigueur de la présente loi, ainsi que les dispositions pénales qui s'y rapportent.",
+      "valid_from": "1970-07-10"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions législatives relatives aux matières mentionnées à l'article 1er ci-dessus et postérieures à l'entrée en vigueur de la présente loi, ainsi que les dispositions pénales qui s'y rapportent seront applicables de plein droit dans les territoires d'outre-mer, sauf les exceptions déterminées par la loi."
+      "content": "Les dispositions législatives relatives aux matières mentionnées à l'article 1er ci-dessus et postérieures à l'entrée en vigueur de la présente loi, ainsi que les dispositions pénales qui s'y rapportent seront applicables de plein droit dans les territoires d'outre-mer, sauf les exceptions déterminées par la loi.",
+      "valid_from": "1970-07-10"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La présente loi et les dispositions législatives mentionnées à l'article 2 ci-dessus entreront en vigueur le 1er janvier 1971. Elles feront, avant cette date, l'objet d'une publication dans les territoires d'outre-mer.Les délais prévus par les dispositions législatives susvisées et ayant commencé à courir dans la métropole du jour de leur entrée en vigueur courront, dans les territoires d'outre-mer, à partir de la date indiquée à l'alinéa précédent."
+      "content": "La présente loi et les dispositions législatives mentionnées à l'article 2 ci-dessus entreront en vigueur le 1er janvier 1971. Elles feront, avant cette date, l'objet d'une publication dans les territoires d'outre-mer.Les délais prévus par les dispositions législatives susvisées et ayant commencé à courir dans la métropole du jour de leur entrée en vigueur courront, dans les territoires d'outre-mer, à partir de la date indiquée à l'alinéa précédent.",
+      "valid_from": "1970-07-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,25 +12,35 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "En l'absence d'accord entre le Centre national des caisses d'épargne et de prévoyance et la Caisse des dépôts et consignations dans un délai de six mois à compter de la promulgation de la présente loi, un décret en Conseil d'Etat fixe les conditions de la dévolution aux caisses d'épargne et de prévoyance, dans un délai d'un an à compter de la promulgation de la présente loi, des droits et obligations des sociétés régionales de financement ainsi que les modalités selon lesquelles la Caisse des dépôts et consignations est justement rémunérée de ses apports dans le capital de ces sociétés.    Le régime fiscal applicable à ces opérations est celui du régime des fusions défini à l'article 210 A du code général des impôts.Les mutations et transferts opérés en application du présent article sont exonérés de droits et taxes."
+      "content": "En l'absence d'accord entre le Centre national des caisses d'épargne et de prévoyance et la Caisse des dépôts et consignations dans un délai de six mois à compter de la promulgation de la présente loi, un décret en Conseil d'Etat fixe les conditions de la dévolution aux caisses d'épargne et de prévoyance, dans un délai d'un an à compter de la promulgation de la présente loi, des droits et obligations des sociétés régionales de financement ainsi que les modalités selon lesquelles la Caisse des dépôts et consignations est justement rémunérée de ses apports dans le capital de ces sociétés.    Le régime fiscal applicable à ces opérations est celui du régime des fusions défini à l'article 210 A du code général des impôts.Les mutations et transferts opérés en application du présent article sont exonérés de droits et taxes.",
+      "valid_from": "1991-07-11"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "*paragraphes I et III modificateurs*.\n\nII. - Les dispositions du neuvième alinéa de l'article 9 de la loi n° 83-557 du 1er juillet 1983 précitée ne sont pas applicables aux directeurs généraux uniques ou aux membres de directoire en fonction à la date de publication de la présente loi."
+      "content": "*paragraphes I et III modificateurs*.\n\nII. - Les dispositions du neuvième alinéa de l'article 9 de la loi n° 83-557 du 1er juillet 1983 précitée ne sont pas applicables aux directeurs généraux uniques ou aux membres de directoire en fonction à la date de publication de la présente loi.",
+      "valid_from": "1991-07-11"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "I. - Le mandat du directeur général unique ou des membres du directoire d'une caisse d'épargne et de prévoyance en fonctions à la date de promulgation de la présente loi expire au plus tard le 30 juin 1992.Toutefois, dans le cas d'une fusion de caisses d'épargne et de prévoyance, le mandat des directeurs généraux uniques ou des membres des directoires expire à la date de la décision d'agrément du nouvel établissement par le comité des établissements de crédit et des entreprises d'investissement, si cette date est antérieure au 30 juin 1992.(paragraphe II modificateur)."
+      "content": "I. - Le mandat du directeur général unique ou des membres du directoire d'une caisse d'épargne et de prévoyance en fonctions à la date de promulgation de la présente loi expire au plus tard le 30 juin 1992.Toutefois, dans le cas d'une fusion de caisses d'épargne et de prévoyance, le mandat des directeurs généraux uniques ou des membres des directoires expire à la date de la décision d'agrément du nouvel établissement par le comité des établissements de crédit et des entreprises d'investissement, si cette date est antérieure au 30 juin 1992.(paragraphe II modificateur).",
+      "valid_from": "1996-07-04"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "I. - (paragraphe modificateur).II. - Les dispositions du I ci-dessus entrent en vigueur à compter du rapport au Parlement pour l'exercice 1991."
+      "content": "I. - (paragraphe modificateur).II. - Les dispositions du I ci-dessus entrent en vigueur à compter du rapport au Parlement pour l'exercice 1991.",
+      "valid_from": "1991-07-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

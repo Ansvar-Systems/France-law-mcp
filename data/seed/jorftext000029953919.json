@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I.-A modifié les dispositions suivantes :\n\nII.-A abrogé les dispositions suivantes :\n\n-Décret-loi du 1er septembre 1939 susvisé\n\nArt. 1\n\nA modifié les dispositions suivantes :\n\n-Décret-loi du 1er septembre 1939 susvisé\n\nArt. 2\n\n-Code de la défense."
+      "content": "I.-A modifié les dispositions suivantes :\n\nII.-A abrogé les dispositions suivantes :\n\n-Décret-loi du 1er septembre 1939 susvisé\n\nArt. 1\n\nA modifié les dispositions suivantes :\n\n-Décret-loi du 1er septembre 1939 susvisé\n\nArt. 2\n\n-Code de la défense.",
+      "valid_from": "2014-12-25"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les personnes mentionnées aux articles L. 394 à L. 396 du code des pensions militaires d'invalidité et des victimes de la guerre qui ont été inscrites sur une liste d'aptitude régionale ou nationale à compter de la date d'entrée en vigueur de la loi n° 2008-492 du 26 mai 2008 relative aux emplois réservés et portant dispositions diverses relatives à la défense bénéficient d'une prorogation de la durée de leur inscription afin que celle-ci atteigne la durée spécifique prévue à l'article L. 401 du même code ou, si elles ont été déjà radiées d'une telle liste à la date d'entrée en vigueur de la présente ordonnance, sont, à leur demande, inscrites à nouveau sur une liste. Dans ce dernier cas, la durée cumulée des inscriptions ne peut excéder la durée spécifique prévue à l'article L. 401 du même code."
+      "content": "Les personnes mentionnées aux articles L. 394 à L. 396 du code des pensions militaires d'invalidité et des victimes de la guerre qui ont été inscrites sur une liste d'aptitude régionale ou nationale à compter de la date d'entrée en vigueur de la loi n° 2008-492 du 26 mai 2008 relative aux emplois réservés et portant dispositions diverses relatives à la défense bénéficient d'une prorogation de la durée de leur inscription afin que celle-ci atteigne la durée spécifique prévue à l'article L. 401 du même code ou, si elles ont été déjà radiées d'une telle liste à la date d'entrée en vigueur de la présente ordonnance, sont, à leur demande, inscrites à nouveau sur une liste. Dans ce dernier cas, la durée cumulée des inscriptions ne peut excéder la durée spécifique prévue à l'article L. 401 du même code.",
+      "valid_from": "2014-12-25"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable et de l'énergie, la garde des sceaux, ministre de la justice, le ministre des finances et des comptes publics, le ministre de la défense, le ministre de l'économie, de l'industrie et du numérique et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable et de l'énergie, la garde des sceaux, ministre de la justice, le ministre des finances et des comptes publics, le ministre de la défense, le ministre de l'économie, de l'industrie et du numérique et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2014-12-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

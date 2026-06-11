@@ -12,31 +12,42 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "I. - L'article 1er de la loi n° 63-628 du 2 juillet 1963 de finances rectificative pour 1963 portant maintien de la stabilité économique et financière est abrogé. Les références à cet article contenues dans des dispositions de nature législative sont remplacées par une référence à l'article 32 de l'ordonnance n° 86-1243 du 1er décembre 1986 précitée."
+      "content": "I. - L'article 1er de la loi n° 63-628 du 2 juillet 1963 de finances rectificative pour 1963 portant maintien de la stabilité économique et financière est abrogé. Les références à cet article contenues dans des dispositions de nature législative sont remplacées par une référence à l'article 32 de l'ordonnance n° 86-1243 du 1er décembre 1986 précitée.",
+      "valid_from": "1996-07-03"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "I. et II. (paragraphes modificateurs).III. - Le Gouvernement déposera sur le bureau des assemblées parlementaires, avant le 1er mars 1997, un rapport sur les activités exercées par les associations en concurrence avec des commerçants, ainsi que sur les problèmes créés par cette concurrence. Ce rapport présentera, le cas échéant, des propositions de nature à y remédier."
+      "content": "I. et II. (paragraphes modificateurs).III. - Le Gouvernement déposera sur le bureau des assemblées parlementaires, avant le 1er mars 1997, un rapport sur les activités exercées par les associations en concurrence avec des commerçants, ainsi que sur les problèmes créés par cette concurrence. Ce rapport présentera, le cas échéant, des propositions de nature à y remédier.",
+      "valid_from": "1996-07-03"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Les dispositions des articles 10, 11 et 13 entrent en vigueur le premier jour du sixième mois suivant la date de promulgation de la présente loi."
+      "content": "Les dispositions des articles 10, 11 et 13 entrent en vigueur le premier jour du sixième mois suivant la date de promulgation de la présente loi.",
+      "valid_from": "1996-07-03"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Le Gouvernement déposera sur le bureau des assemblées parlementaires, avant le 1er octobre 1997, un rapport faisant le bilan des possibilités de coopération entre les entreprises du secteur public et celles du secteur privé dans les différents domaines d'activités économiques et sociales où elles sont en situation de concurrence."
+      "content": "Le Gouvernement déposera sur le bureau des assemblées parlementaires, avant le 1er octobre 1997, un rapport faisant le bilan des possibilités de coopération entre les entreprises du secteur public et celles du secteur privé dans les différents domaines d'activités économiques et sociales où elles sont en situation de concurrence.",
+      "valid_from": "1996-07-03"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "(alinéa modificateur).Les dispositions du présent article ne s'appliquent pas aux procédures en cours à la date d'entrée en vigueur de la présente loi."
+      "content": "(alinéa modificateur).Les dispositions du présent article ne s'appliquent pas aux procédures en cours à la date d'entrée en vigueur de la présente loi.",
+      "valid_from": "1996-07-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

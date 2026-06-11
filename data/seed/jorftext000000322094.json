@@ -12,7 +12,14 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le Conseil supérieur de l'audiovisuel désigne, dans le mois suivant la publication de la présente loi, et pour une durée de trois ans, la personnalité appelée à siéger aux conseils d'administration des sociétés visées aux 2° et 3° de l'article 44 de la loi n° 86-1067 du 30 septembre 1986 précitée et à présider les deux sociétés.\n\nJusqu'à sa désignation, les présidents en exercice des sociétés conservent leur qualité de membres des conseils d'administration de ces sociétés et continuent d'en assurer la présidence."
+      "content": "Le Conseil supérieur de l'audiovisuel désigne, dans le mois suivant la publication de la présente loi, et pour une durée de trois ans, la personnalité appelée à siéger aux conseils d'administration des sociétés visées aux 2° et 3° de l'article 44 de la loi n° 86-1067 du 30 septembre 1986 précitée et à présider les deux sociétés.\n\nJusqu'à sa désignation, les présidents en exercice des sociétés conservent leur qualité de membres des conseils d'administration de ces sociétés et continuent d'en assurer la présidence.",
+      "valid_from": "1989-08-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

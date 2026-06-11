@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont ratifiées, telles que modifiées par les dispositions de la présente loi, les ordonnances suivantes, prises en application de la loi n° 96-1 du 2 janvier 1996 d'habilitation relative à l'extension et à l'adaptation de la législation en matière pénale applicable aux territoires d'outre-mer et à Mayotte :1° Ordonnance n° 96-267 du 28 mars 1996 relative à l'entrée en vigueur du nouveau code pénal dans les territoires d'outre-mer et à Mayotte ainsi qu'à l'extension et à la modification de certaines dispositions législatives rendues nécessaires par cette entrée en vigueur ;2° Ordonnance n° 96-268 du 28 mars 1996 portant actualisation des dispositions législatives de procédure pénale applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis-et-Futuna ainsi que à Mayotte."
+      "content": "Sont ratifiées, telles que modifiées par les dispositions de la présente loi, les ordonnances suivantes, prises en application de la loi n° 96-1 du 2 janvier 1996 d'habilitation relative à l'extension et à l'adaptation de la législation en matière pénale applicable aux territoires d'outre-mer et à Mayotte :1° Ordonnance n° 96-267 du 28 mars 1996 relative à l'entrée en vigueur du nouveau code pénal dans les territoires d'outre-mer et à Mayotte ainsi qu'à l'extension et à la modification de certaines dispositions législatives rendues nécessaires par cette entrée en vigueur ;2° Ordonnance n° 96-268 du 28 mars 1996 portant actualisation des dispositions législatives de procédure pénale applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis-et-Futuna ainsi que à Mayotte.",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "I. - Sont abrogés les articles 6 et 7 de la loi n° 83-520 du 27 juin 1983 rendant applicables le code pénal, le code de procédure pénale et certaines dispositions législatives dans les territoires d'outre-mer.\n\nII. - (paragraphes modificateurs)."
+      "content": "I. - Sont abrogés les articles 6 et 7 de la loi n° 83-520 du 27 juin 1983 rendant applicables le code pénal, le code de procédure pénale et certaines dispositions législatives dans les territoires d'outre-mer.\n\nII. - (paragraphes modificateurs).",
+      "valid_from": "1997-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

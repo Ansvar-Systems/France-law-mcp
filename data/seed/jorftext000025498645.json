@@ -12,43 +12,56 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions annexées à la présente ordonnance constituent la partie législative du code de la sécurité intérieure."
+      "content": "Les dispositions annexées à la présente ordonnance constituent la partie législative du code de la sécurité intérieure.",
+      "valid_from": "2012-05-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions de la partie législative du code de la sécurité intérieure, qui mentionnent, sans les reproduire, des dispositions soit d'autres codes, soit de textes législatifs sont de plein droit modifiées par l'effet des modifications ultérieures de ces dispositions."
+      "content": "Les dispositions de la partie législative du code de la sécurité intérieure, qui mentionnent, sans les reproduire, des dispositions soit d'autres codes, soit de textes législatifs sont de plein droit modifiées par l'effet des modifications ultérieures de ces dispositions.",
+      "valid_from": "2012-05-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les références à des dispositions abrogées par la présente ordonnance sont remplacées par des références aux dispositions correspondantes du code de la sécurité intérieure."
+      "content": "Les références à des dispositions abrogées par la présente ordonnance sont remplacées par des références aux dispositions correspondantes du code de la sécurité intérieure.",
+      "valid_from": "2012-05-01"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Sont abrogés, sous réserve des dispositions de l'article 20 :\n\nA modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n-CODE DES COMMUNES.\n\n-CODE DES COMMUNES.\n\n-Code des communes de la Nouvelle-Calédonie\n\n-Code de la construction et de l'habitation.\n\n-Code de la défense.\n\n-Code général des collectivités territoriales\n\n-Code des transports\n\n-Code du travail\n\n-Loi du 21 mai 1836\n\n-Loi n° 1907-06-15 du 15 juin 1907\n\n-Décret-loi du 23 octobre 1935\n\n-Loi du 10 janvier 1936\n\n-Loi n° 47-2384 du 27 décembre 1947\n\n-Loi n° 66-383 du 16 juin 1966\n\n-Loi n° 66-492 du 9 juillet 1966\n\n-Loi n° 83-628 du 12 juillet 1983\n\n-Loi n° 85-835 du 7 août 1985\n\n-Loi n° 91-646 du 10 juillet 1991\n\n-Loi n° 95-73 du 21 janvier 1995\n\n-Loi n° 96-370 du 3 mai 1996\n\n-Loi n° 2000-646 du 10 juillet 2000\n\n-Loi n° 2002-1094 du 29 août 2002\n\n-Loi n° 2003-239 du 18 mars 2003\n\n-Loi n° 2004-811 du 13 août 2004\n\n-Loi n° 2006-64 du 23 janvier 2006\n\n-Ordonnance n° 92-1145 du 12 octobre 1992 portant extension et adaptation dans les territoires d'outre-mer des dispositions législatives relatives au secret des correspondances émises par la voie des télécommunications\n\n-Ordonnance n° 2002-1450 du 12 décembre 2002\n\n-Ordonnance n° 2005-10 du 4 janvier 2005\n\n-Ordonnance n° 2006-172 du 15 février 2006\n\n-Ordonnance n° 2006-173 du 15 février 2006\n\n-Loi n° 83-629 du 12 juillet 1983\n\n-Code de la défense.\n\n-Code général des collectivités territoriales\n\n-Loi n° 48-1504 du 28 septembre 1948\n\n-Loi n° 82-213 du 2 mars 1982\n\n-Loi n° 95-73 du 21 janvier 1995\n\n-Loi n° 2001-1062 du 15 novembre 2001\n\n-Loi n° 2004-811 du 13 août 2004\n\n-LOI n° 2011-267 du 14 mars 2011"
+      "content": "Sont abrogés, sous réserve des dispositions de l'article 20 :\n\nA modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n-CODE DES COMMUNES.\n\n-CODE DES COMMUNES.\n\n-Code des communes de la Nouvelle-Calédonie\n\n-Code de la construction et de l'habitation.\n\n-Code de la défense.\n\n-Code général des collectivités territoriales\n\n-Code des transports\n\n-Code du travail\n\n-Loi du 21 mai 1836\n\n-Loi n° 1907-06-15 du 15 juin 1907\n\n-Décret-loi du 23 octobre 1935\n\n-Loi du 10 janvier 1936\n\n-Loi n° 47-2384 du 27 décembre 1947\n\n-Loi n° 66-383 du 16 juin 1966\n\n-Loi n° 66-492 du 9 juillet 1966\n\n-Loi n° 83-628 du 12 juillet 1983\n\n-Loi n° 85-835 du 7 août 1985\n\n-Loi n° 91-646 du 10 juillet 1991\n\n-Loi n° 95-73 du 21 janvier 1995\n\n-Loi n° 96-370 du 3 mai 1996\n\n-Loi n° 2000-646 du 10 juillet 2000\n\n-Loi n° 2002-1094 du 29 août 2002\n\n-Loi n° 2003-239 du 18 mars 2003\n\n-Loi n° 2004-811 du 13 août 2004\n\n-Loi n° 2006-64 du 23 janvier 2006\n\n-Ordonnance n° 92-1145 du 12 octobre 1992 portant extension et adaptation dans les territoires d'outre-mer des dispositions législatives relatives au secret des correspondances émises par la voie des télécommunications\n\n-Ordonnance n° 2002-1450 du 12 décembre 2002\n\n-Ordonnance n° 2005-10 du 4 janvier 2005\n\n-Ordonnance n° 2006-172 du 15 février 2006\n\n-Ordonnance n° 2006-173 du 15 février 2006\n\n-Loi n° 83-629 du 12 juillet 1983\n\n-Code de la défense.\n\n-Code général des collectivités territoriales\n\n-Loi n° 48-1504 du 28 septembre 1948\n\n-Loi n° 82-213 du 2 mars 1982\n\n-Loi n° 95-73 du 21 janvier 1995\n\n-Loi n° 2001-1062 du 15 novembre 2001\n\n-Loi n° 2004-811 du 13 août 2004\n\n-LOI n° 2011-267 du 14 mars 2011",
+      "valid_from": "2012-05-01"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Les articles 1er, 2, 3, 6, 8, 9, 15, 17, 18, 19 et 20 de la présente ordonnance sont applicables en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises, ainsi que les articles 5 et 14 en Nouvelle-Calédonie, les articles 7, 10 et 16 en Polynésie française et l'article 12 dans les îles Wallis et Futuna."
+      "content": "Les articles 1er, 2, 3, 6, 8, 9, 15, 17, 18, 19 et 20 de la présente ordonnance sont applicables en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises, ainsi que les articles 5 et 14 en Nouvelle-Calédonie, les articles 7, 10 et 16 en Polynésie française et l'article 12 dans les îles Wallis et Futuna.",
+      "valid_from": "2012-05-01"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le premier jour du deuxième mois suivant celui de sa publication au Journal officiel de la République française."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le premier jour du deuxième mois suivant celui de sa publication au Journal officiel de la République française.",
+      "valid_from": "2012-05-01"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Le Premier ministre et le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2012-05-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

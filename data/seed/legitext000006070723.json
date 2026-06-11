@@ -1,0 +1,39 @@
+{
+  "id": "legitext000006070723",
+  "type": "statute",
+  "title": "Loi du 13 janvier 1791",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070723/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Tout citoyen pourra élever un théâtre public et y faire représenter des pièces de tous les genres, en faisant préalablement à l'établissement de son théâtre, sa déclaration à la municipalité des lieux.",
+      "valid_from": "1791-01-13"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Les entrepreneurs, ou les membres des différens théâtres seront, à raison de leur état, sous l'inspection des municipalités ; ils ne recevront des ordres que des officiers municipaux, qui ne pourront pas arrêter ni défendre la représentation d'une pièce, sauf la responsabilité des auteurs et des comédiens, et qui ne pourront rien enjoindre aux comédiens, que conformément aux lois et au réglemens de police : réglemens sur lesquels le comité de constitution dressera incessamment un projet d'instruction. Provisoirement les anciens réglemens seront exécutés.",
+      "valid_from": "1791-01-13"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Il n'y aura au spectacle qu'une garde extérieure, dont les troupes de ligne ne seront point chargées, si ce n'est dans le cas où les officiers municipaux leur en feroient la réquisition formelle. Il y aura toujours un ou plusieurs officiers civils dans l'intérieur des salles, et la garde n'y pénétrera que dans le cas où la sûreté publique seroit compromise, et sur la réquisition expresse de l'officier civil, lequel se conformera aux loix et aux réglemens de police. Tout citoyen sera tenu d'obéir provisoirement à l'officier d'état civil.",
+      "valid_from": "1791-01-13"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

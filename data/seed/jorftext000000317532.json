@@ -12,25 +12,35 @@
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Ont valeur législative à partir de leur entrée en vigueur les dispositions du décret n° 75-725 du 6 août 1975 portant suppression des forclusions applicables à l'accueil des demandes de certains titres prévus par le code des pensions militaires d'invalidité et des victimes de la guerre."
+      "content": "Ont valeur législative à partir de leur entrée en vigueur les dispositions du décret n° 75-725 du 6 août 1975 portant suppression des forclusions applicables à l'accueil des demandes de certains titres prévus par le code des pensions militaires d'invalidité et des victimes de la guerre.",
+      "valid_from": "1986-01-18"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Lorsqu'ils servent dans les organisations internationales, les fonctionnaires civils et militaires des administrations de l'Etat, des régions, des départements, des communes et de leurs établissements publics ont droit, pour le calcul de l'ancienneté requise au titre de l'avancement de grade et d'échelon, à des majorations d'ancienneté.Un décret en Conseil d'Etat détermine les conditions d'attribution et notamment la quotité et les limites des majorations instituées à l'alinéa ci-dessus.Les personnels susceptibles de bénéficier de bonifications à un autre titre ne peuvent, pour la même période, les cumuler avec celles prévues par la présente loi. Toutefois, les personnels concernés ont la faculté d'opter pour le régime de leur choix.L'ensemble de ces dispositions s'applique aux services accomplis à compter de la date de promulgation de la présente loi."
+      "content": "Lorsqu'ils servent dans les organisations internationales, les fonctionnaires civils et militaires des administrations de l'Etat, des régions, des départements, des communes et de leurs établissements publics ont droit, pour le calcul de l'ancienneté requise au titre de l'avancement de grade et d'échelon, à des majorations d'ancienneté.Un décret en Conseil d'Etat détermine les conditions d'attribution et notamment la quotité et les limites des majorations instituées à l'alinéa ci-dessus.Les personnels susceptibles de bénéficier de bonifications à un autre titre ne peuvent, pour la même période, les cumuler avec celles prévues par la présente loi. Toutefois, les personnels concernés ont la faculté d'opter pour le régime de leur choix.L'ensemble de ces dispositions s'applique aux services accomplis à compter de la date de promulgation de la présente loi.",
+      "valid_from": "1986-01-18"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Par dérogation au principe énoncé à l'article 3 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, les emplois de l'établissement public national Antoine Koenigswarter ne sont pas occupés par des personnels ayant le statut de fonctionnaire.\n\nLa situation de ces personnels est déterminée par un contrat de travail et des conventions collectives, dans les conditions définies au livre II des première et deuxième parties du code du travail.\n\nNonobstant les deux premiers alinéas du présent article, en cas de transfert d'un établissement dont tout ou partie des personnels relève d'un corps de la fonction publique de l'Etat, de la fonction publique territoriale ou de la fonction publique hospitalière à l'établissement public national Antoine Koenigswarter, les agents concernés peuvent opter pour le maintien dans leur corps d'origine ou pour leur intégration à l'établissement public national Antoine Koenigswarter, dans un corps relevant de la fonction publique hospitalière, dans des conditions fixées par décret en Conseil d'Etat. Les agents non titulaires en fonction dans l'établissement transféré conservent leur statut d'origine et deviennent agents non titulaires de la fonction publique hospitalière.Dans le périmètre d'un établissement ainsi transféré, les emplois vacants après la date du transfert peuvent être pourvus par des agents relevant de la fonction publique hospitalière."
+      "content": "Par dérogation au principe énoncé à l'article 3 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, les emplois de l'établissement public national Antoine Koenigswarter ne sont pas occupés par des personnels ayant le statut de fonctionnaire.\n\nLa situation de ces personnels est déterminée par un contrat de travail et des conventions collectives, dans les conditions définies au livre II des première et deuxième parties du code du travail.\n\nNonobstant les deux premiers alinéas du présent article, en cas de transfert d'un établissement dont tout ou partie des personnels relève d'un corps de la fonction publique de l'Etat, de la fonction publique territoriale ou de la fonction publique hospitalière à l'établissement public national Antoine Koenigswarter, les agents concernés peuvent opter pour le maintien dans leur corps d'origine ou pour leur intégration à l'établissement public national Antoine Koenigswarter, dans un corps relevant de la fonction publique hospitalière, dans des conditions fixées par décret en Conseil d'Etat. Les agents non titulaires en fonction dans l'établissement transféré conservent leur statut d'origine et deviennent agents non titulaires de la fonction publique hospitalière.Dans le périmètre d'un établissement ainsi transféré, les emplois vacants après la date du transfert peuvent être pourvus par des agents relevant de la fonction publique hospitalière.",
+      "valid_from": "2022-02-23"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "Les dispositions des articles ci-dessus 26 et 27 entreront en vigueur à l'expiration d'un délai de quatre mois à compter de la publication de la présente loi."
+      "content": "Les dispositions des articles ci-dessus 26 et 27 entreront en vigueur à l'expiration d'un délai de quatre mois à compter de la publication de la présente loi.",
+      "valid_from": "1986-01-18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

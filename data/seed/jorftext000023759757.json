@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sous réserve des dispositions d'adaptation prévues aux articles 4 et 5 de la présente ordonnance, sont applicables en Nouvelle-Calédonie, dans leur rédaction issue de la loi du 15 juin 2010, de l'ordonnance du 9 décembre 2010 et de l'article 40 de la loi du 27 juillet 2010 susvisées :1° Le chapitre III du titre II du livre II, le chapitre VI du titre II du livre V et, sauf exceptions indiquées à son article L. 930-1, le livre VI du code de commerce ;2° Le chapitre III bis du titre III du livre III du code de la consommation ;3° La section 12 du chapitre Ier du titre III du livre Ier et l'article L. 313-21 du code monétaire et financier ;4° Le chapitre Ier du titre Ier du livre IV de la deuxième partie du code de la propriété intellectuelle ;5° Le chapitre IV du titre II du livre III du code rural et de la pêche maritime."
+      "content": "Sous réserve des dispositions d'adaptation prévues aux articles 4 et 5 de la présente ordonnance, sont applicables en Nouvelle-Calédonie, dans leur rédaction issue de la loi du 15 juin 2010, de l'ordonnance du 9 décembre 2010 et de l'article 40 de la loi du 27 juillet 2010 susvisées :1° Le chapitre III du titre II du livre II, le chapitre VI du titre II du livre V et, sauf exceptions indiquées à son article L. 930-1, le livre VI du code de commerce ;2° Le chapitre III bis du titre III du livre III du code de la consommation ;3° La section 12 du chapitre Ier du titre III du livre Ier et l'article L. 313-21 du code monétaire et financier ;4° Le chapitre Ier du titre Ier du livre IV de la deuxième partie du code de la propriété intellectuelle ;5° Le chapitre IV du titre II du livre III du code rural et de la pêche maritime.",
+      "valid_from": "2011-03-26"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Sous réserve des dispositions d'adaptation prévues aux articles 4 et 5 de la présente ordonnance, sont applicables dans les îles Wallis et Futuna, dans leur rédaction issue de la loi du 15 juin 2010, de l'ordonnance du 9 décembre 2010 et de l'article 40 de la loi du 27 juillet 2010 susvisées :1° Le chapitre III du titre II du livre II, le chapitre VI du titre II du livre V et, sauf exceptions indiquées à son article L. 950-1, le livre VI du code de commerce ;2° Le chapitre III bis du titre III du livre III du code de la consommation ;3° La section 12 du chapitre Ier du titre III du livre Ier et l'article L. 313-21 du livre III du code monétaire et financier ;4° Le chapitre Ier du titre Ier du livre IV de la deuxième partie du code de la propriété intellectuelle ;5° Sauf exceptions indiquées à ses articles 102 et 103, la loi du 9 juillet 1991 portant réforme des procédures civiles d'exécution."
+      "content": "Sous réserve des dispositions d'adaptation prévues aux articles 4 et 5 de la présente ordonnance, sont applicables dans les îles Wallis et Futuna, dans leur rédaction issue de la loi du 15 juin 2010, de l'ordonnance du 9 décembre 2010 et de l'article 40 de la loi du 27 juillet 2010 susvisées :1° Le chapitre III du titre II du livre II, le chapitre VI du titre II du livre V et, sauf exceptions indiquées à son article L. 950-1, le livre VI du code de commerce ;2° Le chapitre III bis du titre III du livre III du code de la consommation ;3° La section 12 du chapitre Ier du titre III du livre Ier et l'article L. 313-21 du livre III du code monétaire et financier ;4° Le chapitre Ier du titre Ier du livre IV de la deuxième partie du code de la propriété intellectuelle ;5° Sauf exceptions indiquées à ses articles 102 et 103, la loi du 9 juillet 1991 portant réforme des procédures civiles d'exécution.",
+      "valid_from": "2011-03-26"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Sous réserve des dispositions d'adaptation prévues aux articles 4 et 5 de la présente ordonnance, et indépendamment des dispositions du code de commerce applicables de plein droit, sont applicables à Mayotte, dans leur rédaction issue de la loi du 15 juin 2010 et de l'ordonnance du 9 décembre 2010 susvisées, les articles L. 526-9 et L. 526-11 de ce code."
+      "content": "Sous réserve des dispositions d'adaptation prévues aux articles 4 et 5 de la présente ordonnance, et indépendamment des dispositions du code de commerce applicables de plein droit, sont applicables à Mayotte, dans leur rédaction issue de la loi du 15 juin 2010 et de l'ordonnance du 9 décembre 2010 susvisées, les articles L. 526-9 et L. 526-11 de ce code.",
+      "valid_from": "2011-03-26"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice et des libertés, le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration et la ministre de l'économie, des finances et de l'industrie sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice et des libertés, le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration et la ministre de l'économie, des finances et de l'industrie sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2011-03-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Dans tous les cas où les dons et legs donnent lieu à des réclamations des familles, l'autorisation de les accepter est donnée par décret en Conseil d'Etat."
+      "content": "Dans tous les cas où les dons et legs donnent lieu à des réclamations des familles, l'autorisation de les accepter est donnée par décret en Conseil d'Etat.",
+      "valid_from": "1901-02-06"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Tous les établissements peuvent, sans autorisation préalable, accepter provisoirement ou à titre conservatoire les dons et legs qui leur sont faits."
+      "content": "Tous les établissements peuvent, sans autorisation préalable, accepter provisoirement ou à titre conservatoire les dons et legs qui leur sont faits.",
+      "valid_from": "1901-02-06"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les articles 7 et 8 de la présente loi ne sont pas applicables aux organismes auxquels s'appliquent les trois derniers alinéas de l'article 910 du code civil."
+      "content": "Les articles 7 et 8 de la présente loi ne sont pas applicables aux organismes auxquels s'appliquent les trois derniers alinéas de l'article 910 du code civil.",
+      "valid_from": "2011-05-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

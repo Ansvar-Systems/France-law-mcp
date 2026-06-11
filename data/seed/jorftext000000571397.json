@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Un décret contresigné par le ministre secrétaire d'Etat à l'économie et aux finances, le ministre secrétaire d'Etat à l'agriculture et le secrétaire d'Etat à la production industrielle fixera le statut réglementaire de la normalisation."
+      "content": "Un décret contresigné par le ministre secrétaire d'Etat à l'économie et aux finances, le ministre secrétaire d'Etat à l'agriculture et le secrétaire d'Etat à la production industrielle fixera le statut réglementaire de la normalisation.",
+      "valid_from": "1941-05-28"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Toutes les mesures reconnues nécessaires à l'établissement et à l'application de la normalisation pourront être édictées par le décret prévu à l'article premier ci-dessus, nonobstant toutes dispositions législatives ou réglementaires contraires."
+      "content": "Toutes les mesures reconnues nécessaires à l'établissement et à l'application de la normalisation pourront être édictées par le décret prévu à l'article premier ci-dessus, nonobstant toutes dispositions législatives ou réglementaires contraires.",
+      "valid_from": "1941-05-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

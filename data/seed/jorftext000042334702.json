@@ -12,19 +12,28 @@
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Les dispositions du livre V du code de la construction et de l'habitation intervenues en matière d'habitation, qui relèvent désormais de la compétence de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon et applicables localement dans leur rédaction en vigueur pour ces collectivités à la date de la publication de la présente ordonnance y demeurent en vigueur tant qu'elles n'ont pas été modifiées ou abrogées par l'autorité locale compétente."
+      "content": "Les dispositions du livre V du code de la construction et de l'habitation intervenues en matière d'habitation, qui relèvent désormais de la compétence de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon et applicables localement dans leur rédaction en vigueur pour ces collectivités à la date de la publication de la présente ordonnance y demeurent en vigueur tant qu'elles n'ont pas été modifiées ou abrogées par l'autorité locale compétente.",
+      "valid_from": "2021-01-01"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er janvier 2021 et ne sont applicables qu'aux arrêtés notifiés à compter de cette date."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er janvier 2021 et ne sont applicables qu'aux arrêtés notifiés à compter de cette date.",
+      "valid_from": "2021-01-01"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Le Premier ministre, la ministre de la transition écologique, le ministre des outre-mer, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, le ministre des solidarités et de la santé et la ministre déléguée auprès de la ministre de la transition écologique, chargée du logement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la transition écologique, le ministre des outre-mer, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, le ministre des solidarités et de la santé et la ministre déléguée auprès de la ministre de la transition écologique, chargée du logement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,31 +12,50 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Pour assurer, dans le respect des principes énoncés à l'article L. 542-1 du code de l'environnement, la gestion des déchets radioactifs à vie longue de haute ou de moyenne activité, les recherches et études relatives à ces déchets sont poursuivies selon les trois axes complémentaires suivants :\n\n1° La séparation et la transmutation des éléments radioactifs à vie longue. Les études et recherches correspondantes sont conduites en relation avec celles menées sur les nouvelles générations de réacteurs nucléaires mentionnés à l'article 5 de la loi n° 2005-781 du 13 juillet 2005 de programme fixant les orientations de la politique énergétique ainsi que sur les réacteurs pilotés par accélérateur dédiés à la transmutation des déchets, afin de disposer, en 2012, d'une évaluation des perspectives industrielles de ces filières et de mettre en exploitation un prototype d'installation avant le 31 décembre 2020 ;\n\n2° Le stockage réversible en couche géologique profonde. Les études et recherches correspondantes sont conduites en vue de choisir un site et de concevoir un centre de stockage de sorte que, au vu des résultats des études conduites, la demande de son autorisation prévue à l'article L. 542-10-1 du code de l'environnement puisse être instruite en 2018 et, sous réserve de cette autorisation, le centre mis en exploitation en 2025 ;\n\n3° L'entreposage. Les études et les recherches correspondantes sont conduites en vue, au plus tard en 2015, de créer de nouvelles installations d'entreposage ou de modifier des installations existantes, pour répondre aux besoins, notamment en termes de capacité et de durée, recensés par le plan prévu à l'article L. 542-1-2 du code de l'environnement."
+      "content": "Pour assurer, dans le respect des principes énoncés à l'article L. 542-1 du code de l'environnement, la gestion des déchets radioactifs à vie longue de haute ou de moyenne activité, les recherches et études relatives à ces déchets sont poursuivies selon les trois axes complémentaires suivants :\n\n1° La séparation et la transmutation des éléments radioactifs à vie longue. Les études et recherches correspondantes sont conduites en relation avec celles menées sur les nouvelles générations de réacteurs nucléaires mentionnés à l'article 5 de la loi n° 2005-781 du 13 juillet 2005 de programme fixant les orientations de la politique énergétique ainsi que sur les réacteurs pilotés par accélérateur dédiés à la transmutation des déchets, afin de disposer, en 2012, d'une évaluation des perspectives industrielles de ces filières et de mettre en exploitation un prototype d'installation avant le 31 décembre 2020 ;\n\n2° Le stockage réversible en couche géologique profonde. Les études et recherches correspondantes sont conduites en vue de choisir un site et de concevoir un centre de stockage de sorte que, au vu des résultats des études conduites, la demande de son autorisation prévue à l'article L. 542-10-1 du code de l'environnement puisse être instruite en 2018 et, sous réserve de cette autorisation, le centre mis en exploitation en 2025 ;\n\n3° L'entreposage. Les études et les recherches correspondantes sont conduites en vue, au plus tard en 2015, de créer de nouvelles installations d'entreposage ou de modifier des installations existantes, pour répondre aux besoins, notamment en termes de capacité et de durée, recensés par le plan prévu à l'article L. 542-1-2 du code de l'environnement.",
+      "valid_from": "2016-07-27"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Pour assurer, dans le respect des principes énoncés à l'article L. 542-1 du code de l'environnement, la gestion des matières et des déchets radioactifs autres que ceux mentionnés à l'article 3 de la présente loi, il est institué un programme de recherche et d'études dont les objectifs sont les suivants :1° La mise au point de solutions de stockage pour les déchets graphites et les déchets radifères, de sorte que le centre de stockage correspondant puisse être mis en service en 2013 ;2° La mise au point pour 2008 de solutions d'entreposage des déchets contenant du tritium permettant la réduction de leur radioactivité avant leur stockage en surface ou à faible profondeur ;3° La finalisation pour 2008 de procédés permettant le stockage des sources scellées usagées dans des centres existants ou à construire ;4° Un bilan en 2009 des solutions de gestion à court et à long terme des déchets à radioactivité naturelle renforcée, proposant, s'il y a lieu, de nouvelles solutions ;5° Un bilan en 2008 de l'impact à long terme des sites de stockage de résidus miniers d'uranium et la mise en oeuvre d'un plan de surveillance radiologique renforcée de ces sites.",
+      "valid_from": "2006-06-29",
+      "valid_to": "2222-02-22"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "I. - Paragraphe modificateurII. - Le plan national prévu à l'article L. 542-1-2 du code de l'environnement est établi pour la première fois avant le 31 décembre 2006."
+      "content": "I. - Paragraphe modificateurII. - Le plan national prévu à l'article L. 542-1-2 du code de l'environnement est établi pour la première fois avant le 31 décembre 2006.",
+      "valid_from": "2006-06-29"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "I.-Paragraphe modificateurII.-La commission nationale mentionnée à l'article L. 542-3 du code de l'environnement établit son premier rapport avant le 30 juin 2007."
+      "content": "I.-Paragraphe modificateurII.-La commission nationale mentionnée à l'article L. 542-3 du code de l'environnement établit son premier rapport avant le 30 juin 2007.",
+      "valid_from": "2006-06-29"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "I et II (Abrogés)\n\nIII.-Les exploitants transmettent, au plus tard dans un délai d'un an à compter de la publication de la présente loi, leur premier rapport triennal mentionné à l'article L. 594-4 du code de l'environnement. Ce premier rapport comprend, outre les éléments prévus à l'article L. 594-4 du code de l'environnement, un plan de constitution des actifs définis aux articles L. 594-2 et L. 594-3.\n\nIV.-La commission remet son premier rapport au plus tard dans un délai de deux ans à compter de la publication de la présente loi."
+      "content": "I et II (Abrogés)\n\nIII.-Les exploitants transmettent, au plus tard dans un délai d'un an à compter de la publication de la présente loi, leur premier rapport triennal mentionné à l'article L. 594-4 du code de l'environnement. Ce premier rapport comprend, outre les éléments prévus à l'article L. 594-4 du code de l'environnement, un plan de constitution des actifs définis aux articles L. 594-2 et L. 594-3.\n\nIV.-La commission remet son premier rapport au plus tard dans un délai de deux ans à compter de la publication de la présente loi.",
+      "valid_from": "2012-01-07"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "I. Paragraphe modificateurII. - Les dispositions du I sont applicables à compter du 1er janvier 2007."
+      "content": "I. Paragraphe modificateurII. - Les dispositions du I sont applicables à compter du 1er janvier 2007.",
+      "valid_from": "2006-06-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le président du conseil général modifie l'agrément en cours de validité des assistants maternels agréés pour l'accueil de mineurs à titre non permanent afin de préciser le nombre d'enfants pouvant être accueillis simultanément, pour la durée de validité restant à courir.Dans le cas où l'assistant maternel a suivi la formation prévue à l'article L. 2112-3 du code de la santé publique ou justifie d'une dispense au titre de ce même article, la modification, sous réserve de la vérification de son état de santé, vaut renouvellement de l'agrément.Le président du conseil général dispose d'un délai de six mois à compter de la publication de la présente loi pour procéder aux modifications d'agrément. Au-delà de ce délai, les agréments sont réputés modifiés."
+      "content": "Le président du conseil général modifie l'agrément en cours de validité des assistants maternels agréés pour l'accueil de mineurs à titre non permanent afin de préciser le nombre d'enfants pouvant être accueillis simultanément, pour la durée de validité restant à courir.Dans le cas où l'assistant maternel a suivi la formation prévue à l'article L. 2112-3 du code de la santé publique ou justifie d'une dispense au titre de ce même article, la modification, sous réserve de la vérification de son état de santé, vaut renouvellement de l'agrément.Le président du conseil général dispose d'un délai de six mois à compter de la publication de la présente loi pour procéder aux modifications d'agrément. Au-delà de ce délai, les agréments sont réputés modifiés.",
+      "valid_from": "2004-01-03"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Les dispositions des articles 11, 14 et 15 sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna."
+      "content": "Les dispositions des articles 11, 14 et 15 sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.",
+      "valid_from": "2004-01-03"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Le Gouvernement est autorisé, à compter de la publication de la présente loi et pour une période expirant le 1er janvier 2009, à expérimenter un mode de financement prévoyant, suivant des modalités fixées par décret, le versement de dotations globales de financement aux personnes morales publiques ou privées à qui le juge des tutelles confie l'exercice des mesures de protection juridique mentionnées aux articles 491, 492 et 508 du code civil et de tutelle aux prestations sociales des personnes majeures définies au chapitre VII du titre VI du livre Ier du code de la sécurité sociale ainsi qu'aux établissements de santé et aux établissements sociaux ou médico-sociaux dont un préposé a été nommé par le juge des tutelles, en application de l'article 499 du code civil, gérant de la tutelle.Les dotations sont versées respectivement par l'Etat, pour le financement des mesures de protection juridique mentionnées aux articles 491, 492, 499 et 508 du code civil et par celle des personnes morales mentionnées à l'article L. 167-3 du code de la sécurité sociale, à laquelle incombe dans le département le règlement des frais du plus grand nombre des mesures de protection juridique définies au chapitre VII du titre VI du livre Ier du code de la sécurité sociale, pour le financement desdites mesures.La liste des personnes morales publiques ou privées admises à participer à l'expérimentation est fixée par arrêté des ministres en charge de la famille et de la sécurité sociale."
+      "content": "Le Gouvernement est autorisé, à compter de la publication de la présente loi et pour une période expirant le 1er janvier 2009, à expérimenter un mode de financement prévoyant, suivant des modalités fixées par décret, le versement de dotations globales de financement aux personnes morales publiques ou privées à qui le juge des tutelles confie l'exercice des mesures de protection juridique mentionnées aux articles 491, 492 et 508 du code civil et de tutelle aux prestations sociales des personnes majeures définies au chapitre VII du titre VI du livre Ier du code de la sécurité sociale ainsi qu'aux établissements de santé et aux établissements sociaux ou médico-sociaux dont un préposé a été nommé par le juge des tutelles, en application de l'article 499 du code civil, gérant de la tutelle.Les dotations sont versées respectivement par l'Etat, pour le financement des mesures de protection juridique mentionnées aux articles 491, 492, 499 et 508 du code civil et par celle des personnes morales mentionnées à l'article L. 167-3 du code de la sécurité sociale, à laquelle incombe dans le département le règlement des frais du plus grand nombre des mesures de protection juridique définies au chapitre VII du titre VI du livre Ier du code de la sécurité sociale, pour le financement desdites mesures.La liste des personnes morales publiques ou privées admises à participer à l'expérimentation est fixée par arrêté des ministres en charge de la famille et de la sécurité sociale.",
+      "valid_from": "2007-03-07"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

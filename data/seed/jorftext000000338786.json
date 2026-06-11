@@ -12,7 +12,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les propriétaires de voitures de petite remise régulièrement déclarées et effectivement exploitées à la date de publication de la présente loi pourront, à titre intransmissible et incessible, continuer leur exploitation, par dérogation aux dispositions de l'article 2."
+      "content": "Les propriétaires de voitures de petite remise régulièrement déclarées et effectivement exploitées à la date de publication de la présente loi pourront, à titre intransmissible et incessible, continuer leur exploitation, par dérogation aux dispositions de l'article 2.",
+      "valid_from": "1977-01-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

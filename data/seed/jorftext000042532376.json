@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'obligation de compatibilité avec les schémas régionaux des carrières prévue au II de l'article L. 515-3 du code de l'environnement ne s'applique pas aux autorisations et aux enregistrements délivrés par l'autorité administrative sur le fondement du titre VIII du livre Ier et du titre Ier du livre V du même code, lorsque ces décisions ont pour seul objet de permettre l'ouverture de nouvelles carrières ainsi que la réouverture ou l'extension de carrières existantes dont la production est nécessaire à l'approvisionnement du chantier de conservation et de restauration de la cathédrale Notre-Dame de Paris."
+      "content": "L'obligation de compatibilité avec les schémas régionaux des carrières prévue au II de l'article L. 515-3 du code de l'environnement ne s'applique pas aux autorisations et aux enregistrements délivrés par l'autorité administrative sur le fondement du titre VIII du livre Ier et du titre Ier du livre V du même code, lorsque ces décisions ont pour seul objet de permettre l'ouverture de nouvelles carrières ainsi que la réouverture ou l'extension de carrières existantes dont la production est nécessaire à l'approvisionnement du chantier de conservation et de restauration de la cathédrale Notre-Dame de Paris.",
+      "valid_from": "2020-11-20"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le Premier ministre, la ministre de la transition écologique et la ministre de la culture sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la transition écologique et la ministre de la culture sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-11-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -1,0 +1,25 @@
+{
+  "id": "jorftext000052533262",
+  "type": "statute",
+  "title": "LOI n°2025-1058 du 6 novembre 2025",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000052533262",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "I.- A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nII. - Le présent article entre en vigueur six mois après la promulgation de la présente loi.\n\n- Code monétaire et financier\n\n- Code monétaire et financier",
+      "valid_from": "2025-11-08"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

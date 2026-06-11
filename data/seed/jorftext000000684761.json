@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "Les crimes contre l'humanité, tels qu'ils sont définis par la résolution des Nations Unies du 13 février 1946, prenant acte de la définition des crimes contre l'humanité, telle qu'elle figure dans la charte du tribunal international du 8 août 1945, sont imprescriptibles par leur nature.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Les crimes contre l'humanité, tels qu'ils sont définis par la résolution des Nations Unies du 13 février 1946, prenant acte de la définition des crimes contre l'humanité, telle qu'elle figure dans la charte du tribunal international du 8 août 1945, sont imprescriptibles par leur nature.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "1964-12-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,25 +12,35 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. Paragraphe modificateurII. Pour les caisses locales de crédit mutuel, le prélèvement exceptionnel visé à l'article 6 de la loi n° 81-734 du 3 août 1981 ne peut être supérieur à 20 p. 100 du bénéfice imposable de l'exercice 1981.III. Paragraphe modificateur"
+      "content": "I. Paragraphe modificateurII. Pour les caisses locales de crédit mutuel, le prélèvement exceptionnel visé à l'article 6 de la loi n° 81-734 du 3 août 1981 ne peut être supérieur à 20 p. 100 du bénéfice imposable de l'exercice 1981.III. Paragraphe modificateur",
+      "valid_from": "1982-01-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. A compter du 1er janvier 1983, les exploitants agricoles placés sous le régime réel simplifié d'imposition à la taxe sur la valeur ajoutée sont tenus de souscrire un document en double exemplaire faisant apparaître la répartition, par type de production agricole, du montant des opérations qu'ils ont réalisées au cours de l'année écoulée, ainsi que de la valeur des acquisitions de biens et services, ouvrant droit à déduction de la taxe, effectuées au cours de la même période.II. Un exemplaire de ce document dont le modèle est fixé par l'administration est annexé :- soit à la déclaration prévue à l'article 298 bis I-1° du code général des impôts ;- soit à la dernière des déclarations trimestrielles de l'année, prévues à l'article 1693 bis du code général des impôts.L'autre exemplaire est adressé, par l'exploitant, à la direction départementale de l'agriculture dans le ressort de laquelle est situé le service des impôts destinataire des déclarations de chiffres d'affaires."
+      "content": "I. A compter du 1er janvier 1983, les exploitants agricoles placés sous le régime réel simplifié d'imposition à la taxe sur la valeur ajoutée sont tenus de souscrire un document en double exemplaire faisant apparaître la répartition, par type de production agricole, du montant des opérations qu'ils ont réalisées au cours de l'année écoulée, ainsi que de la valeur des acquisitions de biens et services, ouvrant droit à déduction de la taxe, effectuées au cours de la même période.II. Un exemplaire de ce document dont le modèle est fixé par l'administration est annexé :- soit à la déclaration prévue à l'article 298 bis I-1° du code général des impôts ;- soit à la dernière des déclarations trimestrielles de l'année, prévues à l'article 1693 bis du code général des impôts.L'autre exemplaire est adressé, par l'exploitant, à la direction départementale de l'agriculture dans le ressort de laquelle est situé le service des impôts destinataire des déclarations de chiffres d'affaires.",
+      "valid_from": "1983-01-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "I. Paragraphe modificateurII. Les dispositions du présent article s'appliquent pour la première fois pour la détermination des bénéfices imposables au titre de l'année 1982."
+      "content": "I. Paragraphe modificateurII. Les dispositions du présent article s'appliquent pour la première fois pour la détermination des bénéfices imposables au titre de l'année 1982.",
+      "valid_from": "1982-01-01"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "L'application des dispositions de l'article 18, paragraphe II, de la loi de finances pour 1967, n° 66-935 du 17 décembre 1966, est suspendue pour quatre années à compter du 1er janvier 1982."
+      "content": "L'application des dispositions de l'article 18, paragraphe II, de la loi de finances pour 1967, n° 66-935 du 17 décembre 1966, est suspendue pour quatre années à compter du 1er janvier 1982.",
+      "valid_from": "1982-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

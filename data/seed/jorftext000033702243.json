@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le Gouvernement remet au Parlement, au plus tard trois mois après la promulgation de la présente loi, un rapport qui permet de déterminer :1° Le coût pour l'Etat et pour les services départementaux d'incendie et de secours, en 2015 et 2016, de la prestation de fidélisation et de reconnaissance créée par la loi n° 2004-811 du 13 août 2004 de modernisation de la sécurité civile et modifiée par la présente loi ;2° Le coût que représenterait un abaissement à quinze ans de volontariat de l'éligibilité au dispositif de la prestation de fidélisation et de reconnaissance prévu aux articles 15-1 à 15-14 de la loi n° 96-370 du 3 mai 1996 relative au développement du volontariat dans les corps de sapeurs-pompiers, dans sa rédaction résultant de la présente loi ;3° Le coût que représenterait une revalorisation de 10 % des rentes existantes ;4° Les conditions de l'inscription dans le compte personnel d'activité ouvert aux sapeurs-pompiers volontaires de la prestation de fidélisation et de reconnaissance."
+      "content": "Le Gouvernement remet au Parlement, au plus tard trois mois après la promulgation de la présente loi, un rapport qui permet de déterminer :1° Le coût pour l'Etat et pour les services départementaux d'incendie et de secours, en 2015 et 2016, de la prestation de fidélisation et de reconnaissance créée par la loi n° 2004-811 du 13 août 2004 de modernisation de la sécurité civile et modifiée par la présente loi ;2° Le coût que représenterait un abaissement à quinze ans de volontariat de l'éligibilité au dispositif de la prestation de fidélisation et de reconnaissance prévu aux articles 15-1 à 15-14 de la loi n° 96-370 du 3 mai 1996 relative au développement du volontariat dans les corps de sapeurs-pompiers, dans sa rédaction résultant de la présente loi ;3° Le coût que représenterait une revalorisation de 10 % des rentes existantes ;4° Les conditions de l'inscription dans le compte personnel d'activité ouvert aux sapeurs-pompiers volontaires de la prestation de fidélisation et de reconnaissance.",
+      "valid_from": "2016-12-29"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "II.-Le I entre en vigueur le 1er janvier 2016."
+      "content": "II.-Le I entre en vigueur le 1er janvier 2016.",
+      "valid_from": "2016-12-29"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "II. - Le I entre en vigueur le 1er janvier 2016."
+      "content": "II. - Le I entre en vigueur le 1er janvier 2016.",
+      "valid_from": "2016-12-29"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "II. - Le I entre en vigueur le 1er janvier 2016."
+      "content": "II. - Le I entre en vigueur le 1er janvier 2016.",
+      "valid_from": "2016-12-29"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "La ventilation par département du montant de la fraction de taxe spéciale sur les conventions d'assurance afférente aux véhicules terrestres à moteur, versée au conseil départemental sur la base du cinquième alinéa du I de l'article 53 de la loi n° 2004-1484 du 30 décembre 2004 de finances pour 2005, fait l'objet d'une publication annuelle annexée au projet de loi de finances. Cette publication précise, pour chaque département, le montant estimé pour l'exercice au titre duquel le projet de loi de finances est présenté ainsi que pour l'exercice en cours, et le montant définitivement versé au titre de l'exercice précédant l'exercice en cours."
+      "content": "La ventilation par département du montant de la fraction de taxe spéciale sur les conventions d'assurance afférente aux véhicules terrestres à moteur, versée au conseil départemental sur la base du cinquième alinéa du I de l'article 53 de la loi n° 2004-1484 du 30 décembre 2004 de finances pour 2005, fait l'objet d'une publication annuelle annexée au projet de loi de finances. Cette publication précise, pour chaque département, le montant estimé pour l'exercice au titre duquel le projet de loi de finances est présenté ainsi que pour l'exercice en cours, et le montant définitivement versé au titre de l'exercice précédant l'exercice en cours.",
+      "valid_from": "2016-12-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

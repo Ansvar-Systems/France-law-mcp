@@ -9,16 +9,56 @@
   "description": null,
   "provisions": [
     {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "I. - Peuvent être immatriculés au registre international français :\n\n1° Les navires armés au commerce au long cours ou au cabotage international ;\n\n2° Les navires armés à la plaisance professionnelle de plus de 24 mètres hors tout.\n\nSont exclus du bénéfice du présent article :\n\n1° Les navires transporteurs de passagers assurant des lignes régulières intracommunautaires ou, selon une liste fixée par décret, des lignes régulières internationales ;\n\n2° Les navires exploités exclusivement au cabotage national ;\n\n3° Les navires d'assistance portuaire, notamment ceux affectés au remorquage portuaire, au dragage d'entretien, au lamanage, au pilotage et au balisage ;\n\n4° Les navires de pêche professionnelle.\n\nII. - Un décret détermine le port d'immatriculation ainsi que les modalités conjointes de francisation et d'immatriculation des navires au registre international français dans le cadre d'un guichet unique.",
+      "valid_from": "2006-01-06",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Les membres de l'équipage des navires immatriculés au registre international français sont ressortissants d'un Etat membre de la Communauté européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse dans une proportion minimale de 35 % calculée sur la fiche d'effectif. Toutefois, pour les navires ne bénéficiant pas ou plus du dispositif d'aide fiscale attribué au titre de leur acquisition, ce pourcentage est fixé à 25 %.\n\nA bord des navires immatriculés au registre international français, le capitaine et l'officier chargé de sa suppléance, qui peut être l'officier en chef mécanicien, garants de la sécurité du navire, de son équipage et de la protection de l'environnement ainsi que de la sûreté, sont ressortissants d'un Etat membre de la Communauté européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse. L'accès à ces fonctions est subordonné à la possession de qualifications professionnelles et à la vérification d'un niveau de connaissance de la langue française et des matières juridiques permettant la tenue des documents de bord et l'exercice des prérogatives de puissance publique dont le capitaine est investi. Un décret en Conseil d'Etat, pris après avis des organisations représentatives d'armateurs et de gens de mer intéressées, précise les conditions d'application de cette dernière disposition.",
+      "valid_from": "2008-04-09",
+      "valid_to": "2222-02-22"
+    },
+    {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "I. - Paragraphe modificateur.II. - Le budget de l'Etat compense la mesure ainsi prévue par abondement de la subvention d'équilibre à l'Etablissement national des invalides de la marine."
+      "content": "I. - Paragraphe modificateur.II. - Le budget de l'Etat compense la mesure ainsi prévue par abondement de la subvention d'équilibre à l'Etablissement national des invalides de la marine.",
+      "valid_from": "2010-11-03"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16",
+      "content": "Le travail des navigants est organisé sur la base de 8 heures par jour, 48 heures par semaine et 208 heures par mois. Pour des raisons d'exploitation, il peut être organisé sur une autre base journalière, dans la limite de 12 heures, dans des conditions fixées par conventions ou accords collectifs.\n\nLes durées minimales de repos sont déterminées dans les conditions suivantes :\n\n- les durées de repos ne peuvent être inférieures à 10 heures par période de 24 heures et 77 heures par période de sept jours ;\n\n- le repos quotidien peut être fractionné en deux périodes sous réserve qu'une d'entre elles ne soit pas inférieure à 6 heures et que l'intervalle entre deux périodes consécutives n'excède pas 14 heures.\n\nChaque heure de travail effectuée au-delà de 48 heures hebdomadaires est considérée comme une heure supplémentaire. Les parties au contrat d'engagement conviennent que chaque heure supplémentaire fait l'objet soit d'un repos équivalent, soit d'une rémunération majorée d'au moins 25 %.\n\nUn mode forfaitaire de rémunération du travail supplémentaire peut être convenu par accord collectif.\n\nUn tableau affiché à un endroit accessible précise l'organisation du travail et indique, pour chaque fonction, le programme du service à la mer et au port. Il est établi selon un modèle normalisé rédigé en langues française et anglaise.",
+      "valid_from": "2005-05-04",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Article 26",
+      "content": "I. - (Abrogé)\n\nII. - (Abrogé)\n\nIII. - Pour l'application des I et II, la protection sociale comprend :\n\n- en cas de maladie ou d'accident survenu au service du navire, la prise en charge intégrale des frais médicaux, d'hospitalisation et de rapatriement, ainsi qu'en cas de maladie, la compensation du salaire de base dans la limite de cent vingt jours et, en cas d'accident, la compensation du salaire de base jusqu'à la guérison ou jusqu'à l'intervention d'une décision médicale concernant l'incapacité permanente ;\n\n- en cas de décès consécutif à une maladie ou à un accident survenu au service du navire, le versement d'une indemnité de 60 000 au conjoint du marin ou, à défaut, à ses ayants droit et le versement d'une indemnité de 15 000 euros à chaque enfant à charge, âgé de moins de vingt et un ans, dans la limite de trois enfants ;\n\n- en cas de maternité de la femme navigante, la prise en charge des frais médicaux et d'hospitalisation correspondants et la compensation de son salaire de base pendant une durée de deux mois ;\n\n- en cas d'incapacité permanente consécutive à une maladie ou à un accident survenu au service du navire, le versement d'une rente viagère ou d'une indemnité proportionnelle à cette incapacité définies dans le contrat d'engagement ;\n\n- l'attribution d'une pension de vieillesse dont le niveau n'est pas inférieur, pour chaque année de service à la mer, pour une cessation d'activité à partir de l'âge de cinquante-cinq ans, à 1,5 % de la rémunération brute perçue chaque année par le marin ou, si la cessation a lieu à partir de l'âge de soixante ans, à 2 % de cette rémunération.",
+      "valid_from": "2005-05-04",
+      "valid_to": "2222-02-22"
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "Un rapport d'évaluation portant sur la mise en oeuvre de la présente loi est établi chaque année par le Gouvernement et soumis au Conseil supérieur de la marine marchande et à la Commission nationale de l'emploi maritime. Un rapport de synthèse établi dans les mêmes conditions est présenté au Parlement tous les trois ans, et pour la première fois avant le 31 mars 2007."
+      "content": "Un rapport d'évaluation portant sur la mise en oeuvre de la présente loi est établi chaque année par le Gouvernement et soumis au Conseil supérieur de la marine marchande et à la Commission nationale de l'emploi maritime. Un rapport de synthèse établi dans les mêmes conditions est présenté au Parlement tous les trois ans, et pour la première fois avant le 31 mars 2007.",
+      "valid_from": "2005-05-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

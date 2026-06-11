@@ -12,19 +12,28 @@
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Sont abrogés les articles L. 102, L. 103, L. 103-1 et le 3° de l'article L. 104 du code des postes et télécommunications, le quatrième alinéa de l'article 68 et le quatrième alinéa de l'article 74 du décret du 30 octobre 1935 précité et l'article 22 de la loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier."
+      "content": "Sont abrogés les articles L. 102, L. 103, L. 103-1 et le 3° de l'article L. 104 du code des postes et télécommunications, le quatrième alinéa de l'article 68 et le quatrième alinéa de l'article 74 du décret du 30 octobre 1935 précité et l'article 22 de la loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier.",
+      "valid_from": "1992-06-01"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Les articles 3 à 8 et 14 à 20 de la présente loi entreront en vigueur à une date fixée par décret en Conseil d'Etat, sans que celle-ci puisse être postérieure au 1er juin 1992.\n\nCes dispositions seront applicables aux incidents de paiement constatés à compter de cette date. Les titulaires de compte alors interdits d'émettre des chèques en application de l'article 65-3 du décret du 30 octobre 1935 précité pourront recouvrer la faculté d'émettre en satisfaisant à l'une des obligations prévues au 1° de l'article 65-3. A défaut, leur interdiction cessera de plein droit à l'expiration du délai d'un an initialement fixé. Toute violation d'une telle interdiction d'émettre est punie des peines prévues par l'article 66 du décret du 30 octobre 1935 précité.\n\nSi l'action publique a été engagée pour le délit d'émission de chèque sans provision avant la publication de la présente loi, la juridiction de jugement saisie demeure compétente pour statuer, le cas échéant, sur les intérêts civils."
+      "content": "Les articles 3 à 8 et 14 à 20 de la présente loi entreront en vigueur à une date fixée par décret en Conseil d'Etat, sans que celle-ci puisse être postérieure au 1er juin 1992.\n\nCes dispositions seront applicables aux incidents de paiement constatés à compter de cette date. Les titulaires de compte alors interdits d'émettre des chèques en application de l'article 65-3 du décret du 30 octobre 1935 précité pourront recouvrer la faculté d'émettre en satisfaisant à l'une des obligations prévues au 1° de l'article 65-3. A défaut, leur interdiction cessera de plein droit à l'expiration du délai d'un an initialement fixé. Toute violation d'une telle interdiction d'émettre est punie des peines prévues par l'article 66 du décret du 30 octobre 1935 précité.\n\nSi l'action publique a été engagée pour le délit d'émission de chèque sans provision avant la publication de la présente loi, la juridiction de jugement saisie demeure compétente pour statuer, le cas échéant, sur les intérêts civils.",
+      "valid_from": "1992-01-01"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "Un rapport sur l'application de cette loi sera remis au Parlement par le Gouvernement avant le 1er juin 1994."
+      "content": "Un rapport sur l'application de cette loi sera remis au Parlement par le Gouvernement avant le 1er juin 1994.",
+      "valid_from": "1992-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,7 +12,14 @@
       "provision_ref": "artUnique",
       "section": "Unique",
       "title": "Article Unique",
-      "content": "Les dispositions de la loi n° 48-777 du 4 mai 1948 sont applicables aux rentes constituées par les caisses autonomes mutualistes au profit des anciens combattants bénéficiaires de la loi du 4 août 1923 et des lois subséquentes."
+      "content": "Les dispositions de la loi n° 48-777 du 4 mai 1948 sont applicables aux rentes constituées par les caisses autonomes mutualistes au profit des anciens combattants bénéficiaires de la loi du 4 août 1923 et des lois subséquentes.",
+      "valid_from": "1948-06-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,25 +12,35 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Un rapport sur la mise en place des maisons d'assistants maternels est remis au Parlement dans les trois ans suivant la promulgation de la présente loi."
+      "content": "Un rapport sur la mise en place des maisons d'assistants maternels est remis au Parlement dans les trois ans suivant la promulgation de la présente loi.",
+      "valid_from": "2010-06-11"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "L'article 80 sexies du code général des impôts est applicable aux revenus professionnels liés à l'activité d'assistant maternel exerçant dans une maison d'assistants maternels, sauf si l'assistant maternel est salarié d'une personne morale de droit privé."
+      "content": "L'article 80 sexies du code général des impôts est applicable aux revenus professionnels liés à l'activité d'assistant maternel exerçant dans une maison d'assistants maternels, sauf si l'assistant maternel est salarié d'une personne morale de droit privé.",
+      "valid_from": "2010-06-11"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les maisons d'assistants maternels mentionnées à l'article L. 424-1 du code de l'action sociale et des familles ne sont pas des établissements au sens de l'article L. 233-2 du code rural et de la pêche maritime."
+      "content": "Les maisons d'assistants maternels mentionnées à l'article L. 424-1 du code de l'action sociale et des familles ne sont pas des établissements au sens de l'article L. 233-2 du code rural et de la pêche maritime.",
+      "valid_from": "2010-06-11"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Le Gouvernement remet au Parlement, avant le 30 juin 2011, un rapport dressant un premier bilan de la mise en œuvre du plan métiers de la petite enfance."
+      "content": "Le Gouvernement remet au Parlement, avant le 30 juin 2011, un rapport dressant un premier bilan de la mise en œuvre du plan métiers de la petite enfance.",
+      "valid_from": "2010-06-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

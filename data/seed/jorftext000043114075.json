@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions du I et, s'agissant des adjoints de sécurité, du III de l'article 45 de la loi du 17 juin 2020 susvisée sont rétablies à compter de la date d'entrée en vigueur de la présente ordonnance. Pour leur application, la période mentionnée au I de l'article 45 est celle comprise entre cette date et la fin de la période de l'état d'urgence sanitaire déclaré par le décret du 14 octobre 2020 susvisé et prorogé dans les conditions prévues à l'article L. 3131-14 du code de la santé publique augmentée d'une durée de six mois."
+      "content": "Les dispositions du I et, s'agissant des adjoints de sécurité, du III de l'article 45 de la loi du 17 juin 2020 susvisée sont rétablies à compter de la date d'entrée en vigueur de la présente ordonnance. Pour leur application, la période mentionnée au I de l'article 45 est celle comprise entre cette date et la fin de la période de l'état d'urgence sanitaire déclaré par le décret du 14 octobre 2020 susvisé et prorogé dans les conditions prévues à l'article L. 3131-14 du code de la santé publique augmentée d'une durée de six mois.",
+      "valid_from": "2021-02-12"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le Premier ministre, le ministre de l'intérieur, le ministre des outre-mer et la ministre de la transformation et de la fonction publiques sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'intérieur, le ministre des outre-mer et la ministre de la transformation et de la fonction publiques sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-02-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

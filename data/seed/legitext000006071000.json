@@ -1,0 +1,67 @@
+{
+  "id": "legitext000006071000",
+  "type": "statute",
+  "title": "Loi du 31 mars 1896",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071000/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les effets mobiliers apportés par le voyageur ayant logé chez un aubergiste, hôtelier ou logeur et par lui laissés en gage pour sûreté de sa dette, ou abandonnés au moment de son départ, peuvent être vendus dans les conditions et formes déterminées par les articles suivants.",
+      "valid_from": "1896-04-02"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Le dépositaire peut présenter au juge du   tribunal judiciaire ou au président du tribunal judiciaire, selon la valeur des effets mobiliers laissés en gage ou abandonnés, une requête qui énonce les faits, désigne les objets et en donne une évaluation approximative. La demande est portée devant la juridiction dans le ressort de laquelle sont situés les biens.\n\nL'ordonnance du juge, mis au bas de la requête, fixera le jour, l'heure, le lieu de la vente, qui ne pourra être faite que six mois après le départ constaté du voyageur.\n\nCette ordonnance fixera en outre la mise à prix des objets à vendre, commettra l'officier public qui devra y procéder et contiendra, s'il y a lieu, l'évaluation de la créance du requérant.\n\nL'officier public chargé de la vente fera ouvrir en présence du dépositaire, les malles, paquets ou autres sous fermeture quelconque et dressera de son opération procès-verbal, qui sera communiqué au juge.\n\nEn cas d'extrême urgence, le juge pourra autoriser la vente avant l'expiration du délai de six mois, et devra justifier, dans son ordonnance, des motifs de l'abréviation de ce délai.",
+      "valid_from": "2020-01-01"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La vente sera annoncée huit jours à l'avance par affiches apposées dans les lieux indiqués par le juge qui pourra même autoriser la vente après une ou plusieurs annonces à son de trompe.La publicité donnée à la vente sera constatée par une mention insérée au procès-verbal de vente.",
+      "valid_from": "1896-04-02"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "L'officier public commis par le juge préviendra huit jours à l'avance, par lettre recommandée, le voyageur des lieu, jour et heure de la vente, dans le cas où son domicile sera conu.La vente aura lieu aux enchères et il y sera procédé tant en l'absence qu'en présence du déposant.",
+      "valid_from": "1896-04-02"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Le propriétaire pourra s'opposer à la vente par exploit signifié au dépositaire. Cette opposition emportera de plein droit citation à comparaître à la première audience utile de la juridiction qui a autorisé la vente, nonobstant toute indication d'une audience ultérieure.",
+      "valid_from": "2013-01-01"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Sur le produit de la vente, et après le prélèvement des frais, l'officier public payera la créance du dépositaire. Le surplus sera versé à la Caisse des dépôts et consignations, au nom du propriétaire, par l'officier public, qui ne dressera aucun procès-verbal du dépôt. Il en retirera récépissé ; ce récépissé lui vaudra décharge.Si le produit de la vente est insuffisant pour couvrir les frais, le surplus sera payé par le dépositaire, sauf recours contre le déposant.Le montant de la consignation en principal et intérêts sera acquis de plein droit au Trésor public, deux ans après le dépôt, s'il n'y a eu, dans l'intervalle, réclamation de la part du propriétaire, de ses représentants ou de ses créanciers.",
+      "valid_from": "1896-04-02"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Les articles 624 et 625 du code de procédure civile sont applicables aux ventes prévues par la présente loi.Ces ventes seront faites conformément aux lois et règlements qui déterminent les attributions des officiers publics qui en seront chargés.",
+      "valid_from": "1896-04-02"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

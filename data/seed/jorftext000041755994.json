@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Pour l'appréciation de la responsabilité personnelle et pécuniaire des comptables publics, la période du 12 mars au 10 août 2020 inclus est constitutive d'une circonstance de la force majeure telle que prévue au V de l'article 60 de la loi du 23 février 1963 susvisée.Pour les opérations réalisées durant cette période, il n'est pas fait application des deux dernières phrases du troisième alinéa du même V."
+      "content": "Pour l'appréciation de la responsabilité personnelle et pécuniaire des comptables publics, la période du 12 mars au 10 août 2020 inclus est constitutive d'une circonstance de la force majeure telle que prévue au V de l'article 60 de la loi du 23 février 1963 susvisée.Pour les opérations réalisées durant cette période, il n'est pas fait application des deux dernières phrases du troisième alinéa du même V.",
+      "valid_from": "2020-05-15"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions de l'article 1er sont applicables dans les conditions définies au XIII du même article 60 de la loi du 23 février 1963."
+      "content": "Les dispositions de l'article 1er sont applicables dans les conditions définies au XIII du même article 60 de la loi du 23 février 1963.",
+      "valid_from": "2020-05-15"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Premier ministre et le ministre de l'action et des comptes publics sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre de l'action et des comptes publics sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-03-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

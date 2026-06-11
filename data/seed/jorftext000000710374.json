@@ -12,19 +12,28 @@
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "I. - L'article 26 de la loi n° 78-763 du 19 juillet 1978 précitée est abrogé.II. - Les sociétés dans lesquelles, en vertu des dispositions législatives ou réglementaires antérieures, les associés définis à l'article 3 bis de la loi n° 47-1775 du 10 septembre 1947 précitée disposant de plus de 35 p. 100 des droits de vote bénéficient d'un délai de cinq ans pour se mettre en conformité avec les dispositions de la présente loi."
+      "content": "I. - L'article 26 de la loi n° 78-763 du 19 juillet 1978 précitée est abrogé.II. - Les sociétés dans lesquelles, en vertu des dispositions législatives ou réglementaires antérieures, les associés définis à l'article 3 bis de la loi n° 47-1775 du 10 septembre 1947 précitée disposant de plus de 35 p. 100 des droits de vote bénéficient d'un délai de cinq ans pour se mettre en conformité avec les dispositions de la présente loi.",
+      "valid_from": "1992-07-14"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "L'article 30 de la loi n° 78-763 du 19 juillet 1978 précitée est abrogé."
+      "content": "L'article 30 de la loi n° 78-763 du 19 juillet 1978 précitée est abrogé.",
+      "valid_from": "1992-07-14"
     },
     {
       "provision_ref": "art40",
       "section": "40",
       "title": "Article 40",
-      "content": "L'article 12 de la loi n° 83-657 du 20 juillet 1983 précitée est abrogé."
+      "content": "L'article 12 de la loi n° 83-657 du 20 juillet 1983 précitée est abrogé.",
+      "valid_from": "1992-07-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

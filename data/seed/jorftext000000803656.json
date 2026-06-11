@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "L'acte dit loi du 13 août 1940 relative à l'organisation forestière est abrogé."
+      "content": "L'acte dit loi du 13 août 1940 relative à l'organisation forestière est abrogé.",
+      "valid_from": "2004-06-19"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, et le ministre de l'agriculture, de l'alimentation, de la pêche et des affaires rurales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, et le ministre de l'agriculture, de l'alimentation, de la pêche et des affaires rurales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2004-06-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

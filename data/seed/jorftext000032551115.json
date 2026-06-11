@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "I. - Est prorogé pour une durée de deux mois, à compter du 26 mai 2016, l'état d'urgence :\n\n- déclaré par le décret n° 2015-1475 du 14 novembre 2015 portant application de la loi n° 55-385 du 3 avril 1955 et le décret n° 2015-1493 du 18 novembre 2015 portant application outre-mer de la loi n° 55-385 du 3 avril 1955 ;- et prorogé par la loi n° 2015-1501 du 20 novembre 2015 prorogeant l'application de la loi n° 55-385 du 3 avril 1955 relative à l'état d'urgence et renforçant l'efficacité de ses dispositions, puis par la loi n° 2016-162 du 19 février 2016 prorogeant l'application de la loi n° 55-385 du 3 avril 1955 relative à l'état d'urgence.\n\nII. - Il peut y être mis fin par décret en conseil des ministres avant l'expiration de ce délai. En ce cas, il en est rendu compte au Parlement.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "I. - Est prorogé pour une durée de deux mois, à compter du 26 mai 2016, l'état d'urgence :\n\n- déclaré par le décret n° 2015-1475 du 14 novembre 2015 portant application de la loi n° 55-385 du 3 avril 1955 et le décret n° 2015-1493 du 18 novembre 2015 portant application outre-mer de la loi n° 55-385 du 3 avril 1955 ;- et prorogé par la loi n° 2015-1501 du 20 novembre 2015 prorogeant l'application de la loi n° 55-385 du 3 avril 1955 relative à l'état d'urgence et renforçant l'efficacité de ses dispositions, puis par la loi n° 2016-162 du 19 février 2016 prorogeant l'application de la loi n° 55-385 du 3 avril 1955 relative à l'état d'urgence.\n\nII. - Il peut y être mis fin par décret en conseil des ministres avant l'expiration de ce délai. En ce cas, il en est rendu compte au Parlement.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2016-05-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,25 +12,35 @@
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Les dispositions de la présente loi sont applicables aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.Les articles 9, 10 et 11 de la loi locale du 7 mai 1883 sur la police de la chasse sont abrogés."
+      "content": "Les dispositions de la présente loi sont applicables aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.Les articles 9, 10 et 11 de la loi locale du 7 mai 1883 sur la police de la chasse sont abrogés.",
+      "valid_from": "1975-07-01"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Des décrets en Conseil d'Etat déterminent, en tant que de besoin, les modalités d'application de la présente loi."
+      "content": "Des décrets en Conseil d'Etat déterminent, en tant que de besoin, les modalités d'application de la présente loi.",
+      "valid_from": "1975-07-01"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "La présente loi entrera en vigueur le 1er juillet 1975.Toutefois, jusqu'au 30 juin 1976 :Les permis de chasse délivrés avant le 30 juin 1975 pourront tenir lieu du permis de chasser sous réserve du visa et de la validation prévus par la loi :Les marins pêcheurs professionnels et les conchyliculteurs assimilés administrativement auxdits marins pourront pratiquer la chasse maritime s'ils sont en possession d'une autorisation délivrée gratuitement par l'administration des affaires maritimes."
+      "content": "La présente loi entrera en vigueur le 1er juillet 1975.Toutefois, jusqu'au 30 juin 1976 :Les permis de chasse délivrés avant le 30 juin 1975 pourront tenir lieu du permis de chasser sous réserve du visa et de la validation prévus par la loi :Les marins pêcheurs professionnels et les conchyliculteurs assimilés administrativement auxdits marins pourront pratiquer la chasse maritime s'ils sont en possession d'une autorisation délivrée gratuitement par l'administration des affaires maritimes.",
+      "valid_from": "1975-07-01"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "La présente loi n'est pas applicable au département de la Guyane."
+      "content": "La présente loi n'est pas applicable au département de la Guyane.",
+      "valid_from": "1975-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Le I entre en vigueur deux mois après la date de promulgation de la présente loi et, pour les conventions de délégation de service public relatives à la gestion des parcs de stationnement affectés à un usage public en cours à cette date d'entrée en vigueur, à compter de leur renouvellement.\n\n- Code de l'action sociale et des familles"
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Le I entre en vigueur deux mois après la date de promulgation de la présente loi et, pour les conventions de délégation de service public relatives à la gestion des parcs de stationnement affectés à un usage public en cours à cette date d'entrée en vigueur, à compter de leur renouvellement.\n\n- Code de l'action sociale et des familles",
+      "valid_from": "2015-03-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

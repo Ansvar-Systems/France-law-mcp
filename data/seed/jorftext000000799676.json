@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les autorisations délivrées sur le fondement de l'article L. 512-1 du code de l'environnement avant la publication de la présente ordonnance tiennent lieu de l'autorisation d'émettre des gaz à effet de serre prévue au premier alinéa de l'article L. 229-6 de ce code."
+      "content": "Les autorisations délivrées sur le fondement de l'article L. 512-1 du code de l'environnement avant la publication de la présente ordonnance tiennent lieu de l'autorisation d'émettre des gaz à effet de serre prévue au premier alinéa de l'article L. 229-6 de ce code.",
+      "valid_from": "2004-04-17"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'économie, des finances et de l'industrie, et le ministre de l'écologie et du développement durable sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'économie, des finances et de l'industrie, et le ministre de l'écologie et du développement durable sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2004-04-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

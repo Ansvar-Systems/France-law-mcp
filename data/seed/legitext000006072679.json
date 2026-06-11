@@ -1,0 +1,32 @@
+{
+  "id": "legitext000006072679",
+  "type": "statute",
+  "title": "Loi du 21 avril 1932",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072679/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La nature, la qualité, la quantité, la valeur, le lieu de situation des produits qui doivent servir de gage pour l'emprunt, le montant des sommes empruntées, ainsi que les clauses et conditions particulières relatives au warrant pétrolier, arrêtées entre les parties.",
+      "valid_from": "2000-09-21"
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Article 18",
+      "content": "Les titulaires d'autorisations d'importation de pétrole brut, ou de dérivés et résidus du pétrole brut pourront se prévaloir des dispositions du titre Ier de la loi du 13 mars 1917, c'est-à-dire constituer entre eux, et dans le cadre de cette loi, des sociétés de caution mutuelle.",
+      "valid_from": "1932-04-22"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

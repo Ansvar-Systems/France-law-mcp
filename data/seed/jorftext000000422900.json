@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 2004-1391 du 20 décembre 2004 relative à la partie législative du code du tourisme est ratifiée."
+      "content": "L'ordonnance n° 2004-1391 du 20 décembre 2004 relative à la partie législative du code du tourisme est ratifiée.",
+      "valid_from": "2006-04-15"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. - Paragraphe modificateur.II. - Paragraphe modificateur.III. - Paragraphe modificateur.IV. - Paragraphe modificateur.IV. 3. Les modifications prévues aux 1 et 2 entrent en vigueur à l'expiration du délai prévu par le VII.V. - Paragraphe modificateur.VI. - Paragraphe modificateur.VII. - Les dispositions de la section 2 du chapitre III du titre III du livre Ier du code du tourisme dans sa rédaction résultant de la présente loi entrent en vigueur dans un délai de six mois à compter de la publication du décret mentionné à l'article L. 133-18 du même code."
+      "content": "I. - Paragraphe modificateur.II. - Paragraphe modificateur.III. - Paragraphe modificateur.IV. - Paragraphe modificateur.IV. 3. Les modifications prévues aux 1 et 2 entrent en vigueur à l'expiration du délai prévu par le VII.V. - Paragraphe modificateur.VI. - Paragraphe modificateur.VII. - Les dispositions de la section 2 du chapitre III du titre III du livre Ier du code du tourisme dans sa rédaction résultant de la présente loi entrent en vigueur dans un délai de six mois à compter de la publication du décret mentionné à l'article L. 133-18 du même code.",
+      "valid_from": "2006-04-15"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "I. - Paragraphe modificateur.II. 1. - Paragraphe modificateur.II. 2. Les sociétés existantes à la date de promulgation de la présente loi se mettent en conformité avec les dispositions du chapitre III du titre IV du livre II du code du tourisme avant le 31 décembre 2007."
+      "content": "I. - Paragraphe modificateur.II. 1. - Paragraphe modificateur.II. 2. Les sociétés existantes à la date de promulgation de la présente loi se mettent en conformité avec les dispositions du chapitre III du titre IV du livre II du code du tourisme avant le 31 décembre 2007.",
+      "valid_from": "2006-04-15"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "I. - L'ordonnance n° 2005-174 du 24 février 2005 relative à l'organisation et à la vente de voyages et de séjours est ratifiée.II. - Paragraphe modificateur."
+      "content": "I. - L'ordonnance n° 2005-174 du 24 février 2005 relative à l'organisation et à la vente de voyages et de séjours est ratifiée.II. - Paragraphe modificateur.",
+      "valid_from": "2006-04-15"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "Les dispositions mentionnées au 10° de l'article 5 de l'ordonnance n° 2004-1391 du 20 décembre 2004 relative à la partie législative du code du tourisme sont rétablies à compter du 1er janvier 2005."
+      "content": "Les dispositions mentionnées au 10° de l'article 5 de l'ordonnance n° 2004-1391 du 20 décembre 2004 relative à la partie législative du code du tourisme sont rétablies à compter du 1er janvier 2005.",
+      "valid_from": "2006-04-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

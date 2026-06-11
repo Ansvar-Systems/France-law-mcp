@@ -12,19 +12,28 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I à VI-A modifié les dispositions suivantes :\n\nVII.-L'ordonnance n° 2017-1387 du 22 septembre 2017 susvisée est ainsi modifiée :1° Au premier alinéa de l'article 3, les mots : Le livre Ier de la première partie sont remplacés par les mots : La première partie ;2° Le II de l'article 17 est abrogé et à la première phrase du même article, le I est supprimé.VIII.-L'ordonnance du 25 octobre 2017 susvisée est ainsi modifiée :1° Aux I et II de l'article 23, la référence : L. 811-2-1 est remplacée par la référence : L. 811-2-2 ;2° A l'article 32, les mots : Les 16° à 19° de l'article L. 1521-2-2, l'article L. 4821-2 sont remplacés par les mots : Les 15° à 18° de l'article L. 1521-2-2,.\n\n-LOI n° 2011-893 du 28 juillet 2011\n\n-LOI n° 2016-1321 du 7 octobre 2016\n\n-LOI n° 2015-994 du 17 août 2015\n\n-Ordonnance n° 2017-1385 du 22 septembre 2017\n\n-Ordonnance n° 2017-1386 du 22 septembre 2017\n\n-Ordonnance n° 2017-1387 du 22 septembre 2017"
+      "content": "I à VI-A modifié les dispositions suivantes :\n\nVII.-L'ordonnance n° 2017-1387 du 22 septembre 2017 susvisée est ainsi modifiée :1° Au premier alinéa de l'article 3, les mots : Le livre Ier de la première partie sont remplacés par les mots : La première partie ;2° Le II de l'article 17 est abrogé et à la première phrase du même article, le I est supprimé.VIII.-L'ordonnance du 25 octobre 2017 susvisée est ainsi modifiée :1° Aux I et II de l'article 23, la référence : L. 811-2-1 est remplacée par la référence : L. 811-2-2 ;2° A l'article 32, les mots : Les 16° à 19° de l'article L. 1521-2-2, l'article L. 4821-2 sont remplacés par les mots : Les 15° à 18° de l'article L. 1521-2-2,.\n\n-LOI n° 2011-893 du 28 juillet 2011\n\n-LOI n° 2016-1321 du 7 octobre 2016\n\n-LOI n° 2015-994 du 17 août 2015\n\n-Ordonnance n° 2017-1385 du 22 septembre 2017\n\n-Ordonnance n° 2017-1386 du 22 septembre 2017\n\n-Ordonnance n° 2017-1387 du 22 septembre 2017",
+      "valid_from": "2017-12-22"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I.-Les dispositions de l'article L. 2261-23-1 du code du travail, dans sa rédaction issue de l'ordonnance n° 2017-1385 du 22 septembre 2017 susvisée, s'appliquent aux conventions et accords conclus postérieurement à la date de publication de l'ordonnance susmentionnée.II.-Les dispositions du dernier alinéa de l'article L. 2261-25 du code du travail, dans sa rédaction issue de l'ordonnance n° 2017-1388 du 22 septembre 2017 susvisée, s'appliquent aux conventions et accords quelle que soit la date à laquelle ils ont été conclus.III.-A modifié les dispositions suivantes :\n\nIV.-Les dispositions prévues au c du 121° et au 122° du I de l'article 1er de la présente ordonnance sont applicables aux demandes formées à compter de la date de sa publication.\n\n-Ordonnance n° 2017-1386 du 22 septembre 2017"
+      "content": "I.-Les dispositions de l'article L. 2261-23-1 du code du travail, dans sa rédaction issue de l'ordonnance n° 2017-1385 du 22 septembre 2017 susvisée, s'appliquent aux conventions et accords conclus postérieurement à la date de publication de l'ordonnance susmentionnée.II.-Les dispositions du dernier alinéa de l'article L. 2261-25 du code du travail, dans sa rédaction issue de l'ordonnance n° 2017-1388 du 22 septembre 2017 susvisée, s'appliquent aux conventions et accords quelle que soit la date à laquelle ils ont été conclus.III.-A modifié les dispositions suivantes :\n\nIV.-Les dispositions prévues au c du 121° et au 122° du I de l'article 1er de la présente ordonnance sont applicables aux demandes formées à compter de la date de sa publication.\n\n-Ordonnance n° 2017-1386 du 22 septembre 2017",
+      "valid_from": "2017-12-22"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre et la ministre du travail sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre du travail sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-12-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

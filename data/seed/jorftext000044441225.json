@@ -12,43 +12,56 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. - Les membres du Haut Conseil des finances publiques mentionnés au 2° du I de l'article 61 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances sont nommés après audition publique conjointe devant les commissions parlementaires permanentes chargées des finances et des affaires sociales de l'assemblée concernée.II. - L'ensemble des membres nommés au titre du 1° du I de l'article 61 de la loi organique n° 2001-692 du 1er août 2001 précitée et l'ensemble des membres nommés au titre du 2° du même I comprennent autant de femmes que d'hommes.Lors de chaque renouvellement des membres nommés au titre des 2° et 3° dudit I, le membre succédant à une femme est un homme et celui succédant à un homme est une femme. Le remplaçant d'un membre nommé au titre des 1°, 2° ou 3° du même I est de même sexe que ce dernier."
+      "content": "I. - Les membres du Haut Conseil des finances publiques mentionnés au 2° du I de l'article 61 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances sont nommés après audition publique conjointe devant les commissions parlementaires permanentes chargées des finances et des affaires sociales de l'assemblée concernée.II. - L'ensemble des membres nommés au titre du 1° du I de l'article 61 de la loi organique n° 2001-692 du 1er août 2001 précitée et l'ensemble des membres nommés au titre du 2° du même I comprennent autant de femmes que d'hommes.Lors de chaque renouvellement des membres nommés au titre des 2° et 3° dudit I, le membre succédant à une femme est un homme et celui succédant à un homme est une femme. Le remplaçant d'un membre nommé au titre des 1°, 2° ou 3° du même I est de même sexe que ce dernier.",
+      "valid_from": "2021-12-08"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le président du Haut Conseil des finances publiques est entendu à tout moment à la demande des commissions de l'Assemblée nationale ou du Sénat."
+      "content": "Le président du Haut Conseil des finances publiques est entendu à tout moment à la demande des commissions de l'Assemblée nationale ou du Sénat.",
+      "valid_from": "2021-12-08"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Haut Conseil des finances publiques établit et rend public son règlement intérieur, qui précise les conditions dans lesquelles son président peut déléguer ses attributions."
+      "content": "Le Haut Conseil des finances publiques établit et rend public son règlement intérieur, qui précise les conditions dans lesquelles son président peut déléguer ses attributions.",
+      "valid_from": "2021-12-08"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Si, dans l'avis mentionné au V de l'article 62 de la loi organique n° 2001-692 du 1er août 2001 précitée, le Haut Conseil des finances publiques constate une importante distorsion affectant les prévisions macroéconomiques sur une période d'au moins quatre années consécutives, le Gouvernement tient compte de cette distorsion dans le prochain projet de loi de finances de l'année. Un rapport annexé au prochain projet de loi de finances de l'année analyse les mesures de corrections envisagées."
+      "content": "Si, dans l'avis mentionné au V de l'article 62 de la loi organique n° 2001-692 du 1er août 2001 précitée, le Haut Conseil des finances publiques constate une importante distorsion affectant les prévisions macroéconomiques sur une période d'au moins quatre années consécutives, le Gouvernement tient compte de cette distorsion dans le prochain projet de loi de finances de l'année. Un rapport annexé au prochain projet de loi de finances de l'année analyse les mesures de corrections envisagées.",
+      "valid_from": "2021-12-08"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- LOI n°2008-759 du 1er août 2008\n\nII. - Le I du présent article entre en vigueur lors du dépôt du projet de loi de finances pour l'année 2023."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- LOI n°2008-759 du 1er août 2008\n\nII. - Le I du présent article entre en vigueur lors du dépôt du projet de loi de finances pour l'année 2023.",
+      "valid_from": "2021-12-08"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I.-A modifié les dispositions suivantes :\n\n- Code des juridictions financières\n\nII.-Le 4° du I entre en vigueur lors du prochain renouvellement des membres du Conseil des prélèvements obligatoires.Le 5° du même I est applicable au mandat des membres du Conseil des prélèvements obligatoires en cours lors de la publication de la présente loi."
+      "content": "I.-A modifié les dispositions suivantes :\n\n- Code des juridictions financières\n\nII.-Le 4° du I entre en vigueur lors du prochain renouvellement des membres du Conseil des prélèvements obligatoires.Le 5° du même I est applicable au mandat des membres du Conseil des prélèvements obligatoires en cours lors de la publication de la présente loi.",
+      "valid_from": "2021-12-08"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "A modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- LOI n° 2018-32 du 22 janvier 2018"
+      "content": "A modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- LOI n° 2018-32 du 22 janvier 2018",
+      "valid_from": "2021-12-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

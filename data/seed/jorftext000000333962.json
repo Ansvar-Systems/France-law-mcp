@@ -12,19 +12,28 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Il sera procédé, dans un délai maximum d'un an à compter de la promulgation de la présente loi, à la revision du taux d'invalidité des sapeurs-pompiers non professionnels titulaires d'une pension d'invalidité au titre de l'article 13 de la loi de finances rectificative n° 62-873 du 31 juillet 1962. Dans un délai dont la durée est fixée par décret, l'intéressé peut opter pour le maintien des avantages acquis au titre de ladite loi."
+      "content": "Il sera procédé, dans un délai maximum d'un an à compter de la promulgation de la présente loi, à la revision du taux d'invalidité des sapeurs-pompiers non professionnels titulaires d'une pension d'invalidité au titre de l'article 13 de la loi de finances rectificative n° 62-873 du 31 juillet 1962. Dans un délai dont la durée est fixée par décret, l'intéressé peut opter pour le maintien des avantages acquis au titre de ladite loi.",
+      "valid_from": "1975-12-30"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les dispositions de l'article 13 de la loi n° 62-873 du 31 juillet 1962 sont abrogées."
+      "content": "Les dispositions de l'article 13 de la loi n° 62-873 du 31 juillet 1962 sont abrogées.",
+      "valid_from": "1975-12-30"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Les modalités d'application de la présente loi sont fixées par décret en Conseil d'Etat."
+      "content": "Les modalités d'application de la présente loi sont fixées par décret en Conseil d'Etat.",
+      "valid_from": "1975-12-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

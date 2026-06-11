@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont abrogés, pour le territoire métropolitain, les textes législatifs annexés (annexes non reproduites) à la présente loi auxquels se sont substitués le code des pensions militaires d'invalidité et des victimes de la guerre, le code des pensions civiles et militaires de retraite, le code des instruments monétaires et des médailles, le code des caisses d'épargne, le code de l'artisanat, le code des postes, télégraphes et téléphones, le code de la santé publique, le code de l'urbanisme et de l'habitation, le code des mesures concernant les débits de boissons et la lutte contre l'alcoolisme, le code rural, le code de la mutualité, le code de l'aviation civile et commerciale, le code de la famille et de l'aide sociale, le code de l'industrie cinématographique, le code des ports maritimes.Les dispositions contenues dans ces codes ont force de loi à compter de la date de publication de la présente loi."
+      "content": "Sont abrogés, pour le territoire métropolitain, les textes législatifs annexés (annexes non reproduites) à la présente loi auxquels se sont substitués le code des pensions militaires d'invalidité et des victimes de la guerre, le code des pensions civiles et militaires de retraite, le code des instruments monétaires et des médailles, le code des caisses d'épargne, le code de l'artisanat, le code des postes, télégraphes et téléphones, le code de la santé publique, le code de l'urbanisme et de l'habitation, le code des mesures concernant les débits de boissons et la lutte contre l'alcoolisme, le code rural, le code de la mutualité, le code de l'aviation civile et commerciale, le code de la famille et de l'aide sociale, le code de l'industrie cinématographique, le code des ports maritimes.Les dispositions contenues dans ces codes ont force de loi à compter de la date de publication de la présente loi.",
+      "valid_from": "1958-04-05"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions qui précèdent ne sont applicables aux départements dans lesquels une législation locale est actuellement en vigueur que dans la mesure où elles ne dérogent pas à cette législation."
+      "content": "Les dispositions qui précèdent ne sont applicables aux départements dans lesquels une législation locale est actuellement en vigueur que dans la mesure où elles ne dérogent pas à cette législation.",
+      "valid_from": "1958-04-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

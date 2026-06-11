@@ -12,7 +12,14 @@
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Tous les actes pris en application de la convention nationale des médecins conclue le 9 mars 1990 sont validés jusqu'à l'approbation d'une nouvelle convention et au plus tard jusqu'au 28 novembre 1993."
+      "content": "Tous les actes pris en application de la convention nationale des médecins conclue le 9 mars 1990 sont validés jusqu'à l'approbation d'une nouvelle convention et au plus tard jusqu'au 28 novembre 1993.",
+      "valid_from": "1994-01-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,31 +12,42 @@
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Sont validées les décisions de la Commission nationale de la communication et des libertés autorisant l'usage de fréquences pour l'extension de la zone de couverture des services nationaux de télévision par voie hertzienne terrestre en tant qu'elles n'ont pas été précédées d'un appel à candidatures ou que l'appel à candidatures a été limité à ces services.Cette validation n'est pas susceptible d'ouvrir droit à réparation. Elle ne s'applique pas aux décisions ayant fait l'objet d'une décision de justice passée en force de chose jugée."
+      "content": "Sont validées les décisions de la Commission nationale de la communication et des libertés autorisant l'usage de fréquences pour l'extension de la zone de couverture des services nationaux de télévision par voie hertzienne terrestre en tant qu'elles n'ont pas été précédées d'un appel à candidatures ou que l'appel à candidatures a été limité à ces services.Cette validation n'est pas susceptible d'ouvrir droit à réparation. Elle ne s'applique pas aux décisions ayant fait l'objet d'une décision de justice passée en force de chose jugée.",
+      "valid_from": "1989-01-18"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Des contrats d'objectifs, annuels ou pluriannuels, peuvent être conclus entre les organismes du secteur public de la communication audiovisuelle et l'Etat. Ces contrats d'objectifs sont communiqués à l'Autorité de régulation de la communication audiovisuelle et numérique."
+      "content": "Des contrats d'objectifs, annuels ou pluriannuels, peuvent être conclus entre les organismes du secteur public de la communication audiovisuelle et l'Etat. Ces contrats d'objectifs sont communiqués à l'Autorité de régulation de la communication audiovisuelle et numérique.",
+      "valid_from": "2021-10-27"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Le Gouvernement déposera sur les bureaux des deux assemblées un rapport sur les analyses et propositions relatives à l'avenir du secteur public de l'audiovisuel. Ce rapport fera l'objet d'un débat d'orientation au Parlement lors de la première session ordinaire de 1989-1990."
+      "content": "Le Gouvernement déposera sur les bureaux des deux assemblées un rapport sur les analyses et propositions relatives à l'avenir du secteur public de l'audiovisuel. Ce rapport fera l'objet d'un débat d'orientation au Parlement lors de la première session ordinaire de 1989-1990.",
+      "valid_from": "1989-01-18"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "Dans la loi n° 86-1067 du 30 septembre 1986 précitée et dans les textes législatifs et les textes pris pour leur application, en vigueur, la référence à la Commission nationale de la communication et des libertés est remplacée par la référence au Conseil supérieur de l'audiovisuel."
+      "content": "Dans la loi n° 86-1067 du 30 septembre 1986 précitée et dans les textes législatifs et les textes pris pour leur application, en vigueur, la référence à la Commission nationale de la communication et des libertés est remplacée par la référence au Conseil supérieur de l'audiovisuel.",
+      "valid_from": "1989-01-18"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "La présente loi est applicable aux territoires d'outre-mer et à Mayotte."
+      "content": "La présente loi est applicable aux territoires d'outre-mer et à Mayotte.",
+      "valid_from": "2001-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

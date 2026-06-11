@@ -12,31 +12,42 @@
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Les écarts de conversion des devises ainsi que des créances et dettes libellées en monnaies étrangères par rapport aux montants initialement comptabilisés sont déterminés à la clôture de chaque exercice en fonction du dernier cours de change et pris en compte pour la détermination du résultat imposable de l'exercice.Ces dispositions s'appliquent pour la détermination des résultats des exercices clos à compter du 31 décembre 1983."
+      "content": "Les écarts de conversion des devises ainsi que des créances et dettes libellées en monnaies étrangères par rapport aux montants initialement comptabilisés sont déterminés à la clôture de chaque exercice en fonction du dernier cours de change et pris en compte pour la détermination du résultat imposable de l'exercice.Ces dispositions s'appliquent pour la détermination des résultats des exercices clos à compter du 31 décembre 1983.",
+      "valid_from": "1983-12-28"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "La dissolution des organismes publics ou privés membres du groupement d'intérêt économique dénommé \"groupement d'études et de recherches pour le développement de l'agronomie tropicale (G.E.R.D.A.T.)\" et de ce groupement lui-même ainsi que le transfert de tous les biens, droits et obligations de ces organismes et de ce groupement au profit d'un établissement public de l'Etat sont exonérés de tous droits ou taxes."
+      "content": "La dissolution des organismes publics ou privés membres du groupement d'intérêt économique dénommé \"groupement d'études et de recherches pour le développement de l'agronomie tropicale (G.E.R.D.A.T.)\" et de ce groupement lui-même ainsi que le transfert de tous les biens, droits et obligations de ces organismes et de ce groupement au profit d'un établissement public de l'Etat sont exonérés de tous droits ou taxes.",
+      "valid_from": "1983-12-28"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "A compter du 1er janvier 1984, dans les départements de Martinique, de Guadeloupe, de la Réunion et de Guyane, le tarif de la cotisation sur les boissons alcooliques, prévu au IV de l'article 26 de la loi n° 83-25 du 19 janvier 1983 portant diverses mesures relatives à la sécurité sociale, est fixé à 0,25 F par décilitre ou fraction de décilitre, pour les rhums, tafias et spiritueux composés à base d'alcool de cru produits et consommés sur place."
+      "content": "A compter du 1er janvier 1984, dans les départements de Martinique, de Guadeloupe, de la Réunion et de Guyane, le tarif de la cotisation sur les boissons alcooliques, prévu au IV de l'article 26 de la loi n° 83-25 du 19 janvier 1983 portant diverses mesures relatives à la sécurité sociale, est fixé à 0,25 F par décilitre ou fraction de décilitre, pour les rhums, tafias et spiritueux composés à base d'alcool de cru produits et consommés sur place.",
+      "valid_from": "1983-12-28"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Alinéas modificateursCes dispositions seront applicables à compter du 1er juillet 1984."
+      "content": "Alinéas modificateursCes dispositions seront applicables à compter du 1er juillet 1984.",
+      "valid_from": "1984-07-01"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Les taux des taxes départementale et communale sur l'électricité, tels qu'ils sont établis à la date du 25 novembre 1983, ne pourront être majorés jusqu'au 31 décembre 1984."
+      "content": "Les taux des taxes départementale et communale sur l'électricité, tels qu'ils sont établis à la date du 25 novembre 1983, ne pourront être majorés jusqu'au 31 décembre 1984.",
+      "valid_from": "1983-12-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,31 +12,42 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les maires des communes sur lesquelles est créé le nouvel ensemble restent investis, dans cet ensemble, de leurs pouvoirs de police et de leurs pouvoirs d'officiers d'Etat Civil sous réserve des dispositions de l'article 57 du code de l'administration communale."
+      "content": "Les maires des communes sur lesquelles est créé le nouvel ensemble restent investis, dans cet ensemble, de leurs pouvoirs de police et de leurs pouvoirs d'officiers d'Etat Civil sous réserve des dispositions de l'article 57 du code de l'administration communale.",
+      "valid_from": "1959-01-10"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le secteur de commune est géré par une commission administrative composée, dans les conditions fixées par le décret en Conseil d'Etat prévu à l'article 8, de représentants des conseils municipaux intéressés, des habitants du nouvel ensemble et du ou des organismes constructeurs. La commission élit son président dans son sein."
+      "content": "Le secteur de commune est géré par une commission administrative composée, dans les conditions fixées par le décret en Conseil d'Etat prévu à l'article 8, de représentants des conseils municipaux intéressés, des habitants du nouvel ensemble et du ou des organismes constructeurs. La commission élit son président dans son sein.",
+      "valid_from": "1959-01-10"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le secteur de commune est soumis aux lois et règlements concernant la tutelle et la gestion financière et comptable des communes."
+      "content": "Le secteur de commune est soumis aux lois et règlements concernant la tutelle et la gestion financière et comptable des communes.",
+      "valid_from": "1977-02-03"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le secteur de commune est dissous soit en vertu de délibérations concordantes de sa commission administrative et du ou des conseils municipaux intéressés soit de plein droit à l'expiration du temps prévu à l'arrêté d'institution ou à l'achèvement des opérations pour lesquelles il avait été institué.\n\nLes conditions de la dissolution et de la dévolution des biens, droits et obligations sont fixées par le décret en Conseil d'Etat prévu à l'article 8."
+      "content": "Le secteur de commune est dissous soit en vertu de délibérations concordantes de sa commission administrative et du ou des conseils municipaux intéressés soit de plein droit à l'expiration du temps prévu à l'arrêté d'institution ou à l'achèvement des opérations pour lesquelles il avait été institué.\n\nLes conditions de la dissolution et de la dévolution des biens, droits et obligations sont fixées par le décret en Conseil d'Etat prévu à l'article 8.",
+      "valid_from": "1959-01-10"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Un décret en Conseil d'Etat déterminera les conditions d'application de la présente ordonnance et notamment le régime financier du secteur de commune."
+      "content": "Un décret en Conseil d'Etat déterminera les conditions d'application de la présente ordonnance et notamment le régime financier du secteur de commune.",
+      "valid_from": "1959-01-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. - A créé les dispositions suivantes :\n\nII. - Le I s'applique à compter du 1er septembre 2024, après recensement, par les agences régionales de santé, des modalités de prise en charge spécifiques mises en place par les établissements et les professionnels de santé de leur ressort pour accompagner les femmes et, le cas échéant, leur partenaire confrontés à une interruption spontanée de grossesse.\n\n- Code de la santé publique"
+      "content": "I. - A créé les dispositions suivantes :\n\nII. - Le I s'applique à compter du 1er septembre 2024, après recensement, par les agences régionales de santé, des modalités de prise en charge spécifiques mises en place par les établissements et les professionnels de santé de leur ressort pour accompagner les femmes et, le cas échéant, leur partenaire confrontés à une interruption spontanée de grossesse.\n\n- Code de la santé publique",
+      "valid_from": "2023-07-09"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I à IV. - A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nV. - Les I à IV du présent article sont applicables aux arrêts de travail prescrits à compter d'une date prévue par décret, et au plus tard du 1er janvier 2024.\n\n- LOI n° 2017-1837 du 30 décembre 2017\n\n- Code de la sécurité sociale.\n\n- Code rural et de la pêche maritime\n\n- Code de la sécurité sociale.\n\nArt. L323-1-2"
+      "content": "I à IV. - A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nV. - Les I à IV du présent article sont applicables aux arrêts de travail prescrits à compter d'une date prévue par décret, et au plus tard du 1er janvier 2024.\n\n- LOI n° 2017-1837 du 30 décembre 2017\n\n- Code de la sécurité sociale.\n\n- Code rural et de la pêche maritime\n\n- Code de la sécurité sociale.\n\nArt. L323-1-2",
+      "valid_from": "2023-07-09"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "A modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n-LOI n° 2021-1754 du 23 décembre 2021"
+      "content": "A modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n-LOI n° 2021-1754 du 23 décembre 2021",
+      "valid_from": "2023-07-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

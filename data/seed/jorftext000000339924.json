@@ -12,7 +12,14 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le conseil général fixe annuellement, sur proposition de la chambre professionnelle, le montant d'une taxe perçue au profit de cette dernière, additionnelle aux impôts locaux. La délibération du conseil général est soumise à l'approbation du représentant du Gouvernement.\n\nLa chambre professionnelle perçoit les produits d'exploitation des services qui lui sont concédés. Elle peut contracter des emprunts."
+      "content": "Le conseil général fixe annuellement, sur proposition de la chambre professionnelle, le montant d'une taxe perçue au profit de cette dernière, additionnelle aux impôts locaux. La délibération du conseil général est soumise à l'approbation du représentant du Gouvernement.\n\nLa chambre professionnelle perçoit les produits d'exploitation des services qui lui sont concédés. Elle peut contracter des emprunts.",
+      "valid_from": "1981-04-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

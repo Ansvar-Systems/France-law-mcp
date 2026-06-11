@@ -12,25 +12,35 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "I. - (Abrogé)II. - A modifié les dispositions suivantes :\n\n- Ordonnance n° 58-1270 du 22 décembre 1958"
+      "content": "I. - (Abrogé)II. - A modifié les dispositions suivantes :\n\n- Ordonnance n° 58-1270 du 22 décembre 1958",
+      "valid_from": "2023-01-01"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Par dérogation à l'article 31 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature, à compter du 1er janvier 2020, les magistrats chargés du service d'un tribunal d'instance siégeant dans une ville où siège un tribunal judiciaire sont nommés audit tribunal pour exercer les fonctions de juge des contentieux de la protection.Par dérogation au même article 31, à compter du 1er janvier 2020, les magistrats chargés du service d'un tribunal d'instance siégeant dans une ville où est créée une chambre de proximité d'un tribunal judiciaire sont nommés audit tribunal pour exercer les fonctions de juge des contentieux de la protection dans ladite chambre de proximité.Au sens de l'article 28-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 précitée, les magistrats mentionnés aux deux premiers alinéas du présent article sont réputés exercer ces fonctions depuis la date à laquelle ils ont été précédemment installés au tribunal de grande instance."
+      "content": "Par dérogation à l'article 31 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature, à compter du 1er janvier 2020, les magistrats chargés du service d'un tribunal d'instance siégeant dans une ville où siège un tribunal judiciaire sont nommés audit tribunal pour exercer les fonctions de juge des contentieux de la protection.Par dérogation au même article 31, à compter du 1er janvier 2020, les magistrats chargés du service d'un tribunal d'instance siégeant dans une ville où est créée une chambre de proximité d'un tribunal judiciaire sont nommés audit tribunal pour exercer les fonctions de juge des contentieux de la protection dans ladite chambre de proximité.Au sens de l'article 28-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 précitée, les magistrats mentionnés aux deux premiers alinéas du présent article sont réputés exercer ces fonctions depuis la date à laquelle ils ont été précédemment installés au tribunal de grande instance.",
+      "valid_from": "2020-01-01"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "A compter du 1er janvier 2020, les magistrats exerçant à titre temporaire poursuivent leur mandat, pour exercer les fonctions prévues à l'article 41-10 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature dans sa rédaction résultant de l'article 4 de la présente loi organique, au sein du tribunal judiciaire ayant succédé au tribunal de grande instance dans lequel ils ont été nommés."
+      "content": "A compter du 1er janvier 2020, les magistrats exerçant à titre temporaire poursuivent leur mandat, pour exercer les fonctions prévues à l'article 41-10 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature dans sa rédaction résultant de l'article 4 de la présente loi organique, au sein du tribunal judiciaire ayant succédé au tribunal de grande instance dans lequel ils ont été nommés.",
+      "valid_from": "2020-01-01"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Les articles 1er, 2, 4, 5, 6, 8 et 10 et le III de l'article 11 de la présente loi organique entrent en vigueur le 1er janvier 2020.Jusqu'au 31 décembre 2019, à l'article 38-2 de l'ordonnance n° 58-1270 du 22 décembre 1958 précitée, les mots : « tribunal judiciaire de Paris » s'entendent comme : « tribunal de grande instance de Paris ».La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Les articles 1er, 2, 4, 5, 6, 8 et 10 et le III de l'article 11 de la présente loi organique entrent en vigueur le 1er janvier 2020.Jusqu'au 31 décembre 2019, à l'article 38-2 de l'ordonnance n° 58-1270 du 22 décembre 1958 précitée, les mots : « tribunal judiciaire de Paris » s'entendent comme : « tribunal de grande instance de Paris ».La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2019-03-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

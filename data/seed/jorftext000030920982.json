@@ -12,19 +12,28 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les articles L. 123-13, L. 123-17, L. 123-19, L. 123-20, L. 232-1, L. 233-1, L. 233-2, L. 233-15 à L. 233-17-2, L. 233-22 à L. 233-25 et L. 247-1 du code de commerce sont applicables dans les îles Wallis et Futuna dans leur rédaction issue de la présente ordonnance."
+      "content": "Les articles L. 123-13, L. 123-17, L. 123-19, L. 123-20, L. 232-1, L. 233-1, L. 233-2, L. 233-15 à L. 233-17-2, L. 233-22 à L. 233-25 et L. 247-1 du code de commerce sont applicables dans les îles Wallis et Futuna dans leur rédaction issue de la présente ordonnance.",
+      "valid_from": "2016-01-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions de la présente ordonnance s'appliquent aux comptes afférents aux exercices ouverts à compter du 1er janvier 2016."
+      "content": "Les dispositions de la présente ordonnance s'appliquent aux comptes afférents aux exercices ouverts à compter du 1er janvier 2016.",
+      "valid_from": "2016-01-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, le ministre de l'économie, de l'industrie et du numérique et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, de l'industrie et du numérique et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

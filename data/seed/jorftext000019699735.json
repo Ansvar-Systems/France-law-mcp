@@ -12,13 +12,21 @@
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "II. - Le présent article est applicable sur l'ensemble du territoire de la République."
+      "content": "II. - Le présent article est applicable sur l'ensemble du territoire de la République.",
+      "valid_from": "2008-10-30"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "Les dispositions de la présente loi entrent en vigueur le 1er janvier 2009, à l'exception du 1° de l'article 9.Toutefois, elles ne s'appliquent pas aux suites à donner aux procédures en cours ayant donné lieu à des décisions juridictionnelles prises à titre provisoire et notifiées avant le 1er janvier 2009.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Les dispositions de la présente loi entrent en vigueur le 1er janvier 2009, à l'exception du 1° de l'article 9.Toutefois, elles ne s'appliquent pas aux suites à donner aux procédures en cours ayant donné lieu à des décisions juridictionnelles prises à titre provisoire et notifiées avant le 1er janvier 2009.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2008-10-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

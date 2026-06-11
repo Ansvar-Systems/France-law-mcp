@@ -12,31 +12,42 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le représentant de l'Etat dans les départements de Guadeloupe, de Guyane, de Martinique et de la Réunion exerce les fonctions de représentant de l'Etat dans la région."
+      "content": "Le représentant de l'Etat dans les départements de Guadeloupe, de Guyane, de Martinique et de la Réunion exerce les fonctions de représentant de l'Etat dans la région.",
+      "valid_from": "1983-01-01"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Jusqu'à la publication de la loi fixant les règles d'élection des membres de l'ensemble des conseils régionaux, les membres des conseils régionaux de Guadeloupe, de Guyane, de Martinique et de la Réunion seront élus dans les conditions prévues par la présente loi, par les articles 4, 5, 12, à l'exception du dernier alinéa, 13 à 26 de la loi n° 82-214 du 2 mars 1982 et par le titre Ier du livre Ier du code électoral."
+      "content": "Jusqu'à la publication de la loi fixant les règles d'élection des membres de l'ensemble des conseils régionaux, les membres des conseils régionaux de Guadeloupe, de Guyane, de Martinique et de la Réunion seront élus dans les conditions prévues par la présente loi, par les articles 4, 5, 12, à l'exception du dernier alinéa, 13 à 26 de la loi n° 82-214 du 2 mars 1982 et par le titre Ier du livre Ier du code électoral.",
+      "valid_from": "1983-01-01"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Les fonctions de membre du bureau sont incompatibles avec la présidence ou la direction d'un établissement public ou d'un service mentionnés à l'article 7 de la présente loi.Le conseil régional peut déléguer l'exercice d'une partie de ses attributions au bureau, à l'exception de ses attributions budgétaires et financières et de celles qu'il tient des articles 8 et 9 ci-dessus."
+      "content": "Les fonctions de membre du bureau sont incompatibles avec la présidence ou la direction d'un établissement public ou d'un service mentionnés à l'article 7 de la présente loi.Le conseil régional peut déléguer l'exercice d'une partie de ses attributions au bureau, à l'exception de ses attributions budgétaires et financières et de celles qu'il tient des articles 8 et 9 ci-dessus.",
+      "valid_from": "1986-01-08"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Les établissements publics régionaux de Guadeloupe, de Guyane, de Martinique et de la Réunion seront dissous de plein droit à la date de la première réunion des conseils régionaux issus de l'élection prévue à l'article 19 de la présente loi.A la même date, l'ensemble de leurs biens, droits et obligations seront transférés aux régions."
+      "content": "Les établissements publics régionaux de Guadeloupe, de Guyane, de Martinique et de la Réunion seront dissous de plein droit à la date de la première réunion des conseils régionaux issus de l'élection prévue à l'article 19 de la présente loi.A la même date, l'ensemble de leurs biens, droits et obligations seront transférés aux régions.",
+      "valid_from": "1983-01-01"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Les modalités d'application de la présente loi seront fixées par décrets en Conseil d'Etat."
+      "content": "Les modalités d'application de la présente loi seront fixées par décrets en Conseil d'Etat.",
+      "valid_from": "1983-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

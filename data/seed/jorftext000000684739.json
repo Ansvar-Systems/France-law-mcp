@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions ci-après s'appliquent à la reconstitution des ouvrages, des installations, du matériel et de l'outillage de la Société nationale des chemins de fer français, détruits, disparus ou endommagés par suite de faits de guerre et des biens acquis par elle de tiers sinistrés, tels que ceux-ci sont définis par la législation générale des dommages de guerre.Les droits à indemnisation afférents à des biens sinistrés, cédés avant remise en état par la SNCF à des tiers, donneront lieu, au profit de ces derniers, après accord du ministre du logement et de la reconstruction, à l'application de la loi du 28 octobre 1946 et des textes subséquents."
+      "content": "Les dispositions ci-après s'appliquent à la reconstitution des ouvrages, des installations, du matériel et de l'outillage de la Société nationale des chemins de fer français, détruits, disparus ou endommagés par suite de faits de guerre et des biens acquis par elle de tiers sinistrés, tels que ceux-ci sont définis par la législation générale des dommages de guerre.Les droits à indemnisation afférents à des biens sinistrés, cédés avant remise en état par la SNCF à des tiers, donneront lieu, au profit de ces derniers, après accord du ministre du logement et de la reconstruction, à l'application de la loi du 28 octobre 1946 et des textes subséquents.",
+      "valid_from": "1954-09-17"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le plan de reconstitution des ouvrages et des installations détruits ou endommagés par suite de faits de guerre sera révisé par la Société nationale des chemins de fer français et arrêté par le ministre des travaux publics, des transports et du tourisme, après avis de la commission des investissements.Il déterminera les ouvrages et les installations à réparer ou à reconstruire et pourra comporter tous déplacements, modifications, regroupements ou suppressions jugés nécessaires dans l'avenir."
+      "content": "Le plan de reconstitution des ouvrages et des installations détruits ou endommagés par suite de faits de guerre sera révisé par la Société nationale des chemins de fer français et arrêté par le ministre des travaux publics, des transports et du tourisme, après avis de la commission des investissements.Il déterminera les ouvrages et les installations à réparer ou à reconstruire et pourra comporter tous déplacements, modifications, regroupements ou suppressions jugés nécessaires dans l'avenir.",
+      "valid_from": "1954-09-17"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "L'Etat prendra à sa charge 80 p. 100 du coût des travaux provisoires ou définitifs exécutés, dans le cadre prévu à l'article 2 ci-dessus, en vue de la reconstitution des installations fixes du chemin de fer, dans la mesure où ils seront admis, au titre de la reconstitution, par le ministre des travaux publics, des transports et du tourisme."
+      "content": "L'Etat prendra à sa charge 80 p. 100 du coût des travaux provisoires ou définitifs exécutés, dans le cadre prévu à l'article 2 ci-dessus, en vue de la reconstitution des installations fixes du chemin de fer, dans la mesure où ils seront admis, au titre de la reconstitution, par le ministre des travaux publics, des transports et du tourisme.",
+      "valid_from": "1954-09-17"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le matériel roulant et l'outillage disparus ou détruits par suite de faits de guerre seront déterminés, sur proposition de la Société nationale des chemins de fer français, par le ministre des travaux publics, des transports, et du tourisme, en tenant compte du matériel et de l'outillage récupérés au 1er Janvier 1950, déduction faite du matériel et de l'outillage hors d'âge au 1er janvier 1942."
+      "content": "Le matériel roulant et l'outillage disparus ou détruits par suite de faits de guerre seront déterminés, sur proposition de la Société nationale des chemins de fer français, par le ministre des travaux publics, des transports, et du tourisme, en tenant compte du matériel et de l'outillage récupérés au 1er Janvier 1950, déduction faite du matériel et de l'outillage hors d'âge au 1er janvier 1942.",
+      "valid_from": "1954-09-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

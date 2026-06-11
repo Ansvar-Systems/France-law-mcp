@@ -12,43 +12,56 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions annexées à la présente ordonnance constituent la partie législative du code pénitentiaire."
+      "content": "Les dispositions annexées à la présente ordonnance constituent la partie législative du code pénitentiaire.",
+      "valid_from": "2022-05-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions de la partie législative du code pénitentiaire qui mentionnent, sans les reproduire, des dispositions soit d'autres codes, soit de textes législatifs sont de plein droit modifiées par l'effet des modifications ultérieures de ces dispositions."
+      "content": "Les dispositions de la partie législative du code pénitentiaire qui mentionnent, sans les reproduire, des dispositions soit d'autres codes, soit de textes législatifs sont de plein droit modifiées par l'effet des modifications ultérieures de ces dispositions.",
+      "valid_from": "2022-05-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les références à des dispositions abrogées par la présente ordonnance sont remplacées par les références aux dispositions correspondantes du code pénitentiaire dans sa rédaction annexée à la présente ordonnance."
+      "content": "Les références à des dispositions abrogées par la présente ordonnance sont remplacées par les références aux dispositions correspondantes du code pénitentiaire dans sa rédaction annexée à la présente ordonnance.",
+      "valid_from": "2022-05-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "L'article L. 213-4 du code pénitentiaire dans sa rédaction résultant de l'ordonnance n° 2022-478 du 30 mars 2022 portant partie législative du code pénitentiaire est en vigueur jusqu'au 31 décembre 2027.\n\nA abrogé les dispositions suivantes :\n\nAu troisième trimestre des années 2025 et 2027, le Gouvernement présente au Parlement un rapport sur l'encellulement individuel, qui comprend, en particulier, une information financière et budgétaire relative à l'exécution des programmes immobiliers pénitentiaires depuis la promulgation de la loi du 24 novembre 2009 susvisée et à leur impact quant au respect de l'objectif de placement en cellule individuelle.\n\n-Code pénitentiaire"
+      "content": "L'article L. 213-4 du code pénitentiaire dans sa rédaction résultant de l'ordonnance n° 2022-478 du 30 mars 2022 portant partie législative du code pénitentiaire est en vigueur jusqu'au 31 décembre 2027.\n\nA abrogé les dispositions suivantes :\n\nAu troisième trimestre des années 2025 et 2027, le Gouvernement présente au Parlement un rapport sur l'encellulement individuel, qui comprend, en particulier, une information financière et budgétaire relative à l'exécution des programmes immobiliers pénitentiaires depuis la promulgation de la loi du 24 novembre 2009 susvisée et à leur impact quant au respect de l'objectif de placement en cellule individuelle.\n\n-Code pénitentiaire",
+      "valid_from": "2023-01-01"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "I.-Les dispositions des articles 1er à 3,7,8 et 10 de la présente ordonnance ainsi que, dans les conditions qu'elle détermine, celles de son annexe, sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.\n\nII. et III.-A modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n-Code de procédure pénale\n\n-Code pénal\n\n-LOI n° 2009-1436 du 24 novembre 2009\n\n-Code de procédure pénale\n\n-Code de la justice pénale des mineurs"
+      "content": "I.-Les dispositions des articles 1er à 3,7,8 et 10 de la présente ordonnance ainsi que, dans les conditions qu'elle détermine, celles de son annexe, sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.\n\nII. et III.-A modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n-Code de procédure pénale\n\n-Code pénal\n\n-LOI n° 2009-1436 du 24 novembre 2009\n\n-Code de procédure pénale\n\n-Code de la justice pénale des mineurs",
+      "valid_from": "2022-05-01"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er mai 2022."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er mai 2022.",
+      "valid_from": "2022-05-01"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Le Premier ministre, le ministre des outre-mer et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des outre-mer et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2022-05-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

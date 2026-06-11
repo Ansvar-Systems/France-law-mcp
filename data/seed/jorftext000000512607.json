@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont punis de deux ans d'emprisonnement et de 75000 euros d'amende, sans préjudice des dommages-intérêts s'il y a lieu    :1° Ceux qui auront apposé ou fait apparaître frauduleusement un nom usurpé sur une oeuvre de peinture, de sculpture, de dessin, de gravure et de musique ;Ceux qui, sur les mêmes oeuvres, auront frauduleusement et dans le but de tromper l'acheteur sur la personnalité de l'auteur, imité sa signature ou un signe adopté par lui."
+      "content": "Sont punis de deux ans d'emprisonnement et de 75000 euros d'amende, sans préjudice des dommages-intérêts s'il y a lieu    :1° Ceux qui auront apposé ou fait apparaître frauduleusement un nom usurpé sur une oeuvre de peinture, de sculpture, de dessin, de gravure et de musique ;Ceux qui, sur les mêmes oeuvres, auront frauduleusement et dans le but de tromper l'acheteur sur la personnalité de l'auteur, imité sa signature ou un signe adopté par lui.",
+      "valid_from": "2002-01-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les mêmes peines seront applicables à tout marchand ou commissionnaire qui aura sciemment recélé, mis en vente ou en circulation les objets revêtus de ces noms, signatures ou signes."
+      "content": "Les mêmes peines seront applicables à tout marchand ou commissionnaire qui aura sciemment recélé, mis en vente ou en circulation les objets revêtus de ces noms, signatures ou signes.",
+      "valid_from": "1895-02-09"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La juridiction qui a statué peut prononcer la confiscation de ces oeuvres ou leur remise au plaignant."
+      "content": "La juridiction qui a statué peut prononcer la confiscation de ces oeuvres ou leur remise au plaignant.",
+      "valid_from": "1994-02-08"
     },
     {
       "provision_ref": "art3-1",
       "section": "3-1",
       "title": "Article 3-1",
-      "content": "Elle peut procéder de même, en cas de non-lieu ou de relaxe, lorsqu'il est établi que les oeuvres saisies constituent des faux."
+      "content": "Elle peut procéder de même, en cas de non-lieu ou de relaxe, lorsqu'il est établi que les oeuvres saisies constituent des faux.",
+      "valid_from": "1994-02-08"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La présente loi est applicable aux oeuvres non tombées dans le domaine public, sans préjudice pour les autres de l'application de l'article 423 du code pénal."
+      "content": "La présente loi est applicable aux oeuvres non tombées dans le domaine public, sans préjudice pour les autres de l'application de l'article 423 du code pénal.",
+      "valid_from": "1994-03-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

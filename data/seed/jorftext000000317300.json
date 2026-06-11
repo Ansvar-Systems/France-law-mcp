@@ -12,7 +12,14 @@
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Sous réserve des articles 5, 6, 7, 8 et 9 qui entreront en vigueur le 1er octobre 1986, la présente loi est d'application immédiate.\n\nToutefois, les dispositions des articles 10 et 12 ne seront applicables qu'aux condamnations prononcées postérieurement à l'entrée en vigueur de la loi."
+      "content": "Sous réserve des articles 5, 6, 7, 8 et 9 qui entreront en vigueur le 1er octobre 1986, la présente loi est d'application immédiate.\n\nToutefois, les dispositions des articles 10 et 12 ne seront applicables qu'aux condamnations prononcées postérieurement à l'entrée en vigueur de la loi.",
+      "valid_from": "1986-09-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

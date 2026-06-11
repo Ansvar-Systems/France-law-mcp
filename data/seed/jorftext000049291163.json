@@ -12,7 +12,14 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur le repérage, la prise en charge et le suivi psychologique des enfants exposés aux violences conjugales ou intrafamiliales et sur les modalités de l'accompagnement parental.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur le repérage, la prise en charge et le suivi psychologique des enfants exposés aux violences conjugales ou intrafamiliales et sur les modalités de l'accompagnement parental.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2024-03-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,25 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I.- A créé les dispositions suivantes :\n\nII.- A créé les dispositions suivantes :\n\nIII. - Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport proposant des normes sanitaires actualisées pour les substances perfluoroalkylées et polyfluoroalkylées dans les eaux destinées à la consommation humaine.\n\n- Code de l'environnement\n\n- Code de la santé publique"
+      "content": "I.- A créé les dispositions suivantes :\n\nII.- A créé les dispositions suivantes :\n\nIII. - Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport proposant des normes sanitaires actualisées pour les substances perfluoroalkylées et polyfluoroalkylées dans les eaux destinées à la consommation humaine.\n\n- Code de l'environnement\n\n- Code de la santé publique",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement se dote d'un plan d'action interministériel pour le financement de la dépollution des eaux destinées à la consommation humaine gérées par les collectivités territoriales responsables des services publics d'eau potable et d'assainissement, que cette gestion soit en régie ou déléguée. Ce plan présente les différentes ressources à la disposition des collectivités pour leur politique de dépollution, le rôle et les missions des agences de l'eau, le rôle de l'Etat dans l'accompagnement de ces politiques publiques ainsi qu'un calendrier prévisionnel."
+      "content": "Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement se dote d'un plan d'action interministériel pour le financement de la dépollution des eaux destinées à la consommation humaine gérées par les collectivités territoriales responsables des services publics d'eau potable et d'assainissement, que cette gestion soit en régie ou déléguée. Ce plan présente les différentes ressources à la disposition des collectivités pour leur politique de dépollution, le rôle et les missions des agences de l'eau, le rôle de l'Etat dans l'accompagnement de ces politiques publiques ainsi qu'un calendrier prévisionnel.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les agences régionales de santé rendent publics le programme des analyses des substances perfluoroalkylées et polyfluoroalkylées dans les eaux destinées à la consommation humaine, notamment les eaux conditionnées en bouteille, ainsi que les résultats de ce programme sous la forme d'un bilan annuel régional. A partir de ces résultats, le ministre chargé de la santé publie chaque année un bilan national de la qualité de l'eau au robinet du consommateur en France au regard des substances perfluoroalkylées et polyfluoroalkylées."
-    },
-    {
-      "provision_ref": "art6",
-      "section": "6",
-      "title": "Article 6",
-      "content": "La charge pour l'Etat est compensée à due concurrence par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services."
+      "content": "Les agences régionales de santé rendent publics le programme des analyses des substances perfluoroalkylées et polyfluoroalkylées dans les eaux destinées à la consommation humaine, notamment les eaux conditionnées en bouteille, ainsi que les résultats de ce programme sous la forme d'un bilan annuel régional. A partir de ces résultats, le ministre chargé de la santé publie chaque année un bilan national de la qualité de l'eau au robinet du consommateur en France au regard des substances perfluoroalkylées et polyfluoroalkylées.",
+      "valid_from": "2025-03-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

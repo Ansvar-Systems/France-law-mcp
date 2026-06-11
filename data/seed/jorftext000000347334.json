@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les fonctionnaires appartenant aux corps de l'Etat pour l'administration de la Polynésie française affectés, à la date de la promulgation de la présente loi, dans les services pénitentiaires sont intégrés, au 1er janvier 1995, dans les corps des services déconcentrés de l'administration pénitentiaire correspondant aux fonctions qu'ils exercent."
+      "content": "Les fonctionnaires appartenant aux corps de l'Etat pour l'administration de la Polynésie française affectés, à la date de la promulgation de la présente loi, dans les services pénitentiaires sont intégrés, au 1er janvier 1995, dans les corps des services déconcentrés de l'administration pénitentiaire correspondant aux fonctions qu'ils exercent.",
+      "valid_from": "1994-06-04"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les agents non fonctionnaires de l'administration territoriale de la Polynésie française affectés, à la date de la promulgation de la présente loi, dans les services pénitentiaires seront intégrés dans les corps des services déconcentrés du ministère de la justice correspondant aux fonctions qu'ils exercent, sous réserve de la réussite aux épreuves d'un examen professionnel et dans la limite des emplois nécessaires au fonctionnement du service sur le territoire.Ces intégrations interviendront par ordre de mérite et au plus tard le 31 décembre 1999."
+      "content": "Les agents non fonctionnaires de l'administration territoriale de la Polynésie française affectés, à la date de la promulgation de la présente loi, dans les services pénitentiaires seront intégrés dans les corps des services déconcentrés du ministère de la justice correspondant aux fonctions qu'ils exercent, sous réserve de la réussite aux épreuves d'un examen professionnel et dans la limite des emplois nécessaires au fonctionnement du service sur le territoire.Ces intégrations interviendront par ordre de mérite et au plus tard le 31 décembre 1999.",
+      "valid_from": "1994-06-04"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les agents intégrés en application des dispositions de la présente loi ne pourront être mutés en dehors des limites territoriales de la Polynésie française que sur leur demande ou par mesure disciplinaire."
+      "content": "Les agents intégrés en application des dispositions de la présente loi ne pourront être mutés en dehors des limites territoriales de la Polynésie française que sur leur demande ou par mesure disciplinaire.",
+      "valid_from": "1994-06-04"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Un décret en Conseil d'Etat fixe les conditions d'application de la présente loi."
+      "content": "Un décret en Conseil d'Etat fixe les conditions d'application de la présente loi.",
+      "valid_from": "1994-06-04"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "L'entrée en vigueur de la présente loi est subordonnée à l'entrée en vigueur des dispositions de la loi organique qui ont pour objet de transférer à l'Etat les compétences du territoire de la Polynésie française en matière pénitentiaire."
+      "content": "L'entrée en vigueur de la présente loi est subordonnée à l'entrée en vigueur des dispositions de la loi organique qui ont pour objet de transférer à l'Etat les compétences du territoire de la Polynésie française en matière pénitentiaire.",
+      "valid_from": "1994-06-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

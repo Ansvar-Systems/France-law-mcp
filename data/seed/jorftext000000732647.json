@@ -12,7 +12,14 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les établissements existants entrant dans le champ d'application de l'article 4 de la loi n° 92-678 du 20 juillet 1992 relative à la validation d'acquis professionnels pour la délivrance de diplômes et portant diverses dispositions relatives à l'éducation nationale bénéficient des dispositions de la présente loi à compter de la date de publication du décret qui les a institués."
+      "content": "Les établissements existants entrant dans le champ d'application de l'article 4 de la loi n° 92-678 du 20 juillet 1992 relative à la validation d'acquis professionnels pour la délivrance de diplômes et portant diverses dispositions relatives à l'éducation nationale bénéficient des dispositions de la présente loi à compter de la date de publication du décret qui les a institués.",
+      "valid_from": "1994-07-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

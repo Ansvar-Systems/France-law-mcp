@@ -12,19 +12,28 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Les dispositions du 8° de l'article 2 de la présente ordonnance sont applicables dans le territoire des îles Wallis et Futuna.\n\n- Code de la santé publique"
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Les dispositions du 8° de l'article 2 de la présente ordonnance sont applicables dans le territoire des îles Wallis et Futuna.\n\n- Code de la santé publique",
+      "valid_from": "2016-07-17"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La durée de validité des agréments mentionnés à l'article L. 1223-2 du code de la santé publique, délivrés à la date d'entrée en vigueur de la présente ordonnance, est prolongée pour une durée illimitée."
+      "content": "La durée de validité des agréments mentionnés à l'article L. 1223-2 du code de la santé publique, délivrés à la date d'entrée en vigueur de la présente ordonnance, est prolongée pour une durée illimitée.",
+      "valid_from": "2016-07-17"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, la ministre des affaires sociales et de la santé et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre des affaires sociales et de la santé et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-07-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

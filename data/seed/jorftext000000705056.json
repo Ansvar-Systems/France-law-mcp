@@ -12,7 +12,14 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les articles 2 et 11 de la loi n° 75-17 du 17 janvier 1975 ainsi que les articles L. 161-1 et L. 650 du code de la santé publique sont abrogés."
+      "content": "Les articles 2 et 11 de la loi n° 75-17 du 17 janvier 1975 ainsi que les articles L. 161-1 et L. 650 du code de la santé publique sont abrogés.",
+      "valid_from": "1980-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

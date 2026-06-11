@@ -12,133 +12,161 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. - A compter du 1er janvier 1995, pour les exercices clos ou la période d'imposition arrêtée conformément au deuxième alinéa de l'article 37 du code général des impôts, les personnes morales sont assujetties à une contribution égale à 10 p. 100 de l'impôt sur les sociétés calculé sur leurs résultats imposables aux taux mentionnés au I de l'article 219 du même code.II. - La contribution est payée spontanément au comptable du Trésor chargé du recouvrement des impôts directs, au plus tard à la date prévue au 2 de l'article 1668 du code général des impôts pour le versement du solde de liquidation de l'impôt sur les sociétés.Pour les entreprises dont l'exercice est clos en 1995 avant le 1er juin, la contribution due au titre de cette année est payée au plus tard le 15 septembre 1995.Pour les exercices arrêtés au cours des mois de mars à décembre ou pour la période d'imposition mentionnée au I, la contribution donne lieu, au préalable, à un versement anticipé à la date prévue pour le paiement du dernier acompte d'impôt sur les sociétés, avant la clôture dudit exercice ou la fin de ladite période ; la somme due est alors égale à 10 p. 100 du montant de l'impôt sur les sociétés calculé sur les résultats de l'exercice ou de la période qui précède, imposables aux taux mentionnés au I de l'article 219 du code général des impôts.Lorsque la somme due au titre d'un exercice ou d'une période d'imposition en application de l'alinéa précédent est supérieure à la contribution dont l'entreprise prévoit qu'elle sera finalement redevable au titre de ce même exercice ou de cette même période, l'entreprise peut réduire ce versement à concurrence de l'excédent estimé. Elle remet alors au comptable du Trésor chargé du recouvrement des impôts directs, avant la date d'exigibilité du versement anticipé, une déclaration datée et signée.Si la déclaration mentionnée à l'alinéa précédent est reconnue inexacte à la suite de la liquidation de la contribution, la majoration prévue au 1 de l'article 1762 du code général des impôts est appliquée aux sommes non réglées.III. - La contribution est établie, contrôlée et recouvrée comme l'impôt sur les sociétés et sous les mêmes garanties et sanctions.IV. - Pour les personnes mentionnées au I qui sont placées sous le régime prévu à l'article 223 A du code général des impôts, la contribution est due par la société mère. Elle est assise sur l'impôt sur les sociétés afférent au résultat d'ensemble et à la plus-value nette d'ensemble définis aux articles 223 B et 223 D du même code.V. - Pour les personnes mentionnées au I qui sont placées sous le régime prévu à l'article 209 quinquies du code général des impôts, la contribution est calculée d'après le montant de l'impôt sur les sociétés, déterminé selon les modalités prévues au I, qui aurait été dû en l'absence d'application de ce régime. La contribution n'est ni imputable ni remboursable.VI. - La contribution n'est pas admise parmi les charges déductibles pour l'établissement de l'impôt sur les sociétés.Les avoirs fiscaux ou crédits d'impôt de toute nature ainsi que la créance visée à l'article 220 quinquies du code général des impôts et l'imposition forfaitaire annuelle mentionnée à l'article 223 septies du même code ne sont pas imputables sur cette contribution.VII. - Un décret fixe les modalités d'application du présent article."
+      "content": "I. - A compter du 1er janvier 1995, pour les exercices clos ou la période d'imposition arrêtée conformément au deuxième alinéa de l'article 37 du code général des impôts, les personnes morales sont assujetties à une contribution égale à 10 p. 100 de l'impôt sur les sociétés calculé sur leurs résultats imposables aux taux mentionnés au I de l'article 219 du même code.II. - La contribution est payée spontanément au comptable du Trésor chargé du recouvrement des impôts directs, au plus tard à la date prévue au 2 de l'article 1668 du code général des impôts pour le versement du solde de liquidation de l'impôt sur les sociétés.Pour les entreprises dont l'exercice est clos en 1995 avant le 1er juin, la contribution due au titre de cette année est payée au plus tard le 15 septembre 1995.Pour les exercices arrêtés au cours des mois de mars à décembre ou pour la période d'imposition mentionnée au I, la contribution donne lieu, au préalable, à un versement anticipé à la date prévue pour le paiement du dernier acompte d'impôt sur les sociétés, avant la clôture dudit exercice ou la fin de ladite période ; la somme due est alors égale à 10 p. 100 du montant de l'impôt sur les sociétés calculé sur les résultats de l'exercice ou de la période qui précède, imposables aux taux mentionnés au I de l'article 219 du code général des impôts.Lorsque la somme due au titre d'un exercice ou d'une période d'imposition en application de l'alinéa précédent est supérieure à la contribution dont l'entreprise prévoit qu'elle sera finalement redevable au titre de ce même exercice ou de cette même période, l'entreprise peut réduire ce versement à concurrence de l'excédent estimé. Elle remet alors au comptable du Trésor chargé du recouvrement des impôts directs, avant la date d'exigibilité du versement anticipé, une déclaration datée et signée.Si la déclaration mentionnée à l'alinéa précédent est reconnue inexacte à la suite de la liquidation de la contribution, la majoration prévue au 1 de l'article 1762 du code général des impôts est appliquée aux sommes non réglées.III. - La contribution est établie, contrôlée et recouvrée comme l'impôt sur les sociétés et sous les mêmes garanties et sanctions.IV. - Pour les personnes mentionnées au I qui sont placées sous le régime prévu à l'article 223 A du code général des impôts, la contribution est due par la société mère. Elle est assise sur l'impôt sur les sociétés afférent au résultat d'ensemble et à la plus-value nette d'ensemble définis aux articles 223 B et 223 D du même code.V. - Pour les personnes mentionnées au I qui sont placées sous le régime prévu à l'article 209 quinquies du code général des impôts, la contribution est calculée d'après le montant de l'impôt sur les sociétés, déterminé selon les modalités prévues au I, qui aurait été dû en l'absence d'application de ce régime. La contribution n'est ni imputable ni remboursable.VI. - La contribution n'est pas admise parmi les charges déductibles pour l'établissement de l'impôt sur les sociétés.Les avoirs fiscaux ou crédits d'impôt de toute nature ainsi que la créance visée à l'article 220 quinquies du code général des impôts et l'imposition forfaitaire annuelle mentionnée à l'article 223 septies du même code ne sont pas imputables sur cette contribution.VII. - Un décret fixe les modalités d'application du présent article.",
+      "valid_from": "1995-08-06"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. Paragraphe modificateurII. - Les dispositions du I sont applicables pour la détermination des exercices ouverts à compter du 1er janvier 1995."
+      "content": "I. Paragraphe modificateurII. - Les dispositions du I sont applicables pour la détermination des exercices ouverts à compter du 1er janvier 1995.",
+      "valid_from": "1995-08-06"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. - Les cotisations d'impôt de solidarité sur la fortune dues au titre de 1995 et des années suivantes font l'objet d'une majoration de 10 p. 100.Les dispositions de l'article 885 V bis du code général des impôts ne sont pas applicables à la majoration.Cette majoration est constatée, contrôlée et recouvrée selon les mêmes procédures et sous les mêmes sanctions, garanties et privilèges que l'impôt de solidarité sur la fortune.II. - Pour l'année 1995, les redevables doivent acquitter la majoration au plus tard le 16 octobre 1995 auprès de la recette des impôts de leur domicile au 1er janvier 1995."
+      "content": "I. - Les cotisations d'impôt de solidarité sur la fortune dues au titre de 1995 et des années suivantes font l'objet d'une majoration de 10 p. 100.Les dispositions de l'article 885 V bis du code général des impôts ne sont pas applicables à la majoration.Cette majoration est constatée, contrôlée et recouvrée selon les mêmes procédures et sous les mêmes sanctions, garanties et privilèges que l'impôt de solidarité sur la fortune.II. - Pour l'année 1995, les redevables doivent acquitter la majoration au plus tard le 16 octobre 1995 auprès de la recette des impôts de leur domicile au 1er janvier 1995.",
+      "valid_from": "1995-08-06"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. Paragraphe modificateurII. - Les dispositions du I s'appliquent aux intérêts encaissés à compter du 1er août 1995."
+      "content": "I. Paragraphe modificateurII. - Les dispositions du I s'appliquent aux intérêts encaissés à compter du 1er août 1995.",
+      "valid_from": "1995-08-06"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. - Le produit des ventes par l'Etat de titres, de parts ou de droits de sociétés réalisées à l'occasion d'opérations comportant une cession au secteur privé d'une participation au capital social d'une entreprise du secteur public ainsi que le reversement par l'Entreprise de recherches et d'activités pétrolières (E.R.A.P.), sous toutes ses formes, du produit de cession de titres de la société Elf-Aquitaine par l'E.R.A.P. sont versés en recettes du compte d'affectation spéciale n° 902-24 dans la limite des 14,5 premiers milliards de francs et au-delà en recettes du compte d'affectation spéciale n° 902-27.II. Paragraphe modificateur"
+      "content": "I. - Le produit des ventes par l'Etat de titres, de parts ou de droits de sociétés réalisées à l'occasion d'opérations comportant une cession au secteur privé d'une participation au capital social d'une entreprise du secteur public ainsi que le reversement par l'Entreprise de recherches et d'activités pétrolières (E.R.A.P.), sous toutes ses formes, du produit de cession de titres de la société Elf-Aquitaine par l'E.R.A.P. sont versés en recettes du compte d'affectation spéciale n° 902-24 dans la limite des 14,5 premiers milliards de francs et au-delà en recettes du compte d'affectation spéciale n° 902-27.II. Paragraphe modificateur",
+      "valid_from": "1995-08-06"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Il est procédé en 1995 au reversement au profit du budget général de l'Etat de 100 millions de francs prélevés sur la dotation de développement rural prévue au 1° du I de l'article 1648 B du code général des impôts."
+      "content": "Il est procédé en 1995 au reversement au profit du budget général de l'Etat de 100 millions de francs prélevés sur la dotation de développement rural prévue au 1° du I de l'article 1648 B du code général des impôts.",
+      "valid_from": "1995-08-06"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les organismes habilités à recueillir la participation des employeurs à l'effort de construction versent, en 1995, une contribution exceptionnelle destinée au financement des aides à l'accession à la propriété qui est affectée en recettes du compte d'affectation spéciale n° 902-28 \"Fonds pour l'accession à la propriété\". Cette contribution est égale à 16 p. 100 des sommes reçues au titre de l'année 1994 en application de l'obligation prévue à l'article L. 313-1 du code de la construction et de l'habitation.La contribution est versée spontanément au comptable du Trésor du lieu du siège de l'organisme avant le 1er octobre 1995. Le contrôle, le recouvrement, le contentieux, les garanties et sanctions relatifs à cette contribution sont régis par les règles applicables en matière de taxe sur les salaires."
+      "content": "Les organismes habilités à recueillir la participation des employeurs à l'effort de construction versent, en 1995, une contribution exceptionnelle destinée au financement des aides à l'accession à la propriété qui est affectée en recettes du compte d'affectation spéciale n° 902-28 \"Fonds pour l'accession à la propriété\". Cette contribution est égale à 16 p. 100 des sommes reçues au titre de l'année 1994 en application de l'obligation prévue à l'article L. 313-1 du code de la construction et de l'habitation.La contribution est versée spontanément au comptable du Trésor du lieu du siège de l'organisme avant le 1er octobre 1995. Le contrôle, le recouvrement, le contentieux, les garanties et sanctions relatifs à cette contribution sont régis par les règles applicables en matière de taxe sur les salaires.",
+      "valid_from": "1995-08-06"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "I. Paragraphe modificateurII. - Les dispositions du présent article s'appliquent aux rémunérations et revenus professionnels perçus à compter du 1er septembre 1995."
+      "content": "I. Paragraphe modificateurII. - Les dispositions du présent article s'appliquent aux rémunérations et revenus professionnels perçus à compter du 1er septembre 1995.",
+      "valid_from": "1995-08-06"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "I. Paragraphe modificateurII. - Ces dispositions s'appliquent aux souscriptions effectuées à compter du 1er août 1995."
+      "content": "I. Paragraphe modificateurII. - Ces dispositions s'appliquent aux souscriptions effectuées à compter du 1er août 1995.",
+      "valid_from": "1995-08-06"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les transferts des biens, droits et obligations des organismes paritaires agréés au titre du congé individuel de formation, des organismes collecteurs, des fonds d'assurance-formation respectivement mentionnés au troisième alinéa (1°) de l'article L. 951-1 du code du travail et aux articles L. 952-1 et L. 961-9 du même code et des organismes de mutualisation mentionnés à l'article 30 de la loi de finances pour 1985 (n° 84-1208 du 29 décembre 1984), effectués, jusqu'au 31 décembre 1996, à titre gratuit ou moyennant la seule prise en charge du passif ayant grevé l'acquisition des biens transférés, au profit d'organismes agréés en application du deuxième alinéa de l'article L. 961-12 du même code, ne donnent lieu à aucune indemnité ou perception d'impôts, droits ou taxes."
+      "content": "Les transferts des biens, droits et obligations des organismes paritaires agréés au titre du congé individuel de formation, des organismes collecteurs, des fonds d'assurance-formation respectivement mentionnés au troisième alinéa (1°) de l'article L. 951-1 du code du travail et aux articles L. 952-1 et L. 961-9 du même code et des organismes de mutualisation mentionnés à l'article 30 de la loi de finances pour 1985 (n° 84-1208 du 29 décembre 1984), effectués, jusqu'au 31 décembre 1996, à titre gratuit ou moyennant la seule prise en charge du passif ayant grevé l'acquisition des biens transférés, au profit d'organismes agréés en application du deuxième alinéa de l'article L. 961-12 du même code, ne donnent lieu à aucune indemnité ou perception d'impôts, droits ou taxes.",
+      "valid_from": "1995-08-06"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "I. - Le montant du droit départemental d'enregistrement ou de la taxe départementale de publicité foncière applicable aux acquisitions d'immeubles ou de fractions d'immeubles mentionnés aux articles 710 et 711 du code général des impôts, ainsi que celui de la taxe additionnelle régionale mentionnée à l'article 1599 sexies du même code applicable aux mêmes biens, sont réduits de 35 p. 100 pour les mutations constatées par un acte authentique signé entre le 1er juillet 1995 et le 31 décembre 1996.Toutefois, la réduction de 35 p. 100 mentionnée au précédent alinéa s'applique aux mutations constatées par acte authentique passé postérieurement au 31 décembre 1996 et au plus tard le 1er février 1997 si l'accord des parties a été formalisé par un avant-contrat ayant acquis date certaine avant le 1er janvier 1997.II. Paragraphe modificateurIII. - a) Les pertes de recettes résultant pour les départements et les régions de l'application du premier alinéa du I sont compensées, selon les modalités définies aux b et c, par une majoration à due concurrence du prélèvement sur les recettes de l'Etat au titre de la compensation d'exonérations relatives à la fiscalité locale.b) La compensation des pertes de recettes résultant de l'application du premier alinéa du I est égale, pour chaque collectivité concernée, à la différence entre :- le montant des droits déterminés en appliquant à un pourcentage des bases taxées en 1994, multipliées par 1,5, les taux en vigueur au cours de la période du 1er juillet 1995 au 31 décembre 1996, d'une part,- et le montant des droits effectivement constatés au cours de ladite période du 1er juillet 1995 au 31 décembre 1996, d'autre part.Le pourcentage mentionné ci-dessus est défini en fonction du montant des droits de mutation perçus en 1994 sur les acquisitions d'immeubles ou de fractions d'immeubles mentionnés au I rapporté au nombre d'habitants résultant du dernier recensement général :- pour les départements, ce pourcentage est de 100 p. 100 lorsque le montant des droits par habitant est inférieur ou égal à 158 F et de 95 p. 100 lorsque le montant est supérieur à 158 F ;- pour les régions, ce pourcentage est de 100 p. 100 lorsque le montant des droits par habitant est inférieur ou égal à 54 F et de 95 p. 100 lorsque le montant est supérieur à 54 F.c) Deux acomptes sont versés sur la compensation définie au b dans un délai compatible avec l'inscription des ressources correspondantes aux comptes administratifs de 1995 et 1996 :- l'acompte dû au titre de 1995 est égal à 17,5 p. 100 de 90 p. 100 des droits effectivement constatés en 1994. Cet acompte est versé avant le 31 octobre 1995 aux départements dont le montant des droits par habitant constatés en 1994 est inférieur ou égal à 158 F et aux régions dont le montant des droits par habitant constatés en 1994 est inférieur ou égal à 54 F ;- l'acompte dû au titre de 1996 est égal à 17,5 p. 100 des droits effectivement constatés en 1994.Il est procédé, avant le 15 mars 1997, à la régularisation du montant de la compensation lorsque l'application des dispositions du b entraîne un produit différent du montant global des acomptes définis ci-dessus.Lorsque l'application des dispositions du b entraîne un produit différent du montant global des acomptes définis ci-dessus, il est procédé à une régularisation. Celle-ci est effectuée à hauteur du tiers de son montant avant le 15 mars 1997 et pour le reliquat en 1998.IV. - a) Les pertes de recettes résultant pour les départements et les régions de l'application du second alinéa du I sont compensées, selon les modalités définies aux b et c, par une majoration à due concurrence du prélèvement sur les recettes de l'Etat au titre de la compensation d'exonérations relatives à la fiscalité locale.b) La compensation des pertes de recettes résultant de l'application du second alinéa du I est égale, pour chaque collectivité concernée, à la différence entre :- le montant des droits déterminés en appliquant à un pourcentage des bases taxées au cours de la période du 1er janvier 1994 au 1er février 1994 les taux en vigueur en janvier 1997, d'une part ;- et le montant des droits effectivement constatés au cours de la période du 1er janvier 1997 au 1er février 1997, d'autre part.Le pourcentage mentionné ci-dessus est celui défini aux trois derniers alinéas du b du III.c) Les sommes dues par l'Etat sont versées avant le 15 mars de l'année suivant celle où est déterminé le montant de la compensation définie au b."
+      "content": "I. - Le montant du droit départemental d'enregistrement ou de la taxe départementale de publicité foncière applicable aux acquisitions d'immeubles ou de fractions d'immeubles mentionnés aux articles 710 et 711 du code général des impôts, ainsi que celui de la taxe additionnelle régionale mentionnée à l'article 1599 sexies du même code applicable aux mêmes biens, sont réduits de 35 p. 100 pour les mutations constatées par un acte authentique signé entre le 1er juillet 1995 et le 31 décembre 1996.Toutefois, la réduction de 35 p. 100 mentionnée au précédent alinéa s'applique aux mutations constatées par acte authentique passé postérieurement au 31 décembre 1996 et au plus tard le 1er février 1997 si l'accord des parties a été formalisé par un avant-contrat ayant acquis date certaine avant le 1er janvier 1997.II. Paragraphe modificateurIII. - a) Les pertes de recettes résultant pour les départements et les régions de l'application du premier alinéa du I sont compensées, selon les modalités définies aux b et c, par une majoration à due concurrence du prélèvement sur les recettes de l'Etat au titre de la compensation d'exonérations relatives à la fiscalité locale.b) La compensation des pertes de recettes résultant de l'application du premier alinéa du I est égale, pour chaque collectivité concernée, à la différence entre :- le montant des droits déterminés en appliquant à un pourcentage des bases taxées en 1994, multipliées par 1,5, les taux en vigueur au cours de la période du 1er juillet 1995 au 31 décembre 1996, d'une part,- et le montant des droits effectivement constatés au cours de ladite période du 1er juillet 1995 au 31 décembre 1996, d'autre part.Le pourcentage mentionné ci-dessus est défini en fonction du montant des droits de mutation perçus en 1994 sur les acquisitions d'immeubles ou de fractions d'immeubles mentionnés au I rapporté au nombre d'habitants résultant du dernier recensement général :- pour les départements, ce pourcentage est de 100 p. 100 lorsque le montant des droits par habitant est inférieur ou égal à 158 F et de 95 p. 100 lorsque le montant est supérieur à 158 F ;- pour les régions, ce pourcentage est de 100 p. 100 lorsque le montant des droits par habitant est inférieur ou égal à 54 F et de 95 p. 100 lorsque le montant est supérieur à 54 F.c) Deux acomptes sont versés sur la compensation définie au b dans un délai compatible avec l'inscription des ressources correspondantes aux comptes administratifs de 1995 et 1996 :- l'acompte dû au titre de 1995 est égal à 17,5 p. 100 de 90 p. 100 des droits effectivement constatés en 1994. Cet acompte est versé avant le 31 octobre 1995 aux départements dont le montant des droits par habitant constatés en 1994 est inférieur ou égal à 158 F et aux régions dont le montant des droits par habitant constatés en 1994 est inférieur ou égal à 54 F ;- l'acompte dû au titre de 1996 est égal à 17,5 p. 100 des droits effectivement constatés en 1994.Il est procédé, avant le 15 mars 1997, à la régularisation du montant de la compensation lorsque l'application des dispositions du b entraîne un produit différent du montant global des acomptes définis ci-dessus.Lorsque l'application des dispositions du b entraîne un produit différent du montant global des acomptes définis ci-dessus, il est procédé à une régularisation. Celle-ci est effectuée à hauteur du tiers de son montant avant le 15 mars 1997 et pour le reliquat en 1998.IV. - a) Les pertes de recettes résultant pour les départements et les régions de l'application du second alinéa du I sont compensées, selon les modalités définies aux b et c, par une majoration à due concurrence du prélèvement sur les recettes de l'Etat au titre de la compensation d'exonérations relatives à la fiscalité locale.b) La compensation des pertes de recettes résultant de l'application du second alinéa du I est égale, pour chaque collectivité concernée, à la différence entre :- le montant des droits déterminés en appliquant à un pourcentage des bases taxées au cours de la période du 1er janvier 1994 au 1er février 1994 les taux en vigueur en janvier 1997, d'une part ;- et le montant des droits effectivement constatés au cours de la période du 1er janvier 1997 au 1er février 1997, d'autre part.Le pourcentage mentionné ci-dessus est celui défini aux trois derniers alinéas du b du III.c) Les sommes dues par l'Etat sont versées avant le 15 mars de l'année suivant celle où est déterminé le montant de la compensation définie au b.",
+      "valid_from": "1996-12-31"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "L'ajustement des recettes tel qu'il résulte des évaluations révisées figurant à l'état A annexé à la présente loi et le supplément de charges du budget de l'Etat pour 1995 sont fixés ainsi qu'il suit : (tableau non repris, voir JO du 06/08/1995 page 11811)."
+      "content": "L'ajustement des recettes tel qu'il résulte des évaluations révisées figurant à l'état A annexé à la présente loi et le supplément de charges du budget de l'Etat pour 1995 sont fixés ainsi qu'il suit : (tableau non repris, voir JO du 06/08/1995 page 11811).",
+      "valid_from": "1995-08-06"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Il est ouvert aux ministres, au titre des dépenses ordinaires des services civils pour 1995, des crédits supplémentaires s'élevant à la somme totale de 58 762 535 916 F conformément à la répartition par titre et par ministère qui en est donnée à l'état B annexé à la présente loi."
+      "content": "Il est ouvert aux ministres, au titre des dépenses ordinaires des services civils pour 1995, des crédits supplémentaires s'élevant à la somme totale de 58 762 535 916 F conformément à la répartition par titre et par ministère qui en est donnée à l'état B annexé à la présente loi.",
+      "valid_from": "1995-08-06"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Il est ouvert aux ministres, au titre des dépenses en capital des services civils pour 1995, des autorisations de programme et des crédits de paiement supplémentaires s'élevant respectivement aux sommes de 3 019 800 000 F et de 3 937 500 000 F conformément à la répartition par titre et par ministère qui en est donnée à l'état C annexé à la présente loi."
+      "content": "Il est ouvert aux ministres, au titre des dépenses en capital des services civils pour 1995, des autorisations de programme et des crédits de paiement supplémentaires s'élevant respectivement aux sommes de 3 019 800 000 F et de 3 937 500 000 F conformément à la répartition par titre et par ministère qui en est donnée à l'état C annexé à la présente loi.",
+      "valid_from": "1995-08-06"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Il est ouvert au ministre de la défense, au titre des dépenses ordinaires des services militaires pour 1995, des crédits supplémentaires s'élevant à la somme de 2 800 000 000 F."
+      "content": "Il est ouvert au ministre de la défense, au titre des dépenses ordinaires des services militaires pour 1995, des crédits supplémentaires s'élevant à la somme de 2 800 000 000 F.",
+      "valid_from": "1995-08-06"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "I. - Il est ouvert dans les écritures du Trésor un compte d'affectation spéciale n° 902-27 intitulé \"Compte d'affectation des produits de cessions de titres du secteur public au désendettement de l'Etat\".Ce compte retrace :1° En recettes, le produit des ventes par l'Etat de titres, de parts ou de droits de sociétés réalisées à l'occasion d'opérations comportant une cession au secteur privé d'une participation au capital social d'une entreprise du secteur public, ainsi que le reversement par l'Entreprise de recherches et d'activités pétrolières (E.R.A.P.), sous toutes ses formes, du produit de cession de titres de la société Elf Aquitaine par l'E.R.A.P. ;2° En dépenses, les versements à la caisse d'amortissement de la dette publique, les versements au fonds de soutien des rentes et les dépenses afférentes aux ventes de titres, de parts ou de droits de sociétés.II. Paragraphe modificateur."
+      "content": "I. - Il est ouvert dans les écritures du Trésor un compte d'affectation spéciale n° 902-27 intitulé \"Compte d'affectation des produits de cessions de titres du secteur public au désendettement de l'Etat\".Ce compte retrace :1° En recettes, le produit des ventes par l'Etat de titres, de parts ou de droits de sociétés réalisées à l'occasion d'opérations comportant une cession au secteur privé d'une participation au capital social d'une entreprise du secteur public, ainsi que le reversement par l'Entreprise de recherches et d'activités pétrolières (E.R.A.P.), sous toutes ses formes, du produit de cession de titres de la société Elf Aquitaine par l'E.R.A.P. ;2° En dépenses, les versements à la caisse d'amortissement de la dette publique, les versements au fonds de soutien des rentes et les dépenses afférentes aux ventes de titres, de parts ou de droits de sociétés.II. Paragraphe modificateur.",
+      "valid_from": "1995-08-06"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Il est ouvert dans les écritures du Trésor un compte d'affectation spéciale n° 902-28 intitulé \"Fonds pour l'accession à la propriété\".Le ministre chargé du logement est ordonnateur principal de ce compte qui retrace :1° En recettes :- le produit de la contribution annuelle des organismes collecteurs de la participation des employeurs à l'effort de construction instituée par l'article 28 de la loi de finances pour 1996 (n° 95-1346 du 30 décembre 1995).- le versement du budget général ;- les recettes diverses et accidentelles.2° En dépenses :- les aides non fiscales à l'accession sociale à la propriété ;- les restitutions de sommes indûment perçues ;- les dépenses diverses et accidentelles et les frais de gestion."
+      "content": "Il est ouvert dans les écritures du Trésor un compte d'affectation spéciale n° 902-28 intitulé \"Fonds pour l'accession à la propriété\".Le ministre chargé du logement est ordonnateur principal de ce compte qui retrace :1° En recettes :- le produit de la contribution annuelle des organismes collecteurs de la participation des employeurs à l'effort de construction instituée par l'article 28 de la loi de finances pour 1996 (n° 95-1346 du 30 décembre 1995).- le versement du budget général ;- les recettes diverses et accidentelles.2° En dépenses :- les aides non fiscales à l'accession sociale à la propriété ;- les restitutions de sommes indûment perçues ;- les dépenses diverses et accidentelles et les frais de gestion.",
+      "valid_from": "1996-01-01"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Il est ouvert au ministre de l'économie et des finances pour 1995, au titre des comptes d'affectation spéciale, des autorisations de programme et des crédits de paiement supplémentaires s'élevant respectivement à la somme de 33 000 000 000 F."
+      "content": "Il est ouvert au ministre de l'économie et des finances pour 1995, au titre des comptes d'affectation spéciale, des autorisations de programme et des crédits de paiement supplémentaires s'élevant respectivement à la somme de 33 000 000 000 F.",
+      "valid_from": "1995-08-06"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Sont ratifiés les crédits ouverts par le décret d'avance n° 95-344 du 31 mars 1995."
+      "content": "Sont ratifiés les crédits ouverts par le décret d'avance n° 95-344 du 31 mars 1995.",
+      "valid_from": "1995-08-06"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "Sous réserve des droits nés de décisions de justice passées en force de chose jugée, les décisions individuelles fixant le montant de la rémunération due à l'Etat à l'occasion de la diffusion des informations auxquelles le service public d'information sur les entreprises, les organismes publics et leurs établissements permet d'accéder sont validées en tant que leur légalité serait mise en cause sur le fondement de l'incompétence des auteurs des arrêtés ministériels des 14 août 1987, 13 janvier 1989, 28 novembre 1989, 23 décembre 1992, 28 mars 1994, et de la décision du directeur général de l'Institut national de la statistique et des études économiques du 3 juillet 1993, qui ont fixé les modalités de cession de ces informations."
+      "content": "Sous réserve des droits nés de décisions de justice passées en force de chose jugée, les décisions individuelles fixant le montant de la rémunération due à l'Etat à l'occasion de la diffusion des informations auxquelles le service public d'information sur les entreprises, les organismes publics et leurs établissements permet d'accéder sont validées en tant que leur légalité serait mise en cause sur le fondement de l'incompétence des auteurs des arrêtés ministériels des 14 août 1987, 13 janvier 1989, 28 novembre 1989, 23 décembre 1992, 28 mars 1994, et de la décision du directeur général de l'Institut national de la statistique et des études économiques du 3 juillet 1993, qui ont fixé les modalités de cession de ces informations.",
+      "valid_from": "1995-08-06"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "I. à VII. Paragraphes modificateursVIII. - Les dispositions du I et du II s'appliquent pour les contributions dues à compter du 1er janvier 1996.Le nouveau seuil de franchise fixé au III s'applique à compter de l'établissement du supplément de contribution résultant du VII qui sera acquitté en 1995.IX. - Avant le 31 décembre 1995, le Gouvernement présente au Parlement un rapport sur la situation financière des régimes bénéficiaires de la contribution sociale de solidarité visés à l'article L. 651-1 du code de la sécurité sociale. Ce rapport précise notamment la répartition de la contribution entre les régimes bénéficiaires, les emplois et les ressources de chaque régime, l'état de leurs réserves ainsi que les modalités de recouvrement des cotisations."
+      "content": "I. à VII. Paragraphes modificateursVIII. - Les dispositions du I et du II s'appliquent pour les contributions dues à compter du 1er janvier 1996.Le nouveau seuil de franchise fixé au III s'applique à compter de l'établissement du supplément de contribution résultant du VII qui sera acquitté en 1995.IX. - Avant le 31 décembre 1995, le Gouvernement présente au Parlement un rapport sur la situation financière des régimes bénéficiaires de la contribution sociale de solidarité visés à l'article L. 651-1 du code de la sécurité sociale. Ce rapport précise notamment la répartition de la contribution entre les régimes bénéficiaires, les emplois et les ressources de chaque régime, l'état de leurs réserves ainsi que les modalités de recouvrement des cotisations.",
+      "valid_from": "1995-08-06"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "I. Paragraphe modificateurII. - Les dispositions du présent article sont applicables pour les options exercées à compter du 1er août 1995."
+      "content": "I. Paragraphe modificateurII. - Les dispositions du présent article sont applicables pour les options exercées à compter du 1er août 1995.",
+      "valid_from": "1995-08-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

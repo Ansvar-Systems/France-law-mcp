@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Pour l'application de la résolution 955 du Conseil de sécurité des Nations unies du 8 novembre 1994 instituant un tribunal international en vue de juger les personnes présumées responsables d'actes de génocide ou d'autres violations graves du droit international humanitaire commis sur le territoire du Rwanda, ainsi que les citoyens rwandais présumés responsables de tels actes ou violations commis sur le territoire d'Etats voisins, entre le 1er janvier et le 31 décembre 1994, la France participe à la répression des infractions et coopère avec cette juridiction dans les conditions fixées par la présente loi.\n\nIl en est de même pour l'application de la résolution 1966 (2010) du Conseil de sécurité des Nations unies du 22 décembre 2010 instituant un mécanisme international chargé d'exercer les fonctions résiduelles des tribunaux pénaux.\n\nLes dispositions qui suivent sont applicables à toute personne poursuivie à raison des actes qui constituent, au sens des articles 2 à 4 du statut du tribunal international, des infractions graves à l'article 3 commun aux conventions de Genève du 12 août 1949 et au protocole additionnel II auxdites conventions en date du 8 juin 1977, un génocide ou des crimes contre l'humanité."
+      "content": "Pour l'application de la résolution 955 du Conseil de sécurité des Nations unies du 8 novembre 1994 instituant un tribunal international en vue de juger les personnes présumées responsables d'actes de génocide ou d'autres violations graves du droit international humanitaire commis sur le territoire du Rwanda, ainsi que les citoyens rwandais présumés responsables de tels actes ou violations commis sur le territoire d'Etats voisins, entre le 1er janvier et le 31 décembre 1994, la France participe à la répression des infractions et coopère avec cette juridiction dans les conditions fixées par la présente loi.\n\nIl en est de même pour l'application de la résolution 1966 (2010) du Conseil de sécurité des Nations unies du 22 décembre 2010 instituant un mécanisme international chargé d'exercer les fonctions résiduelles des tribunaux pénaux.\n\nLes dispositions qui suivent sont applicables à toute personne poursuivie à raison des actes qui constituent, au sens des articles 2 à 4 du statut du tribunal international, des infractions graves à l'article 3 commun aux conventions de Genève du 12 août 1949 et au protocole additionnel II auxdites conventions en date du 8 juin 1977, un génocide ou des crimes contre l'humanité.",
+      "valid_from": "2013-08-07"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les articles 2 à 16 de la loi n° 95-1 du 2 janvier 1995 portant adaptation de la législation française aux dispositions de la résolution 827 du Conseil de sécurité des Nations unies instituant un tribunal international en vue de juger les personnes présumées responsables de violations graves du droit international humanitaire commises sur le territoire de l'ex-Yougoslavie depuis 1991 sont applicables aux personnes visées à l'article 1er.Toutefois, dans le texte des articles 2, 4, 5 et 13 de cette même loi, les références à l'article 1er doivent s'entendre comme visant les faits qui entrent dans le champ d'application de l'article 1er de la présente loi."
+      "content": "Les articles 2 à 16 de la loi n° 95-1 du 2 janvier 1995 portant adaptation de la législation française aux dispositions de la résolution 827 du Conseil de sécurité des Nations unies instituant un tribunal international en vue de juger les personnes présumées responsables de violations graves du droit international humanitaire commises sur le territoire de l'ex-Yougoslavie depuis 1991 sont applicables aux personnes visées à l'article 1er.Toutefois, dans le texte des articles 2, 4, 5 et 13 de cette même loi, les références à l'article 1er doivent s'entendre comme visant les faits qui entrent dans le champ d'application de l'article 1er de la présente loi.",
+      "valid_from": "1996-05-23"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente loi est applicable dans les territoires d'outre-mer et à Mayotte en tenant compte des dispositions du code de procédure pénale applicables localement."
+      "content": "La présente loi est applicable dans les territoires d'outre-mer et à Mayotte en tenant compte des dispositions du code de procédure pénale applicables localement.",
+      "valid_from": "2001-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

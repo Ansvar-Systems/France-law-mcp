@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions de l'article L. 933-3 du code de la sécurité sociale et de l'article L. 212-7-2 du code de la mutualité s'appliquent pour la première fois à la surveillance des comptes ouverts à compter du 1er janvier 2001."
+      "content": "Les dispositions de l'article L. 933-3 du code de la sécurité sociale et de l'article L. 212-7-2 du code de la mutualité s'appliquent pour la première fois à la surveillance des comptes ouverts à compter du 1er janvier 2001.",
+      "valid_from": "2001-08-31"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, la ministre de l'emploi et de la solidarité, le ministre de l'agriculture et de la pêche et le secrétaire d'Etat à l'économie solidaire sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'emploi et de la solidarité, le ministre de l'agriculture et de la pêche et le secrétaire d'Etat à l'économie solidaire sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2001-08-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

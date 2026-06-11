@@ -12,7 +12,14 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La Première ministre, le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, le ministre de l'intérieur et des outre-mer, le ministre du travail, du plein emploi et de l'insertion, le ministre délégué auprès du ministre de l'économie, des finances et de la souveraineté industrielle et numérique, chargé des comptes publics, le ministre délégué auprès du ministre de l'intérieur et des outre-mer, chargé des outre-mer, et la ministre déléguée auprès du ministre du travail, du plein emploi et de l'insertion et du ministre de l'éducation nationale et de la jeunesse, chargée de l'enseignement et de la formation professionnels sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "La Première ministre, le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, le ministre de l'intérieur et des outre-mer, le ministre du travail, du plein emploi et de l'insertion, le ministre délégué auprès du ministre de l'économie, des finances et de la souveraineté industrielle et numérique, chargé des comptes publics, le ministre délégué auprès du ministre de l'intérieur et des outre-mer, chargé des outre-mer, et la ministre déléguée auprès du ministre du travail, du plein emploi et de l'insertion et du ministre de l'éducation nationale et de la jeunesse, chargée de l'enseignement et de la formation professionnels sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2022-12-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

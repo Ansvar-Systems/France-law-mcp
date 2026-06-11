@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La présente loi s'applique immédiatement aux usufruits constitués à partir de la date de son entrée en vigueur et, sous réserve des décisions judiciaires passées en force de chose jugée et des accords amiables intervenus antérieurement, aux usufruits existant à cette date."
+      "content": "La présente loi s'applique immédiatement aux usufruits constitués à partir de la date de son entrée en vigueur et, sous réserve des décisions judiciaires passées en force de chose jugée et des accords amiables intervenus antérieurement, aux usufruits existant à cette date.",
+      "valid_from": "1987-07-07"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente loi est applicable dans les territoires de la Nouvelle-Calédonie, de la Polynésie française, des îles Wallis-et-Futuna et dans la collectivité territoriale de Mayotte."
+      "content": "La présente loi est applicable dans les territoires de la Nouvelle-Calédonie, de la Polynésie française, des îles Wallis-et-Futuna et dans la collectivité territoriale de Mayotte.",
+      "valid_from": "1993-01-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

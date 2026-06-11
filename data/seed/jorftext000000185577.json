@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - Les ouvrages du réseau d'alimentation générale en énergie électrique sont réputés constituer la propriété d'Electricité de France depuis que la concession de ce réseau lui a été accordée.II. - Pour l'application des dispositions du I, au 1er janvier 1997, la contre-valeur des biens en nature mis en concession du réseau d'alimentation générale figurant au passif du bilan d'Electricité de France est inscrite, nette des écarts de réévaluation correspondants, au poste \"Dotations en capital\".III. - Abrogé"
+      "content": "I. - Les ouvrages du réseau d'alimentation générale en énergie électrique sont réputés constituer la propriété d'Electricité de France depuis que la concession de ce réseau lui a été accordée.II. - Pour l'application des dispositions du I, au 1er janvier 1997, la contre-valeur des biens en nature mis en concession du réseau d'alimentation générale figurant au passif du bilan d'Electricité de France est inscrite, nette des écarts de réévaluation correspondants, au poste \"Dotations en capital\".III. - Abrogé",
+      "valid_from": "2004-08-11"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Par dérogation aux articles 10 et 11 de la loi n° 83-557 du 1er juillet 1983 portant réforme des caisses d'épargne et de prévoyance, les mandats des membres des conseils consultatifs et des conseils d'orientation et de surveillance des caisses d'épargne, en fonction à la date de promulgation de la présente loi, sont prorogés jusqu'au 1er mars 1999."
+      "content": "Par dérogation aux articles 10 et 11 de la loi n° 83-557 du 1er juillet 1983 portant réforme des caisses d'épargne et de prévoyance, les mandats des membres des conseils consultatifs et des conseils d'orientation et de surveillance des caisses d'épargne, en fonction à la date de promulgation de la présente loi, sont prorogés jusqu'au 1er mars 1999.",
+      "valid_from": "1997-11-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

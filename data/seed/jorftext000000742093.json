@@ -12,43 +12,56 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les dispositions du présent titre entrent en vigueur à compter du 1er janvier 1997."
+      "content": "Les dispositions du présent titre entrent en vigueur à compter du 1er janvier 1997.",
+      "valid_from": "1996-04-25"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "I. - ...II. - ...III. - A titre transitoire, la limite d'âge de soixante-cinq ans fixée au premier alinéa de l'article L. 231-6 du code de la sécurité sociale est portée à soixante-sept ans au plus, pour les membres désignés lors du prochain renouvellement des conseils d'administration."
+      "content": "I. - ...II. - ...III. - A titre transitoire, la limite d'âge de soixante-cinq ans fixée au premier alinéa de l'article L. 231-6 du code de la sécurité sociale est portée à soixante-sept ans au plus, pour les membres désignés lors du prochain renouvellement des conseils d'administration.",
+      "valid_from": "1996-04-25"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "I. - Les dispositions des articles 6 à 13 s'appliquent à compter du prochain renouvellement des membres des conseils d'administration.II. - ...III. - Sous réserve des dispositions des articles L. 231-4 et L. 281-3 du code de la sécurité sociale, les mandats de l'ensemble des administrateurs des organismes locaux, régionaux et nationaux du régime général de sécurité sociale expireront, à l'issue du prochain renouvellement des conseils d'administration concernés, à la date du 30 septembre 2001."
+      "content": "I. - Les dispositions des articles 6 à 13 s'appliquent à compter du prochain renouvellement des membres des conseils d'administration.II. - ...III. - Sous réserve des dispositions des articles L. 231-4 et L. 281-3 du code de la sécurité sociale, les mandats de l'ensemble des administrateurs des organismes locaux, régionaux et nationaux du régime général de sécurité sociale expireront, à l'issue du prochain renouvellement des conseils d'administration concernés, à la date du 30 septembre 2001.",
+      "valid_from": "1996-04-25"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "I. - ...II. - Les dispositions du présent article entrent en vigueur à compter du prochain renouvellement des membres des conseils d'administration des organismes nationaux du régime général de la sécurité sociale.III. - Par dérogation au deuxième alinéa de l'article L. 228-1 du code de la sécurité sociale, l'ensemble des premiers mandats des membres des conseils de surveillance institués par ce même article expireront le 30 septembre 2001."
+      "content": "I. - ...II. - Les dispositions du présent article entrent en vigueur à compter du prochain renouvellement des membres des conseils d'administration des organismes nationaux du régime général de la sécurité sociale.III. - Par dérogation au deuxième alinéa de l'article L. 228-1 du code de la sécurité sociale, l'ensemble des premiers mandats des membres des conseils de surveillance institués par ce même article expireront le 30 septembre 2001.",
+      "valid_from": "1996-04-25"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "I. - ...II. - Les dispositions des articles L. 217-3, L. 217-4 et L. 217-5 du code de la sécurité sociale sont applicables aux directeurs et aux agents comptables des organismes régionaux et locaux nommés à compter du 1er octobre 1996."
+      "content": "I. - ...II. - Les dispositions des articles L. 217-3, L. 217-4 et L. 217-5 du code de la sécurité sociale sont applicables aux directeurs et aux agents comptables des organismes régionaux et locaux nommés à compter du 1er octobre 1996.",
+      "valid_from": "1996-04-25"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "I. - ...II. - ...III. - Les unions régionales des caisses d'assurance maladie prévues par l'article L. 183-1 du code de la sécurité sociale sont créées avant le 1er janvier 1998."
+      "content": "I. - ...II. - ...III. - Les unions régionales des caisses d'assurance maladie prévues par l'article L. 183-1 du code de la sécurité sociale sont créées avant le 1er janvier 1998.",
+      "valid_from": "1996-04-25"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Le Premier ministre, le ministre du travail et des affaires sociales, le ministre de l'économie et des finances, le ministre de l'agriculture, de la pêche et de l'alimentation, le ministre délégué à l'outre-mer, le ministre délégué au budget, porte-parole du Gouvernement, et le secrétaire d'Etat à la santé et à la sécurité sociale sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre du travail et des affaires sociales, le ministre de l'économie et des finances, le ministre de l'agriculture, de la pêche et de l'alimentation, le ministre délégué à l'outre-mer, le ministre délégué au budget, porte-parole du Gouvernement, et le secrétaire d'Etat à la santé et à la sécurité sociale sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "1996-04-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

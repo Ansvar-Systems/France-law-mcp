@@ -12,19 +12,28 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les sociétés ayant leur siège social en France, en Algérie ou dans les départements d'outre-mer et qui ont effectué le regroupement de leurs actions en application des articles 20 et 29 du décret du 4 août 1949, ainsi que les sociétés ayant leur siège dans les territoires d'outre-mer, au Togo et au Cameroun et qui ont effectué le regroupement de leurs actions en application des articles 32 et 34 du décret du 28 avril 1953, procéderont, à l'expiration du délai de cinq ans à partir de la date initiale des opérations de regroupement, à la vente des actions nouvelles dont les ayants droit ne se sont pas fait connaître.A dater de ladite vente, les actions anciennes seront annulées et les titulaires ou porteurs n'auront plus droit qu'à la répartition en espèces du produit net de la vente des actions regroupées.Un décret en Conseil d'Etat déterminera les modalités d'application du présent article."
+      "content": "Les sociétés ayant leur siège social en France, en Algérie ou dans les départements d'outre-mer et qui ont effectué le regroupement de leurs actions en application des articles 20 et 29 du décret du 4 août 1949, ainsi que les sociétés ayant leur siège dans les territoires d'outre-mer, au Togo et au Cameroun et qui ont effectué le regroupement de leurs actions en application des articles 32 et 34 du décret du 28 avril 1953, procéderont, à l'expiration du délai de cinq ans à partir de la date initiale des opérations de regroupement, à la vente des actions nouvelles dont les ayants droit ne se sont pas fait connaître.A dater de ladite vente, les actions anciennes seront annulées et les titulaires ou porteurs n'auront plus droit qu'à la répartition en espèces du produit net de la vente des actions regroupées.Un décret en Conseil d'Etat déterminera les modalités d'application du présent article.",
+      "valid_from": "1983-01-04"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Le ministre de l'économie et des finances est autorisé à donner la garantie de l'Etat aux emprunts contractés par les caisses de crédit municipal. En outre, le service des intérêts de ces emprunts pourra être partiellement pris en charge par l'Etat, sans que la bonification d'intérêt ainsi consentie puisse excéder 2 %.Les conditions d'application du présent article seront fixées par arrêté du ministre de l'économie et des finances."
+      "content": "Le ministre de l'économie et des finances est autorisé à donner la garantie de l'Etat aux emprunts contractés par les caisses de crédit municipal. En outre, le service des intérêts de ces emprunts pourra être partiellement pris en charge par l'Etat, sans que la bonification d'intérêt ainsi consentie puisse excéder 2 %.Les conditions d'application du présent article seront fixées par arrêté du ministre de l'économie et des finances.",
+      "valid_from": "1957-08-06"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "La Caisse nationale des marchés de l'Etat est autorisée à recevoir en garantie, avaliser, accepter et endosser les effets de commerce créés par les entreprises publiques dont la liste sera fixée par arrêté du ministre de l'économie et des finances."
+      "content": "La Caisse nationale des marchés de l'Etat est autorisée à recevoir en garantie, avaliser, accepter et endosser les effets de commerce créés par les entreprises publiques dont la liste sera fixée par arrêté du ministre de l'économie et des finances.",
+      "valid_from": "1957-08-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

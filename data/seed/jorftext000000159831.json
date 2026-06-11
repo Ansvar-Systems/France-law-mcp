@@ -12,19 +12,28 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Sont validées les décisions d'intégration dans le cadre d'emplois des administrateurs territoriaux et dans le cadre d'emplois des attachés territoriaux en tant que leur régularité serait mise en cause sur le fondement de l'illégalité de l'article 39 du décret n° 87-1097 du 30 décembre 1987 et de l'article 46 du décret n° 87-1099 du 30 décembre 1987."
+      "content": "Sont validées les décisions d'intégration dans le cadre d'emplois des administrateurs territoriaux et dans le cadre d'emplois des attachés territoriaux en tant que leur régularité serait mise en cause sur le fondement de l'illégalité de l'article 39 du décret n° 87-1097 du 30 décembre 1987 et de l'article 46 du décret n° 87-1099 du 30 décembre 1987.",
+      "valid_from": "1990-01-04"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. - Les commissaires principaux de la police nationale inscrits sur les tableaux d'avancement au grade de commissaire divisionnaire des 12 mars et 9 juin 1986, et promus au titre de l'année 1986, ont la qualité de commissaire divisionnaire.II. - Les inspecteurs de police figurant sur la liste établie par l'arrêté du 10 octobre 1983 constatant les résultats de l'examen professionnel prévu au A de l'article 10 du décret n° 72-774 du 26 août 1972 gardent le bénéfice de leur réussite à cet examen ; les inspecteurs de police inscrits sur les tableaux d'avancement au grade d'inspecteur principal pour les années 1982, 1983, 1984 et 1985, et nommés à ce grade, ont la qualité d'inspecteur principal à la date d'effet des arrêtés les ayant promus."
+      "content": "I. - Les commissaires principaux de la police nationale inscrits sur les tableaux d'avancement au grade de commissaire divisionnaire des 12 mars et 9 juin 1986, et promus au titre de l'année 1986, ont la qualité de commissaire divisionnaire.II. - Les inspecteurs de police figurant sur la liste établie par l'arrêté du 10 octobre 1983 constatant les résultats de l'examen professionnel prévu au A de l'article 10 du décret n° 72-774 du 26 août 1972 gardent le bénéfice de leur réussite à cet examen ; les inspecteurs de police inscrits sur les tableaux d'avancement au grade d'inspecteur principal pour les années 1982, 1983, 1984 et 1985, et nommés à ce grade, ont la qualité d'inspecteur principal à la date d'effet des arrêtés les ayant promus.",
+      "valid_from": "1990-01-04"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "I. - (Paragraphe modificateur)II. -(Paragraphe modificateur)III. - Les dispositions du présent article ont valeur interprétative."
+      "content": "I. - (Paragraphe modificateur)II. -(Paragraphe modificateur)III. - Les dispositions du présent article ont valeur interprétative.",
+      "valid_from": "1990-01-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

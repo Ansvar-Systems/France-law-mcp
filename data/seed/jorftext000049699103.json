@@ -12,19 +12,28 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "En Guadeloupe, en Guyane, à La Réunion, en Martinique, à Mayotte, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon, le délai, mentionné au deuxième alinéa du IV de l'article 2 de la loi du 18 décembre 2023 susvisée, de conclusion des contrats d'engagement des demandeurs d'emploi dont les organismes référents mentionnés au IV de l'article L. 5411-5-1 du code du travail assurent déjà l'accompagnement est fixé par décret, sans pouvoir excéder trois ans à compter de la date mentionnée au premier alinéa de ce même IV."
+      "content": "En Guadeloupe, en Guyane, à La Réunion, en Martinique, à Mayotte, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon, le délai, mentionné au deuxième alinéa du IV de l'article 2 de la loi du 18 décembre 2023 susvisée, de conclusion des contrats d'engagement des demandeurs d'emploi dont les organismes référents mentionnés au IV de l'article L. 5411-5-1 du code du travail assurent déjà l'accompagnement est fixé par décret, sans pouvoir excéder trois ans à compter de la date mentionnée au premier alinéa de ce même IV.",
+      "valid_from": "2024-06-14"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les dispositions des articles 2 à 4 de la présente ordonnance entrent en vigueur le 1er janvier 2025. Les dispositions de l'article 1er entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2025."
+      "content": "Les dispositions des articles 2 à 4 de la présente ordonnance entrent en vigueur le 1er janvier 2025. Les dispositions de l'article 1er entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2025.",
+      "valid_from": "2024-06-14"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Premier ministre, le ministre de l'intérieur et des outre-mer, la ministre du travail, de la santé et des solidarités et la ministre déléguée auprès du ministre de l'intérieur et des outre-mer, chargée des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'intérieur et des outre-mer, la ministre du travail, de la santé et des solidarités et la ministre déléguée auprès du ministre de l'intérieur et des outre-mer, chargée des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2024-06-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

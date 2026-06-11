@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions de l'ordonnance n° 59-24 du 3 janvier 1959 instituant, en matière de loyers, diverses mesures de protection en faveur des fonctionnaires affectés ou détachés hors du territoire européen de la France en application de la loi n° 57-871 du 1er août 1957 et en faveur de certains militaires sont étendues aux fonctionnaires maintenus par décision de l'autorité administrative hors du territoire européen de la France, par dérogation aux conditions normales d'affectation fixées par leur statut particulier.Pendant un délai de trois ans à compter de la publication de la présente loi, les mêmes dispositions s'appliqueront aux personnels civils et militaires qui seront appelés à servir hors du territoire européen de la France au titre de la coopération technique ou culturelle."
+      "content": "Les dispositions de l'ordonnance n° 59-24 du 3 janvier 1959 instituant, en matière de loyers, diverses mesures de protection en faveur des fonctionnaires affectés ou détachés hors du territoire européen de la France en application de la loi n° 57-871 du 1er août 1957 et en faveur de certains militaires sont étendues aux fonctionnaires maintenus par décision de l'autorité administrative hors du territoire européen de la France, par dérogation aux conditions normales d'affectation fixées par leur statut particulier.Pendant un délai de trois ans à compter de la publication de la présente loi, les mêmes dispositions s'appliqueront aux personnels civils et militaires qui seront appelés à servir hors du territoire européen de la France au titre de la coopération technique ou culturelle.",
+      "valid_from": "1960-12-22"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions de l'ordonnance n° 59-24 du 3 janvier 1959 et du premier alinéa de l'article 1er de la présente loi sont applicables aux instances en cours."
+      "content": "Les dispositions de l'ordonnance n° 59-24 du 3 janvier 1959 et du premier alinéa de l'article 1er de la présente loi sont applicables aux instances en cours.",
+      "valid_from": "1960-12-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

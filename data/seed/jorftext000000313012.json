@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le ministre de l'économie et des finances est autorisé à consentir, sur les ressources du fonds de développement économique et social, des avances au Crédit d'équipement des petites et moyennes entreprises (1) en vue de la réalisation de prêts d'installation et d'équipement aux personnes de nationalité française, titulaires des diplômes exigés pour l'exercice d'une des professions libérales dont la liste sera établie par arrêté du ministre de l'économie et des finances.\n\nLes conditions d'attribution de ces prêts seront précisées dans une convention qui sera passée entre le ministre de l'économie et des finances et le Crédit d'équipement des petites et moyennes entreprises."
+      "content": "Le ministre de l'économie et des finances est autorisé à consentir, sur les ressources du fonds de développement économique et social, des avances au Crédit d'équipement des petites et moyennes entreprises (1) en vue de la réalisation de prêts d'installation et d'équipement aux personnes de nationalité française, titulaires des diplômes exigés pour l'exercice d'une des professions libérales dont la liste sera établie par arrêté du ministre de l'économie et des finances.\n\nLes conditions d'attribution de ces prêts seront précisées dans une convention qui sera passée entre le ministre de l'économie et des finances et le Crédit d'équipement des petites et moyennes entreprises.",
+      "valid_from": "1981-01-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

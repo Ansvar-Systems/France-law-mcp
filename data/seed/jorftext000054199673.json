@@ -1,0 +1,25 @@
+{
+  "id": "jorftext000054199673",
+  "type": "statute",
+  "title": "LOI n°2026-442 du 4 juin 2026",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000054199673",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "artunique",
+      "section": "unique",
+      "title": "Article unique",
+      "content": "I.-, II.- A modifié les dispositions suivantes :\n\nIII. - Le présent article entre en vigueur le 1janvier 2027.\n\nIV. - Les éventuelles conséquences financières résultant pour l'Etat du présent article sont compensées, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Idu livre III du code des impositions sur les biens et services.\n\n- LOI n°2023-1196 du 18 décembre 2023\n\n- LOI n°2025-127 du 14 février 2025",
+      "valid_from": "2026-06-06"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

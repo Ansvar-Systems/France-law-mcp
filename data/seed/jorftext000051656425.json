@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur à la date de publication du décret en Conseil d'Etat mentionné à l'article L. 321-36-16 du code de l'urbanisme créé par l'article 2 de la présente ordonnance."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur à la date de publication du décret en Conseil d'Etat mentionné à l'article L. 321-36-16 du code de l'urbanisme créé par l'article 2 de la présente ordonnance.",
+      "valid_from": "2025-05-25"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, le ministre d'État, ministre des outre-mer, et le ministre de l'aménagement du territoire et de la décentralisation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre d'État, ministre des outre-mer, et le ministre de l'aménagement du territoire et de la décentralisation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2025-05-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

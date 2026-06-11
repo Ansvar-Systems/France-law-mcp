@@ -12,13 +12,21 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. - Les données collectées dans les conditions prévues en application du 4° du II de l'article L. 653-2 du code rural et de la pêche maritime, dans sa rédaction antérieure à la présente ordonnance, sont transférées dans la base de données mentionnée à l'article L. 653-7, dans sa rédaction issue de la présente ordonnance.II. - L'article L. 653-15 du même code reste en vigueur jusqu'à la création du service d'intérêt économique général mentionné au 2° de l'article L. 653-14 et, au plus tard, jusqu'au 31 décembre 2022."
+      "content": "I. - Les données collectées dans les conditions prévues en application du 4° du II de l'article L. 653-2 du code rural et de la pêche maritime, dans sa rédaction antérieure à la présente ordonnance, sont transférées dans la base de données mentionnée à l'article L. 653-7, dans sa rédaction issue de la présente ordonnance.II. - L'article L. 653-15 du même code reste en vigueur jusqu'à la création du service d'intérêt économique général mentionné au 2° de l'article L. 653-14 et, au plus tard, jusqu'au 31 décembre 2022.",
+      "valid_from": "2021-04-23"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre et le ministre de l'agriculture et de l'alimentation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre de l'agriculture et de l'alimentation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-04-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

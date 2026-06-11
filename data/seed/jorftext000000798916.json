@@ -12,25 +12,35 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les articles 731, 742 et 744 du code rural ancien sont abrogés."
+      "content": "Les articles 731, 742 et 744 du code rural ancien sont abrogés.",
+      "valid_from": "2003-12-13"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "L'article 20 de la loi du 9 juillet 2001 susvisée est abrogé."
+      "content": "L'article 20 de la loi du 9 juillet 2001 susvisée est abrogé.",
+      "valid_from": "2003-12-13"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - Les dispositions des II à VII de l'article 1er sont applicables à Mayotte.II. et III. - (paragraphes modificateurs)."
+      "content": "I. - Les dispositions des II à VII de l'article 1er sont applicables à Mayotte.II. et III. - (paragraphes modificateurs).",
+      "valid_from": "2003-12-13"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre et le ministre de l'agriculture, de l'alimentation, de la pêche et des affaires rurales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre de l'agriculture, de l'alimentation, de la pêche et des affaires rurales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2003-12-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

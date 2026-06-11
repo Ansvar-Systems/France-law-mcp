@@ -12,7 +12,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Gouvernement dépose avant le 1er janvier 2007 sur le bureau des assemblées parlementaires un rapport sur la sécurité des piscines enterrées non closes privatives à usage individuel ou collectif. Ce rapport précise l'évolution de l'accidentologie et dresse l'état de l'application des dispositions contenues à l'article 1er."
+      "content": "Le Gouvernement dépose avant le 1er janvier 2007 sur le bureau des assemblées parlementaires un rapport sur la sécurité des piscines enterrées non closes privatives à usage individuel ou collectif. Ce rapport précise l'évolution de l'accidentologie et dresse l'état de l'application des dispositions contenues à l'article 1er.",
+      "valid_from": "2003-01-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

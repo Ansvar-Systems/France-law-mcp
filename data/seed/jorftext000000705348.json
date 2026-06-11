@@ -12,19 +12,28 @@
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les dispositions contraires à la présente loi contenues dans le décret du 30 octobre 1935 relatif au financement des marchés de l'Etat et des collectivités publiques et dans le code des marchés publics sont abrogées."
+      "content": "Les dispositions contraires à la présente loi contenues dans le décret du 30 octobre 1935 relatif au financement des marchés de l'Etat et des collectivités publiques et dans le code des marchés publics sont abrogées.",
+      "valid_from": "2001-01-01"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Le titre 1er de l'ordonnance n° 67-838 du 28 septembre 1967 portant réforme du crédit aux entreprises est abrogé."
+      "content": "Le titre 1er de l'ordonnance n° 67-838 du 28 septembre 1967 portant réforme du crédit aux entreprises est abrogé.",
+      "valid_from": "1981-05-01"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "La présente loi entrera en vigueur le premier jour du quatrième mois suivant sa promulgation."
+      "content": "La présente loi entrera en vigueur le premier jour du quatrième mois suivant sa promulgation.",
+      "valid_from": "1981-05-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

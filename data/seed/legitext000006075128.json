@@ -1,0 +1,32 @@
+{
+  "id": "legitext000006075128",
+  "type": "statute",
+  "title": "Loi du 24 février 1932",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006075128/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les actes de ventes mobilières dressés par les commissaires-priseurs ou autres officiers ministériels ou publics sont signés par l'officier vendeur et par les parties. Toutefois, la signature des parties n'est pas exigée dans les actes suivants :procès-verbal d'arrangement, procès-verbal d'adjudication et procès-verbal de livraison. Dans le cas où la signature des parties est requise, si elles ne savent ou ne peuvent signer ou si l'une d'elles ne sait ou ne peut signer, l'acte sera soumis, outre la signature de l'officier vendeur, à celles de deux témoins domiciliés.",
+      "valid_from": "1932-02-26"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Sont abrogées toutes dispositions contraires à la présente loi.",
+      "valid_from": "1932-02-26"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

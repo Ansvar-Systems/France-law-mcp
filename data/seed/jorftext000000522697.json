@@ -12,7 +12,14 @@
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "I. et II. (Paragraphes modificateurs)\n\nIII. Les dispositions des articles 225-2 et 432-7 du code pénal ne sont pas applicables lorsque les faits visés dans ces articles sont conformes à des directives du Gouvernement prises dans le cadre de sa politique économique et commerciale ou en application de ses engagements internationaux."
+      "content": "I. et II. (Paragraphes modificateurs)\n\nIII. Les dispositions des articles 225-2 et 432-7 du code pénal ne sont pas applicables lorsque les faits visés dans ces articles sont conformes à des directives du Gouvernement prises dans le cadre de sa politique économique et commerciale ou en application de ses engagements internationaux.",
+      "valid_from": "1994-03-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

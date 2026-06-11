@@ -1,0 +1,32 @@
+{
+  "id": "legitext000006071057",
+  "type": "statute",
+  "title": "Ordonnance du 16 septembre 1837",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071057/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les payeurs, agents ou préposés chargés d'effectuer des paiements à la décharge de l'Etat, continueront à verser d'office, à la Caisse des dépôts et consignations, la portion saisissable des appointements ou traitements civils et militaires, arrêtée entre leurs mains par des saisies-arrêts où oppositions.A l'égard de toutes les autres sommes ordonnancées ou mandatées sur la caisse desdits payeurs, agents ou préposés, et qui se trouveraient frappées de saisies-arrêts ou oppositions entre leurs mains, le dépôt ne pourra en être effectué à la Caisse des dépôts et consignations qu'autant qu'il aura été autorisé par la loi, par justice ou par un acte passé entre l'administration et ses créanciers.",
+      "valid_from": "1837-09-16"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les dépôts effectués en exécution des dispositions ci-dessus devront toujours être accompagnés d'un extrait certifié des oppositions et significations existantes, et contenant les noms, qualités et demeures du saisissant, le nom et la demeure de l'huissier, la date de l'exploit, et le titre en vertu duquel la saisie a été faite, la désignation de l'objet saisi et la somme pour laquelle la saisie a été formée.",
+      "valid_from": "1837-09-16"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

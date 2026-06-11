@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. – A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nleft\n\nII. – Au cours du dernier trimestre 2019, le Haut Conseil de l’évaluation de la recherche et de l’enseignement supérieur réalise une évaluation de l’application du troisième alinéa de l’article L. 612‑6 du code de l’éducation relatif à la poursuite d’études en deuxième cycle. Cette évaluation porte sur l’impact de ces dispositions sur la qualité de l’offre de formation en deuxième cycle ainsi que sur la sécurisation juridique des parcours. Elle est transmise au Parlement au plus tard le 1mars 2020.\n\n- Code de l'éducation\n\n- Code de l'éducation"
+      "content": "I. – A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nleft\n\nII. – Au cours du dernier trimestre 2019, le Haut Conseil de l’évaluation de la recherche et de l’enseignement supérieur réalise une évaluation de l’application du troisième alinéa de l’article L. 612‑6 du code de l’éducation relatif à la poursuite d’études en deuxième cycle. Cette évaluation porte sur l’impact de ces dispositions sur la qualité de l’offre de formation en deuxième cycle ainsi que sur la sécurisation juridique des parcours. Elle est transmise au Parlement au plus tard le 1mars 2020.\n\n- Code de l'éducation\n\n- Code de l'éducation",
+      "valid_from": "2016-12-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

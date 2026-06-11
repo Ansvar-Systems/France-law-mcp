@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. - Par dérogation au II de l'article 42 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, la mise à disposition des conservateurs généraux et des conservateurs des bibliothèques qui ont la qualité de fonctionnaires de l'Etat auprès des collectivités territoriales pour exercer leurs fonctions dans les bibliothèques classées n'est pas soumise à l'obligation de remboursement.II. - L'article L. 341-3 du code des communes est abrogé.III. - Paragraphe modificateur."
+      "content": "I. - Par dérogation au II de l'article 42 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, la mise à disposition des conservateurs généraux et des conservateurs des bibliothèques qui ont la qualité de fonctionnaires de l'Etat auprès des collectivités territoriales pour exercer leurs fonctions dans les bibliothèques classées n'est pas soumise à l'obligation de remboursement.II. - L'article L. 341-3 du code des communes est abrogé.III. - Paragraphe modificateur.",
+      "valid_from": "2007-02-06"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - L'article 11 de l'ordonnance n° 45-1546 du 13 juillet 1945 portant organisation provisoire des musées des beaux-arts et l'article L. 342-2 du code des communes sont abrogés.\n\nII. - (Paragraphe modificateur)"
+      "content": "I. - L'article 11 de l'ordonnance n° 45-1546 du 13 juillet 1945 portant organisation provisoire des musées des beaux-arts et l'article L. 342-2 du code des communes sont abrogés.\n\nII. - (Paragraphe modificateur)",
+      "valid_from": "1990-12-02"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "L'article 18 bis de la loi n° 84-53 du 26 janvier 1984 précitée est abrogé."
+      "content": "L'article 18 bis de la loi n° 84-53 du 26 janvier 1984 précitée est abrogé.",
+      "valid_from": "1990-12-02"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Les fonctionnaires et les anciens fonctionnaires occupant ou ayant occupé des emplois de sapeur-pompier professionnel de tout grade, y compris ceux de directeur départemental, de directeur départemental adjoint et de sous-directeur des services d'incendie et de secours, pendant une durée d'au moins dix-sept années de service effectif en qualité de sapeur-pompier professionnel bénéficient d'une majoration de pension résultant de la prise en compte de l'indemnité de feu pour le calcul de leur pension de retraite.Cette majoration de pension est déterminée sur la base du taux de l'indemnité de feu effectivement perçue, appliqué au dernier traitement indiciaire brut détenu depuis six mois au moins en qualité de sapeur-pompier professionnel, et proratisée sur les seules années de service accomplies en cette qualité, dans des conditions prévues par décret en Conseil d'Etat.La jouissance de cette majoration est différée jusqu'à l'âge du droit au départ anticipé fixé au deuxième alinéa du 1° du I de l'article L. 24 du code des pensions civiles et militaires de retraite. Cette condition ainsi que celle de durée de service effectif mentionnée au premier alinéa du présent article ne sont pas applicables aux fonctionnaires qui sont radiés des cadres ou mis à la retraite pour invalidité, ni aux ayants cause des fonctionnaires décédés avant leur admission à la retraite.\n\nL'indemnité de feu est assujettie aux retenues et contributions supportées au titre des pensions par les intéressés et leurs collectivités employeurs dans des conditions fixées par décret en Conseil d'Etat."
+      "content": "Les fonctionnaires et les anciens fonctionnaires occupant ou ayant occupé des emplois de sapeur-pompier professionnel de tout grade, y compris ceux de directeur départemental, de directeur départemental adjoint et de sous-directeur des services d'incendie et de secours, pendant une durée d'au moins dix-sept années de service effectif en qualité de sapeur-pompier professionnel bénéficient d'une majoration de pension résultant de la prise en compte de l'indemnité de feu pour le calcul de leur pension de retraite.Cette majoration de pension est déterminée sur la base du taux de l'indemnité de feu effectivement perçue, appliqué au dernier traitement indiciaire brut détenu depuis six mois au moins en qualité de sapeur-pompier professionnel, et proratisée sur les seules années de service accomplies en cette qualité, dans des conditions prévues par décret en Conseil d'Etat.La jouissance de cette majoration est différée jusqu'à l'âge du droit au départ anticipé fixé au deuxième alinéa du 1° du I de l'article L. 24 du code des pensions civiles et militaires de retraite. Cette condition ainsi que celle de durée de service effectif mentionnée au premier alinéa du présent article ne sont pas applicables aux fonctionnaires qui sont radiés des cadres ou mis à la retraite pour invalidité, ni aux ayants cause des fonctionnaires décédés avant leur admission à la retraite.\n\nL'indemnité de feu est assujettie aux retenues et contributions supportées au titre des pensions par les intéressés et leurs collectivités employeurs dans des conditions fixées par décret en Conseil d'Etat.",
+      "valid_from": "2023-12-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,43 +12,56 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions annexées à la présente ordonnance constituent la partie législative du code de l'expropriation pour cause d'utilité publique."
+      "content": "Les dispositions annexées à la présente ordonnance constituent la partie législative du code de l'expropriation pour cause d'utilité publique.",
+      "valid_from": "2015-01-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions de la partie législative du code de l'expropriation pour cause d'utilité publique qui mentionnent, sans les reproduire, des dispositions soit d'autres codes, soit de textes législatifs sont de plein droit modifiées par l'effet des modifications ultérieures de ces dispositions."
+      "content": "Les dispositions de la partie législative du code de l'expropriation pour cause d'utilité publique qui mentionnent, sans les reproduire, des dispositions soit d'autres codes, soit de textes législatifs sont de plein droit modifiées par l'effet des modifications ultérieures de ces dispositions.",
+      "valid_from": "2015-01-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les références à des dispositions législatives abrogées par l'article 6 de la présente ordonnance sont remplacées par les références aux dispositions correspondantes du code de l'expropriation pour cause d'utilité publique dans sa rédaction annexée à la présente ordonnance."
+      "content": "Les références à des dispositions législatives abrogées par l'article 6 de la présente ordonnance sont remplacées par les références aux dispositions correspondantes du code de l'expropriation pour cause d'utilité publique dans sa rédaction annexée à la présente ordonnance.",
+      "valid_from": "2015-01-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "A abrogé les dispositions suivantes :\n\nA abrogé :\n\nLe décret du 6 janvier 1935 portant réglementation de l'expropriation pour cause d'utilité publique à Madagascar et dépendances applicable au Département de Mayotte.\n\n-Code de l'expropriation pour cause d'utilité publique\n\n-Code de l'organisation judiciaire\n\n-Loi n° 70-612 du 10 juillet 1970\n\n-Loi n° 93-1 du 4 janvier 1993"
+      "content": "A abrogé les dispositions suivantes :\n\nA abrogé :\n\nLe décret du 6 janvier 1935 portant réglementation de l'expropriation pour cause d'utilité publique à Madagascar et dépendances applicable au Département de Mayotte.\n\n-Code de l'expropriation pour cause d'utilité publique\n\n-Code de l'organisation judiciaire\n\n-Loi n° 70-612 du 10 juillet 1970\n\n-Loi n° 93-1 du 4 janvier 1993",
+      "valid_from": "2015-01-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. - Les enquêtes publiques ouvertes en application des dispositions de l'ancien code de l'expropriation pour cause d'utilité publique, en cours au jour de l'entrée en vigueur de la présente ordonnance, restent régies par les dispositions de l'ancien code de l'expropriation jusqu'à leur clôture.Les enquêtes publiques ouvertes en application du décret du 6 janvier 1935 portant réglementation de l'expropriation pour cause d'utilité publique à Madagascar et dépendances applicable au Département de Mayotte restent régies par les dispositions de ce décret.II. - Les déclarations d'utilité publiques rendues en application des dispositions de l'ancien code de l'expropriation pour cause d'utilité publique applicable avant l'entrée en vigueur de la présente ordonnance et en cours de validité au jour de l'entrée en vigueur de la présente ordonnance restent régies par les dispositions de l'ancien code de l'expropriation jusqu'à leur échéance.Les déclarations d'utilité publique rendues en application du décret du 6 janvier 1935 portant réglementation de l'expropriation pour cause d'utilité publique à Madagascar et dépendances applicable au Département de Mayotte restent régies par les dispositions de ce décret.III. - Les contentieux administratifs et judiciaires engagés sur le fondement des dispositions de l'ancien code de l'expropriation pour cause d'utilité publique, en cours au jour de l'entrée en vigueur de la présente ordonnance, demeurent régis par les dispositions de l'ancien code de l'expropriation pour cause d'utilité publique jusqu'à dessaisissement de la juridiction saisie.Les contentieux administratifs et judiciaires engagés sur le fondement du décret du 6 janvier 1935 portant réglementation de l'expropriation pour cause d'utilité publique à Madagascar et dépendances applicable au Département de Mayotte restent régis par les dispositions de ce décret."
+      "content": "I. - Les enquêtes publiques ouvertes en application des dispositions de l'ancien code de l'expropriation pour cause d'utilité publique, en cours au jour de l'entrée en vigueur de la présente ordonnance, restent régies par les dispositions de l'ancien code de l'expropriation jusqu'à leur clôture.Les enquêtes publiques ouvertes en application du décret du 6 janvier 1935 portant réglementation de l'expropriation pour cause d'utilité publique à Madagascar et dépendances applicable au Département de Mayotte restent régies par les dispositions de ce décret.II. - Les déclarations d'utilité publiques rendues en application des dispositions de l'ancien code de l'expropriation pour cause d'utilité publique applicable avant l'entrée en vigueur de la présente ordonnance et en cours de validité au jour de l'entrée en vigueur de la présente ordonnance restent régies par les dispositions de l'ancien code de l'expropriation jusqu'à leur échéance.Les déclarations d'utilité publique rendues en application du décret du 6 janvier 1935 portant réglementation de l'expropriation pour cause d'utilité publique à Madagascar et dépendances applicable au Département de Mayotte restent régies par les dispositions de ce décret.III. - Les contentieux administratifs et judiciaires engagés sur le fondement des dispositions de l'ancien code de l'expropriation pour cause d'utilité publique, en cours au jour de l'entrée en vigueur de la présente ordonnance, demeurent régis par les dispositions de l'ancien code de l'expropriation pour cause d'utilité publique jusqu'à dessaisissement de la juridiction saisie.Les contentieux administratifs et judiciaires engagés sur le fondement du décret du 6 janvier 1935 portant réglementation de l'expropriation pour cause d'utilité publique à Madagascar et dépendances applicable au Département de Mayotte restent régis par les dispositions de ce décret.",
+      "valid_from": "2015-01-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er janvier 2015."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er janvier 2015.",
+      "valid_from": "2015-01-01"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le Premier ministre et la garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2015-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

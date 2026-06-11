@@ -1,10 +1,10 @@
 {
   "id": "jorftext000000770901",
   "type": "statute",
-  "title": "Loi n°2002-3 du 3 janvier 2002",
+  "title": "Loi n° 2002-3 du 3 janvier 2002",
   "title_en": null,
   "short_name": null,
-  "status": "repealed",
+  "status": "in_force",
   "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000770901",
   "description": null,
   "provisions": [
@@ -12,13 +12,21 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Un décret en Conseil d'Etat détermine les conditions d'application des procédures préalables au commencement des travaux ou à la mise en service, prévues par les articles 2 à 8, aux infrastructures et systèmes de transport en projet, en cours de réalisation ou achevés à la date d'entrée en vigueur des dispositions desdits articles.Les articles L. 118-2 à L. 118-4 du code de la voirie routière sont applicables aux ouvrages quel que soit le stade d'avancement des travaux. Un décret en Conseil d'Etat fixe les conditions d'application de ces articles pour les ouvrages qui ne sont pas encore en service et pour lesquels des mesures complémentaires de sécurité doivent être appliquées.Un décret en Conseil d'Etat détermine les conditions d'application des procédures préalables au commencement des travaux ou à la mise en service, prévues par les articles 4 à 8, aux infrastructures et systèmes de transport en cours de réalisation ou achevés à la date d'entrée en vigueur des dispositions desdits articles."
+      "content": "Un décret en Conseil d'Etat détermine les conditions d'application des procédures préalables au commencement des travaux ou à la mise en service, prévues par les articles 2 à 8, aux infrastructures et systèmes de transport en projet, en cours de réalisation ou achevés à la date d'entrée en vigueur des dispositions desdits articles.Les articles L. 118-2 à L. 118-4 du code de la voirie routière sont applicables aux ouvrages quel que soit le stade d'avancement des travaux. Un décret en Conseil d'Etat fixe les conditions d'application de ces articles pour les ouvrages qui ne sont pas encore en service et pour lesquels des mesures complémentaires de sécurité doivent être appliquées.Un décret en Conseil d'Etat détermine les conditions d'application des procédures préalables au commencement des travaux ou à la mise en service, prévues par les articles 4 à 8, aux infrastructures et systèmes de transport en cours de réalisation ou achevés à la date d'entrée en vigueur des dispositions desdits articles.",
+      "valid_from": "2006-06-14"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Les dispositions du titre III de la présente loi sont applicables, en tant qu'elles concernent des événements de mer, à Mayotte, aux territoires d'outre-mer et à la Nouvelle-Calédonie, sans préjudice des compétences dévolues à ces collectivités."
+      "content": "Les dispositions du titre III de la présente loi sont applicables, en tant qu'elles concernent des événements de mer, à Mayotte, aux territoires d'outre-mer et à la Nouvelle-Calédonie, sans préjudice des compétences dévolues à ces collectivités.",
+      "valid_from": "2006-06-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

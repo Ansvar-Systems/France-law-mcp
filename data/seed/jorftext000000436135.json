@@ -12,31 +12,42 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le mandat des conseillers prud'hommes est prorogé jusqu'à la date des prochaines élections prud'homales générales qui auront lieu au plus tard le 31 décembre 2008."
+      "content": "Le mandat des conseillers prud'hommes est prorogé jusqu'à la date des prochaines élections prud'homales générales qui auront lieu au plus tard le 31 décembre 2008.",
+      "valid_from": "2004-06-26"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Pour le prochain renouvellement du mandat des conseillers prud'hommes, le vote électronique est mis en oeuvre, à titre expérimental, dans les conditions et selon les modalités définies par décret en Conseil d'Etat. Les matériels et logiciels utilisés devront respecter le secret du vote et la sincérité du scrutin."
+      "content": "Pour le prochain renouvellement du mandat des conseillers prud'hommes, le vote électronique est mis en oeuvre, à titre expérimental, dans les conditions et selon les modalités définies par décret en Conseil d'Etat. Les matériels et logiciels utilisés devront respecter le secret du vote et la sincérité du scrutin.",
+      "valid_from": "2004-06-26"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les dispositions de l'article L. 513-10 du même code sont abrogées."
+      "content": "Les dispositions de l'article L. 513-10 du même code sont abrogées.",
+      "valid_from": "2004-06-26"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Les dispositions de la présente ordonnance s'appliqueront pour les prochaines élections prud'homales générales."
+      "content": "Les dispositions de la présente ordonnance s'appliqueront pour les prochaines élections prud'homales générales.",
+      "valid_from": "2004-06-26"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Le Premier ministre, le ministre de l'intérieur, de la sécurité intérieure et des libertés locales, le ministre de l'emploi, du travail et de la cohésion sociale, le garde des sceaux, ministre de la justice, et le ministre de l'agriculture, de l'alimentation, de la pêche et des affaires rurales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'intérieur, de la sécurité intérieure et des libertés locales, le ministre de l'emploi, du travail et de la cohésion sociale, le garde des sceaux, ministre de la justice, et le ministre de l'agriculture, de l'alimentation, de la pêche et des affaires rurales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2004-06-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

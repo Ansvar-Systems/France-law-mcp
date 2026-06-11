@@ -12,7 +12,14 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les dispositions de l'article 4 s'appliquent sur l'ensemble du territoire de la République.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Les dispositions de l'article 4 s'appliquent sur l'ensemble du territoire de la République.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2008-04-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

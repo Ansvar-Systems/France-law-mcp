@@ -12,13 +12,21 @@
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les dispositions des articles 2, 3, 6, 7 et 9 entrent en vigueur à compter du 1er juillet 2010."
+      "content": "Les dispositions des articles 2, 3, 6, 7 et 9 entrent en vigueur à compter du 1er juillet 2010.",
+      "valid_from": "2009-02-01"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Le Premier ministre, la ministre de l'économie, de l'industrie et de l'emploi, le ministre du travail, des relations sociales, de la famille, de la solidarité et de la ville et la ministre de la santé et des sports sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'économie, de l'industrie et de l'emploi, le ministre du travail, des relations sociales, de la famille, de la solidarité et de la ville et la ministre de la santé et des sports sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2009-02-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

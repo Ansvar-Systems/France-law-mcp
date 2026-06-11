@@ -12,13 +12,21 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les dispositions de la présente ordonnance entreront en vigueur le 1er janvier 2006.Les articles 1er et 2 ne sont pas applicables aux libéralités pour lesquelles des demandes d'autorisation de leur acceptation ont été formées avant l'entrée en vigueur de la présente ordonnance.Les articles 5 à 8 sont applicables aux exercices comptables des associations et fondations ouverts à compter du 1er janvier 2006."
+      "content": "Les dispositions de la présente ordonnance entreront en vigueur le 1er janvier 2006.Les articles 1er et 2 ne sont pas applicables aux libéralités pour lesquelles des demandes d'autorisation de leur acceptation ont été formées avant l'entrée en vigueur de la présente ordonnance.Les articles 5 à 8 sont applicables aux exercices comptables des associations et fondations ouverts à compter du 1er janvier 2006.",
+      "valid_from": "2006-01-01"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, le ministre de l'économie, des finances et de l'industrie et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, le ministre de l'économie, des finances et de l'industrie et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2006-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,25 +12,35 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Un bilan de l'application des dispositions de la présente ordonnance dans la fonction publique de l'Etat, dans la fonction publique territoriale et dans la fonction publique hospitalière est rendu public par le ministre chargé de la fonction publique au plus tard le 31 décembre 2025."
+      "content": "Un bilan de l'application des dispositions de la présente ordonnance dans la fonction publique de l'Etat, dans la fonction publique territoriale et dans la fonction publique hospitalière est rendu public par le ministre chargé de la fonction publique au plus tard le 31 décembre 2025.",
+      "valid_from": "2021-02-19"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Jusqu'au renouvellement général des instances de la fonction publique :1° Les organisations syndicales représentatives ayant qualité pour participer aux négociations et signer l'accord conclu dans les domaines mentionnés à l'article 8 ter de la loi du 13 juillet 1983 précitée à cette négociation sont celles qui, placées auprès de l'autorité administrative ou territoriale compétente, disposent d'au moins un siège dans les comités techniques de la fonction publique de l'Etat, de la fonction publique territoriale et dans la fonction publique hospitalière ;2° Pour l'application du cinquième alinéa du III de l'article 8 bis de la même loi, l'organisme consultatif de référence est le comité technique du centre de gestion auquel est rattaché la collectivité territoriale ou l'établissement public en application de l'article 32 de la loi du 26 janvier 1984 précitée."
+      "content": "Jusqu'au renouvellement général des instances de la fonction publique :1° Les organisations syndicales représentatives ayant qualité pour participer aux négociations et signer l'accord conclu dans les domaines mentionnés à l'article 8 ter de la loi du 13 juillet 1983 précitée à cette négociation sont celles qui, placées auprès de l'autorité administrative ou territoriale compétente, disposent d'au moins un siège dans les comités techniques de la fonction publique de l'Etat, de la fonction publique territoriale et dans la fonction publique hospitalière ;2° Pour l'application du cinquième alinéa du III de l'article 8 bis de la même loi, l'organisme consultatif de référence est le comité technique du centre de gestion auquel est rattaché la collectivité territoriale ou l'établissement public en application de l'article 32 de la loi du 26 janvier 1984 précitée.",
+      "valid_from": "2021-02-19"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les dispositions de la présente ordonnance ne sont pas applicables aux négociations engagées avant la date de sa publication."
+      "content": "Les dispositions de la présente ordonnance ne sont pas applicables aux négociations engagées avant la date de sa publication.",
+      "valid_from": "2021-02-19"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, le ministre des solidarités et de la santé et la ministre de la transformation et de la fonction publiques sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, le ministre des solidarités et de la santé et la ministre de la transformation et de la fonction publiques sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-02-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

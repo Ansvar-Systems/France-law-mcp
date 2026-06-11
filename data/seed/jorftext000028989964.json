@@ -12,13 +12,21 @@
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "I.-Les articles 1er à 12 et 15 sont applicables en Nouvelle-Calédonie, à Wallis-et-Futuna et en Polynésie française. L'article 13 est applicable en Polynésie française.\n\nII., III. et IV.-A modifié les dispositions suivantes :\n\n-Code de procédure pénale\n\n-Ordonnance n° 92-1147 du 12 octobre 1992"
+      "content": "I.-Les articles 1er à 12 et 15 sont applicables en Nouvelle-Calédonie, à Wallis-et-Futuna et en Polynésie française. L'article 13 est applicable en Polynésie française.\n\nII., III. et IV.-A modifié les dispositions suivantes :\n\n-Code de procédure pénale\n\n-Ordonnance n° 92-1147 du 12 octobre 1992",
+      "valid_from": "2014-06-02"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "La présente loi entrera en vigueur le 2 juin 2014.Toutefois, le 5° et l'avant-dernier alinéa de l'article 61-1 du code de procédure pénale , dans sa rédaction résultant de l'article 1er de la présente loi, l'article 2 de la présente loi, la référence à l'article 61-2 du code de procédure pénale figurant dans les articles 77 et 154 du même code, dans leur rédaction résultant de l'article 3 de la présente loi, l'article 13 et les II à  IV de l'article 14 de la présente loi entrent en vigueur  le 1er janvier 2015."
+      "content": "La présente loi entrera en vigueur le 2 juin 2014.Toutefois, le 5° et l'avant-dernier alinéa de l'article 61-1 du code de procédure pénale , dans sa rédaction résultant de l'article 1er de la présente loi, l'article 2 de la présente loi, la référence à l'article 61-2 du code de procédure pénale figurant dans les articles 77 et 154 du même code, dans leur rédaction résultant de l'article 3 de la présente loi, l'article 13 et les II à  IV de l'article 14 de la présente loi entrent en vigueur  le 1er janvier 2015.",
+      "valid_from": "2014-06-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions figurant en annexe à la présente ordonnance constituent le livre Ier de la partie législative du code de l'urbanisme."
+      "content": "Les dispositions figurant en annexe à la présente ordonnance constituent le livre Ier de la partie législative du code de l'urbanisme.",
+      "valid_from": "2016-01-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions du livre Ier de la partie législative du code de l'urbanisme qui mentionnent, sans les reproduire, des dispositions soit d'autres codes, soit de textes législatifs ou de règlements communautaires sont de plein droit modifiées par l'effet des modifications ultérieures de ces dispositions."
+      "content": "Les dispositions du livre Ier de la partie législative du code de l'urbanisme qui mentionnent, sans les reproduire, des dispositions soit d'autres codes, soit de textes législatifs ou de règlements communautaires sont de plein droit modifiées par l'effet des modifications ultérieures de ces dispositions.",
+      "valid_from": "2016-01-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Sous réserve des dispositions des articles 4 à 8, les références à des dispositions législatives abrogées par l'article 12 sont remplacées par les références aux dispositions correspondantes du code de l'urbanisme dans sa rédaction issue de la présente ordonnance."
+      "content": "Sous réserve des dispositions des articles 4 à 8, les références à des dispositions législatives abrogées par l'article 12 sont remplacées par les références aux dispositions correspondantes du code de l'urbanisme dans sa rédaction issue de la présente ordonnance.",
+      "valid_from": "2016-01-01"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "I. - Jusqu'au 31 décembre 2016, les alinéas 1 à 5 de l'article L. 142-4 du code de l'urbanisme ne sont pas applicables dans les communes situées à plus de quinze kilomètres du rivage de la mer ou à plus de quinze kilomètres de la limite extérieure d'une unité urbaine de plus de 15 000 habitants, au sens du recensement général de la population.II. - Jusqu'au 31 décembre 2016, lorsque le périmètre d'un schéma de cohérence territoriale incluant la commune a été arrêté, la dérogation prévue à l'article L. 142-5 du code de l'urbanisme est accordée par l'établissement public prévu à l'article L. 143-16 du même code, après avis de la commission départementale de la consommation des espaces agricoles prévue à l'article L. 112-1-1 du code rural et de la pêche maritime."
+      "content": "I. - Jusqu'au 31 décembre 2016, les alinéas 1 à 5 de l'article L. 142-4 du code de l'urbanisme ne sont pas applicables dans les communes situées à plus de quinze kilomètres du rivage de la mer ou à plus de quinze kilomètres de la limite extérieure d'une unité urbaine de plus de 15 000 habitants, au sens du recensement général de la population.II. - Jusqu'au 31 décembre 2016, lorsque le périmètre d'un schéma de cohérence territoriale incluant la commune a été arrêté, la dérogation prévue à l'article L. 142-5 du code de l'urbanisme est accordée par l'établissement public prévu à l'article L. 143-16 du même code, après avis de la commission départementale de la consommation des espaces agricoles prévue à l'article L. 112-1-1 du code rural et de la pêche maritime.",
+      "valid_from": "2016-01-01"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er janvier 2016."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er janvier 2016.",
+      "valid_from": "2016-01-01"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Le Premier ministre et la ministre du logement, de l'égalité des territoires et de la ruralité sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre du logement, de l'égalité des territoires et de la ruralité sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

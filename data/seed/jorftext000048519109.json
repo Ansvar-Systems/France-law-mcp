@@ -12,13 +12,21 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "I. - Les dispositions de la présente ordonnance entrent en vigueur le 30 décembre 2023.II. - Les personnes qui exerçaient une activité de gestion de crédits à la date d'entrée en vigueur mentionnée au I restent soumises aux dispositions qui leur étaient applicables avant la date d'entrée en vigueur de la présente ordonnance jusqu'à ce qu'elles aient obtenu leur agrément dans les conditions prévues par les dispositions de la présente ordonnance et au plus tard le 29 juin 2024."
+      "content": "I. - Les dispositions de la présente ordonnance entrent en vigueur le 30 décembre 2023.II. - Les personnes qui exerçaient une activité de gestion de crédits à la date d'entrée en vigueur mentionnée au I restent soumises aux dispositions qui leur étaient applicables avant la date d'entrée en vigueur de la présente ordonnance jusqu'à ce qu'elles aient obtenu leur agrément dans les conditions prévues par les dispositions de la présente ordonnance et au plus tard le 29 juin 2024.",
+      "valid_from": "2023-12-08"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "La Première ministre, le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, le ministre de l'intérieur et des outre-mer, le ministre délégué auprès du ministre de l'économie, des finances et de la souveraineté industrielle et numérique, chargé des comptes publics, et le ministre délégué auprès du ministre de l'intérieur et des outre-mer, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "La Première ministre, le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, le ministre de l'intérieur et des outre-mer, le ministre délégué auprès du ministre de l'économie, des finances et de la souveraineté industrielle et numérique, chargé des comptes publics, et le ministre délégué auprès du ministre de l'intérieur et des outre-mer, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2023-12-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

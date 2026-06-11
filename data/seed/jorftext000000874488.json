@@ -12,19 +12,28 @@
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Le deuxième alinéa (1°) de l'article 20 de l'ordonnance n° 81-295 du 1er avril 1981 relative à la promulgation et à la publication des lois et décrets et à l'organisation de la justice à Mayotte est abrogé."
+      "content": "Le deuxième alinéa (1°) de l'article 20 de l'ordonnance n° 81-295 du 1er avril 1981 relative à la promulgation et à la publication des lois et décrets et à l'organisation de la justice à Mayotte est abrogé.",
+      "valid_from": "1987-12-31"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Les articles 1er à 40, le paragraphe II de l'article 41 et l'article 42 de la loi n° 85-1303 du 10 décembre 1985 portant réforme de la procédure d'instruction en matière pénale, ainsi que l'article 87 de la loi n° 85-1407 du 30 décembre 1985 portant diverses dispositions de procédure pénale et de droit pénal sont abrogés."
+      "content": "Les articles 1er à 40, le paragraphe II de l'article 41 et l'article 42 de la loi n° 85-1303 du 10 décembre 1985 portant réforme de la procédure d'instruction en matière pénale, ainsi que l'article 87 de la loi n° 85-1407 du 30 décembre 1985 portant diverses dispositions de procédure pénale et de droit pénal sont abrogés.",
+      "valid_from": "1987-12-31"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "L'article 13 de la présente loi entrera en vigueur le 1er octobre 1988."
+      "content": "L'article 13 de la présente loi entrera en vigueur le 1er octobre 1988.",
+      "valid_from": "1989-07-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

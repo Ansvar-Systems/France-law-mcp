@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le livre VI du code minier est modifié conformément aux articles 2 à 11 de la présente ordonnance."
+      "content": "Le livre VI du code minier est modifié conformément aux articles 2 à 11 de la présente ordonnance.",
+      "valid_from": "2022-04-15"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "I.-Les dispositions de la présente ordonnance entrent en vigueur à la date d'entrée en vigueur du décret en Conseil d'Etat pris pour son application et au plus tard le 1er juillet 2024.\n\nII.-Par exception au I, les dispositions du 1° de l'article L. 611-8, dans leur rédaction résultant du d du 1° de l'article 3 de l'ordonnance n° 2022-1423 du 10 novembre 2022 portant diverses dispositions relatives au code minier, et du 2° de l'article L. 611-9, dans leur rédaction résultant du e du 1° de l'article 3 de la même ordonnance, entrent en vigueur à la date d'entrée en vigueur de cette dernière ordonnance."
+      "content": "I.-Les dispositions de la présente ordonnance entrent en vigueur à la date d'entrée en vigueur du décret en Conseil d'Etat pris pour son application et au plus tard le 1er juillet 2024.\n\nII.-Par exception au I, les dispositions du 1° de l'article L. 611-8, dans leur rédaction résultant du d du 1° de l'article 3 de l'ordonnance n° 2022-1423 du 10 novembre 2022 portant diverses dispositions relatives au code minier, et du 2° de l'article L. 611-9, dans leur rédaction résultant du e du 1° de l'article 3 de la même ordonnance, entrent en vigueur à la date d'entrée en vigueur de cette dernière ordonnance.",
+      "valid_from": "2022-11-12"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Le Premier ministre, la ministre de la transition écologique, le ministre de l'économie, des finances et de la relance et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la transition écologique, le ministre de l'économie, des finances et de la relance et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2022-04-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

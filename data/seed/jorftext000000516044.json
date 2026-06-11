@@ -12,37 +12,49 @@
       "provision_ref": "art52",
       "section": "52",
       "title": "Article 52",
-      "content": "Toute référence faite, dans les textes en vigueur, à la procédure de flagrant délit prévue aux articles 71-1, 72-2 et 393 à 397 du code de procédure pénale vise désormais la procédure de la saisine directe prévue par les articles 393 à 397-7 du même code."
+      "content": "Toute référence faite, dans les textes en vigueur, à la procédure de flagrant délit prévue aux articles 71-1, 72-2 et 393 à 397 du code de procédure pénale vise désormais la procédure de la saisine directe prévue par les articles 393 à 397-7 du même code.",
+      "valid_from": "1981-02-03"
     },
     {
       "provision_ref": "art66",
       "section": "66",
       "title": "Article 66",
-      "content": "(Les dispositions de cet article ont été déclarées contraires à la Constitution par décision du Conseil constitutionnel en date du 20 janvier 1981)."
+      "content": "(Les dispositions de cet article ont été déclarées contraires à la Constitution par décision du Conseil constitutionnel en date du 20 janvier 1981).",
+      "valid_from": "1981-02-03"
     },
     {
       "provision_ref": "art70",
       "section": "70",
       "title": "Article 70",
-      "content": "Toutes les références à la tutelle pénale dans les textes en vigueur sont supprimées."
+      "content": "Toutes les références à la tutelle pénale dans les textes en vigueur sont supprimées.",
+      "valid_from": "1981-02-03"
     },
     {
       "provision_ref": "art80",
       "section": "80",
       "title": "Article 80",
-      "content": "A compter de la promulgation de la présente loi, les articles 316-5 à 316-7 du code des communes seront applicables dans les trois départements de la Moselle, du Bas-Rhin et du Haut-Rhin pour ce qui concerne les actions pénales appartenant à la commune et que celle-ci néglige d'exercer."
+      "content": "A compter de la promulgation de la présente loi, les articles 316-5 à 316-7 du code des communes seront applicables dans les trois départements de la Moselle, du Bas-Rhin et du Haut-Rhin pour ce qui concerne les actions pénales appartenant à la commune et que celle-ci néglige d'exercer.",
+      "valid_from": "1981-02-03"
     },
     {
       "provision_ref": "art92",
       "section": "92",
       "title": "Article 92",
-      "content": "(Les dispositions de cet article ont été déclarées contraires à la Constitution par décision du Conseil constitutionnel en date du 20 janvier 1981)."
+      "content": "(Les dispositions de cet article ont été déclarées contraires à la Constitution par décision du Conseil constitutionnel en date du 20 janvier 1981).",
+      "valid_from": "1981-02-03"
     },
     {
       "provision_ref": "art94",
       "section": "94",
       "title": "Article 94",
-      "content": "(Les dispositions de cet article ont été déclarées contraires à la Constitution par décision du Conseil constitutionnel en date du 20 janvier 1981)."
+      "content": "(Les dispositions de cet article ont été déclarées contraires à la Constitution par décision du Conseil constitutionnel en date du 20 janvier 1981).",
+      "valid_from": "1981-02-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

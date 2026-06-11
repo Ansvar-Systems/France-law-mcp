@@ -12,13 +12,21 @@
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Les dispositions de l'article 5 de la présente ordonnance entreront en vigueur à une date fixée par décret et au plus tard le 1er octobre 2006."
+      "content": "Les dispositions de l'article 5 de la présente ordonnance entreront en vigueur à une date fixée par décret et au plus tard le 1er octobre 2006.",
+      "valid_from": "2005-12-16"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, le ministre de l'emploi, de la cohésion sociale et du logement, le garde des sceaux, ministre de la justice, et le ministre de la santé et des solidarités sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, le ministre de l'emploi, de la cohésion sociale et du logement, le garde des sceaux, ministre de la justice, et le ministre de la santé et des solidarités sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2005-12-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

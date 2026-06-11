@@ -12,13 +12,21 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le premier jour du troisième mois suivant sa publication.Toutefois, les sociétés coopératives ou leurs unions disposent d'un délai de quatorze mois à compter de la publication de la présente ordonnance pour modifier leurs statuts et leur règlement intérieur conformément aux dispositions de la présente ordonnance et les transmettre au Haut Conseil de la coopération agricole. Cette obligation est reportée au 1er juillet 2022 pour les sociétés coopératives agricoles ou leurs unions qui ont exclusivement pour objet l'approvisionnement ou les services et dont le chiffre d'affaires annuel est inférieur à 200 000 € hors taxes.Le guide de bonnes pratiques mentionné à l'article 5 est publié avant le 1er janvier 2020."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le premier jour du troisième mois suivant sa publication.Toutefois, les sociétés coopératives ou leurs unions disposent d'un délai de quatorze mois à compter de la publication de la présente ordonnance pour modifier leurs statuts et leur règlement intérieur conformément aux dispositions de la présente ordonnance et les transmettre au Haut Conseil de la coopération agricole. Cette obligation est reportée au 1er juillet 2022 pour les sociétés coopératives agricoles ou leurs unions qui ont exclusivement pour objet l'approvisionnement ou les services et dont le chiffre d'affaires annuel est inférieur à 200 000 € hors taxes.Le guide de bonnes pratiques mentionné à l'article 5 est publié avant le 1er janvier 2020.",
+      "valid_from": "2019-07-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Premier ministre et le ministre de l'agriculture et de l'alimentation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre de l'agriculture et de l'alimentation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2019-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

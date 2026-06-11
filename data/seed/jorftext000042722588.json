@@ -12,25 +12,35 @@
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "I. - Les organisations professionnelles et les éditeurs de services mentionnés à l'article L. 234-1 du code du cinéma et de l'image animée concluent un nouvel accord professionnel sur les délais applicables aux différents modes d'exploitation des œuvres cinématographiques prévus aux articles L. 232-1 et L. 233-1 de ce code.A défaut d'un nouvel accord rendu obligatoire dans un délai, fixé par décret, qui ne peut être supérieur à six mois à compter de la publication de la présente ordonnance, les délais au terme desquels une œuvre cinématographique peut être mise à la disposition du public par un éditeur de services de médias audiovisuels à la demande ou diffusé par un éditeur de services de télévision sont fixés par décret en Conseil d'Etat.Ces délais s'appliquent jusqu'à l'entrée en vigueur d'un accord professionnel rendu obligatoire.II. - Le décret en Conseil d'Etat mentionné au I fixe :1° Le point de départ des délais d'exploitation des œuvres cinématographiques ;2° Les catégories de services concernés et le ou les délais qui leurs sont applicables. Ces délais peuvent être modulés en fonction :a) De l'existence d'une dérogation au délai prévu à l'article L. 231-1 du code du cinéma et de l'image animée ;b) Du niveau de la contribution à la production d'œuvres cinématographiques européennes et d'expression originale française et de l'existence d'accords professionnels ayant trait notamment aux engagements pris par les éditeurs de services en matière de contribution à la production et de diffusion de ces œuvres ;3° Les principes régissant la mise en œuvre et l'articulation de ces délais.III. - Les délais fixés par le décret en Conseil d'Etat mentionné au I s'appliquent aux contrats conclus à compter de l'entrée en vigueur de ce décret."
+      "content": "I. - Les organisations professionnelles et les éditeurs de services mentionnés à l'article L. 234-1 du code du cinéma et de l'image animée concluent un nouvel accord professionnel sur les délais applicables aux différents modes d'exploitation des œuvres cinématographiques prévus aux articles L. 232-1 et L. 233-1 de ce code.A défaut d'un nouvel accord rendu obligatoire dans un délai, fixé par décret, qui ne peut être supérieur à six mois à compter de la publication de la présente ordonnance, les délais au terme desquels une œuvre cinématographique peut être mise à la disposition du public par un éditeur de services de médias audiovisuels à la demande ou diffusé par un éditeur de services de télévision sont fixés par décret en Conseil d'Etat.Ces délais s'appliquent jusqu'à l'entrée en vigueur d'un accord professionnel rendu obligatoire.II. - Le décret en Conseil d'Etat mentionné au I fixe :1° Le point de départ des délais d'exploitation des œuvres cinématographiques ;2° Les catégories de services concernés et le ou les délais qui leurs sont applicables. Ces délais peuvent être modulés en fonction :a) De l'existence d'une dérogation au délai prévu à l'article L. 231-1 du code du cinéma et de l'image animée ;b) Du niveau de la contribution à la production d'œuvres cinématographiques européennes et d'expression originale française et de l'existence d'accords professionnels ayant trait notamment aux engagements pris par les éditeurs de services en matière de contribution à la production et de diffusion de ces œuvres ;3° Les principes régissant la mise en œuvre et l'articulation de ces délais.III. - Les délais fixés par le décret en Conseil d'Etat mentionné au I s'appliquent aux contrats conclus à compter de l'entrée en vigueur de ce décret.",
+      "valid_from": "2020-12-24"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "Les décrets fixant le régime de contribution à la production d'œuvres cinématographiques et audiovisuelles des éditeurs de services mentionnés au II de l'article 43-7 de la loi n° 86-1067 du 30 septembre 1986 précitée peuvent déterminer le montant de cette contribution en 2021 sur la base du chiffre d'affaires ou des ressources réalisés en 2020 par les services en cause. Cette contribution est déterminée dans des conditions équivalentes à celles applicables aux services établis en France ou qui relèvent de la compétence de la France."
+      "content": "Les décrets fixant le régime de contribution à la production d'œuvres cinématographiques et audiovisuelles des éditeurs de services mentionnés au II de l'article 43-7 de la loi n° 86-1067 du 30 septembre 1986 précitée peuvent déterminer le montant de cette contribution en 2021 sur la base du chiffre d'affaires ou des ressources réalisés en 2020 par les services en cause. Cette contribution est déterminée dans des conditions équivalentes à celles applicables aux services établis en France ou qui relèvent de la compétence de la France.",
+      "valid_from": "2020-12-24"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "I. -A modifié les dispositions suivantes :\n\n- Loi n° 86-1067 du 30 septembre 1986\n\nII.-L'article 29 de la présente ordonnance est applicable dans les Iles Wallis et Futuna, en Nouvelle Calédonie, en Polynésie française et les Terres australes et antarctiques françaises."
+      "content": "I. -A modifié les dispositions suivantes :\n\n- Loi n° 86-1067 du 30 septembre 1986\n\nII.-L'article 29 de la présente ordonnance est applicable dans les Iles Wallis et Futuna, en Nouvelle Calédonie, en Polynésie française et les Terres australes et antarctiques françaises.",
+      "valid_from": "2020-12-24"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "Le Premier ministre, le ministre des outre-mer et la ministre de la culture sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des outre-mer et la ministre de la culture sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-12-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

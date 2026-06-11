@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions des articles 10 (par. 2), 19 et 20 de la loi du 1er septembre 1948 ne sont pas opposables aux fonctionnaires ayant fait l'objet d'une mesure d'affectation ou de détachement dans les conditions prévues par la loi n° 57-871 du 1er août 1957, ni aux militaires appartenant à une unité stationnée en Afrique du Nord."
+      "content": "Les dispositions des articles 10 (par. 2), 19 et 20 de la loi du 1er septembre 1948 ne sont pas opposables aux fonctionnaires ayant fait l'objet d'une mesure d'affectation ou de détachement dans les conditions prévues par la loi n° 57-871 du 1er août 1957, ni aux militaires appartenant à une unité stationnée en Afrique du Nord.",
+      "valid_from": "1959-01-06"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Par dérogation aux dispositions de l'article 78 de la loi du 1er septembre 1948 et nonobstant toute convention contraire, les personnes visées à l'article 1er ont la faculté de sous-louer leur logement pour la durée de leur éloignement."
+      "content": "Par dérogation aux dispositions de l'article 78 de la loi du 1er septembre 1948 et nonobstant toute convention contraire, les personnes visées à l'article 1er ont la faculté de sous-louer leur logement pour la durée de leur éloignement.",
+      "valid_from": "1959-01-06"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le droit au maintien dans les lieux n'est pas opposable aux bénéficiaires de la présente loi qui ont loué ou sous-loué leur logement pour la durée de leur éloignement.Les dispositions de la loi n° 49-972 du 21 juillet 1949        et celles de la loi n° 51-1372 du 1er décembre 1951 modifiée ne sont pas applicables aux bénéficiaires des locations ou sous-locations mentionnées à l'alinéa précédent."
+      "content": "Le droit au maintien dans les lieux n'est pas opposable aux bénéficiaires de la présente loi qui ont loué ou sous-loué leur logement pour la durée de leur éloignement.Les dispositions de la loi n° 49-972 du 21 juillet 1949        et celles de la loi n° 51-1372 du 1er décembre 1951 modifiée ne sont pas applicables aux bénéficiaires des locations ou sous-locations mentionnées à l'alinéa précédent.",
+      "valid_from": "1959-01-06"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Sans préjudice de l'application des dispositions de l'article 8 de la loi n° 56-672 du 9 juillet 1956 modifiée, aucune expulsion de locaux d'habitation ne peut être exécutée à l'encontre de ces mêmes personnes ni à l'encontre de leur conjoint ou des membres de leur famille habituellement domiciliés avec eux.Les dispositions du présent article ne sont toutefois pas applicables lorsque l'expulsion est prononcée en application de l'article 18 de la loi du 1er septembre 1948     , ou en cas d'expropriation pour cause d'utilité publique, lorsque le relogement des intéressés est assuré dans les conditions prévues à l'article 22 de l'ordonnance n° 58-997 du 23 octobre 1958."
+      "content": "Sans préjudice de l'application des dispositions de l'article 8 de la loi n° 56-672 du 9 juillet 1956 modifiée, aucune expulsion de locaux d'habitation ne peut être exécutée à l'encontre de ces mêmes personnes ni à l'encontre de leur conjoint ou des membres de leur famille habituellement domiciliés avec eux.Les dispositions du présent article ne sont toutefois pas applicables lorsque l'expulsion est prononcée en application de l'article 18 de la loi du 1er septembre 1948     , ou en cas d'expropriation pour cause d'utilité publique, lorsque le relogement des intéressés est assuré dans les conditions prévues à l'article 22 de l'ordonnance n° 58-997 du 23 octobre 1958.",
+      "valid_from": "1959-01-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

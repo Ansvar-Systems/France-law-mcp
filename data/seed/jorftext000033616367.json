@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les réseaux fermés de distribution d'électricité existant à la date de publication de la présente ordonnance déposent une demande d'autorisation dans les conditions fixées à l'article L. 344-7 dans un délai de six mois à compter de la date de publication du décret prévu à l'article L. 344-13.Dans le délai prévu au premier alinéa, le gestionnaire du réseau fermé adresse à la Commission de régulation de l'énergie une demande d'exemptions régie par l'article L. 344-10, s'il souhaite bénéficier de ces exemptions.Si le gestionnaire du réseau fermé de distribution existant à la date de publication de la présente ordonnance ne demande pas le bénéfice de l'exemption de l'obligation mentionnée au deuxième alinéa de l'article L. 344-9, il soumet dans le délai prévu au premier alinéa les tarifs des redevances d'utilisation de son réseau à l'approbation de la Commission de régulation de l'énergie.Par dérogation aux dispositions du deuxième alinéa de l'article L. 344-9 et du deuxième alinéa de l'article L. 344-10, le délai à l'expiration duquel les tarifs des redevances sont réputés approuvés et la demande d'exemptions est réputée acceptée par la Commission de régulation de l'énergie est, pour l'application du présent article, fixé à huit mois.Jusqu'à l'intervention des décisions sur les demandes mentionnées aux trois premiers alinéas, les réseaux fermés de distribution d'électricité existant à la date de publication de la présente ordonnance sont réputés disposer de l'autorisation mentionnée à l'article L. 344-7 et bénéficier des exemptions prévues à l'article L. 344-10."
+      "content": "Les réseaux fermés de distribution d'électricité existant à la date de publication de la présente ordonnance déposent une demande d'autorisation dans les conditions fixées à l'article L. 344-7 dans un délai de six mois à compter de la date de publication du décret prévu à l'article L. 344-13.Dans le délai prévu au premier alinéa, le gestionnaire du réseau fermé adresse à la Commission de régulation de l'énergie une demande d'exemptions régie par l'article L. 344-10, s'il souhaite bénéficier de ces exemptions.Si le gestionnaire du réseau fermé de distribution existant à la date de publication de la présente ordonnance ne demande pas le bénéfice de l'exemption de l'obligation mentionnée au deuxième alinéa de l'article L. 344-9, il soumet dans le délai prévu au premier alinéa les tarifs des redevances d'utilisation de son réseau à l'approbation de la Commission de régulation de l'énergie.Par dérogation aux dispositions du deuxième alinéa de l'article L. 344-9 et du deuxième alinéa de l'article L. 344-10, le délai à l'expiration duquel les tarifs des redevances sont réputés approuvés et la demande d'exemptions est réputée acceptée par la Commission de régulation de l'énergie est, pour l'application du présent article, fixé à huit mois.Jusqu'à l'intervention des décisions sur les demandes mentionnées aux trois premiers alinéas, les réseaux fermés de distribution d'électricité existant à la date de publication de la présente ordonnance sont réputés disposer de l'autorisation mentionnée à l'article L. 344-7 et bénéficier des exemptions prévues à l'article L. 344-10.",
+      "valid_from": "2016-12-17"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre et la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-12-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

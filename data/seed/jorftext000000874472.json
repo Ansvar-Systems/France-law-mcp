@@ -12,19 +12,28 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les élèves français de l'Ecole polytechnique servent sous statut militaire dans les conditions fixées par décret en Conseil d'Etat. Ils souscrivent un engagement spécial en qualité d'élève officier de l'Ecole polytechnique, pour une durée égale au temps de la scolarité. Ils perçoivent une rémunération fixée par décret."
+      "content": "Les élèves français de l'Ecole polytechnique servent sous statut militaire dans les conditions fixées par décret en Conseil d'Etat. Ils souscrivent un engagement spécial en qualité d'élève officier de l'Ecole polytechnique, pour une durée égale au temps de la scolarité. Ils perçoivent une rémunération fixée par décret.",
+      "valid_from": "1999-07-13"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les élèves qui, à la sortie de l'école, sont nommés dans un corps d'officiers d'active prennent rang, dans le grade de sous-lieutenant ou dans le grade correspondant, un an après la date de leur entrée à l'école et bénéficient, lors de leur nomination au grade de lieutenant ou au grade correspondant, d'une bonification d'ancienneté d'un an dans ce grade.S'ils sont nommés dans le corps des ingénieurs de l'armement, ils prennent rang, dans le grade d'ingénieur, deux ans après la date de leur entrée à l'école.En cas de prolongation de la scolarité, la date de prise de rang sera retardée d'une durée égale à celle des prolongations accordées sauf si celles-ci résultent d'une cause imputable au service.Les nominations prononcées au titre du présent article sont exclusives de tout rappel de solde."
+      "content": "Les élèves qui, à la sortie de l'école, sont nommés dans un corps d'officiers d'active prennent rang, dans le grade de sous-lieutenant ou dans le grade correspondant, un an après la date de leur entrée à l'école et bénéficient, lors de leur nomination au grade de lieutenant ou au grade correspondant, d'une bonification d'ancienneté d'un an dans ce grade.S'ils sont nommés dans le corps des ingénieurs de l'armement, ils prennent rang, dans le grade d'ingénieur, deux ans après la date de leur entrée à l'école.En cas de prolongation de la scolarité, la date de prise de rang sera retardée d'une durée égale à celle des prolongations accordées sauf si celles-ci résultent d'une cause imputable au service.Les nominations prononcées au titre du présent article sont exclusives de tout rappel de solde.",
+      "valid_from": "1970-07-16"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Sont abrogées toutes dispositions contraires à la présente loi et notamment :L'article 51 de la loi de finances du 26 décembre 1908 ;L'article 31 de la loi n° 50-857 du 24 juillet 1950 relative au développement des crédits affectés aux dépenses militaires de fonctionnement et d'investissement pour l'exercice 1950 ;et, en tant qu'ils concernent l'école polytechnique :L'article 30 de la loi du 31 mars 1928 relative au recrutement de l'armée ;L'article 152, premier alinéa, de la loi de finances du 16 avril 1930."
+      "content": "Sont abrogées toutes dispositions contraires à la présente loi et notamment :L'article 51 de la loi de finances du 26 décembre 1908 ;L'article 31 de la loi n° 50-857 du 24 juillet 1950 relative au développement des crédits affectés aux dépenses militaires de fonctionnement et d'investissement pour l'exercice 1950 ;et, en tant qu'ils concernent l'école polytechnique :L'article 30 de la loi du 31 mars 1928 relative au recrutement de l'armée ;L'article 152, premier alinéa, de la loi de finances du 16 avril 1930.",
+      "valid_from": "1970-07-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

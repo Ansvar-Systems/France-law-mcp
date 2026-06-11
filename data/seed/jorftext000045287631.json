@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- Code des pensions militaires d'invalidité et des victimes de guerre.\n\n- Code de la santé publique\n\n- Loi du 29 juillet 1881\n\n- LOI n° 2009-928 du 29 juillet 2009\n\n- LOI n° 2009-1673 du 30 décembre 2009\n\n- LOI n° 2010-1657 du 29 décembre 2010\n\n- LOI n° 2013-1278 du 29 décembre 2013\n\n- LOI n° 2015-1785 du 29 décembre 2015\n\n- LOI n° 2016-483 du 20 avril 2016\n\n- LOI n°2022-229 du 23 février 2022\n\n- Loi n°66-948 du 22 décembre 1966\n\n- Loi n°69-1161 du 24 décembre 1969\n\n- Code de l'action sociale et des familles\n\n- Code de la défense.\n\n- Code de procédure pénale\n\n- Code des pensions militaires d'invalidité et des victimes de guerre.\n\n- Code de la construction et de l'habitation.\n\n- Code général des impôts, CGI."
+      "content": "A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n-Code des pensions militaires d'invalidité et des victimes de guerre.\n\n-Code des pensions militaires d'invalidité et des victimes de guerre.\n\n-Code de la santé publique\n\n-Loi du 29 juillet 1881\n\n-LOI n° 2009-928 du 29 juillet 2009\n\n-LOI n° 2009-1673 du 30 décembre 2009\n\n-LOI n° 2010-1657 du 29 décembre 2010\n\n-LOI n° 2013-1278 du 29 décembre 2013\n\n-LOI n° 2015-1785 du 29 décembre 2015\n\n-LOI n° 2016-483 du 20 avril 2016\n\n-LOI n° 2022-229 du 23 février 2022\n\n-Loi n° 66-948 du 22 décembre 1966\n\n-Loi n° 69-1161 du 24 décembre 1969\n\n-Code de l'action sociale et des familles\n\n-Code de la défense.\n\n-Code de procédure pénale\n\n-Code des pensions militaires d'invalidité et des victimes de guerre.\n\n-Code de la construction et de l'habitation.\n\n-Code général des impôts, CGI.",
+      "valid_from": "2022-03-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

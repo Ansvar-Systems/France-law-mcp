@@ -12,37 +12,49 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Sont abrogés les articles L. 158, L. 213, L. 244 et L. 349 du code électoral."
+      "content": "Sont abrogés les articles L. 158, L. 213, L. 244 et L. 349 du code électoral.",
+      "valid_from": "1995-01-21"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "L'article 11-9 de la loi n° 88-227 du 11 mars 1988 précitée est abrogé."
+      "content": "L'article 11-9 de la loi n° 88-227 du 11 mars 1988 précitée est abrogé.",
+      "valid_from": "1995-01-21"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 95-363 DC du 11 janvier 1995.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 95-363 DC du 11 janvier 1995.]",
+      "valid_from": "1995-01-21"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Les dispositions de la deuxième phrase du dernier alinéa de l'article L. 52-12 du code électoral et de la dernière phrase du deuxième alinéa de l'article 11-7 de la loi n° 88-227 du 11 mars 1988 précitée demeurent applicables, dans leur rédaction antérieure à la présente loi, aux dons consentis avant sa publication."
+      "content": "Les dispositions de la deuxième phrase du dernier alinéa de l'article L. 52-12 du code électoral et de la dernière phrase du deuxième alinéa de l'article 11-7 de la loi n° 88-227 du 11 mars 1988 précitée demeurent applicables, dans leur rédaction antérieure à la présente loi, aux dons consentis avant sa publication.",
+      "valid_from": "1995-01-21"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte."
+      "content": "La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte.",
+      "valid_from": "1995-01-21"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "A l'issue d'une période de trois ans à compter de l'entrée en vigueur de l'article 4 de la présente loi, la Commission nationale des comptes de campagne et des financements politiques remet au Gouvernement un rapport spécial contenant ses observations sur les conditions dans lesquelles ladite loi a été appliquée et ses appréciations concernant l'interdiction faite aux personnes morales de contribuer au financement des campagnes et des partis."
+      "content": "A l'issue d'une période de trois ans à compter de l'entrée en vigueur de l'article 4 de la présente loi, la Commission nationale des comptes de campagne et des financements politiques remet au Gouvernement un rapport spécial contenant ses observations sur les conditions dans lesquelles ladite loi a été appliquée et ses appréciations concernant l'interdiction faite aux personnes morales de contribuer au financement des campagnes et des partis.",
+      "valid_from": "1995-01-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

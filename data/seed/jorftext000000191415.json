@@ -12,19 +12,28 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Pour l'application en 1996 des dispositions des articles L. 301-3-1, L. 302-5 et L. 302-8 du code de la construction et de l'habitation et de l'article L. 213-1 du code de l'urbanisme, les logements sociaux pris en compte sont ceux définis par l'article L. 234-12 du code des communes dans sa rédaction antérieure à la loi n° 96-142 du 21 février 1996 relative à la partie législative du code général des collectivités territoriales."
+      "content": "Pour l'application en 1996 des dispositions des articles L. 301-3-1, L. 302-5 et L. 302-8 du code de la construction et de l'habitation et de l'article L. 213-1 du code de l'urbanisme, les logements sociaux pris en compte sont ceux définis par l'article L. 234-12 du code des communes dans sa rédaction antérieure à la loi n° 96-142 du 21 février 1996 relative à la partie législative du code général des collectivités territoriales.",
+      "valid_from": "1996-03-27"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Sont validées les décisions relatives à la dotation globale de fonctionnement des communes et des départements, au fonds de solidarité des communes de la région d'Ile-de-France et à la compensation de la réduction pour embauche ou investissement instituée par le IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986) en tant qu'elles seraient contestées sur le fondement du défaut de prise en compte des logements-foyers et des résidences universitaires au nombre des logements sociaux ayant fait l'objet d'un recensement en vue des répartitions au titre des exercices antérieurs à 1995.Les dispositions du présent article ne font pas obstacle à l'exécution des décisions juridictionnelles passées en force de chose jugée antérieurement à la promulgation de la présente loi."
+      "content": "Sont validées les décisions relatives à la dotation globale de fonctionnement des communes et des départements, au fonds de solidarité des communes de la région d'Ile-de-France et à la compensation de la réduction pour embauche ou investissement instituée par le IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986) en tant qu'elles seraient contestées sur le fondement du défaut de prise en compte des logements-foyers et des résidences universitaires au nombre des logements sociaux ayant fait l'objet d'un recensement en vue des répartitions au titre des exercices antérieurs à 1995.Les dispositions du présent article ne font pas obstacle à l'exécution des décisions juridictionnelles passées en force de chose jugée antérieurement à la promulgation de la présente loi.",
+      "valid_from": "1996-03-27"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "A défaut de mention contraire, les dispositions de la présente loi s'appliquent à compter de l'exercice 1996."
+      "content": "A défaut de mention contraire, les dispositions de la présente loi s'appliquent à compter de l'exercice 1996.",
+      "valid_from": "1996-03-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

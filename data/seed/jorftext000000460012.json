@@ -12,61 +12,77 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sous réserve des dispositions des articles 3, 4 et 5, les livres Ier à IX de la partie Législative du code de l'organisation judiciaire sont remplacés par les livres Ier à V annexés à la présente ordonnance (annexe I)."
+      "content": "Sous réserve des dispositions des articles 3, 4 et 5, les livres Ier à IX de la partie Législative du code de l'organisation judiciaire sont remplacés par les livres Ier à V annexés à la présente ordonnance (annexe I).",
+      "valid_from": "2006-06-09"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le livre VII de la partie Législative du code de commerce est remplacé par les dispositions annexées à la présente ordonnance (annexe II)."
+      "content": "Le livre VII de la partie Législative du code de commerce est remplacé par les dispositions annexées à la présente ordonnance (annexe II).",
+      "valid_from": "2006-06-09"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Nonobstant les dispositions de l'article 1er, l'abrogation des dispositions suivantes des livres Ier à IX de la partie Législative du code de l'organisation judiciaire dans sa rédaction en vigueur jusqu'à la date de publication de la présente ordonnance ne prendra effet qu'à compter de la date d'entrée en vigueur du décret portant refonte de la partie Réglementaire du même code :1° Dans le livre Ier : l'article L. 121-1, la deuxième phrase de l'article L. 121-2, le deuxième alinéa de l'article L. 121-4, l'article L. 131-1, le dernier alinéa de l'article L. 131-3, les articles L. 131-6 et L. 131-6-1, le deuxième alinéa de l'article L. 131-7, la seconde phrase du deuxième alinéa de l'article L. 151-1 ainsi que les deuxième, troisième et quatrième alinéas de l'article L. 151-2 ;2° Dans le livre II : l'article L. 212-1, le quatrième alinéa de l'article L. 221-1, l'article L. 221-2, l'article L. 221-3, l'article L. 223-1, les deuxième et troisième alinéas de l'article L. 223-2, l'article L. 225-3 et le deuxième alinéa de l'article L. 226-1 ;3° Dans le livre III : les articles L. 311-5 et L. 311-8, les premier et troisième alinéas de l'article L. 311-10, les articles L. 311-10-1 et L. 311-11, le deuxième alinéa de l'article L. 311-12, les quatrième et cinquième alinéas de l'article L. 311-12-1, les articles L. 311-13, L. 311-16, L. 311-17 et L. 311-18, la seconde phrase du cinquième alinéa de l'article L. 312-1, les articles L. 312-1-1, L. 312-2, L. 321-2, L. 321-2-1, L. 321-2-2, L. 321-2-3, L. 321-3, L. 323-1, L. 331-2, L. 331-2-1, L. 331-6 et L. 331-8 ;4° Dans le livre IV : les articles L. 441-2 et L. 442-1, les huitième et neuvième alinéas de l'article L. 442-2, les articles L. 442-5 et L. 443-1, le deuxième alinéa des articles L. 443-4 et L. 443-5 ;5° Dans le livre V : les articles L. 522-1 et L. 522-6 ;6° Dans le livre VI : l'article L. 623-2 ;7° Dans le livre VII : le deuxième alinéa de l'article L. 710-1 et les articles L. 7-10-1-1, L. 7-12-1-1, L. 7-12-1-2 et L. 7-12-1-3 ;8° Dans le livre VIII : les articles L. 811-2 et L. 871-2 ;9° Dans le livre IX : les articles L. 922-1, L. 931-2, L. 931-7 et L. 931-7-1, le troisième alinéa de l'article L. 931-8, les articles L. 931-12, L. 931-16, L. 931-18, L. 932-1, L. 932-3, L. 932-4, L. 932-5, L. 932-6, L. 932-7, L. 932-8, L. 932-25, L. 932-28, L. 932-44, L. 932-45, L. 932-46, L. 933-3, L. 933-5, L. 933-6, L. 934-1, L. 934-4, L. 934-5, L. 935-1, L. 941-2, L. 942-3, L. 942-4, L. 942-7, L. 942-11, L. 942-13, L. 942-14, L. 942-16 et L. 943-4, le troisième alinéa de l'article L. 943-5, les articles L. 943-6, L. 943-7, L. 946-2 et L. 951-3, le premier alinéa de l'article L. 951-4, le III de l'article L. 952-7, l'article L. 952-9 et le III de l'article L. 952-11."
+      "content": "Nonobstant les dispositions de l'article 1er, l'abrogation des dispositions suivantes des livres Ier à IX de la partie Législative du code de l'organisation judiciaire dans sa rédaction en vigueur jusqu'à la date de publication de la présente ordonnance ne prendra effet qu'à compter de la date d'entrée en vigueur du décret portant refonte de la partie Réglementaire du même code :1° Dans le livre Ier : l'article L. 121-1, la deuxième phrase de l'article L. 121-2, le deuxième alinéa de l'article L. 121-4, l'article L. 131-1, le dernier alinéa de l'article L. 131-3, les articles L. 131-6 et L. 131-6-1, le deuxième alinéa de l'article L. 131-7, la seconde phrase du deuxième alinéa de l'article L. 151-1 ainsi que les deuxième, troisième et quatrième alinéas de l'article L. 151-2 ;2° Dans le livre II : l'article L. 212-1, le quatrième alinéa de l'article L. 221-1, l'article L. 221-2, l'article L. 221-3, l'article L. 223-1, les deuxième et troisième alinéas de l'article L. 223-2, l'article L. 225-3 et le deuxième alinéa de l'article L. 226-1 ;3° Dans le livre III : les articles L. 311-5 et L. 311-8, les premier et troisième alinéas de l'article L. 311-10, les articles L. 311-10-1 et L. 311-11, le deuxième alinéa de l'article L. 311-12, les quatrième et cinquième alinéas de l'article L. 311-12-1, les articles L. 311-13, L. 311-16, L. 311-17 et L. 311-18, la seconde phrase du cinquième alinéa de l'article L. 312-1, les articles L. 312-1-1, L. 312-2, L. 321-2, L. 321-2-1, L. 321-2-2, L. 321-2-3, L. 321-3, L. 323-1, L. 331-2, L. 331-2-1, L. 331-6 et L. 331-8 ;4° Dans le livre IV : les articles L. 441-2 et L. 442-1, les huitième et neuvième alinéas de l'article L. 442-2, les articles L. 442-5 et L. 443-1, le deuxième alinéa des articles L. 443-4 et L. 443-5 ;5° Dans le livre V : les articles L. 522-1 et L. 522-6 ;6° Dans le livre VI : l'article L. 623-2 ;7° Dans le livre VII : le deuxième alinéa de l'article L. 710-1 et les articles L. 7-10-1-1, L. 7-12-1-1, L. 7-12-1-2 et L. 7-12-1-3 ;8° Dans le livre VIII : les articles L. 811-2 et L. 871-2 ;9° Dans le livre IX : les articles L. 922-1, L. 931-2, L. 931-7 et L. 931-7-1, le troisième alinéa de l'article L. 931-8, les articles L. 931-12, L. 931-16, L. 931-18, L. 932-1, L. 932-3, L. 932-4, L. 932-5, L. 932-6, L. 932-7, L. 932-8, L. 932-25, L. 932-28, L. 932-44, L. 932-45, L. 932-46, L. 933-3, L. 933-5, L. 933-6, L. 934-1, L. 934-4, L. 934-5, L. 935-1, L. 941-2, L. 942-3, L. 942-4, L. 942-7, L. 942-11, L. 942-13, L. 942-14, L. 942-16 et L. 943-4, le troisième alinéa de l'article L. 943-5, les articles L. 943-6, L. 943-7, L. 946-2 et L. 951-3, le premier alinéa de l'article L. 951-4, le III de l'article L. 952-7, l'article L. 952-9 et le III de l'article L. 952-11.",
+      "valid_from": "2006-06-09"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - Nonobstant les dispositions de l'article 1er, l'abrogation des dispositions suivantes des livres IV et IX de la partie Législative du code de l'organisation judiciaire dans sa rédaction en vigueur jusqu'à la date de publication de la présente ordonnance ne prendra effet qu'à compter de la date d'entrée en vigueur du décret relatif à la partie Réglementaire du code de commerce :1° Dans le livre IV, le deuxième alinéa des articles L. 411-1 et L. 412-12, la seconde phrase du deuxième alinéa de l'article L. 413-6, le premier alinéa de l'article L. 413-8 et l'article L. 413-11 ;2° Dans le livre IX, les articles L. 932-25, L. 932-36 et L. 932-42.II. - Nonobstant les dispositions de l'article 2, l'abrogation de la seconde phrase du deuxième alinéa de l'article L. 713-15 du code de commerce dans sa rédaction en vigueur jusqu'à la date de publication de la présente ordonnance ne prendra effet qu'à compter de la date d'entrée en vigueur du décret relatif à la partie Réglementaire du code de commerce."
+      "content": "I. - Nonobstant les dispositions de l'article 1er, l'abrogation des dispositions suivantes des livres IV et IX de la partie Législative du code de l'organisation judiciaire dans sa rédaction en vigueur jusqu'à la date de publication de la présente ordonnance ne prendra effet qu'à compter de la date d'entrée en vigueur du décret relatif à la partie Réglementaire du code de commerce :1° Dans le livre IV, le deuxième alinéa des articles L. 411-1 et L. 412-12, la seconde phrase du deuxième alinéa de l'article L. 413-6, le premier alinéa de l'article L. 413-8 et l'article L. 413-11 ;2° Dans le livre IX, les articles L. 932-25, L. 932-36 et L. 932-42.II. - Nonobstant les dispositions de l'article 2, l'abrogation de la seconde phrase du deuxième alinéa de l'article L. 713-15 du code de commerce dans sa rédaction en vigueur jusqu'à la date de publication de la présente ordonnance ne prendra effet qu'à compter de la date d'entrée en vigueur du décret relatif à la partie Réglementaire du code de commerce.",
+      "valid_from": "2006-06-09"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Nonobstant les dispositions de l'article 1er, demeurent en vigueur les dispositions suivantes de la partie Législative du code de l'organisation judiciaire dans sa rédaction en vigueur jusqu'à la date de publication de la présente ordonnance :1° L'article L. 912-1 en tant qu'il concerne les procédures issues de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes ;2° Les dispositions de la section 2, intitulée : \" Le tribunal du travail \", du chapitre II du titre III du livre IX."
+      "content": "Nonobstant les dispositions de l'article 1er, demeurent en vigueur les dispositions suivantes de la partie Législative du code de l'organisation judiciaire dans sa rédaction en vigueur jusqu'à la date de publication de la présente ordonnance :1° L'article L. 912-1 en tant qu'il concerne les procédures issues de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes ;2° Les dispositions de la section 2, intitulée : \" Le tribunal du travail \", du chapitre II du titre III du livre IX.",
+      "valid_from": "2006-06-09"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Dans tous les textes législatifs et réglementaires, les références à des dispositions abrogées par l'article 1er sont remplacées par les références aux dispositions correspondantes du code de l'organisation judiciaire, du code de commerce, du code rural et du code de procédure pénale issues de la présente ordonnance.Dans tous les textes législatifs et réglementaires, les références à des dispositions du code de commerce modifiées par l'article 2 sont remplacées par les références aux dispositions correspondantes du code de commerce dans sa rédaction issue de la présente ordonnance."
+      "content": "Dans tous les textes législatifs et réglementaires, les références à des dispositions abrogées par l'article 1er sont remplacées par les références aux dispositions correspondantes du code de l'organisation judiciaire, du code de commerce, du code rural et du code de procédure pénale issues de la présente ordonnance.Dans tous les textes législatifs et réglementaires, les références à des dispositions du code de commerce modifiées par l'article 2 sont remplacées par les références aux dispositions correspondantes du code de commerce dans sa rédaction issue de la présente ordonnance.",
+      "valid_from": "2006-06-09"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Sont abrogés :1° La loi du 1er avril 1837 relative à l'autorité des arrêts rendus par la Cour de cassation après deux pourvois ;2° L'article 23 de la loi du 1er juin 1924 portant introduction des lois commerciales françaises dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle ;3° Les articles 2 et 4 de la loi du 19 mars 1934 relative à l'application de la convention internationale de Mannheim du 17 octobre 1868 et ayant pour objet de réduire le nombre de tribunaux français pour la navigation du Rhin ;4° Les articles 2 à 7 (première phrase) de l'ordonnance n° 82-877 du 15 octobre 1982 instituant des assesseurs coutumiers dans le territoire de la Nouvelle-Calédonie et dépendances au tribunal civil de première instance et à la cour d'appel.En outre, sont et demeurent abrogés :1° L'article 2 du titre II et l'article 5 du titre VIII de la loi des 16 et 24 août 1790 sur l'organisation judiciaire ;2° Les articles 63 et 64 de la loi du 27 ventôse an VIII sur l'organisation des tribunaux."
+      "content": "Sont abrogés :1° La loi du 1er avril 1837 relative à l'autorité des arrêts rendus par la Cour de cassation après deux pourvois ;2° L'article 23 de la loi du 1er juin 1924 portant introduction des lois commerciales françaises dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle ;3° Les articles 2 et 4 de la loi du 19 mars 1934 relative à l'application de la convention internationale de Mannheim du 17 octobre 1868 et ayant pour objet de réduire le nombre de tribunaux français pour la navigation du Rhin ;4° Les articles 2 à 7 (première phrase) de l'ordonnance n° 82-877 du 15 octobre 1982 instituant des assesseurs coutumiers dans le territoire de la Nouvelle-Calédonie et dépendances au tribunal civil de première instance et à la cour d'appel.En outre, sont et demeurent abrogés :1° L'article 2 du titre II et l'article 5 du titre VIII de la loi des 16 et 24 août 1790 sur l'organisation judiciaire ;2° Les articles 63 et 64 de la loi du 27 ventôse an VIII sur l'organisation des tribunaux.",
+      "valid_from": "2006-06-09"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Sont abrogés à compter de la date d'entrée en vigueur du décret relatif à la partie Réglementaire du code de l'organisation judiciaire :1° Les articles 1er et 3 de la loi du 19 mars 1934 relative à l'application de la convention internationale de Mannheim du 17 octobre 1868 et ayant pour objet de réduire le nombre de tribunaux français pour la navigation du Rhin ;2° Le premier alinéa de l'article 2 de la loi n° 66-379 du 15 juin 1966 déterminant, en application de la convention franco-germano-luxembourgeoise du 27 octobre 1966, les juridictions compétentes pour la navigation de la Moselle ;3° Les articles 7 (seconde phrase du premier alinéa et second alinéa) et 7-1 de l'ordonnance n° 82-877 du 15 octobre 1982 instituant des assesseurs coutumiers dans le territoire de la Nouvelle-Calédonie et dépendances au tribunal civil de première instance et à la cour d'appel."
+      "content": "Sont abrogés à compter de la date d'entrée en vigueur du décret relatif à la partie Réglementaire du code de l'organisation judiciaire :\n\n1° Les articles 1er et 3 de la loi du 19 mars 1934 relative à l'application de la convention internationale de Mannheim du 17 octobre 1868 et ayant pour objet de réduire le nombre de tribunaux français pour la navigation du Rhin ;\n\n2° Le premier alinéa de l'article 2 de la loi n° 66-379 du 15 juin 1966 déterminant, en application de la convention franco-germano-luxembourgeoise du 27 octobre 1966, les juridictions compétentes pour la navigation de la Moselle ;\n\n3° Les articles 7 (seconde phrase du premier alinéa et second alinéa) et 7-1 de l'ordonnance n° 82-877 du 15 octobre 1982 instituant des assesseurs coutumiers dans le territoire de la Nouvelle-Calédonie et dépendances au tribunal civil de première instance et à la cour d'appel.\n\nA abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n-Loi du 19 mars 1934\n\n-Ordonnance n° 82-877 du 15 octobre 1982\n\n-Loi n° 66-379 du 15 juin 1966\n\n-Ordonnance n° 82-877 du 15 octobre 1982",
+      "valid_from": "2006-06-09"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "A l'exception de l'article 7 et du 3° de l'article 8, la présente ordonnance est applicable, en tant qu'elle s'y rapporte, à Mayotte, en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises."
+      "content": "A l'exception de l'article 7 et du 3° de l'article 8, la présente ordonnance est applicable, en tant qu'elle s'y rapporte, à Mayotte, en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.",
+      "valid_from": "2009-05-14"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2006-06-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

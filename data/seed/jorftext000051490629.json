@@ -12,85 +12,105 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les contributions directes applicables aux dépenses générales de l'Etat seront établies pour 1881, en principal et centimes additionnels, conformément à la première partie de l'état A annexé à la présente loi et aux dispositions des lois existantes.\n\nLe contingent de chaque département dans les contributions foncière, personnelle-mobilière et des portes et fenêtres est fixé, en principal, aux sommes portées dans l'état B annexé à la présente loi."
+      "content": "Les contributions directes applicables aux dépenses générales de l'Etat seront établies pour 1881, en principal et centimes additionnels, conformément à la première partie de l'état A annexé à la présente loi et aux dispositions des lois existantes.\n\nLe contingent de chaque département dans les contributions foncière, personnelle-mobilière et des portes et fenêtres est fixé, en principal, aux sommes portées dans l'état B annexé à la présente loi.",
+      "valid_from": "1880-07-18"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les diverses taxes assimilées aux contributions directes, énoncées au paragraphe 1er de l'état C annexé à la présente loi, seront établies pour 1881, au profit de l'État, conformément aux lois existantes."
+      "content": "Les diverses taxes assimilées aux contributions directes, énoncées au paragraphe 1er de l'état C annexé à la présente loi, seront établies pour 1881, au profit de l'État, conformément aux lois existantes.",
+      "valid_from": "1880-07-18"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les contributions foncière, personnelle-mobilière, des portes et fenêtres et des patentes, applicables aux dépenses départementales et spéciales, seront établies pour 1881, en centimes additionnels, conformément à la seconde partie de l'état A annexé à la présente loi et aux dispositions des lois existantes."
+      "content": "Les contributions foncière, personnelle-mobilière, des portes et fenêtres et des patentes, applicables aux dépenses départementales et spéciales, seront établies pour 1881, en centimes additionnels, conformément à la seconde partie de l'état A annexé à la présente loi et aux dispositions des lois existantes.",
+      "valid_from": "1880-07-18"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le maximum des centimes que les conseils généraux peuvent voter en vertu de l'article 58 de la loi du 10 août 1871 est fixé, pour l'année 1881, à vingt-cinq centimes (0f25e) sur les contributions foncière et personnelle-mobilière, plus un centime (0f01e) sur les quatre contributions directes."
+      "content": "Le maximum des centimes que les conseils généraux peuvent voter en vertu de l'article 58 de la loi du 10 août 1871 est fixé, pour l'année 1881, à vingt-cinq centimes (0f25e) sur les contributions foncière et personnelle-mobilière, plus un centime (0f01e) sur les quatre contributions directes.",
+      "valid_from": "1880-07-18"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le maximum des centimes extradordinaires que les conseils généraux peuvent voter en vertu de l'article 40 de la même loi est fixé, pour l'année 1881, à douze centimes (0f12e).\n\nDans ce nombre sont compris les centimes dont l'imposition a été précédemment autorisée par des lois spéciales antérieures à la mise à exécution de la loi du 18 juillet 1866, sur les conseils généraux."
+      "content": "Le maximum des centimes extradordinaires que les conseils généraux peuvent voter en vertu de l'article 40 de la même loi est fixé, pour l'année 1881, à douze centimes (0f12e).\n\nDans ce nombre sont compris les centimes dont l'imposition a été précédemment autorisée par des lois spéciales antérieures à la mise à exécution de la loi du 18 juillet 1866, sur les conseils généraux.",
+      "valid_from": "1880-07-18"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le maximum de la contribution spéciale à établir sur les quatre contributions directes, en cas d'omission au budget départemental d'un crédit suffisant pour faire face aux dépenses spécifiées à l'article 61 de la loi du 10 août 1871, est fixé, pour la même année, à deux centimes (0f02e)."
+      "content": "Le maximum de la contribution spéciale à établir sur les quatre contributions directes, en cas d'omission au budget départemental d'un crédit suffisant pour faire face aux dépenses spécifiées à l'article 61 de la loi du 10 août 1871, est fixé, pour la même année, à deux centimes (0f02e).",
+      "valid_from": "1880-07-18"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le maximum du nombre de centimes extraordinaires que les conseils municipaux sont autorisés à voter pour en affecter le produit à des dépenses extraordinaires d'utilité communale, et qui doit être arrêté annuellement par les conseils généraux, en vertu de l'article 42 de la loi du 10 août 1871, ne pourra dépasser, en 1881, vingt centimes (0f20e)."
+      "content": "Le maximum du nombre de centimes extraordinaires que les conseils municipaux sont autorisés à voter pour en affecter le produit à des dépenses extraordinaires d'utilité communale, et qui doit être arrêté annuellement par les conseils généraux, en vertu de l'article 42 de la loi du 10 août 1871, ne pourra dépasser, en 1881, vingt centimes (0f20e).",
+      "valid_from": "1880-07-18"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Lorsque, en exécution du paragraphe 4 de l'article 39 de la loi du 18 juillet 1837, il y aura lieu, par le Gouvernement, d'imposer d'office sur les communes des centimes additionnels pour le payement des dépenses obligatoires, le nombre de ces centimes ne pourra excéder le maximum de dix, à moins qu'il ne s'agisse de l'acquit de dettes résultant de condamnations judiciaires, auquel cas il pourra être élevé jusqu'à vingt."
+      "content": "Lorsque, en exécution du paragraphe 4 de l'article 39 de la loi du 18 juillet 1837, il y aura lieu, par le Gouvernement, d'imposer d'office sur les communes des centimes additionnels pour le payement des dépenses obligatoires, le nombre de ces centimes ne pourra excéder le maximum de dix, à moins qu'il ne s'agisse de l'acquit de dettes résultant de condamnations judiciaires, auquel cas il pourra être élevé jusqu'à vingt.",
+      "valid_from": "1880-07-18"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "En cas d'insuffisance des revenus ordinaires pour l'établissement des écoles primaires communales, élémentaires ou supérieures, les conseils municipaux et les conseils généraux des départements sont autorisés à voter, pour l'année 1881, à titre d'imposition spéciale destinée à l'instruction primaire, des centimes additionnels au principal des quatre contributions directes. Toutefois, il ne pourra être voté à ce titre plus de quatre centimes par les conseils municipaux et plus de quatre centimes par les conseils généraux.\n\nSont d'ailleurs maintenues et continuées en 1881, pour l'entretien des écoles communales gratuites, les ressources énoncées à l'article 4 de la loi des recettes de l'exercice 1877, en date du 26 décembre 1876."
+      "content": "En cas d'insuffisance des revenus ordinaires pour l'établissement des écoles primaires communales, élémentaires ou supérieures, les conseils municipaux et les conseils généraux des départements sont autorisés à voter, pour l'année 1881, à titre d'imposition spéciale destinée à l'instruction primaire, des centimes additionnels au principal des quatre contributions directes. Toutefois, il ne pourra être voté à ce titre plus de quatre centimes par les conseils municipaux et plus de quatre centimes par les conseils généraux.\n\nSont d'ailleurs maintenues et continuées en 1881, pour l'entretien des écoles communales gratuites, les ressources énoncées à l'article 4 de la loi des recettes de l'exercice 1877, en date du 26 décembre 1876.",
+      "valid_from": "1880-07-18"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "En cas d'insuffisance du produit des centimes ordinaires pour concourir par des subventions aux dépenses des chemins vicinaux de grande communication et, dans les cas extraordinaires, aux dépenses des autres chemins vicinaux, les conseils généraux sont autorisés à voter, pour l'année 1881, à titre d'imposition spéciale, sept centimes (0f07e) additionnels aux quatre contributions directes."
+      "content": "En cas d'insuffisance du produit des centimes ordinaires pour concourir par des subventions aux dépenses des chemins vicinaux de grande communication et, dans les cas extraordinaires, aux dépenses des autres chemins vicinaux, les conseils généraux sont autorisés à voter, pour l'année 1881, à titre d'imposition spéciale, sept centimes (0f07e) additionnels aux quatre contributions directes.",
+      "valid_from": "1880-07-18"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Les diverses taxes assimilées aux contributions directes, énoncées au paragraphe de l'état C annexé à la présente loi, seront établies, pour 1881, au profit des départements, des communes, des établissements publics et des communautés d'habitants dûment autorisées, conformément aux lois existantes."
+      "content": "Les diverses taxes assimilées aux contributions directes, énoncées au paragraphe de l'état C annexé à la présente loi, seront établies, pour 1881, au profit des départements, des communes, des établissements publics et des communautés d'habitants dûment autorisées, conformément aux lois existantes.",
+      "valid_from": "1880-07-18"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Il n'est pas néanmoins dérogé à l'exécution de l'article 4 de la loi du 2 août 1829, modifié par l'article 7 de la loi du 7 août 1850, relatif au cadastre, non plus qu'aux dispositions des lois des 10 mai 1838 et 10 août 1871, sur les attributions départementales ; des 16 septembre 1871 et 21 mai 1873, sur la composition du conseil général de la Seine ; des 18 juillet 1837 et 24 juillet 1867, sur l'administration communale ; des 21 mai 1836 et 11 juillet 1868, sur les chemins vicinaux, et des 15 mars 1850, 10 avril 1867 et 19 juillet 1875 (article 7), sur l'instruction primaire."
+      "content": "Il n'est pas néanmoins dérogé à l'exécution de l'article 4 de la loi du 2 août 1829, modifié par l'article 7 de la loi du 7 août 1850, relatif au cadastre, non plus qu'aux dispositions des lois des 10 mai 1838 et 10 août 1871, sur les attributions départementales ; des 16 septembre 1871 et 21 mai 1873, sur la composition du conseil général de la Seine ; des 18 juillet 1837 et 24 juillet 1867, sur l'administration communale ; des 21 mai 1836 et 11 juillet 1868, sur les chemins vicinaux, et des 15 mars 1850, 10 avril 1867 et 19 juillet 1875 (article 7), sur l'instruction primaire.",
+      "valid_from": "1880-07-18"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les rôles confectionnés en exécution de la présente loi ne seront homologués et rendus exécutoires par le préfet et ne pourront être mis en recouvrement qu'après que la loi portant fixation du budget des recettes de l'exercice 1881 en aura autorisé la perception.\n\nToutefois, les rôles de prestations pour les chemins vicinaux pourront être homologués et publiés après que les conseils généraux des départements auront fixé la valeur de la journée de travail, en conformité de l'article 4 de la loi du 21 mai 1836."
+      "content": "Les rôles confectionnés en exécution de la présente loi ne seront homologués et rendus exécutoires par le préfet et ne pourront être mis en recouvrement qu'après que la loi portant fixation du budget des recettes de l'exercice 1881 en aura autorisé la perception.\n\nToutefois, les rôles de prestations pour les chemins vicinaux pourront être homologués et publiés après que les conseils généraux des départements auront fixé la valeur de la journée de travail, en conformité de l'article 4 de la loi du 21 mai 1836.",
+      "valid_from": "1880-07-18"
     },
     {
       "provision_ref": "artAnnexes",
       "section": "Annexes",
       "title": "Article Annexes",
-      "content": "Vous pouvez consulter les états A, B et C annexés sur le site internet \"Gallica\", de la Bibliothèque nationale de France (BnF), à cette adresse :\n\nhttps://gallica.bnf.fr/ark:/12148/bpt6k214109f/f225.item"
+      "content": "Vous pouvez consulter les états A, B et C annexés sur le site internet \"Gallica\", de la Bibliothèque nationale de France (BnF), à cette adresse :\n\nhttps://gallica.bnf.fr/ark:/12148/bpt6k214109f/f225.item",
+      "valid_from": "1880-07-18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

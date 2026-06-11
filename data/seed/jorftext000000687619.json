@@ -12,7 +12,14 @@
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Des règlements d'administration publique fixeront les statuts particuliers relatifs aux corps nouvellement créés. Ils détermineront également les conditions dans lesquelles les agents en fonction au Conseil économique, à la date de publication de la présente loi, seront intégrés et titularisés dans les corps et cadres énumérés ci-dessus."
+      "content": "Des règlements d'administration publique fixeront les statuts particuliers relatifs aux corps nouvellement créés. Ils détermineront également les conditions dans lesquelles les agents en fonction au Conseil économique, à la date de publication de la présente loi, seront intégrés et titularisés dans les corps et cadres énumérés ci-dessus.",
+      "valid_from": "1955-08-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,7 +12,14 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - La présente loi est applicable dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.La présente loi sera exécutée comme loi de l'Etat.\n\n- Code électoral"
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - La présente loi est applicable dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.La présente loi sera exécutée comme loi de l'Etat.\n\n- Code électoral",
+      "valid_from": "2016-04-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

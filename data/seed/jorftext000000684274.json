@@ -12,7 +12,14 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La présente loi, est applicable aux dockers professionnels mentionnés au livre IV du Code des ports maritimes.\n\nPour l'application de la présente loi, est assimilée aux allocations légales ou conventionnelles pour privation partielle d'emploi, l'indemnité de garantie prévue au livre IV du Code des ports maritimes.\n\nLes entreprises d'un même port, qui emploient cette catégorie de travailleurs, sont tenues de constituer un organisme chargé de l'application de la présente loi."
+      "content": "La présente loi, est applicable aux dockers professionnels mentionnés au livre IV du Code des ports maritimes.\n\nPour l'application de la présente loi, est assimilée aux allocations légales ou conventionnelles pour privation partielle d'emploi, l'indemnité de garantie prévue au livre IV du Code des ports maritimes.\n\nLes entreprises d'un même port, qui emploient cette catégorie de travailleurs, sont tenues de constituer un organisme chargé de l'application de la présente loi.",
+      "valid_from": "1972-12-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

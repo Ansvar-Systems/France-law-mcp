@@ -12,7 +12,14 @@
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Une information détaillée et respectueuse de l'égalité entre les sexes est organisée, à l'intention des jeunes Françaises nées avant le 1er janvier 1983, notamment dans les médias et dans les établissements relevant de l'éducation nationale."
+      "content": "Une information détaillée et respectueuse de l'égalité entre les sexes est organisée, à l'intention des jeunes Françaises nées avant le 1er janvier 1983, notamment dans les médias et dans les établissements relevant de l'éducation nationale.",
+      "valid_from": "2000-03-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

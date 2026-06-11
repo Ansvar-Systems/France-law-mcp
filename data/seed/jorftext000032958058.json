@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I.-A modifié les dispositions suivantes :\n\nII.-A modifié les dispositions suivantes :\n\nIII.-A modifié les dispositions suivantes :\n\n-LOI n° 62-1292 du 6 novembre 1962\n\n-Code général des collectivités territoriales\n\n-Loi organique n° 2004-192 du 27 février 2004\n\nArt. 159"
+      "content": "I.-A modifié les dispositions suivantes :\n\nII.-A modifié les dispositions suivantes :\n\nIII.-A modifié les dispositions suivantes :\n\n-LOI n° 62-1292 du 6 novembre 1962\n\n-Code général des collectivités territoriales\n\n-Loi organique n° 2004-192 du 27 février 2004\n\nArt. 159",
+      "valid_from": "2019-01-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - La présente loi organique entre en vigueur selon des modalités fixées par décret en Conseil d'Etat et, au plus tard, le 31 décembre 2019.II. - Par dérogation à l'article 6 de la loi organique n° 76-97 du 31 janvier 1976 relative aux listes électorales consulaires et au vote des Français établis hors de France pour l'élection du Président de la République, dans sa rédaction résultant de la présente loi organique, les demandes d'inscription sur les listes électorales, en vue de participer aux scrutins organisés au plus tard un an après son entrée en vigueur, sont déposées au plus tard le dernier jour du deuxième mois précédant celui du scrutin.III. - Si, à la date d'entrée en vigueur de la présente loi organique, un électeur est inscrit sur une liste électorale consulaire et sur la liste électorale d'une commune, par dérogation à l'article 3 de la loi organique n° 76-97 du 31 janvier 1976 précitée, dans sa rédaction résultant de la présente loi organique, il choisit, dans un délai déterminé par décret en Conseil d'Etat qui ne peut être supérieur à un an, la liste sur laquelle il maintient son inscription. Ce choix entraîne sa radiation de l'autre liste. En l'absence de choix, il est radié de la liste électorale de la commune."
+      "content": "I. - La présente loi organique entre en vigueur selon des modalités fixées par décret en Conseil d'Etat et, au plus tard, le 31 décembre 2019.II. - Par dérogation à l'article 6 de la loi organique n° 76-97 du 31 janvier 1976 relative aux listes électorales consulaires et au vote des Français établis hors de France pour l'élection du Président de la République, dans sa rédaction résultant de la présente loi organique, les demandes d'inscription sur les listes électorales, en vue de participer aux scrutins organisés au plus tard un an après son entrée en vigueur, sont déposées au plus tard le dernier jour du deuxième mois précédant celui du scrutin.III. - Si, à la date d'entrée en vigueur de la présente loi organique, un électeur est inscrit sur une liste électorale consulaire et sur la liste électorale d'une commune, par dérogation à l'article 3 de la loi organique n° 76-97 du 31 janvier 1976 précitée, dans sa rédaction résultant de la présente loi organique, il choisit, dans un délai déterminé par décret en Conseil d'Etat qui ne peut être supérieur à un an, la liste sur laquelle il maintient son inscription. Ce choix entraîne sa radiation de l'autre liste. En l'absence de choix, il est radié de la liste électorale de la commune.",
+      "valid_from": "2019-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,67 +12,84 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions suivantes du code de l'éducation sont applicables dans les îles Wallis et Futuna dans leur rédaction résultant des dispositions suivantes de la loi du 8 juillet 2013 susvisée :1° Articles L. 111-1, L. 111-2 et L. 111-3 (dans leur rédaction résultant des articles 2, 4 et 5 de la loi) ;2° Articles L. 121-1 et L. 121-2 (dans leur rédaction résultant des articles 9 et 10 de la loi) ;3° Article L. 122-1-1 (dans sa rédaction résultant de l'article 13 de la loi) ;4° Articles L. 131-1-1 et L. 131-2 (dans leur rédaction résultant des articles 15 et 16 de la loi) ;5° Articles L. 311-1, L. 311-3, L. 311-3-1, L. 311-4 et L. 311-7 (dans leur rédaction résultant des articles 34, 35, 36, 37 et 41 de la loi) ;6° Article L. 312-15 (dans sa rédaction résultant de l'article 41 de la loi) ;7° Article L. 313-1 (dans sa rédaction résultant du 2° de l'article 47 de la loi) ;8° Articles L. 321-2 et L. 321-3 (dans leur rédaction résultant des articles 44 et 45 de la loi) ;9° Article L. 331-7 (dans sa rédaction résultant du 1° de l'article 47 de la loi) ;10° Articles L. 332-2, L. 332-3, L. 332-4, L. 332-5 et L. 332-6 (dans leur rédaction résultant des articles 50, 51, 52, 53 et 54 de la loi) ;11° Article L. 334-1 (dans sa rédaction résultant du II de l'article 55 de la loi) ;12° Article L. 411-1 (dans sa rédaction résultant de l'article 59 de la loi) ;13° Article L. 421-7 (dans sa rédaction résultant de l'article 58 de la loi) ;14° Article L. 423-1 (dans sa rédaction résultant du I de l'article 62 de la loi) ;15° Article L. 521-4 (dans sa rédaction résultant de l'article 65 de la loi) ;16° Article L. 551-1 (dans sa rédaction résultant de l'article 66 de la loi) ;17° Article L. 611-1 (dans sa rédaction résultant du II de l'article 68 de la loi) ;18° Article L. 625-1 (dans sa rédaction résultant du I de l'article 68 de la loi) ;19° Article L. 713-1 (dans sa rédaction résultant de l'article 69 de la loi) ;20° Article L. 721-1 (dans sa rédaction résultant de l'article 70 de la loi) ;21° Articles L. 912-1 et L. 912-1-2 (dans leur rédaction résultant des articles 72 et 73 de la loi) ;22° Article L. 932-3 (dans sa rédaction résultant de l'article 74 de la loi)."
+      "content": "Les dispositions suivantes du code de l'éducation sont applicables dans les îles Wallis et Futuna dans leur rédaction résultant des dispositions suivantes de la loi du 8 juillet 2013 susvisée :1° Articles L. 111-1, L. 111-2 et L. 111-3 (dans leur rédaction résultant des articles 2, 4 et 5 de la loi) ;2° Articles L. 121-1 et L. 121-2 (dans leur rédaction résultant des articles 9 et 10 de la loi) ;3° Article L. 122-1-1 (dans sa rédaction résultant de l'article 13 de la loi) ;4° Articles L. 131-1-1 et L. 131-2 (dans leur rédaction résultant des articles 15 et 16 de la loi) ;5° Articles L. 311-1, L. 311-3, L. 311-3-1, L. 311-4 et L. 311-7 (dans leur rédaction résultant des articles 34, 35, 36, 37 et 41 de la loi) ;6° Article L. 312-15 (dans sa rédaction résultant de l'article 41 de la loi) ;7° Article L. 313-1 (dans sa rédaction résultant du 2° de l'article 47 de la loi) ;8° Articles L. 321-2 et L. 321-3 (dans leur rédaction résultant des articles 44 et 45 de la loi) ;9° Article L. 331-7 (dans sa rédaction résultant du 1° de l'article 47 de la loi) ;10° Articles L. 332-2, L. 332-3, L. 332-4, L. 332-5 et L. 332-6 (dans leur rédaction résultant des articles 50, 51, 52, 53 et 54 de la loi) ;11° Article L. 334-1 (dans sa rédaction résultant du II de l'article 55 de la loi) ;12° Article L. 411-1 (dans sa rédaction résultant de l'article 59 de la loi) ;13° Article L. 421-7 (dans sa rédaction résultant de l'article 58 de la loi) ;14° Article L. 423-1 (dans sa rédaction résultant du I de l'article 62 de la loi) ;15° Article L. 521-4 (dans sa rédaction résultant de l'article 65 de la loi) ;16° Article L. 551-1 (dans sa rédaction résultant de l'article 66 de la loi) ;17° Article L. 611-1 (dans sa rédaction résultant du II de l'article 68 de la loi) ;18° Article L. 625-1 (dans sa rédaction résultant du I de l'article 68 de la loi) ;19° Article L. 713-1 (dans sa rédaction résultant de l'article 69 de la loi) ;20° Article L. 721-1 (dans sa rédaction résultant de l'article 70 de la loi) ;21° Articles L. 912-1 et L. 912-1-2 (dans leur rédaction résultant des articles 72 et 73 de la loi) ;22° Article L. 932-3 (dans sa rédaction résultant de l'article 74 de la loi).",
+      "valid_from": "2014-06-28"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Est applicable dans les îles Wallis et Futuna la modification apportée par la loi du 8 juillet 2013 à l'article L. 312-1 du code de la recherche."
+      "content": "Est applicable dans les îles Wallis et Futuna la modification apportée par la loi du 8 juillet 2013 à l'article L. 312-1 du code de la recherche.",
+      "valid_from": "2014-06-28"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Sont applicables dans les îles Wallis et Futuna les modifications apportées par l'article 77 à l'article L. 122-5 du code de la propriété intellectuelle."
+      "content": "Sont applicables dans les îles Wallis et Futuna les modifications apportées par l'article 77 à l'article L. 122-5 du code de la propriété intellectuelle.",
+      "valid_from": "2014-06-28"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Sont applicables dans les îles Wallis et Futuna les dispositions des II et III de l'article 62 de la loi du 8 juillet 2013 susvisée."
+      "content": "Sont applicables dans les îles Wallis et Futuna les dispositions des II et III de l'article 62 de la loi du 8 juillet 2013 susvisée.",
+      "valid_from": "2014-06-28"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - L'article L. 312-9-2 du même code est applicable dans les îles Wallis et Futuna à compter du 1er février 2016.\n\n- Code de l'éducation"
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - L'article L. 312-9-2 du même code est applicable dans les îles Wallis et Futuna à compter du 1er février 2016.\n\n- Code de l'éducation",
+      "valid_from": "2014-06-28"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les dispositions suivantes du code de l'éducation sont applicables en Polynésie française dans leur rédaction résultant des dispositions suivantes de la loi du 8 juillet 2013 susvisée :1° Articles L. 111-1, L. 111-2 et L. 111-3 (dans leur rédaction résultant des articles 2, 4 et 5 de la loi) ;2° Articles L. 121-1 et L. 121-2 (dans leur rédaction résultant des articles 9 et 10 de la loi) ;3° Article L. 122-1-1 (dans sa rédaction résultant de l'article 13 de la loi) ;4° Articles L. 131-1-1 et L. 131-2 (dans leur rédaction résultant des articles 15 et 16 de la loi) ;5° Article L. 312-15 (dans sa rédaction résultant du II de l'article 41 de la loi) ;6° Article L. 313-1 (dans sa rédaction résultant du 2° de l'article 47 de la loi) ;7° Article L. 611-1 (dans sa rédaction résultant du II de l'article 68 de la loi) ;8° Article L. 625-1 (dans sa rédaction résultant du I de l'article 68 de la loi) ;9° Article L. 713-1 (dans sa rédaction résultant de l'article 69 de la loi) ;10° Article L. 721-1 (dans sa rédaction résultant de l'article 70 de la loi) ;11° Articles L. 912-1 et L. 912-1-2 (dans leur rédaction résultant des articles 72 et 73 de la loi) ;12° Article L. 932-3 (dans sa rédaction résultant de l'article 74 de la loi)."
+      "content": "Les dispositions suivantes du code de l'éducation sont applicables en Polynésie française dans leur rédaction résultant des dispositions suivantes de la loi du 8 juillet 2013 susvisée :1° Articles L. 111-1, L. 111-2 et L. 111-3 (dans leur rédaction résultant des articles 2, 4 et 5 de la loi) ;2° Articles L. 121-1 et L. 121-2 (dans leur rédaction résultant des articles 9 et 10 de la loi) ;3° Article L. 122-1-1 (dans sa rédaction résultant de l'article 13 de la loi) ;4° Articles L. 131-1-1 et L. 131-2 (dans leur rédaction résultant des articles 15 et 16 de la loi) ;5° Article L. 312-15 (dans sa rédaction résultant du II de l'article 41 de la loi) ;6° Article L. 313-1 (dans sa rédaction résultant du 2° de l'article 47 de la loi) ;7° Article L. 611-1 (dans sa rédaction résultant du II de l'article 68 de la loi) ;8° Article L. 625-1 (dans sa rédaction résultant du I de l'article 68 de la loi) ;9° Article L. 713-1 (dans sa rédaction résultant de l'article 69 de la loi) ;10° Article L. 721-1 (dans sa rédaction résultant de l'article 70 de la loi) ;11° Articles L. 912-1 et L. 912-1-2 (dans leur rédaction résultant des articles 72 et 73 de la loi) ;12° Article L. 932-3 (dans sa rédaction résultant de l'article 74 de la loi).",
+      "valid_from": "2014-06-28"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Est applicable en Polynésie française la modification apportée par la loi du 8 juillet 2013 à l'article L. 312-1 du code de la recherche."
+      "content": "Est applicable en Polynésie française la modification apportée par la loi du 8 juillet 2013 à l'article L. 312-1 du code de la recherche.",
+      "valid_from": "2014-06-28"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Les dispositions suivantes du code de l'éducation sont applicables en Nouvelle-Calédonie dans leur rédaction résultant des dispositions suivantes de la loi du 8 juillet 2013 susvisée :1° Articles L. 111-2 et L. 111-3 (dans leur rédaction résultant des articles 4 et 5 de la loi) ;2° Articles L. 121-1 et L. 121-2 (dans leur rédaction résultant des articles 9 et 10 de la loi) ;3° Article L. 122-1-1 (dans sa rédaction résultant de l'article 13 de la loi) ;4°Articles L. 131-1-1 et L. 131-2 (dans leur rédaction résultant des articles 15 et 16 de la loi) ;5° Article L. 312-15 (dans sa rédaction résultant du II de l'article 41 de la loi) ;6° Article L. 313-1 (dans sa rédaction résultant du 2° de l'article 47 de la loi) ;7° Articles L. 332-2 et L. 332-5 (dans leur rédaction résultant des articles 50 et 53 de la loi) ;8° Article L. 334-1 (dans sa rédaction résultant du II de l'article 55 de la loi) ;9° Article L. 611-1 (dans sa rédaction résultant du II de l'article 68 de la loi) ;10° Article L. 625-1 (dans sa rédaction résultant du I de l'article 68 de la loi) ;11° Article L. 713-1 (dans sa rédaction résultant de l'article 69 de la loi) ;12° Article L. 721-1 (dans sa rédaction résultant de l'article 70 de la loi) ;13° Articles L. 912-1 et L. 912-1-2 (dans leur rédaction résultant des articles 72 et 73 de la loi) ;14° Article L. 932-3 (dans sa rédaction résultant de l'article 74 de la loi)."
+      "content": "Les dispositions suivantes du code de l'éducation sont applicables en Nouvelle-Calédonie dans leur rédaction résultant des dispositions suivantes de la loi du 8 juillet 2013 susvisée :1° Articles L. 111-2 et L. 111-3 (dans leur rédaction résultant des articles 4 et 5 de la loi) ;2° Articles L. 121-1 et L. 121-2 (dans leur rédaction résultant des articles 9 et 10 de la loi) ;3° Article L. 122-1-1 (dans sa rédaction résultant de l'article 13 de la loi) ;4°Articles L. 131-1-1 et L. 131-2 (dans leur rédaction résultant des articles 15 et 16 de la loi) ;5° Article L. 312-15 (dans sa rédaction résultant du II de l'article 41 de la loi) ;6° Article L. 313-1 (dans sa rédaction résultant du 2° de l'article 47 de la loi) ;7° Articles L. 332-2 et L. 332-5 (dans leur rédaction résultant des articles 50 et 53 de la loi) ;8° Article L. 334-1 (dans sa rédaction résultant du II de l'article 55 de la loi) ;9° Article L. 611-1 (dans sa rédaction résultant du II de l'article 68 de la loi) ;10° Article L. 625-1 (dans sa rédaction résultant du I de l'article 68 de la loi) ;11° Article L. 713-1 (dans sa rédaction résultant de l'article 69 de la loi) ;12° Article L. 721-1 (dans sa rédaction résultant de l'article 70 de la loi) ;13° Articles L. 912-1 et L. 912-1-2 (dans leur rédaction résultant des articles 72 et 73 de la loi) ;14° Article L. 932-3 (dans sa rédaction résultant de l'article 74 de la loi).",
+      "valid_from": "2014-06-28"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Est applicable en Nouvelle-Calédonie la modification apportée par la loi du 8 juillet 2013 à l'article L. 312-1 du code de la recherche."
+      "content": "Est applicable en Nouvelle-Calédonie la modification apportée par la loi du 8 juillet 2013 à l'article L. 312-1 du code de la recherche.",
+      "valid_from": "2014-06-28"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "Les écoles supérieures du professorat et de l'éducation de l'université de la Polynésie française et de l'université de la Nouvelle-Calédonie sont respectivement créées et accréditées au 1er septembre 2014 et au 1er février 2015.Les instituts universitaires de formation des maîtres de ces deux universités demeurent régis par les articles L. 625-1 et L. 721-1 du code de l'éducation, dans leur rédaction antérieure à la loi du 8 juillet 2013 susvisée, jusqu'à la date de création des écoles supérieures du professorat et de l'éducation.Les agents qui exercent leurs fonctions dans les instituts universitaires de formation des maîtres à la date de leur dissolution sont appelés à exercer dans les écoles supérieures du professorat et de l'éducation, dans le respect des dispositions statutaires qui leur sont applicables et sous réserve de leur accord, sans préjudice de l'article L. 719-6 du même code.Les conseils des écoles supérieures du professorat et de l'éducation sont installés dans les conditions fixées à l'article L. 721-3 du même code, dans le délai de trois mois à compter de la date de création de l'école. Avant l'expiration de ce délai, les conseils siègent valablement sans les représentants des personnels, des personnes participant à des actions de formation organisées par l'école et de celles qui en bénéficient.Le directeur de l'école est nommé dès que le conseil de l'école est installé dans les conditions fixées au même article L. 721-3. Jusqu'à la publication de l'arrêté de nomination, les fonctions de directeur sont exercées par un administrateur provisoire nommé par le ministre chargé de l'enseignement supérieur sur proposition du président de l'établissement public à caractère scientifique, culturel et professionnel dont l'école est une composante.Pour la première accréditation prévue au deuxième alinéa de l'article L. 721-1 du code de l'éducation, lorsque la durée restant à courir du contrat liant l'Etat à l'établissement public à caractère scientifique, culturel et professionnel est inférieure à un an, l'école supérieure du professorat et de l'éducation est accréditée jusqu'au terme du contrat suivant."
+      "content": "Les écoles supérieures du professorat et de l'éducation de l'université de la Polynésie française et de l'université de la Nouvelle-Calédonie sont respectivement créées et accréditées au 1er septembre 2014 et au 1er février 2015.Les instituts universitaires de formation des maîtres de ces deux universités demeurent régis par les articles L. 625-1 et L. 721-1 du code de l'éducation, dans leur rédaction antérieure à la loi du 8 juillet 2013 susvisée, jusqu'à la date de création des écoles supérieures du professorat et de l'éducation.Les agents qui exercent leurs fonctions dans les instituts universitaires de formation des maîtres à la date de leur dissolution sont appelés à exercer dans les écoles supérieures du professorat et de l'éducation, dans le respect des dispositions statutaires qui leur sont applicables et sous réserve de leur accord, sans préjudice de l'article L. 719-6 du même code.Les conseils des écoles supérieures du professorat et de l'éducation sont installés dans les conditions fixées à l'article L. 721-3 du même code, dans le délai de trois mois à compter de la date de création de l'école. Avant l'expiration de ce délai, les conseils siègent valablement sans les représentants des personnels, des personnes participant à des actions de formation organisées par l'école et de celles qui en bénéficient.Le directeur de l'école est nommé dès que le conseil de l'école est installé dans les conditions fixées au même article L. 721-3. Jusqu'à la publication de l'arrêté de nomination, les fonctions de directeur sont exercées par un administrateur provisoire nommé par le ministre chargé de l'enseignement supérieur sur proposition du président de l'établissement public à caractère scientifique, culturel et professionnel dont l'école est une composante.Pour la première accréditation prévue au deuxième alinéa de l'article L. 721-1 du code de l'éducation, lorsque la durée restant à courir du contrat liant l'Etat à l'établissement public à caractère scientifique, culturel et professionnel est inférieure à un an, l'école supérieure du professorat et de l'éducation est accréditée jusqu'au terme du contrat suivant.",
+      "valid_from": "2014-06-28"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "Le Premier ministre, le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2014-06-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

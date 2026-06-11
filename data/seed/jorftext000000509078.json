@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions suivantes sont applicables en Nouvelle-Calédonie :III. *paragraphe modificateur*."
+      "content": "Les dispositions suivantes sont applicables en Nouvelle-Calédonie :III. *paragraphe modificateur*.",
+      "valid_from": "1999-03-21"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La présente loi entrera en vigueur le 1er janvier 1990. Toutefois, les dispositions relatives à la désignation des assesseurs prévues au paragraphe II de l'article 1er entrent en vigueur à la date de la publication de la présente loi."
+      "content": "La présente loi entrera en vigueur le 1er janvier 1990. Toutefois, les dispositions relatives à la désignation des assesseurs prévues au paragraphe II de l'article 1er entrent en vigueur à la date de la publication de la présente loi.",
+      "valid_from": "1990-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

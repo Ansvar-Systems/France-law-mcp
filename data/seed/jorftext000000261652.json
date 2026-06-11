@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La commission d'admission mentionnée à l'article L. 542-3 du même code dans la rédaction de cet article en vigueur avant la publication de la présente ordonnance cesse ses activités au plus tard le dernier jour du mois suivant sa publication.A compter de cette date, les demandes d'aide, y compris celles déposées avant cette date, sont instruites selon les dispositions de la présente ordonnance."
+      "content": "La commission d'admission mentionnée à l'article L. 542-3 du même code dans la rédaction de cet article en vigueur avant la publication de la présente ordonnance cesse ses activités au plus tard le dernier jour du mois suivant sa publication.A compter de cette date, les demandes d'aide, y compris celles déposées avant cette date, sont instruites selon les dispositions de la présente ordonnance.",
+      "valid_from": "2005-07-29"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Premier ministre, le ministre de la santé et des solidarités et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de la santé et des solidarités et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2005-07-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

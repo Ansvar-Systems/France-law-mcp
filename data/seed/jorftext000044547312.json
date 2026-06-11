@@ -12,13 +12,21 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er janvier 2022, à l'exception :1° Du c du 10°, du 12° et du c du 13° de l'article 9 qui entrent en vigueur le 1er mars 2022 ;2° Du 8° et du 12° de l'article 4 et du h du 2° et du b du 3° de l'article 8 qui entrent en vigueur le 1er septembre 2022 ;3° Du c du 1°, du e du 2° et du c du 3° de l'article 9 qui entrent en vigueur le 1er janvier 2023."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er janvier 2022, à l'exception :1° Du c du 10°, du 12° et du c du 13° de l'article 9 qui entrent en vigueur le 1er mars 2022 ;2° Du 8° et du 12° de l'article 4 et du h du 2° et du b du 3° de l'article 8 qui entrent en vigueur le 1er septembre 2022 ;3° Du c du 1°, du e du 2° et du c du 3° de l'article 9 qui entrent en vigueur le 1er janvier 2023.",
+      "valid_from": "2022-01-01"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Le Premier ministre, le ministre des outre-mer et la ministre de l'enseignement supérieur, de la recherche et de l'innovation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des outre-mer et la ministre de l'enseignement supérieur, de la recherche et de l'innovation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2022-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

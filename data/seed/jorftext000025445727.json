@@ -12,25 +12,35 @@
       "provision_ref": "art33",
       "section": "33",
       "title": "Article 33",
-      "content": "Les articles 1er à 6, 21 à 29 et 34 de la présente loi entrent en vigueur à l'expiration d'un délai de dix-huit mois à compter de sa promulgation."
+      "content": "Les articles 1er à 6, 21 à 29 et 34 de la présente loi entrent en vigueur à l'expiration d'un délai de dix-huit mois à compter de sa promulgation.",
+      "valid_from": "2012-03-08"
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "La présente loi est applicable dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises."
+      "content": "La présente loi est applicable dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.",
+      "valid_from": "2013-06-22"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "Les armes détenues par les particuliers à la date de la publication des mesures réglementaires d'application de la présente loi sont soumises aux procédures d'autorisation, de déclaration ou d'enregistrement prévues par celle-ci à compter de la survenance du premier des événements suivants :a) Leur cession à un autre particulier ;b) L'expiration de l'autorisation pour celles classées antérieurement dans l'une des quatre premières catégories.Les armes dont l'acquisition et la détention n'étaient pas interdites avant la publication des mesures réglementaires d'application de la présente loi et qui font l'objet d'un classement en catégorie A doivent être remises aux services compétents de l'Etat dans un délai de trois mois à compter de cette publication. Un décret en Conseil d'Etat peut toutefois prévoir les conditions dans lesquelles les services compétents de l'Etat peuvent autoriser les personnes physiques et morales à conserver les armes acquises de manière régulière dans le cadre des lois et règlements antérieurs. L'autorisation a un caractère personnel et devient nulle de plein droit en cas de perte ou de remise de ces armes aux services de l'Etat."
+      "content": "Les armes détenues par les particuliers à la date de la publication des mesures réglementaires d'application de la présente loi sont soumises aux procédures d'autorisation, de déclaration ou d'enregistrement prévues par celle-ci à compter de la survenance du premier des événements suivants :a) Leur cession à un autre particulier ;b) L'expiration de l'autorisation pour celles classées antérieurement dans l'une des quatre premières catégories.Les armes dont l'acquisition et la détention n'étaient pas interdites avant la publication des mesures réglementaires d'application de la présente loi et qui font l'objet d'un classement en catégorie A doivent être remises aux services compétents de l'Etat dans un délai de trois mois à compter de cette publication. Un décret en Conseil d'Etat peut toutefois prévoir les conditions dans lesquelles les services compétents de l'Etat peuvent autoriser les personnes physiques et morales à conserver les armes acquises de manière régulière dans le cadre des lois et règlements antérieurs. L'autorisation a un caractère personnel et devient nulle de plein droit en cas de perte ou de remise de ces armes aux services de l'Etat.",
+      "valid_from": "2012-03-08"
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "Les charges qui pourraient résulter de l'application de la présente loi pour l'Etat sont compensées à due concurrence par la création d'une taxe additionnelle aux droits prévus aux articles 575 et 575 A du code général des impôts."
+      "content": "Les charges qui pourraient résulter de l'application de la présente loi pour l'Etat sont compensées à due concurrence par la création d'une taxe additionnelle aux droits prévus aux articles 575 et 575 A du code général des impôts.",
+      "valid_from": "2012-03-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

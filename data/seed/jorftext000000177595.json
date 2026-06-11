@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Dans la collectivité territoriale de Mayotte il est procédé, aux frais de l'Etat, à l'établissement et à la conservation d'un cadastre parcellaire.Le cadastre parcellaire est destiné à servir de moyen d'identification et de détermination physique des immeubles et de support aux évaluations à retenir pour l'assiette des impôts directs locaux.La documentation cadastrale peut recevoir les utilisations prévues à l'alinéa précédent au fur et à mesure de sa constitution dans chaque commune.Un décret en Conseil d'Etat fixe les conditions d'application du présent article."
+      "content": "Dans la collectivité territoriale de Mayotte il est procédé, aux frais de l'Etat, à l'établissement et à la conservation d'un cadastre parcellaire.Le cadastre parcellaire est destiné à servir de moyen d'identification et de détermination physique des immeubles et de support aux évaluations à retenir pour l'assiette des impôts directs locaux.La documentation cadastrale peut recevoir les utilisations prévues à l'alinéa précédent au fur et à mesure de sa constitution dans chaque commune.Un décret en Conseil d'Etat fixe les conditions d'application du présent article.",
+      "valid_from": "1992-10-03"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le Premier ministre, le ministre du budget et le ministre des départements et territoires d'outre-mer sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre du budget et le ministre des départements et territoires d'outre-mer sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "1992-10-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

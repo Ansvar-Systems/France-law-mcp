@@ -12,13 +12,21 @@
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "A l'exception des dispositions du 3° de son article 13 qui sont applicables à compter du 1er juin 2020, les dispositions de la présente ordonnance entrent en vigueur immédiatement. Elles sont applicables aux instances en cours à cette date.Les dispositions du premier alinéa sont applicables dans les îles Wallis et Futuna."
+      "content": "A l'exception des dispositions du 3° de son article 13 qui sont applicables à compter du 1er juin 2020, les dispositions de la présente ordonnance entrent en vigueur immédiatement. Elles sont applicables aux instances en cours à cette date.Les dispositions du premier alinéa sont applicables dans les îles Wallis et Futuna.",
+      "valid_from": "2020-05-22"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Le Premier ministre et la garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française"
+      "content": "Le Premier ministre et la garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française",
+      "valid_from": "2020-05-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

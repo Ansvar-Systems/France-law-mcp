@@ -12,37 +12,49 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les articles 188-10 à 188-17 du titre VIII du code rural sont abrogés.En tant que de besoin, les modalités d'application du présent titre dans les départements d'outre-mer seront fixées par des décrets en Conseil d'Etat."
+      "content": "Les articles 188-10 à 188-17 du titre VIII du code rural sont abrogés.En tant que de besoin, les modalités d'application du présent titre dans les départements d'outre-mer seront fixées par des décrets en Conseil d'Etat.",
+      "valid_from": "1984-08-02"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "I - Modificateur.II - A titre transitoire, et à l'issue d'un an à compter de l'entrée en vigueur de la présente loi, les arrêtés mentionnés à l'article L. 411-3 du code rural s'imposent de plein droit aux parties aux contrats en cours."
+      "content": "I - Modificateur.II - A titre transitoire, et à l'issue d'un an à compter de l'entrée en vigueur de la présente loi, les arrêtés mentionnés à l'article L. 411-3 du code rural s'imposent de plein droit aux parties aux contrats en cours.",
+      "valid_from": "1984-08-02"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Le droit de reprise tel qu'il est prévu aux articles L. 411-6, L. 411-58 et L. 411-60 du code rural et de la pêche maritime ne peut être exercé au profit d'une personne bénéficiant d'un avantage vieillesse supérieur à 4160 fois le montant horaire du salaire minimum de croissance."
+      "content": "Le droit de reprise tel qu'il est prévu aux articles L. 411-6, L. 411-58 et L. 411-60 du code rural et de la pêche maritime ne peut être exercé au profit d'une personne bénéficiant d'un avantage vieillesse supérieur à 4160 fois le montant horaire du salaire minimum de croissance.",
+      "valid_from": "2010-05-08"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Les dispositions de la présente loi sont applicables aux baux en cours."
+      "content": "Les dispositions de la présente loi sont applicables aux baux en cours.",
+      "valid_from": "1984-08-02"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "Les durées prévues aux articles L. 461-3, L. 461-10, L. 462-4 et L. 462-5 du code rural et de la pêche maritime sont portées de six à neuf ans."
+      "content": "Les durées prévues aux articles L. 461-3, L. 461-10, L. 462-4 et L. 462-5 du code rural et de la pêche maritime sont portées de six à neuf ans.",
+      "valid_from": "2010-05-08"
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "Tous les cinq ans après la promulgation de la présente loi, le Gouvernement publiera un rapport sur l'évolution comparée des différents modes de faire-valoir dans chacun des départements d'outre-mer."
+      "content": "Tous les cinq ans après la promulgation de la présente loi, le Gouvernement publiera un rapport sur l'évolution comparée des différents modes de faire-valoir dans chacun des départements d'outre-mer.",
+      "valid_from": "1984-08-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

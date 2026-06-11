@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La créance née d'un prêt consenti par la Banque du développement des PME en application des conventions conclues entre l'Etat et cet établissement, à un candidat à un office de notaire, d'avoué, de greffier des tribunaux de commerce, d'huissier de justice ou  de commissaire-priseur judiciaire bénéficiant des dispositions de l'article 91 de la loi du 28 avril 1816 sur les finances, est garantie par un privilège sur la finance de l'office. Lorsque le titulaire de l'office est une société, le privilège porte sur le quantum de la finance de l'office correspondant à celui des parts ou d'actions acquises au moyen de prêt. Ce privilège est inscrit sur un registre conservé au ministère de la justice et s'exerce après les privilèges du Trésor."
+      "content": "La créance née d'un prêt consenti par la Banque du développement des PME en application des conventions conclues entre l'Etat et cet établissement, à un candidat à un office de notaire, d'avoué, de greffier des tribunaux de commerce, d'huissier de justice ou  de commissaire-priseur judiciaire bénéficiant des dispositions de l'article 91 de la loi du 28 avril 1816 sur les finances, est garantie par un privilège sur la finance de l'office. Lorsque le titulaire de l'office est une société, le privilège porte sur le quantum de la finance de l'office correspondant à celui des parts ou d'actions acquises au moyen de prêt. Ce privilège est inscrit sur un registre conservé au ministère de la justice et s'exerce après les privilèges du Trésor.",
+      "valid_from": "2004-02-12"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi."
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi.",
+      "valid_from": "1958-12-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

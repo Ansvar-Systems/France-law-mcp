@@ -12,43 +12,56 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions annexées à la présente ordonnance constituent la partie législative du code des procédures civiles d'exécution."
+      "content": "Les dispositions annexées à la présente ordonnance constituent la partie législative du code des procédures civiles d'exécution.",
+      "valid_from": "2012-06-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les références à des dispositions abrogées par l'article 4 de la présente ordonnance sont remplacées par les références aux dispositions correspondantes du code des procédures civiles d'exécution."
+      "content": "Les références à des dispositions abrogées par l'article 4 de la présente ordonnance sont remplacées par les références aux dispositions correspondantes du code des procédures civiles d'exécution.",
+      "valid_from": "2012-06-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Sont abrogés :\n\n4° Les articles 794 et 795 a du code local de procédure civile applicable dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle ;\n\n5° Les articles 14 et 15 de la loi du 9 juillet 1836 susvisée ;\n\n6° L'article 11 de la loi du 8 juillet 1837 susvisée ;\n\n7° Les articles 2 et 3 de la loi du 12 avril 1922 susvisée ;\n\n1° à 13 ° A abrogé les dispositions suivantes :\n\n- Code civil\n\n- Code de la construction et de l'habitation.\n\n- Loi du 24 août 1930\n\n- Loi n°49-972 du 21 juillet 1949\n\n- Loi n° 67-523 du 3 juillet 1967\n\n- Loi n°73-5 du 2 janvier 1973\n\n- Loi n°91-650 du 9 juillet 1991\n\n- Ordonnance n°2006-461 du 21 avril 2006\n\n- Loi du 24 août 1930"
+      "content": "Sont abrogés :\n\n4° Les articles 794 et 795 a du code local de procédure civile applicable dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle ;\n\n5° Les articles 14 et 15 de la loi du 9 juillet 1836 susvisée ;\n\n6° L'article 11 de la loi du 8 juillet 1837 susvisée ;\n\n7° Les articles 2 et 3 de la loi du 12 avril 1922 susvisée ;\n\n1° à 13 ° A abrogé les dispositions suivantes :\n\n- Code civil\n\n- Code de la construction et de l'habitation.\n\n- Loi du 24 août 1930\n\n- Loi n°49-972 du 21 juillet 1949\n\n- Loi n° 67-523 du 3 juillet 1967\n\n- Loi n°73-5 du 2 janvier 1973\n\n- Loi n°91-650 du 9 juillet 1991\n\n- Ordonnance n°2006-461 du 21 avril 2006\n\n- Loi du 24 août 1930",
+      "valid_from": "2012-06-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Pour l'application du présent code à Mayotte et jusqu'à la date d'application à cette collectivité du code de l'action sociale et des familles, du code de la construction et de l'habitation et de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement, les références à ces codes et à ces lois sont remplacées par celles des textes, le cas échéant, applicables localement ayant le même objet."
+      "content": "Pour l'application du présent code à Mayotte et jusqu'à la date d'application à cette collectivité du code de l'action sociale et des familles, du code de la construction et de l'habitation et de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement, les références à ces codes et à ces lois sont remplacées par celles des textes, le cas échéant, applicables localement ayant le même objet.",
+      "valid_from": "2012-06-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les dispositions de la présente ordonnance sont applicables à Wallis-et-Futuna à l'exception de celles des 2° à 8°, 9° sauf en ce qui concerne l'article L. 211-12 du code monétaire et financier, 10° à 12°, 13° sauf en ce qui concerne le code civil et la loi du 15 juin 1976 susvisée et des 14° à 17° de l'article 3 ainsi que des dispositions de l'article 5."
+      "content": "Les dispositions de la présente ordonnance sont applicables à Wallis-et-Futuna à l'exception de celles des 2° à 8°, 9° sauf en ce qui concerne l'article L. 211-12 du code monétaire et financier, 10° à 12°, 13° sauf en ce qui concerne le code civil et la loi du 15 juin 1976 susvisée et des 14° à 17° de l'article 3 ainsi que des dispositions de l'article 5.",
+      "valid_from": "2012-06-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La présente ordonnance entre en vigueur le premier jour du sixième mois suivant sa publication."
+      "content": "La présente ordonnance entre en vigueur le premier jour du sixième mois suivant sa publication.",
+      "valid_from": "2012-06-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice et des libertés, et le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice et des libertés, et le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2012-06-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

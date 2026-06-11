@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est autorisée l'approbation de l'accord sur la création d'un espace aérien commun entre l'Union européenne et ses Etats membres, d'une part, et la République d'Arménie, d'autre part, signé à Bruxelles le 15 novembre 2021, et dont le texte est annexé à la présente loi (2)."
+      "content": "Est autorisée l'approbation de l'accord sur la création d'un espace aérien commun entre l'Union européenne et ses Etats membres, d'une part, et la République d'Arménie, d'autre part, signé à Bruxelles le 15 novembre 2021, et dont le texte est annexé à la présente loi (2).",
+      "valid_from": "2025-03-27"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Est autorisée l'approbation de l'accord sur la création d'un espace aérien commun entre l'Union européenne et ses Etats membres, d'une part, et l'Ukraine, d'autre part, signé à Kiev le 12 octobre 2021, et dont le texte est annexé à la présente loi (2)."
+      "content": "Est autorisée l'approbation de l'accord sur la création d'un espace aérien commun entre l'Union européenne et ses Etats membres, d'une part, et l'Ukraine, d'autre part, signé à Kiev le 12 octobre 2021, et dont le texte est annexé à la présente loi (2).",
+      "valid_from": "2025-03-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

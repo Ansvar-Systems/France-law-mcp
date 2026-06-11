@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les centres de santé autorisés à dispenser des soins avant l'entrée en vigueur de la présente loi effectuent une demande d'agrément auprès du directeur général de l'agence régionale de santé pour leurs seules activités dentaires, ophtalmologiques et orthoptiques. A cette fin, le dossier mentionné au III de l'article L. 6323-1-11 du code de la santé publique est déposé dans un délai de six mois à compter de la promulgation de la présente loi. L'examen du dossier de demande d'agrément est effectué dans les conditions prévues aux III et IV de l'article L. 6323-1-11 du code de la santé publique.A l'expiration du délai de six mois mentionné au premier alinéa du présent article, aucun centre de santé autorisé à dispenser des soins avant l'entrée en vigueur de la présente loi n'est autorisé à dispenser des soins dentaires, ophtalmologiques ou orthoptiques s'il n'a pas effectué le dépôt exigé du dossier de demande d'agrément.A l'expiration d'un délai de trente mois à compter de la promulgation de la présente loi, aucun centre de santé n'est autorisé à dispenser des soins dentaires, ophtalmologiques ou orthoptiques s'il ne dispose pas d'un agrément pour ces activités."
+      "content": "Les centres de santé autorisés à dispenser des soins avant l'entrée en vigueur de la présente loi effectuent une demande d'agrément auprès du directeur général de l'agence régionale de santé pour leurs seules activités dentaires, ophtalmologiques et orthoptiques. A cette fin, le dossier mentionné au III de l'article L. 6323-1-11 du code de la santé publique est déposé dans un délai de six mois à compter de la promulgation de la présente loi. L'examen du dossier de demande d'agrément est effectué dans les conditions prévues aux III et IV de l'article L. 6323-1-11 du code de la santé publique.A l'expiration du délai de six mois mentionné au premier alinéa du présent article, aucun centre de santé autorisé à dispenser des soins avant l'entrée en vigueur de la présente loi n'est autorisé à dispenser des soins dentaires, ophtalmologiques ou orthoptiques s'il n'a pas effectué le dépôt exigé du dossier de demande d'agrément.A l'expiration d'un délai de trente mois à compter de la promulgation de la présente loi, aucun centre de santé n'est autorisé à dispenser des soins dentaires, ophtalmologiques ou orthoptiques s'il ne dispose pas d'un agrément pour ces activités.",
+      "valid_from": "2023-05-21"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur les moyens à allouer aux agences régionales de santé afin de leur permettre de remplir les missions qui leur sont dévolues au titre de la présente loi.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur les moyens à allouer aux agences régionales de santé afin de leur permettre de remplir les missions qui leur sont dévolues au titre de la présente loi.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2023-05-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

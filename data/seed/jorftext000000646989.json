@@ -4,7 +4,7 @@
   "title": "Ordonnance n° 2007-613 du 26 avril 2007",
   "title_en": null,
   "short_name": null,
-  "status": "repealed",
+  "status": "in_force",
   "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000646989",
   "description": null,
   "provisions": [
@@ -12,25 +12,35 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - Paragraphe modificateur\n\nII. - Pour les médicaments traditionnels à base de plantes dont la mise sur le marché a eu lieu avant la date de publication de la présente ordonnance, une demande d'enregistrement doit être déposée dans les conditions fixées au présent article, conformément au calendrier établi par le directeur général de l'Agence française de sécurité sanitaire des produits de santé et au plus tard le 30 avril 2011. A défaut, leur commercialisation cesse à cette même date.\n\nA titre transitoire, les produits pour lesquels une demande d'enregistrement a été déposée peuvent continuer à être commercialisés jusqu'à la notification éventuelle d'un refus d'enregistrement par le directeur général de l'Agence française de sécurité sanitaire des produits de santé, dans la limite de la durée de validité de leur autorisation de mise sur le marché."
+      "content": "I. - Paragraphe modificateur\n\nII. - Pour les médicaments traditionnels à base de plantes dont la mise sur le marché a eu lieu avant la date de publication de la présente ordonnance, une demande d'enregistrement doit être déposée dans les conditions fixées au présent article, conformément au calendrier établi par le directeur général de l'Agence française de sécurité sanitaire des produits de santé et au plus tard le 30 avril 2011. A défaut, leur commercialisation cesse à cette même date.\n\nA titre transitoire, les produits pour lesquels une demande d'enregistrement a été déposée peuvent continuer à être commercialisés jusqu'à la notification éventuelle d'un refus d'enregistrement par le directeur général de l'Agence française de sécurité sanitaire des produits de santé, dans la limite de la durée de validité de leur autorisation de mise sur le marché.",
+      "valid_from": "2011-03-24"
     },
     {
       "provision_ref": "art48",
       "section": "48",
       "title": "Article 48",
-      "content": "I. - Les durées, déterminées par voie réglementaire, qui servent de référence pour la mise en oeuvre du quatrième alinéa de l'article L. 5141-5 du code de la santé publique dans sa rédaction issue de l'article 31 de la présente ordonnance sont applicables dès lors que la demande d'autorisation de mise sur le marché du médicament vétérinaire de référence a été déposée à compter du 30 octobre 2005.II. - Les dispositions de l'article L. 5141-5-4 du code de la santé publique dans sa rédaction issue de l'article 32 de la présente ordonnance ne sont applicables que lorsque l'autorisation initiale de mise sur le marché du médicament vétérinaire de référence a été délivrée au vu d'une demande déposée à compter du 30 octobre 2005."
+      "content": "I. - Les durées, déterminées par voie réglementaire, qui servent de référence pour la mise en oeuvre du quatrième alinéa de l'article L. 5141-5 du code de la santé publique dans sa rédaction issue de l'article 31 de la présente ordonnance sont applicables dès lors que la demande d'autorisation de mise sur le marché du médicament vétérinaire de référence a été déposée à compter du 30 octobre 2005.II. - Les dispositions de l'article L. 5141-5-4 du code de la santé publique dans sa rédaction issue de l'article 32 de la présente ordonnance ne sont applicables que lorsque l'autorisation initiale de mise sur le marché du médicament vétérinaire de référence a été délivrée au vu d'une demande déposée à compter du 30 octobre 2005.",
+      "valid_from": "2007-04-28"
     },
     {
       "provision_ref": "art52-1",
       "section": "52-1",
       "title": "Article 52-1",
-      "content": "L'article 26 de la présente ordonnance est applicable à Wallis-et-Futuna."
+      "content": "L'article 26 de la présente ordonnance est applicable à Wallis-et-Futuna.",
+      "valid_from": "2008-12-20"
     },
     {
       "provision_ref": "art53",
       "section": "53",
       "title": "Article 53",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie, le garde des sceaux, ministre de la justice, le ministre de l'agriculture et de la pêche et le ministre de la santé et des solidarités sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie, le garde des sceaux, ministre de la justice, le ministre de l'agriculture et de la pêche et le ministre de la santé et des solidarités sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2007-04-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

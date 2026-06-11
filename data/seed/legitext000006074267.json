@@ -1,0 +1,25 @@
+{
+  "id": "legitext000006074267",
+  "type": "statute",
+  "title": "Loi n° 87-273 du 16 avril 1987",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006074267/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "artunique",
+      "section": "unique",
+      "title": "Article unique",
+      "content": "Est autorisé l'approbation du protocole modifiant la convention de Bruxelles du 18 décembre 1971 portant création d'un Fonds international d'indemnisation pour les dommages dus à la pollution par les hydrocarbures, fait à Londres le 25 mai 1984 et dont le texte est annexé à la présente loi (2).(2) Il sera publié ultérieurement au Journal officiel de la République française.",
+      "valid_from": "1987-04-18"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

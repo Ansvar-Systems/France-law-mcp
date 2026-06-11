@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La durée de validité des documents de séjour suivants, qu'ils aient été délivrés sur le fondement du code de l'entrée et du séjour des étrangers et du droit d'asile ou d'un accord bilatéral, arrivés à expiration entre le 16 mars et le 15 mai 2020, est prolongée de 180 jours :\n\n1° Visas de long séjour ;\n\n2° Titres de séjour, à l'exception de ceux délivrés au personnel diplomatique et consulaire étranger ;\n\n3° Autorisations provisoires de séjour ;\n\n4° Récépissés de demandes de titres de séjour."
+      "content": "La durée de validité des documents de séjour suivants, qu'ils aient été délivrés sur le fondement du code de l'entrée et du séjour des étrangers et du droit d'asile ou d'un accord bilatéral, arrivés à expiration entre le 16 mars et le 15 mai 2020, est prolongée de 180 jours :\n\n1° Visas de long séjour ;\n\n2° Titres de séjour, à l'exception de ceux délivrés au personnel diplomatique et consulaire étranger ;\n\n3° Autorisations provisoires de séjour ;\n\n4° Récépissés de demandes de titres de séjour.",
+      "valid_from": "2020-04-24"
     },
     {
       "provision_ref": "art1bis",
       "section": "1bis",
       "title": "Article 1bis",
-      "content": "La durée de validité des attestations de demande d'asile arrivées à expiration entre le 16 mars et le 15 mai 2020 est prolongée de 90 jours."
+      "content": "La durée de validité des attestations de demande d'asile arrivées à expiration entre le 16 mars et le 15 mai 2020 est prolongée de 90 jours.",
+      "valid_from": "2020-04-24"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'article 1er est applicable à Saint-Martin et Saint-Barthélemy, en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie."
+      "content": "L'article 1er est applicable à Saint-Martin et Saint-Barthélemy, en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie.",
+      "valid_from": "2020-03-26"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente ordonnance entre en vigueur immédiatement."
+      "content": "La présente ordonnance entre en vigueur immédiatement.",
+      "valid_from": "2020-03-26"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre et le ministre de l'intérieur sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre de l'intérieur sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-03-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

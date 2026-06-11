@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions des articles L. 121-29 à L. 121-31 du code de l'énergie relatifs au fonds de péréquation de l'électricité entrent en vigueur le 1er janvier 2020. Avant cette date, les tarifs d'utilisation des réseaux publics de distribution de l'électricité, ainsi que la part correspondante de ces tarifs dans les tarifs réglementés de vente mentionnés à l'article L. 337-4 du code de l'énergie, sont égaux aux coûts d'utilisation des réseaux publics de distribution de l'électricité dans les îles Wallis et Futuna réellement supportés par la société concessionnaire mentionnée à l'article L. 152-1 du même code. La méthodologie utilisée pour établir ces tarifs est fixée, sur proposition de la société concessionnaire mentionnée à l'article L. 152-1 du code de l'énergie, par la Commission de régulation de l'énergie.Les dispositions de l'article L. 363-4 du code de l'énergie entrent en vigueur au plus tard le 1er janvier 2020. Un arrêté conjoint des ministres chargés de l'économie, de l'énergie et de l'outre-mer fixe la procédure et les conditions de cet alignement. Les tarifs définis par la Commission de régulation de l'énergie en application de l'article L. 337-8 du code de l'énergie se substituent à ceux définis dans la convention de concession en cours."
+      "content": "Les dispositions des articles L. 121-29 à L. 121-31 du code de l'énergie relatifs au fonds de péréquation de l'électricité entrent en vigueur le 1er janvier 2020. Avant cette date, les tarifs d'utilisation des réseaux publics de distribution de l'électricité, ainsi que la part correspondante de ces tarifs dans les tarifs réglementés de vente mentionnés à l'article L. 337-4 du code de l'énergie, sont égaux aux coûts d'utilisation des réseaux publics de distribution de l'électricité dans les îles Wallis et Futuna réellement supportés par la société concessionnaire mentionnée à l'article L. 152-1 du même code. La méthodologie utilisée pour établir ces tarifs est fixée, sur proposition de la société concessionnaire mentionnée à l'article L. 152-1 du code de l'énergie, par la Commission de régulation de l'énergie.Les dispositions de l'article L. 363-4 du code de l'énergie entrent en vigueur au plus tard le 1er janvier 2020. Un arrêté conjoint des ministres chargés de l'économie, de l'énergie et de l'outre-mer fixe la procédure et les conditions de cet alignement. Les tarifs définis par la Commission de régulation de l'énergie en application de l'article L. 337-8 du code de l'énergie se substituent à ceux définis dans la convention de concession en cours.",
+      "valid_from": "2016-05-14"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, le ministre de l'économie, de l'industrie et du numérique et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, le ministre de l'économie, de l'industrie et du numérique et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-05-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

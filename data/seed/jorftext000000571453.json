@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Dans toute société dont le capital est égal ou supérieur à 3048980,30 euros et qui a obtenu de l'Etat, d'une collectivité ou d'un établissement public, soit une concession de distribution d'eau, de gaz ou d'électricité, soit une concession de transports aériens, maritimes ou terrestres, ainsi que dans toute société où l'Etat, une collectivité ou un établissement public détient, à quelque titre que ce soit, une participation au capital, égale ou supérieure à 20 p. 100, la désignation des administrateurs ne devient définitive que si, dans un délai de quinze jours francs, le secrétaire d'Etat aux finances et le secrétaire d'Etat intéressé n'y ont pas mis opposition."
+      "content": "Dans toute société dont le capital est égal ou supérieur à 3048980,30 euros et qui a obtenu de l'Etat, d'une collectivité ou d'un établissement public, soit une concession de distribution d'eau, de gaz ou d'électricité, soit une concession de transports aériens, maritimes ou terrestres, ainsi que dans toute société où l'Etat, une collectivité ou un établissement public détient, à quelque titre que ce soit, une participation au capital, égale ou supérieure à 20 p. 100, la désignation des administrateurs ne devient définitive que si, dans un délai de quinze jours francs, le secrétaire d'Etat aux finances et le secrétaire d'Etat intéressé n'y ont pas mis opposition.",
+      "valid_from": "2002-01-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Toute désignation d'administrateur, dans les sociétés visées à l'article 1er, doit être immédiatement notifiée à l'autorité concédante ou au secrétaire d'Etat intéressé.Le délai de quinze jours francs prévu à l'article 1er court à dater du jour de la réception de cette notification."
+      "content": "Toute désignation d'administrateur, dans les sociétés visées à l'article 1er, doit être immédiatement notifiée à l'autorité concédante ou au secrétaire d'Etat intéressé.Le délai de quinze jours francs prévu à l'article 1er court à dater du jour de la réception de cette notification.",
+      "valid_from": "1940-11-29"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Dans le mois de la promulgation de la présente loi, les sociétés visées à l'article 1er devront notifier la composition de leur conseil d'administration aux autorités désignées à l'article 2.Le secrétaire d'Etat aux finances et le secrétaire d'Etat intéressé pourront, dans un délai de deux mois à compter de cette notification, mettre opposition au maintien des administrateurs actuellement en fonction.En pareil cas, les pouvoirs des administrateurs cesseront de plein droit, le huitième jour suivant la date de réception par la société de la notification de l'opposition des secrétaires d'Etat intéressés."
+      "content": "Dans le mois de la promulgation de la présente loi, les sociétés visées à l'article 1er devront notifier la composition de leur conseil d'administration aux autorités désignées à l'article 2.Le secrétaire d'Etat aux finances et le secrétaire d'Etat intéressé pourront, dans un délai de deux mois à compter de cette notification, mettre opposition au maintien des administrateurs actuellement en fonction.En pareil cas, les pouvoirs des administrateurs cesseront de plein droit, le huitième jour suivant la date de réception par la société de la notification de l'opposition des secrétaires d'Etat intéressés.",
+      "valid_from": "1940-11-29"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions de la présente loi sont applicables aux banques qui exercent leur privilège d'émission en Algérie ou aux colonies, ainsi qu'aux sociétés dans lesquelles le poste de président, directeur général ou gouverneur est à la nomination du Gouvernement."
+      "content": "Les dispositions de la présente loi sont applicables aux banques qui exercent leur privilège d'émission en Algérie ou aux colonies, ainsi qu'aux sociétés dans lesquelles le poste de président, directeur général ou gouverneur est à la nomination du Gouvernement.",
+      "valid_from": "1940-11-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

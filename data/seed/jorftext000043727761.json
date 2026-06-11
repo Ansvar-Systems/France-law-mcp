@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions des chapitres Ier et III du titre IV du livre IV du code de commerce, dans leur rédaction résultant de la présente ordonnance, sont applicables à compter du 1er novembre 2021 aux contrats conclus après la publication de cette ordonnance.Les contrats en cours d'exécution à la date de publication de cette ordonnance sont mis en conformité avec les dispositions mentionnées ci-dessus dans un délai de douze mois à compter de cette date."
+      "content": "Les dispositions des chapitres Ier et III du titre IV du livre IV du code de commerce, dans leur rédaction résultant de la présente ordonnance, sont applicables à compter du 1er novembre 2021 aux contrats conclus après la publication de cette ordonnance.Les contrats en cours d'exécution à la date de publication de cette ordonnance sont mis en conformité avec les dispositions mentionnées ci-dessus dans un délai de douze mois à compter de cette date.",
+      "valid_from": "2021-07-02"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-07-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

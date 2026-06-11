@@ -12,19 +12,28 @@
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "L'article L. 770-2 est abrogé."
+      "content": "L'article L. 770-2 est abrogé.",
+      "valid_from": "2008-07-17"
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "Dans les conditions prévues par l'article 38 de la Constitution, le Gouvernement est autorisé à modifier et à compléter, par ordonnance, les dispositions du titre Ier du livre II du code du patrimoine, celles de la loi n° 78-753 du 17 juillet 1978 précitée, ainsi que les autres dispositions législatives portant sur l'accès aux documents administratifs ou aux archives publiques, afin d'harmoniser les règles qui leur sont applicables. L'ordonnance est prise au plus tard le dernier jour du neuvième mois suivant la promulgation de la présente loi. Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance."
+      "content": "Dans les conditions prévues par l'article 38 de la Constitution, le Gouvernement est autorisé à modifier et à compléter, par ordonnance, les dispositions du titre Ier du livre II du code du patrimoine, celles de la loi n° 78-753 du 17 juillet 1978 précitée, ainsi que les autres dispositions législatives portant sur l'accès aux documents administratifs ou aux archives publiques, afin d'harmoniser les règles qui leur sont applicables. L'ordonnance est prise au plus tard le dernier jour du neuvième mois suivant la promulgation de la présente loi. Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.",
+      "valid_from": "2008-07-17"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "Le Gouvernement présente au Parlement, au plus tard un an à compter de la promulgation de la présente loi, puis tous les trois ans, un rapport portant sur les conditions de collecte, classement, conservation et communication des archives en France. Ce rapport présente en particulier les mesures destinées à assurer la pérennité des archives numériques.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Le Gouvernement présente au Parlement, au plus tard un an à compter de la promulgation de la présente loi, puis tous les trois ans, un rapport portant sur les conditions de collecte, classement, conservation et communication des archives en France. Ce rapport présente en particulier les mesures destinées à assurer la pérennité des archives numériques.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2008-07-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

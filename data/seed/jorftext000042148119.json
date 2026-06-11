@@ -12,19 +12,28 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Tout professionnel qui contacte par téléphone une personne en vue de la réalisation d'une étude ou d'un sondage respecte des règles déontologiques, rendues publiques, élaborées par les professionnels opérant dans ce secteur. Ces règles précisent notamment les jours et horaires ainsi que la fréquence auxquels les appels téléphoniques aux fins de réalisation d'études ou sondages sont autorisés.Les jours et horaires ainsi que la fréquence auxquels peuvent être passés ces appels sont, en tant que de besoin, précisés par décret.Les manquements aux dispositions prises en application du deuxième alinéa du présent II sont passibles de l'amende administrative prévue à l'article L. 242-16 du code de la consommation, prononcée dans les conditions fixées au même article L. 242-16. Ils sont recherchés et constatés par les agents mentionnés à l'article L. 511-3 du même code dans les conditions fixées par l'article L. 511-6 dudit code.\n\n- Code de la consommation"
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Tout professionnel qui contacte par téléphone une personne en vue de la réalisation d'une étude ou d'un sondage respecte des règles déontologiques, rendues publiques, élaborées par les professionnels opérant dans ce secteur. Ces règles précisent notamment les jours et horaires ainsi que la fréquence auxquels les appels téléphoniques aux fins de réalisation d'études ou sondages sont autorisés.Les jours et horaires ainsi que la fréquence auxquels peuvent être passés ces appels sont, en tant que de besoin, précisés par décret.Les manquements aux dispositions prises en application du deuxième alinéa du présent II sont passibles de l'amende administrative prévue à l'article L. 242-16 du code de la consommation, prononcée dans les conditions fixées au même article L. 242-16. Ils sont recherchés et constatés par les agents mentionnés à l'article L. 511-3 du même code dans les conditions fixées par l'article L. 511-6 dudit code.\n\n- Code de la consommation",
+      "valid_from": "2020-07-26"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "I. à III.-A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nIV.-Le VI de l'article L. 44 du code des postes et des communications électroniques, dans sa rédaction résultant de la présente loi, entre en vigueur trois mois après la promulgation de la présente loi et est abrogé trois ans après la promulgation de la présente loi.Le V de l'article L. 44 du code des postes et des communications électroniques, dans sa rédaction résultant de la présente loi, entre en vigueur trois ans après la promulgation de la présente loi.\n\n- Code de la consommation\n\n- Code des postes et des communications électroniques\n\n- Code de la consommation"
+      "content": "I. à III.-A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nIV.-Le VI de l'article L. 44 du code des postes et des communications électroniques, dans sa rédaction résultant de la présente loi, entre en vigueur trois mois après la promulgation de la présente loi et est abrogé trois ans après la promulgation de la présente loi.Le V de l'article L. 44 du code des postes et des communications électroniques, dans sa rédaction résultant de la présente loi, entre en vigueur trois ans après la promulgation de la présente loi.\n\n- Code de la consommation\n\n- Code des postes et des communications électroniques\n\n- Code de la consommation",
+      "valid_from": "2020-07-26"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "A modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- Code de la consommation"
+      "content": "A modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- Code de la consommation",
+      "valid_from": "2020-07-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

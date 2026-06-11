@@ -12,13 +12,21 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Il peut être dérogé aux dispositions des polices d'abonnement, des cahiers des charges, des conventions et de tous autres textes relatifs aux modalités de relevé de compteurs et d'encaissement des quittances d'électricité et de gaz dans les conditions suivantes :La fréquence des relevés pourra être modifiée sans que l'intervalle compris entre deux relevés consécutifs puisse être supérieur à six mois. Toutefois, entre deux relevés consécutifs, des acomptes forfaitaires correspondant à des périodes de consommation d'au moins un mois pourront être demandés aux usagers dont la dernière consommation connue aura dépassé un montant minima qui sera fixé par arrêté du ministre chargé de l'industrie et du commerce. Ces acomptes se rapporteront à des consommations passées et seront déterminés en fonction des quantités moyennes habituellement consommées par l'usager.Les usagers n'entrant pas dans cette catégorie seront, s'ils le demandent, autorisés à verser des acomptes dans les conditions indiquées ci-dessus.Les paiements pourront être faits directement aux caisses des organismes distributeurs par moyen postal ou bancaire ou par tout autre mode de paiement déterminé par accord entre ces organismes et leurs abonnés.En aucun cas, les dispositions ci-dessus ne pourront entraîner des frais supplémentaires pour les usagers.Des arrêtés du ministre chargé de l'industrie et du commerce fixeront les conditions d'application du présent article."
+      "content": "Il peut être dérogé aux dispositions des polices d'abonnement, des cahiers des charges, des conventions et de tous autres textes relatifs aux modalités de relevé de compteurs et d'encaissement des quittances d'électricité et de gaz dans les conditions suivantes :La fréquence des relevés pourra être modifiée sans que l'intervalle compris entre deux relevés consécutifs puisse être supérieur à six mois. Toutefois, entre deux relevés consécutifs, des acomptes forfaitaires correspondant à des périodes de consommation d'au moins un mois pourront être demandés aux usagers dont la dernière consommation connue aura dépassé un montant minima qui sera fixé par arrêté du ministre chargé de l'industrie et du commerce. Ces acomptes se rapporteront à des consommations passées et seront déterminés en fonction des quantités moyennes habituellement consommées par l'usager.Les usagers n'entrant pas dans cette catégorie seront, s'ils le demandent, autorisés à verser des acomptes dans les conditions indiquées ci-dessus.Les paiements pourront être faits directement aux caisses des organismes distributeurs par moyen postal ou bancaire ou par tout autre mode de paiement déterminé par accord entre ces organismes et leurs abonnés.En aucun cas, les dispositions ci-dessus ne pourront entraîner des frais supplémentaires pour les usagers.Des arrêtés du ministre chargé de l'industrie et du commerce fixeront les conditions d'application du présent article.",
+      "valid_from": "1958-09-26"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le ministre des finances et des affaires économiques, le ministre de l'industrie et du commerce et le ministre de l'agriculture sont chargés de l'exécution du présent décret, qui sera publié au Journal officiel de la République Française."
+      "content": "Le ministre des finances et des affaires économiques, le ministre de l'industrie et du commerce et le ministre de l'agriculture sont chargés de l'exécution du présent décret, qui sera publié au Journal officiel de la République Française.",
+      "valid_from": "1958-09-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

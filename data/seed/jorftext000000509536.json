@@ -12,7 +12,14 @@
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Les établissements et services mentionnés aux paragraphes I et II de l'article L. 180 du code de la santé publique qui bénéficient d'une autorisation délivrée par le représentant de l'Etat dans le département, avant la promulgation de la présente loi, sont réputés satisfaire aux prescriptions de cet article."
+      "content": "Les établissements et services mentionnés aux paragraphes I et II de l'article L. 180 du code de la santé publique qui bénéficient d'une autorisation délivrée par le représentant de l'Etat dans le département, avant la promulgation de la présente loi, sont réputés satisfaire aux prescriptions de cet article.",
+      "valid_from": "1989-12-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

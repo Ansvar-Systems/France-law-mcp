@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- Code rural et de la pêche maritime\n\nII. - A. - Le I entre en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2022.B. - Le I est également applicable aux pensions de retraite ayant pris effet avant le 1er janvier 2022, dans les conditions suivantes :1° La valeur du salaire minimum de croissance est celle en vigueur le 1er janvier 2022 ;2° L'application du V de l'article L. 732-63 du code rural et de la pêche maritime ne peut avoir pour conséquence une baisse de la pension de retraite complémentaire."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Code rural et de la pêche maritime\n\nII. - A. - Le I entre en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2022.B. - Le I est également applicable aux pensions de retraite ayant pris effet avant le 1er janvier 2022, dans les conditions suivantes :1° La valeur du salaire minimum de croissance est celle en vigueur le 1er janvier 2022 ;2° L'application du V de l'article L. 732-63 du code rural et de la pêche maritime ne peut avoir pour conséquence une baisse de la pension de retraite complémentaire.",
+      "valid_from": "2020-07-05"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le Gouvernement remet au Parlement, au plus tard le 1er septembre de chaque année, un rapport où sont exposés de façon exhaustive :1° L'évolution du montant minimal annuel mentionné à l'article L. 732-63 du code rural et de la pêche maritime et de ses composantes ;2° En particulier, le calcul annuel de l'évolution de ce montant minimal annuel et de ses composantes, en application du taux de revalorisation du III de l'article L. 136-8 du code de la sécurité sociale."
+      "content": "Le Gouvernement remet au Parlement, au plus tard le 1er septembre de chaque année, un rapport où sont exposés de façon exhaustive :1° L'évolution du montant minimal annuel mentionné à l'article L. 732-63 du code rural et de la pêche maritime et de ses composantes ;2° En particulier, le calcul annuel de l'évolution de ce montant minimal annuel et de ses composantes, en application du taux de revalorisation du III de l'article L. 136-8 du code de la sécurité sociale.",
+      "valid_from": "2020-07-05"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I à II. - A modifié les dispositions suivantes :\n\n- Code rural et de la pêche maritime\n\nIII. - Le I du présent article est applicable aux pensions de retraite ayant pris effet avant le 1er janvier 2022. Pour l'application du présent III, la valeur du salaire minimum de croissance est celle en vigueur le 1er janvier 2022."
+      "content": "I à II. - A modifié les dispositions suivantes :\n\n- Code rural et de la pêche maritime\n\nIII. - Le I du présent article est applicable aux pensions de retraite ayant pris effet avant le 1er janvier 2022. Pour l'application du présent III, la valeur du salaire minimum de croissance est celle en vigueur le 1er janvier 2022.",
+      "valid_from": "2020-07-05"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "En application de l'article L. 911-4 du code de la sécurité sociale, l'Etat contribue à l'extension des régimes de retraite complémentaire prévus à l'article L. 921-1 du même code au bénéfice des salariés agricoles dans les collectivités régies par l'article 73 de la Constitution.A défaut d'accord entre les organisations professionnelles d'employeurs et de salariés représentatives dans ces mêmes collectivités dans un délai de dix-huit mois à compter de la promulgation de la présente loi, l'Etat peut procéder à la généralisation de ces régimes dans lesdites collectivités.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "En application de l'article L. 911-4 du code de la sécurité sociale, l'Etat contribue à l'extension des régimes de retraite complémentaire prévus à l'article L. 921-1 du même code au bénéfice des salariés agricoles dans les collectivités régies par l'article 73 de la Constitution.A défaut d'accord entre les organisations professionnelles d'employeurs et de salariés représentatives dans ces mêmes collectivités dans un délai de dix-huit mois à compter de la promulgation de la présente loi, l'Etat peut procéder à la généralisation de ces régimes dans lesdites collectivités.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2020-07-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

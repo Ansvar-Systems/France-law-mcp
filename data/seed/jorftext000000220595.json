@@ -12,319 +12,378 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. - La perception des impôts, produits et revenus affectés à l'Etat, aux collectivités territoriales, aux établissements publics et organismes divers habilités à les percevoir continue d'être effectuée pendant l'année 2001 conformément aux lois et règlements et aux dispositions de la présente loi de finances.II. - Sous réserve de dispositions contraires, la loi de finances s'applique :1° A l'impôt sur le revenu dû au titre de 2000 et des années suivantes ;2° A l'impôt dû par les sociétés sur leurs résultats des exercices clos à compter du 31 décembre 2000 ;3° A compter du 1er janvier 2001 pour les autres dispositions fiscales."
+      "content": "I. - La perception des impôts, produits et revenus affectés à l'Etat, aux collectivités territoriales, aux établissements publics et organismes divers habilités à les percevoir continue d'être effectuée pendant l'année 2001 conformément aux lois et règlements et aux dispositions de la présente loi de finances.II. - Sous réserve de dispositions contraires, la loi de finances s'applique :1° A l'impôt sur le revenu dû au titre de 2000 et des années suivantes ;2° A l'impôt dû par les sociétés sur leurs résultats des exercices clos à compter du 31 décembre 2000 ;3° A compter du 1er janvier 2001 pour les autres dispositions fiscales.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "A. - I. et II. Paragraphes modificateursB. - Les avantages mentionnés au 31° de l'article 81 du code général des impôts sont exclus de l'assiette des cotisations de sécurité sociale, de la contribution sociale généralisée et de la contribution pour le remboursement de la dette sociale."
+      "content": "A. - I. et II. Paragraphes modificateursB. - Les avantages mentionnés au 31° de l'article 81 du code général des impôts sont exclus de l'assiette des cotisations de sécurité sociale, de la contribution sociale généralisée et de la contribution pour le remboursement de la dette sociale.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "I. et II. Paragraphes modificateursIII. Les pertes de recettes résultant pour les collectivités de l'application du 1° du I sont compensées chaque année soit par une majoration des attributions de dotation générale de décentralisation, soit par des diminutions des ajustements prévus au deuxième alinéa de l'article L. 1614-4 du code général des collectivités territoriales.Cette compensation est calculée en 2001 sur la base du produit résultant de l'application des tarifs votés par les assemblées délibérantes en application des articles 1599 G et 1599 decies du code général des impôts au titre de la période d'imposition du 1er décembre 2000 au 30 novembre 2001 à l'état du parc automobile par collectivité constaté au 31 décembre 2000, majoré des recettes de taxe différentielle sur les véhicules à moteur encaissées pour le compte de chaque collectivité en 2000 au titre de la période d'imposition du 1er décembre 1999 au 30 novembre 2000. Le montant obtenu est réduit des recettes de taxe différentielle sur les véhicules à moteur encaissées pour le compte de chaque collectivité au titre de la période d'imposition du 1er décembre 2000 au 30 novembre 2001. Le montant de la compensation ainsi définie, revalorisé en fonction de l'évolution de la dotation globale de fonctionnement au titre de 2001, évolue chaque année comme la dotation globale de fonctionnement à partir de 2002.IV.-Pour l'année 2001, par dérogation au troisième alinéa de l'article 25 de la loi de finances pour 1984 (n° 83-1179 du 29 décembre 1983), le montant mensuel de l'avance versée est déterminé sur la base de un douzième de la prévision d'encaissement total de recettes au cours de cette même année telle qu'elle figure dans la présente loi de finances, répartie entre départements proportionnellement au produit qu'ils ont perçu au titre de la période d'imposition du 1er décembre 1999 au 30 novembre 2000. Les montants servant de base au calcul des avances versées en 2001 sont fixés par département par arrêté conjoint des ministres chargés de l'intérieur et du budget.V.-Pour l'année 2000, par dérogation au cinquième alinéa de l'article 25 de la loi de finances pour 1984 (n° 83-1179 du 29 décembre 1983), le montant total des avances versées est égal au produit résultant de l'application des tarifs votés par les conseils généraux en application de l'article 1599 G du code général des impôts au titre de la période d'imposition du 1er décembre 2000 au 30 novembre 2001 à l'état du parc automobile par département constaté au 31 décembre 2000, majoré des recettes de taxe différentielle sur les véhicules à moteur encaissées pour le compte des départements en 2000 au titre de la période d'imposition du 1er décembre 1999 au 30 novembre 2000. Le montant ainsi calculé est réduit, le cas échéant, des prélèvements effectués en application de l'article L. 1614-4 du code général des collectivités territoriales.VI.-Pour l'année 2000, les pertes de recettes résultant pour la collectivité territoriale de Corse de l'application du 1° du I sont compensées par une majoration des attributions de dotation générale de décentralisation. Cette compensation est calculée en 2000 sur la base du produit résultant de l'application des tarifs votés par l'Assemblée de Corse en application de l'article 1599 decies du code général des impôts au titre de la période d'imposition du 1er décembre 2000 au 30 novembre 2001 à l'état du parc automobile constaté en Corse au 31 décembre 2000, minoré des recettes de taxe différentielle sur les véhicules à moteur encaissées pour le compte de la collectivité en 2000 au titre de la période d'imposition du 1er décembre 2000 au 30 novembre 2001."
+      "content": "I. et II. Paragraphes modificateursIII. Les pertes de recettes résultant pour les collectivités de l'application du 1° du I sont compensées chaque année soit par une majoration des attributions de dotation générale de décentralisation, soit par des diminutions des ajustements prévus au deuxième alinéa de l'article L. 1614-4 du code général des collectivités territoriales.Cette compensation est calculée en 2001 sur la base du produit résultant de l'application des tarifs votés par les assemblées délibérantes en application des articles 1599 G et 1599 decies du code général des impôts au titre de la période d'imposition du 1er décembre 2000 au 30 novembre 2001 à l'état du parc automobile par collectivité constaté au 31 décembre 2000, majoré des recettes de taxe différentielle sur les véhicules à moteur encaissées pour le compte de chaque collectivité en 2000 au titre de la période d'imposition du 1er décembre 1999 au 30 novembre 2000. Le montant obtenu est réduit des recettes de taxe différentielle sur les véhicules à moteur encaissées pour le compte de chaque collectivité au titre de la période d'imposition du 1er décembre 2000 au 30 novembre 2001. Le montant de la compensation ainsi définie, revalorisé en fonction de l'évolution de la dotation globale de fonctionnement au titre de 2001, évolue chaque année comme la dotation globale de fonctionnement à partir de 2002.IV.-Pour l'année 2001, par dérogation au troisième alinéa de l'article 25 de la loi de finances pour 1984 (n° 83-1179 du 29 décembre 1983), le montant mensuel de l'avance versée est déterminé sur la base de un douzième de la prévision d'encaissement total de recettes au cours de cette même année telle qu'elle figure dans la présente loi de finances, répartie entre départements proportionnellement au produit qu'ils ont perçu au titre de la période d'imposition du 1er décembre 1999 au 30 novembre 2000. Les montants servant de base au calcul des avances versées en 2001 sont fixés par département par arrêté conjoint des ministres chargés de l'intérieur et du budget.V.-Pour l'année 2000, par dérogation au cinquième alinéa de l'article 25 de la loi de finances pour 1984 (n° 83-1179 du 29 décembre 1983), le montant total des avances versées est égal au produit résultant de l'application des tarifs votés par les conseils généraux en application de l'article 1599 G du code général des impôts au titre de la période d'imposition du 1er décembre 2000 au 30 novembre 2001 à l'état du parc automobile par département constaté au 31 décembre 2000, majoré des recettes de taxe différentielle sur les véhicules à moteur encaissées pour le compte des départements en 2000 au titre de la période d'imposition du 1er décembre 1999 au 30 novembre 2000. Le montant ainsi calculé est réduit, le cas échéant, des prélèvements effectués en application de l'article L. 1614-4 du code général des collectivités territoriales.VI.-Pour l'année 2000, les pertes de recettes résultant pour la collectivité territoriale de Corse de l'application du 1° du I sont compensées par une majoration des attributions de dotation générale de décentralisation. Cette compensation est calculée en 2000 sur la base du produit résultant de l'application des tarifs votés par l'Assemblée de Corse en application de l'article 1599 decies du code général des impôts au titre de la période d'imposition du 1er décembre 2000 au 30 novembre 2001 à l'état du parc automobile constaté en Corse au 31 décembre 2000, minoré des recettes de taxe différentielle sur les véhicules à moteur encaissées pour le compte de la collectivité en 2000 au titre de la période d'imposition du 1er décembre 2000 au 30 novembre 2001.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. à VI. Paragraphes modificateursVII. - Les dispositions des III, IV, V et VI s'appliquent aux exercices ouverts à compter du 1er janvier 2001.Toutefois, les entreprises peuvent, pour le calcul des acomptes d'impôt sur les sociétés dus au titre du bénéfice imposable du premier exercice ouvert en 2001 et en 2002, tenir compte, dans la limite de 250 000 F par période de douze mois, du taux fixé au b du I de l'article 219 du code général des impôts applicable à l'exercice en cours, sous réserve que les conditions édictées par cet article soient remplies au titre de l'exercice précédent."
+      "content": "I. à VI. Paragraphes modificateursVII. - Les dispositions des III, IV, V et VI s'appliquent aux exercices ouverts à compter du 1er janvier 2001.Toutefois, les entreprises peuvent, pour le calcul des acomptes d'impôt sur les sociétés dus au titre du bénéfice imposable du premier exercice ouvert en 2001 et en 2002, tenir compte, dans la limite de 250 000 F par période de douze mois, du taux fixé au b du I de l'article 219 du code général des impôts applicable à l'exercice en cours, sous réserve que les conditions édictées par cet article soient remplies au titre de l'exercice précédent.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "I. à III. Paragraphes modificateursIV. - Un décret en Conseil d'Etat précise les modalités d'application du présent article, notamment les limites dans lesquelles les sociétés de capital-risque peuvent effectuer des prestations de services ainsi que les caractéristiques des participations prises en compte pour la proportion de 50 % mentionnée à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 précitée et les obligations déclaratives des sociétés de capital-risque et des contribuables.V. - Les dispositions du présent article sont applicables aux exercices clos à compter du 31 décembre 2001. L'article 1er de la loi n° 85-695 du 11 juillet 1985 précitée cesse de s'appliquer aux exercices clos à compter du 1er janvier 2003."
+      "content": "I. à III. Paragraphes modificateursIV. - Un décret en Conseil d'Etat précise les modalités d'application du présent article, notamment les limites dans lesquelles les sociétés de capital-risque peuvent effectuer des prestations de services ainsi que les caractéristiques des participations prises en compte pour la proportion de 50 % mentionnée à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 précitée et les obligations déclaratives des sociétés de capital-risque et des contribuables.V. - Les dispositions du présent article sont applicables aux exercices clos à compter du 31 décembre 2001. L'article 1er de la loi n° 85-695 du 11 juillet 1985 précitée cesse de s'appliquer aux exercices clos à compter du 1er janvier 2003.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "I. à IV. Paragraphes modificateursV. - Les dispositions du 2° du I s'appliquent aux rémunérations versées à compter du 1er janvier 2000, les dispositions du III s'appliquent aux rémunérations versées à compter du 1er janvier 2001 et les dispositions des 1°, 3°, 4° et 5° du I et des II et IV s'appliquent à la taxe sur les salaires due à raison des rémunérations versées à compter du 1er janvier 2002."
+      "content": "I. à IV. Paragraphes modificateursV. - Les dispositions du 2° du I s'appliquent aux rémunérations versées à compter du 1er janvier 2000, les dispositions du III s'appliquent aux rémunérations versées à compter du 1er janvier 2001 et les dispositions des 1°, 3°, 4° et 5° du I et des II et IV s'appliquent à la taxe sur les salaires due à raison des rémunérations versées à compter du 1er janvier 2002.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "I. Paragraphe modificateurII. - Les entreprises dont l'objet principal est d'effectuer la première transformation du pétrole brut ou de distribuer les carburants issus de cette transformation doivent acquitter, au titre du premier exercice clos à compter du 20 septembre 2000, une taxe exceptionnelle assise sur la fraction excédant 100 millions de francs du montant de la provision pour hausse des prix prévue au onzième alinéa du 5° du 1 de l'article 39 du code général des impôts et inscrite au bilan à la clôture de cet exercice, ou à la clôture de l'exercice précédent si le montant correspondant est supérieur.Le taux de la taxe est fixé à 25 %.La taxe est acquittée dans les quatre mois de la clôture de l'exercice. Elle est liquidée, déclarée, recouvrée et contrôlée comme en matière de taxe sur le chiffre d'affaires et sous les mêmes garanties et sanctions. Elle est imputable, par le redevable de cet impôt, sur l'impôt sur les sociétés dû au titre de l'exercice au cours duquel la provision sur laquelle elle est assise est réintégrée. Elle n'est pas admise en charge déductible pour la détermination du résultat imposable."
+      "content": "I. Paragraphe modificateurII. - Les entreprises dont l'objet principal est d'effectuer la première transformation du pétrole brut ou de distribuer les carburants issus de cette transformation doivent acquitter, au titre du premier exercice clos à compter du 20 septembre 2000, une taxe exceptionnelle assise sur la fraction excédant 100 millions de francs du montant de la provision pour hausse des prix prévue au onzième alinéa du 5° du 1 de l'article 39 du code général des impôts et inscrite au bilan à la clôture de cet exercice, ou à la clôture de l'exercice précédent si le montant correspondant est supérieur.Le taux de la taxe est fixé à 25 %.La taxe est acquittée dans les quatre mois de la clôture de l'exercice. Elle est liquidée, déclarée, recouvrée et contrôlée comme en matière de taxe sur le chiffre d'affaires et sous les mêmes garanties et sanctions. Elle est imputable, par le redevable de cet impôt, sur l'impôt sur les sociétés dû au titre de l'exercice au cours duquel la provision sur laquelle elle est assise est réintégrée. Elle n'est pas admise en charge déductible pour la détermination du résultat imposable.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "I. à VII. Paragraphes modificateursVIII. 1° et 2° Alinéas modificateurs3° A titre exceptionnel et par dérogation aux dispositions du I de l'article 73 du code général des impôts, les exploitants viticoles imposés selon le régime du bénéfice réel ayant, en 2000, ouvert un exercice entre le 1er septembre et le 31 octobre, peuvent le clore le 31 juillet 2001."
+      "content": "I. à VII. Paragraphes modificateursVIII. 1° et 2° Alinéas modificateurs3° A titre exceptionnel et par dérogation aux dispositions du I de l'article 73 du code général des impôts, les exploitants viticoles imposés selon le régime du bénéfice réel ayant, en 2000, ouvert un exercice entre le 1er septembre et le 31 octobre, peuvent le clore le 31 juillet 2001.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "I. Paragraphe modificateurII. - Le régime issu de l'article 199 undecies B du code général des impôts, défini par la présente loi, et celui de l'article 217 undecies du même code, modifié par elle, sont applicables aux investissements ou aux souscriptions réalisés entre le 1er janvier 2001 et le 31 décembre 2006, à l'exception des cas ci-après énumérés, pour lesquels les dispositions de l'article 163 tervicies du même code demeurent applicables :1° Des investissements et des souscriptions pour l'agrément ou l'autorisation préalable desquels une demande est parvenue à l'administration avant le 1er janvier 2001 ;2° Des immeubles ayant fait l'objet avant cette date d'une déclaration d'ouverture de chantier à la mairie de la commune ;3° Des biens meubles corporels commandés mais non encore livrés au 1er janvier 2001, si la commande a été accompagnée du versement d'acomptes égaux à 50 % au moins de leur prix.III. - Le rapport présenté chaque année par le Gouvernement au Parlement, conformément à l'article 120 de la loi de finances pour 1992 (n° 91-1322 du 30 décembre 1991), indiquera, pour les cinq dernières années, par zones géographiques et par secteurs d'activités, les engagements en matière d'emplois pris par les investisseurs ayant obtenu l'agrément préalable, et la manière dont ils ont été tenus. Ce rapport sera présenté en annexe au projet de loi de finances."
+      "content": "I. Paragraphe modificateurII. - Le régime issu de l'article 199 undecies B du code général des impôts, défini par la présente loi, et celui de l'article 217 undecies du même code, modifié par elle, sont applicables aux investissements ou aux souscriptions réalisés entre le 1er janvier 2001 et le 31 décembre 2006, à l'exception des cas ci-après énumérés, pour lesquels les dispositions de l'article 163 tervicies du même code demeurent applicables :1° Des investissements et des souscriptions pour l'agrément ou l'autorisation préalable desquels une demande est parvenue à l'administration avant le 1er janvier 2001 ;2° Des immeubles ayant fait l'objet avant cette date d'une déclaration d'ouverture de chantier à la mairie de la commune ;3° Des biens meubles corporels commandés mais non encore livrés au 1er janvier 2001, si la commande a été accompagnée du versement d'acomptes égaux à 50 % au moins de leur prix.III. - Le rapport présenté chaque année par le Gouvernement au Parlement, conformément à l'article 120 de la loi de finances pour 1992 (n° 91-1322 du 30 décembre 1991), indiquera, pour les cinq dernières années, par zones géographiques et par secteurs d'activités, les engagements en matière d'emplois pris par les investisseurs ayant obtenu l'agrément préalable, et la manière dont ils ont été tenus. Ce rapport sera présenté en annexe au projet de loi de finances.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "I. Paragraphe modificateurII. - Les dispositions du I ci-dessus entrent en application à compter du 1er janvier 2001. Toutefois, la taxe sur les passagers continue à être perçue jusqu'au 1er juin 2001 dans les conditions antérieures, à concurrence de 75 % selon le taux applicable au 31 décembre 1999 et au profit des collectivités et établissements publics participant au financement des travaux des ports."
+      "content": "I. Paragraphe modificateurII. - Les dispositions du I ci-dessus entrent en application à compter du 1er janvier 2001. Toutefois, la taxe sur les passagers continue à être perçue jusqu'au 1er juin 2001 dans les conditions antérieures, à concurrence de 75 % selon le taux applicable au 31 décembre 1999 et au profit des collectivités et établissements publics participant au financement des travaux des ports.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "La contribution des organismes habilités à recueillir la participation des employeurs à l'effort de construction, instituée par l'article 56 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), est établie pour 2001, dans les conditions prévues au I de cet article, selon les modalités suivantes :\n\n1° La fraction mentionnée au I dudit article est fixée à 21 % ;\n\n2° Les associés collecteurs de l'Union des entreprises et des salariés pour le logement, mentionnée à l'article L. 313-17 du code de la construction et de l'habitation, sont libérés des versements leur incombant pour 2001, au titre du présent article, dès que le versement de cette union à l'Etat, tel qu'il résulte de l'engagement de substitution prévu par l'article 9 de la loi n° 96-1237 du 30 décembre 1996 relative à l'Union des entreprises et des salariés pour le logement, atteint 3 400 millions de francs. Lorsque l'application de ce plafond conduit à une contribution des associés collecteurs de l'Union des entreprises et des salariés pour le logement correspondant à une fraction inférieure à 21 %, cette fraction est appliquée pour le calcul de la contribution des organismes non associés de cette union. Sa valeur est établie et publiée au Journal officiel au plus tard le 31 juillet 2001."
+      "content": "La contribution des organismes habilités à recueillir la participation des employeurs à l'effort de construction, instituée par l'article 56 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), est établie pour 2001, dans les conditions prévues au I de cet article, selon les modalités suivantes :\n\n1° La fraction mentionnée au I dudit article est fixée à 21 % ;\n\n2° Les associés collecteurs de l'Union des entreprises et des salariés pour le logement, mentionnée à l'article L. 313-17 du code de la construction et de l'habitation, sont libérés des versements leur incombant pour 2001, au titre du présent article, dès que le versement de cette union à l'Etat, tel qu'il résulte de l'engagement de substitution prévu par l'article 9 de la loi n° 96-1237 du 30 décembre 1996 relative à l'Union des entreprises et des salariés pour le logement, atteint 3 400 millions de francs. Lorsque l'application de ce plafond conduit à une contribution des associés collecteurs de l'Union des entreprises et des salariés pour le logement correspondant à une fraction inférieure à 21 %, cette fraction est appliquée pour le calcul de la contribution des organismes non associés de cette union. Sa valeur est établie et publiée au Journal officiel au plus tard le 31 juillet 2001.",
+      "valid_from": "2014-03-27"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "Sous réserve des dispositions de la présente loi et résultant de l'article 8 de la loi de finances rectificative pour 2000 (n° 2000-1353 du 30 décembre 2000), les affectations résultant de budgets annexes et comptes spéciaux ouverts à la date du dépôt de la présente loi sont confirmées pour l'année 2001."
+      "content": "Sous réserve des dispositions de la présente loi et résultant de l'article 8 de la loi de finances rectificative pour 2000 (n° 2000-1353 du 30 décembre 2000), les affectations résultant de budgets annexes et comptes spéciaux ouverts à la date du dépôt de la présente loi sont confirmées pour l'année 2001.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "I. Paragraphe abrogéII. - Le produit de la taxe prévue à l'article 991 du code général des impôts perçu en 2001 est réparti dans les conditions suivantes :1° Une fraction de 75,3 % est affectée au budget de l'Etat ;2° Une fraction de 24,7 % est affectée au fonds visé à l'article L. 131-8 du code de la sécurité sociale.III. - A compter du 1er janvier 2001, le produit de la taxe sur les véhicules des sociétés prévue à l'article 1010 du code général des impôts est affecté au Fonds de financement de la réforme des cotisations patronales de sécurité sociale institué par l'article L. 131-8 du code de la sécurité sociale.IV. - Dans les conditions fixées par la loi de financement de la sécurité sociale pour 2001 précitée, le produit du droit de consommation sur les tabacs manufacturés prévu à l'article 575 du code général des impôts est affecté aux régimes obligatoires de base de sécurité sociale et aux organismes créés pour concourir à leur financement.Alinéa modificateur."
+      "content": "I. Paragraphe abrogéII. - Le produit de la taxe prévue à l'article 991 du code général des impôts perçu en 2001 est réparti dans les conditions suivantes :1° Une fraction de 75,3 % est affectée au budget de l'Etat ;2° Une fraction de 24,7 % est affectée au fonds visé à l'article L. 131-8 du code de la sécurité sociale.III. - A compter du 1er janvier 2001, le produit de la taxe sur les véhicules des sociétés prévue à l'article 1010 du code général des impôts est affecté au Fonds de financement de la réforme des cotisations patronales de sécurité sociale institué par l'article L. 131-8 du code de la sécurité sociale.IV. - Dans les conditions fixées par la loi de financement de la sécurité sociale pour 2001 précitée, le produit du droit de consommation sur les tabacs manufacturés prévu à l'article 575 du code général des impôts est affecté aux régimes obligatoires de base de sécurité sociale et aux organismes créés pour concourir à leur financement.Alinéa modificateur.",
+      "valid_from": "2001-12-29"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "Pour 2001, le montant du prélèvement de solidarité pour l'eau, institué par le II de l'article 58 de la loi de Finances pour 2000 (n° 99-1172 du 30 décembre 1999), est ainsi rédigé :Agence de l'eau Adour - Garonne : 46 millions de francsAgence de l'eau Artois - Picardie : 38,3 millions de francsAgence de l'eau Loire - Bretagne : 79,7 millions de francsAgence de l'eau Rhin - Meuse : 42,3 millions de francsAgence de l'eau Rhône - Méditerranée - Corse : 115,2 millions de francsAgence de l'eau Seine - Normandie : 178,5 millions de francs"
+      "content": "Pour 2001, le montant du prélèvement de solidarité pour l'eau, institué par le II de l'article 58 de la loi de Finances pour 2000 (n° 99-1172 du 30 décembre 1999), est ainsi rédigé :Agence de l'eau Adour - Garonne : 46 millions de francsAgence de l'eau Artois - Picardie : 38,3 millions de francsAgence de l'eau Loire - Bretagne : 79,7 millions de francsAgence de l'eau Rhin - Meuse : 42,3 millions de francsAgence de l'eau Rhône - Méditerranée - Corse : 115,2 millions de francsAgence de l'eau Seine - Normandie : 178,5 millions de francs",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "Les personnes âgées de soixante-dix ans au 1er janvier de l'année d'exigibilité de la redevance pour droit d'usage d'un appareil récepteur de télévision, non imposées à l'impôt sur le revenu au titre de l'avant-dernière année précédant l'année d'exigibilité ni passibles de l'impôt de solidarité sur la fortune, sont exonérées de la redevance applicable aux appareils récepteurs de télévision de première catégorie."
+      "content": "Les personnes âgées de soixante-dix ans au 1er janvier de l'année d'exigibilité de la redevance pour droit d'usage d'un appareil récepteur de télévision, non imposées à l'impôt sur le revenu au titre de l'avant-dernière année précédant l'année d'exigibilité ni passibles de l'impôt de solidarité sur la fortune, sont exonérées de la redevance applicable aux appareils récepteurs de télévision de première catégorie.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "I. Paragraphe modificateurII. - 1° Le compte d'affectation spéciale n° 902-23 \"Actions en faveur du développement des départements, des territoires et des collectivités territoriales d'outre mer\", ouvert par l'article 61 de la loi de finances pour 1990 précitée, est clos à la date du 31 décembre 2001.2° A la date de clôture du compte d'affectation spéciale n° 902-23, les opérations en compte seront reprises au sein du budget général, sur lequel seront également reportés les crédits disponibles.3° AbrogéIII. Paragraphe modificateur."
+      "content": "I. Paragraphe modificateurII. - 1° Le compte d'affectation spéciale n° 902-23 \"Actions en faveur du développement des départements, des territoires et des collectivités territoriales d'outre mer\", ouvert par l'article 61 de la loi de finances pour 1990 précitée, est clos à la date du 31 décembre 2001.2° A la date de clôture du compte d'affectation spéciale n° 902-23, les opérations en compte seront reprises au sein du budget général, sur lequel seront également reportés les crédits disponibles.3° AbrogéIII. Paragraphe modificateur.",
+      "valid_from": "2005-05-07"
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "I. - Le compte d'affectation spéciale n° 902-26 \"Fonds d'investissement des transports terrestres et des voies navigables\", ouvert par l'article 47 de la loi de finances pour 1995 (n° 94-1162 du 29 décembre 1994), est clos à la date du 31 décembre 2000.II. - Les opérations en compte au titre de ce fonds sont reprises au sein du budget général, sur lequel sont reportés les crédits disponibles à la clôture des comptes.III. et IV. Paragraphes modificateursV. - Un rapport relatif au bilan du développement de la politique intermodale de transports et au financement des infrastructures de transport sera transmis au Parlement avant le 30 juin 2002."
+      "content": "I. - Le compte d'affectation spéciale n° 902-26 \"Fonds d'investissement des transports terrestres et des voies navigables\", ouvert par l'article 47 de la loi de finances pour 1995 (n° 94-1162 du 29 décembre 1994), est clos à la date du 31 décembre 2000.II. - Les opérations en compte au titre de ce fonds sont reprises au sein du budget général, sur lequel sont reportés les crédits disponibles à la clôture des comptes.III. et IV. Paragraphes modificateursV. - Un rapport relatif au bilan du développement de la politique intermodale de transports et au financement des infrastructures de transport sera transmis au Parlement avant le 30 juin 2002.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "I. -  (abrogé)\n\nII. - (abrogé)\n\nIII. Paragraphe modificateur"
+      "content": "I. -  (abrogé)\n\nII. - (abrogé)\n\nIII. Paragraphe modificateur",
+      "valid_from": "2008-01-05"
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "I. et II. Paragraphes modificateursII. Le montant à verser au profit du budget annexe des prestations sociales agricoles en 2001 au titre de la répartition du produit de la contribution sociale de solidarité à la charge des sociétés est fixé à trois milliards trois cent soixante-douze millions de francs."
+      "content": "I. et II. Paragraphes modificateursII. Le montant à verser au profit du budget annexe des prestations sociales agricoles en 2001 au titre de la répartition du produit de la contribution sociale de solidarité à la charge des sociétés est fixé à trois milliards trois cent soixante-douze millions de francs.",
+      "valid_from": "2001-12-29"
     },
     {
       "provision_ref": "art42",
       "section": "42",
       "title": "Article 42",
-      "content": "I. à III. Paragraphes modificateurs\n\nIV.-Il est institué un prélèvement sur les recettes de l'Etat destiné à compenser les pertes de ressources résultant des dispositions du I de l'article 1388 bis du code général des impôts pour les communes et les établissements publics de coopération intercommunale dotés d'une fiscalité propre.\n\nLa compensation versée à chaque commune ou établissement public de coopération intercommunale est égale, chaque année, au produit du montant de l'abattement mentionné au I de l'article 1388 bis par le taux de taxe foncière sur les propriétés bâties voté par la collectivité ou l'établissement public au titre de l'année précédant celle de l'imposition.\n\nA compter de 2021, les taux à prendre en compte pour les communes pour le calcul de la compensation mentionnée au II de l'article 44 de la loi n° 2003-660 du 21 juillet 2003 de programme pour l'outre-mer sont majorés des taux appliqués au titre de l'année précédente au profit des départements.\n\nPour les communes qui appartiennent à un établissement public de coopération intercommunale sans fiscalité propre, le taux voté par la commune au titre de l'année précédente est majoré du taux appliqué la même année au profit de l'établissement public de coopération intercommunale.\n\nJusqu'au 31 décembre 2010, pour les communes qui appartiennent à un établissement public de coopération intercommunale soumis aux dispositions de l'article 1609 nonies C du code général des impôts dans sa version en vigueur jusqu'au 31 décembre 2010 et pour la première année d'application de ces dispositions par cet établissement public de coopération intercommunale, le taux voté par la commune au titre de l'année précédente est majoré du taux voté au titre de la même année par l'établissement public de coopération intercommunale précité.\n\nAu titre de 2009, la compensation calculée selon les dispositions qui précèdent est minorée par application d'un taux correspondant à l'écart entre le montant total versé en 2008 au titre de l'ensemble des compensations mentionnées aux I à X de l'article 48 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 et le montant total de ces mêmes compensations prévu à cette fin pour 2009 par le XI de ce même article. Au titre de 2010, la compensation calculée selon les dispositions qui précèdent et à laquelle est appliqué le taux d'évolution fixé au titre de 2009 est minorée par application d'un taux correspondant à l'écart entre le montant total à verser en 2009 au titre de l'ensemble des compensations mentionnées aux I à VIII de l'article 47 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 et le montant total de ces mêmes compensations prévu à cette fin pour 2010 par le IX de ce même article. Au titre de 2011, la compensation calculée selon les dispositions qui précèdent et à laquelle sont appliqués le taux d'évolution fixé au titre de 2009 et le taux d'évolution fixé au titre de 2010 est minorée par application du taux défini au IV de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011. Au titre de 2012, la même compensation, à laquelle sont appliqués les taux d'évolution fixés au titre de 2009, 2010 et 2011, est minorée par application du taux prévu pour 2012 au III de l'article 33 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012. Au titre de 2013, la même compensation, à laquelle sont appliqués les taux d'évolution fixés au titre de 2009, 2010, 2011 et 2012, est minorée par application du taux prévu pour 2013 au IV de l'article 31 de la loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013. Au titre de 2014, la même compensation, à laquelle sont appliqués les taux d'évolution fixés au titre de 2009, 2010, 2011, 2012 et 2013, est minorée par application du taux prévu pour 2014 au IV de l'article 37 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014. Au titre de 2015, la même compensation, à laquelle sont appliqués les taux d'évolution fixés depuis 2009, est minorée par application du taux prévu pour 2015 au III de l'article 23 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015. Au titre de 2016 et des années suivantes, les taux d'évolution fixés depuis 2009 et jusqu'à 2014 sont appliqués à la même compensation.\n\nPour l'application des dispositions qui précèdent, la Ville de Paris est substituée de plein droit, à compter du 1er janvier 2019, à la commune de Paris.\n\nV.-Les dispositions des II et III s'appliquent à compter des impositions établies au titre de 2001."
+      "content": "I. à III. Paragraphes modificateurs\n\nIV.-Il est institué un prélèvement sur les recettes de l'Etat destiné à compenser les pertes de ressources résultant des dispositions du I de l'article 1388 bis du code général des impôts pour les communes et les établissements publics de coopération intercommunale dotés d'une fiscalité propre.\n\nLa compensation versée à chaque commune ou établissement public de coopération intercommunale est égale, chaque année, au produit du montant de l'abattement mentionné au I de l'article 1388 bis par le taux de taxe foncière sur les propriétés bâties voté par la collectivité ou l'établissement public au titre de l'année précédant celle de l'imposition.\n\nA compter de 2021, les taux à prendre en compte pour les communes pour le calcul de la compensation mentionnée au II de l'article 44 de la loi n° 2003-660 du 21 juillet 2003 de programme pour l'outre-mer sont majorés des taux appliqués au titre de l'année précédente au profit des départements.\n\nPour les communes qui appartiennent à un établissement public de coopération intercommunale sans fiscalité propre, le taux voté par la commune au titre de l'année précédente est majoré du taux appliqué la même année au profit de l'établissement public de coopération intercommunale.\n\nJusqu'au 31 décembre 2010, pour les communes qui appartiennent à un établissement public de coopération intercommunale soumis aux dispositions de l'article 1609 nonies C du code général des impôts dans sa version en vigueur jusqu'au 31 décembre 2010 et pour la première année d'application de ces dispositions par cet établissement public de coopération intercommunale, le taux voté par la commune au titre de l'année précédente est majoré du taux voté au titre de la même année par l'établissement public de coopération intercommunale précité.\n\nAu titre de 2009, la compensation calculée selon les dispositions qui précèdent est minorée par application d'un taux correspondant à l'écart entre le montant total versé en 2008 au titre de l'ensemble des compensations mentionnées aux I à X de l'article 48 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 et le montant total de ces mêmes compensations prévu à cette fin pour 2009 par le XI de ce même article. Au titre de 2010, la compensation calculée selon les dispositions qui précèdent et à laquelle est appliqué le taux d'évolution fixé au titre de 2009 est minorée par application d'un taux correspondant à l'écart entre le montant total à verser en 2009 au titre de l'ensemble des compensations mentionnées aux I à VIII de l'article 47 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 et le montant total de ces mêmes compensations prévu à cette fin pour 2010 par le IX de ce même article. Au titre de 2011, la compensation calculée selon les dispositions qui précèdent et à laquelle sont appliqués le taux d'évolution fixé au titre de 2009 et le taux d'évolution fixé au titre de 2010 est minorée par application du taux défini au IV de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011. Au titre de 2012, la même compensation, à laquelle sont appliqués les taux d'évolution fixés au titre de 2009, 2010 et 2011, est minorée par application du taux prévu pour 2012 au III de l'article 33 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012. Au titre de 2013, la même compensation, à laquelle sont appliqués les taux d'évolution fixés au titre de 2009, 2010, 2011 et 2012, est minorée par application du taux prévu pour 2013 au IV de l'article 31 de la loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013. Au titre de 2014, la même compensation, à laquelle sont appliqués les taux d'évolution fixés au titre de 2009, 2010, 2011, 2012 et 2013, est minorée par application du taux prévu pour 2014 au IV de l'article 37 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014. Au titre de 2015, la même compensation, à laquelle sont appliqués les taux d'évolution fixés depuis 2009, est minorée par application du taux prévu pour 2015 au III de l'article 23 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015. Au titre de 2016 et des années suivantes, les taux d'évolution fixés depuis 2009 et jusqu'à 2014 sont appliqués à la même compensation.\n\nPour l'application des dispositions qui précèdent, la Ville de Paris est substituée de plein droit, à compter du 1er janvier 2019, à la commune de Paris.\n\nV.-Les dispositions des II et III s'appliquent à compter des impositions établies au titre de 2001.",
+      "valid_from": "2021-01-01"
     },
     {
       "provision_ref": "art44",
       "section": "44",
       "title": "Article 44",
-      "content": "I. - Au titre de 2001, le montant de la dotation de solidarité urbaine et de cohésion sociale, tel qu'il résulte de l'article L. 2334-13 du code général des collectivités territoriales et de l'article 59 de la loi de finances pour 1999 précitée, est majoré de 350 millions de francs. Cette majoration n'est pas prise en compte dans le montant de la dotation globale de fonctionnement pour l'application du I et du II de l'article 57 de la loi de finances pour 1999 précitée.II. - Pour l'année 2001, la première fraction de la dotation de solidarité rurale visée à l'article L. 2334-21 du code général des collectivités territoriales est majorée de 150 millions de francs prélevés sur la somme prévue au 5° du II de l'article 1648 A bis du code général des impôts."
+      "content": "I. - Au titre de 2001, le montant de la dotation de solidarité urbaine et de cohésion sociale, tel qu'il résulte de l'article L. 2334-13 du code général des collectivités territoriales et de l'article 59 de la loi de finances pour 1999 précitée, est majoré de 350 millions de francs. Cette majoration n'est pas prise en compte dans le montant de la dotation globale de fonctionnement pour l'application du I et du II de l'article 57 de la loi de finances pour 1999 précitée.II. - Pour l'année 2001, la première fraction de la dotation de solidarité rurale visée à l'article L. 2334-21 du code général des collectivités territoriales est majorée de 150 millions de francs prélevés sur la somme prévue au 5° du II de l'article 1648 A bis du code général des impôts.",
+      "valid_from": "2005-01-19"
     },
     {
       "provision_ref": "art45",
       "section": "45",
       "title": "Article 45",
-      "content": "Le montant du prélèvement effectué sur les recettes de l'Etat au titre de la participation de la France au budget des Communautés européennes est évalué pour l'exercice 2001 à 99,5 milliards de francs."
+      "content": "Le montant du prélèvement effectué sur les recettes de l'Etat au titre de la participation de la France au budget des Communautés européennes est évalué pour l'exercice 2001 à 99,5 milliards de francs.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art46",
       "section": "46",
       "title": "Article 46",
-      "content": "I. - Pour 2001, les ressources affectées au budget, évaluées dans l'état A annexé à la présente loi, les plafonds des charges et l'équilibre général qui en résulte sont fixés aux montants suivants :(Tableau non reproduit, voir J.O. du 31/12/2000 p. 21134 et 21135)II. - Le ministre de l'économie, des finances et de l'industrie est autorisé à procéder, en 2001, dans des conditions fixées par décret :1. A des emprunts à long, moyen et court terme libellés en euros pour couvrir l'ensemble des charges de trésorerie ou pour renforcer les réserves de change.2. A des conversions facultatives, à des opérations de pension sur titres d'Etat, à des opérations de dépôts de liquidités sur le marché interbancaire de la zone euro et auprès des Etats de la même zone, des rachats, des échanges d'emprunts, à des échanges de devises ou de taux d'intérêt, à l'achat ou à la vente d'options ou de contrats à terme sur titres d'Etat.III. - Le ministre de l'économie, des finances et de l'industrie est autorisé à donner, en 2001, la garantie de refinancement en devises pour les emprunts communautaires.IV. - Le ministre de l'économie, des finances et de l'industrie est, jusqu'au 31 décembre 2001, habilité à conclure, avec des établissements de crédit spécialisés dans le financement à moyen et long terme des investissements, des conventions établissant pour chaque opération les modalités selon lesquelles peuvent être stabilisées les charges du service d'emprunts qu'ils contractent en devises étrangères."
+      "content": "I. - Pour 2001, les ressources affectées au budget, évaluées dans l'état A annexé à la présente loi, les plafonds des charges et l'équilibre général qui en résulte sont fixés aux montants suivants :(Tableau non reproduit, voir J.O. du 31/12/2000 p. 21134 et 21135)II. - Le ministre de l'économie, des finances et de l'industrie est autorisé à procéder, en 2001, dans des conditions fixées par décret :1. A des emprunts à long, moyen et court terme libellés en euros pour couvrir l'ensemble des charges de trésorerie ou pour renforcer les réserves de change.2. A des conversions facultatives, à des opérations de pension sur titres d'Etat, à des opérations de dépôts de liquidités sur le marché interbancaire de la zone euro et auprès des Etats de la même zone, des rachats, des échanges d'emprunts, à des échanges de devises ou de taux d'intérêt, à l'achat ou à la vente d'options ou de contrats à terme sur titres d'Etat.III. - Le ministre de l'économie, des finances et de l'industrie est autorisé à donner, en 2001, la garantie de refinancement en devises pour les emprunts communautaires.IV. - Le ministre de l'économie, des finances et de l'industrie est, jusqu'au 31 décembre 2001, habilité à conclure, avec des établissements de crédit spécialisés dans le financement à moyen et long terme des investissements, des conventions établissant pour chaque opération les modalités selon lesquelles peuvent être stabilisées les charges du service d'emprunts qu'ils contractent en devises étrangères.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art47",
       "section": "47",
       "title": "Article 47",
-      "content": "Le montant des crédits ouverts aux ministres, pour 2001, au titre des services votés du budget général, est fixé à la somme de 1 969 463 851 717 F."
+      "content": "Le montant des crédits ouverts aux ministres, pour 2001, au titre des services votés du budget général, est fixé à la somme de 1 969 463 851 717 F.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art48",
       "section": "48",
       "title": "Article 48",
-      "content": "Il est ouvert aux ministres, pour 2001, au titre des mesures nouvelles de dépenses ordinaires des services civils, des crédits ainsi répartis :Titre Ier : \"Dette publique et dépenses en atténuation de recettes\" : 17 268 122 000 FTitre II : \"Pouvoirs publics\" : 160 700 000 FTitre III : \"Moyens des services\" : 13 675 727 828 FTitre IV : \"Interventions publiques\" : 25 982 868 990 F.Total : 57 087 418 818 F.Ces crédits sont répartis par ministère conformément à l'état B annexé à la présente loi."
+      "content": "Il est ouvert aux ministres, pour 2001, au titre des mesures nouvelles de dépenses ordinaires des services civils, des crédits ainsi répartis :Titre Ier : \"Dette publique et dépenses en atténuation de recettes\" : 17 268 122 000 FTitre II : \"Pouvoirs publics\" : 160 700 000 FTitre III : \"Moyens des services\" : 13 675 727 828 FTitre IV : \"Interventions publiques\" : 25 982 868 990 F.Total : 57 087 418 818 F.Ces crédits sont répartis par ministère conformément à l'état B annexé à la présente loi.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art49",
       "section": "49",
       "title": "Article 49",
-      "content": "I. - Il est ouvert aux ministres, pour 2001, au titre des mesures nouvelles de dépenses en capital des services civils du budget général, des autorisations de programme ainsi réparties :Titre V : \"Investissements exécutés par l'Etat\" :21 776 842 000 FTitre VI : \"Subventions d'investissement accordées par l'Etat\" :70 686 808 000 FTitre VII : \"Réparation des dommages de guerre\" : 0 F.Total : 92 463 650 000 F.Ces autorisations de programme sont réparties par ministère conformément à l'état C annexé à la présente loi.II. - Il est ouvert aux ministres, pour 2001, au titre des mesures nouvelles des dépenses en capital des services civils du budget général, des crédits de paiement ainsi répartis :Titre V : \"Investissements exécutés par l'Etat\" :8 576 360 000 FTitre VI : \"Subventions d'investissement accordées par l'Etat\" :35 737 512 000 FTitre VII : \"Réparation des dommages de guerre\" : 0 F.Total : 44 313 872 000 F.Ces crédits de paiement sont répartis par ministère conformément à l'état C annexé à la présente loi."
+      "content": "I. - Il est ouvert aux ministres, pour 2001, au titre des mesures nouvelles de dépenses en capital des services civils du budget général, des autorisations de programme ainsi réparties :Titre V : \"Investissements exécutés par l'Etat\" :21 776 842 000 FTitre VI : \"Subventions d'investissement accordées par l'Etat\" :70 686 808 000 FTitre VII : \"Réparation des dommages de guerre\" : 0 F.Total : 92 463 650 000 F.Ces autorisations de programme sont réparties par ministère conformément à l'état C annexé à la présente loi.II. - Il est ouvert aux ministres, pour 2001, au titre des mesures nouvelles des dépenses en capital des services civils du budget général, des crédits de paiement ainsi répartis :Titre V : \"Investissements exécutés par l'Etat\" :8 576 360 000 FTitre VI : \"Subventions d'investissement accordées par l'Etat\" :35 737 512 000 FTitre VII : \"Réparation des dommages de guerre\" : 0 F.Total : 44 313 872 000 F.Ces crédits de paiement sont répartis par ministère conformément à l'état C annexé à la présente loi.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art50",
       "section": "50",
       "title": "Article 50",
-      "content": "I. - Il est ouvert au ministre de la défense, pour 2001, au titre des mesures nouvelles de dépenses ordinaires des services militaires, des autorisations de programme s'élevant à la somme de 814 855 000 F, applicables au titre III \"Moyens des armes et services\".II. - Pour 2001, les crédits de mesures nouvelles de dépenses ordinaires des services militaires applicables au titre III \"Moyens des armes et services\" s'élèvent au total à la somme de 692 381 000 F."
+      "content": "I. - Il est ouvert au ministre de la défense, pour 2001, au titre des mesures nouvelles de dépenses ordinaires des services militaires, des autorisations de programme s'élevant à la somme de 814 855 000 F, applicables au titre III \"Moyens des armes et services\".II. - Pour 2001, les crédits de mesures nouvelles de dépenses ordinaires des services militaires applicables au titre III \"Moyens des armes et services\" s'élèvent au total à la somme de 692 381 000 F.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art51",
       "section": "51",
       "title": "Article 51",
-      "content": "I. - Il est ouvert au ministre de la défense, pour 2001, au titre des mesures nouvelles sur les dépenses en capital des services militaires, des autorisations de programme ainsi réparties :Titre V : \"Equipement\"81 371 965 000 FTitre VI : \"Subventions d'investissement accordées par l'Etat\" :3 351 410 000 F.Total : 84 723 375 000 F.II. - Il est ouvert au ministre de la défense, pour 2001, au titre des mesures nouvelles sur les dépenses en capital des services militaires, des crédits de paiement ainsi répartis :Titre V : \"Equipement\" : 23 605 263 000 FTitre VI : \"Subventions d'investissement accordées par l'Etat\" :2 177 023 000 F.Total : 25 782 286 000 F."
+      "content": "I. - Il est ouvert au ministre de la défense, pour 2001, au titre des mesures nouvelles sur les dépenses en capital des services militaires, des autorisations de programme ainsi réparties :Titre V : \"Equipement\"81 371 965 000 FTitre VI : \"Subventions d'investissement accordées par l'Etat\" :3 351 410 000 F.Total : 84 723 375 000 F.II. - Il est ouvert au ministre de la défense, pour 2001, au titre des mesures nouvelles sur les dépenses en capital des services militaires, des crédits de paiement ainsi répartis :Titre V : \"Equipement\" : 23 605 263 000 FTitre VI : \"Subventions d'investissement accordées par l'Etat\" :2 177 023 000 F.Total : 25 782 286 000 F.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art52",
       "section": "52",
       "title": "Article 52",
-      "content": "Le montant des crédits ouverts aux ministres, pour 2001, au titre des services votés des budgets annexes, est fixé à la somme de 105 285 823 221 F ainsi répartie :Aviation civile : 7 725 779 993 FJournaux officiels : 921 105 812 FLégion d'honneur : 107 607 084 FOrdre de la Libération : 4 909 598 FMonnaies et médailles : 1 360 440 734 FPrestations sociales agricoles : 95 165 980 000 F.Total : 105 285 823 221 F."
+      "content": "Le montant des crédits ouverts aux ministres, pour 2001, au titre des services votés des budgets annexes, est fixé à la somme de 105 285 823 221 F ainsi répartie :Aviation civile : 7 725 779 993 FJournaux officiels : 921 105 812 FLégion d'honneur : 107 607 084 FOrdre de la Libération : 4 909 598 FMonnaies et médailles : 1 360 440 734 FPrestations sociales agricoles : 95 165 980 000 F.Total : 105 285 823 221 F.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art53",
       "section": "53",
       "title": "Article 53",
-      "content": "I. - Il est ouvert aux ministres, pour 2001, au titre des mesures nouvelles des budgets annexes, des autorisations de programme s'élevant à la somme totale de 1 497 829 000 F ainsi répartie :Aviation civile : 1 401 500 000 FJournaux officiels : 43 450 000 FLégion d'honneur : 17 815 000 FOrdre de la Libération : 600 000 FMonnaies et médailles : 34 464 000 F.Total : 1 497 829 000 F.II. - Il est ouvert aux ministres, pour 2001, au titre des mesures nouvelles des budgets annexes, des crédits s'élevant à la somme totale de 2 581 081 503 F ainsi répartie :Aviation civile : 1 233 279 504 FJournaux officiels : 347 908 599 FLégion d'honneur : 13 685 000 FOrdre de la Libération : 600 000 FMonnaies et médailles : - 159 411 600 FPrestations sociales agricoles : 1 145 020 000 F.Total : 2 581 081 503 F."
+      "content": "I. - Il est ouvert aux ministres, pour 2001, au titre des mesures nouvelles des budgets annexes, des autorisations de programme s'élevant à la somme totale de 1 497 829 000 F ainsi répartie :Aviation civile : 1 401 500 000 FJournaux officiels : 43 450 000 FLégion d'honneur : 17 815 000 FOrdre de la Libération : 600 000 FMonnaies et médailles : 34 464 000 F.Total : 1 497 829 000 F.II. - Il est ouvert aux ministres, pour 2001, au titre des mesures nouvelles des budgets annexes, des crédits s'élevant à la somme totale de 2 581 081 503 F ainsi répartie :Aviation civile : 1 233 279 504 FJournaux officiels : 347 908 599 FLégion d'honneur : 13 685 000 FOrdre de la Libération : 600 000 FMonnaies et médailles : - 159 411 600 FPrestations sociales agricoles : 1 145 020 000 F.Total : 2 581 081 503 F.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art55",
       "section": "55",
       "title": "Article 55",
-      "content": "Le montant des crédits ouverts aux ministres, pour 2001, au titre des services votés des opérations définitives des comptes d'affectation spéciale, est fixé à la somme de 20 467 299 500 F."
+      "content": "Le montant des crédits ouverts aux ministres, pour 2001, au titre des services votés des opérations définitives des comptes d'affectation spéciale, est fixé à la somme de 20 467 299 500 F.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art56",
       "section": "56",
       "title": "Article 56",
-      "content": "I. - Il est ouvert aux ministres, pour 2001, au titre des mesures nouvelles des opérations définitives des dépenses en capital des comptes d'affectation spéciale, des autorisations de programme s'élevant à la somme de 60 611 284 000 F.II. - Il est ouvert aux ministres, pour 2001, au titre des mesures nouvelles des opérations définitives des comptes d'affectation spéciale, des crédits de paiement s'élevant à la somme de 61 483 687 000 F ainsi répartie :Dépenses ordinaires civiles : 872 403 000 FDépenses civiles en capital : 60 611 284 000 F.Total : 61 483 687 000 F."
+      "content": "I. - Il est ouvert aux ministres, pour 2001, au titre des mesures nouvelles des opérations définitives des dépenses en capital des comptes d'affectation spéciale, des autorisations de programme s'élevant à la somme de 60 611 284 000 F.II. - Il est ouvert aux ministres, pour 2001, au titre des mesures nouvelles des opérations définitives des comptes d'affectation spéciale, des crédits de paiement s'élevant à la somme de 61 483 687 000 F ainsi répartie :Dépenses ordinaires civiles : 872 403 000 FDépenses civiles en capital : 60 611 284 000 F.Total : 61 483 687 000 F.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art57",
       "section": "57",
       "title": "Article 57",
-      "content": "I. - Le montant des crédits ouverts aux ministres, pour 2001, au titre des services votés des opérations à caractère temporaire des comptes d'affectation spéciale, est fixé à la somme de 500 000 F.II. - Le montant des découverts applicables, en 2001, aux services votés des comptes de commerce, est fixé à 1 814 000 000 F.III. - Le montant des découverts applicables, en 2001, aux services votés des comptes de règlement avec les gouvernements étrangers, est fixé à 308 000 000 F.IV. - Le montant des crédits ouverts au ministre de l'économie, des finances et de l'industrie, pour 2001, au titre des services votés des comptes d'avances du Trésor, est fixé à la somme de 365 298 000 000 F.V. - Le montant des crédits ouverts au ministre de l'économie, des finances et de l'industrie, pour 2001, au titre des services votés des comptes de prêts, est fixé à la somme de 1 522 000 000 F."
+      "content": "I. - Le montant des crédits ouverts aux ministres, pour 2001, au titre des services votés des opérations à caractère temporaire des comptes d'affectation spéciale, est fixé à la somme de 500 000 F.II. - Le montant des découverts applicables, en 2001, aux services votés des comptes de commerce, est fixé à 1 814 000 000 F.III. - Le montant des découverts applicables, en 2001, aux services votés des comptes de règlement avec les gouvernements étrangers, est fixé à 308 000 000 F.IV. - Le montant des crédits ouverts au ministre de l'économie, des finances et de l'industrie, pour 2001, au titre des services votés des comptes d'avances du Trésor, est fixé à la somme de 365 298 000 000 F.V. - Le montant des crédits ouverts au ministre de l'économie, des finances et de l'industrie, pour 2001, au titre des services votés des comptes de prêts, est fixé à la somme de 1 522 000 000 F.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art58",
       "section": "58",
       "title": "Article 58",
-      "content": "Il est ouvert aux ministres, pour 2001, au titre des mesures nouvelles des opérations temporaires des comptes d'affectation spéciale, un crédit de paiement de dépenses ordinaires de 48 000 000 F."
+      "content": "Il est ouvert aux ministres, pour 2001, au titre des mesures nouvelles des opérations temporaires des comptes d'affectation spéciale, un crédit de paiement de dépenses ordinaires de 48 000 000 F.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art59",
       "section": "59",
       "title": "Article 59",
-      "content": "Il est ouvert au ministre de l'économie, des finances et de l'industrie, pour 2001, au titre des mesures nouvelles des comptes de prêts, une autorisation de programme et des crédits de paiement s'élevant respectivement à 1 000 000 000 F et 1 970 000 000 F."
+      "content": "Il est ouvert au ministre de l'économie, des finances et de l'industrie, pour 2001, au titre des mesures nouvelles des comptes de prêts, une autorisation de programme et des crédits de paiement s'élevant respectivement à 1 000 000 000 F et 1 970 000 000 F.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art60",
       "section": "60",
       "title": "Article 60",
-      "content": "Les mesures nouvelles des comptes d'avances du Trésor sont fixées, pour 2001, à - 329 000 000 F."
+      "content": "Les mesures nouvelles des comptes d'avances du Trésor sont fixées, pour 2001, à - 329 000 000 F.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art61",
       "section": "61",
       "title": "Article 61",
-      "content": "Il est ouvert au ministre de l'économie, des finances et de l'industrie, au titre des mesures nouvelles des comptes de commerce, une autorisation de découvert s'élevant à 4 000 000 000 F."
+      "content": "Il est ouvert au ministre de l'économie, des finances et de l'industrie, au titre des mesures nouvelles des comptes de commerce, une autorisation de découvert s'élevant à 4 000 000 000 F.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art62",
       "section": "62",
       "title": "Article 62",
-      "content": "La perception des taxes parafiscales dont la liste figure à l'état E annexé à la présente loi continuera d'être opérée pendant l'année 2001."
+      "content": "La perception des taxes parafiscales dont la liste figure à l'état E annexé à la présente loi continuera d'être opérée pendant l'année 2001.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art63",
       "section": "63",
       "title": "Article 63",
-      "content": "Est fixée pour 2001, conformément à l'état F annexé à la présente loi, la liste des chapitres sur lesquels s'imputent des crédits évaluatifs autres que ceux limitativement énumérés à l'article 9 de l'ordonnance n° 59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances."
+      "content": "Est fixée pour 2001, conformément à l'état F annexé à la présente loi, la liste des chapitres sur lesquels s'imputent des crédits évaluatifs autres que ceux limitativement énumérés à l'article 9 de l'ordonnance n° 59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art64",
       "section": "64",
       "title": "Article 64",
-      "content": "Est fixée pour 2001, conformément à l'état G annexé à la présente loi, la liste des chapitres dont les dotations ont un caractère provisionnel."
+      "content": "Est fixée pour 2001, conformément à l'état G annexé à la présente loi, la liste des chapitres dont les dotations ont un caractère provisionnel.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art65",
       "section": "65",
       "title": "Article 65",
-      "content": "Est fixée pour 2001, conformément à l'état H annexé à la présente loi, la liste des chapitres sur lesquels s'imputent les crédits pouvant donner lieu à report, dans les conditions fixées par l'article 17 de l'ordonnance n° 59-2 du 2 janvier 1959 précitée."
+      "content": "Est fixée pour 2001, conformément à l'état H annexé à la présente loi, la liste des chapitres sur lesquels s'imputent les crédits pouvant donner lieu à report, dans les conditions fixées par l'article 17 de l'ordonnance n° 59-2 du 2 janvier 1959 précitée.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art66",
       "section": "66",
       "title": "Article 66",
-      "content": "Est approuvée, pour l'exercice 2001, la répartition suivante entre les organismes du secteur public de la communication audiovisuelle des recettes, hors taxe sur la valeur ajoutée, du compte d'emploi de la redevance pour droit d'usage des appareils récepteurs de télévision :(En millions de francs)France Télévision : 9392,0Radio France : 2854,0Radio France Internationale : 321,0Réseau France Outre-mer : 1280,0ARTE-France : 1168,5Institut national de l'audiovisuel : 417,2Total : 15432,7."
+      "content": "Est approuvée, pour l'exercice 2001, la répartition suivante entre les organismes du secteur public de la communication audiovisuelle des recettes, hors taxe sur la valeur ajoutée, du compte d'emploi de la redevance pour droit d'usage des appareils récepteurs de télévision :(En millions de francs)France Télévision : 9392,0Radio France : 2854,0Radio France Internationale : 321,0Réseau France Outre-mer : 1280,0ARTE-France : 1168,5Institut national de l'audiovisuel : 417,2Total : 15432,7.",
+      "valid_from": "2001-12-29"
     },
     {
       "provision_ref": "art70",
       "section": "70",
       "title": "Article 70",
-      "content": "(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-442 DC du 28 décembre 2000.)"
+      "content": "(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-442 DC du 28 décembre 2000.)",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art77",
       "section": "77",
       "title": "Article 77",
-      "content": "a modifié les dispositions suivantes"
+      "content": "a modifié les dispositions suivantes",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art79",
       "section": "79",
       "title": "Article 79",
-      "content": "I. Paragraphe modificateurII. - Les dispositions du I sont applicables aux logements achevés ou acquis à compter du 1er janvier 2001.III. - La perte de recettes est compensée, à due concurrence, par la création, au profit de l'Etat, d'une taxe additionnelle aux droits visés aux articles 575 et 575 A du code général des impôts."
+      "content": "I. Paragraphe modificateurII. - Les dispositions du I sont applicables aux logements achevés ou acquis à compter du 1er janvier 2001.III. - La perte de recettes est compensée, à due concurrence, par la création, au profit de l'Etat, d'une taxe additionnelle aux droits visés aux articles 575 et 575 A du code général des impôts.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art81",
       "section": "81",
       "title": "Article 81",
-      "content": "Pour l'année 2001, la date fixée au I de l'article 1639 A bis du code général des impôts est reportée au 15 septembre."
+      "content": "Pour l'année 2001, la date fixée au I de l'article 1639 A bis du code général des impôts est reportée au 15 septembre.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art85",
       "section": "85",
       "title": "Article 85",
-      "content": "(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-442 DC du 28 décembre 2000.)"
+      "content": "(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-442 DC du 28 décembre 2000.)",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art86",
       "section": "86",
       "title": "Article 86",
-      "content": "(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-442 DC du 28 décembre 2000.)"
+      "content": "(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-442 DC du 28 décembre 2000.)",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art88",
       "section": "88",
       "title": "Article 88",
-      "content": "I. Paragraphe modificateurII. - Abrogé."
+      "content": "I. Paragraphe modificateurII. - Abrogé.",
+      "valid_from": "2005-01-01"
     },
     {
       "provision_ref": "art91",
       "section": "91",
       "title": "Article 91",
-      "content": "Avant le 1er mai 2001, le Gouvernement remettra au Parlement un rapport fixant les modalités d'une réforme globale de la péréquation de la taxe professionnelle entre les différents niveaux de collectivités locales et d'établissements publics de coopération intercommunale existants pour la mise en oeuvre de la péréquation.Cette réforme serait fondée sur un écrêtement de la totalité des bases de taxe professionnelle des communes, établissements publics de coopération intercommunale, départements et régions ; le montant de l'écrêtement, aux différents niveaux, étant redistribué en fonction de l'écart au potentiel fiscal moyen par habitant."
+      "content": "Avant le 1er mai 2001, le Gouvernement remettra au Parlement un rapport fixant les modalités d'une réforme globale de la péréquation de la taxe professionnelle entre les différents niveaux de collectivités locales et d'établissements publics de coopération intercommunale existants pour la mise en oeuvre de la péréquation.Cette réforme serait fondée sur un écrêtement de la totalité des bases de taxe professionnelle des communes, établissements publics de coopération intercommunale, départements et régions ; le montant de l'écrêtement, aux différents niveaux, étant redistribué en fonction de l'écart au potentiel fiscal moyen par habitant.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art100",
       "section": "100",
       "title": "Article 100",
-      "content": "I. - Les enseignants des établissements d'enseignement agricoles privés liés à l'Etat par contrat en application de l'article L. 813-8 du code rural et de la pêche maritime qui cessent leur activité dans les mêmes conditions d'âge, de durée d'activité ou de charges de famille que les enseignants titulaires des établissements d'enseignement agricole publics et n'ont pas droit auprès des régimes de retraite dont ils relèvent à une pension de vieillesse au taux défini au 1° de l'article L. 351-8 du code de la sécurité sociale, perçoivent une allocation temporaire de cessation anticipée d'activité à la charge de l'Etat.\n\nII. - Le montant de cette allocation est calculé par application des règles en vigueur dans les régimes de retraite dont relèvent ces enseignants sur la base de l'ensemble des services d'enseignement et des services assimilés effectués par le bénéficiaire en appliquant le taux défini au 1° de l'article L. 351-8 du code de la sécurité sociale. L'allocation est versée jusqu'à la date où l'enseignant peut bénéficier d'une pension de vieillesse calculée à ce taux.\n\nIII. - Un décret en Conseil d'Etat détermine les conditions d'application du présent article."
+      "content": "I. - Les enseignants des établissements d'enseignement agricoles privés liés à l'Etat par contrat en application de l'article L. 813-8 du code rural et de la pêche maritime qui cessent leur activité dans les mêmes conditions d'âge, de durée d'activité ou de charges de famille que les enseignants titulaires des établissements d'enseignement agricole publics et n'ont pas droit auprès des régimes de retraite dont ils relèvent à une pension de vieillesse au taux défini au 1° de l'article L. 351-8 du code de la sécurité sociale, perçoivent une allocation temporaire de cessation anticipée d'activité à la charge de l'Etat.\n\nII. - Le montant de cette allocation est calculé par application des règles en vigueur dans les régimes de retraite dont relèvent ces enseignants sur la base de l'ensemble des services d'enseignement et des services assimilés effectués par le bénéficiaire en appliquant le taux défini au 1° de l'article L. 351-8 du code de la sécurité sociale. L'allocation est versée jusqu'à la date où l'enseignant peut bénéficier d'une pension de vieillesse calculée à ce taux.\n\nIII. - Un décret en Conseil d'Etat détermine les conditions d'application du présent article.",
+      "valid_from": "2010-05-08"
     },
     {
       "provision_ref": "art120",
       "section": "120",
       "title": "Article 120",
-      "content": "I. et II. Paragraphes modificateursIII. - Les dispositions du présent article sont applicables aux gains et rémunérations versés à compter du 1er janvier 2001 par les entreprises et unités économiques et sociales de plus de vingt salariés visées à la première phrase du II de l'article 1er de la loi n° 2000-37 du 19 janvier 2000 relative à la réduction négociée du temps de travail et à compter du 1er janvier 2002 pour les autres entreprises."
+      "content": "I. et II. Paragraphes modificateursIII. - Les dispositions du présent article sont applicables aux gains et rémunérations versés à compter du 1er janvier 2001 par les entreprises et unités économiques et sociales de plus de vingt salariés visées à la première phrase du II de l'article 1er de la loi n° 2000-37 du 19 janvier 2000 relative à la réduction négociée du temps de travail et à compter du 1er janvier 2002 pour les autres entreprises.",
+      "valid_from": "2000-12-31"
     },
     {
       "provision_ref": "art126",
       "section": "126",
       "title": "Article 126",
-      "content": "Le Gouvernement déposera sur le bureau des assemblées, avant le 15 avril 2001, un rapport sur l'évolution des moyens humains et matériels consacrés à l'enseignement maritime et aquacole secondaire et sur l'application de l'article 133 de la loi de finances pour 2000 (n° 99-1172 du 30 décembre 1999)."
+      "content": "Le Gouvernement déposera sur le bureau des assemblées, avant le 15 avril 2001, un rapport sur l'évolution des moyens humains et matériels consacrés à l'enseignement maritime et aquacole secondaire et sur l'application de l'article 133 de la loi de finances pour 2000 (n° 99-1172 du 30 décembre 1999).",
+      "valid_from": "2000-12-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

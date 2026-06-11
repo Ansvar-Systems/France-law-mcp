@@ -12,13 +12,22 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les aérodromes dont l'emprise s'étend sur le ressort de plusieurs juridictions répressives de même catégorie peuvent être rattachés par décret au ressort de l'une de ces juridictions pour l'application des dispositions concernant la compétence territoriale en matière pénale.Lorsqu'un aérodrome s'étendant sur plusieurs départements a été rattaché au ressort d'un tribunal correctionnel dans les conditions prévues à l'alinéa précedant, la cour d'assises du département dans lequel le tribunal a son siège est territorialement compétente."
+      "content": "Les aérodromes dont l'emprise s'étend sur le ressort de plusieurs juridictions répressives de même catégorie peuvent être rattachés par décret au ressort de l'une de ces juridictions pour l'application des dispositions concernant la compétence territoriale en matière pénale.Lorsqu'un aérodrome s'étendant sur plusieurs départements a été rattaché au ressort d'un tribunal correctionnel dans les conditions prévues à l'alinéa précedant, la cour d'assises du département dans lequel le tribunal a son siège est territorialement compétente.",
+      "valid_from": "1991-12-23",
+      "valid_to": "2029-01-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les juridictions d'instruction ou de jugement dont la compétence territoriale se trouvera réduite à la date d'entrée en vigueur d'un décret pris en application de l'article précédent demeureront compétentes pour connaître des procédures introduites devant elles antérieurement à cette date.Lorsque ces procédures auront été soumises à une juridiction d'instruction, elles seront, en cas de renvoi, déférées à la juridiction de jugement qui aurait été compétente antérieurement à la même date."
+      "content": "Les juridictions d'instruction ou de jugement dont la compétence territoriale se trouvera réduite à la date d'entrée en vigueur d'un décret pris en application de l'article précédent demeureront compétentes pour connaître des procédures introduites devant elles antérieurement à cette date.Lorsque ces procédures auront été soumises à une juridiction d'instruction, elles seront, en cas de renvoi, déférées à la juridiction de jugement qui aurait été compétente antérieurement à la même date.",
+      "valid_from": "1991-12-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,7 +12,14 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Jusqu'au prochain renouvellement général des conseils municipaux, les communes nouvelles demeurent éligibles aux aides attribuées aux communes au titre du fonds d'amortissement des charges d'électrification prévu à l'article L. 2224-31 du code général des collectivités territoriales, dans sa rédaction antérieure à la loi n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011, pour la partie ou les parties de leur territoire qui y étaient éligibles la veille de leur création."
+      "content": "Jusqu'au prochain renouvellement général des conseils municipaux, les communes nouvelles demeurent éligibles aux aides attribuées aux communes au titre du fonds d'amortissement des charges d'électrification prévu à l'article L. 2224-31 du code général des collectivités territoriales, dans sa rédaction antérieure à la loi n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011, pour la partie ou les parties de leur territoire qui y étaient éligibles la veille de leur création.",
+      "valid_from": "2016-11-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

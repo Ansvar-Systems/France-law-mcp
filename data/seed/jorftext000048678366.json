@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - A créé les dispositions suivantes :\n\nII. - L'article L. 1241-13-2 du code des transports entre en vigueur à l'expiration des mandats des représentants des personnels d'Ile-de-France Mobilités mentionnés aux 1° à 3° de l'article L. 1241-13-1 du même code en cours à la publication de la présente loi. Les mandats des représentants des personnels d'Ile-de-France Mobilités mentionnés au 4° de l'article L. 1241-13-1 du code des transports en cours à la date d'entrée en vigueur de l'article L. 1241-13-2 du même code prennent fin à cette même date.\n\n- Code des transports"
+      "content": "I. - A créé les dispositions suivantes :\n\nII. - L'article L. 1241-13-2 du code des transports entre en vigueur à l'expiration des mandats des représentants des personnels d'Ile-de-France Mobilités mentionnés aux 1° à 3° de l'article L. 1241-13-1 du même code en cours à la publication de la présente loi. Les mandats des représentants des personnels d'Ile-de-France Mobilités mentionnés au 4° de l'article L. 1241-13-1 du code des transports en cours à la date d'entrée en vigueur de l'article L. 1241-13-2 du même code prennent fin à cette même date.\n\n- Code des transports",
+      "valid_from": "2023-12-29"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les mandats des représentants du personnel de la Régie autonome des transports parisiens, titulaires et suppléants, au sens des livres Ier et III de la deuxième partie du code du travail, en cours à la publication de la présente loi sont prorogés jusqu'à la date du dernier changement d'exploitant mentionné à l'article L. 3111-16-1 du code des transports."
+      "content": "Les mandats des représentants du personnel de la Régie autonome des transports parisiens, titulaires et suppléants, au sens des livres Ier et III de la deuxième partie du code du travail, en cours à la publication de la présente loi sont prorogés jusqu'à la date du dernier changement d'exploitant mentionné à l'article L. 3111-16-1 du code des transports.",
+      "valid_from": "2023-12-29"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "A modifié les dispositions suivantes :\n\n- Code des transports\n\n- Ordonnance n° 59-151 du 7 janvier 1959\n\nLa présente loi sera exécutée comme loi de l'Etat."
+      "content": "A modifié les dispositions suivantes :\n\n- Code des transports\n\n- Ordonnance n° 59-151 du 7 janvier 1959\n\nLa présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2023-12-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

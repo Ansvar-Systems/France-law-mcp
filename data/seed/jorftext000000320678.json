@@ -12,97 +12,119 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les recettes et les dépenses des communes ne peuvent être faites que conformément au budget de chaque exercice, ou aux autorisations extraordinaires données par qui de droit et dans les mêmes formes.\n\nLes dépenses ne peuvent être acquittées que sur les crédits ouverts à chacune d'elfes, ni ces crédits être employés par les maires à d'autres dépenses."
+      "content": "Les recettes et les dépenses des communes ne peuvent être faites que conformément au budget de chaque exercice, ou aux autorisations extraordinaires données par qui de droit et dans les mêmes formes.\n\nLes dépenses ne peuvent être acquittées que sur les crédits ouverts à chacune d'elfes, ni ces crédits être employés par les maires à d'autres dépenses.",
+      "valid_from": "1823-04-23"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'exercice commence au 1 janvier et finit au 31 décembre de l'année qui lui donne son nom. Néanmoins les crédits restent à la disposition du maire ordonnateur jusques au 31 décembre de l'année suivante, mais seulement pour compléter les dépenses auxquelles ils ont été affectés.\n\nPassé ce dernier délai, l'exercice est clos ; les crédits ou portions de crédit qui n'ont pas reçu leur application sont annulés, et les sommes en provenant portées, sous un titre spécial, au chapitre des recettes extraordinaires du plus prochain budget."
+      "content": "L'exercice commence au 1 janvier et finit au 31 décembre de l'année qui lui donne son nom. Néanmoins les crédits restent à la disposition du maire ordonnateur jusques au 31 décembre de l'année suivante, mais seulement pour compléter les dépenses auxquelles ils ont été affectés.\n\nPassé ce dernier délai, l'exercice est clos ; les crédits ou portions de crédit qui n'ont pas reçu leur application sont annulés, et les sommes en provenant portées, sous un titre spécial, au chapitre des recettes extraordinaires du plus prochain budget.",
+      "valid_from": "1823-04-23"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Aucune dépense ne peut être acquittée par un receveur municipal, si elle n'a été préalablement ordonnancée par le maire, sur un crédit régulièrement ouvert. Tout mandat ou ordonnance doit énoncer l'exercice et le crédit auxquels la dépense s'applique, et être accompagné, pour la légitimité de la dette et la garantie du paiement, des pièces indiquées au tableau ci-annexé."
+      "content": "Aucune dépense ne peut être acquittée par un receveur municipal, si elle n'a été préalablement ordonnancée par le maire, sur un crédit régulièrement ouvert. Tout mandat ou ordonnance doit énoncer l'exercice et le crédit auxquels la dépense s'applique, et être accompagné, pour la légitimité de la dette et la garantie du paiement, des pièces indiquées au tableau ci-annexé.",
+      "valid_from": "1823-04-23"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les receveurs municipaux ne peuvent se refuser à acquitter les mandats ou ordonnances, ni en retarder le paiement, que dans les seuls cas\n\nOù la somme ordonnancée ne porterait pas sur un crédit ouvert, ou l'excéderait,\n\nOù les pièces produites seraient insuffisantes ou irrégulières,\n\nOù il y aurait eu opposition, dûment signifiée, contre le paiement réclamé, entre les mains du comptable.\n\nTout refus, tout retard, doit être motivé dans une déclaration immédiatement délivrée par le receveur au porteur du mandat, lequel se retire devant le maire pour, par ce dernier, être avisé aux mesures à prendre ou à provoquer.\n\nTout receveur qui aurait indûment refusé ou retardé un paiement régulier, ou qui n'aurait pas délivré au porteur du mandat la déclaration motivée de son refus, sera responsable des dommages qui pourraient en résulter, et encourra en outre, selon la gravité des cas, la perte de son emploi."
+      "content": "Les receveurs municipaux ne peuvent se refuser à acquitter les mandats ou ordonnances, ni en retarder le paiement, que dans les seuls cas\n\nOù la somme ordonnancée ne porterait pas sur un crédit ouvert, ou l'excéderait,\n\nOù les pièces produites seraient insuffisantes ou irrégulières,\n\nOù il y aurait eu opposition, dûment signifiée, contre le paiement réclamé, entre les mains du comptable.\n\nTout refus, tout retard, doit être motivé dans une déclaration immédiatement délivrée par le receveur au porteur du mandat, lequel se retire devant le maire pour, par ce dernier, être avisé aux mesures à prendre ou à provoquer.\n\nTout receveur qui aurait indûment refusé ou retardé un paiement régulier, ou qui n'aurait pas délivré au porteur du mandat la déclaration motivée de son refus, sera responsable des dommages qui pourraient en résulter, et encourra en outre, selon la gravité des cas, la perte de son emploi.",
+      "valid_from": "1823-04-23"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "A dater de 1824, les comptes des maires ordonnateurs et les comptes des receveurs, les uns et les autres rendus par exercice, et clos, ainsi que le prescrit l'article 2, au 31 décembre de l'année qui suit immédiatement chaque exercice, seront nécessairement soumis aux délibérations des conseils municipaux dans leur session ordinaire du mois de mai suivant.\n\nCeux de ces comptes qui doivent être définitivement réglés, soit par notre ministre secrétaire d'état de l'intérieur, soit par la cour des comptes, leur seront transmis par les préfets avec tes observations dont ils les jugeront susceptibles, deux mois au plus tard après' l'examen dei conseils municipaux. Les autres devront être réglés, dans l'année, conformément à nos ordonnances des 28 janvier 1815, 8 août 1821, et aux dispositions ci-après."
+      "content": "A dater de 1824, les comptes des maires ordonnateurs et les comptes des receveurs, les uns et les autres rendus par exercice, et clos, ainsi que le prescrit l'article 2, au 31 décembre de l'année qui suit immédiatement chaque exercice, seront nécessairement soumis aux délibérations des conseils municipaux dans leur session ordinaire du mois de mai suivant.\n\nCeux de ces comptes qui doivent être définitivement réglés, soit par notre ministre secrétaire d'état de l'intérieur, soit par la cour des comptes, leur seront transmis par les préfets avec tes observations dont ils les jugeront susceptibles, deux mois au plus tard après' l'examen dei conseils municipaux. Les autres devront être réglés, dans l'année, conformément à nos ordonnances des 28 janvier 1815, 8 août 1821, et aux dispositions ci-après.",
+      "valid_from": "1823-04-23"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les comptes des receveurs municipaux, pour les communes dont les revenus ne s'élèvent pas à dix mille francs, seront arrêtés par les conseils de préfecture ; et pour celles dont les revenus ne s'élèvent pas à cent francs, par les sous-préfets, qui auront aussi le règlement définitif des budgets des mêmes communes, et seront tenus d’adresser aux préfets des bordereaux sommaires des budgets et des comptes ainsi arrêtés par eux."
+      "content": "Les comptes des receveurs municipaux, pour les communes dont les revenus ne s'élèvent pas à dix mille francs, seront arrêtés par les conseils de préfecture ; et pour celles dont les revenus ne s'élèvent pas à cent francs, par les sous-préfets, qui auront aussi le règlement définitif des budgets des mêmes communes, et seront tenus d’adresser aux préfets des bordereaux sommaires des budgets et des comptes ainsi arrêtés par eux.",
+      "valid_from": "1823-04-23"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les communes et les comptables pourront se pourvoir, ainsi qu'il avait été réglé par l'article 11 de notre ordonnance du 28 janvier 1815, par-devant notre cour des comptes, contre les arrêtés de comptes rendus par les conseils de préfecture ; et par-devant ces conseils, contre les arrêtés de comptes rendus par les sous-préfets."
+      "content": "Les communes et les comptables pourront se pourvoir, ainsi qu'il avait été réglé par l'article 11 de notre ordonnance du 28 janvier 1815, par-devant notre cour des comptes, contre les arrêtés de comptes rendus par les conseils de préfecture ; et par-devant ces conseils, contre les arrêtés de comptes rendus par les sous-préfets.",
+      "valid_from": "1823-04-23"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les recours réservés par l'article précédent ne resteront ouverts que pendant trois mois, à dater de la notification aux parties intéressées des arrêtés de comptes, lesquels devront être notifiés un mois au plus tard après qu'ils auront été rendus.\n\nDans le même délai de trois mois, les préfets pourront, lorsqu'ils le jugeront nécessaire, saisir d'office les conseils de préfecture de la révision des comptes arrêtés par les sous- préfets. Ils devront, à l'expiration dudit délai, leur renvoyer, approuvés, les bordereaux sommaires des comptes qu'ils n'auront pas soumis à cette révision, et contre lesquels il n'y aura pas eu de pourvoi."
+      "content": "Les recours réservés par l'article précédent ne resteront ouverts que pendant trois mois, à dater de la notification aux parties intéressées des arrêtés de comptes, lesquels devront être notifiés un mois au plus tard après qu'ils auront été rendus.\n\nDans le même délai de trois mois, les préfets pourront, lorsqu'ils le jugeront nécessaire, saisir d'office les conseils de préfecture de la révision des comptes arrêtés par les sous- préfets. Ils devront, à l'expiration dudit délai, leur renvoyer, approuvés, les bordereaux sommaires des comptes qu'ils n'auront pas soumis à cette révision, et contre lesquels il n'y aura pas eu de pourvoi.",
+      "valid_from": "1823-04-23"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les sous-préfets ne pourront délivrer aux comptables le quitus des comptes qu'ils auront arrêtés, qu'après avoir reçu l'approbation exigée par l'article précédent, ou la décision du conseil de préfecture, en cas de retours exercé ou de révision requise d'office : mention devra être faite au quitus desdites approbations ou décisions."
+      "content": "Les sous-préfets ne pourront délivrer aux comptables le quitus des comptes qu'ils auront arrêtés, qu'après avoir reçu l'approbation exigée par l'article précédent, ou la décision du conseil de préfecture, en cas de retours exercé ou de révision requise d'office : mention devra être faite au quitus desdites approbations ou décisions.",
+      "valid_from": "1823-04-23"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les comptables des communes dont les revenus, précédemment inférieurs à dix mille francs, se seront élevés à cette somme pendant trois années consécutives, seront mis par les préfets sous la juridiction de notre cour des comptes. Les arrêtés pris à cet effet devront être immédiatement transmis à nos ministres secrétaires d'état de l'intérieur et des finances."
+      "content": "Les comptables des communes dont les revenus, précédemment inférieurs à dix mille francs, se seront élevés à cette somme pendant trois années consécutives, seront mis par les préfets sous la juridiction de notre cour des comptes. Les arrêtés pris à cet effet devront être immédiatement transmis à nos ministres secrétaires d'état de l'intérieur et des finances.",
+      "valid_from": "1823-04-23"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Les comptes définitifs des receveurs, rendus comme il et dit à l'article 5, devront présenter,\n\n1.°Le solde restant en caisse et en portefeuille au commencement de chaque exercice ;\n\n2.°Les recettes et les dépenses de toute nature effectuées pour chaque exercice, soit pendant l'année qui lui donne son nom, soit pendant l'année suivante destinée à en compléter les faits ;\n\n3.°La récapitulation de leurs opérations et le montant des valeurs en caisse et en portefeuille composant leur reliquat au 3 1 décembre de cette seconde année, époque de la clôture de l'exercice."
+      "content": "Les comptes définitifs des receveurs, rendus comme il et dit à l'article 5, devront présenter,\n\n1.°Le solde restant en caisse et en portefeuille au commencement de chaque exercice ;\n\n2.°Les recettes et les dépenses de toute nature effectuées pour chaque exercice, soit pendant l'année qui lui donne son nom, soit pendant l'année suivante destinée à en compléter les faits ;\n\n3.°La récapitulation de leurs opérations et le montant des valeurs en caisse et en portefeuille composant leur reliquat au 3 1 décembre de cette seconde année, époque de la clôture de l'exercice.",
+      "valid_from": "1823-04-23"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Indépendamment du compte définitif rendu par les receveurs pour chaque exercice, et embrassant l'année qui lui est propre et l'année qui, le suit, ils seront tenus de rendre, à la fin de la première année, un compte de situation présentant tous les actes de leur gestion pendant ladite année, lequel compte subira les vérifications prescrites par les articles 5 et6, mais seulement comme moyen de contrôle, et sans pouvoir donner lieu à aucun règlement de nature à libérer le comptable."
+      "content": "Indépendamment du compte définitif rendu par les receveurs pour chaque exercice, et embrassant l'année qui lui est propre et l'année qui, le suit, ils seront tenus de rendre, à la fin de la première année, un compte de situation présentant tous les actes de leur gestion pendant ladite année, lequel compte subira les vérifications prescrites par les articles 5 et6, mais seulement comme moyen de contrôle, et sans pouvoir donner lieu à aucun règlement de nature à libérer le comptable.",
+      "valid_from": "1823-04-23"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Chaque receveur ne sera comptable que des actes de sa gestion personnelle. En cas de mutation de receveur, le compte de l'exercice sera divisé suivant la durée de la gestion de chaque titulaire, et chacun d'eux rendra compte séparément des faits qui le concerneront, en se conformant aux dispositions de la présente ordonnance."
+      "content": "Chaque receveur ne sera comptable que des actes de sa gestion personnelle. En cas de mutation de receveur, le compte de l'exercice sera divisé suivant la durée de la gestion de chaque titulaire, et chacun d'eux rendra compte séparément des faits qui le concerneront, en se conformant aux dispositions de la présente ordonnance.",
+      "valid_from": "1823-04-23"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Toutes recettes et tous paiements faits pour le compte les communes, sans l'intervention de leurs receveurs municipaux, donneront lieu aux poursuites autorisées par les lois contre les personnes qui ont indûment disposé des deniers publics."
+      "content": "Toutes recettes et tous paiements faits pour le compte les communes, sans l'intervention de leurs receveurs municipaux, donneront lieu aux poursuites autorisées par les lois contre les personnes qui ont indûment disposé des deniers publics.",
+      "valid_from": "1823-04-23"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Nos ministres secrétaires d’état de l’intérieur et des finances sont chargés de l’exécution de la présente ordonnance."
+      "content": "Nos ministres secrétaires d’état de l’intérieur et des finances sont chargés de l’exécution de la présente ordonnance.",
+      "valid_from": "1823-04-23"
     },
     {
       "provision_ref": "artAnnexe1",
       "section": "Annexe1",
       "title": "Article Annexe1",
-      "content": "ETAT des Pièces à fournir pour justification des Dépense communales.\n\nDÉPENSES DU PERSONNEL.\n\ncenter\n\nDÉPENSES DU MATÉRIEL.\n\nLe Ministre Secrétaire d’état au département de l’intérieur,\n\njustify\n\nSigné CORBIÈRE.\n\nAppointemens, gages et salaires des agens et préposés de l’administration communale.\n\nLa quittance ou l’état émargé des parties prenantes, énonçant leurs noms, leur grade ou leur emploi, le montant de leurs traitements, gages et salaires, par année et par mois, les retenues pour pensions de retraite, et le net à payer.\n\n1\n\nDépenses ordinaires pour achats d’objets mobiliers, denrées, matières et marchandises.\n\ncenter\n\n2\n\nLa quittance ou l’état émargé des parties prenantes, énonçant leurs noms, leur grade ou leur emploi, le montant de leurs traitements, gages et salaires, par année et par mois, les retenues pour pensions de retraite, et le net à payer.\n\nÉchanges et acquisitions de propriétés immobilières par voie d’amiable composition et de consentement volontaire.\n\ncenter\n\n2\n\nLa grosse du contrat, le certificat de transcription au bureau des hypothèques de l’arrondissement dans lequel sont situées les propriétés acquises ; le certificat constatant qu’il n’existe pas d’inscription, ou le certificat de radiation et de main-levée de celles qui existaient à la transcription du contrat, et généralement toutes les pièces justificatives de la purge des hypothèques légales.\n\nAcquisitions par voie d’expropriation forcée pour cause d’utilité publique.\n\ncenter\n\n2\n\nLe certificat négatif d’inscription délivré par le conservateur des hypothèques, ou de radiation de celles qui pourraient avoir été prises sur les propriétés acquises ; le certificat de purge des hypothèques légales.\n\nConstructions, reconstructions et réparations extraordinaires.\n\ncenter\n\n2\n\nEt quant au solde des travaux, procès-verbal de réception.\n\nRéparations de simple entretien et n’excédant pas mille francs.\n\ncenter\n\n2\n\nDevis estimatif, et arrêté approbatif de la dépense ; soumission de l’entrepreneur acceptée par le maire, ou mémoire des réparations exécutées par économie, réglé et certifié véritable par l’architecte, et visé par le maire.\n\n1"
+      "content": "ETAT des Pièces à fournir pour justification des Dépense communales.\n\nDÉPENSES DU PERSONNEL.\n\ncenter\n\nDÉPENSES DU MATÉRIEL.\n\nLe Ministre Secrétaire d’état au département de l’intérieur,\n\njustify\n\nSigné CORBIÈRE.\n\nAppointemens, gages et salaires des agens et préposés de l’administration communale.\n\nLa quittance ou l’état émargé des parties prenantes, énonçant leurs noms, leur grade ou leur emploi, le montant de leurs traitements, gages et salaires, par année et par mois, les retenues pour pensions de retraite, et le net à payer.\n\n1\n\nDépenses ordinaires pour achats d’objets mobiliers, denrées, matières et marchandises.\n\ncenter\n\n2\n\nLa quittance ou l’état émargé des parties prenantes, énonçant leurs noms, leur grade ou leur emploi, le montant de leurs traitements, gages et salaires, par année et par mois, les retenues pour pensions de retraite, et le net à payer.\n\nÉchanges et acquisitions de propriétés immobilières par voie d’amiable composition et de consentement volontaire.\n\ncenter\n\n2\n\nLa grosse du contrat, le certificat de transcription au bureau des hypothèques de l’arrondissement dans lequel sont situées les propriétés acquises ; le certificat constatant qu’il n’existe pas d’inscription, ou le certificat de radiation et de main-levée de celles qui existaient à la transcription du contrat, et généralement toutes les pièces justificatives de la purge des hypothèques légales.\n\nAcquisitions par voie d’expropriation forcée pour cause d’utilité publique.\n\ncenter\n\n2\n\nLe certificat négatif d’inscription délivré par le conservateur des hypothèques, ou de radiation de celles qui pourraient avoir été prises sur les propriétés acquises ; le certificat de purge des hypothèques légales.\n\nConstructions, reconstructions et réparations extraordinaires.\n\ncenter\n\n2\n\nEt quant au solde des travaux, procès-verbal de réception.\n\nRéparations de simple entretien et n’excédant pas mille francs.\n\ncenter\n\n2\n\nDevis estimatif, et arrêté approbatif de la dépense ; soumission de l’entrepreneur acceptée par le maire, ou mémoire des réparations exécutées par économie, réglé et certifié véritable par l’architecte, et visé par le maire.\n\n1",
+      "valid_from": "1823-04-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2016-733 DC du 28 juillet 2016]\n\n- Code électoral"
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2016-733 DC du 28 juillet 2016]\n\n- Code électoral",
+      "valid_from": "2019-01-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. - La présente loi organique entre en vigueur selon des modalités fixées par décret en Conseil d'Etat et, au plus tard, le 31 décembre 2019.\n\nII. - Le présent article est applicable dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie."
+      "content": "I. - La présente loi organique entre en vigueur selon des modalités fixées par décret en Conseil d'Etat et, au plus tard, le 31 décembre 2019.\n\nII. - Le présent article est applicable dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.",
+      "valid_from": "2019-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

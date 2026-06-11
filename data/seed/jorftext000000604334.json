@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le Gouvernement déposera, avant le 31 décembre 2003, un rapport présentant ses initiatives européennes visant à résorber les difficultés d'application de la directive 79/409/CEE du Conseil, du 2 avril 1979, concernant la conservation des oiseaux sauvages et celles relatives :1° A la fixation, par la loi nationale et selon le principe de subsidiarité, de l'ensemble des règles et obligations qui s'appliquent à l'exercice de la chasse des oiseaux sur le territoire national ;2° A la fixation par le droit communautaire des principes que doit respecter la loi nationale en matière de règles et obligations qui s'appliquent à l'exercice de la chasse aux oiseaux."
+      "content": "Le Gouvernement déposera, avant le 31 décembre 2003, un rapport présentant ses initiatives européennes visant à résorber les difficultés d'application de la directive 79/409/CEE du Conseil, du 2 avril 1979, concernant la conservation des oiseaux sauvages et celles relatives :1° A la fixation, par la loi nationale et selon le principe de subsidiarité, de l'ensemble des règles et obligations qui s'appliquent à l'exercice de la chasse des oiseaux sur le territoire national ;2° A la fixation par le droit communautaire des principes que doit respecter la loi nationale en matière de règles et obligations qui s'appliquent à l'exercice de la chasse aux oiseaux.",
+      "valid_from": "2003-07-31"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Par dérogation au deuxième alinéa de l'article 7 de la loi n° 84-834 du 13 septembre 1984 relative à la limite d'âge dans la fonction publique et le secteur public, le président de l'Office national de la chasse et de la faune sauvage est maintenu en fonction jusqu'au 30 septembre 2004."
+      "content": "Par dérogation au deuxième alinéa de l'article 7 de la loi n° 84-834 du 13 septembre 1984 relative à la limite d'âge dans la fonction publique et le secteur public, le président de l'Office national de la chasse et de la faune sauvage est maintenu en fonction jusqu'au 30 septembre 2004.",
+      "valid_from": "2003-07-31"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Est autorisée la ratification de l'accord sur la conservation des oiseaux d'eau migrateurs d'Afrique-Eurasie (ensemble trois annexes), ouvert à la signature à La Haye le 15 août 1996, et dont le texte est annexé à la présente loi (2)."
+      "content": "Est autorisée la ratification de l'accord sur la conservation des oiseaux d'eau migrateurs d'Afrique-Eurasie (ensemble trois annexes), ouvert à la signature à La Haye le 15 août 1996, et dont le texte est annexé à la présente loi (2).",
+      "valid_from": "2003-07-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

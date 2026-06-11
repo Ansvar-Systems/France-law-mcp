@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le chapitre VII « Produits et équipements à risques » du titre V du livre V du code de l'environnement (partie législative) est modifié conformément aux dispositions des articles 2 à 15 de la présente ordonnance."
+      "content": "Le chapitre VII « Produits et équipements à risques » du titre V du livre V du code de l'environnement (partie législative) est modifié conformément aux dispositions des articles 2 à 15 de la présente ordonnance.",
+      "valid_from": "2021-07-22"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Le Premier ministre et la ministre de la transition écologique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre de la transition écologique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-07-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

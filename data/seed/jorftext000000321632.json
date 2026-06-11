@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "A partir de la promulgation de la présente loi, toute fabrication de vins mousseux ou de vins pétillants autres que ceux pouvant prétendre aux appellations contrôlées \"Vouvray\" ou \"Touraine\" est interdite sur le territoire des communes dont la production bénéficie de l'appellation contrôlée \"Vouvray\" .\n\nEst également interdite pour la vente d'un vin mousseux ou d'un vin pétillant autre que le Vouvray ou le Touraine, l'utilisation d'étiquettes, capsules, bouchons et de tous modes de présentation commerciale ainsi que de documents à caractère publicitaire faisant état d'un nom de commune comprise dans l'aire géographique de l'appellation contrôlée \"Vouvray\" ."
+      "content": "A partir de la promulgation de la présente loi, toute fabrication de vins mousseux ou de vins pétillants autres que ceux pouvant prétendre aux appellations contrôlées \"Vouvray\" ou \"Touraine\" est interdite sur le territoire des communes dont la production bénéficie de l'appellation contrôlée \"Vouvray\" .\n\nEst également interdite pour la vente d'un vin mousseux ou d'un vin pétillant autre que le Vouvray ou le Touraine, l'utilisation d'étiquettes, capsules, bouchons et de tous modes de présentation commerciale ainsi que de documents à caractère publicitaire faisant état d'un nom de commune comprise dans l'aire géographique de l'appellation contrôlée \"Vouvray\" .",
+      "valid_from": "1971-05-26"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les infractions aux dispositions de la présente loi seront punies d'un emprisonnement d'un an et d'une amende de 4 500 euros ou de l'une de ces deux peines seulement.\n\nElles seront constatées par les agents chargés de la répression des fraudes et par les fonctionnaires de la direction générale des impôts.\n\nElles seront poursuivies et réprimées suivant les formes prévues en matière de contributions indirectes."
+      "content": "Les infractions aux dispositions de la présente loi seront punies d'un emprisonnement d'un an et d'une amende de 4 500 euros ou de l'une de ces deux peines seulement.\n\nElles seront constatées par les agents chargés de la répression des fraudes et par les fonctionnaires de la direction générale des impôts.\n\nElles seront poursuivies et réprimées suivant les formes prévues en matière de contributions indirectes.",
+      "valid_from": "1971-05-26"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Un décret déterminera les conditions d'application de la présente loi.\n\nLa présente loi sera exécutée comme loi de l'Etat."
+      "content": "Un décret déterminera les conditions d'application de la présente loi.\n\nLa présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "1971-05-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

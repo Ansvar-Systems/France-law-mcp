@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Pour l'année 2020, la période mentionnée aux troisième alinéa de l'article L. 115-3 du code de l'action sociale et des familles et premier alinéa de l'article L. 412-6 du code des procédures civiles d'exécution est prolongée jusqu'au 31 mai 2020."
+      "content": "Pour l'année 2020, la période mentionnée aux troisième alinéa de l'article L. 115-3 du code de l'action sociale et des familles et premier alinéa de l'article L. 412-6 du code des procédures civiles d'exécution est prolongée jusqu'au 31 mai 2020.",
+      "valid_from": "2020-03-27"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Pour l'année 2020, les durées mentionnées aux articles L. 611-1, L. 621-4, L. 631-6 et L. 641-8 du code des procédures civiles d'exécution sont augmentées de deux mois."
+      "content": "Pour l'année 2020, les durées mentionnées aux articles L. 611-1, L. 621-4, L. 631-6 et L. 641-8 du code des procédures civiles d'exécution sont augmentées de deux mois.",
+      "valid_from": "2020-04-24"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Premier ministre, la ministre de la transition écologique et solidaire, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, la ministre des outre-mer et le ministre auprès de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la ville et du logement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la transition écologique et solidaire, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, la ministre des outre-mer et le ministre auprès de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la ville et du logement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-03-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

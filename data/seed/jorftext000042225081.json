@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le mandat des membres du Conseil économique, social et environnemental est prorogé jusqu'à l'entrée en vigueur de la loi organique résultant de l'adoption du projet de loi organique relatif au Conseil économique, social et environnemental délibéré en conseil des ministres le 7 juillet 2020, et au plus tard jusqu'au 1er juin 2021."
+      "content": "Le mandat des membres du Conseil économique, social et environnemental est prorogé jusqu'à l'entrée en vigueur de la loi organique résultant de l'adoption du projet de loi organique relatif au Conseil économique, social et environnemental délibéré en conseil des ministres le 7 juillet 2020, et au plus tard jusqu'au 1er juin 2021.",
+      "valid_from": "2020-08-12"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "A modifié les dispositions suivantes :\n\n- Ordonnance n° 58-1360 du 29 décembre 1958\n\nLa présente loi sera exécutée comme loi de l'Etat."
+      "content": "A modifié les dispositions suivantes :\n\n- Ordonnance n° 58-1360 du 29 décembre 1958\n\nLa présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2020-08-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

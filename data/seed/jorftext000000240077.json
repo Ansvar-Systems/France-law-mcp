@@ -12,13 +12,21 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-481 DC du 30 juillet 2003."
+      "content": "Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-481 DC du 30 juillet 2003.",
+      "valid_from": "2003-08-02"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les dispositions de la présente loi sont applicables à Mayotte."
+      "content": "Les dispositions de la présente loi sont applicables à Mayotte.",
+      "valid_from": "2003-08-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Les dispositions des articles 241, 247, 248, 249 et 251 du code des douanes sont applicables à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises aux drones maritimes tels que définis à l'article L. 5000-2-2 du code des transports, sous réserve de l'adaptation suivante : les références aux navires sont remplacées par les références aux drones maritimes."
+      "content": "Les dispositions des articles 241, 247, 248, 249 et 251 du code des douanes sont applicables à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises aux drones maritimes tels que définis à l'article L. 5000-2-2 du code des transports, sous réserve de l'adaptation suivante : les références aux navires sont remplacées par les références aux drones maritimes.",
+      "valid_from": "2022-01-01"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Le Premier ministre, la ministre de la transition écologique, le ministre des outre-mer, la ministre de la mer et le ministre délégué auprès de la ministre de la transition écologique, chargé des transports, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la transition écologique, le ministre des outre-mer, la ministre de la mer et le ministre délégué auprès de la ministre de la transition écologique, chargé des transports, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-10-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "L'article L. 640-3 du code rural devient l'article L. 611-6."
+      "content": "L'article L. 640-3 du code rural devient l'article L. 611-6.",
+      "valid_from": "2005-09-09"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Le Premier ministre, le ministre des transports, de l'équipement, du tourisme et de la mer et le ministre de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des transports, de l'équipement, du tourisme et de la mer et le ministre de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2005-09-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

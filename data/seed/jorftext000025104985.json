@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions législatives du code de l'environnement sont modifiées conformément aux dispositions des articles 2 à 4 de la présente ordonnance."
+      "content": "Les dispositions législatives du code de l'environnement sont modifiées conformément aux dispositions des articles 2 à 4 de la présente ordonnance.",
+      "valid_from": "2012-01-07"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "A modifié les dispositions suivantes :\n\n-Code de l'environnement\n\nArt. L125-3"
+      "content": "A modifié les dispositions suivantes :\n\n-Code de l'environnement\n\nArt. L125-3",
+      "valid_from": "2012-01-07"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable, des transports et du logement et le ministre de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable, des transports et du logement et le ministre de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2012-01-07"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

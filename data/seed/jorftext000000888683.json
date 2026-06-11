@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les distributions gratuites d'actions faites en application de l'article 1er de la présente loi ne sont pas assimilées à un revenu pour l'application de l'impôt sur le revenu des personnes physiques et ne donnent lieu à la perception d'aucun impôt.Elles ne sont pas prises en considération pour l'application de la législation du travail et de la sécurité sociale."
+      "content": "Les distributions gratuites d'actions faites en application de l'article 1er de la présente loi ne sont pas assimilées à un revenu pour l'application de l'impôt sur le revenu des personnes physiques et ne donnent lieu à la perception d'aucun impôt.Elles ne sont pas prises en considération pour l'application de la législation du travail et de la sécurité sociale.",
+      "valid_from": "1973-01-05"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Les modalités d'application de la présente loi seront fixées par décret en Conseil d'Etat."
+      "content": "Les modalités d'application de la présente loi seront fixées par décret en Conseil d'Etat.",
+      "valid_from": "1973-01-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

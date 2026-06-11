@@ -12,79 +12,98 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Tout domanier exploitant par lui-même une tenue à domaine congéable, s'il a renoncé au droit de provoquer le congément, aura le droit de faire exponse dans les formes et aux époques prescrites pour le congément et sous les conditions établies ci-après."
+      "content": "Tout domanier exploitant par lui-même une tenue à domaine congéable, s'il a renoncé au droit de provoquer le congément, aura le droit de faire exponse dans les formes et aux époques prescrites pour le congément et sous les conditions établies ci-après.",
+      "valid_from": "1897-02-09"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le domanier qui fait exponse reçoit du foncier une indemnité égale à la plus-value procurée à l'immeuble par l'existence des édifices et superficies."
+      "content": "Le domanier qui fait exponse reçoit du foncier une indemnité égale à la plus-value procurée à l'immeuble par l'existence des édifices et superficies.",
+      "valid_from": "1897-02-09"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Cette plus-value est constatée et déterminée par des experts nommés et fonctionnant dans les mêmes conditions que pour le congément.Les experts estimeront la valeur vénale de l'immeuble recouvert, puis supposé dépouillé de ces édifices et superficies ; la différence entre les deux estimations constituera la plus-value, sous réserve de la disposition édictée par l'article 4 ci-après.Le chiffre de cette plus-value ne pourra jamais être supérieur à la valeur des droits édificiers telle qu'elle sera fixée en cas de congément."
+      "content": "Cette plus-value est constatée et déterminée par des experts nommés et fonctionnant dans les mêmes conditions que pour le congément.Les experts estimeront la valeur vénale de l'immeuble recouvert, puis supposé dépouillé de ces édifices et superficies ; la différence entre les deux estimations constituera la plus-value, sous réserve de la disposition édictée par l'article 4 ci-après.Le chiffre de cette plus-value ne pourra jamais être supérieur à la valeur des droits édificiers telle qu'elle sera fixée en cas de congément.",
+      "valid_from": "1897-02-09"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les édifices et superficies qui auraient été établis en dehors des titres et conventions n'entreront pas en compte dans les estimations ; le domanier aura le choix soit de les enlever, soit de les abandonner sans qu'il y ait lieu à indemnité de part et d'autre ; le foncier pourra toujours les retenir en remboursant la valeur des matériaux et de la main-d'oeuvre.La présente disposition sera applicable au cas de congément comme au cas d'exponse."
+      "content": "Les édifices et superficies qui auraient été établis en dehors des titres et conventions n'entreront pas en compte dans les estimations ; le domanier aura le choix soit de les enlever, soit de les abandonner sans qu'il y ait lieu à indemnité de part et d'autre ; le foncier pourra toujours les retenir en remboursant la valeur des matériaux et de la main-d'oeuvre.La présente disposition sera applicable au cas de congément comme au cas d'exponse.",
+      "valid_from": "1897-02-09"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le foncier aura, pour solder sans intérêts au domanier l'indemnité de plus-value, un délai de six mois, à partir du 29 septembre, date de sa rentrée en jouissance.Les édifices et superficies et, en cas d'insuffisance, le fonds seront grevés d'une hypothèque légale affectée à la garantie de la créance du domanier. Faute de payement au terme ci-dessus fixé, le domanier pourra exercer les droits établis par l'article 23 de la loi du 6 août 1791 pour le cas de congément."
+      "content": "Le foncier aura, pour solder sans intérêts au domanier l'indemnité de plus-value, un délai de six mois, à partir du 29 septembre, date de sa rentrée en jouissance.Les édifices et superficies et, en cas d'insuffisance, le fonds seront grevés d'une hypothèque légale affectée à la garantie de la créance du domanier. Faute de payement au terme ci-dessus fixé, le domanier pourra exercer les droits établis par l'article 23 de la loi du 6 août 1791 pour le cas de congément.",
+      "valid_from": "1959-01-08"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le procès-verbal d'estimation devra être notifié avant le 29 septembre, sous peine de nullité de l'instance ; un délai n'excédant pas un mois pourra être accordé par le juge du tribunal d'instance pour le procès-verbal d'ensouchement."
+      "content": "Le procès-verbal d'estimation devra être notifié avant le 29 septembre, sous peine de nullité de l'instance ; un délai n'excédant pas un mois pourra être accordé par le juge du tribunal d'instance pour le procès-verbal d'ensouchement.",
+      "valid_from": "1897-02-09"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le foncier retient par compensation sur l'indemnité de plus-value et l'ensouchement toute créance qu'il peut avoir contre le domanier à raison du bail à domaine congéable."
+      "content": "Le foncier retient par compensation sur l'indemnité de plus-value et l'ensouchement toute créance qu'il peut avoir contre le domanier à raison du bail à domaine congéable.",
+      "valid_from": "1897-02-09"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les frais de l'exponse sont à la charge du domanier."
+      "content": "Les frais de l'exponse sont à la charge du domanier.",
+      "valid_from": "1897-02-09"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Est nulle de plein droit et réputée non écrite toute clause par laquelle le domanier renoncerait à perpétuité ou pour une période plus longue que la durée totale du bail au droit d'exponse tel qu'il est réglementé par la présente loi."
+      "content": "Est nulle de plein droit et réputée non écrite toute clause par laquelle le domanier renoncerait à perpétuité ou pour une période plus longue que la durée totale du bail au droit d'exponse tel qu'il est réglementé par la présente loi.",
+      "valid_from": "1897-02-09"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Avant toute désignation d'experts, le foncier aura la faculté de faire ajourner la demande d'exponse en concédant pour six ans au moins une baillée dont la redevance et la commission seront fixées par la voie d'expertise.Les frais de cette expertise seront à la charge du foncier.A l'expiration de cette baillée, le domanier aura le droit d'exiger qu'il soit donné suite à sa demande d'exponse, sans autre mise en demeure qu'un avertissement par lettre recommandée. L'exponse pourra être encore ajournée si le foncier concède des baillées successives dont la redevance et la commission seront à nouveau fixées par experts."
+      "content": "Avant toute désignation d'experts, le foncier aura la faculté de faire ajourner la demande d'exponse en concédant pour six ans au moins une baillée dont la redevance et la commission seront fixées par la voie d'expertise.Les frais de cette expertise seront à la charge du foncier.A l'expiration de cette baillée, le domanier aura le droit d'exiger qu'il soit donné suite à sa demande d'exponse, sans autre mise en demeure qu'un avertissement par lettre recommandée. L'exponse pourra être encore ajournée si le foncier concède des baillées successives dont la redevance et la commission seront à nouveau fixées par experts.",
+      "valid_from": "1897-02-09"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Sera nul tout paiement effectué par le foncier à l'encontre de ce droit de préférence."
+      "content": "Sera nul tout paiement effectué par le foncier à l'encontre de ce droit de préférence.",
+      "valid_from": "1958-04-05"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "En cas de tacite reconduction, aucun prorata de la commission payée à l'occasion de la dernière baillée ne pourra s'ajouter à la rente convenancière telle que celle-ci résulte du texte de ladite baillée."
+      "content": "En cas de tacite reconduction, aucun prorata de la commission payée à l'occasion de la dernière baillée ne pourra s'ajouter à la rente convenancière telle que celle-ci résulte du texte de ladite baillée.",
+      "valid_from": "1897-02-09"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "La loi du 6 août 1791 est abrogée en tout ce qu'elle contient de contraire à la présente loi."
+      "content": "La loi du 6 août 1791 est abrogée en tout ce qu'elle contient de contraire à la présente loi.",
+      "valid_from": "1897-02-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

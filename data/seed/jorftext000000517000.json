@@ -12,61 +12,77 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'officier ou assimilé peut servir temporairement en situation hors cadre :1 ° Dans un département ministériel, civil ou militaire, dans les services de l'État outre-mer ou auprès d'un office ou établissement public de l'État dans un emploi conduisant à pension du régime général des retraites ;2° Auprès des Etats membres de la communauté ou des Etats associés ;3° Auprès de gouvernements étrangers ou d'organismes internationaux ;4° Auprès d'une administration ou d'une entreprise publique, d'un office ou d'un établissement public dans un emploi ne conduisant pas à pension du régime général des retraites, auprès d'une société nationale ou d'économie mixte, ou auprès d'une entreprise privée, sous réserve, dans ce dernier cas, que la nomination à l'emploi considéré soit statutairement prononcée ou approuvée par le Gouvernement ;5° Auprès d'une entreprise privée, pour y effectuer des travaux nécessités par l'exécution du programme de recherche d'intérêt national défini par le conseil supérieur de la recherche scientifique ;6° Auprès d'une assemblée parlementaire ou du Sénat de la communauté pour exercer une fonction publique élective. La situation hors cadre est toujours révocable. Elle ne peut être prononcée pour une durée supérieure à cinq ans. Elle peut être renouvelée.Toutefois, en cas de mise en situation hors cadre auprès d'une entreprise privée, dans les conditions prévues au 5° ci-dessus, le renouvellement n'est accordé qu'à titre exceptionnel et pour une seule période de cinq ans."
+      "content": "L'officier ou assimilé peut servir temporairement en situation hors cadre :1 ° Dans un département ministériel, civil ou militaire, dans les services de l'État outre-mer ou auprès d'un office ou établissement public de l'État dans un emploi conduisant à pension du régime général des retraites ;2° Auprès des Etats membres de la communauté ou des Etats associés ;3° Auprès de gouvernements étrangers ou d'organismes internationaux ;4° Auprès d'une administration ou d'une entreprise publique, d'un office ou d'un établissement public dans un emploi ne conduisant pas à pension du régime général des retraites, auprès d'une société nationale ou d'économie mixte, ou auprès d'une entreprise privée, sous réserve, dans ce dernier cas, que la nomination à l'emploi considéré soit statutairement prononcée ou approuvée par le Gouvernement ;5° Auprès d'une entreprise privée, pour y effectuer des travaux nécessités par l'exécution du programme de recherche d'intérêt national défini par le conseil supérieur de la recherche scientifique ;6° Auprès d'une assemblée parlementaire ou du Sénat de la communauté pour exercer une fonction publique élective. La situation hors cadre est toujours révocable. Elle ne peut être prononcée pour une durée supérieure à cinq ans. Elle peut être renouvelée.Toutefois, en cas de mise en situation hors cadre auprès d'une entreprise privée, dans les conditions prévues au 5° ci-dessus, le renouvellement n'est accordé qu'à titre exceptionnel et pour une seule période de cinq ans.",
+      "valid_from": "1958-12-26"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'officier ou assimilé en situation hors cadre est remplacé dans les cadres. Il continue à figurer sur la liste générale d'ancienneté et conserve ses droits à l'avancement et à la retraite.L'officier ou assimilé en situation hors cadre supporte la retenue pour la retraite sur la solde d'activité afférente à son grade et à son échelon. La contribution complémentaire prévue à l'article 1er du décret du 30 juin 1934 est exigible.A l'expiration de sa mise en situation hors cadre, l'officier ou assimilé est réintégré dans son cadre d'origine à la première vacance venant à s'ouvrir à son grade dans le corps auquel il appartient.Toutefois, la réintégration peut être prononcée en surnombre lorsque la mise en situation hors cadre a été prononcée auprès des Etats, gouvernements ou organismes énumérés aux 2° et 3° de l'article 1er ci-dessus. Le surnombre est résorbé à la première vacance venant à s'ouvrir à son grade dans le corps considéré."
+      "content": "L'officier ou assimilé en situation hors cadre est remplacé dans les cadres. Il continue à figurer sur la liste générale d'ancienneté et conserve ses droits à l'avancement et à la retraite.L'officier ou assimilé en situation hors cadre supporte la retenue pour la retraite sur la solde d'activité afférente à son grade et à son échelon. La contribution complémentaire prévue à l'article 1er du décret du 30 juin 1934 est exigible.A l'expiration de sa mise en situation hors cadre, l'officier ou assimilé est réintégré dans son cadre d'origine à la première vacance venant à s'ouvrir à son grade dans le corps auquel il appartient.Toutefois, la réintégration peut être prononcée en surnombre lorsque la mise en situation hors cadre a été prononcée auprès des Etats, gouvernements ou organismes énumérés aux 2° et 3° de l'article 1er ci-dessus. Le surnombre est résorbé à la première vacance venant à s'ouvrir à son grade dans le corps considéré.",
+      "valid_from": "1958-12-26"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "L'officier ou assimilé en situation hors cadre ne peut, sauf le cas où la mise dans cette situation a été prononcée auprès d'organismes internationaux ou pour exercer une fonction publique élective auprès d'une assemblée parlementaire ou du Sénat de la communauté, être affilié au régime de retraite dont relève la fonction exercée en situation hors cadre, ou acquérir à ce titre des droits quelconques à pension ou à allocation, sous peine de la suspension de la pension de l'Etat."
+      "content": "L'officier ou assimilé en situation hors cadre ne peut, sauf le cas où la mise dans cette situation a été prononcée auprès d'organismes internationaux ou pour exercer une fonction publique élective auprès d'une assemblée parlementaire ou du Sénat de la communauté, être affilié au régime de retraite dont relève la fonction exercée en situation hors cadre, ou acquérir à ce titre des droits quelconques à pension ou à allocation, sous peine de la suspension de la pension de l'Etat.",
+      "valid_from": "1958-12-26"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Dans le cadre où l'officier ou assimilé est en situation hors cadre dans un emploi conduisant à pension du régime général des retraites de l'Etat, la retenue pour pension est calculée, sauf demande contraire de l'intéressé, sur le traitement afférent à l'ancien emploi."
+      "content": "Dans le cadre où l'officier ou assimilé est en situation hors cadre dans un emploi conduisant à pension du régime général des retraites de l'Etat, la retenue pour pension est calculée, sauf demande contraire de l'intéressé, sur le traitement afférent à l'ancien emploi.",
+      "valid_from": "1958-12-26"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les sous-officiers de carrière, les sous-officiers servant sous contrat et les personnels assimilés peuvent servir temporairement en situation hors cadre :1° Auprès des Etats membres de la communauté ou des Etats associés ;2° Auprès des gouvernements étrangers ou d'organismes internationaux ;3° Auprès d'une assemblée parlementaire ou du Sénat de la communauté pour exercer une fonction publique élective. Il est fait application aux intéressés des dispositions prévues aux articles 1er à 3 ci-dessus."
+      "content": "Les sous-officiers de carrière, les sous-officiers servant sous contrat et les personnels assimilés peuvent servir temporairement en situation hors cadre :1° Auprès des Etats membres de la communauté ou des Etats associés ;2° Auprès des gouvernements étrangers ou d'organismes internationaux ;3° Auprès d'une assemblée parlementaire ou du Sénat de la communauté pour exercer une fonction publique élective. Il est fait application aux intéressés des dispositions prévues aux articles 1er à 3 ci-dessus.",
+      "valid_from": "1958-12-26"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "L'officier ou assimilé placé dans la situation hors cadre définie aux articles 1er et 2 ci-dessus peut, sur sa demande, être placé en position dite \"spéciale hors cadre\" dans les conditions déterminées à l'article ci-après."
+      "content": "L'officier ou assimilé placé dans la situation hors cadre définie aux articles 1er et 2 ci-dessus peut, sur sa demande, être placé en position dite \"spéciale hors cadre\" dans les conditions déterminées à l'article ci-après.",
+      "valid_from": "1958-12-26"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "L'officier ou assimilé, satisfaisant à la condition de durée de services prévue aux articles L. 6 et L. 8 pour avoir droit à pension proportionnelle, placé en situation hors cadre soit auprès d'une administration ou d'une entreprise publique, dans un emploi ne conduisant pas à pension du régime général, soit auprès d'organismes internationaux pourra, dans un délai de trois mois suivant sa mise en situation hors cadre, être placé, sur sa demande, en position \"spéciale hors cadre\".Dans cette position, il cesse de bénéficier de ses droits à l'avancement et à la retraite.La mise en position spéciale hors cadre est prononcée par arrêté conjoint du Président du Conseil (du Premier ministre), du ministre des armées (du ministre de la défense) et du ministre des finances ; elle ne comporte aucune limitation de durée.L'officier ou assimilé, en position spéciale hors cadre peut demander sa réintégration dans son cadre d'origine. Celle-ci est prononcée à la première vacance venant à s'ouvrir dans le grade et dans le corps d'officiers auquel il appartient.L'officier ou assimilé en position spéciale hors cadre est soumis au statut et au régime de retraite afférent à la fonction qu'il exerce dans cette position. Les retenues pour la retraite prévues au décret du 30 juin 1934 ne sont pas exigibles.L'officier ou assimilé, lorsqu'il cesse d'être en position spéciale hors cadre et n'est pas réintégré dans son cadre d'origine, peut être mis à la retraite et prétendre à la pension d'ancienneté prévue à l'article L. 6 du Code des pensions civiles et militaires de retraite.En cas de réintégration, ses droits à pension, au regard du régime général, recommencent à courir à compter de ladite réintégration.Toutefois, dans le cas où il ne pourrait prétendre à pension, au titre du régime de retraite auquel il a été affilié pendant la durée de la position spéciale hors cadre, il pourra, dans les trois mois suivant sa réintégration, solliciter la prise en compte dans le régime général de la période considérée, sous réserve du versement de la retenue correspondant à ladite période, calculé sur les émoluments attachés à l'emploi dans lequel il est réintégré.L'organisme dans lequel l'intéressé a été employé devra également verser sur les mêmes bases la contribution complémentaire prévue par le décret du 30 juin 1934."
+      "content": "L'officier ou assimilé, satisfaisant à la condition de durée de services prévue aux articles L. 6 et L. 8 pour avoir droit à pension proportionnelle, placé en situation hors cadre soit auprès d'une administration ou d'une entreprise publique, dans un emploi ne conduisant pas à pension du régime général, soit auprès d'organismes internationaux pourra, dans un délai de trois mois suivant sa mise en situation hors cadre, être placé, sur sa demande, en position \"spéciale hors cadre\".Dans cette position, il cesse de bénéficier de ses droits à l'avancement et à la retraite.La mise en position spéciale hors cadre est prononcée par arrêté conjoint du Président du Conseil (du Premier ministre), du ministre des armées (du ministre de la défense) et du ministre des finances ; elle ne comporte aucune limitation de durée.L'officier ou assimilé, en position spéciale hors cadre peut demander sa réintégration dans son cadre d'origine. Celle-ci est prononcée à la première vacance venant à s'ouvrir dans le grade et dans le corps d'officiers auquel il appartient.L'officier ou assimilé en position spéciale hors cadre est soumis au statut et au régime de retraite afférent à la fonction qu'il exerce dans cette position. Les retenues pour la retraite prévues au décret du 30 juin 1934 ne sont pas exigibles.L'officier ou assimilé, lorsqu'il cesse d'être en position spéciale hors cadre et n'est pas réintégré dans son cadre d'origine, peut être mis à la retraite et prétendre à la pension d'ancienneté prévue à l'article L. 6 du Code des pensions civiles et militaires de retraite.En cas de réintégration, ses droits à pension, au regard du régime général, recommencent à courir à compter de ladite réintégration.Toutefois, dans le cas où il ne pourrait prétendre à pension, au titre du régime de retraite auquel il a été affilié pendant la durée de la position spéciale hors cadre, il pourra, dans les trois mois suivant sa réintégration, solliciter la prise en compte dans le régime général de la période considérée, sous réserve du versement de la retenue correspondant à ladite période, calculé sur les émoluments attachés à l'emploi dans lequel il est réintégré.L'organisme dans lequel l'intéressé a été employé devra également verser sur les mêmes bases la contribution complémentaire prévue par le décret du 30 juin 1934.",
+      "valid_from": "1958-12-26"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Un décret en Conseil d'Etat, pris sur le rapport du ministre des armées (du ministre de la défense) et contresigné par le ministre des finances et des affaires économiques, précisera, le cas échéant, les conditions d'application des articles 1er à 8 ci-dessus, et les mesures transitoires à appliquer aux personnels militaires se trouvant déjà en \"mission hors cadre\"."
+      "content": "Un décret en Conseil d'Etat, pris sur le rapport du ministre des armées (du ministre de la défense) et contresigné par le ministre des finances et des affaires économiques, précisera, le cas échéant, les conditions d'application des articles 1er à 8 ci-dessus, et les mesures transitoires à appliquer aux personnels militaires se trouvant déjà en \"mission hors cadre\".",
+      "valid_from": "1980-08-06"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Sont abrogées les dispositions contraires à celles des articles ler à 3 ci-dessus et notamment :L'article 16 de la loi du 14 avril 1832, l'article 16 de la loi du 4 mars 1929, modifié par l'article 4 de la loi du 2 août 1940 et les articles 31 bis et 51 nonies de la loi du 9 avril 1935, complétée par la loi du 9 octobre 1940."
+      "content": "Sont abrogées les dispositions contraires à celles des articles ler à 3 ci-dessus et notamment :L'article 16 de la loi du 14 avril 1832, l'article 16 de la loi du 4 mars 1929, modifié par l'article 4 de la loi du 2 août 1940 et les articles 31 bis et 51 nonies de la loi du 9 avril 1935, complétée par la loi du 9 octobre 1940.",
+      "valid_from": "1958-12-26"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi."
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi.",
+      "valid_from": "1958-12-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

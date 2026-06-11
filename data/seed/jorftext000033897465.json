@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Toute autorité administrative indépendante ou autorité publique indépendante est instituée par la loi.La loi fixe les règles relatives à la composition et aux attributions ainsi que les principes fondamentaux relatifs à l'organisation et au fonctionnement des autorités administratives indépendantes et des autorités publiques indépendantes."
+      "content": "Toute autorité administrative indépendante ou autorité publique indépendante est instituée par la loi.La loi fixe les règles relatives à la composition et aux attributions ainsi que les principes fondamentaux relatifs à l'organisation et au fonctionnement des autorités administratives indépendantes et des autorités publiques indépendantes.",
+      "valid_from": "2017-01-22"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les incompatibilités mentionnées aux articles LO 6222-3-1, LO 6322-3-1 et LO 6432-4-1 du code général des collectivités territoriales, au second alinéa de l'article 13-2 de la loi n° 61-814 du 29 juillet 1961 conférant aux îles Wallis et Futuna le statut de territoire d'outre-mer, aux articles 75-1 et 111-1 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française, au deuxième alinéa de l'article 64, au dernier alinéa de l'article 112 et à l'article 196-1 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, au premier alinéa de l'article 8 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature, à la seconde phrase du deuxième alinéa de l'article 6 de la loi organique n° 94-100 du 5 février 1994 sur le Conseil supérieur de la magistrature et au second alinéa de l'article 7-1 de l'ordonnance n° 58-1360 du 29 décembre 1958 portant loi organique relative au Conseil économique et social, dans leur rédaction résultant des articles 2 et 3 de la présente loi organique, s'appliquent au mandat des membres nommés ou élus après la promulgation de la présente loi organique.\n\nTout membre qui se trouve dans un des cas d'incompatibilité mentionnés au premier alinéa du présent article est tenu de faire cesser cette incompatibilité au plus tard le trentième jour suivant la promulgation de la présente loi organique. A défaut d'option dans ce délai, le président de l'autorité administrative indépendante ou de l'autorité publique indépendante, ou un tiers au moins des membres du collège de l'autorité lorsque l'incompatibilité concerne le président, le déclare démissionnaire."
+      "content": "Les incompatibilités mentionnées aux articles LO 6222-3-1, LO 6322-3-1 et LO 6432-4-1 du code général des collectivités territoriales, au second alinéa de l'article 13-2 de la loi n° 61-814 du 29 juillet 1961 conférant aux îles Wallis et Futuna le statut de territoire d'outre-mer, aux articles 75-1 et 111-1 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française, au deuxième alinéa de l'article 64, au dernier alinéa de l'article 112 et à l'article 196-1 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, au premier alinéa de l'article 8 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature, à la seconde phrase du deuxième alinéa de l'article 6 de la loi organique n° 94-100 du 5 février 1994 sur le Conseil supérieur de la magistrature et au second alinéa de l'article 7-1 de l'ordonnance n° 58-1360 du 29 décembre 1958 portant loi organique relative au Conseil économique et social, dans leur rédaction résultant des articles 2 et 3 de la présente loi organique, s'appliquent au mandat des membres nommés ou élus après la promulgation de la présente loi organique.\n\nTout membre qui se trouve dans un des cas d'incompatibilité mentionnés au premier alinéa du présent article est tenu de faire cesser cette incompatibilité au plus tard le trentième jour suivant la promulgation de la présente loi organique. A défaut d'option dans ce délai, le président de l'autorité administrative indépendante ou de l'autorité publique indépendante, ou un tiers au moins des membres du collège de l'autorité lorsque l'incompatibilité concerne le président, le déclare démissionnaire.",
+      "valid_from": "2017-01-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

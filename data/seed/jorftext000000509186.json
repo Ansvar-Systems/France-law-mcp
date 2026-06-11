@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le droit des notaires au payement des sommes à eux dues pour les actes de leur ministère se prescrit pour cinq ans à partir de la date des actes. Pour les actes dont l'effet est subordonné au décès, tels que les testaments et les donations entre époux pendant le mariage, les cinq ans ne courront que du jour du décès de l'auteur de la disposition.\n\nLa prescription a lieu, quoiqu'il y ait eu continuation d'actes de leur ministère de la part des notaires et huissiers. Elle ne cesse de courir que lorsqu'il y a eu compte arrêté, reconnaissance, obligation ou signification de la taxe en conformité de l'article 4 ci-après."
+      "content": "Le droit des notaires au payement des sommes à eux dues pour les actes de leur ministère se prescrit pour cinq ans à partir de la date des actes. Pour les actes dont l'effet est subordonné au décès, tels que les testaments et les donations entre époux pendant le mariage, les cinq ans ne courront que du jour du décès de l'auteur de la disposition.\n\nLa prescription a lieu, quoiqu'il y ait eu continuation d'actes de leur ministère de la part des notaires et huissiers. Elle ne cesse de courir que lorsqu'il y a eu compte arrêté, reconnaissance, obligation ou signification de la taxe en conformité de l'article 4 ci-après.",
+      "valid_from": "2012-01-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les demandes en taxe et les actions en restitution de frais dus aux notaires et huissiers, pour les actes de leur ministère, se prescrivent par cinq ans du jour du paiement ou du règlement par compte arrêté, reconnaissance ou obligation."
+      "content": "Les demandes en taxe et les actions en restitution de frais dus aux notaires et huissiers, pour les actes de leur ministère, se prescrivent par cinq ans du jour du paiement ou du règlement par compte arrêté, reconnaissance ou obligation.",
+      "valid_from": "2011-01-27"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La signification de l'ordonnance de taxe, à la requête des notaires et huissiers, interrompt la prescription et fait courir les intérêts.\n\nL'ordonnance de taxe vaut titre exécutoire ; elle emporte hypothèque judiciaire ; mais elle ne pourra être exécutée et l'inscription ne pourra être prise valablement qu'après l'expiration du délai d'opposition."
+      "content": "La signification de l'ordonnance de taxe, à la requête des notaires et huissiers, interrompt la prescription et fait courir les intérêts.\n\nL'ordonnance de taxe vaut titre exécutoire ; elle emporte hypothèque judiciaire ; mais elle ne pourra être exécutée et l'inscription ne pourra être prise valablement qu'après l'expiration du délai d'opposition.",
+      "valid_from": "2012-01-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "La présente loi est applicable aux paiements et règlements effectués, aux actes passés et aux frais faits antérieurement à sa promulgation."
+      "content": "La présente loi est applicable aux paiements et règlements effectués, aux actes passés et aux frais faits antérieurement à sa promulgation.",
+      "valid_from": "1897-12-27"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La loi du 5 août 1881 est abrogée.L'article 30 de la loi du 22 frimaire, an VII, l'article 51 de la loi du 25 ventôse, an XI, et les décrets du 16 février 1807 sont abrogés dans celles de leurs dispositions qui sont contraires à la présente loi."
+      "content": "La loi du 5 août 1881 est abrogée.L'article 30 de la loi du 22 frimaire, an VII, l'article 51 de la loi du 25 ventôse, an XI, et les décrets du 16 février 1807 sont abrogés dans celles de leurs dispositions qui sont contraires à la présente loi.",
+      "valid_from": "1897-12-27"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "La présente loi est applicable aux collectivités d'outre-mer régies par l'article 74 de la Constitution et à la Nouvelle-Calédonie."
+      "content": "La présente loi est applicable aux collectivités d'outre-mer régies par l'article 74 de la Constitution et à la Nouvelle-Calédonie.",
+      "valid_from": "2007-02-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

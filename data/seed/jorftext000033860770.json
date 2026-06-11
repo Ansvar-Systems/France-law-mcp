@@ -12,19 +12,28 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I.-La présente ordonnance entre en vigueur à une date fixée par décret et au plus tard le 1er janvier 2019.II.-Les agréments pour l'hébergement de données de santé sur support électronique pris sur le fondement de l'article L. 1111-8 avant l'entrée en vigueur de la présente ordonnance continuent à produire leurs effets jusqu'à leur terme.L'hébergeur dont l'agrément mentionné à l'alinéa précédent arrive à échéance dans les douze mois suivant l'entrée en vigueur de l'article L. 1111-8 dans la rédaction issue de la présente ordonnance dispose d'un délai minimum fixé par décret pour se mettre en conformité avec l'obligation de disposer d'un certificat de conformité pour l'hébergement de données de santé à caractère personnel.III.-Les dossiers de demande d'agrément ou de renouvellement d'agrément pour l'hébergement de données de santé à caractère personnel sur support électronique déposés avant l'entrée en vigueur de la présente ordonnance sont instruits dans les conditions prévues par l'article L. 1111-8 dans sa rédaction applicable à la date du dépôt de la demande. Lorsqu'il est délivré, l'agrément est régi par les dispositions applicables à la date de la demande."
+      "content": "I.-La présente ordonnance entre en vigueur à une date fixée par décret et au plus tard le 1er janvier 2019.II.-Les agréments pour l'hébergement de données de santé sur support électronique pris sur le fondement de l'article L. 1111-8 avant l'entrée en vigueur de la présente ordonnance continuent à produire leurs effets jusqu'à leur terme.L'hébergeur dont l'agrément mentionné à l'alinéa précédent arrive à échéance dans les douze mois suivant l'entrée en vigueur de l'article L. 1111-8 dans la rédaction issue de la présente ordonnance dispose d'un délai minimum fixé par décret pour se mettre en conformité avec l'obligation de disposer d'un certificat de conformité pour l'hébergement de données de santé à caractère personnel.III.-Les dossiers de demande d'agrément ou de renouvellement d'agrément pour l'hébergement de données de santé à caractère personnel sur support électronique déposés avant l'entrée en vigueur de la présente ordonnance sont instruits dans les conditions prévues par l'article L. 1111-8 dans sa rédaction applicable à la date du dépôt de la demande. Lorsqu'il est délivré, l'agrément est régi par les dispositions applicables à la date de la demande.",
+      "valid_from": "2018-04-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I.-L'article L. 1111-8 du code de la santé publique est applicable à Wallis-et-Futuna dans sa rédaction résultant de l'ordonnance n° 2017-27 du 12 janvier 2017.\n\nII.-A modifié les dispositions suivantes :\n\n-Code de la santé publique\n\nIII.-L'article L. 212-4 du code du patrimoine est applicable à Wallis-et-Futuna et aux Terres australes et antarctiques françaises dans sa rédaction résultant de l'ordonnance n° 2017-27 du 12 janvier 2017.\n\nIV.-Les I à III de l'article 3 de la présente ordonnance sont applicables à Wallis-et-Futuna et aux Terres australes et antarctiques françaises.\n\nArt. L1531-3"
+      "content": "I.-L'article L. 1111-8 du code de la santé publique est applicable à Wallis-et-Futuna dans sa rédaction résultant de l'ordonnance n° 2017-27 du 12 janvier 2017.\n\nII.-A modifié les dispositions suivantes :\n\n-Code de la santé publique\n\nIII.-L'article L. 212-4 du code du patrimoine est applicable à Wallis-et-Futuna et aux Terres australes et antarctiques françaises dans sa rédaction résultant de l'ordonnance n° 2017-27 du 12 janvier 2017.\n\nIV.-Les I à III de l'article 3 de la présente ordonnance sont applicables à Wallis-et-Futuna et aux Terres australes et antarctiques françaises.\n\nArt. L1531-3",
+      "valid_from": "2018-04-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, la ministre des affaires sociales et de la santé, la ministre de la culture et de la communication et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre des affaires sociales et de la santé, la ministre de la culture et de la communication et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2018-04-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

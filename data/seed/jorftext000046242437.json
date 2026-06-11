@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions prises par décret entre les 1er janvier 2021 et 31 décembre 2021, en application de l'article L. 1226-1-1 du code du travail, pour adapter les conditions de versement de l'indemnité complémentaire à l'allocation journalière, prévue à l'article L. 1226-1 du même code, afin de limiter la propagation de l'épidémie de covid-19, demeurent applicables jusqu'à une date fixée par décret, et au plus tard jusqu'au 31 décembre 2022."
+      "content": "Les dispositions prises par décret entre les 1er janvier 2021 et 31 décembre 2021, en application de l'article L. 1226-1-1 du code du travail, pour adapter les conditions de versement de l'indemnité complémentaire à l'allocation journalière, prévue à l'article L. 1226-1 du même code, afin de limiter la propagation de l'épidémie de covid-19, demeurent applicables jusqu'à une date fixée par décret, et au plus tard jusqu'au 31 décembre 2022.",
+      "valid_from": "2022-09-02"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions de la présente ordonnance sont applicables aux arrêts de travail débutant à compter du 1er août 2022."
+      "content": "Les dispositions de la présente ordonnance sont applicables aux arrêts de travail débutant à compter du 1er août 2022.",
+      "valid_from": "2022-09-02"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La Première ministre, le ministre du travail, du plein emploi et de l'insertion et le ministre de la santé et de la prévention sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "La Première ministre, le ministre du travail, du plein emploi et de l'insertion et le ministre de la santé et de la prévention sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2022-09-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

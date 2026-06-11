@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "Est autorisée l'approbation de la décision (UE, Euratom) 2018/994 du Conseil du 13 juillet 2018 modifiant l'acte portant élection des membres du Parlement européen au suffrage universel direct, annexé à la décision 76/787/CECA, CEE, Euratom du Conseil du 20 septembre 1976, et dont le texte est annexé à la présente loi (2).La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Est autorisée l'approbation de la décision (UE, Euratom) 2018/994 du Conseil du 13 juillet 2018 modifiant l'acte portant élection des membres du Parlement européen au suffrage universel direct, annexé à la décision 76/787/CECA, CEE, Euratom du Conseil du 20 septembre 1976, et dont le texte est annexé à la présente loi (2).La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2019-02-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

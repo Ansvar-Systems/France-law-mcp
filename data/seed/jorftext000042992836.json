@@ -12,7 +12,14 @@
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "La présente loi organique entre en vigueur le premier jour du troisième mois suivant celui de sa publication.Le délai de six mois prévu au II de l'article 7 de l'ordonnance n° 58-1360 du 29 décembre 1958 portant loi organique relative au Conseil économique, social et environnemental dans sa rédaction résultant de la présente loi n'est pas applicable pour la première désignation des membres du Conseil économique, social et environnemental qui suit la publication de la présente loi.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "La présente loi organique entre en vigueur le premier jour du troisième mois suivant celui de sa publication.Le délai de six mois prévu au II de l'article 7 de l'ordonnance n° 58-1360 du 29 décembre 1958 portant loi organique relative au Conseil économique, social et environnemental dans sa rédaction résultant de la présente loi n'est pas applicable pour la première désignation des membres du Conseil économique, social et environnemental qui suit la publication de la présente loi.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2021-04-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

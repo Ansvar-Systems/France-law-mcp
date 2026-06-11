@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - Les mandats des membres du collège en cours à la date de publication de la présente ordonnance prennent fin à la date des nominations des membres du collège effectuées en application des dispositions de l'article L. 161-42 du code de la sécurité sociale dans sa rédaction issue de la présente ordonnance, et au plus tard trois mois après la publication de la présente ordonnance.A l'occasion de la première constitution du collège en application des dispositions de la présente ordonnance, sont désignés par tirage au sort, à l'exception du président, les trois membres, parmi lesquels deux membres mentionnés au 2° de l'article L. 161-42 du code de la sécurité sociale dans sa rédaction issue de la présente ordonnance, dont les mandats prendront fin à l'issue d'un délai de trois ans. Figurent parmi les membres désignés par tirage au sort, dont les modalités sont fixées par décret, au moins un homme et au moins une femme.Pour l'appréciation du caractère renouvelable du mandat mentionné au neuvième alinéa de l'article L. 161-42 du code de la sécurité sociale dans sa rédaction issue de la présente ordonnance, il est tenu compte, le cas échéant, du ou des mandats déjà accomplis avant l'entrée en vigueur des dispositions de la présente ordonnance par le membre faisant l'objet d'une nomination au titre du présent article.II. - Les dispositions des troisième à sixième alinéas du 1° de l'article 1er de la présente ordonnance s'appliquent pour la première fois au rapport établi au titre de l'année 2017."
+      "content": "I. - Les mandats des membres du collège en cours à la date de publication de la présente ordonnance prennent fin à la date des nominations des membres du collège effectuées en application des dispositions de l'article L. 161-42 du code de la sécurité sociale dans sa rédaction issue de la présente ordonnance, et au plus tard trois mois après la publication de la présente ordonnance.A l'occasion de la première constitution du collège en application des dispositions de la présente ordonnance, sont désignés par tirage au sort, à l'exception du président, les trois membres, parmi lesquels deux membres mentionnés au 2° de l'article L. 161-42 du code de la sécurité sociale dans sa rédaction issue de la présente ordonnance, dont les mandats prendront fin à l'issue d'un délai de trois ans. Figurent parmi les membres désignés par tirage au sort, dont les modalités sont fixées par décret, au moins un homme et au moins une femme.Pour l'appréciation du caractère renouvelable du mandat mentionné au neuvième alinéa de l'article L. 161-42 du code de la sécurité sociale dans sa rédaction issue de la présente ordonnance, il est tenu compte, le cas échéant, du ou des mandats déjà accomplis avant l'entrée en vigueur des dispositions de la présente ordonnance par le membre faisant l'objet d'une nomination au titre du présent article.II. - Les dispositions des troisième à sixième alinéas du 1° de l'article 1er de la présente ordonnance s'appliquent pour la première fois au rapport établi au titre de l'année 2017.",
+      "valid_from": "2017-01-28"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Premier ministre et la ministre des affaires sociales et de la santé sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre des affaires sociales et de la santé sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-01-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

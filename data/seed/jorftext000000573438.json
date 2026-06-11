@@ -12,13 +12,21 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les dispositions prévues par l'article 5 sont applicables à compter du 1er janvier 1998, sous réserve des sanctions pénales prévues par ce même article.La protection prévue par le même article 5 est applicable aux bases de données dont la fabrication a été achevée depuis le 1er janvier 1983 et qui, à la date de publication de la présente loi, satisfont aux conditions prévues au titre IV du livre III du code de la propriété intellectuelle.Dans ce cas, la durée de protection est de quinze ans à compter du 1er janvier 1998.La protection s'applique sans préjudice des actes conclus et des accords passés avant la date d'entrée en vigueur de la présente loi."
+      "content": "Les dispositions prévues par l'article 5 sont applicables à compter du 1er janvier 1998, sous réserve des sanctions pénales prévues par ce même article.La protection prévue par le même article 5 est applicable aux bases de données dont la fabrication a été achevée depuis le 1er janvier 1983 et qui, à la date de publication de la présente loi, satisfont aux conditions prévues au titre IV du livre III du code de la propriété intellectuelle.Dans ce cas, la durée de protection est de quinze ans à compter du 1er janvier 1998.La protection s'applique sans préjudice des actes conclus et des accords passés avant la date d'entrée en vigueur de la présente loi.",
+      "valid_from": "1998-07-02"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "La présente loi est applicable dans les territoires d'outre-mer et à Mayotte."
+      "content": "La présente loi est applicable dans les territoires d'outre-mer et à Mayotte.",
+      "valid_from": "2001-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

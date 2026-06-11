@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code de commerce est modifié conformément aux articles 2 à 8 de la présente ordonnance."
+      "content": "Le code de commerce est modifié conformément aux articles 2 à 8 de la présente ordonnance.",
+      "valid_from": "2017-03-11"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I.-A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nII.-Dans les textes législatifs en vigueur, les références aux dispositions mentionnées au I sont remplacées par les références aux dispositions correspondantes selon leur nouvelle numérotation résultant du même I.\n\n-Code de commerce\n\n-Code de commerce\n\n-Code de commerce\n\n-Code de commerce"
+      "content": "I.-A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nII.-Dans les textes législatifs en vigueur, les références aux dispositions mentionnées au I sont remplacées par les références aux dispositions correspondantes selon leur nouvelle numérotation résultant du même I.\n\n-Code de commerce\n\n-Code de commerce\n\n-Code de commerce\n\n-Code de commerce",
+      "valid_from": "2017-03-11"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "I. - Les dispositions de la présente ordonnance entrent en vigueur le lendemain de sa publication.Toutefois, les dispositions, d'une part, des articles L. 462-3, L. 483-1 à L. 483-4, L. 483-6, L. 483-7 et L. 483-9, du code de commerce ainsi que des quatre premiers alinéas des articles L. 483-5 et L. 483-8 de ce même code et, d'autre part, de l'article L. 775-2 du code de justice administrative, issues de la présente ordonnance sont applicables aux instances introduites devant les juridictions administratives et judiciaires à compter du 26 décembre 2014.II. - Les dispositions de la présente ordonnance qui allongent la durée d'une prescription s'appliquent lorsque le délai de prescription n'était pas expiré à la date de son entrée en vigueur. Il est alors tenu compte du délai déjà écoulé."
+      "content": "I. - Les dispositions de la présente ordonnance entrent en vigueur le lendemain de sa publication.Toutefois, les dispositions, d'une part, des articles L. 462-3, L. 483-1 à L. 483-4, L. 483-6, L. 483-7 et L. 483-9, du code de commerce ainsi que des quatre premiers alinéas des articles L. 483-5 et L. 483-8 de ce même code et, d'autre part, de l'article L. 775-2 du code de justice administrative, issues de la présente ordonnance sont applicables aux instances introduites devant les juridictions administratives et judiciaires à compter du 26 décembre 2014.II. - Les dispositions de la présente ordonnance qui allongent la durée d'une prescription s'appliquent lorsque le délai de prescription n'était pas expiré à la date de son entrée en vigueur. Il est alors tenu compte du délai déjà écoulé.",
+      "valid_from": "2017-03-11"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les dispositions de la présente ordonnance à l'exception de son article 9 sont applicables à Wallis-et-Futuna."
+      "content": "Les dispositions de la présente ordonnance à l'exception de son article 9 sont applicables à Wallis-et-Futuna.",
+      "valid_from": "2017-03-11"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Les conditions d'application des dispositions de la présente ordonnance sont fixées par décret en Conseil d'Etat."
+      "content": "Les conditions d'application des dispositions de la présente ordonnance sont fixées par décret en Conseil d'Etat.",
+      "valid_from": "2017-03-11"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Le Premier ministre, le ministre de l'économie et des finances, le garde des sceaux, ministre de la justice, et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie et des finances, le garde des sceaux, ministre de la justice, et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-03-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

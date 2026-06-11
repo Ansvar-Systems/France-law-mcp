@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions annexées à la présente loi constituent la partie Législative du livre III du code des juridictions financières."
+      "content": "Les dispositions annexées à la présente loi constituent la partie Législative du livre III du code des juridictions financières.",
+      "valid_from": "1995-07-26"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les références contenues dans les dispositions de nature législative à des dispositions abrogées par l'article 3 de la présente loi sont remplacées par des références aux dispositions correspondantes du code des juridictions financières."
+      "content": "Les références contenues dans les dispositions de nature législative à des dispositions abrogées par l'article 3 de la présente loi sont remplacées par des références aux dispositions correspondantes du code des juridictions financières.",
+      "valid_from": "1995-07-26"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Sont abrogés :1° La loi n° 48-1484 du 25 septembre 1948 tendant à sanctionner les fautes de gestion commises à l'égard de l'Etat et de diverses collectivités et portant création d'une Cour de discipline budgétaire ;2° L'article 62 de la loi n° 50-928 du 8 août 1950 relative aux dépenses de fonctionnement des services civils pour l'exercice 1950 et à diverses dispositions d'ordre financier ;3° Le III de l'article 1er de la loi n° 80-539 du 16 juillet 1980 relative aux astreintes prononcées en matière administrative et à l'exécution des jugements par les personnes morales de droit public ;4° L'article 78 de la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la corruption et à la transparence de la vie économique et des procédures publiques."
+      "content": "Sont abrogés :1° La loi n° 48-1484 du 25 septembre 1948 tendant à sanctionner les fautes de gestion commises à l'égard de l'Etat et de diverses collectivités et portant création d'une Cour de discipline budgétaire ;2° L'article 62 de la loi n° 50-928 du 8 août 1950 relative aux dépenses de fonctionnement des services civils pour l'exercice 1950 et à diverses dispositions d'ordre financier ;3° Le III de l'article 1er de la loi n° 80-539 du 16 juillet 1980 relative aux astreintes prononcées en matière administrative et à l'exécution des jugements par les personnes morales de droit public ;4° L'article 78 de la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la corruption et à la transparence de la vie économique et des procédures publiques.",
+      "valid_from": "1995-07-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,7 +12,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Des conventions conclues entre les personnes publiques intéressées précisent les modalités du changement d'affectation des locaux occupés par l'Assemblée nationale et le Sénat à Versailles ainsi que les conditions de la mise à disposition de ceux nécessaires à la tenue du Congrès du Parlement.\n\nCelles-ci prévoient que les locaux qui ne sont plus affectés à l'Assemblée nationale et au Sénat sont destinés à l'accueil du public ou, lorsqu'ils ne s'y prêtent pas, à l'exercice par l'Etablissement public du château, du musée et du domaine national de Versailles de ses autres missions, définies par décret, à l'exclusion de toute affectation en logements de fonction.\n\nElles prévoient que les locaux de l'aile du Midi affectés à cet établissement public ne peuvent recevoir aucune modification qui serait susceptible de gêner la tenue du Congrès du Parlement."
+      "content": "Des conventions conclues entre les personnes publiques intéressées précisent les modalités du changement d'affectation des locaux occupés par l'Assemblée nationale et le Sénat à Versailles ainsi que les conditions de la mise à disposition de ceux nécessaires à la tenue du Congrès du Parlement.\n\nCelles-ci prévoient que les locaux qui ne sont plus affectés à l'Assemblée nationale et au Sénat sont destinés à l'accueil du public ou, lorsqu'ils ne s'y prêtent pas, à l'exercice par l'Etablissement public du château, du musée et du domaine national de Versailles de ses autres missions, définies par décret, à l'exclusion de toute affectation en logements de fonction.\n\nElles prévoient que les locaux de l'aile du Midi affectés à cet établissement public ne peuvent recevoir aucune modification qui serait susceptible de gêner la tenue du Congrès du Parlement.",
+      "valid_from": "2010-11-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

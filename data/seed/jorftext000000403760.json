@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - paragraphe modificateurII. - L'article 22 de la loi du 15 novembre 2001 susvisée est applicable en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-Calédonie et à Mayotte, en tant qu'il concerne l'article L. 282-8 du code de l'aviation civile."
+      "content": "I. - paragraphe modificateurII. - L'article 22 de la loi du 15 novembre 2001 susvisée est applicable en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-Calédonie et à Mayotte, en tant qu'il concerne l'article L. 282-8 du code de l'aviation civile.",
+      "valid_from": "2002-03-16"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Premier ministre, le ministre de l'intérieur, le ministre de l'équipement, des transports et du logement et le secrétaire d'Etat à l'outre-mer sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'intérieur, le ministre de l'équipement, des transports et du logement et le secrétaire d'Etat à l'outre-mer sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2002-03-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

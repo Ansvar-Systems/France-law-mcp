@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le régime d'assurance chômage des salariés appartenant aux professions visées par les annexes VIII et X au règlement annexé à la convention du 1er janvier 1997 relative à l'assurance chômage reste fixé par les dispositions de ces deux annexes, jusqu'à ce que la convention du 1er janvier 2001 relative à l'aide au retour à l'emploi et à l'indemnisation du chômage ait fait l'objet d'aménagements prenant en compte les modalités particulières d'exercice de ces professions, dans les conditions prévues par l'article L. 351-14 du code du travail.Les dispositions de la présente loi s'appliquent à compter du 1er juillet 2001 et jusqu'à l'agrément, dans les conditions prévues par l'article L. 352-1 du même code, des aménagements mentionnés à l'alinéa précédent."
+      "content": "Le régime d'assurance chômage des salariés appartenant aux professions visées par les annexes VIII et X au règlement annexé à la convention du 1er janvier 1997 relative à l'assurance chômage reste fixé par les dispositions de ces deux annexes, jusqu'à ce que la convention du 1er janvier 2001 relative à l'aide au retour à l'emploi et à l'indemnisation du chômage ait fait l'objet d'aménagements prenant en compte les modalités particulières d'exercice de ces professions, dans les conditions prévues par l'article L. 351-14 du code du travail.Les dispositions de la présente loi s'appliquent à compter du 1er juillet 2001 et jusqu'à l'agrément, dans les conditions prévues par l'article L. 352-1 du même code, des aménagements mentionnés à l'alinéa précédent.",
+      "valid_from": "2001-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

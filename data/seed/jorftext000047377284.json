@@ -12,31 +12,42 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Gouvernement remet au Parlement, dans un délai de trois mois à compter de la promulgation de la présente loi, un rapport étudiant la possibilité de la mise en place d'un encadrement des marges des distributeurs sur les produits sous signe d'identification de la qualité et de l'origine afin qu'elles ne puissent pas être supérieures aux marges effectuées sur les produits conventionnels."
+      "content": "Le Gouvernement remet au Parlement, dans un délai de trois mois à compter de la promulgation de la présente loi, un rapport étudiant la possibilité de la mise en place d'un encadrement des marges des distributeurs sur les produits sous signe d'identification de la qualité et de l'origine afin qu'elles ne puissent pas être supérieures aux marges effectuées sur les produits conventionnels.",
+      "valid_from": "2023-04-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Le I du présent article entre en vigueur le 1er mars 2024.\n\n-LOI n° 2020-1525 du 7 décembre 2020"
+      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Le I du présent article entre en vigueur le 1er mars 2024.\n\n-LOI n° 2020-1525 du 7 décembre 2020",
+      "valid_from": "2023-04-01"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de commerce\n\nII. - A titre expérimental, pour une durée de trois ans, à défaut de convention conclue au plus tard le 1er mars ou dans les deux mois suivant le début de la période de commercialisation des produits ou des services soumis à un cycle de commercialisation particulier, le fournisseur peut :1° Soit, en l'absence de contrat nouvellement formé, mettre fin à toute relation commerciale avec le distributeur, sans que ce dernier puisse invoquer la rupture brutale de la relation commerciale au sens du II de l'article L. 442-1 du code de commerce ;2° Soit demander l'application d'un préavis conforme au même II.Les parties peuvent également saisir le médiateur des relations commerciales agricoles ou le médiateur des entreprises afin de conclure, sous son égide et avant le 1er avril, un accord fixant les conditions d'un préavis, qui tient notamment compte des conditions économiques du marché sur lequel opèrent les parties. En cas d'accord des parties sur les conditions du préavis, le prix convenu s'applique rétroactivement aux commandes passées à compter du 1er mars. En cas de désaccord, le fournisseur peut mettre fin à toute relation commerciale avec le distributeur, sans que ce dernier puisse invoquer la rupture brutale de la relation commerciale au sens dudit II ou demander l'application d'un préavis conforme au même II."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de commerce\n\nII. - A titre expérimental, pour une durée de trois ans, à défaut de convention conclue au plus tard le 1er mars ou dans les deux mois suivant le début de la période de commercialisation des produits ou des services soumis à un cycle de commercialisation particulier, le fournisseur peut :1° Soit, en l'absence de contrat nouvellement formé, mettre fin à toute relation commerciale avec le distributeur, sans que ce dernier puisse invoquer la rupture brutale de la relation commerciale au sens du II de l'article L. 442-1 du code de commerce ;2° Soit demander l'application d'un préavis conforme au même II.Les parties peuvent également saisir le médiateur des relations commerciales agricoles ou le médiateur des entreprises afin de conclure, sous son égide et avant le 1er avril, un accord fixant les conditions d'un préavis, qui tient notamment compte des conditions économiques du marché sur lequel opèrent les parties. En cas d'accord des parties sur les conditions du préavis, le prix convenu s'applique rétroactivement aux commandes passées à compter du 1er mars. En cas de désaccord, le fournisseur peut mettre fin à toute relation commerciale avec le distributeur, sans que ce dernier puisse invoquer la rupture brutale de la relation commerciale au sens dudit II ou demander l'application d'un préavis conforme au même II.",
+      "valid_from": "2023-04-01"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Sont ratifiées :1° L'ordonnance n° 2019-359 du 24 avril 2019 portant refonte du titre IV du livre IV du code de commerce relatif à la transparence, aux pratiques restrictives de concurrence et aux autres pratiques prohibées ;2° L'ordonnance n° 2019-358 du 24 avril 2019 relative à l'action en responsabilité pour prix abusivement bas."
+      "content": "Sont ratifiées :1° L'ordonnance n° 2019-359 du 24 avril 2019 portant refonte du titre IV du livre IV du code de commerce relatif à la transparence, aux pratiques restrictives de concurrence et aux autres pratiques prohibées ;2° L'ordonnance n° 2019-358 du 24 avril 2019 relative à l'action en responsabilité pour prix abusivement bas.",
+      "valid_from": "2023-04-01"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "A modifié les dispositions suivantes :\n\n- Code rural et de la pêche maritime\n\nLa présente loi sera exécutée comme loi de l'Etat."
+      "content": "A modifié les dispositions suivantes :\n\n- Code rural et de la pêche maritime\n\nLa présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2023-04-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

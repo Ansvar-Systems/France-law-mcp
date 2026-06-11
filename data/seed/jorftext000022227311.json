@@ -12,7 +12,14 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La présente loi est applicable en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna."
+      "content": "La présente loi est applicable en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna.",
+      "valid_from": "2010-05-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

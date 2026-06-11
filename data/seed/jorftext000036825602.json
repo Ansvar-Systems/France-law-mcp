@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 2016-131 du 10 février 2016 portant réforme du droit des contrats, du régime général et de la preuve des obligations est ratifiée."
+      "content": "L'ordonnance n° 2016-131 du 10 février 2016 portant réforme du droit des contrats, du régime général et de la preuve des obligations est ratifiée.",
+      "valid_from": "2018-10-01"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "I. - La présente loi entre en vigueur le 1er octobre 2018.Les articles 1110, 1117, 1137, 1145, 1161, 1171, 1223, 1327 et 1343-3 du code civil et les articles L. 112-5-1 et L. 211-40-1 du code monétaire et financier, dans leur rédaction résultant de la présente loi, sont applicables aux actes juridiques conclus ou établis à compter de son entrée en vigueur.Les modifications apportées par la présente loi aux articles 1112, 1143, 1165, 1216-3, 1217, 1221, 1304-4, 1305-5, 1327-1, 1328-1, 1347-6 et 1352-4 du code civil ont un caractère interprétatif.II. - A. - La présente loi est applicable dans les îles Wallis et Futuna.B. - Pour l'application de l'article 1343-3 du code civil dans les îles Wallis et Futuna, le mot : \"euros\" est remplacé par les mots : \"francs CFP\".\n\nC. - A modifié les dispositions suivantes :\n\nIII. - A modifié les dispositions suivantes :\n\nLe présent III est applicable à compter du 1er octobre 2016.\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- Code monétaire et financier\n\n- Ordonnance n° 2016-131 du 10 février 2016"
+      "content": "I. - La présente loi entre en vigueur le 1er octobre 2018.Les articles 1110, 1117, 1137, 1145, 1161, 1171, 1223, 1327 et 1343-3 du code civil et les articles L. 112-5-1 et L. 211-40-1 du code monétaire et financier, dans leur rédaction résultant de la présente loi, sont applicables aux actes juridiques conclus ou établis à compter de son entrée en vigueur.Les modifications apportées par la présente loi aux articles 1112, 1143, 1165, 1216-3, 1217, 1221, 1304-4, 1305-5, 1327-1, 1328-1, 1347-6 et 1352-4 du code civil ont un caractère interprétatif.II. - A. - La présente loi est applicable dans les îles Wallis et Futuna.B. - Pour l'application de l'article 1343-3 du code civil dans les îles Wallis et Futuna, le mot : \"euros\" est remplacé par les mots : \"francs CFP\".\n\nC. - A modifié les dispositions suivantes :\n\nIII. - A modifié les dispositions suivantes :\n\nLe présent III est applicable à compter du 1er octobre 2016.\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- Code monétaire et financier\n\n- Ordonnance n° 2016-131 du 10 février 2016",
+      "valid_from": "2018-10-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les dispositions modifiées ou abrogées par les dispositions de la présente ordonnance demeurent applicables, dans leur rédaction antérieure à celle résultant de la présente ordonnance, aux dispositifs d'appui existants mentionnés au II de l'article 23 de la loi du 24 juillet 2019 susvisée jusqu'à l'intégration de ces derniers dans un dispositif d'appui à la coordination mentionné à l'article L. 6327-2 ou à l'article L. 6327-6 du code de la santé publique et, au plus tard, jusqu'à la date fixée au II de l'article 23 de cette même loi."
+      "content": "Les dispositions modifiées ou abrogées par les dispositions de la présente ordonnance demeurent applicables, dans leur rédaction antérieure à celle résultant de la présente ordonnance, aux dispositifs d'appui existants mentionnés au II de l'article 23 de la loi du 24 juillet 2019 susvisée jusqu'à l'intégration de ces derniers dans un dispositif d'appui à la coordination mentionné à l'article L. 6327-2 ou à l'article L. 6327-6 du code de la santé publique et, au plus tard, jusqu'à la date fixée au II de l'article 23 de cette même loi.",
+      "valid_from": "2021-11-12"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre et le ministre des solidarités et de la santé sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre des solidarités et de la santé sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-11-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

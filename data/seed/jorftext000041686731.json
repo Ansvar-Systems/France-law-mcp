@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les autorités publiques transmettent les informations nécessaires à la constitution et à l'actualisation d'une base de données nationale des signatures publiques dans les conditions fixées par un décret en Conseil d'Etat."
+      "content": "Les autorités publiques transmettent les informations nécessaires à la constitution et à l'actualisation d'une base de données nationale des signatures publiques dans les conditions fixées par un décret en Conseil d'Etat.",
+      "valid_from": "2020-03-06"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions de l'article 2 s'appliquent en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises."
+      "content": "Les dispositions de l'article 2 s'appliquent en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises.",
+      "valid_from": "2020-03-06"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'Europe et des affaires étrangères et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'Europe et des affaires étrangères et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-03-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

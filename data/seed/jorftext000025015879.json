@@ -12,13 +12,21 @@
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "Sauf lorsqu'elle en dispose autrement, les dispositions de la présente ordonnance entrent en vigueur le 1er janvier 2012."
+      "content": "Sauf lorsqu'elle en dispose autrement, les dispositions de la présente ordonnance entrent en vigueur le 1er janvier 2012.",
+      "valid_from": "2012-01-01"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "Le Premier ministre, le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, le ministre du travail, de l'emploi et de la santé, la ministre du budget, des comptes publics et de la réforme de l'Etat, porte-parole du Gouvernement, la ministre des solidarités et de la cohésion sociale et la ministre auprès du ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, chargée de l'outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, le ministre du travail, de l'emploi et de la santé, la ministre du budget, des comptes publics et de la réforme de l'Etat, porte-parole du Gouvernement, la ministre des solidarités et de la cohésion sociale et la ministre auprès du ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, chargée de l'outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2012-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,7 +12,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La police des spectacles continuera d'appartenir exclusivement aux municipalités. Les entrepreneurs ou associés seront tenus d'avoir un registre dans lequel ils inscriront et feront viser par l'officier de police de service, à chaque représentation, les pièces qui seront jouées, pour constater le nombre des représentations de chacune."
+      "content": "La police des spectacles continuera d'appartenir exclusivement aux municipalités. Les entrepreneurs ou associés seront tenus d'avoir un registre dans lequel ils inscriront et feront viser par l'officier de police de service, à chaque représentation, les pièces qui seront jouées, pour constater le nombre des représentations de chacune.",
+      "valid_from": "1793-09-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

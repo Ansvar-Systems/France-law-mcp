@@ -12,13 +12,21 @@
       "provision_ref": "art42",
       "section": "42",
       "title": "Article 42",
-      "content": "I. et II (Paragraphes modificateurs)\n\nIII.-Les produits des parts émises par les fonds communs de créances peuvent être soumis au prélèvement libératoire prévu au paragraphe I de l'article 125 A du code général des impôts au taux de 25 % si leur durée à l'émission est supérieure à cinq ans ou au taux de 32 % si cette durée est inférieure ou égale à cinq ans. Le boni de liquidation peut être soumis à ce prélèvement au taux de 45 %.\n\nLes articles 92 B, 238 septies A, et 238 septies B du code général des impôts s'appliquent aux parts des fonds communs de créances lorsque leur durée à l'émission est supérieure à cinq ans. Les articles 124 B et 124 C du même code s'appliquent lorsque cette durée est inférieure ou égale à cinq ans."
+      "content": "I. et II (Paragraphes modificateurs)\n\nIII.-Les produits des parts émises par les fonds communs de créances peuvent être soumis au prélèvement libératoire prévu au paragraphe I de l'article 125 A du code général des impôts au taux de 25 % si leur durée à l'émission est supérieure à cinq ans ou au taux de 32 % si cette durée est inférieure ou égale à cinq ans. Le boni de liquidation peut être soumis à ce prélèvement au taux de 45 %.\n\nLes articles 92 B, 238 septies A, et 238 septies B du code général des impôts s'appliquent aux parts des fonds communs de créances lorsque leur durée à l'émission est supérieure à cinq ans. Les articles 124 B et 124 C du même code s'appliquent lorsque cette durée est inférieure ou égale à cinq ans.",
+      "valid_from": "1988-12-31"
     },
     {
       "provision_ref": "art50",
       "section": "50",
       "title": "Article 50",
-      "content": "Les dispositions des chapitres Ier à VI entreront en vigueur le 1er octobre 1989."
+      "content": "Les dispositions des chapitres Ier à VI entreront en vigueur le 1er octobre 1989.",
+      "valid_from": "1988-12-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

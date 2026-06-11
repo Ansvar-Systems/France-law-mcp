@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'état d'urgence déclaré par le décret n° 2015-1475 du 14 novembre 2015 portant application de la loi n°55-385 du 3 avril 1955 et le décret n°2015-1493 du 18 novembre 2015 portant application outre-mer de la loi n° 55-385 du 3 avril 1955 est prorogé pour une durée de trois mois à compter du 26 novembre 2015."
+      "content": "L'état d'urgence déclaré par le décret n° 2015-1475 du 14 novembre 2015 portant application de la loi n°55-385 du 3 avril 1955 et le décret n°2015-1493 du 18 novembre 2015 portant application outre-mer de la loi n° 55-385 du 3 avril 1955 est prorogé pour une durée de trois mois à compter du 26 novembre 2015.",
+      "valid_from": "2015-11-21"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Il emporte, pour sa durée, application de l'article 11 de la loi n° 55-385 du 3 avril 1955 relative à l'état d'urgence, dans sa rédaction résultant du 7° de l'article 4 de la présente loi."
+      "content": "Il emporte, pour sa durée, application de l'article 11 de la loi n° 55-385 du 3 avril 1955 relative à l'état d'urgence, dans sa rédaction résultant du 7° de l'article 4 de la présente loi.",
+      "valid_from": "2015-11-21"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Il peut y être mis fin par décret en conseil des ministres avant l'expiration de ce délai. En ce cas, il en est rendu compte au Parlement."
+      "content": "Il peut y être mis fin par décret en conseil des ministres avant l'expiration de ce délai. En ce cas, il en est rendu compte au Parlement.",
+      "valid_from": "2015-11-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

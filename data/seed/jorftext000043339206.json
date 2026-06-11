@@ -12,13 +12,21 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les dispositions du présent chapitre entrent en vigueur à la date fixée par le décret prévu au premier alinéa de l'article 131-36 du code pénal dans sa rédaction résultant de la présente loi, et au plus tard six mois après la publication de la présente loi."
+      "content": "Les dispositions du présent chapitre entrent en vigueur à la date fixée par le décret prévu au premier alinéa de l'article 131-36 du code pénal dans sa rédaction résultant de la présente loi, et au plus tard six mois après la publication de la présente loi.",
+      "valid_from": "2021-04-10"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "I. à III. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- Code de procédure pénale\n\n- Code de la route.\n\n- Code pénal"
+      "content": "I. à III. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- Code de procédure pénale\n\n- Code de la route.\n\n- Code pénal",
+      "valid_from": "2021-04-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'article 1er de la loi n° 70-631 du 15 juillet 1970 relative à l'Ecole polytechnique est complété par deux alinéas ainsi rédigés :\" Pour l'accomplissement de cette mission, à vocation nationale et internationale, l'école dispense des formations de toute nature et organise des activités de recherche. Elle assure une formation de troisième cycle à des étudiants diplômés de l'école ou titulaires d'un diplôme de deuxième cycle ou équivalent.\" Elle peut engager des actions de coopération avec des établissements français et étrangers d'enseignement ou de recherche. \""
+      "content": "L'article 1er de la loi n° 70-631 du 15 juillet 1970 relative à l'Ecole polytechnique est complété par deux alinéas ainsi rédigés :\" Pour l'accomplissement de cette mission, à vocation nationale et internationale, l'école dispense des formations de toute nature et organise des activités de recherche. Elle assure une formation de troisième cycle à des étudiants diplômés de l'école ou titulaires d'un diplôme de deuxième cycle ou équivalent.\" Elle peut engager des actions de coopération avec des établissements français et étrangers d'enseignement ou de recherche. \"",
+      "valid_from": "1994-07-13"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le premier alinéa de l'article 8 de la loi n° 70-631 du 15 juillet 1970 précitée est abrogé."
+      "content": "Le premier alinéa de l'article 8 de la loi n° 70-631 du 15 juillet 1970 précitée est abrogé.",
+      "valid_from": "1994-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

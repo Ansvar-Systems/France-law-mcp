@@ -12,43 +12,56 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions annexées à la présente ordonnance constituent la partie législative du code de l'entrée et du séjour des étrangers et du droit d'asile."
+      "content": "Les dispositions annexées à la présente ordonnance constituent la partie législative du code de l'entrée et du séjour des étrangers et du droit d'asile.",
+      "valid_from": "2005-03-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions de la partie législative du code de l'entrée et du séjour des étrangers et du droit d'asile qui citent, en les reproduisant, des articles d'autres codes et de lois sont de plein droit modifiées par l'effet des modifications ultérieures de ces articles."
+      "content": "Les dispositions de la partie législative du code de l'entrée et du séjour des étrangers et du droit d'asile qui citent, en les reproduisant, des articles d'autres codes et de lois sont de plein droit modifiées par l'effet des modifications ultérieures de ces articles.",
+      "valid_from": "2005-03-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les références à des dispositions abrogées par l'article 4 de la présente ordonnance sont remplacées par des références aux dispositions correspondantes du code de l'entrée et du séjour des étrangers et du droit d'asile."
+      "content": "Les références à des dispositions abrogées par l'article 4 de la présente ordonnance sont remplacées par des références aux dispositions correspondantes du code de l'entrée et du séjour des étrangers et du droit d'asile.",
+      "valid_from": "2005-03-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Sont abrogés, sous réserve des articles 5 et 6 :1° L'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France, à l'exception de l'article 35 septies et de l'article 37 ;2° La loi n° 52-893 du 25 juillet 1952 relative au droit d'asile ;3° L'article 6 de la loi n° 84-622 du 17 juillet 1984 portant modification de l'ordonnance n° 45-2658 du 2 novembre 1945 et du code du travail et relative aux étrangers séjournant en France et aux titres uniques de séjour et de travail ;4° L'article 29 de la loi n° 98-170 du 16 mars 1998 relative à la nationalité ;5° L'article 76 de la loi n° 2003-239 du 18 mars 2003 pour la sécurité intérieure ;6° Les articles 87 et 89 de la loi n° 2003-1119 du 26 novembre 2003 relative à la maîtrise de l'immigration, au séjour des étrangers en France et à la nationalité."
+      "content": "Sont abrogés, sous réserve des articles 5 et 6 :1° L'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France, à l'exception de l'article 35 septies et de l'article 37 ;2° La loi n° 52-893 du 25 juillet 1952 relative au droit d'asile ;3° L'article 6 de la loi n° 84-622 du 17 juillet 1984 portant modification de l'ordonnance n° 45-2658 du 2 novembre 1945 et du code du travail et relative aux étrangers séjournant en France et aux titres uniques de séjour et de travail ;4° L'article 29 de la loi n° 98-170 du 16 mars 1998 relative à la nationalité ;5° L'article 76 de la loi n° 2003-239 du 18 mars 2003 pour la sécurité intérieure ;6° Les articles 87 et 89 de la loi n° 2003-1119 du 26 novembre 2003 relative à la maîtrise de l'immigration, au séjour des étrangers en France et à la nationalité.",
+      "valid_from": "2005-03-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. - L'abrogation prévue au 1° de l'article 4 ne prendra effet qu'à compter de la publication des dispositions réglementaires du code de l'entrée et du séjour des étrangers et du droit d'asile pour ce qui concerne les articles, alinéas, phrases et mots suivants :a) La deuxième phrase du quatrième alinéa et le cinquième alinéa de l'article 5-1 ;b) Les dixième, onzième et douzième alinéas de l'article 5-3 ;c) La dernière phrase du deuxième alinéa de l'article 8-2 ;d) Les septième et huitième alinéas de l'article 12 quater ;e) L'article 12 quinquies ;f) Le septième alinéa de l'article 24 ;g) La deuxième phrase du cinquième alinéa du II de l'article 29 ;h) Les troisième et quatrième alinéas de l'article 34 bis ;i) Dans la deuxième phrase du quatrième alinéa du VI de l'article 35 bis, les mots suivants : \"et définies par arrêté\" ;j) Au premier alinéa du I de l'article 35 quater, les mots suivants : \"et désignée par arrêté\" ;k) Le quatrième alinéa de l'article 35 sexies ;l) Le neuvième alinéa de l'article 35 octies ;m) L'article 35 nonies.II. - L'abrogation prévue au 2° de l'article 4 ne prendra effet qu'à compter de la publication des dispositions réglementaires du code de l'entrée et du séjour des étrangers et du droit d'asile pour ce qui concerne les articles, alinéas, phrases et mots suivants :a) La première phrase du septième alinéa de l'article 3 ;b) Les deuxième et troisième phrase du V de l'article 5 ;c) Le 2° de l'article 19.III. - L'abrogation de dispositions prévue à l'article 4, en tant que ces dispositions sont relatives à la désignation de l'autorité administrative compétente, ne prendra effet qu'à compter de la publication des dispositions réglementaires du code de l'entrée et du séjour des étrangers et du droit d'asile."
+      "content": "I. - L'abrogation prévue au 1° de l'article 4 ne prendra effet qu'à compter de la publication des dispositions réglementaires du code de l'entrée et du séjour des étrangers et du droit d'asile pour ce qui concerne les articles, alinéas, phrases et mots suivants :a) La deuxième phrase du quatrième alinéa et le cinquième alinéa de l'article 5-1 ;b) Les dixième, onzième et douzième alinéas de l'article 5-3 ;c) La dernière phrase du deuxième alinéa de l'article 8-2 ;d) Les septième et huitième alinéas de l'article 12 quater ;e) L'article 12 quinquies ;f) Le septième alinéa de l'article 24 ;g) La deuxième phrase du cinquième alinéa du II de l'article 29 ;h) Les troisième et quatrième alinéas de l'article 34 bis ;i) Dans la deuxième phrase du quatrième alinéa du VI de l'article 35 bis, les mots suivants : \"et définies par arrêté\" ;j) Au premier alinéa du I de l'article 35 quater, les mots suivants : \"et désignée par arrêté\" ;k) Le quatrième alinéa de l'article 35 sexies ;l) Le neuvième alinéa de l'article 35 octies ;m) L'article 35 nonies.II. - L'abrogation prévue au 2° de l'article 4 ne prendra effet qu'à compter de la publication des dispositions réglementaires du code de l'entrée et du séjour des étrangers et du droit d'asile pour ce qui concerne les articles, alinéas, phrases et mots suivants :a) La première phrase du septième alinéa de l'article 3 ;b) Les deuxième et troisième phrase du V de l'article 5 ;c) Le 2° de l'article 19.III. - L'abrogation de dispositions prévue à l'article 4, en tant que ces dispositions sont relatives à la désignation de l'autorité administrative compétente, ne prendra effet qu'à compter de la publication des dispositions réglementaires du code de l'entrée et du séjour des étrangers et du droit d'asile.",
+      "valid_from": "2005-03-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les dispositions de la présente ordonnance entreront en vigueur le premier jour du quatrième mois suivant sa publication."
+      "content": "Les dispositions de la présente ordonnance entreront en vigueur le premier jour du quatrième mois suivant sa publication.",
+      "valid_from": "2005-03-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Premier ministre, le ministre de l'intérieur, de la sécurité intérieure et des libertés locales, le ministre de l'emploi, du travail et de la cohésion sociale, le garde des sceaux, ministre de la justice, le ministre des affaires étrangères et la ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'intérieur, de la sécurité intérieure et des libertés locales, le ministre de l'emploi, du travail et de la cohésion sociale, le garde des sceaux, ministre de la justice, le ministre des affaires étrangères et la ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2005-03-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

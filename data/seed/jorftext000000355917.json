@@ -12,145 +12,175 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le sapeur-pompier volontaire victime d'un accident survenu ou atteint d'une maladie contractée en service ou à l'occasion du service a droit, dans les conditions prévues par la présente loi :\n\n1° Sa vie durant, à la gratuité des frais médicaux, chirurgicaux, pharmaceutiques et accessoires ainsi que des frais de transport, d'hospitalisation et d'appareillage et, d'une façon générale, des frais de traitement, de réadaptation fonctionnelle et de rééducation professionnelle directement entraînés par cet accident ou cette maladie ;\n\n2° A une indemnité journalière compensant la perte de revenus qu'il subit pendant la période d'incapacité temporaire de travail ;\n\n3° A une allocation ou une rente en cas d'invalidité permanente.\n\nEn outre, il ouvre droit pour ses ayants cause aux prestations prévues par la présente loi ;\n\n4° Au bénéfice des emplois réservés en application de l'article L. 393 du code des pensions militaires d'invalidité et des victimes de la guerre ;\n\nLe présent article est applicable quelle que soit la cause de l'accident survenu dans le temps et le lieu du service, dans l'exercice ou à l'occasion de l'exercice de l'activité du sapeur-pompier volontaire ou d'une activité qui en constitue le prolongement normal, en l'absence de faute personnelle ou de toute autre circonstance particulière détachant l'accident du service.\n\nLa présente loi est applicable au volontaire réalisant le service civique des sapeurs-pompiers mentionné au 3° du II de l'article L. 120-1 du code du service national."
+      "content": "Le sapeur-pompier volontaire victime d'un accident survenu ou atteint d'une maladie contractée en service ou à l'occasion du service a droit, dans les conditions prévues par la présente loi :\n\n1° Sa vie durant, à la gratuité des frais médicaux, chirurgicaux, pharmaceutiques et accessoires ainsi que des frais de transport, d'hospitalisation et d'appareillage et, d'une façon générale, des frais de traitement, de réadaptation fonctionnelle et de rééducation professionnelle directement entraînés par cet accident ou cette maladie ;\n\n2° A une indemnité journalière compensant la perte de revenus qu'il subit pendant la période d'incapacité temporaire de travail ;\n\n3° A une allocation ou une rente en cas d'invalidité permanente.\n\nEn outre, il ouvre droit pour ses ayants cause aux prestations prévues par la présente loi ;\n\n4° Au bénéfice des emplois réservés en application de l'article L. 393 du code des pensions militaires d'invalidité et des victimes de la guerre ;\n\nLe présent article est applicable quelle que soit la cause de l'accident survenu dans le temps et le lieu du service, dans l'exercice ou à l'occasion de l'exercice de l'activité du sapeur-pompier volontaire ou d'une activité qui en constitue le prolongement normal, en l'absence de faute personnelle ou de toute autre circonstance particulière détachant l'accident du service.\n\nLa présente loi est applicable au volontaire réalisant le service civique des sapeurs-pompiers mentionné au 3° du II de l'article L. 120-1 du code du service national.",
+      "valid_from": "2021-11-27"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le service départemental ou territorial d'incendie et de secours dans lequel le sapeur-pompier exerce habituellement ses fonctions verse directement aux praticiens, pharmaciens, auxiliaires médicaux, fournisseurs ainsi qu'aux établissements le montant des prestations fixées au deuxième alinéa (1°) de l'article 1er. Ce montant est calculé dans les conditions prévues par les dispositions prises pour l'application de l'article L. 871-1 du code de la sécurité sociale relatives à un reste à charge nul pour l'assuré social.\n\nLe service départemental ou territorial d'incendie et de secours rembourse au sapeur-pompier volontaire les frais engagés, après l'accord du médecin-chef, pour des soins thérapeutiques non pris en charge par l'assurance maladie obligatoire.\n\nLe service départemental ou territorial prend en charge le ticket modérateur visé à l'article L. 160-13  du même code et le forfait journalier mentionné à l'article L. 174-4 dudit code.\n\nL'intéressé a le libre choix de son praticien, de son pharmacien, de ses auxiliaires médicaux et de ses thérapeutes dont l'intervention est prescrite par le médecin.\n\nLes prestataires mentionnés au premier alinéa du présent article ne peuvent demander le versement d'aucuns honoraires ou autres frais au sapeur-pompier qui présente une feuille d'accident dont le modèle est fixé par arrêté ; toutefois, en cas de dépassement autorisé des tarifs, le prestataire peut demander au sapeur-pompier de lui verser le montant de ce dépassement."
+      "content": "Le service départemental ou territorial d'incendie et de secours dans lequel le sapeur-pompier exerce habituellement ses fonctions verse directement aux praticiens, pharmaciens, auxiliaires médicaux, fournisseurs ainsi qu'aux établissements le montant des prestations fixées au deuxième alinéa (1°) de l'article 1er. Ce montant est calculé dans les conditions prévues par les dispositions prises pour l'application de l'article L. 871-1 du code de la sécurité sociale relatives à un reste à charge nul pour l'assuré social.\n\nLe service départemental ou territorial d'incendie et de secours rembourse au sapeur-pompier volontaire les frais engagés, après l'accord du médecin-chef, pour des soins thérapeutiques non pris en charge par l'assurance maladie obligatoire.\n\nLe service départemental ou territorial prend en charge le ticket modérateur visé à l'article L. 160-13  du même code et le forfait journalier mentionné à l'article L. 174-4 dudit code.\n\nL'intéressé a le libre choix de son praticien, de son pharmacien, de ses auxiliaires médicaux et de ses thérapeutes dont l'intervention est prescrite par le médecin.\n\nLes prestataires mentionnés au premier alinéa du présent article ne peuvent demander le versement d'aucuns honoraires ou autres frais au sapeur-pompier qui présente une feuille d'accident dont le modèle est fixé par arrêté ; toutefois, en cas de dépassement autorisé des tarifs, le prestataire peut demander au sapeur-pompier de lui verser le montant de ce dépassement.",
+      "valid_from": "2021-11-27"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les frais d'hospitalisation, de traitement, de réadaptation fonctionnelle, de rééducation professionnelle et de transport de la victime dans un établissement de santé de toute nature ne peuvent être couverts que si cet établissement a été autorisé à délivrer des soins aux assurés sociaux conformément aux dispositions de l'article L. 162-21 du code de la sécurité sociale.\n\nLes tarifs des honoraires et frais accessoires dus aux praticiens pour soins donnés dans les établissements mentionnés à l'alinéa précédent et les tarifs d'hospitalisation sont fixés dans les conditions prévues par les dispositions prises pour l'application de l'article L. 871-1 du code de la sécurité sociale relatives à un reste à charge nul pour l'assuré social."
+      "content": "Les frais d'hospitalisation, de traitement, de réadaptation fonctionnelle, de rééducation professionnelle et de transport de la victime dans un établissement de santé de toute nature ne peuvent être couverts que si cet établissement a été autorisé à délivrer des soins aux assurés sociaux conformément aux dispositions de l'article L. 162-21 du code de la sécurité sociale.\n\nLes tarifs des honoraires et frais accessoires dus aux praticiens pour soins donnés dans les établissements mentionnés à l'alinéa précédent et les tarifs d'hospitalisation sont fixés dans les conditions prévues par les dispositions prises pour l'application de l'article L. 871-1 du code de la sécurité sociale relatives à un reste à charge nul pour l'assuré social.",
+      "valid_from": "2021-11-27"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "En cas de décès, à la suite d'un accident survenu ou d'une maladie contractée en service ou à l'occasion du service, les frais funéraires sont pris en charge par le service d'incendie et de secours dans les conditions fixées pour les accidents du travail dans le régime général de sécurité sociale."
+      "content": "En cas de décès, à la suite d'un accident survenu ou d'une maladie contractée en service ou à l'occasion du service, les frais funéraires sont pris en charge par le service d'incendie et de secours dans les conditions fixées pour les accidents du travail dans le régime général de sécurité sociale.",
+      "valid_from": "2021-11-27"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le montant de l'indemnité journalière destinée à compenser la perte de revenu subie pendant la période d'incapacité temporaire de travail est déterminé par référence aux derniers revenus professionnels de l'intéressé, dans les conditions fixées par décret en Conseil d'Etat.L'indemnité journalière ne peut en aucun cas être inférieure à un montant minimum fixé par décret.Elle n'est cessible et saisissable que dans les limites fixées pour les traitements des fonctionnaires territoriaux."
+      "content": "Le montant de l'indemnité journalière destinée à compenser la perte de revenu subie pendant la période d'incapacité temporaire de travail est déterminé par référence aux derniers revenus professionnels de l'intéressé, dans les conditions fixées par décret en Conseil d'Etat.L'indemnité journalière ne peut en aucun cas être inférieure à un montant minimum fixé par décret.Elle n'est cessible et saisissable que dans les limites fixées pour les traitements des fonctionnaires territoriaux.",
+      "valid_from": "1992-01-03"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "L'indemnité journalière est versée directement à l'intéressé par le service d'incendie et de secours du département dans lequel le sapeur-pompier volontaire exerce habituellement ses fonctions. Les frais funéraires sont payés par le même service pour le compte des ayants cause du sapeur-pompier volontaire décédé."
+      "content": "L'indemnité journalière est versée directement à l'intéressé par le service d'incendie et de secours du département dans lequel le sapeur-pompier volontaire exerce habituellement ses fonctions. Les frais funéraires sont payés par le même service pour le compte des ayants cause du sapeur-pompier volontaire décédé.",
+      "valid_from": "2021-11-27"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Lorsque l'accident s'est produit ou que la maladie a été contractée à l'occasion d'une opération de secours ou de lutte contre l'incendie en dehors du département dans lequel le sapeur-pompier volontaire exerce habituellement ses fonctions, la charge des prestations prévues aux articles 2 à 6 incombe :\n\n1° Au service d'incendie et de secours du département dans lequel a eu lieu l'opération ;\n\n2° A l'Etat si l'opération a été effectuée sur le territoire d'un Etat étranger, à la demande du Gouvernement dans les conditions prévues au dernier alinéa de l'article 27 de la loi n° 2004-811 du 13 août 2004 de modernisation de la sécurité civile."
+      "content": "Lorsque l'accident s'est produit ou que la maladie a été contractée à l'occasion d'une opération de secours ou de lutte contre l'incendie en dehors du département dans lequel le sapeur-pompier volontaire exerce habituellement ses fonctions, la charge des prestations prévues aux articles 2 à 6 incombe :\n\n1° Au service d'incendie et de secours du département dans lequel a eu lieu l'opération ;\n\n2° A l'Etat si l'opération a été effectuée sur le territoire d'un Etat étranger, à la demande du Gouvernement dans les conditions prévues au dernier alinéa de l'article 27 de la loi n° 2004-811 du 13 août 2004 de modernisation de la sécurité civile.",
+      "valid_from": "2021-11-27"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le service d'incendie et de secours qui a versé les prestations prévues aux articles 2 à 6 est subrogé de plein droit au sapeur-pompier ou à ses ayants cause dans les droits de ceux-ci aux indemnités journalières et au remboursement des honoraires et frais de soins qui leur sont dus par l'organisme d'assurance maladie auquel le sapeur-pompier est affilié.\n\nIl est également subrogé dans les droits du sapeur-pompier victime d'un accident provoqué par un tiers jusqu'à concurrence des sommes qu'il supporte du fait de cet accident.\n\nIl se fait rembourser par l'Etat ou le service d'incendie et de secours mentionné au deuxième alinéa (1°) de l'article 7 pour la part de ces prestations, non prise en charge par ailleurs, qui leur incombe."
+      "content": "Le service d'incendie et de secours qui a versé les prestations prévues aux articles 2 à 6 est subrogé de plein droit au sapeur-pompier ou à ses ayants cause dans les droits de ceux-ci aux indemnités journalières et au remboursement des honoraires et frais de soins qui leur sont dus par l'organisme d'assurance maladie auquel le sapeur-pompier est affilié.\n\nIl est également subrogé dans les droits du sapeur-pompier victime d'un accident provoqué par un tiers jusqu'à concurrence des sommes qu'il supporte du fait de cet accident.\n\nIl se fait rembourser par l'Etat ou le service d'incendie et de secours mentionné au deuxième alinéa (1°) de l'article 7 pour la part de ces prestations, non prise en charge par ailleurs, qui leur incombe.",
+      "valid_from": "2021-11-27"
     },
     {
       "provision_ref": "art8-1",
       "section": "8-1",
       "title": "Article 8-1",
-      "content": "Lorsqu'un service de l'Etat investi à titre permanent des missions de sécurité civile, mentionné au premier alinéa du I de l'article L. 721-2 du code de la sécurité intérieure, engage un sapeur-pompier volontaire, il exerce les compétences conférées par la présente section au service d'incendie et de secours."
+      "content": "Lorsqu'un service de l'Etat investi à titre permanent des missions de sécurité civile, mentionné au premier alinéa du I de l'article L. 721-2 du code de la sécurité intérieure, engage un sapeur-pompier volontaire, il exerce les compétences conférées par la présente section au service d'incendie et de secours.",
+      "valid_from": "2021-11-27"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "L'Etat participe pour moitié au règlement des dépenses liées au versement des prestations en nature de soins, non prises en charge par ailleurs."
+      "content": "L'Etat participe pour moitié au règlement des dépenses liées au versement des prestations en nature de soins, non prises en charge par ailleurs.",
+      "valid_from": "1992-01-03"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Le sapeur-pompier volontaire qui, dans les conditions prévues à l'article 1er de la présente loi, est atteint d'une invalidité dont le taux est au moins de 10 p. 100 et au plus de 50 p. 100 perçoit une allocation d'invalidité calculée et allouée dans les conditions applicables aux fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales."
+      "content": "Le sapeur-pompier volontaire qui, dans les conditions prévues à l'article 1er de la présente loi, est atteint d'une invalidité dont le taux est au moins de 10 p. 100 et au plus de 50 p. 100 perçoit une allocation d'invalidité calculée et allouée dans les conditions applicables aux fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales.",
+      "valid_from": "1992-01-03"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Lorsque le taux d'invalidité est supérieur à 50 p. 100, l'intéressé perçoit une rente d'invalidité. Un décret détermine, compte tenu de la durée des services des intéressés, le traitement à retenir par référence aux échelles de traitement applicables aux sapeurs-pompiers professionnels.La majoration pour assistance d'une tierce personne est accordée au titulaire d'une rente d'invalidité au taux et suivant les modalités fixés pour les fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales."
+      "content": "Lorsque le taux d'invalidité est supérieur à 50 p. 100, l'intéressé perçoit une rente d'invalidité. Un décret détermine, compte tenu de la durée des services des intéressés, le traitement à retenir par référence aux échelles de traitement applicables aux sapeurs-pompiers professionnels.La majoration pour assistance d'une tierce personne est accordée au titulaire d'une rente d'invalidité au taux et suivant les modalités fixés pour les fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales.",
+      "valid_from": "1992-01-03"
     },
     {
       "provision_ref": "art11-1",
       "section": "11-1",
       "title": "Article 11-1",
-      "content": "Lorsque le sapeur-pompier volontaire est atteint d'une invalidité l'obligeant à cesser définitivement l'activité professionnelle qu'il exerçait avant son accident ou sa maladie, l'allocation ou la rente à laquelle il peut prétendre au titre de l'article 10 ou de l'article 11 est calculée, s'il y a intérêt, sur la base des revenus qu'il tenait de cette dernière activité professionnelle.\" Le calcul de l'allocation ou de la rente tenant compte du taux d'invalidité subi par le sapeur-pompier volontaire est dans ce cas déterminé, par dérogation aux dispositions des articles 10 et 11, par référence à ces revenus.\" L'allocation ou la rente d'invalidité ainsi attribuée au sapeur-pompier volontaire est indexée dans les conditions fixées par décret en Conseil d'Etat. \""
+      "content": "Lorsque le sapeur-pompier volontaire est atteint d'une invalidité l'obligeant à cesser définitivement l'activité professionnelle qu'il exerçait avant son accident ou sa maladie, l'allocation ou la rente à laquelle il peut prétendre au titre de l'article 10 ou de l'article 11 est calculée, s'il y a intérêt, sur la base des revenus qu'il tenait de cette dernière activité professionnelle.\" Le calcul de l'allocation ou de la rente tenant compte du taux d'invalidité subi par le sapeur-pompier volontaire est dans ce cas déterminé, par dérogation aux dispositions des articles 10 et 11, par référence à ces revenus.\" L'allocation ou la rente d'invalidité ainsi attribuée au sapeur-pompier volontaire est indexée dans les conditions fixées par décret en Conseil d'Etat. \"",
+      "valid_from": "1996-05-04"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les avantages prévus aux articles 10, 11 et 11-1 donnent lieu à l'attribution d'un titre provisoire d'allocation ou de rente.Au terme d'une période de trois ans à compter de la date de cette attribution, il est procédé à un nouvel examen du taux d'invalidité indemnisable et à la concession du titre définitif."
+      "content": "Les avantages prévus aux articles 10, 11 et 11-1 donnent lieu à l'attribution d'un titre provisoire d'allocation ou de rente.Au terme d'une période de trois ans à compter de la date de cette attribution, il est procédé à un nouvel examen du taux d'invalidité indemnisable et à la concession du titre définitif.",
+      "valid_from": "1996-05-04"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les ayants cause, tels que définis au premier alinéa de l'article L. 434-8 du code de la sécurité sociale, du sapeur-pompier volontaire peuvent prétendre à une rente de réversion et, le cas échéant, à une pension d'orphelin, assises sur la rente d'invalidité dont bénéficiait l'intéressé, ou dont celui-ci aurait pu bénéficier au jour de son décès.\n\nCes prestations sont calculées et allouées dans les conditions fixées par la réglementation applicable aux fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales."
+      "content": "Les ayants cause, tels que définis au premier alinéa de l'article L. 434-8 du code de la sécurité sociale, du sapeur-pompier volontaire peuvent prétendre à une rente de réversion et, le cas échéant, à une pension d'orphelin, assises sur la rente d'invalidité dont bénéficiait l'intéressé, ou dont celui-ci aurait pu bénéficier au jour de son décès.\n\nCes prestations sont calculées et allouées dans les conditions fixées par la réglementation applicable aux fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales.",
+      "valid_from": "2011-07-22"
     },
     {
       "provision_ref": "art13-1",
       "section": "13-1",
       "title": "Article 13-1",
-      "content": "Le total des rentes de réversion et pensions d'orphelin attribuées aux ayants cause, tels que définis au premier alinéa de l'article L. 434-8 du code de la sécurité sociale et, le cas échéant, aux enfants du sapeur-pompier volontaire cité à titre posthume à l'ordre de la Nation est porté au montant de la rente d'invalidité dont le sapeur-pompier volontaire aurait pu bénéficier."
+      "content": "Le total des rentes de réversion et pensions d'orphelin attribuées aux ayants cause, tels que définis au premier alinéa de l'article L. 434-8 du code de la sécurité sociale et, le cas échéant, aux enfants du sapeur-pompier volontaire cité à titre posthume à l'ordre de la Nation est porté au montant de la rente d'invalidité dont le sapeur-pompier volontaire aurait pu bénéficier.",
+      "valid_from": "2011-07-22"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Les ayants cause, tels que définis au premier alinéa de l'article L. 434-8 du code de la sécurité sociale et, le cas échéant, les enfants du sapeur-pompier volontaire dont le décès a été reconnu imputable au service bénéficient, en outre, d'une indemnité calculée et attribuée suivant la règle fixée pour l'octroi d'un capital décès aux ayants cause des sapeurs-pompiers professionnels.\n\nCette indemnité est calculée par référence au traitement annuel retenu pour le calcul de la rente d'invalidité prévue à l'article 11."
+      "content": "Les ayants cause, tels que définis au premier alinéa de l'article L. 434-8 du code de la sécurité sociale et, le cas échéant, les enfants du sapeur-pompier volontaire dont le décès a été reconnu imputable au service bénéficient, en outre, d'une indemnité calculée et attribuée suivant la règle fixée pour l'octroi d'un capital décès aux ayants cause des sapeurs-pompiers professionnels.\n\nCette indemnité est calculée par référence au traitement annuel retenu pour le calcul de la rente d'invalidité prévue à l'article 11.",
+      "valid_from": "2011-07-22"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Lorsque le décès du sapeur-pompier volontaire ouvre droit à un capital décès au titre d'un régime de sécurité sociale, l'organisme chargé du paiement des prestations définies à l'article 14 est subrogé dans les droits des ayants cause du sapeur-pompier au versement de ce capital-décès."
+      "content": "Lorsque le décès du sapeur-pompier volontaire ouvre droit à un capital décès au titre d'un régime de sécurité sociale, l'organisme chargé du paiement des prestations définies à l'article 14 est subrogé dans les droits des ayants cause du sapeur-pompier au versement de ce capital-décès.",
+      "valid_from": "1992-01-03"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Les allocations, rentes, pensions et indemnités allouées en application des articles 10 à 14 sont à la charge de l'Etat.Elles ne sont cessibles et saisissables que dans les limites fixées pour les rentes d'invalidité des fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales.Les dispositions sur le cumul ne leur sont pas applicables."
+      "content": "Les allocations, rentes, pensions et indemnités allouées en application des articles 10 à 14 sont à la charge de l'Etat.Elles ne sont cessibles et saisissables que dans les limites fixées pour les rentes d'invalidité des fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales.Les dispositions sur le cumul ne leur sont pas applicables.",
+      "valid_from": "1992-01-03"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Les dispositions des articles L. 381-19 à L. 381-24 du code de la sécurité sociale sont étendues aux sapeurs-pompiers volontaires et à leurs ayants cause dans les conditions définies à l'article L. 381-25 du même code."
+      "content": "Les dispositions des articles L. 381-19 à L. 381-24 du code de la sécurité sociale sont étendues aux sapeurs-pompiers volontaires et à leurs ayants cause dans les conditions définies à l'article L. 381-25 du même code.",
+      "valid_from": "1992-01-03"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Les sapeurs-pompiers volontaires qui sont fonctionnaires, titulaires ou stagiaires, ou militaires bénéficient, en cas d'accident survenu ou de maladie contractée en service ou à l'occasion du service, du régime d'indemnisation fixé par les dispositions statutaires qui les régissent.\n\nLes intéressés peuvent toutefois demander, dans un délai déterminé à compter de la date de l'accident ou de la première constatation médicale de la maladie, le bénéfice du régime d'indemnisation institué par la présente loi s'ils y ont intérêt.\n\nA leur demande, le service départemental ou territorial d'incendie et de secours rembourse aux communes de moins de 10 000 habitants la rémunération, charges comprises, maintenue durant l'arrêt de travail du sapeur-pompier volontaire ainsi que les frais mentionnés au 1° de l'article 1er.\n\nEn cas de retard ou de défaillance dans la mise en œuvre du régime d'indemnisation incombant à l'autorité d'emploi compétente en application du premier alinéa, le service d'incendie et de secours procède au règlement immédiat des prestations afférentes au régime d'indemnisation institué par la présente loi et se fait rembourser ces prestations.\n\nLe présent article est applicable quelle que soit la cause de l'accident survenu dans le temps et le lieu du service, dans l'exercice ou à l'occasion de l'exercice de l'activité du sapeur-pompier volontaire ou d'une activité qui en constitue le prolongement normal, en l'absence de faute personnelle ou de toute autre circonstance particulière détachant l'accident du service."
+      "content": "Les sapeurs-pompiers volontaires qui sont fonctionnaires, titulaires ou stagiaires, ou militaires bénéficient, en cas d'accident survenu ou de maladie contractée en service ou à l'occasion du service, du régime d'indemnisation fixé par les dispositions statutaires qui les régissent.\n\nLes intéressés peuvent toutefois demander, dans un délai déterminé à compter de la date de l'accident ou de la première constatation médicale de la maladie, le bénéfice du régime d'indemnisation institué par la présente loi s'ils y ont intérêt.\n\nA leur demande, le service départemental ou territorial d'incendie et de secours rembourse aux communes de moins de 10 000 habitants la rémunération, charges comprises, maintenue durant l'arrêt de travail du sapeur-pompier volontaire ainsi que les frais mentionnés au 1° de l'article 1er.\n\nEn cas de retard ou de défaillance dans la mise en œuvre du régime d'indemnisation incombant à l'autorité d'emploi compétente en application du premier alinéa, le service d'incendie et de secours procède au règlement immédiat des prestations afférentes au régime d'indemnisation institué par la présente loi et se fait rembourser ces prestations.\n\nLe présent article est applicable quelle que soit la cause de l'accident survenu dans le temps et le lieu du service, dans l'exercice ou à l'occasion de l'exercice de l'activité du sapeur-pompier volontaire ou d'une activité qui en constitue le prolongement normal, en l'absence de faute personnelle ou de toute autre circonstance particulière détachant l'accident du service.",
+      "valid_from": "2021-11-27"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Aucun avantage supplémentaire ne peut être accordé par les collectivités locales et leurs établissements publics pour l'indemnisation des risques couverts par la présente loi.La présente loi s'applique à tous les sapeurs-pompiers volontaires, quel que soit le service dont ils dépendent."
+      "content": "Aucun avantage supplémentaire ne peut être accordé par les collectivités locales et leurs établissements publics pour l'indemnisation des risques couverts par la présente loi.La présente loi s'applique à tous les sapeurs-pompiers volontaires, quel que soit le service dont ils dépendent.",
+      "valid_from": "1992-01-03"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Les articles L. 354-1 à L. 354-10, le premier alinéa de l'article L. 354-11 et les articles L. 354-12 et L. 354-13 du code des communes sont abrogés.Au début du deuxième alinéa de l'article L. 354-11 du code des communes, le mot : \" Toutefois \" est supprimé."
+      "content": "Les articles L. 354-1 à L. 354-10, le premier alinéa de l'article L. 354-11 et les articles L. 354-12 et L. 354-13 du code des communes sont abrogés.Au début du deuxième alinéa de l'article L. 354-11 du code des communes, le mot : \" Toutefois \" est supprimé.",
+      "valid_from": "1992-01-03"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Un décret en Conseil d'Etat fixe les modalités d'application de la présente loi."
+      "content": "Un décret en Conseil d'Etat fixe les modalités d'application de la présente loi.",
+      "valid_from": "1992-01-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

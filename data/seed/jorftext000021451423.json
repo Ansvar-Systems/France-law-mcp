@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code général des collectivités territoriales est modifié conformément aux dispositions des articles 2 à 7  de la présente ordonnance."
+      "content": "Le code général des collectivités territoriales est modifié conformément aux dispositions des articles 2 à 7  de la présente ordonnance.",
+      "valid_from": "2009-12-12"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les dispositions des VIII, IX, X, XI et XIV de l'article 2, des I, II, III, V, VI, VII, VIII, XIII, XVI et XVIII de l'article 3 et des I, II et III de l'article 6 de la présente ordonnance sont applicables en Polynésie française."
+      "content": "Les dispositions des VIII, IX, X, XI et XIV de l'article 2, des I, II, III, V, VI, VII, VIII, XIII, XVI et XVIII de l'article 3 et des I, II et III de l'article 6 de la présente ordonnance sont applicables en Polynésie française.",
+      "valid_from": "2009-12-12"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les dispositions des X et XI de l'article 2 de la présente ordonnance sont applicables aux communes de Mayotte et à leurs établissements publics."
+      "content": "Les dispositions des X et XI de l'article 2 de la présente ordonnance sont applicables aux communes de Mayotte et à leurs établissements publics.",
+      "valid_from": "2009-12-12"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Le Premier ministre, le ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, la ministre auprès du ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, chargée de l'outre-mer, et le secrétaire d'Etat à l'intérieur et aux collectivités territoriales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, la ministre auprès du ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, chargée de l'outre-mer, et le secrétaire d'Etat à l'intérieur et aux collectivités territoriales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2009-12-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

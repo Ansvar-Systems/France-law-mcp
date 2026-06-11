@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. - L'article 1er est applicable sur tout le territoire de la République, sauf en Nouvelle-Calédonie.\n\nII. et III. - A modifié les dispositions suivantes :\n\n- Code de l'action sociale et des familles"
+      "content": "I. - L'article 1er est applicable sur tout le territoire de la République, sauf en Nouvelle-Calédonie.\n\nII. et III. - A modifié les dispositions suivantes :\n\n- Code de l'action sociale et des familles",
+      "valid_from": "2014-01-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La présente loi entre en vigueur le 1er janvier 2014."
+      "content": "La présente loi entre en vigueur le 1er janvier 2014.",
+      "valid_from": "2014-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,25 +12,35 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- LOI n° 62-1292 du 6 novembre 1962\n\nII. - Au plus tard le 1er juin 2023, le Gouvernement remet au Parlement un rapport comprenant :1° Une évaluation des moyens mis en œuvre par les candidats à l'élection du Président de la République pour l'application du III bis de l'article 3 de la loi n° 62-1292 du 6 novembre 1962 précitée ;2° Une analyse des évolutions juridiques et techniques nécessaires pour améliorer l'accessibilité de la propagande électorale aux personnes en situation de handicap, y compris lors des autres consultations électorales."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- LOI n° 62-1292 du 6 novembre 1962\n\nII. - Au plus tard le 1er juin 2023, le Gouvernement remet au Parlement un rapport comprenant :1° Une évaluation des moyens mis en œuvre par les candidats à l'élection du Président de la République pour l'application du III bis de l'article 3 de la loi n° 62-1292 du 6 novembre 1962 précitée ;2° Une analyse des évolutions juridiques et techniques nécessaires pour améliorer l'accessibilité de la propagande électorale aux personnes en situation de handicap, y compris lors des autres consultations électorales.",
+      "valid_from": "2021-03-31"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I., III. et IV. - A modifié les dispositions suivantes :\n\n- LOI n° 62-1292 du 6 novembre 1962\n\n- LOI n° 2016-506 du 25 avril 2016\n\nII. - Par dérogation au deuxième alinéa du II de l'article 3 de la loi n° 62-1292 du 6 novembre 1962 précitée, pour la prochaine élection du Président de la République organisée dans les conditions prévues au troisième alinéa de l'article 7 de la Constitution, la période au cours de laquelle le mandataire recueille les fonds destinés au financement de la campagne et règle les dépenses engagées en vue de l'élection court pendant les neuf mois précédant le premier jour du mois de l'élection et jusqu'à la date du dépôt du compte de campagne du candidat."
+      "content": "I., III. et IV. - A modifié les dispositions suivantes :\n\n- LOI n° 62-1292 du 6 novembre 1962\n\n- LOI n° 2016-506 du 25 avril 2016\n\nII. - Par dérogation au deuxième alinéa du II de l'article 3 de la loi n° 62-1292 du 6 novembre 1962 précitée, pour la prochaine élection du Président de la République organisée dans les conditions prévues au troisième alinéa de l'article 7 de la Constitution, la période au cours de laquelle le mandataire recueille les fonds destinés au financement de la campagne et règle les dépenses engagées en vue de l'élection court pendant les neuf mois précédant le premier jour du mois de l'élection et jusqu'à la date du dépôt du compte de campagne du candidat.",
+      "valid_from": "2021-03-31"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Pour la prochaine élection du Président de la République suivant la publication de la présente loi organique, toute publication ou diffusion de sondage, au sens de l'article 1er de la loi n° 77-808 du 19 juillet 1977 relative à la publication et à la diffusion de certains sondages d'opinion, est accompagnée des marges d'erreur des résultats publiés ou diffusés, le cas échéant par référence à la méthode aléatoire, établies sous la responsabilité de l'organisme qui l'a réalisé."
+      "content": "Pour la prochaine élection du Président de la République suivant la publication de la présente loi organique, toute publication ou diffusion de sondage, au sens de l'article 1er de la loi n° 77-808 du 19 juillet 1977 relative à la publication et à la diffusion de certains sondages d'opinion, est accompagnée des marges d'erreur des résultats publiés ou diffusés, le cas échéant par référence à la méthode aléatoire, établies sous la responsabilité de l'organisme qui l'a réalisé.",
+      "valid_from": "2021-03-31"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. - A modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- Loi n° 76-97 du 31 janvier 1976\n\nII. - Le a du 2° du I du présent article entre en vigueur à compter du prochain renouvellement général des conseillers des Français de l'étranger."
+      "content": "I. - A modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- Loi n° 76-97 du 31 janvier 1976\n\nII. - Le a du 2° du I du présent article entre en vigueur à compter du prochain renouvellement général des conseillers des Français de l'étranger.",
+      "valid_from": "2021-03-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

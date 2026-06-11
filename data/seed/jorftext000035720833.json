@@ -12,13 +12,21 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Les dispositions de la présente ordonnance entrent en vigueur le 3 janvier 2018, à l'exception du C de l'article 1er et des articles L. 214-175-2 à L. 214-175-8, qui entrent en vigueur le 1er janvier 2020.III.-Par dérogation aux dispositions des articles L. 214-175-2 à L. 214-175-8 du code monétaire et financier, tout organisme de titrisation constitué avant le 1er janvier 2020 demeure soumis aux dispositions de l'article L. 214-178, du second alinéa de l'article L. 214-181 et du II de l'article L. 214-183 du même code dans leur rédaction applicable avant le 3 janvier 2018, tant que l'organisme, s'il est constitué entre le 3 janvier 2018 et le 1er janvier 2020, ne procède pas à l'acquisition de nouveaux actifs après le 1er janvier 2020, et tant qu'aucune des modifications suivantes n'est apportée à ses statuts ou règlements, à moins que cette modification soit nécessaire à l'organisme pour recouvrer les sommes qui lui sont dues ou ait pour seul objectif de limiter les pertes qui pourraient ainsi en résulter :1° Désignation d'un dépositaire de substitution ;2° Création d'un nouveau compartiment ;3° Modification des caractéristiques des actifs éligibles à l'organisme ;4° Modification du montant, du nombre ou de la maturité des parts, actions, titres de créances ou emprunts émis ou contractés par l'organisme.Les organismes de titrisation et les fonds professionnels spécialisés peuvent se transformer sans dissolution en organismes de financement spécialisé.Les dispositions du premier alinéa de l'article L. 214-181 dans leur rédaction issue de la présente ordonnance ne s'appliquent pas aux fonds communs de titrisation constitués à la date d'entrée en vigueur de la présente ordonnance.\n\n-Code monétaire et financier"
+      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Les dispositions de la présente ordonnance entrent en vigueur le 3 janvier 2018, à l'exception du C de l'article 1er et des articles L. 214-175-2 à L. 214-175-8, qui entrent en vigueur le 1er janvier 2020.III.-Par dérogation aux dispositions des articles L. 214-175-2 à L. 214-175-8 du code monétaire et financier, tout organisme de titrisation constitué avant le 1er janvier 2020 demeure soumis aux dispositions de l'article L. 214-178, du second alinéa de l'article L. 214-181 et du II de l'article L. 214-183 du même code dans leur rédaction applicable avant le 3 janvier 2018, tant que l'organisme, s'il est constitué entre le 3 janvier 2018 et le 1er janvier 2020, ne procède pas à l'acquisition de nouveaux actifs après le 1er janvier 2020, et tant qu'aucune des modifications suivantes n'est apportée à ses statuts ou règlements, à moins que cette modification soit nécessaire à l'organisme pour recouvrer les sommes qui lui sont dues ou ait pour seul objectif de limiter les pertes qui pourraient ainsi en résulter :1° Désignation d'un dépositaire de substitution ;2° Création d'un nouveau compartiment ;3° Modification des caractéristiques des actifs éligibles à l'organisme ;4° Modification du montant, du nombre ou de la maturité des parts, actions, titres de créances ou emprunts émis ou contractés par l'organisme.Les organismes de titrisation et les fonds professionnels spécialisés peuvent se transformer sans dissolution en organismes de financement spécialisé.Les dispositions du premier alinéa de l'article L. 214-181 dans leur rédaction issue de la présente ordonnance ne s'appliquent pas aux fonds communs de titrisation constitués à la date d'entrée en vigueur de la présente ordonnance.\n\n-Code monétaire et financier",
+      "valid_from": "2019-05-24"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre, le ministre de l'économie et des finances et la ministre des outre-mer sont chargés, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie et des finances et la ministre des outre-mer sont chargés, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-10-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

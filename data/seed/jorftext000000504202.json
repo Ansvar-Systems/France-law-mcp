@@ -12,13 +12,21 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Par dérogation à l'article L. 4133-1 du code de la défense, les dispositions édictant des restrictions à l'admission dans les corps militaires ne sont pas opposables aux magistrats militaires, aux officiers greffiers et aux sous-officiers commis-greffiers et huissiers-appariteurs du service de la justice militaire qui demanderaient à être versés dans une armée ou un autre service commun.Un décret en Conseil d'Etat fixe les modalités d'application du présent article"
+      "content": "Par dérogation à l'article L. 4133-1 du code de la défense, les dispositions édictant des restrictions à l'admission dans les corps militaires ne sont pas opposables aux magistrats militaires, aux officiers greffiers et aux sous-officiers commis-greffiers et huissiers-appariteurs du service de la justice militaire qui demanderaient à être versés dans une armée ou un autre service commun.Un décret en Conseil d'Etat fixe les modalités d'application du présent article",
+      "valid_from": "2007-03-30"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Sous réserve des besoins de la justice militaire, les officiers et sous-officiers appartenant respectivement aux cadres des officiers greffiers, des commis-greffiers ou des huissiers-appariteurs du service de la justice militaire sont, sur leur demande, intégrés dans les corps de fonctionnaires des services judiciaires.Un décret en Conseil d'Etat fixe les modalités d'application du présent article."
+      "content": "Sous réserve des besoins de la justice militaire, les officiers et sous-officiers appartenant respectivement aux cadres des officiers greffiers, des commis-greffiers ou des huissiers-appariteurs du service de la justice militaire sont, sur leur demande, intégrés dans les corps de fonctionnaires des services judiciaires.Un décret en Conseil d'Etat fixe les modalités d'application du présent article.",
+      "valid_from": "1982-08-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

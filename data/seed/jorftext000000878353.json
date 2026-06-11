@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "A dater du 1er janvier 1950, les révisions et revalorisations des pensions et rentes de vieillesse, prévues par l'article 71 (paragraphe 2) de l'ordonnance n° 45-2454 du 19 octobre 1945 modifiée, interviennent, quel que soit l'âge des intéressés, à partir de la date d'effet des coefficients fixés en application dudit article.\n\nUn arrêté du ministre du travail et de la sécurité sociale déterminera les coefficients à appliquer, à partir du 1er janvier 1950, aux pensions et rentes en cours de jouissance au 31 décembre 1948, dont les titulaires n'ont pas atteint l'âge de soixante-cinq ans ou n'ont pas été reconnus inaptes au travail, afin de les faire bénéficier d'avantages analogues à ceux qui leur auraient été accordés si les dispositions de l'article 71, paragraphe 2, de l'ordonnance précitée avaient été applicables antérieurement au 1er janvier 1949."
+      "content": "A dater du 1er janvier 1950, les révisions et revalorisations des pensions et rentes de vieillesse, prévues par l'article 71 (paragraphe 2) de l'ordonnance n° 45-2454 du 19 octobre 1945 modifiée, interviennent, quel que soit l'âge des intéressés, à partir de la date d'effet des coefficients fixés en application dudit article.\n\nUn arrêté du ministre du travail et de la sécurité sociale déterminera les coefficients à appliquer, à partir du 1er janvier 1950, aux pensions et rentes en cours de jouissance au 31 décembre 1948, dont les titulaires n'ont pas atteint l'âge de soixante-cinq ans ou n'ont pas été reconnus inaptes au travail, afin de les faire bénéficier d'avantages analogues à ceux qui leur auraient été accordés si les dispositions de l'article 71, paragraphe 2, de l'ordonnance précitée avaient été applicables antérieurement au 1er janvier 1949.",
+      "valid_from": "1950-02-04"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'ensemble des avantages attribués à un pensionné ou à un rentier en application, tant des dispositions de l'ordonnance n° 45-170 du 2 février 1945, que de celles des ordonnances n° 45-2410 du 18 octobre 1945 et n° 45-2454 du 19 octobre 1945 modifiées , sont arrondis au multiple de 200 francs immédiatement supérieur.\n\nCette mesure prendra effet au 1er janvier 1950 et s'appliquera à la somme globale des avantages dont bénéficieront à cette date les pensionnés et les rentiers, et ce nonobstant les arrondissements auxquels il aura été antérieurement procédé, en exécution des textes en vigueur.\n\nLes dispositions de l'article 115, paragraphe 2, de l'ordonnance n° 45-2454 du 19 octobre 1945 et relatives à l'arrondissement séparé des rentes des retraites ouvrières et paysannes, ne seront applicables, à partir de la date précitée, que dans le cas où les intéressés ne bénéficieront pas, d'autre part, d'un avantage au titre de l'une des ordonnances susvisées."
+      "content": "L'ensemble des avantages attribués à un pensionné ou à un rentier en application, tant des dispositions de l'ordonnance n° 45-170 du 2 février 1945, que de celles des ordonnances n° 45-2410 du 18 octobre 1945 et n° 45-2454 du 19 octobre 1945 modifiées , sont arrondis au multiple de 200 francs immédiatement supérieur.\n\nCette mesure prendra effet au 1er janvier 1950 et s'appliquera à la somme globale des avantages dont bénéficieront à cette date les pensionnés et les rentiers, et ce nonobstant les arrondissements auxquels il aura été antérieurement procédé, en exécution des textes en vigueur.\n\nLes dispositions de l'article 115, paragraphe 2, de l'ordonnance n° 45-2454 du 19 octobre 1945 et relatives à l'arrondissement séparé des rentes des retraites ouvrières et paysannes, ne seront applicables, à partir de la date précitée, que dans le cas où les intéressés ne bénéficieront pas, d'autre part, d'un avantage au titre de l'une des ordonnances susvisées.",
+      "valid_from": "1950-02-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

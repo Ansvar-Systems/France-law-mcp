@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente ordonnance entre en vigueur à une date fixée par décret et au plus tard le 1er janvier 2024. Toutefois, le 3° de son article 1er créant les articles L. 125-2-1 à L. 125-2-4 du code des assurances entre en vigueur à une date fixée par décret et au plus tard le 1er janvier 2025."
+      "content": "La présente ordonnance entre en vigueur à une date fixée par décret et au plus tard le 1er janvier 2024. Toutefois, le 3° de son article 1er créant les articles L. 125-2-1 à L. 125-2-4 du code des assurances entre en vigueur à une date fixée par décret et au plus tard le 1er janvier 2025.",
+      "valid_from": "2024-01-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La Première ministre, le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, le ministre de l'intérieur et des outre-mer et le ministre de la transition écologique et de la cohésion des territoires sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "La Première ministre, le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, le ministre de l'intérieur et des outre-mer et le ministre de la transition écologique et de la cohésion des territoires sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2024-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

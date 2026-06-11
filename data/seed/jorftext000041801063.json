@@ -12,49 +12,63 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les fonctionnaires et agents contractuels de droit public de la fonction publique de l'Etat, les personnels ouvriers de l'Etat ainsi que les magistrats de l'ordre judiciaire en autorisation spéciale d'absence entre le 16 mars 2020 et le 31 mai 2020 inclus prennent dix jours de réduction du temps de travail ou de congés annuels au cours de cette période, dans les conditions suivantes :1° Cinq jours de réduction du temps de travail entre le 16 mars 2020 et le 16 avril 2020 ;2° Cinq autres jours de réduction du temps de travail ou de congés annuels entre le 17 avril 2020 et le terme de la période définie au premier alinéa.Les personnes mentionnées au premier alinéa qui ne disposent pas de cinq jours de réduction du temps de travail prennent au titre du 1°, selon leur nombre de jours de réduction du temps de travail disponibles, un ou plusieurs jours de congés annuels entre le 17 avril 2020 et le terme de la période définie au premier alinéa, dans la limite totale de six jours de congés annuels au titre du 1° et du 2°.Le chef de service précise les dates des jours de réduction du temps de travail ou de congés annuels à prendre après le 17 avril en respectant un délai de prévenance d'au moins un jour franc.Le nombre de jours de congés imposés est proratisé pour les agents exerçant leurs fonctions à temps partiel."
+      "content": "Les fonctionnaires et agents contractuels de droit public de la fonction publique de l'Etat, les personnels ouvriers de l'Etat ainsi que les magistrats de l'ordre judiciaire en autorisation spéciale d'absence entre le 16 mars 2020 et le 31 mai 2020 inclus prennent dix jours de réduction du temps de travail ou de congés annuels au cours de cette période, dans les conditions suivantes :1° Cinq jours de réduction du temps de travail entre le 16 mars 2020 et le 16 avril 2020 ;2° Cinq autres jours de réduction du temps de travail ou de congés annuels entre le 17 avril 2020 et le terme de la période définie au premier alinéa.Les personnes mentionnées au premier alinéa qui ne disposent pas de cinq jours de réduction du temps de travail prennent au titre du 1°, selon leur nombre de jours de réduction du temps de travail disponibles, un ou plusieurs jours de congés annuels entre le 17 avril 2020 et le terme de la période définie au premier alinéa, dans la limite totale de six jours de congés annuels au titre du 1° et du 2°.Le chef de service précise les dates des jours de réduction du temps de travail ou de congés annuels à prendre après le 17 avril en respectant un délai de prévenance d'au moins un jour franc.Le nombre de jours de congés imposés est proratisé pour les agents exerçant leurs fonctions à temps partiel.",
+      "valid_from": "2020-05-15"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Afin de tenir compte des nécessités de service, le chef de service peut imposer aux fonctionnaires et agents contractuels de droit public de la fonction publique de l'Etat, aux personnels ouvriers de l'Etat ainsi qu'aux magistrats judiciaires en télétravail ou assimilé entre le 17 avril 2020 et le 31 mai 2020 inclus de prendre cinq jours de réduction du temps de travail ou, à défaut, de congés annuels au cours de cette période.Le chef de service précise les dates des jours de réduction du temps de travail ou de congés annuels pris au titre de l'alinéa précédent en respectant un délai de prévenance d'au moins un jour franc."
+      "content": "Afin de tenir compte des nécessités de service, le chef de service peut imposer aux fonctionnaires et agents contractuels de droit public de la fonction publique de l'Etat, aux personnels ouvriers de l'Etat ainsi qu'aux magistrats judiciaires en télétravail ou assimilé entre le 17 avril 2020 et le 31 mai 2020 inclus de prendre cinq jours de réduction du temps de travail ou, à défaut, de congés annuels au cours de cette période.Le chef de service précise les dates des jours de réduction du temps de travail ou de congés annuels pris au titre de l'alinéa précédent en respectant un délai de prévenance d'au moins un jour franc.",
+      "valid_from": "2020-05-15"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les jours de réduction du temps de travail pris au titre des articles 1er et 2 peuvent l'être parmi ceux épargnés sur le compte épargne-temps.Les jours de congés annuels imposés au titre de ces mêmes articles ne sont pas pris en compte pour l'attribution d'un ou de deux jours de congés annuels complémentaires au titre du fractionnement des congés annuels."
+      "content": "Les jours de réduction du temps de travail pris au titre des articles 1er et 2 peuvent l'être parmi ceux épargnés sur le compte épargne-temps.Les jours de congés annuels imposés au titre de ces mêmes articles ne sont pas pris en compte pour l'attribution d'un ou de deux jours de congés annuels complémentaires au titre du fractionnement des congés annuels.",
+      "valid_from": "2020-04-17"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - Le nombre de jours de congés imposés au titre de l'article 1er et susceptibles de l'être au titre de l'article 2 est proratisé en fonction du nombre de jours accomplis en autorisation spéciale d'absence et en télétravail ou assimilé au cours de la période de référence définie au premier alinéa de l'article 1er.II. - Le nombre de jours pris volontairement pendant la période définie au premier alinéa de l'article 1er et de l'article 2 au titre de la réduction du temps de travail ou des congés annuels, par les fonctionnaires et agents contractuels de droit public de la fonction publique de l'Etat, les personnels ouvriers de l'Etat ainsi que les magistrats de l'ordre judiciaire est déduit du nombre de jours de réduction du temps de travail ou de congés annuels à prendre en application des articles 1er et 2."
+      "content": "I. - Le nombre de jours de congés imposés au titre de l'article 1er et susceptibles de l'être au titre de l'article 2 est proratisé en fonction du nombre de jours accomplis en autorisation spéciale d'absence et en télétravail ou assimilé au cours de la période de référence définie au premier alinéa de l'article 1er.II. - Le nombre de jours pris volontairement pendant la période définie au premier alinéa de l'article 1er et de l'article 2 au titre de la réduction du temps de travail ou des congés annuels, par les fonctionnaires et agents contractuels de droit public de la fonction publique de l'Etat, les personnels ouvriers de l'Etat ainsi que les magistrats de l'ordre judiciaire est déduit du nombre de jours de réduction du temps de travail ou de congés annuels à prendre en application des articles 1er et 2.",
+      "valid_from": "2020-04-17"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le chef de service peut réduire le nombre de jours de réduction de temps de travail ou de congés annuels imposés au titre des articles 1er, 2 ou 4 pour tenir compte du nombre de jours pendant lesquels la personne a été placée en congés de maladie pendant la période définie au premier alinéa de l'article 1er et de l'article 2."
+      "content": "Le chef de service peut réduire le nombre de jours de réduction de temps de travail ou de congés annuels imposés au titre des articles 1er, 2 ou 4 pour tenir compte du nombre de jours pendant lesquels la personne a été placée en congés de maladie pendant la période définie au premier alinéa de l'article 1er et de l'article 2.",
+      "valid_from": "2020-04-17"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "La présente ordonnance n'est pas applicable aux agents relevant des régimes d'obligations de service définis par les statuts particuliers de leurs corps ou dans un texte réglementaire relatif à un ou plusieurs corps."
+      "content": "La présente ordonnance n'est pas applicable aux agents relevant des régimes d'obligations de service définis par les statuts particuliers de leurs corps ou dans un texte réglementaire relatif à un ou plusieurs corps.",
+      "valid_from": "2020-04-17"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les dispositions de la présente ordonnance peuvent être appliquées aux agents publics relevant de la loi du 26 janvier 1984 susvisée par décision de l'autorité territoriale, dans les conditions définies par celle-ci.Lorsque l'autorité territoriale fait usage de cette faculté, les fonctionnaires et agents contractuels de droit public occupant des emplois permanents à temps non complet sont assimilés à des agents publics à temps partiel."
+      "content": "Les dispositions de la présente ordonnance peuvent être appliquées aux agents publics relevant de la loi du 26 janvier 1984 susvisée par décision de l'autorité territoriale, dans les conditions définies par celle-ci.Lorsque l'autorité territoriale fait usage de cette faculté, les fonctionnaires et agents contractuels de droit public occupant des emplois permanents à temps non complet sont assimilés à des agents publics à temps partiel.",
+      "valid_from": "2020-04-17"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le Premier ministre, le ministre de l'action et des comptes publics et la ministre de la cohésion des territoires et des relations avec les collectivités territoriales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'action et des comptes publics et la ministre de la cohésion des territoires et des relations avec les collectivités territoriales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-04-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

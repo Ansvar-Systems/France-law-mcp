@@ -12,25 +12,35 @@
       "provision_ref": "art74",
       "section": "74",
       "title": "Article 74",
-      "content": "Hormis le cas de faute commise par le maître d'ouvrage ou par ses préposés, l'Etat et ses établissements publics ne peuvent mettre en cause la responsabilité d'une collectivité territoriale ou d'un groupement de collectivités territoriales qui assurerait la maîtrise d'ouvrage au titre des dégâts et dommages sur les ouvrages appartenant à leur domaine provoqués, en situation de catastrophe naturelle, par les conséquences de travaux d'aménagement hydraulique destinés à ralentir les crues, réalisés sous la maîtrise d'ouvrage de la collectivité territoriale ou du groupement de collectivités territoriales et financés conjointement par la collectivité territoriale ou le groupement de collectivités territoriales et l'Etat ou l'un de ses établissements publics."
+      "content": "Hormis le cas de faute commise par le maître d'ouvrage ou par ses préposés, l'Etat et ses établissements publics ne peuvent mettre en cause la responsabilité d'une collectivité territoriale ou d'un groupement de collectivités territoriales qui assurerait la maîtrise d'ouvrage au titre des dégâts et dommages sur les ouvrages appartenant à leur domaine provoqués, en situation de catastrophe naturelle, par les conséquences de travaux d'aménagement hydraulique destinés à ralentir les crues, réalisés sous la maîtrise d'ouvrage de la collectivité territoriale ou du groupement de collectivités territoriales et financés conjointement par la collectivité territoriale ou le groupement de collectivités territoriales et l'Etat ou l'un de ses établissements publics.",
+      "valid_from": "2003-07-31"
     },
     {
       "provision_ref": "art81",
       "section": "81",
       "title": "Article 81",
-      "content": "I. - Les dispositions de l'article 1er de la présente loi ne s'appliquent pas aux enquêtes ouvertes avant sa publication.II. - Les plans de prévention des risques technologiques sont élaborés et approuvés dans un délai de cinq ans suivant la publication de la présente loi.III. - Les dispositions de l'article L. 128-2 du code des assurances, issues de l'article 17 de la présente loi, sont applicables aux contrats en cours."
+      "content": "I. - Les dispositions de l'article 1er de la présente loi ne s'appliquent pas aux enquêtes ouvertes avant sa publication.II. - Les plans de prévention des risques technologiques sont élaborés et approuvés dans un délai de cinq ans suivant la publication de la présente loi.III. - Les dispositions de l'article L. 128-2 du code des assurances, issues de l'article 17 de la présente loi, sont applicables aux contrats en cours.",
+      "valid_from": "2003-07-31"
     },
     {
       "provision_ref": "art83",
       "section": "83",
       "title": "Article 83",
-      "content": "Les juridictions d'instruction et de jugement saisies en application de l'article L. 218-29 du code de l'environnement avant la promulgation de la loi n° 2003-346 du 15 avril 2003 relative à la création d'une zone de protection écologique au large des côtes du territoire de la République demeurent compétentes jusqu'à l'issue de la procédure."
+      "content": "Les juridictions d'instruction et de jugement saisies en application de l'article L. 218-29 du code de l'environnement avant la promulgation de la loi n° 2003-346 du 15 avril 2003 relative à la création d'une zone de protection écologique au large des côtes du territoire de la République demeurent compétentes jusqu'à l'issue de la procédure.",
+      "valid_from": "2003-07-31"
     },
     {
       "provision_ref": "art84",
       "section": "84",
       "title": "Article 84",
-      "content": "Nonobstant toutes dispositions contraires, l'injection d'effluents industriels dans la structure géologique, dénommée Crétace 4000, située dans la région de Lacq (Pyrénées-Atlantiques) peut-être autorisée, après avis du    Conseil supérieur de la prévention des risques technologiques, sous réserve que l'exploitant des injections démontre par une étude de sûreté à long terme leur innocuité pour la matrice réceptrice, notamment vis-à-vis de son confinement naturel."
+      "content": "Nonobstant toutes dispositions contraires, l'injection d'effluents industriels dans la structure géologique, dénommée Crétace 4000, située dans la région de Lacq (Pyrénées-Atlantiques) peut-être autorisée, après avis du    Conseil supérieur de la prévention des risques technologiques, sous réserve que l'exploitant des injections démontre par une étude de sûreté à long terme leur innocuité pour la matrice réceptrice, notamment vis-à-vis de son confinement naturel.",
+      "valid_from": "2010-04-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

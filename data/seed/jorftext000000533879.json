@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est autorisée la ratification de la quatrième convention entre les Etats membres de la Communauté européenne et la Communauté européenne, d'une part, des Etats d'Afrique, des Caraïbes et du Pacifique, d'autre part, signée à Lomé le 15 décembre 1989 et dont le texte est annexé à la présente loi (2).(2) Il sera publié ultérieurement au Journal officiel de la République française."
+      "content": "Est autorisée la ratification de la quatrième convention entre les Etats membres de la Communauté européenne et la Communauté européenne, d'une part, des Etats d'Afrique, des Caraïbes et du Pacifique, d'autre part, signée à Lomé le 15 décembre 1989 et dont le texte est annexé à la présente loi (2).(2) Il sera publié ultérieurement au Journal officiel de la République française.",
+      "valid_from": "1994-01-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Est autorisée l'approbation de l'accord interne de 1990 relatif au financement et à la gestion des aides de la Communauté européenne, fait à Bruxelles le 17 juillet 1990 et dont le texte est annexé à la présente loi (2).(2) Il sera publié ultérieurement au Journal officiel de la République française."
+      "content": "Est autorisée l'approbation de l'accord interne de 1990 relatif au financement et à la gestion des aides de la Communauté européenne, fait à Bruxelles le 17 juillet 1990 et dont le texte est annexé à la présente loi (2).(2) Il sera publié ultérieurement au Journal officiel de la République française.",
+      "valid_from": "1991-01-06"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Est autorisée l'approbation de l'accord interne relatif aux mesures à prendre et aux procédures à suivre pour l'application de la troisième convention A.C.P.-C.E.E., fait à Bruxelles le 17 juillet 1990 et dont le texte est annexé à la présente loi (2).(2) Il sera publié ultérieurement au Journal officiel de la République française."
+      "content": "Est autorisée l'approbation de l'accord interne relatif aux mesures à prendre et aux procédures à suivre pour l'application de la troisième convention A.C.P.-C.E.E., fait à Bruxelles le 17 juillet 1990 et dont le texte est annexé à la présente loi (2).(2) Il sera publié ultérieurement au Journal officiel de la République française.",
+      "valid_from": "1991-01-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

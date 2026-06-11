@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions de l'article 8 de l'ordonnance susvisée du 29 décembre 1958 concernant la représentation des activités économiques et sociales algériennes et sahariennes sont abrogées. Le mandat des conseillers nommés au titre de cette représentation prend fin à la date de publication de la présente ordonnance."
+      "content": "Les dispositions de l'article 8 de l'ordonnance susvisée du 29 décembre 1958 concernant la représentation des activités économiques et sociales algériennes et sahariennes sont abrogées. Le mandat des conseillers nommés au titre de cette représentation prend fin à la date de publication de la présente ordonnance.",
+      "valid_from": "1962-08-09"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "En vue d'assurer la représentation des intérêts économiques et sociaux français en Algérie et des activités se rapportant à la coopération économique entre la France et l'Algérie, le nombre des personnalités visées au 8° de l'article 7 de l'ordonnance du 29 décembre 1958 est porté à 25."
+      "content": "En vue d'assurer la représentation des intérêts économiques et sociaux français en Algérie et des activités se rapportant à la coopération économique entre la France et l'Algérie, le nombre des personnalités visées au 8° de l'article 7 de l'ordonnance du 29 décembre 1958 est porté à 25.",
+      "valid_from": "1962-08-09"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le bureau du Conseil économique, social et environnemental est habilité à prendre les dispositions nécessaires au règlement de la situation des conseillers qui cessent d'appartenir à cette assemblée en exécution des dispositions de l'article 1er ci-dessus."
+      "content": "Le bureau du Conseil économique, social et environnemental est habilité à prendre les dispositions nécessaires au règlement de la situation des conseillers qui cessent d'appartenir à cette assemblée en exécution des dispositions de l'article 1er ci-dessus.",
+      "valid_from": "2010-06-30"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le mandat des personnalités nommées en application des dispositions de l'article 2 de la présente ordonnance prend fin lors du renouvellement intégral du Conseil économique, social et environnemental."
+      "content": "Le mandat des personnalités nommées en application des dispositions de l'article 2 de la présente ordonnance prend fin lors du renouvellement intégral du Conseil économique, social et environnemental.",
+      "valid_from": "2010-06-30"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre et le ministre d'Etat chargé des affaires algériennes sont chargés de l'exécution de la présente ordonnance qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre d'Etat chargé des affaires algériennes sont chargés de l'exécution de la présente ordonnance qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "1962-08-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

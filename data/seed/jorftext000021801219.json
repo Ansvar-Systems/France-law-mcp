@@ -12,7 +12,14 @@
       "provision_ref": "art65",
       "section": "65",
       "title": "Article 65",
-      "content": "Tous les militaires, tous les employés et ouvriers de toutes administrations publiques ont droit à la communication personnelle et confidentielle de toutes les notes, feuilles signalétiques et tous autres documents composant leur dossier, soit avant d'être l'objet d'une mesure disciplinaire ou d'un déplacement d'office, soit avant d'être retardé dans leur avancement à l'ancienneté."
+      "content": "Tous les militaires, tous les employés et ouvriers de toutes administrations publiques ont droit à la communication personnelle et confidentielle de toutes les notes, feuilles signalétiques et tous autres documents composant leur dossier, soit avant d'être l'objet d'une mesure disciplinaire ou d'un déplacement d'office, soit avant d'être retardé dans leur avancement à l'ancienneté.",
+      "valid_from": "2022-03-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

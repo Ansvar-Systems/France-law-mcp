@@ -12,19 +12,28 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "L'accroissement des charges résultant pour les communes ou leurs établissements publics de coopération des dispositions du 4° de l'article 2 est accompagné d'une compensation financière dans les conditions fixées aux articles L. 1614-1-1, L. 1614-3, L. 1614-3-1, L. 1614-5-1 et L. 1614-6 du code général des collectivités territoriales, selon des modalités déterminées en loi de finances."
+      "content": "L'accroissement des charges résultant pour les communes ou leurs établissements publics de coopération des dispositions du 4° de l'article 2 est accompagné d'une compensation financière dans les conditions fixées aux articles L. 1614-1-1, L. 1614-3, L. 1614-3-1, L. 1614-5-1 et L. 1614-6 du code général des collectivités territoriales, selon des modalités déterminées en loi de finances.",
+      "valid_from": "2022-12-24"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le diagnostic prévu par l'article L. 2224-7-2 du code général des collectivités territoriales, introduit par l'article 2 de la présente ordonnance, est réalisé par les communes ou leurs établissements publics de coopération au plus tard le 1er janvier 2025. Il est réalisé au plus tard le 1er janvier 2027 pour les communautés de communes qui deviennent compétentes en matière d'eau au 1er janvier 2026.La communication annuelle prévue par l'article L. 2224-7-4 du même code, introduit par l'article 2 de la présente ordonnance, s'effectue à compter du 1er janvier 2025 pour les communes ou leurs établissements de coopération et à compter du 1er janvier 2027 pour les communautés de communes devenues compétentes dans le domaine de l'eau au 1er janvier 2026."
+      "content": "Le diagnostic prévu par l'article L. 2224-7-2 du code général des collectivités territoriales, introduit par l'article 2 de la présente ordonnance, est réalisé par les communes ou leurs établissements publics de coopération au plus tard le 1er janvier 2025. Il est réalisé au plus tard le 1er janvier 2027 pour les communautés de communes qui deviennent compétentes en matière d'eau au 1er janvier 2026.La communication annuelle prévue par l'article L. 2224-7-4 du même code, introduit par l'article 2 de la présente ordonnance, s'effectue à compter du 1er janvier 2025 pour les communes ou leurs établissements de coopération et à compter du 1er janvier 2027 pour les communautés de communes devenues compétentes dans le domaine de l'eau au 1er janvier 2026.",
+      "valid_from": "2022-12-24"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "La Première ministre, le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, le ministre de l'intérieur et des outre-mer, le ministre de la transition écologique et de la cohésion des territoires et le ministre de la santé et de la prévention sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "La Première ministre, le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, le ministre de l'intérieur et des outre-mer, le ministre de la transition écologique et de la cohésion des territoires et le ministre de la santé et de la prévention sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2022-12-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

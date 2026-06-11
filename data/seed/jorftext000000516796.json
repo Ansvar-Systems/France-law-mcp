@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les membres du Parlement ne sont autorisés à déléguer leur droit de vote que dans les cas suivants :\n\n1° Maladie, accident ou événement familial grave empêchant le parlementaire de se déplacer ;\n\n2° Mission temporaire confiée par le Gouvernement ;\n\n3° Service militaire accompli en temps de paix ou en temps de guerre ;\n\n4° Participation aux travaux des assemblées internationales en vertu d'une désignation faite par l'Assemblée nationale ou le Sénat ;\n\n5° En cas de session extraordinaire, absence de la métropole ;\n\n6° Cas de force majeure appréciés par décision des bureaux des assemblées.\n\nIl ne peut y avoir de délégation lors d'un scrutin destiné à recueillir l'avis de la commission permanente compétente de chaque assemblée sur une proposition de nomination selon la procédure prévue au cinquième alinéa de l'article 13 de la Constitution."
+      "content": "Les membres du Parlement ne sont autorisés à déléguer leur droit de vote que dans les cas suivants :\n\n1° Maladie, accident ou événement familial grave empêchant le parlementaire de se déplacer ;\n\n2° Mission temporaire confiée par le Gouvernement ;\n\n3° Service militaire accompli en temps de paix ou en temps de guerre ;\n\n4° Participation aux travaux des assemblées internationales en vertu d'une désignation faite par l'Assemblée nationale ou le Sénat ;\n\n5° En cas de session extraordinaire, absence de la métropole ;\n\n6° Cas de force majeure appréciés par décision des bureaux des assemblées.\n\nIl ne peut y avoir de délégation lors d'un scrutin destiné à recueillir l'avis de la commission permanente compétente de chaque assemblée sur une proposition de nomination selon la procédure prévue au cinquième alinéa de l'article 13 de la Constitution.",
+      "valid_from": "2010-07-25"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La délégation doit être écrite, signée et adressée par le délégant au délégué. Pour être valable, elle doit être notifiée au président de l'assemblée à laquelle appartient le parlementaire avant l'ouverture du scrutin   ou du premier des scrutins auxquels l'intéressé ne peut prendre part. La notification doit indiquer le nom du parlementaire appelé à voter aux lieu et place du délégant ainsi que le motif de l'empêchement. La délégation ainsi que sa notification doivent, en outre, indiquer la durée de l'empêchement. A défaut, la délégation est considérée comme faite pour une durée de huit jours. Sauf renouvellement dans ce délai, elle devient caduque à l'expiration de celui-ci.Toute délégation peut être retirée, dans les mêmes formes, au cours de sa période d'application.En cas d'urgence, la délégation et sa notification peuvent être faites par télégramme, sous réserve de confirmation immédiate dans les formes prévues ci-dessus."
+      "content": "La délégation doit être écrite, signée et adressée par le délégant au délégué. Pour être valable, elle doit être notifiée au président de l'assemblée à laquelle appartient le parlementaire avant l'ouverture du scrutin   ou du premier des scrutins auxquels l'intéressé ne peut prendre part. La notification doit indiquer le nom du parlementaire appelé à voter aux lieu et place du délégant ainsi que le motif de l'empêchement. La délégation ainsi que sa notification doivent, en outre, indiquer la durée de l'empêchement. A défaut, la délégation est considérée comme faite pour une durée de huit jours. Sauf renouvellement dans ce délai, elle devient caduque à l'expiration de celui-ci.Toute délégation peut être retirée, dans les mêmes formes, au cours de sa période d'application.En cas d'urgence, la délégation et sa notification peuvent être faites par télégramme, sous réserve de confirmation immédiate dans les formes prévues ci-dessus.",
+      "valid_from": "1958-11-09"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi organique."
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi organique.",
+      "valid_from": "1958-11-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

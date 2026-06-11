@@ -12,13 +12,21 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "La présente loi entrera en vigueur à partir du 1er janvier 1972."
+      "content": "La présente loi entrera en vigueur à partir du 1er janvier 1972.",
+      "valid_from": "1972-01-01"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les dispositions de la présente loi seront applicables de plein droit, quelles que soient les dates des libéralités en cause, aux successions ouvertes postérieurement à son entrée en vigueur. Elles s'appliqueront également, à moins de conventions contraires, aux successions non encore liquidées, lorsqu'aucune demande en partage n'aura été introduite avant le 15 avril 1971.Pour les demandes en partage formées entre le 15 avril 1971 et le 1er janvier 1972, le tribunal sursoit à statuer jusqu'à cette dernière date pour tout ce qui concerne l'application du droit nouveau."
+      "content": "Les dispositions de la présente loi seront applicables de plein droit, quelles que soient les dates des libéralités en cause, aux successions ouvertes postérieurement à son entrée en vigueur. Elles s'appliqueront également, à moins de conventions contraires, aux successions non encore liquidées, lorsqu'aucune demande en partage n'aura été introduite avant le 15 avril 1971.Pour les demandes en partage formées entre le 15 avril 1971 et le 1er janvier 1972, le tribunal sursoit à statuer jusqu'à cette dernière date pour tout ce qui concerne l'application du droit nouveau.",
+      "valid_from": "1972-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

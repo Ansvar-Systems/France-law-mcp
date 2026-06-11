@@ -1,0 +1,32 @@
+{
+  "id": "jorftext000053298845",
+  "type": "statute",
+  "title": "Ordonnance n°2026-2 du 5 janvier 2026",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053298845",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Article 26",
+      "content": "I. - La présente ordonnance entre en vigueur le 19 juin 2026, à l'exception de l'article 9, qui entre en vigueur le 1janvier 2027, et de l'article 18, qui entre en vigueur le 11 août 2026.II. - Les contrats en cours au 19 juin 2026 restent régis par les dispositions pertinentes du code des assurances, du code de la consommation, du code monétaire et financier, du code de la mutualité et du code de la sécurité sociale dans leur rédaction antérieure à l'entrée en vigueur de la présente ordonnance.",
+      "valid_from": "2026-01-07"
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Article 27",
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2026-01-07"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

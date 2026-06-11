@@ -1,0 +1,34 @@
+{
+  "id": "jorftext000000878369",
+  "type": "statute",
+  "title": "Loi n° 68-917 du 24 octobre 1968",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000878369",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Il peut exercer, notamment par l'intermédiaire de prises de participations dans des personnes morales, des activités ou réaliser des acquisitions dont l'objet est de nature à concourir, à l'intérieur ou à l'extérieur de sa circonscription, au développement du port.",
+      "valid_from": "2010-07-14",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Le conseil d'administration est composé, dans les conditions et suivant les modalités déterminées par un décret en Conseil d'Etat :\n\nPour moitié : de membres désignés par les collectivités locales et par les      chambres de commerce et d'industrie territoriales de la circonscription du port autonome de Paris, ainsi que de représentants du personnel de ce port ; le nombre de représentants des collectivités locales sera au moins égal au tiers du nombre des membres du conseil d'administration ;\n\nPour moitié : de membres représentant l'Etat et de personnalités choisies parmi les principaux usagers du port ou désignées en raison de leur compétence dans les problèmes portuaires, de la navigation, des transports, de l'économie régionale et de l'économie générale.\n\nLes membres autres que ceux désignés par les collectivités locales et par les      chambres de commerce et d'industrie territoriales sont nommés par décret sur proposition du ministre de l'équipement et du logement.\n\nLes représentants du personnel de l'établissement public sont choisis sur les listes établies par chacune des organisations syndicales les plus représentatives.\n\nLe conseil d'administration élit un président choisi parmi ses membres.",
+      "valid_from": "2010-07-25",
+      "valid_to": "2222-02-22"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

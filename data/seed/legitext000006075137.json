@@ -1,0 +1,32 @@
+{
+  "id": "legitext000006075137",
+  "type": "statute",
+  "title": "Ordonnance du 6 juin 1839",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006075137/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "L'article 1er du décret (...) du 21 août 1806 est abrogé. Tous les notaires (...), indistinctement, sont autorisés à délivrer les certificats nécessaires pour le payement des rentes viagères et pensions sur l'Etat.",
+      "valid_from": "1839-06-06"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les autres dispositions des décrets et ordonnances précités sont confirmées en tout ce qui n'est pas contraire à la présente ordonnance.",
+      "valid_from": "1839-06-06"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

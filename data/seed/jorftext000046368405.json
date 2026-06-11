@@ -12,25 +12,35 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le titre VIII du livre premier du code civil est modifié conformément aux articles 3 à 24 de la présente ordonnance et comporte cinq chapitres."
+      "content": "Le titre VIII du livre premier du code civil est modifié conformément aux articles 3 à 24 de la présente ordonnance et comporte cinq chapitres.",
+      "valid_from": "2022-10-07"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "I. - La présente ordonnance est applicable sur tout le territoire de la République, sauf en Nouvelle-Calédonie.II. - Pour l'application de la présente ordonnance à Saint-Pierre-et-Miquelon, Wallis-et-Futuna et la Polynésie française, les références au : « tribunal judiciaire » sont remplacées par les références au : « tribunal de première instance »."
+      "content": "I. - La présente ordonnance est applicable sur tout le territoire de la République, sauf en Nouvelle-Calédonie.II. - Pour l'application de la présente ordonnance à Saint-Pierre-et-Miquelon, Wallis-et-Futuna et la Polynésie française, les références au : « tribunal judiciaire » sont remplacées par les références au : « tribunal de première instance ».",
+      "valid_from": "2022-10-07"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Les dispositions de la présente ordonnance entreront en vigueur le 1er janvier 2023 et s'appliquent aux instances introduites à compter de cette date."
+      "content": "Les dispositions de la présente ordonnance entreront en vigueur le 1er janvier 2023 et s'appliquent aux instances introduites à compter de cette date.",
+      "valid_from": "2022-10-07"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "La Première ministre, le ministre de l'intérieur et des outre-mer et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "La Première ministre, le ministre de l'intérieur et des outre-mer et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2022-10-07"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

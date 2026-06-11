@@ -12,7 +12,14 @@
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Sont réputées signées à la date d'entrée en vigueur de la présente loi les stipulations des conventions et accords d'entreprise ou d'établissement conclus avant cette date qui sont conformes aux dispositions de la présente loi."
+      "content": "Sont réputées signées à la date d'entrée en vigueur de la présente loi les stipulations des conventions et accords d'entreprise ou d'établissement conclus avant cette date qui sont conformes aux dispositions de la présente loi.",
+      "valid_from": "1987-06-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

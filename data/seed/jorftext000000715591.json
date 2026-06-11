@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "Est autorisée l'approbation de la convention entre le Gouvernement de la République française et le Gouvernement de la République équatorienne en vue d'éviter la double imposition et de prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Quito le 16 mars 1989 et dont le texte est annexé à la présente loi (1).(1) Il sera publié ultérieurement au Journal officiel de la République française."
+      "content": "Est autorisée l'approbation de la convention entre le Gouvernement de la République française et le Gouvernement de la République équatorienne en vue d'éviter la double imposition et de prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Quito le 16 mars 1989 et dont le texte est annexé à la présente loi (1).(1) Il sera publié ultérieurement au Journal officiel de la République française.",
+      "valid_from": "1990-04-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

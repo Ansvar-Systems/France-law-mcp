@@ -12,25 +12,35 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Jusqu'à la publication de la première décision d'agrément prise en application des dispositions de l'article 530 ter du code général des impôts, la direction nationale de la garantie et des services industriels et le centre technique de l'industrie horlogère exercent les attributions dévolues aux organismes de contrôle agréés."
+      "content": "Jusqu'à la publication de la première décision d'agrément prise en application des dispositions de l'article 530 ter du code général des impôts, la direction nationale de la garantie et des services industriels et le centre technique de l'industrie horlogère exercent les attributions dévolues aux organismes de contrôle agréés.",
+      "valid_from": "1993-12-13"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Le Gouvernement déposera, avant le 1er juillet 1994, un rapport sur les modalités d'assouplissement de l'obligation de tenue du registre défini à l'article 537 du code général des impôts ; ce rapport précisera notamment comment l'administration entend préserver et consolider les assouplissements déjà accordés, tenir compte de l'application des techniques informatiques aux documents comptables et assurer la confidentialité des informations nominatives que pourrait contenir ce registre."
+      "content": "Le Gouvernement déposera, avant le 1er juillet 1994, un rapport sur les modalités d'assouplissement de l'obligation de tenue du registre défini à l'article 537 du code général des impôts ; ce rapport précisera notamment comment l'administration entend préserver et consolider les assouplissements déjà accordés, tenir compte de l'application des techniques informatiques aux documents comptables et assurer la confidentialité des informations nominatives que pourrait contenir ce registre.",
+      "valid_from": "1993-12-13"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "Les ouvrages d'or aux titres de 920 millièmes et 840 millièmes, légalement revêtus du poinçon de titre avant la date de publication de la présente loi, pourront valablement être commercialisés après l'entrée en vigueur de celle-ci."
+      "content": "Les ouvrages d'or aux titres de 920 millièmes et 840 millièmes, légalement revêtus du poinçon de titre avant la date de publication de la présente loi, pourront valablement être commercialisés après l'entrée en vigueur de celle-ci.",
+      "valid_from": "1993-12-13"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "Les dispositions du présent titre Ier entrent en vigueur le 13 décembre 1993."
+      "content": "Les dispositions du présent titre Ier entrent en vigueur le 13 décembre 1993.",
+      "valid_from": "1993-12-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

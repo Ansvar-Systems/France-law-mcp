@@ -12,19 +12,28 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Par dérogation au premier alinéa de l'article L. 511-7 du code rural et de la pêche maritime, pour la chambre de l'agriculture, de la pêche et de l'aquaculture de Mayotte :1° La durée du mandat des membres en fonction au 31 janvier 2025 est prolongée d'un an ;2° La durée du mandat des membres élus en 2026 est fixée à cinq ans."
+      "content": "Par dérogation au premier alinéa de l'article L. 511-7 du code rural et de la pêche maritime, pour la chambre de l'agriculture, de la pêche et de l'aquaculture de Mayotte :1° La durée du mandat des membres en fonction au 31 janvier 2025 est prolongée d'un an ;2° La durée du mandat des membres élus en 2026 est fixée à cinq ans.",
+      "valid_from": "2025-02-17"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Par dérogation aux articles L. 723-27, L. 723-29, L. 723-30 et L. 723-32 du code rural et de la pêche maritime, le terme du mandat des délégués cantonaux membres des assemblées générales départementales et pluridépartementales de la mutualité sociale agricole et des membres des conseils d'administration des caisses départementales et pluridépartementales et de la caisse centrale de la mutualité sociale agricole qui ont été élus ou désignés en 2020 peut être fixé, par arrêté du ministre chargé de l'agriculture, à une date distincte de celle du terme initial de chaque mandat, et au plus tard le 31 décembre 2025."
+      "content": "Par dérogation aux articles L. 723-27, L. 723-29, L. 723-30 et L. 723-32 du code rural et de la pêche maritime, le terme du mandat des délégués cantonaux membres des assemblées générales départementales et pluridépartementales de la mutualité sociale agricole et des membres des conseils d'administration des caisses départementales et pluridépartementales et de la caisse centrale de la mutualité sociale agricole qui ont été élus ou désignés en 2020 peut être fixé, par arrêté du ministre chargé de l'agriculture, à une date distincte de celle du terme initial de chaque mandat, et au plus tard le 31 décembre 2025.",
+      "valid_from": "2025-02-17"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- Code rural et de la pêche maritime\n\nII. - Le I entre en vigueur le 1er janvier 2030."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Code rural et de la pêche maritime\n\nII. - Le I entre en vigueur le 1er janvier 2030.",
+      "valid_from": "2025-02-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

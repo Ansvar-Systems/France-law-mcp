@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. - Sous réserve du II, les dispositions de la présente ordonnance entrent en vigueur le 1er juillet 2017.II. - Les conventions constitutives des groupements de coopération sanitaire conclues avant l'entrée en vigueur de la présente ordonnance ne sont pas soumises aux dispositions de l'article L. 5126-2 du code de la santé publique jusqu'à ce qu'elles aient été mises en conformité avec ces dispositions, et au plus tard le 1er janvier 2020."
+      "content": "I. - Sous réserve du II, les dispositions de la présente ordonnance entrent en vigueur le 1er juillet 2017.II. - Les conventions constitutives des groupements de coopération sanitaire conclues avant l'entrée en vigueur de la présente ordonnance ne sont pas soumises aux dispositions de l'article L. 5126-2 du code de la santé publique jusqu'à ce qu'elles aient été mises en conformité avec ces dispositions, et au plus tard le 1er janvier 2020.",
+      "valid_from": "2017-07-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, la ministre des affaires sociales et de la santé, le ministre de la défense, le garde des sceaux, ministre de la justice, et le ministre de l'intérieur sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre des affaires sociales et de la santé, le ministre de la défense, le garde des sceaux, ministre de la justice, et le ministre de l'intérieur sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

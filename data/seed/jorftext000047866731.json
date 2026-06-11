@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "Est autorisée la ratification de la résolution A.1152 (32) relative aux amendements à la convention du 6 mars 1948 portant création de l'Organisation maritime internationale (ensemble une annexe), adoptée le 8 décembre 2021, et dont le texte est annexé à la présente loi (2).La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Est autorisée la ratification de la résolution A.1152 (32) relative aux amendements à la convention du 6 mars 1948 portant création de l'Organisation maritime internationale (ensemble une annexe), adoptée le 8 décembre 2021, et dont le texte est annexé à la présente loi (2).La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2023-07-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

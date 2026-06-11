@@ -12,7 +12,14 @@
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "La présente loi, à l'exception de l'article 6, entre en vigueur le 30 juin 2020.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "La présente loi, à l'exception de l'article 6, entre en vigueur le 30 juin 2020.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2020-06-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,31 +12,42 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les organisations représentatives d'employeurs et de salariés négocient et concluent l'accord mentionné à l'article L. 327-19 du code du travail applicable à Mayotte pour permettre son entrée en vigueur le 1er janvier 2013.Les dispositions relatives à l'allocation de solidarité spécifique et à la prime forfaitaire prévues au 4° de l'article L. 326-7 et les dispositions de la section 3 et de la sous-section 2 de la section 5 du chapitre VII du titre II du livre III du code du travail applicable à Mayotte prennent effet le 1er juillet 2012.Les contributions mentionnées à l'article L. 327-12 exigibles avant la date mentionnée au premier alinéa sont recouvrées et contrôlées à compter de cette date par la caisse de sécurité sociale de Mayotte pour le compte de l'organisme gestionnaire de l'assurance chômage selon les règles et sous les garanties et sanctions applicables au recouvrement des cotisations du régime général de la sécurité sociale assises sur les rémunérations. Les différends relèvent des juridictions de sécurité sociale."
+      "content": "Les organisations représentatives d'employeurs et de salariés négocient et concluent l'accord mentionné à l'article L. 327-19 du code du travail applicable à Mayotte pour permettre son entrée en vigueur le 1er janvier 2013.Les dispositions relatives à l'allocation de solidarité spécifique et à la prime forfaitaire prévues au 4° de l'article L. 326-7 et les dispositions de la section 3 et de la sous-section 2 de la section 5 du chapitre VII du titre II du livre III du code du travail applicable à Mayotte prennent effet le 1er juillet 2012.Les contributions mentionnées à l'article L. 327-12 exigibles avant la date mentionnée au premier alinéa sont recouvrées et contrôlées à compter de cette date par la caisse de sécurité sociale de Mayotte pour le compte de l'organisme gestionnaire de l'assurance chômage selon les règles et sous les garanties et sanctions applicables au recouvrement des cotisations du régime général de la sécurité sociale assises sur les rémunérations. Les différends relèvent des juridictions de sécurité sociale.",
+      "valid_from": "2012-06-02"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "L'article L. 327-4 du code du travail applicable à Mayotte entre en vigueur le 1er janvier 2013.Les dispositions actuellement en vigueur de l'article 6 de l'ordonnance du 27 mars 2002 susvisée continuent à s'appliquer pour la détermination des limites d'âge auxquelles cesse le versement du revenu de remplacement mentionnées à l'article L. 327-4."
+      "content": "L'article L. 327-4 du code du travail applicable à Mayotte entre en vigueur le 1er janvier 2013.Les dispositions actuellement en vigueur de l'article 6 de l'ordonnance du 27 mars 2002 susvisée continuent à s'appliquer pour la détermination des limites d'âge auxquelles cesse le versement du revenu de remplacement mentionnées à l'article L. 327-4.",
+      "valid_from": "2012-06-02"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Les articles L. 328-7 et L. 328-10 du code du travail applicable à Mayotte entrent en vigueur le 1er janvier 2013.Les dispositions actuellement en vigueur de l'article L. 328-1 du code du travail applicable à Mayotte qui fixent à 2 % le pourcentage de l'effectif total des salariés l'obligation d'emploi de personnes handicapées continuent à s'appliquer pour l'année 2012."
+      "content": "Les articles L. 328-7 et L. 328-10 du code du travail applicable à Mayotte entrent en vigueur le 1er janvier 2013.Les dispositions actuellement en vigueur de l'article L. 328-1 du code du travail applicable à Mayotte qui fixent à 2 % le pourcentage de l'effectif total des salariés l'obligation d'emploi de personnes handicapées continuent à s'appliquer pour l'année 2012.",
+      "valid_from": "2012-06-02"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les dispositions du chapitre VII du titre II du livre III du code du travail applicable à Mayotte abrogées ou modifiées par la présente ordonnance demeurent applicables jusqu'à l'entrée en vigueur de l'accord ou, à défaut, du décret prévu à l'article L. 327-19 du code du travail applicable à Mayotte résultant de la présente ordonnance."
+      "content": "Les dispositions du chapitre VII du titre II du livre III du code du travail applicable à Mayotte abrogées ou modifiées par la présente ordonnance demeurent applicables jusqu'à l'entrée en vigueur de l'accord ou, à défaut, du décret prévu à l'article L. 327-19 du code du travail applicable à Mayotte résultant de la présente ordonnance.",
+      "valid_from": "2012-06-02"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'intérieur, le ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'intérieur, le ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2012-06-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

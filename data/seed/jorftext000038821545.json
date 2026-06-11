@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions du livre Ier du code minier sont modifiées conformément aux articles 2 à 13 de la présente ordonnance."
+      "content": "Les dispositions du livre Ier du code minier sont modifiées conformément aux articles 2 à 13 de la présente ordonnance.",
+      "valid_from": "2020-01-01"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "La présente ordonnance entre en vigueur à la date d'entrée en vigueur du décret en Conseil d'Etat pris pour son application, et au plus tard le 1er janvier 2020.Ses dispositions sont applicables aux demandes de titres d'exploration ou d'exploitation de gîtes géothermiques déposées auprès de l'autorité administrative postérieurement à cette date."
+      "content": "Le Premier ministre, la ministre de la transition écologique et solidaire et le ministre de l'économie et des finances sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

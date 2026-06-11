@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Toute discrimination fondée sur l'appartenance ou la non-appartenance à une ethnie, une nation, une race ou une religion est interdite.L'Etat assure le respect de ce principe dans le cadre des lois en vigueur."
+      "content": "Toute discrimination fondée sur l'appartenance ou la non-appartenance à une ethnie, une nation, une race ou une religion est interdite.L'Etat assure le respect de ce principe dans le cadre des lois en vigueur.",
+      "valid_from": "1990-07-14"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le 21 mars de chaque année, date retenue par l'Organisation des Nations Unies pour la Journée internationale pour l'élimination de toutes les formes de discrimination raciale, la Commission nationale consultative des droits de l'homme remet au Gouvernement un rapport sur la lutte contre le racisme. Ce rapport est immédiatement rendu public."
+      "content": "Le 21 mars de chaque année, date retenue par l'Organisation des Nations Unies pour la Journée internationale pour l'élimination de toutes les formes de discrimination raciale, la Commission nationale consultative des droits de l'homme remet au Gouvernement un rapport sur la lutte contre le racisme. Ce rapport est immédiatement rendu public.",
+      "valid_from": "1990-07-14"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Les articles 1er, 2 et 7 à 14 de la présente loi sont applicables dans les territoires d'outre-mer et à Mayotte."
+      "content": "Les articles 1er, 2 et 7 à 14 de la présente loi sont applicables dans les territoires d'outre-mer et à Mayotte.",
+      "valid_from": "2001-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

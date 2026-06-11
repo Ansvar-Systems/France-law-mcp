@@ -12,31 +12,42 @@
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "A titre expérimental et pour une durée de trois ans à compter de la promulgation de la loi n° 2011-525 du 17 mai 2011 de simplification et d'amélioration de la qualité du droit, les recours contentieux formés par certains agents soumis aux dispositions de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires à l'encontre d'actes relatifs à leur situation personnelle font l'objet, à l'exception de ceux concernant le recrutement ou l'exercice du pouvoir disciplinaire, d'un recours administratif préalable obligatoire dans des conditions fixées par décret en Conseil d'Etat. Cette expérimentation fait l'objet d'un rapport remis chaque année au Parlement, jusqu'au terme de celle-ci."
+      "content": "A titre expérimental et pour une durée de trois ans à compter de la promulgation de la loi n° 2011-525 du 17 mai 2011 de simplification et d'amélioration de la qualité du droit, les recours contentieux formés par certains agents soumis aux dispositions de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires à l'encontre d'actes relatifs à leur situation personnelle font l'objet, à l'exception de ceux concernant le recrutement ou l'exercice du pouvoir disciplinaire, d'un recours administratif préalable obligatoire dans des conditions fixées par décret en Conseil d'Etat. Cette expérimentation fait l'objet d'un rapport remis chaque année au Parlement, jusqu'au terme de celle-ci.",
+      "valid_from": "2018-07-15"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "Sont abrogées les dispositions suivantes :1° La première phrase du second alinéa de l'article L. 9 du code des tribunaux administratifs et des cours administratives d'appel et les articles L. 10 et L. 25 dudit code ;2° L'article L. 600-5 du code de l'urbanisme ;3° La dernière phrase du premier alinéa de l'article 23-1 et les troisième et quatrième alinéas de l'article 25 de la loi n° 79-1150 du 29 décembre 1979 relative à la publicité, aux enseignes et pré-enseignes ;4° La seconde phrase du cinquième alinéa et le sixième alinéa de l'article 14 de la loi n° 92-1443 du 31 décembre 1992 portant réforme du régime pétrolier."
+      "content": "Sont abrogées les dispositions suivantes :1° La première phrase du second alinéa de l'article L. 9 du code des tribunaux administratifs et des cours administratives d'appel et les articles L. 10 et L. 25 dudit code ;2° L'article L. 600-5 du code de l'urbanisme ;3° La dernière phrase du premier alinéa de l'article 23-1 et les troisième et quatrième alinéas de l'article 25 de la loi n° 79-1150 du 29 décembre 1979 relative à la publicité, aux enseignes et pré-enseignes ;4° La seconde phrase du cinquième alinéa et le sixième alinéa de l'article 14 de la loi n° 92-1443 du 31 décembre 1992 portant réforme du régime pétrolier.",
+      "valid_from": "2000-07-01"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Les articles L. 511-1, L. 511-2, L. 521-1, L. 521-2, L. 521-3, L. 521-4, L. 522-1, L. 522-2, L. 522-3 et L. 523-1 du code de justice administrative, ainsi que l'article 24 de la présente loi sont applicables en Nouvelle-Calédonie, dans les territoires d'outre-mer et à Mayotte.Les articles 14 et 21 sont applicables à Mayotte."
+      "content": "Les articles L. 511-1, L. 511-2, L. 521-1, L. 521-2, L. 521-3, L. 521-4, L. 522-1, L. 522-2, L. 522-3 et L. 523-1 du code de justice administrative, ainsi que l'article 24 de la présente loi sont applicables en Nouvelle-Calédonie, dans les territoires d'outre-mer et à Mayotte.Les articles 14 et 21 sont applicables à Mayotte.",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "Un décret en Conseil d'Etat fixe les modalités d'application de la présente loi."
+      "content": "Un décret en Conseil d'Etat fixe les modalités d'application de la présente loi.",
+      "valid_from": "2000-07-01"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "La présente loi entrera en vigueur le même jour que l'ordonnance n° 2000-387 du 4 mai 2000 relative à la partie législative du code de justice administrative."
+      "content": "La présente loi entrera en vigueur le même jour que l'ordonnance n° 2000-387 du 4 mai 2000 relative à la partie législative du code de justice administrative.",
+      "valid_from": "2000-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

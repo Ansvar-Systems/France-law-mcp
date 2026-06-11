@@ -12,49 +12,63 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "1° et 2° A modifié les dispositions suivantes :\n\n3° Les 1° et 2° sont applicables dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.\n\n- Code de la défense."
+      "content": "1° et 2° A modifié les dispositions suivantes :\n\n3° Les 1° et 2° sont applicables dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.\n\n- Code de la défense.",
+      "valid_from": "2014-07-12"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "4° Les 1° à 3° sont applicables dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises."
+      "content": "4° Les 1° à 3° sont applicables dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.",
+      "valid_from": "2014-07-12"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "A modifié les dispositions suivantes :"
+      "content": "A modifié les dispositions suivantes :",
+      "valid_from": "2014-07-12"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "III. - Le décret en Conseil d'Etat prévu au II du présent article fixe également les modalités de ce congé pour les militaires placés, à la date d'entrée en vigueur de ce décret, en congé de longue durée pour maladie ou en congé de longue maladie et qui auraient pu bénéficier du congé prévu à l'article L. 4138-3-1 du code de la défense."
+      "content": "III. - Le décret en Conseil d'Etat prévu au II du présent article fixe également les modalités de ce congé pour les militaires placés, à la date d'entrée en vigueur de ce décret, en congé de longue durée pour maladie ou en congé de longue maladie et qui auraient pu bénéficier du congé prévu à l'article L. 4138-3-1 du code de la défense.",
+      "valid_from": "2014-07-12"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "Le titre V est applicable dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises."
+      "content": "Le titre V est applicable dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.",
+      "valid_from": "2014-07-12"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "A abrogé les dispositions suivantes :\n\nEst abrogé l'article 72 de la loi du 31 mars 1928 sur le recrutement de l'armée.\n\n- Code de la défense.\n\n- Loi n°2006-686 du 13 juin 2006"
+      "content": "A abrogé les dispositions suivantes :\n\nEst abrogé l'article 72 de la loi du 31 mars 1928 sur le recrutement de l'armée.\n\n- Code de la défense.\n\n- Loi n°2006-686 du 13 juin 2006",
+      "valid_from": "2014-07-12"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "L'article 29 est applicable dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises."
+      "content": "L'article 29 est applicable dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.",
+      "valid_from": "2014-07-12"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable et de l'énergie, la garde des sceaux, ministre de la justice, le ministre des finances et des comptes publics, le ministre de l'économie, du redressement productif et du numérique, le ministre de la défense, le ministre de l'intérieur et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable et de l'énergie, la garde des sceaux, ministre de la justice, le ministre des finances et des comptes publics, le ministre de l'économie, du redressement productif et du numérique, le ministre de la défense, le ministre de l'intérieur et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2014-07-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

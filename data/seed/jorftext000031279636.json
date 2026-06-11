@@ -12,13 +12,21 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "II. - Les campagnes laitières antérieures à l'année 2014-2015 et celle relative à l'année 2014-2015 restent régies par les dispositions des articles L. 654-32 à L. 654-34 dans leur rédaction antérieure à la présente ordonnance."
+      "content": "II. - Les campagnes laitières antérieures à l'année 2014-2015 et celle relative à l'année 2014-2015 restent régies par les dispositions des articles L. 654-32 à L. 654-34 dans leur rédaction antérieure à la présente ordonnance.",
+      "valid_from": "2015-10-09"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable et de l'énergie et le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable et de l'énergie et le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2015-10-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

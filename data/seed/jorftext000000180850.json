@@ -12,13 +12,21 @@
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "La présente loi n'emporte ni la création d'une personne morale nouvelle ni une cessation d'entreprise."
+      "content": "La présente loi n'emporte ni la création d'une personne morale nouvelle ni une cessation d'entreprise.",
+      "valid_from": "1994-01-01"
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "Les dispositions des articles 8, 12 et 13 de la présente loi, relatives à la nomination des membres du Conseil de la politique monétaire, du Conseil général, du gouverneur et des sous-gouverneurs de la Banque de France, entrent en vigueur à la date de sa publication.Jusqu'à la date d'installation de ces conseils, qui interviendra, au plus tard, le 1er janvier 1994, la Banque de France reste régie par les dispositions de la loi n° 73-7 du 3 janvier 1973 sur la Banque de France. A compter de cette date, la loi n° 73-7 du 3 janvier 1973 précitée est abrogée."
+      "content": "Les dispositions des articles 8, 12 et 13 de la présente loi, relatives à la nomination des membres du Conseil de la politique monétaire, du Conseil général, du gouverneur et des sous-gouverneurs de la Banque de France, entrent en vigueur à la date de sa publication.Jusqu'à la date d'installation de ces conseils, qui interviendra, au plus tard, le 1er janvier 1994, la Banque de France reste régie par les dispositions de la loi n° 73-7 du 3 janvier 1973 sur la Banque de France. A compter de cette date, la loi n° 73-7 du 3 janvier 1973 précitée est abrogée.",
+      "valid_from": "1994-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

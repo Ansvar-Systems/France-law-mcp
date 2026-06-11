@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les cadres permanents du personnel de l'expansion économique à l'étranger seront fixés par un    décret en Conseil d'Etat dans les limites maxima ci-dessous :Quatre emplois de conseiller commercial de classe exceptionnelle.Seize emplois de conseiller commercial de 1re classe.Vingt emplois de conseiller commercial de 2e classe.Vingt emplois d'attaché commercial de 1re classe.Vingt emplois d'attaché commercial de 2e classe.Douze emplois d'attaché commercial adjoint de 1re classe.Douze emplois d'attaché commercial adjoint de 2e casse.Seize emplois d'attaché commercial adjoint de 3e classe.Ces emplois sont confiés soit à des fonctionnaires titulaires appartenant à ces cadres, ou détachés d'autres administrations, et assujettis au régime général des pensions civiles de la loi du 11 avril 1924 soit à des agents recrutés sur contrat."
+      "content": "Les cadres permanents du personnel de l'expansion économique à l'étranger seront fixés par un    décret en Conseil d'Etat dans les limites maxima ci-dessous :Quatre emplois de conseiller commercial de classe exceptionnelle.Seize emplois de conseiller commercial de 1re classe.Vingt emplois de conseiller commercial de 2e classe.Vingt emplois d'attaché commercial de 1re classe.Vingt emplois d'attaché commercial de 2e classe.Douze emplois d'attaché commercial adjoint de 1re classe.Douze emplois d'attaché commercial adjoint de 2e casse.Seize emplois d'attaché commercial adjoint de 3e classe.Ces emplois sont confiés soit à des fonctionnaires titulaires appartenant à ces cadres, ou détachés d'autres administrations, et assujettis au régime général des pensions civiles de la loi du 11 avril 1924 soit à des agents recrutés sur contrat.",
+      "valid_from": "1945-08-26"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les conseillers commerciaux attachés commerciaux, attachés commerciaux adjoints ou agents commerciaux, premiers secrétaires ou secrétaires généraux en fonctions de la date de la présente ordonnance, peuvent être reclassés dans les emplois visés à l'article 1er.Les décisions de reclassement dans la nouvelle hiérarchie des agents de l'expansion économique sont prises par arrêté du ministre de l'économie nationale, sur proposition de la commission de reclassement instituée par l'arrêté du 21 décembre 1944. Elles fixent l'ancienneté valable pour l'avancement dans le nouveau cadre.Les agents reclassés peuvent être admis à faire valider pour la retraite, conformément à l'article 10 de la loi du 11 avril 1921, les services qu'ils auraient accomplis en qualité de conseiller commercial d'attaché coin commercial d'attaché commercial adjoint ou d'agent commercial de secrétaire général ou de premier secrétaire d'attaché commercial."
+      "content": "Les conseillers commerciaux attachés commerciaux, attachés commerciaux adjoints ou agents commerciaux, premiers secrétaires ou secrétaires généraux en fonctions de la date de la présente ordonnance, peuvent être reclassés dans les emplois visés à l'article 1er.Les décisions de reclassement dans la nouvelle hiérarchie des agents de l'expansion économique sont prises par arrêté du ministre de l'économie nationale, sur proposition de la commission de reclassement instituée par l'arrêté du 21 décembre 1944. Elles fixent l'ancienneté valable pour l'avancement dans le nouveau cadre.Les agents reclassés peuvent être admis à faire valider pour la retraite, conformément à l'article 10 de la loi du 11 avril 1921, les services qu'ils auraient accomplis en qualité de conseiller commercial d'attaché coin commercial d'attaché commercial adjoint ou d'agent commercial de secrétaire général ou de premier secrétaire d'attaché commercial.",
+      "valid_from": "1945-08-26"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les agents de l'expansion économique peuvent être rayés des cadres à tout moment pendant les dix première années de leur activité.Ceux qui seront ainsi rayés des cadres sans pouvoir prétendre à une pension, qu'elle qu'en soit la nature, recevront, dans les conditions qui seront fixées par un décret contresigné par le ministre des finances, une indemnité proportionnelle à la durée des services. Cette indemnité se cumulera, le cas échéant, avec le remboursement des retenues prévu par l'article 17 de la loi du 14 avril 1924."
+      "content": "Les agents de l'expansion économique peuvent être rayés des cadres à tout moment pendant les dix première années de leur activité.Ceux qui seront ainsi rayés des cadres sans pouvoir prétendre à une pension, qu'elle qu'en soit la nature, recevront, dans les conditions qui seront fixées par un décret contresigné par le ministre des finances, une indemnité proportionnelle à la durée des services. Cette indemnité se cumulera, le cas échéant, avec le remboursement des retenues prévu par l'article 17 de la loi du 14 avril 1924.",
+      "valid_from": "1945-08-26"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Un    décret en Conseil d'Etat fixera les conditions d'application de la présente ordonnance."
+      "content": "Un    décret en Conseil d'Etat fixera les conditions d'application de la présente ordonnance.",
+      "valid_from": "1945-08-26"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Sont abrogées toutes dispositions contraires et notamment celles de l'ordonnance du 16 mars 1944 relative au personnel de l'expansion économique à l'étranger."
+      "content": "Sont abrogées toutes dispositions contraires et notamment celles de l'ordonnance du 16 mars 1944 relative au personnel de l'expansion économique à l'étranger.",
+      "valid_from": "1945-08-26"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi."
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi.",
+      "valid_from": "1945-08-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

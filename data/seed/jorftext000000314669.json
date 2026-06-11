@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'exercice du ministère du culte catholique n'est pas considéré comme une activité professionnelle au regard de la législation sociale en tant qu'il se limite à une activité exclusivement religieuse."
+      "content": "L'exercice du ministère du culte catholique n'est pas considéré comme une activité professionnelle au regard de la législation sociale en tant qu'il se limite à une activité exclusivement religieuse.",
+      "valid_from": "1950-02-22"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente loi n'est pas applicable aux ministres du culte catholique recevant un traitement de l'Etat dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle."
+      "content": "La présente loi n'est pas applicable aux ministres du culte catholique recevant un traitement de l'Etat dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.",
+      "valid_from": "1950-02-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

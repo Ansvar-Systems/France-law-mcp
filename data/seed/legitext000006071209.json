@@ -1,0 +1,60 @@
+{
+  "id": "legitext000006071209",
+  "type": "statute",
+  "title": "Loi du 18 août 1936",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071209/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Sera puni de deux ans de prison et d'une amende de 9 000 euros quiconque, par des voies ou des moyens quelconques, aura sciemment répandu dans le public des faits faux ou des allégations mensongères de nature à ébranler directement ou indirectement sa confiance dans la solidité de la monnaie, la valeur des fonds d'Etat de toute nature, des fonds des départements et des communes, des établissements publics et, d'une manière générale, de tous les organismes où les collectivités précédentes ont une participation directe ou indirecte.",
+      "valid_from": "1936-08-20"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Sera puni des mêmes peines quiconque aura, par des voies et moyens quelconques, incité le public :1° A des retraits de fonds de caisses publiques ou des établissements obligés par la loi à effectuer leurs versements dans les caisses publiques ;2° A la vente de titres de rente ou autres effets publics ou l'aura détourné de l'achat ou de la souscription de ceux-ci, que ces provocations aient été suivies ou non d'effet.",
+      "valid_from": "1936-08-20"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les poursuites ne pourront être engagées que sur plainte du ministre de l'économie et des finances ou des représentants légaux des collectivités et des organismes visés à l'article 1er.",
+      "valid_from": "1936-08-20"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Pour toutes les infractions prévues à la présente loi, le tribunal devra, en cas de condamnation, ordonner la publication du jugement dans deux journaux qu'il indiquera, aux frais du condamné.",
+      "valid_from": "1936-08-20"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Dans tous les cas prévus à la présente loi, lorsque le délinquant sera un étranger, la juridiction saisie prononcera, en outre, l'interdiction temporaire ou indéfinie du territoire français. Au cas où cet étranger, malgré cette interdiction, rentrerait sur le territoire français, il sera condamné à une peine de un an de prison et à une amende de 4 500 euros. A l'expiration de sa peine, il sera reconduit à la frontière.",
+      "valid_from": "1936-08-20"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "La loi du 12 février 1924 remplaçant la loi du 3 février 1893 est abrogée, ainsi que toutes les dispositions législatives contraires à la présente loi.",
+      "valid_from": "1936-08-20"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

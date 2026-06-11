@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "A modifié les dispositions suivantes :\n\n- Code rural et de la pêche maritime\n\nII.-Le 1° du I entre en vigueur à une date fixée par le décret mentionné au premier alinéa du II de l'article L. 253-8 du code rural et de la pêche maritime, et au plus tard le 15 décembre 2020."
+      "content": "A modifié les dispositions suivantes :\n\n- Code rural et de la pêche maritime\n\nII.-Le 1° du I entre en vigueur à une date fixée par le décret mentionné au premier alinéa du II de l'article L. 253-8 du code rural et de la pêche maritime, et au plus tard le 15 décembre 2020.",
+      "valid_from": "2020-12-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

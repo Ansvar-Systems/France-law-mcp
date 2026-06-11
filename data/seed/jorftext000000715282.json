@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions de l'article 1er entrent en vigueur pour l'allocation due au titre de l'année 1990."
+      "content": "Les dispositions de l'article 1er entrent en vigueur pour l'allocation due au titre de l'année 1990.",
+      "valid_from": "1990-07-11"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "L'aide à la famille pour l'emploi d'une assistante maternelle agréée et l'allocation de garde d'enfant à domicile ne sont pas soumises à l'impôt sur le revenu."
+      "content": "L'aide à la famille pour l'emploi d'une assistante maternelle agréée et l'allocation de garde d'enfant à domicile ne sont pas soumises à l'impôt sur le revenu.",
+      "valid_from": "1990-07-11"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les dispositions du titre II de la présente loi entreront en vigueur le 1er janvier 1991 pour les périodes d'emploi postérieures à cette date."
+      "content": "Les dispositions du titre II de la présente loi entreront en vigueur le 1er janvier 1991 pour les périodes d'emploi postérieures à cette date.",
+      "valid_from": "1990-07-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

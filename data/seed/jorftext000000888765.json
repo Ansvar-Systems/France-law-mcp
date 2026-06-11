@@ -12,13 +12,21 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Dans chacune des circonscriptions prévues à l’article 2, l’élection a lieu au scrutin de liste à la représentation proportionnelle suivant la règle de la plus forte moyenne, sans adjonction ni suppression de noms et sans modification de l’ordre de présentation.\n\nLes sièges sont attribués aux candidats d’après l’ordre de présentation sur chaque liste. Toutefois, les listes qui n’ont pas obtenu au moins quatre pour cent des suffrages exprimés ne sont pas admises à répartition des sièges.\n\nSi plusieurs listes ont la même moyenne pour l’attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus grand nombre de suffrages. En cas d’égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d’être proclamés élus."
+      "content": "Dans chacune des circonscriptions prévues à l’article 2, l’élection a lieu au scrutin de liste à la représentation proportionnelle suivant la règle de la plus forte moyenne, sans adjonction ni suppression de noms et sans modification de l’ordre de présentation.\n\nLes sièges sont attribués aux candidats d’après l’ordre de présentation sur chaque liste. Toutefois, les listes qui n’ont pas obtenu au moins quatre pour cent des suffrages exprimés ne sont pas admises à répartition des sièges.\n\nSi plusieurs listes ont la même moyenne pour l’attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus grand nombre de suffrages. En cas d’égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d’être proclamés élus.",
+      "valid_from": "1984-08-09"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "En cas d’annulation globale des opérations électorales, il est procédé, dans les trois mois, à des élections nouvelles, dans les conditions indiquées à l’article 7.\n\nEn cas de vacance par décès, démission ou pour quelque cause que ce soit, les candidats de la liste à laquelle était attribué le siège vacant sont proclamés élus dans l’ordre de présentation.\n\nLorsque l’application de la règle précédente ne permet pas de combler une ou plusieurs vacances, il est procédé, dans les trois mois, à une élection partielle au scrutin uninominal à un tour, en cas de vacance isolée, et au scrutin de liste avec représentation proportionnelle dans les conditions indiquées à l’article 7 ci-dessus, en cas de vacances simultanées.\n\nSont considérées comme vacances simultanées, celles qui se produisent avant la publication de l’arrêté du chef du territoire portant convocation des collèges électoraux pour une élection partielle.\n\nToutefois, dans les six mois qui précèdent le renouvellement de l’assemblée, il n’est pas pourvu aux vacances."
+      "content": "En cas d’annulation globale des opérations électorales, il est procédé, dans les trois mois, à des élections nouvelles, dans les conditions indiquées à l’article 7.\n\nEn cas de vacance par décès, démission ou pour quelque cause que ce soit, les candidats de la liste à laquelle était attribué le siège vacant sont proclamés élus dans l’ordre de présentation.\n\nLorsque l’application de la règle précédente ne permet pas de combler une ou plusieurs vacances, il est procédé, dans les trois mois, à une élection partielle au scrutin uninominal à un tour, en cas de vacance isolée, et au scrutin de liste avec représentation proportionnelle dans les conditions indiquées à l’article 7 ci-dessus, en cas de vacances simultanées.\n\nSont considérées comme vacances simultanées, celles qui se produisent avant la publication de l’arrêté du chef du territoire portant convocation des collèges électoraux pour une élection partielle.\n\nToutefois, dans les six mois qui précèdent le renouvellement de l’assemblée, il n’est pas pourvu aux vacances.",
+      "valid_from": "1957-07-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

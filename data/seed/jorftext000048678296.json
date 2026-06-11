@@ -12,19 +12,28 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "L'ordonnance n° 2022-1607 du 22 décembre 2022 relative à l'apprentissage transfrontalier est ratifiée."
+      "content": "L'ordonnance n° 2022-1607 du 22 décembre 2022 relative à l'apprentissage transfrontalier est ratifiée.",
+      "valid_from": "2023-12-29"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur les bourses et les aides financières destinées aux apprentis souhaitant effectuer une mobilité à l'étranger. Ce rapport examine également les perspectives en matière d'harmonisation des dispositifs de soutien financier et d'augmentation des aides financières pour la mobilité des apprentis à l'étranger."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur les bourses et les aides financières destinées aux apprentis souhaitant effectuer une mobilité à l'étranger. Ce rapport examine également les perspectives en matière d'harmonisation des dispositifs de soutien financier et d'augmentation des aides financières pour la mobilité des apprentis à l'étranger.",
+      "valid_from": "2023-12-29"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur la bonne désignation d'un référent mobilité au sein de chaque centre de formation d'apprentis.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur la bonne désignation d'un référent mobilité au sein de chaque centre de formation d'apprentis.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2023-12-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

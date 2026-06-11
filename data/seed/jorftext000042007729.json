@@ -12,13 +12,21 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er avril 2021.Elles ne s'appliquent pas aux procédures d'élaboration ou de révision des schémas de cohérence territoriale en cours à cette date.Toutefois, l'établissement public prévu à l'article L. 143-16 du code de l'urbanisme ayant prescrit une procédure d'élaboration ou de révision antérieurement à l'entrée en vigueur de la présente ordonnance peut, tant qu'il n'a pas arrêté le projet prévu à l'article L. 143-20 du même code, décider de faire application des dispositions du code de l'urbanisme dans leur rédaction issue de la présente ordonnance, à la condition que le schéma entre en vigueur à compter du 1er avril 2021.Les procédures de modification prescrites en application de l'article L. 143-33 du code de l'urbanisme et portant sur des schémas de cohérence territoriale élaborés selon les dispositions du même code, dans leur rédaction antérieure au 1er avril 2021, restent régies par ces dispositions.Lorsque le schéma de cohérence territoriale comprend un chapitre individualisé valant schéma de mise en valeur de la mer, tel que défini par l'article 57 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat, l'établissement public prévu à l'article L. 143-16 du code de l'urbanisme peut décider de le maintenir en vigueur ou d'intégrer ses dispositions dans le document d'orientation et d'objectifs prévu à l'article L. 141-13 du même code lors de toute procédure de révision ou de modification prescrite avant ou après le 1er avril 2021."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er avril 2021.Elles ne s'appliquent pas aux procédures d'élaboration ou de révision des schémas de cohérence territoriale en cours à cette date.Toutefois, l'établissement public prévu à l'article L. 143-16 du code de l'urbanisme ayant prescrit une procédure d'élaboration ou de révision antérieurement à l'entrée en vigueur de la présente ordonnance peut, tant qu'il n'a pas arrêté le projet prévu à l'article L. 143-20 du même code, décider de faire application des dispositions du code de l'urbanisme dans leur rédaction issue de la présente ordonnance, à la condition que le schéma entre en vigueur à compter du 1er avril 2021.Les procédures de modification prescrites en application de l'article L. 143-33 du code de l'urbanisme et portant sur des schémas de cohérence territoriale élaborés selon les dispositions du même code, dans leur rédaction antérieure au 1er avril 2021, restent régies par ces dispositions.Lorsque le schéma de cohérence territoriale comprend un chapitre individualisé valant schéma de mise en valeur de la mer, tel que défini par l'article 57 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat, l'établissement public prévu à l'article L. 143-16 du code de l'urbanisme peut décider de le maintenir en vigueur ou d'intégrer ses dispositions dans le document d'orientation et d'objectifs prévu à l'article L. 141-13 du même code lors de toute procédure de révision ou de modification prescrite avant ou après le 1er avril 2021.",
+      "valid_from": "2021-04-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le Premier ministre, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales et le ministre auprès de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la ville et du logement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales et le ministre auprès de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la ville et du logement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-04-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,55 +12,70 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "I. Paragraphe modificateur\n\nII. L'article L. 234-17 du code des communes est abrogé."
+      "content": "I. Paragraphe modificateur\n\nII. L'article L. 234-17 du code des communes est abrogé.",
+      "valid_from": "1994-01-04"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Pour les districts à fiscalité propre et les communautés de communes qui ne font pas application des dispositions de l'article 1609 nonies C du code général des impôts, le coefficient d'intégration fiscal moyen visé au second alinéa de l'article L. 234-10-2 du code des communes est égal, en 1994, au coefficient d'intégration fiscale moyen des communautés de communes et districts constaté en 1993."
+      "content": "Pour les districts à fiscalité propre et les communautés de communes qui ne font pas application des dispositions de l'article 1609 nonies C du code général des impôts, le coefficient d'intégration fiscal moyen visé au second alinéa de l'article L. 234-10-2 du code des communes est égal, en 1994, au coefficient d'intégration fiscale moyen des communautés de communes et districts constaté en 1993.",
+      "valid_from": "1994-01-04"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Les articles L. 234-19, L. 234-19-1, L. 234-19-2 et L. 234-19-3 du code des communes sont abrogés."
+      "content": "Les articles L. 234-19, L. 234-19-1, L. 234-19-2 et L. 234-19-3 du code des communes sont abrogés.",
+      "valid_from": "1994-01-04"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Les articles L. 262-7 à L. 262-9 et L. 262-11 à L. 262-13 du code des communes sont abrogés."
+      "content": "Les articles L. 262-7 à L. 262-9 et L. 262-11 à L. 262-13 du code des communes sont abrogés.",
+      "valid_from": "1994-01-04"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "L'article 28 de la loi n° 85-1268 du 29 novembre 1985 relative à la dotation globale de fonctionnement est abrogé."
+      "content": "L'article 28 de la loi n° 85-1268 du 29 novembre 1985 relative à la dotation globale de fonctionnement est abrogé.",
+      "valid_from": "1994-01-04"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "A titre exceptionnel pour l'année 1994, bénéficient d'une attribution prélevée sur la dotation de développement rural instituée par le 1° du I de l'article 1648 B du code général des impôts les communes ayant reçu en 1993 une attribution au titre du b du 1° du I de cet article dans sa rédaction antérieure à la présente loi et qui ne bénéficient pas d'une attribution au titre de la première fraction de la dotation de solidarité rurale instituée à l'article L. 234-13 du code des communes. Le montant de l'attribution au titre de l'année 1994 est égal à la moitié de celle arrêtée en 1993."
+      "content": "A titre exceptionnel pour l'année 1994, bénéficient d'une attribution prélevée sur la dotation de développement rural instituée par le 1° du I de l'article 1648 B du code général des impôts les communes ayant reçu en 1993 une attribution au titre du b du 1° du I de cet article dans sa rédaction antérieure à la présente loi et qui ne bénéficient pas d'une attribution au titre de la première fraction de la dotation de solidarité rurale instituée à l'article L. 234-13 du code des communes. Le montant de l'attribution au titre de l'année 1994 est égal à la moitié de celle arrêtée en 1993.",
+      "valid_from": "1994-01-04"
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "Le Gouvernement déposera devant le Parlement, avant le 30 avril 1995, un rapport présentant le bilan de l'application des dispositions de la présente loi. Ce rapport devra notamment mettre en évidence les conséquences du gel des critères de sélection et de répartition des concours particuliers de la dotation touristique et de la dotation ville-centre."
+      "content": "Le Gouvernement déposera devant le Parlement, avant le 30 avril 1995, un rapport présentant le bilan de l'application des dispositions de la présente loi. Ce rapport devra notamment mettre en évidence les conséquences du gel des critères de sélection et de répartition des concours particuliers de la dotation touristique et de la dotation ville-centre.",
+      "valid_from": "1994-01-04"
     },
     {
       "provision_ref": "art39",
       "section": "39",
       "title": "Article 39",
-      "content": "Des décrets en Conseil d'Etat préciseront, en tant que de besoin, les conditions d'application de la présente loi."
+      "content": "Des décrets en Conseil d'Etat préciseront, en tant que de besoin, les conditions d'application de la présente loi.",
+      "valid_from": "1994-01-04"
     },
     {
       "provision_ref": "art40",
       "section": "40",
       "title": "Article 40",
-      "content": "Pour l'année 1994, le montant des crédits mis en répartition au titre de la dotation de solidarité urbaine et de cohésion sociale ne peut être inférieur à 1 260 millions de francs et ceux mis en répartition au titre de la première fraction de la dotation de solidarité rurale sont fixés à 420 millions de francs."
+      "content": "Pour l'année 1994, le montant des crédits mis en répartition au titre de la dotation de solidarité urbaine et de cohésion sociale ne peut être inférieur à 1 260 millions de francs et ceux mis en répartition au titre de la première fraction de la dotation de solidarité rurale sont fixés à 420 millions de francs.",
+      "valid_from": "2005-01-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

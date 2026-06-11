@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I.-Les biens, droits et obligations du Centre national professionnel de la propriété forestière et des centres régionaux de la propriété forestière sont transférés au Centre national de la propriété forestière. Ce transfert est réalisé à titre gratuit et ne donne lieu au paiement d'aucun impôt, rémunération, salaire ou honoraires au profit de l'Etat, de ses agents ou de toute autre personne publique.II.-Les personnels du Centre national professionnel de la propriété forestière et des centres régionaux de la propriété forestière en fonction à la date de publication du décret organisant le Centre national de la propriété forestière lui sont transférés sans modification de leur situation statutaire et placés sous l'autorité de son directeur général.\n\nIII. à VI. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n-Loi n° 2001-602 du 9 juillet 2001\n\n-Loi n° 2005-157 du 23 février 2005\n\n-Code monétaire et financier\n\n-Code de l'environnement\n\n-Code forestier\n\n-Code rural\n\n-Code de l'urbanisme"
+      "content": "I.-Les biens, droits et obligations du Centre national professionnel de la propriété forestière et des centres régionaux de la propriété forestière sont transférés au Centre national de la propriété forestière. Ce transfert est réalisé à titre gratuit et ne donne lieu au paiement d'aucun impôt, rémunération, salaire ou honoraires au profit de l'Etat, de ses agents ou de toute autre personne publique.II.-Les personnels du Centre national professionnel de la propriété forestière et des centres régionaux de la propriété forestière en fonction à la date de publication du décret organisant le Centre national de la propriété forestière lui sont transférés sans modification de leur situation statutaire et placés sous l'autorité de son directeur général.\n\nIII. à VI. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n-Loi n° 2001-602 du 9 juillet 2001\n\n-Loi n° 2005-157 du 23 février 2005\n\n-Code monétaire et financier\n\n-Code de l'environnement\n\n-Code forestier\n\n-Code rural\n\n-Code de l'urbanisme",
+      "valid_from": "2009-11-11"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "II.-La loi n° 67-1116 du 21 décembre 1967 réprimant les fraudes en matière d'élections des administrateurs des centres régionaux de la propriété forestière est abrogée."
+      "content": "I.- A modifié les dispositions suivantes :\n\nII.- La loi n° 67-1116 du 21 décembre 1967 réprimant les fraudes en matière d'élections des administrateurs des centres régionaux de la propriété forestière est abrogée.\n\n-Code forestier",
+      "valid_from": "2009-11-11"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre et le ministre de l'alimentation, de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre de l'alimentation, de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2009-11-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

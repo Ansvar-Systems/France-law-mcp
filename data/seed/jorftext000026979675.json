@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La présente ordonnance s'applique aux agents non titulaires de l'Etat et des circonscriptions territoriales, nommés par l'Etat dans un emploi permanent, exerçant leurs fonctions sur le territoire des îles Wallis et Futuna. Ces agents ont la qualité d'agents permanents de droit public."
+      "content": "La présente ordonnance s'applique aux agents non titulaires de l'Etat et des circonscriptions territoriales, nommés par l'Etat dans un emploi permanent, exerçant leurs fonctions sur le territoire des îles Wallis et Futuna. Ces agents ont la qualité d'agents permanents de droit public.",
+      "valid_from": "2013-01-27"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les agents mentionnés à l'article 1er sont soumis aux dispositions suivantes du code général de la fonction publique, sous réserve des adaptations, prévues par décret en Conseil d'Etat, nécessaires à leur application pour tenir compte des spécificités du territoire :1° Le livre Ier, à l'exception des articles L. 111-3, L. 111-5, L. 114-2, des sections 2 et 3 du chapitre IV du titre Ier, du chapitre V du même titre, des articles L. 121-11, L. 125-2, L. 125-3, L. 132-10, L. 134-9, L. 134-10 et L. 134-11 ainsi que des chapitres VI et VII du titre III ;2° Le chapitre Ier du titre Ier, les titres II et III, le chapitre II du titre IV du livre II et l'article L. 262-3 ;3° Les articles L. 331-1, L. 332-21 et L. 332-28 ;4° L'article L. 530-1, le chapitre Ier du titre III du livre V et l'article L. 532-6 ;5° Les articles L. 731-1 à L. 731-3 et L. 733-1."
+      "content": "Les agents mentionnés à l'article 1er sont soumis aux dispositions suivantes du code général de la fonction publique, sous réserve des adaptations, prévues par décret en Conseil d'Etat, nécessaires à leur application pour tenir compte des spécificités du territoire :1° Le livre Ier, à l'exception des articles L. 111-3, L. 111-5, L. 114-2, des sections 2 et 3 du chapitre IV du titre Ier, du chapitre V du même titre, des articles L. 121-11, L. 125-2, L. 125-3, L. 132-10, L. 134-9, L. 134-10 et L. 134-11 ainsi que des chapitres VI et VII du titre III ;2° Le chapitre Ier du titre Ier, les titres II et III, le chapitre II du titre IV du livre II et l'article L. 262-3 ;3° Les articles L. 331-1, L. 332-21 et L. 332-28 ;4° L'article L. 530-1, le chapitre Ier du titre III du livre V et l'article L. 532-6 ;5° Les articles L. 731-1 à L. 731-3 et L. 733-1.",
+      "valid_from": "2022-03-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les conditions générales de recrutement, d'emploi, de rémunération et de cessation d'activité des agents régis par la présente ordonnance sont prévues par décret en Conseil d'Etat."
+      "content": "Les conditions générales de recrutement, d'emploi, de rémunération et de cessation d'activité des agents régis par la présente ordonnance sont prévues par décret en Conseil d'Etat.",
+      "valid_from": "2013-01-27"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, le ministre de l'économie et des finances, la ministre de la réforme de l'Etat, de la décentralisation et de la fonction publique et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie et des finances, la ministre de la réforme de l'Etat, de la décentralisation et de la fonction publique et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2013-01-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

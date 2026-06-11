@@ -12,7 +12,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Jusqu'au 1er janvier 2014, les dépendances du domaine public routier de l'Etat situées à l'intérieur du périmètre du quartier de La Défense et nécessaires à la mise en oeuvre des orientations générales d'urbanisme prévue à l'article L. 141-3 du code de l'urbanisme sont apportées à titre gratuit à l'établissement public pour l'aménagement de la région dite de \"La Défense\", lorsqu'elles font l'objet d'un déclassement, à l'exception de celles qui ont vocation à être utilisées par un service de l'Etat dont la liste et les affectataires sont fixés par un décret en Conseil d'Etat. L'apport est réalisé par l'acte administratif constatant le déclassement."
+      "content": "Jusqu'au 1er janvier 2014, les dépendances du domaine public routier de l'Etat situées à l'intérieur du périmètre du quartier de La Défense et nécessaires à la mise en oeuvre des orientations générales d'urbanisme prévue à l'article L. 141-3 du code de l'urbanisme sont apportées à titre gratuit à l'établissement public pour l'aménagement de la région dite de \"La Défense\", lorsqu'elles font l'objet d'un déclassement, à l'exception de celles qui ont vocation à être utilisées par un service de l'Etat dont la liste et les affectataires sont fixés par un décret en Conseil d'Etat. L'apport est réalisé par l'acte administratif constatant le déclassement.",
+      "valid_from": "2007-02-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

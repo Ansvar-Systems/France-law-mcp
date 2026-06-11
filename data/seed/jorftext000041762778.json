@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "A titre exceptionnel, les organismes de gestion collective mentionnés à l'article L. 321-1 du code de la propriété intellectuelle peuvent, jusqu'au 31 juillet 2022, utiliser les sommes mentionnées à l'article L. 324-17 du code de la propriété intellectuelle pour le versement d'aides financières aux titulaires de droits d'auteurs et de droits voisins, dont les revenus découlant de l'exploitation en France des œuvres et des objets protégés se trouvent gravement affectés en raison de la crise sanitaire causée sur le territoire national par le virus covid-19 ou de la mise en œuvre des mesures de lutte contre la propagation du virus.\n\nLes noms des bénéficiaires des aides financières mentionnées au premier alinéa ne sont pas inscrits dans la base de données électronique mentionnée à l'article L. 326-2 du code de la propriété intellectuelle."
+      "content": "A titre exceptionnel, les organismes de gestion collective mentionnés à l'article L. 321-1 du code de la propriété intellectuelle peuvent, jusqu'au 31 juillet 2022, utiliser les sommes mentionnées à l'article L. 324-17 du code de la propriété intellectuelle pour le versement d'aides financières aux titulaires de droits d'auteurs et de droits voisins, dont les revenus découlant de l'exploitation en France des œuvres et des objets protégés se trouvent gravement affectés en raison de la crise sanitaire causée sur le territoire national par le virus covid-19 ou de la mise en œuvre des mesures de lutte contre la propagation du virus.\n\nLes noms des bénéficiaires des aides financières mentionnées au premier alinéa ne sont pas inscrits dans la base de données électronique mentionnée à l'article L. 326-2 du code de la propriété intellectuelle.",
+      "valid_from": "2021-11-12"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La présente ordonnance est applicable dans les îles Wallis et Futuna."
+      "content": "La présente ordonnance est applicable dans les îles Wallis et Futuna.",
+      "valid_from": "2020-03-29"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Premier ministre et le ministre de la culture sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre de la culture sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-03-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

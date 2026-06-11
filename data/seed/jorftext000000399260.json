@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont ratifiées, telles que modifiées par la présente loi, les ordonnances suivantes, prises en application de la loi n° 98-145 du 6 mars 1998 portant habilitation du Gouvernement à prendre, par ordonnances, les mesures législatives nécessaires à l'actualisation et à l'adaptation du droit applicable outre-mer :- ordonnance n° 98-522 du 24 juin 1998 portant actualisation et adaptation du droit du travail dans les territoires, collectivités et départements d'outre-mer ;- ordonnance n° 98-731 du 20 août 1998 portant adaptation aux départements d'outre-mer, à la Nouvelle-Calédonie et à la collectivité territoriale de Saint-Pierre-et-Miquelon de diverses dispositions relatives aux affaires sanitaires et sociales ;- ordonnance n° 98-773 du 2 septembre 1998 portant extension et adaptation en Nouvelle-Calédonie du titre III intitulé \"Des organes, tissus, cellules et produits du corps humain\" du livre VI du code de la santé publique."
+      "content": "Sont ratifiées, telles que modifiées par la présente loi, les ordonnances suivantes, prises en application de la loi n° 98-145 du 6 mars 1998 portant habilitation du Gouvernement à prendre, par ordonnances, les mesures législatives nécessaires à l'actualisation et à l'adaptation du droit applicable outre-mer :- ordonnance n° 98-522 du 24 juin 1998 portant actualisation et adaptation du droit du travail dans les territoires, collectivités et départements d'outre-mer ;- ordonnance n° 98-731 du 20 août 1998 portant adaptation aux départements d'outre-mer, à la Nouvelle-Calédonie et à la collectivité territoriale de Saint-Pierre-et-Miquelon de diverses dispositions relatives aux affaires sanitaires et sociales ;- ordonnance n° 98-773 du 2 septembre 1998 portant extension et adaptation en Nouvelle-Calédonie du titre III intitulé \"Des organes, tissus, cellules et produits du corps humain\" du livre VI du code de la santé publique.",
+      "valid_from": "1999-12-29"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Dans chacune des ordonnances visées à l'article 1er, la référence aux territoires d'outre-mer est remplacée par la référence aux territoires d'outre-mer et à la Nouvelle-Calédonie."
+      "content": "Dans chacune des ordonnances visées à l'article 1er, la référence aux territoires d'outre-mer est remplacée par la référence aux territoires d'outre-mer et à la Nouvelle-Calédonie.",
+      "valid_from": "1999-12-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

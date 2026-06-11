@@ -12,7 +12,14 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le deuxième alinéa de l'article L. 442-7 du code du travail et les deuxième et septième alinéas du II de l'article L. 442-8 du même code sont supprimés. Toutefois, leurs dispositions demeurent applicables, dans leur rédaction antérieure à la publication de la présente loi, aux accords en vigueur à cette même date."
+      "content": "Le deuxième alinéa de l'article L. 442-7 du code du travail et les deuxième et septième alinéas du II de l'article L. 442-8 du même code sont supprimés. Toutefois, leurs dispositions demeurent applicables, dans leur rédaction antérieure à la publication de la présente loi, aux accords en vigueur à cette même date.",
+      "valid_from": "2001-02-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

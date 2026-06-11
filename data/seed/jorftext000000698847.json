@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Un système de protection sociale commun à tous les Français sera institué, au plus tard le 1er janvier 1978, dans les trois branches : assurance maladie-maternité, vieillesse, prestations familiales.\n\nPour réaliser cet objectif, les régimes de base obligatoires légaux de sécurité sociale seront progressivement harmonisés et tous les Français non encore affiliés à l'un de ces régimes seront admis au bénéfice d'une protection sociale dans des conditions tenant compte de leurs capacités contributives.\n\nL'institution de ce système doit avoir pour contrepartie, un même effort contributif des assurés des différents groupes socio-professionnels. L'harmonisation des cotisations sera réalisée au rythme de la mise en oeuvre de la protection de base commune.\n\nCes mesures d'harmonisation ne pourront mettre en cause les avantages acquis par les différents régimes, ni porter atteinte à l'existence d'institutions de protection sociale propres aux différents groupes socio-professionnels qui en sont actuellement dotés.\n\nIl ne sera pas porté atteinte aux droits acquis du régime local en vigueur dans les départements, du Bas-Rhin, du Haut-Rhin et de la Moselle en matière d'assurances maladie, accident, maternité et vieillesse."
+      "content": "Un système de protection sociale commun à tous les Français sera institué, au plus tard le 1er janvier 1978, dans les trois branches : assurance maladie-maternité, vieillesse, prestations familiales.\n\nPour réaliser cet objectif, les régimes de base obligatoires légaux de sécurité sociale seront progressivement harmonisés et tous les Français non encore affiliés à l'un de ces régimes seront admis au bénéfice d'une protection sociale dans des conditions tenant compte de leurs capacités contributives.\n\nL'institution de ce système doit avoir pour contrepartie, un même effort contributif des assurés des différents groupes socio-professionnels. L'harmonisation des cotisations sera réalisée au rythme de la mise en oeuvre de la protection de base commune.\n\nCes mesures d'harmonisation ne pourront mettre en cause les avantages acquis par les différents régimes, ni porter atteinte à l'existence d'institutions de protection sociale propres aux différents groupes socio-professionnels qui en sont actuellement dotés.\n\nIl ne sera pas porté atteinte aux droits acquis du régime local en vigueur dans les départements, du Bas-Rhin, du Haut-Rhin et de la Moselle en matière d'assurances maladie, accident, maternité et vieillesse.",
+      "valid_from": "1974-12-26"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Un aménagement de l'assiette des charges sociales assumées par les entreprises sera recherché pour tenir compte de l'ensemble des éléments d'exploitation et présenté au Parlement avant le 1er juin 1975."
+      "content": "Un aménagement de l'assiette des charges sociales assumées par les entreprises sera recherché pour tenir compte de l'ensemble des éléments d'exploitation et présenté au Parlement avant le 1er juin 1975.",
+      "valid_from": "1974-12-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

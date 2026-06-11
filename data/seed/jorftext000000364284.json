@@ -12,25 +12,28 @@
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Les dispositions des articles 8 et 14, en ce qu'elles créent respectivement les articles L. 521-5 et L. 716-11-2 du code de la propriété intellectuelle, n'entreront en vigueur qu'à la date fixée par l'article 373 de la loi n° 92-1336 du 16 décembre 1992 relative à l'entrée en vigueur du nouveau code pénal et à la modification de certaines dispositions de droit pénal et de procédure pénale rendue nécessaire par cette entrée en vigueur."
-    },
-    {
-      "provision_ref": "art18",
-      "section": "18",
-      "title": "Article 18",
-      "content": "La présente loi, à l'exception du I de l'article 16, est applicable aux territoires d'outre-mer et à la collectivité territoriale de Mayotte.Au II de l'article 16, la référence à l'article 428 du code des douanes est remplacée :en ce qui concerne Mayotte, par la référence à l'article 291 du code des douanes applicable à cette collectivité territoriale ;en ce qui concerne la Polynésie française, par la référence au 1 de l'article 297 du code des douanes applicable à ce territoire ;en ce qui concerne la Nouvelle-Calédonie, par la référence au 1 de l'article 278 du code des douanes applicable à ce territoire ;en ce qui concerne Wallis-et-Futuna, par la référence à l'article 267 du code des douanes applicable à ce territoire."
+      "content": "Les dispositions des articles 8 et 14, en ce qu'elles créent respectivement les articles L. 521-5 et L. 716-11-2 du code de la propriété intellectuelle, n'entreront en vigueur qu'à la date fixée par l'article 373 de la loi n° 92-1336 du 16 décembre 1992 relative à l'entrée en vigueur du nouveau code pénal et à la modification de certaines dispositions de droit pénal et de procédure pénale rendue nécessaire par cette entrée en vigueur.",
+      "valid_from": "1994-02-08"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Les articles L. 335-2, L. 335-4, L. 335-5, L. 521-4, L. 615-14 et L. 716-9 dans leur rédaction issue de la loi n° 92-597 du 1er juillet 1992 relative au code de la propriété intellectuelle sont applicables aux territoires d'outre-mer et à la collectivité territoriale de Mayotte à titre transitoire à compter de la date d'entrée en vigueur de la présente loi et jusqu'à la date prévue par le deuxième alinéa de l'article 373 de la loi n° 92-1336 du 16 décembre 1992 relative à l'entrée en vigueur du nouveau code pénal et à la modification de certaines dispositions de droit pénal et de procédure pénale rendue nécessaire par cette entrée en vigueur."
+      "content": "Les articles L. 335-2, L. 335-4, L. 335-5, L. 521-4, L. 615-14 et L. 716-9 dans leur rédaction issue de la loi n° 92-597 du 1er juillet 1992 relative au code de la propriété intellectuelle sont applicables aux territoires d'outre-mer et à la collectivité territoriale de Mayotte à titre transitoire à compter de la date d'entrée en vigueur de la présente loi et jusqu'à la date prévue par le deuxième alinéa de l'article 373 de la loi n° 92-1336 du 16 décembre 1992 relative à l'entrée en vigueur du nouveau code pénal et à la modification de certaines dispositions de droit pénal et de procédure pénale rendue nécessaire par cette entrée en vigueur.",
+      "valid_from": "1994-02-08"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "L'article L. 615-11 du code de la propriété intellectuelle est abrogé."
+      "content": "L'article L. 615-11 du code de la propriété intellectuelle est abrogé.",
+      "valid_from": "1994-02-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

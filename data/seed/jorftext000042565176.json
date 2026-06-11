@@ -12,25 +12,35 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Pour le fonctionnaire dont la maladie liée à une infection au SARS-CoV2 est reconnue imputable au service, le congé pour invalidité temporaire imputable au service, l'allocation temporaire d'invalidité et la rente viagère d'invalidité prennent effet, nonobstant toute disposition contraire, à compter de la date de la première constatation médicale de cette maladie."
+      "content": "Pour le fonctionnaire dont la maladie liée à une infection au SARS-CoV2 est reconnue imputable au service, le congé pour invalidité temporaire imputable au service, l'allocation temporaire d'invalidité et la rente viagère d'invalidité prennent effet, nonobstant toute disposition contraire, à compter de la date de la première constatation médicale de cette maladie.",
+      "valid_from": "2020-11-27"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "I. - L'article 2 de la présente ordonnance entre en vigueur le 1er février 2022.II. - L'article 5 entre en vigueur à la date d'entrée en vigueur des dispositions réglementaires prises pour son application et, au plus tard, le 1er février 2022.III. - L'article 9 entre en vigueur à la date d'entrée en vigueur des dispositions réglementaires prises pour son application et, au plus tard, le 1er juin 2021."
+      "content": "I. - L'article 2 de la présente ordonnance entre en vigueur le 1er février 2022.II. - L'article 5 entre en vigueur à la date d'entrée en vigueur des dispositions réglementaires prises pour son application et, au plus tard, le 1er février 2022.III. - L'article 9 entre en vigueur à la date d'entrée en vigueur des dispositions réglementaires prises pour son application et, au plus tard, le 1er juin 2021.",
+      "valid_from": "2020-11-27"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "I. - Pour l'application de l'article 1er, les conditions d'aptitude physique particulières existantes à la date d'entrée en vigueur de la présente ordonnance sont maintenues jusqu'à l'entrée en vigueur des dispositions réglementaires prises pour l'application de cet article dans la limite de deux ans suivant la publication de la présente ordonnance.II. - Les avis rendus par les comités médicaux et les commissions de réforme avant la date d'entrée en vigueur des dispositions de l'article 2 sont réputés être des avis rendus par les conseils médicaux mentionnés à cet article.III. - Les dispositions de l'article 9 sont applicables aux demandes déposées à compter de l'entrée en vigueur de cet article.Les fonctionnaires bénéficiant d'un temps partiel pour raison thérapeutique à la date d'entrée en vigueur de l'article 9 poursuivent la période en cours de temps partiel pour raison thérapeutique selon les dispositions antérieures jusqu'au terme de cette période.Les fonctionnaires qui, à la date d'entrée en vigueur de l'article 9, ont épuisé les droits à temps partiel pour raison thérapeutique, retrouvent le droit à ce temps partiel lorsqu'il s'est écoulé un an à compter du terme de la dernière période de temps partiel pour raison thérapeutique qui leur avait été accordée."
+      "content": "I. - Pour l'application de l'article 1er, les conditions d'aptitude physique particulières existantes à la date d'entrée en vigueur de la présente ordonnance sont maintenues jusqu'à l'entrée en vigueur des dispositions réglementaires prises pour l'application de cet article dans la limite de deux ans suivant la publication de la présente ordonnance.II. - Les avis rendus par les comités médicaux et les commissions de réforme avant la date d'entrée en vigueur des dispositions de l'article 2 sont réputés être des avis rendus par les conseils médicaux mentionnés à cet article.III. - Les dispositions de l'article 9 sont applicables aux demandes déposées à compter de l'entrée en vigueur de cet article.Les fonctionnaires bénéficiant d'un temps partiel pour raison thérapeutique à la date d'entrée en vigueur de l'article 9 poursuivent la période en cours de temps partiel pour raison thérapeutique selon les dispositions antérieures jusqu'au terme de cette période.Les fonctionnaires qui, à la date d'entrée en vigueur de l'article 9, ont épuisé les droits à temps partiel pour raison thérapeutique, retrouvent le droit à ce temps partiel lorsqu'il s'est écoulé un an à compter du terme de la dernière période de temps partiel pour raison thérapeutique qui leur avait été accordée.",
+      "valid_from": "2020-11-27"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance, la ministre des armées, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, le ministre des solidarités et de la santé, la ministre de la transformation et de la fonction publiques et le ministre délégué auprès du ministre de l'économie, des finances et de la relance, chargé des comptes publics, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance, la ministre des armées, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, le ministre des solidarités et de la santé, la ministre de la transformation et de la fonction publiques et le ministre délégué auprès du ministre de l'économie, des finances et de la relance, chargé des comptes publics, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-11-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

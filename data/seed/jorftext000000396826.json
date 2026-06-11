@@ -12,13 +12,21 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Sont validées les promotions au grade de premier surveillant des services déconcentrés de l'administration pénitentiaire prononcées par le directeur de l'administration pénitentiaire à l'issue de la session 1997 du concours professionnel organisé en application de l'arrêté interministériel du 22 septembre 1993 et suite à ses décisions des 23 janvier et 26 mai 1998."
+      "content": "Sont validées les promotions au grade de premier surveillant des services déconcentrés de l'administration pénitentiaire prononcées par le directeur de l'administration pénitentiaire à l'issue de la session 1997 du concours professionnel organisé en application de l'arrêté interministériel du 22 septembre 1993 et suite à ses décisions des 23 janvier et 26 mai 1998.",
+      "valid_from": "1999-11-23"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Sous réserve des décisions de justice devenues définitives, les émoluments proportionnels de recouvrement ou d'encaissement perçus jusqu'au 5 mai 1999, en application de l'article 10 du décret n° 96-1080 du 12 décembre 1996 portant fixation du tarif des huissiers de justice en matière civile et commerciale, en tant que la régularité de ces émoluments serait mise en cause à raison de l'annulation du décret n° 96-1080 du 12 décembre 1996 précité, sont validés."
+      "content": "Sous réserve des décisions de justice devenues définitives, les émoluments proportionnels de recouvrement ou d'encaissement perçus jusqu'au 5 mai 1999, en application de l'article 10 du décret n° 96-1080 du 12 décembre 1996 portant fixation du tarif des huissiers de justice en matière civile et commerciale, en tant que la régularité de ces émoluments serait mise en cause à raison de l'annulation du décret n° 96-1080 du 12 décembre 1996 précité, sont validés.",
+      "valid_from": "1999-11-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

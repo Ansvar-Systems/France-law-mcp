@@ -1,0 +1,53 @@
+{
+  "id": "legitext000006070669",
+  "type": "statute",
+  "title": "Loi  du 10 septembre 1942",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070669/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Tout notaire dépositaire d'un testament contenant un legs au profit d'une collectivité publique ou d'un établissement public est tenu, dès l'ouverture du testament, d'en donner avis au représentant légal et au receveur de la collectivité ou de l'établissement. La même obligation à l'égard du receveur est imposée à tout notaire ayant reçu un acte portant donation au profit d'une collectivité publique ou d'un établissement public.",
+      "valid_from": "1942-09-16"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Tout mandat conféré, postérieurement à la délivrance ou à l'envoi en possession d'un legs, par le représentant légal d'une collectivité ou d'un établissement public, en vue d'administrer ou de liquider les biens dépendant de ce legs, devra être porté à la connaissance du receveur. Il en sera de même des instructions données au mandataire tant en matière de recettes que de dépenses, la validité desdites instructions étant subordonnée au visa préalable du receveur.",
+      "valid_from": "1942-09-16"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les avis ou documents destinés au receveur de la commune ou de l'établissement devront être adressés par l'intermédiaire du receveur des finances dont dépend ce comptable.",
+      "valid_from": "1942-09-16"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "A partir de la délivrance ou de l'envoi en possession, les opérations de recettes ou de dépenses affectant les biens légués à une collectivité publique ou à un établissement public seront effectuées sous le contrôle du receveur de la collectivité ou de l'établissement et reprises par lui dans ses comptes de gestion.A cet effet, toute personne chargée de l'administration ou de la liquidation desdits biens devra, à la fin de chaque période annuelle et au plus tard le 31 mars suivant, adresser au receveur un relevé des opérations de l'année, appuyé de pièces justificatives.Les relevés annuels et les pièces à l'appui seront, ainsi que le compte final de liquidation, soumis à l'approbation de l'autorité budgétaire et transmis au juge des comptes.Les notaires seront dispensés de l'envoi des pièces originales, mais, sur demande de l'ordonnateur ou du receveur, ils seront tenus d'en fournir des copies certifiées.",
+      "valid_from": "1942-09-16"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Le décret du 30 octobre 1935 relatif au contrôle de l'administration des biens légués aux collectivités publiques est abrogé.",
+      "valid_from": "1942-09-16"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

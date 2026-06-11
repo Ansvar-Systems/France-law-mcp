@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "Est autorisée la ratification du traité de coopération en matière de défense entre la République française et la République de Djibouti, signé à Paris le 24 juillet 2024 et dont le texte est annexé à la présente loi (2)."
+      "content": "Est autorisée la ratification du traité de coopération en matière de défense entre la République française et la République de Djibouti, signé à Paris le 24 juillet 2024 et dont le texte est annexé à la présente loi (2).",
+      "valid_from": "2025-06-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

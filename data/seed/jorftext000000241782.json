@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. et II. - Paragraphes modificateursIII. - Les dispositions des I et II s'appliquent aux revenus perçus à compter du 1er janvier 2007."
+      "content": "I. et II. - Paragraphes modificateursIII. - Les dispositions des I et II s'appliquent aux revenus perçus à compter du 1er janvier 2007.",
+      "valid_from": "2006-10-24"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. et II. - Paragraphes modificateursIII. - Les dispositions du I s'appliquent à compter du 1er janvier 2007 et celles du II aux sommes perçues à compter du 1er janvier 2007."
+      "content": "I. et II. - Paragraphes modificateursIII. - Les dispositions du I s'appliquent à compter du 1er janvier 2007 et celles du II aux sommes perçues à compter du 1er janvier 2007.",
+      "valid_from": "2006-10-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

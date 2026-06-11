@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Jusqu'à la date de l'entrée en fonction des conseils élus en application de la loi qui fixera le nouveau statut du territoire de la Nouvelle-Calédonie et, au plus tard, jusqu'au 14 juillet 1989, les attributions dévolues au conseil exécutif et à son président par la loi n° 88-82 du 22 janvier 1988 portant statut du territoire de la Nouvelle-Calédonie sont exercées par le haut-commissaire de la République."
+      "content": "Jusqu'à la date de l'entrée en fonction des conseils élus en application de la loi qui fixera le nouveau statut du territoire de la Nouvelle-Calédonie et, au plus tard, jusqu'au 14 juillet 1989, les attributions dévolues au conseil exécutif et à son président par la loi n° 88-82 du 22 janvier 1988 portant statut du territoire de la Nouvelle-Calédonie sont exercées par le haut-commissaire de la République.",
+      "valid_from": "1988-07-14"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Dans l'exercice des attributions mentionnées à l'article 1er, le haut-commissaire est assisté par un comité consultatif représentant les principales familles politiques du territoire.\n\nCe comité comprend huit membres désignés par décret en conseil des ministres.\n\nLe haut-commissaire lui soumet pour avis les projets de loi qui devront faire l'objet de la consultation prévue par l'article 74 de la Constitution. Le comité est consulté par le haut-commissaire sur les autres projets de loi et projets de décret relatifs au territoire ainsi que sur les décisions mentionnées au second alinéa de l'article 40 de la loi n° 88-82 du 22 janvier 1988 précitée. Il peut, en outre, être saisi par le haut-commissaire de toute autre question relevant des attributions du conseil exécutif ou de son président."
+      "content": "Dans l'exercice des attributions mentionnées à l'article 1er, le haut-commissaire est assisté par un comité consultatif représentant les principales familles politiques du territoire.\n\nCe comité comprend huit membres désignés par décret en conseil des ministres.\n\nLe haut-commissaire lui soumet pour avis les projets de loi qui devront faire l'objet de la consultation prévue par l'article 74 de la Constitution. Le comité est consulté par le haut-commissaire sur les autres projets de loi et projets de décret relatifs au territoire ainsi que sur les décisions mentionnées au second alinéa de l'article 40 de la loi n° 88-82 du 22 janvier 1988 précitée. Il peut, en outre, être saisi par le haut-commissaire de toute autre question relevant des attributions du conseil exécutif ou de son président.",
+      "valid_from": "1988-07-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

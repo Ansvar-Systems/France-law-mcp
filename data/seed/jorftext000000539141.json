@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code du service national est modifié comme il est dit aux articles 2 à 43."
+      "content": "Le code du service national est modifié comme il est dit aux articles 2 à 43.",
+      "valid_from": "1992-01-07"
     },
     {
       "provision_ref": "art44",
       "section": "44",
       "title": "Article 44",
-      "content": "Les dispositions de l'article 3 de la présente loi sont applicables aux jeunes gens incorporés à partir du 1er octobre 1991. Nonobstant les dispositions qui pourront être prises en application du premier alinéa de l'article L. 76 du code du service national, les jeunes gens qui, incorporés à partir du 1er août 1991, auraient dû accomplir une durée de douze mois, à l'exception des bénéficiaires des dispositions des articles L. 9 et L. 10, bénéficieront d'une réduction d'un mois de la durée de leur service actif. Toutefois, les jeunes gens pourront demander à bénéficier des dispositions antérieures concernant la durée du service actif."
+      "content": "Les dispositions de l'article 3 de la présente loi sont applicables aux jeunes gens incorporés à partir du 1er octobre 1991. Nonobstant les dispositions qui pourront être prises en application du premier alinéa de l'article L. 76 du code du service national, les jeunes gens qui, incorporés à partir du 1er août 1991, auraient dû accomplir une durée de douze mois, à l'exception des bénéficiaires des dispositions des articles L. 9 et L. 10, bénéficieront d'une réduction d'un mois de la durée de leur service actif. Toutefois, les jeunes gens pourront demander à bénéficier des dispositions antérieures concernant la durée du service actif.",
+      "valid_from": "1992-01-07"
     },
     {
       "provision_ref": "art45",
       "section": "45",
       "title": "Article 45",
-      "content": "Les jeunes gens incorporés au titre du service actif de défense terminent leur service national dans cette forme de service. Ils bénéficient des dispositions de l'article 44."
+      "content": "Les jeunes gens incorporés au titre du service actif de défense terminent leur service national dans cette forme de service. Ils bénéficient des dispositions de l'article 44.",
+      "valid_from": "1992-01-07"
     },
     {
       "provision_ref": "art46",
       "section": "46",
       "title": "Article 46",
-      "content": "Les conditions d'application du dernier alinéa de l'article 32, de l'article 41 et du dernier alinéa de l'article 42 font l'objet d'un décret en Conseil d'Etat."
+      "content": "Les conditions d'application du dernier alinéa de l'article 32, de l'article 41 et du dernier alinéa de l'article 42 font l'objet d'un décret en Conseil d'Etat.",
+      "valid_from": "1992-01-07"
     },
     {
       "provision_ref": "art47",
       "section": "47",
       "title": "Article 47",
-      "content": "Le Gouvernement présentera au Parlement, avant le 2 avril 1993, un rapport sur les réserves et leurs conditions de mobilisation. Ce rapport envisagera la possibilité de constituer les réserves par appel prioritaire au volontariat."
+      "content": "Le Gouvernement présentera au Parlement, avant le 2 avril 1993, un rapport sur les réserves et leurs conditions de mobilisation. Ce rapport envisagera la possibilité de constituer les réserves par appel prioritaire au volontariat.",
+      "valid_from": "1992-01-07"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

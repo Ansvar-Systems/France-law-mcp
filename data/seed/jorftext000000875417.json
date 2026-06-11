@@ -12,31 +12,42 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "L'article L. 344-2 du code de l'action sociale et des familles est applicable dans la collectivité territoriale de Saint-Pierre-et-Miquelon."
+      "content": "L'article L. 344-2 du code de l'action sociale et des familles est applicable dans la collectivité territoriale de Saint-Pierre-et-Miquelon.",
+      "valid_from": "2000-12-23"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "La loi n° 66-1010 du 28 décembre 1966 relative à l'usure, aux prêts d'argent et à certaines opérations de démarchage et de publicité est applicable dans la collectivité territoriale de Saint-Pierre-et-Miquelon."
+      "content": "La loi n° 66-1010 du 28 décembre 1966 relative à l'usure, aux prêts d'argent et à certaines opérations de démarchage et de publicité est applicable dans la collectivité territoriale de Saint-Pierre-et-Miquelon.",
+      "valid_from": "1989-01-04"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Par dérogation aux dispositions qui les assujettissent au secret professionnel, les agents de la caisse de prévoyance sociale de Saint-Pierre-et-Miquelon sont tenus de signaler les dettes de cotisations exigibles dans cette collectivité territoriale à l'Institut d'émission des départements d'outre-mer agissant pour le compte de la Banque de France, en vue de l'accomplissement de la mission confiée à cette dernière conformément à l'article 36 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit.Un arrêté des ministres compétents fixe le montant minimum des créances qui doivent faire l'objet d'une communication ainsi que les conditions de cette communication."
+      "content": "Par dérogation aux dispositions qui les assujettissent au secret professionnel, les agents de la caisse de prévoyance sociale de Saint-Pierre-et-Miquelon sont tenus de signaler les dettes de cotisations exigibles dans cette collectivité territoriale à l'Institut d'émission des départements d'outre-mer agissant pour le compte de la Banque de France, en vue de l'accomplissement de la mission confiée à cette dernière conformément à l'article 36 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit.Un arrêté des ministres compétents fixe le montant minimum des créances qui doivent faire l'objet d'une communication ainsi que les conditions de cette communication.",
+      "valid_from": "1989-01-04"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "La loi n° 75-627 du 11 juillet 1975 fixant les conditions d'exercice des activités relatives à l'organisation de voyages ou de séjours est applicable à Saint-Pierre-et-Miquelon."
+      "content": "La loi n° 75-627 du 11 juillet 1975 fixant les conditions d'exercice des activités relatives à l'organisation de voyages ou de séjours est applicable à Saint-Pierre-et-Miquelon.",
+      "valid_from": "1989-01-04"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Sont abrogés les articles 5, 37 et le premier alinéa de l'article 40 de la loi n° 87-563 du 17 juillet 1987 précitée."
+      "content": "Sont abrogés les articles 5, 37 et le premier alinéa de l'article 40 de la loi n° 87-563 du 17 juillet 1987 précitée.",
+      "valid_from": "1989-01-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

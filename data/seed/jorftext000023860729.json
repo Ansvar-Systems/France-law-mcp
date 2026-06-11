@@ -12,13 +12,21 @@
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "La présente loi est applicable dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie."
+      "content": "La présente loi est applicable dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.",
+      "valid_from": "2011-06-01"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "La présente loi entre en vigueur le premier jour du deuxième mois suivant sa publication au Journal officiel et au plus tard le 1er juillet 2011.La présente loi est applicable aux mesures de garde à vue prises à compter de son entrée en vigueur.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "La présente loi entre en vigueur le premier jour du deuxième mois suivant sa publication au Journal officiel et au plus tard le 1er juillet 2011.La présente loi est applicable aux mesures de garde à vue prises à compter de son entrée en vigueur.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2011-06-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année."
+      "content": "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année.",
+      "valid_from": "2004-11-16"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'économie, des finances et de l'industrie, et le ministre de la santé et de la protection sociale sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'économie, des finances et de l'industrie, et le ministre de la santé et de la protection sociale sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2004-11-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

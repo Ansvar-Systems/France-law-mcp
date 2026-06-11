@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La partie législative du code de la construction et de l'habitation a force de loi."
+      "content": "La partie législative du code de la construction et de l'habitation a force de loi.",
+      "valid_from": "1983-06-03"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Sont en conséquence abrogées :I - Les dispositions du code de l'urbanisme et de l'habitation demeurées en vigueur."
+      "content": "Sont en conséquence abrogées :I - Les dispositions du code de l'urbanisme et de l'habitation demeurées en vigueur.",
+      "valid_from": "1983-07-23"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Dans le code de la construction et de l'habitation, tout renvoi à un règlement d'administration publique ou à un décret en forme de règlement d'administration publique est remplacé par un renvoi à un décret en Conseil d'Etat et le mot : \"préfet\" est remplacé par les mots : \"représentant de l'Etat dans le département\"."
+      "content": "Dans le code de la construction et de l'habitation, tout renvoi à un règlement d'administration publique ou à un décret en forme de règlement d'administration publique est remplacé par un renvoi à un décret en Conseil d'Etat et le mot : \"préfet\" est remplacé par les mots : \"représentant de l'Etat dans le département\".",
+      "valid_from": "1983-06-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

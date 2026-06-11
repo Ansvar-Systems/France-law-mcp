@@ -12,73 +12,91 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'article L. 121-24 du code des communes est abrogé."
+      "content": "L'article L. 121-24 du code des communes est abrogé.",
+      "valid_from": "1992-02-05"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "L'article 19 de la loi du 10 août 1871 précitée est abrogé."
+      "content": "L'article 19 de la loi du 10 août 1871 précitée est abrogé.",
+      "valid_from": "1992-02-05"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les dispositions des articles 2 à 7 de la loi du 10 août 1871 précitée sont applicables aux présidents, aux vice-présidents et aux membres de l'assemblée de la Polynésie française et de l'assemblée territoriale de Wallis-et-Futuna, du congrès, du gouvernement et des assemblées de province de la Nouvelle-Calédonie. Pour l'application du présent article, les fonctions de président des assemblées susvisées sont assimilées à celles de président de conseil général, celles de vice-président de ces assemblées à celles de vice-président de conseil général et le mandat des membres de ces assemblées à celui des conseillers généraux.Pour leur application à Mayotte, les articles 2, 3, 4, 5, et 6 de la loi du 10 aôut 1871 précitée portent respectivement les numéros 4, 5, 6, 7, et 8.Les fonctionnaires exerçant un mandat d'élu local bénéficient à leur demande d'une mise en disponibilité de plein droit pendant la durée de leur mandat."
+      "content": "Les dispositions des articles 2 à 7 de la loi du 10 août 1871 précitée sont applicables aux présidents, aux vice-présidents et aux membres de l'assemblée de la Polynésie française et de l'assemblée territoriale de Wallis-et-Futuna, du congrès, du gouvernement et des assemblées de province de la Nouvelle-Calédonie. Pour l'application du présent article, les fonctions de président des assemblées susvisées sont assimilées à celles de président de conseil général, celles de vice-président de ces assemblées à celles de vice-président de conseil général et le mandat des membres de ces assemblées à celui des conseillers généraux.Pour leur application à Mayotte, les articles 2, 3, 4, 5, et 6 de la loi du 10 aôut 1871 précitée portent respectivement les numéros 4, 5, 6, 7, et 8.Les fonctionnaires exerçant un mandat d'élu local bénéficient à leur demande d'une mise en disponibilité de plein droit pendant la durée de leur mandat.",
+      "valid_from": "2004-03-02"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les dispositions des articles 10 à 13 de la loi du 10 août 1871 précitée sont applicables aux membres de l'assemblée de la Polynésie française et de l'assemblée territoriale de Wallis-et-Futuna, du congrès, du gouvernement et des assemblées de province de la Nouvelle-Calédonie."
+      "content": "Les dispositions des articles 10 à 13 de la loi du 10 août 1871 précitée sont applicables aux membres de l'assemblée de la Polynésie française et de l'assemblée territoriale de Wallis-et-Futuna, du congrès, du gouvernement et des assemblées de province de la Nouvelle-Calédonie.",
+      "valid_from": "2004-03-02"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "L'article L. 123-7 du code des communes est abrogé."
+      "content": "L'article L. 123-7 du code des communes est abrogé.",
+      "valid_from": "1992-02-05"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "L'article L. 123-9 du code des communes est abrogé."
+      "content": "L'article L. 123-9 du code des communes est abrogé.",
+      "valid_from": "1992-02-05"
     },
     {
       "provision_ref": "art22-1",
       "section": "22-1",
       "title": "Article 22-1",
-      "content": "Les articles 15, 17 à 20 et 22 de la présente loi sont applicables à Mayotte sous réserve des adaptations suivantes : dans l'article 15 (art. L. 123-4 du code des communes applicable localement) et dans l'article 19, les mots : \" à l'indice brut terminal de l'échelle indiciaire de la fonction publique\" sont remplacés par les mots : \"à l'indice hiérarchique terminal de la rémunération des fonctionnaires de Mayotte relevant des dispositions de l'ordonnance n° 96-782 du 5 septembre 1996 portant statut général des fonctionnaires de la collectivité territoriale, des communes et des établissements publics de Mayotte."
+      "content": "Les articles 15, 17 à 20 et 22 de la présente loi sont applicables à Mayotte sous réserve des adaptations suivantes : dans l'article 15 (art. L. 123-4 du code des communes applicable localement) et dans l'article 19, les mots : \" à l'indice brut terminal de l'échelle indiciaire de la fonction publique\" sont remplacés par les mots : \"à l'indice hiérarchique terminal de la rémunération des fonctionnaires de Mayotte relevant des dispositions de l'ordonnance n° 96-782 du 5 septembre 1996 portant statut général des fonctionnaires de la collectivité territoriale, des communes et des établissements publics de Mayotte.",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Le membre du Gouvernement titulaire de mandats électoraux ne peut percevoir, au titre de ses mandats locaux plus d'une demi-fois le montant de l'indemnité parlementaire prévue à l'article 1er de l'ordonnance n° 58-1210 du 13 décembre 1958 portant loi organique relative à l'indemnité des membres du Parlement."
+      "content": "Le membre du Gouvernement titulaire de mandats électoraux ne peut percevoir, au titre de ses mandats locaux plus d'une demi-fois le montant de l'indemnité parlementaire prévue à l'article 1er de l'ordonnance n° 58-1210 du 13 décembre 1958 portant loi organique relative à l'indemnité des membres du Parlement.",
+      "valid_from": "2011-04-20"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "L'article 38 de la loi du 27 février 1912 portant fixation du budget général des dépenses et des recettes de l'exercice 1912 est abrogé."
+      "content": "L'article 38 de la loi du 27 février 1912 portant fixation du budget général des dépenses et des recettes de l'exercice 1912 est abrogé.",
+      "valid_from": "1992-02-05"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "I. - En ce qui concerne l'assurance vieillesse et les prestations en nature de l'assurance maladie et maternité, le président du conseil général de Saint-Pierre-et-Miquelon, s'il cesse, pour la durée de son mandat, son activité professionnelle et n'acquiert plus aucun droit au titre d'un régime obligatoire de protection sociale, est affilié à la caisse de prévoyance sociale mentionnée à l'article 5 de l'ordonnance n° 77-1102 du 26 septembre 1977 portant extension et adaptation au département de Saint-Pierre-et-Miquelon de diverses dispositions relatives aux affaires sociales.\n\nLes cotisations de la collectivité et celles du président du conseil général sont calculées sur le montant des indemnités effectivement perçues par ce dernier en application des dispositions des articles 14 et 15 de la loi du 10 août 1871 précitée.\n\nII. - paragraphe modificateur"
+      "content": "I. - En ce qui concerne l'assurance vieillesse et les prestations en nature de l'assurance maladie et maternité, le président du conseil général de Saint-Pierre-et-Miquelon, s'il cesse, pour la durée de son mandat, son activité professionnelle et n'acquiert plus aucun droit au titre d'un régime obligatoire de protection sociale, est affilié à la caisse de prévoyance sociale mentionnée à l'article 5 de l'ordonnance n° 77-1102 du 26 septembre 1977 portant extension et adaptation au département de Saint-Pierre-et-Miquelon de diverses dispositions relatives aux affaires sociales.\n\nLes cotisations de la collectivité et celles du président du conseil général sont calculées sur le montant des indemnités effectivement perçues par ce dernier en application des dispositions des articles 14 et 15 de la loi du 10 août 1871 précitée.\n\nII. - paragraphe modificateur",
+      "valid_from": "1992-02-05"
     },
     {
       "provision_ref": "art41",
       "section": "41",
       "title": "Article 41",
-      "content": "Les dispositions des titres III, IV et V de la présente loi sont applicables aux membres des conseils municipaux, des conseils d'arrondissement, des conseils généraux et des conseils régionaux et aux membres des comités économiques et sociaux à compter du prochain renouvellement des conseils généraux et des conseils régionaux dans les conditions prévues par la loi n° 90-1103 du 11 décembre 1990 organisant la concomitance des renouvellements des conseils généraux et des conseils régionaux."
+      "content": "Les dispositions des titres III, IV et V de la présente loi sont applicables aux membres des conseils municipaux, des conseils d'arrondissement, des conseils généraux et des conseils régionaux et aux membres des comités économiques et sociaux à compter du prochain renouvellement des conseils généraux et des conseils régionaux dans les conditions prévues par la loi n° 90-1103 du 11 décembre 1990 organisant la concomitance des renouvellements des conseils généraux et des conseils régionaux.",
+      "valid_from": "1992-02-05"
     },
     {
       "provision_ref": "art43",
       "section": "43",
       "title": "Article 43",
-      "content": "L'indemnité parlementaire définie à l'article 1er de l'ordonnance n° 58-1210 du 13 décembre 1958 portant loi organique relative à l'indemnité des membres du Parlement est imposable à l'impôt sur le revenu dans les conditions de droit commun. La date d'entrée en vigueur de la présente disposition sera fixée par la loi de finances pour 1993."
+      "content": "L'indemnité parlementaire définie à l'article 1er de l'ordonnance n° 58-1210 du 13 décembre 1958 portant loi organique relative à l'indemnité des membres du Parlement est imposable à l'impôt sur le revenu dans les conditions de droit commun. La date d'entrée en vigueur de la présente disposition sera fixée par la loi de finances pour 1993.",
+      "valid_from": "1992-02-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

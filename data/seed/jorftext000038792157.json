@@ -12,13 +12,21 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "I.-L'ordonnance n° 2017-747 du 4 mai 2017 portant diverses mesures facilitant la prise de décision et la participation des actionnaires au sein des sociétés est ratifiée.II.-L'ordonnance n° 2017-1180 du 19 juillet 2017 relative à la publication d'informations non financières par certaines grandes entreprises et certains groupes d'entreprises est ratifiée."
+      "content": "I.-L'ordonnance n° 2017-747 du 4 mai 2017 portant diverses mesures facilitant la prise de décision et la participation des actionnaires au sein des sociétés est ratifiée.II.-L'ordonnance n° 2017-1180 du 19 juillet 2017 relative à la publication d'informations non financières par certaines grandes entreprises et certains groupes d'entreprises est ratifiée.",
+      "valid_from": "2019-07-21"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de commerce\n\nII. - Le présent article est applicable à compter des assemblées générales réunies pour statuer sur le premier exercice clos après la promulgation de la présente loi."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de commerce\n\nII. - Le présent article est applicable à compter des assemblées générales réunies pour statuer sur le premier exercice clos après la promulgation de la présente loi.",
+      "valid_from": "2019-07-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

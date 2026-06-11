@@ -12,79 +12,98 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Toute personne physique ou morale qui édite ou importe des livres est tenue de fixer, pour les livres qu'elle édite ou importe, un prix de vente au public.\n\nCe prix est porté à la connaissance du public. Un décret précisera, notamment, les conditions dans lesquelles il sera indiqué sur le livre et déterminera également les obligations de l'éditeur ou de l'importateur en ce qui concerne les mentions permettant l'identification du livre et le calcul des délais prévus par la présente loi.\n\nTout détaillant doit offrir le service gratuit de commande à l'unité. Toutefois, et dans ce seul cas, le détaillant peut ajouter au prix effectif de vente au public qu'il pratique les frais ou rémunérations correspondant à des prestations supplémentaires exceptionnelles expressément réclamées par l'acheteur et dont le coût a fait l'objet d'un accord préalable.\n\nLes détaillants doivent pratiquer un prix effectif de vente au public compris entre 95 % et 100 % du prix fixé par l'éditeur ou l'importateur. Lorsque le livre est expédié à l'acheteur et n'est pas retiré dans un commerce de vente au détail de livres, le prix de vente est celui fixé par l'éditeur ou l'importateur. Le service de livraison du livre ne peut en aucun cas, que ce soit directement ou indirectement, être proposé par le détaillant à titre gratuit, sauf si le livre est retiré dans un commerce de vente au détail de livres. Il doit être facturé dans le respect d'un montant minimal de tarification fixé par arrêté des ministres chargés de la culture et de l'économie sur proposition de l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse. Cet arrêté tient compte des tarifs proposés par les prestataires de services postaux sur le marché de la vente au détail de livres et de l'impératif de maintien sur le territoire d'un réseau dense de détaillants.\n\nDans le cas où l'importation concerne des livres édités en France, le prix de vente au public fixé par l'importateur est au moins égal à celui qui a été fixé par l'éditeur.\n\nLes dispositions de l'alinéa précédent ne sont pas applicables aux livres importés en provenance d'un Etat membre de la Communauté économique européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, sauf si des éléments objectifs, notamment l'absence de commercialisation effective dans cet Etat, établissent que l'opération a eu pour objet de soustraire la vente au public aux dispositions du quatrième alinéa du présent article.\n\nLes personnes vendant simultanément des livres neufs et des livres d'occasion ainsi que celles qui mettent à la disposition de tiers des infrastructures leur permettant de vendre ces deux types de produits s'assurent que le prix de vente des livres est communiqué en distinguant, à tout moment et quel qu'en soit le mode de consultation, l'offre de livres neufs et l'offre de livres d'occasion. L'affichage du prix des livres ne doit pas laisser penser au public qu'un livre neuf peut être vendu à un prix différent de celui qui a été fixé par l'éditeur ou l'importateur. Un décret fixe les conditions d'application du présent alinéa."
+      "content": "Toute personne physique ou morale qui édite ou importe des livres est tenue de fixer, pour les livres qu'elle édite ou importe, un prix de vente au public.\n\nCe prix est porté à la connaissance du public. Un décret précisera, notamment, les conditions dans lesquelles il sera indiqué sur le livre et déterminera également les obligations de l'éditeur ou de l'importateur en ce qui concerne les mentions permettant l'identification du livre et le calcul des délais prévus par la présente loi.\n\nTout détaillant doit offrir le service gratuit de commande à l'unité. Toutefois, et dans ce seul cas, le détaillant peut ajouter au prix effectif de vente au public qu'il pratique les frais ou rémunérations correspondant à des prestations supplémentaires exceptionnelles expressément réclamées par l'acheteur et dont le coût a fait l'objet d'un accord préalable.\n\nLes détaillants doivent pratiquer un prix effectif de vente au public compris entre 95 % et 100 % du prix fixé par l'éditeur ou l'importateur. Lorsque le livre est expédié à l'acheteur et n'est pas retiré dans un commerce de vente au détail de livres, le prix de vente est celui fixé par l'éditeur ou l'importateur. Le service de livraison du livre ne peut en aucun cas, que ce soit directement ou indirectement, être proposé par le détaillant à titre gratuit, sauf si le livre est retiré dans un commerce de vente au détail de livres. Il doit être facturé dans le respect d'un montant minimal de tarification fixé par arrêté des ministres chargés de la culture et de l'économie sur proposition de l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse. Cet arrêté tient compte des tarifs proposés par les prestataires de services postaux sur le marché de la vente au détail de livres et de l'impératif de maintien sur le territoire d'un réseau dense de détaillants.\n\nDans le cas où l'importation concerne des livres édités en France, le prix de vente au public fixé par l'importateur est au moins égal à celui qui a été fixé par l'éditeur.\n\nLes dispositions de l'alinéa précédent ne sont pas applicables aux livres importés en provenance d'un Etat membre de la Communauté économique européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, sauf si des éléments objectifs, notamment l'absence de commercialisation effective dans cet Etat, établissent que l'opération a eu pour objet de soustraire la vente au public aux dispositions du quatrième alinéa du présent article.\n\nLes personnes vendant simultanément des livres neufs et des livres d'occasion ainsi que celles qui mettent à la disposition de tiers des infrastructures leur permettant de vendre ces deux types de produits s'assurent que le prix de vente des livres est communiqué en distinguant, à tout moment et quel qu'en soit le mode de consultation, l'offre de livres neufs et l'offre de livres d'occasion. L'affichage du prix des livres ne doit pas laisser penser au public qu'un livre neuf peut être vendu à un prix différent de celui qui a été fixé par l'éditeur ou l'importateur. Un décret fixe les conditions d'application du présent alinéa.",
+      "valid_from": "2023-12-23"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Par dérogation aux dispositions de l'article 37 (1°) (1) de la loi n° 73-1193 du 27 décembre 1973 modifiée, les conditions de vente établies par l'éditeur ou l'importateur, en appliquant un barème d'écart sur le prix de vente au public hors taxes, prennent en compte la qualité des services rendus par les détaillants en faveur de la diffusion du livre. Les remises correspondantes doivent être supérieures à celles résultant de l'importance des quantités acquises par les détaillants."
+      "content": "Par dérogation aux dispositions de l'article 37 (1°) (1) de la loi n° 73-1193 du 27 décembre 1973 modifiée, les conditions de vente établies par l'éditeur ou l'importateur, en appliquant un barème d'écart sur le prix de vente au public hors taxes, prennent en compte la qualité des services rendus par les détaillants en faveur de la diffusion du livre. Les remises correspondantes doivent être supérieures à celles résultant de l'importance des quantités acquises par les détaillants.",
+      "valid_from": "1982-01-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Par dérogation aux dispositions du quatrième alinéa de l'article 1er et sous réserve des dispositions du dernier alinéa, le prix effectif de vente des livres peut être compris entre 91 % et 100 % du prix de vente au public lorsque l'achat est réalisé :1° Pour leurs besoins propres, excluant la revente, par l'Etat, les collectivités territoriales, les établissements d'enseignement, de formation professionnelle ou de recherche, les syndicats représentatifs ou les comités d'entreprise ;2° Pour l'enrichissement des collections des bibliothèques accueillant du public, par les personnes morales gérant ces bibliothèques. Le prix effectif inclut le montant de la rémunération au titre du prêt en bibliothèque assise sur le prix public de vente des livres prévue à l'article L. 133-3 du code de la propriété intellectuelle.Le prix effectif de vente des livres scolaires peut être fixé librement dès lors que l'achat est effectué par une association facilitant l'acquisition de livres scolaires par ses membres ou, pour leurs besoins propres, excluant la revente, par l'Etat, une collectivité territoriale ou un établissement d'enseignement."
+      "content": "Par dérogation aux dispositions du quatrième alinéa de l'article 1er et sous réserve des dispositions du dernier alinéa, le prix effectif de vente des livres peut être compris entre 91 % et 100 % du prix de vente au public lorsque l'achat est réalisé :1° Pour leurs besoins propres, excluant la revente, par l'Etat, les collectivités territoriales, les établissements d'enseignement, de formation professionnelle ou de recherche, les syndicats représentatifs ou les comités d'entreprise ;2° Pour l'enrichissement des collections des bibliothèques accueillant du public, par les personnes morales gérant ces bibliothèques. Le prix effectif inclut le montant de la rémunération au titre du prêt en bibliothèque assise sur le prix public de vente des livres prévue à l'article L. 133-3 du code de la propriété intellectuelle.Le prix effectif de vente des livres scolaires peut être fixé librement dès lors que l'achat est effectué par une association facilitant l'acquisition de livres scolaires par ses membres ou, pour leurs besoins propres, excluant la revente, par l'Etat, une collectivité territoriale ou un établissement d'enseignement.",
+      "valid_from": "2003-06-19"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Toute personne qui publie un livre en vue de sa diffusion par courtage, abonnement ou par correspondance moins de neuf mois après la mise en vente de la première édition fixe, pour ce livre, un prix de vente au public au moins égal à celui de cette première édition."
+      "content": "Toute personne qui publie un livre en vue de sa diffusion par courtage, abonnement ou par correspondance moins de neuf mois après la mise en vente de la première édition fixe, pour ce livre, un prix de vente au public au moins égal à celui de cette première édition.",
+      "valid_from": "1982-01-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les détaillants peuvent pratiquer des prix inférieurs au prix de vente au public mentionné à l'article 1er sur les livres édités ou importés depuis plus de deux ans, et dont le dernier approvisionnement remonte à plus de six mois.\n\nLe premier alinéa du présent article ne s'applique pas aux éditeurs dans leurs activités de détaillants lorsqu'ils vendent les livres qu'ils éditent."
+      "content": "Les détaillants peuvent pratiquer des prix inférieurs au prix de vente au public mentionné à l'article 1er sur les livres édités ou importés depuis plus de deux ans, et dont le dernier approvisionnement remonte à plus de six mois.\n\nLe premier alinéa du présent article ne s'applique pas aux éditeurs dans leurs activités de détaillants lorsqu'ils vendent les livres qu'ils éditent.",
+      "valid_from": "2022-01-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les ventes à prime ne sont autorisées, sous réserve des dispositions de la loi n° 51-356 du 20 mars 1951 modifiée et de la loi n° 73-1193 du 27 décembre 1973 modifiée, que si elles sont proposées, par l'éditeur ou l'importateur, simultanément et dans les mêmes conditions à l'ensemble des détaillants ou si elles portent sur des livres faisant l'objet d'une édition exclusivement réservée à la vente par courtage, par abonnement ou par correspondance."
+      "content": "Les ventes à prime ne sont autorisées, sous réserve des dispositions de la loi n° 51-356 du 20 mars 1951 modifiée et de la loi n° 73-1193 du 27 décembre 1973 modifiée, que si elles sont proposées, par l'éditeur ou l'importateur, simultanément et dans les mêmes conditions à l'ensemble des détaillants ou si elles portent sur des livres faisant l'objet d'une édition exclusivement réservée à la vente par courtage, par abonnement ou par correspondance.",
+      "valid_from": "1982-01-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Toute publicité annonçant des prix inférieurs au prix de vente au public mentionné à l'article 1er (alinéa 1er) est interdite hors des lieux de vente."
+      "content": "Toute publicité annonçant des prix inférieurs au prix de vente au public mentionné à l'article 1er (alinéa 1er) est interdite hors des lieux de vente.",
+      "valid_from": "1982-01-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "En cas d'infraction aux dispositions de la présente loi, les actions en cessation ou en réparation peuvent être engagées, notamment par tout concurrent, association agréée de défense des consommateurs ou syndicat des professionnels de l'édition ou de la diffusion de livres ainsi que par l'auteur ou toute organisation de défense des auteurs.\n\nLes actions prévues au premier alinéa sont soumises à la conciliation préalable du médiateur du livre prévue à l'article 144 de la loi n° 2014-344 du 17 mars 2014 relative à la consommation."
+      "content": "En cas d'infraction aux dispositions de la présente loi, les actions en cessation ou en réparation peuvent être engagées, notamment par tout concurrent, association agréée de défense des consommateurs ou syndicat des professionnels de l'édition ou de la diffusion de livres ainsi que par l'auteur ou toute organisation de défense des auteurs.\n\nLes actions prévues au premier alinéa sont soumises à la conciliation préalable du médiateur du livre prévue à l'article 144 de la loi n° 2014-344 du 17 mars 2014 relative à la consommation.",
+      "valid_from": "2022-01-01"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les dispositions de la présente loi ne font pas obstacle à l'application, le cas échéant, de l'ordonnance n° 45-1483 du 30 juin 1945 modifiée relative aux prix, à l'exception toutefois des premier et deuxième alinéas du 4° de l'article 37 de ladite ordonnance."
+      "content": "Les dispositions de la présente loi ne font pas obstacle à l'application, le cas échéant, de l'ordonnance n° 45-1483 du 30 juin 1945 modifiée relative aux prix, à l'exception toutefois des premier et deuxième alinéas du 4° de l'article 37 de ladite ordonnance.",
+      "valid_from": "1982-01-01"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Un décret détermine les modalités d'application de la présente loi aux départements d'outre-mer, compte tenu des sujétions dues à l'éloignement de ces départements.Le prix des livres scolaires est identique en métropole et dans les départements d'outre-mer."
+      "content": "Un décret détermine les modalités d'application de la présente loi aux départements d'outre-mer, compte tenu des sujétions dues à l'éloignement de ces départements.Le prix des livres scolaires est identique en métropole et dans les départements d'outre-mer.",
+      "valid_from": "2002-12-31"
     },
     {
       "provision_ref": "art10bis",
       "section": "10bis",
       "title": "Article 10bis",
-      "content": "Un décret en Conseil d'Etat détermine les peines d'amendes contraventionnelles applicables en cas d'infraction aux dispositions de la présente loi."
+      "content": "Un décret en Conseil d'Etat détermine les peines d'amendes contraventionnelles applicables en cas d'infraction aux dispositions de la présente loi.",
+      "valid_from": "1985-05-14"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "La présente loi entrera en vigueur à la date du 1er janvier 1982, y compris pour l'ensemble des livres édités ou importés antérieurement à cette date.Le Gouvernement présentera au Parlement, avant le 1er juin 1983, un rapport sur l'application de la loi ainsi que sur les mesures prises en faveur du livre et de la lecture publique."
+      "content": "La présente loi entrera en vigueur à la date du 1er janvier 1982, y compris pour l'ensemble des livres édités ou importés antérieurement à cette date.Le Gouvernement présentera au Parlement, avant le 1er juin 1983, un rapport sur l'application de la loi ainsi que sur les mesures prises en faveur du livre et de la lecture publique.",
+      "valid_from": "1982-01-01"
     },
     {
       "provision_ref": "art11-1",
       "section": "11-1",
       "title": "Article 11-1",
-      "content": "La présente loi est applicable à Mayotte à compter du 1er janvier 2009."
+      "content": "La présente loi est applicable à Mayotte à compter du 1er janvier 2009.",
+      "valid_from": "2008-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

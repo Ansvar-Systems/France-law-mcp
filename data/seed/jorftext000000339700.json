@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Dans les entreprises industrielles et commerciales, les conventions collectives ou les contrats individuels de travail conclus ou renouvelés à compter de la date d'application de la présente ordonnance ne pourront comporter de dispositions prévoyant l'attribution, au titre d'avantages en nature, de boissons alcooliques aux salariés."
+      "content": "Dans les entreprises industrielles et commerciales, les conventions collectives ou les contrats individuels de travail conclus ou renouvelés à compter de la date d'application de la présente ordonnance ne pourront comporter de dispositions prévoyant l'attribution, au titre d'avantages en nature, de boissons alcooliques aux salariés.",
+      "valid_from": "1960-11-30"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Lorsqu'une convention collective ou un contrat individuel de travail en vigueur à la date d'application de la présente ordonnance dans une des entreprises visées à l'article 1er prévoit l'attribution au titre d'avantages en nature de boissons alcooliques aux salariés, ceux-ci auront la faculté de demander la conversion en espèces desdits avantages."
+      "content": "Lorsqu'une convention collective ou un contrat individuel de travail en vigueur à la date d'application de la présente ordonnance dans une des entreprises visées à l'article 1er prévoit l'attribution au titre d'avantages en nature de boissons alcooliques aux salariés, ceux-ci auront la faculté de demander la conversion en espèces desdits avantages.",
+      "valid_from": "1960-11-30"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions de la présente ordonnance ne s'appliquent pas aux boissons servies à l'occasion des repas constituant un avantage en nature."
+      "content": "Les dispositions de la présente ordonnance ne s'appliquent pas aux boissons servies à l'occasion des repas constituant un avantage en nature.",
+      "valid_from": "1960-11-30"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, et le ministre du travail sont chargés de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, et le ministre du travail sont chargés de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "1960-11-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

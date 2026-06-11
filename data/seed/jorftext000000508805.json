@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les équipements sportifs et socio-éducatifs édifiés avec l'aide financière de l'Etat sont accessibles à toutes les catégories d'utilisateurs."
+      "content": "Les équipements sportifs et socio-éducatifs édifiés avec l'aide financière de l'Etat sont accessibles à toutes les catégories d'utilisateurs.",
+      "valid_from": "1971-07-14"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Pour bénéficier du concours de l'Etat, les collectivités territoriales, les établissements publics, les sociétés d'économie mixte et les associations agréées sont tenus d'assurer l'utilisation optimale des installations existantes ou à créer.Des conventions fixent les conditions d'utilisation des installations et les modalités de répartition des frais de fonctionnement entre les utilisateurs."
+      "content": "Pour bénéficier du concours de l'Etat, les collectivités territoriales, les établissements publics, les sociétés d'économie mixte et les associations agréées sont tenus d'assurer l'utilisation optimale des installations existantes ou à créer.Des conventions fixent les conditions d'utilisation des installations et les modalités de répartition des frais de fonctionnement entre les utilisateurs.",
+      "valid_from": "1971-07-14"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les conditions d'application des articles 1er et 2 sont fixées par un décret en Conseil d'Etat."
+      "content": "Les conditions d'application des articles 1er et 2 sont fixées par un décret en Conseil d'Etat.",
+      "valid_from": "1971-07-14"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Dans tous les équipements subventionnés, les aménagements conçus spécialement pour faciliter l'accès aux handicapés physiques bénéficient d'un taux de subvention préférentiel.Les projets d'équipements sportifs présentés par des associations de communes, par un syndicat de communes, recevront un ordre de priorité.Les actions de formation des professeurs d'éducation physique et des animateurs sont entreprises par priorité, pour que soient respectées dans le domaine des sports les normes d'encadrement et satisfaits les besoins du secteur socio-éducatif. Les équipements destinés à la formation de ces personnels font l'objet d'un programme prioritaire."
+      "content": "Dans tous les équipements subventionnés, les aménagements conçus spécialement pour faciliter l'accès aux handicapés physiques bénéficient d'un taux de subvention préférentiel.Les projets d'équipements sportifs présentés par des associations de communes, par un syndicat de communes, recevront un ordre de priorité.Les actions de formation des professeurs d'éducation physique et des animateurs sont entreprises par priorité, pour que soient respectées dans le domaine des sports les normes d'encadrement et satisfaits les besoins du secteur socio-éducatif. Les équipements destinés à la formation de ces personnels font l'objet d'un programme prioritaire.",
+      "valid_from": "1971-07-14"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Gouvernement présentera, chaque année, au Parlement, lors de la session de printemps, un rapport sur l'état d'exécution de la présente loi de programme."
+      "content": "Le Gouvernement présentera, chaque année, au Parlement, lors de la session de printemps, un rapport sur l'état d'exécution de la présente loi de programme.",
+      "valid_from": "1971-07-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

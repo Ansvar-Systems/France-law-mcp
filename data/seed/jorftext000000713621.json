@@ -12,13 +12,21 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "L'article 11 de la loi du 24 décembre 1934 tendant à réaliser l'assainissement du marché des vins est abrogé."
+      "content": "L'article 11 de la loi du 24 décembre 1934 tendant à réaliser l'assainissement du marché des vins est abrogé.",
+      "valid_from": "1994-06-04"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "L'article 7 de la loi n° 90-1260 du 31 décembre 1990 d'actualisation de dispositions relatives à l'exercice des professions commerciales et artisanales est abrogé."
+      "content": "L'article 7 de la loi n° 90-1260 du 31 décembre 1990 d'actualisation de dispositions relatives à l'exercice des professions commerciales et artisanales est abrogé.",
+      "valid_from": "1994-06-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

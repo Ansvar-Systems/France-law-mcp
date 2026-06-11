@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "A la demande de chaque intéressé, la caisse nationale des barreaux français exerce les droits et assume les obligations de la caisse des barreaux d'Algérie, en vue de l'application des articles 2, 3 et 4 ci-après.Dans les mêmes conditions, la caisse des barreaux d'Algérie exerce les droits et assume les obligations de la caisse nationale des barreaux français."
+      "content": "A la demande de chaque intéressé, la caisse nationale des barreaux français exerce les droits et assume les obligations de la caisse des barreaux d'Algérie, en vue de l'application des articles 2, 3 et 4 ci-après.Dans les mêmes conditions, la caisse des barreaux d'Algérie exerce les droits et assume les obligations de la caisse nationale des barreaux français.",
+      "valid_from": "1962-07-03"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les prestations prises en charge par la caisse nationale des barreaux français sont calculées sur la base d'un élément de pension égal à la fraction de pension, qu'aurait obtenue ou obtiendrait un avocat métropolitain pour une année d'affiliation à la caisse métropolitaine.De même, l'élément de pension pris en charge par la caisse des barreaux d'Algérie est égal à la fraction de pension qu'aurait obtenue ou obtiendrait un avocat d'Algérie pour une année d'affiliation à la caisse algérienne."
+      "content": "Les prestations prises en charge par la caisse nationale des barreaux français sont calculées sur la base d'un élément de pension égal à la fraction de pension, qu'aurait obtenue ou obtiendrait un avocat métropolitain pour une année d'affiliation à la caisse métropolitaine.De même, l'élément de pension pris en charge par la caisse des barreaux d'Algérie est égal à la fraction de pension qu'aurait obtenue ou obtiendrait un avocat d'Algérie pour une année d'affiliation à la caisse algérienne.",
+      "valid_from": "1962-07-03"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les charges financières afférentes à la prise en charge des éléments de pension sont supportées par la caisse d'origine, conformément à un accord passé entre les deux caisses.L'entrée en vigueur de cet accord, est soumis aux règles prévues à l'article 33 du décret n° 55-413 du 2 avril 1955 portant règlement d'administration publique relatif à la caisse nationale des barreaux français."
+      "content": "Les charges financières afférentes à la prise en charge des éléments de pension sont supportées par la caisse d'origine, conformément à un accord passé entre les deux caisses.L'entrée en vigueur de cet accord, est soumis aux règles prévues à l'article 33 du décret n° 55-413 du 2 avril 1955 portant règlement d'administration publique relatif à la caisse nationale des barreaux français.",
+      "valid_from": "1962-07-03"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions de la présente ordonnance sont applicables aux retraites en cours de jouissance et en cours d'acquisition ainsi qu'aux pensions de réversion."
+      "content": "Les dispositions de la présente ordonnance sont applicables aux retraites en cours de jouissance et en cours d'acquisition ainsi qu'aux pensions de réversion.",
+      "valid_from": "1962-07-03"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les modalités d'application de la présente ordonnance sont définies par l'accord prévu à l'article 3."
+      "content": "Les modalités d'application de la présente ordonnance sont définies par l'accord prévu à l'article 3.",
+      "valid_from": "1962-07-03"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, le ministre du travail et le ministre des finances et des affaires économiques sont chargés, chacun en ce qui le concerne, de l'application du présent décret, qui sera publié au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, le ministre du travail et le ministre des finances et des affaires économiques sont chargés, chacun en ce qui le concerne, de l'application du présent décret, qui sera publié au Journal officiel de la République française.",
+      "valid_from": "1962-07-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

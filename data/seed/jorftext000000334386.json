@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les officiers généraux qui se trouvent à plus de deux ans de l’âge\nmaximal de maintien en première section de leur corps et les fonctionnaires,\nqui se trouvent à plus de deux ans de la limite d'âge du grade qu'ils\ndétiennent dans leur corps, peuvent être nommés, dans des emplois\nde contrôleurs généraux des armées en mission extraordinaire lorsqu'ils\nont occupé, en, matière de défense ou d'organisation et d'administration\ndes armées, des postes de haute responsabilité. Cette nomination intervient,\npour les fonctionnaires, par voie de détachement."
+      "content": "Les officiers généraux qui se trouvent à plus de deux ans de l’âge\nmaximal de maintien en première section de leur corps et les fonctionnaires,\nqui se trouvent à plus de deux ans de la limite d'âge du grade qu'ils\ndétiennent dans leur corps, peuvent être nommés, dans des emplois\nde contrôleurs généraux des armées en mission extraordinaire lorsqu'ils\nont occupé, en, matière de défense ou d'organisation et d'administration\ndes armées, des postes de haute responsabilité. Cette nomination intervient,\npour les fonctionnaires, par voie de détachement.",
+      "valid_from": "1976-04-30"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Pendant la durée de leur mission, les contrôleurs généraux des\narmées en mission extraordinaire sont régis par les dispositions du\nstatut général des militaires et celles du statut particulier du corps\nmilitaire du contrôle général des armées. relatives aux contrôleurs\ngénéraux.La limite d'âge de ces derniers leur est applicable sans que cette\ndisposition puisse avoir pour effet de permettre aux intéressés de\ndépasser de plus de deux ans la limite d'âge, ou dans le cas des officiers\ngénéraux, l’âge maximal de maintien en première section qui leur était\napplicable dans leur corps d'origine.La durée de la mission des contrôleurs généraux des armées en\nmission extraordinaire est fixée à quatre ans au maximum ; elle peut\nêtre renouvelée une fois dans les mêmes limites."
+      "content": "Pendant la durée de leur mission, les contrôleurs généraux des\narmées en mission extraordinaire sont régis par les dispositions du\nstatut général des militaires et celles du statut particulier du corps\nmilitaire du contrôle général des armées. relatives aux contrôleurs\ngénéraux.La limite d'âge de ces derniers leur est applicable sans que cette\ndisposition puisse avoir pour effet de permettre aux intéressés de\ndépasser de plus de deux ans la limite d'âge, ou dans le cas des officiers\ngénéraux, l’âge maximal de maintien en première section qui leur était\napplicable dans leur corps d'origine.La durée de la mission des contrôleurs généraux des armées en\nmission extraordinaire est fixée à quatre ans au maximum ; elle peut\nêtre renouvelée une fois dans les mêmes limites.",
+      "valid_from": "1976-04-30"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Jusqu'au 1er janvier 1978, par dérogation aux dispositions de\nl'article 1er, les officiers généraux qui se trouveront à moins de\ndeux ans de la limite d'âge de leur grade pourront être nommés dans\ndes emplois de contrôleurs généraux des armées en mission extraordinaire."
+      "content": "Jusqu'au 1er janvier 1978, par dérogation aux dispositions de\nl'article 1er, les officiers généraux qui se trouveront à moins de\ndeux ans de la limite d'âge de leur grade pourront être nommés dans\ndes emplois de contrôleurs généraux des armées en mission extraordinaire.",
+      "valid_from": "1976-04-30"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Un décret en Conseil d'Etat fixe les conditions d'application\nde la présente loi.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Un décret en Conseil d'Etat fixe les conditions d'application\nde la présente loi.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "1976-04-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

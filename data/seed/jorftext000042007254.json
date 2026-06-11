@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les entreprises admises à la procédure de redressement judiciaire instituée par l'article L. 631-1 du code de commerce ou à une procédure équivalente régie par un droit étranger ne peuvent être exclues, pour ce motif, de la procédure de passation des marchés et des contrats de concessions lorsqu'elles bénéficient d'un plan de redressement."
+      "content": "Les entreprises admises à la procédure de redressement judiciaire instituée par l'article L. 631-1 du code de commerce ou à une procédure équivalente régie par un droit étranger ne peuvent être exclues, pour ce motif, de la procédure de passation des marchés et des contrats de concessions lorsqu'elles bénéficient d'un plan de redressement.",
+      "valid_from": "2020-06-19"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les marchés globaux mentionnés à l'article L. 2171-1 du code de la commande publique prévoient la part minimale de l'exécution du marché que le titulaire s'engage à confier directement ou indirectement à des petites et moyennes entreprises ou à des artisans. Cette part ne peut être inférieure à 10 % du montant prévisionnel du marché sauf lorsque la structure économique du secteur concerné ne le permet pas.L'acheteur tient compte, parmi les critères d'attribution du marché global, de la part d'exécution du marché que le soumissionnaire s'engage à confier à des petites et moyennes entreprises ou à des artisans.Ces dispositions ne sont pas applicables aux marchés de défense et de sécurité, lorsqu'il est fait application de l'article L. 2371-1."
+      "content": "Les marchés globaux mentionnés à l'article L. 2171-1 du code de la commande publique prévoient la part minimale de l'exécution du marché que le titulaire s'engage à confier directement ou indirectement à des petites et moyennes entreprises ou à des artisans. Cette part ne peut être inférieure à 10 % du montant prévisionnel du marché sauf lorsque la structure économique du secteur concerné ne le permet pas.L'acheteur tient compte, parmi les critères d'attribution du marché global, de la part d'exécution du marché que le soumissionnaire s'engage à confier à des petites et moyennes entreprises ou à des artisans.Ces dispositions ne sont pas applicables aux marchés de défense et de sécurité, lorsqu'il est fait application de l'article L. 2371-1.",
+      "valid_from": "2020-06-19"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Lorsque la capacité économique et financière des opérateurs économiques nécessaire à l'exécution du marché ou du contrat de concession est appréciée au regard du chiffre d'affaires, l'acheteur ou l'autorité concédante ne tient pas compte de la baisse du chiffre d'affaires intervenue au titre du ou des exercices sur lesquels s'imputent les conséquences de la crise sanitaire liée à l'épidémie de covid-19."
+      "content": "Lorsque la capacité économique et financière des opérateurs économiques nécessaire à l'exécution du marché ou du contrat de concession est appréciée au regard du chiffre d'affaires, l'acheteur ou l'autorité concédante ne tient pas compte de la baisse du chiffre d'affaires intervenue au titre du ou des exercices sur lesquels s'imputent les conséquences de la crise sanitaire liée à l'épidémie de covid-19.",
+      "valid_from": "2020-06-19"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - La présente ordonnance s'applique aux marchés publics et aux concessions pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter de son entrée en vigueur.II. - Les dispositions des articles 1er et 2 s'appliquent jusqu'au 10 juillet 2021.III. - Les dispositions de l'article 3 s'appliquent jusqu'au 31 décembre 2023."
+      "content": "I. - La présente ordonnance s'applique aux marchés publics et aux concessions pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter de son entrée en vigueur.II. - Les dispositions des articles 1er et 2 s'appliquent jusqu'au 10 juillet 2021.III. - Les dispositions de l'article 3 s'appliquent jusqu'au 31 décembre 2023.",
+      "valid_from": "2020-06-19"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La présente ordonnance est applicable aux marchés publics et aux contrats de concession conclus par l'Etat et ses établissements publics dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.Dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises, elle s'applique également aux contrats de concession conclus par les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif."
+      "content": "La présente ordonnance est applicable aux marchés publics et aux contrats de concession conclus par l'Etat et ses établissements publics dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.Dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises, elle s'applique également aux contrats de concession conclus par les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif.",
+      "valid_from": "2020-06-19"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre, le ministre de l'économie et des finances et la secrétaire d'Etat auprès du ministre de l'économie et des finances sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie et des finances et la secrétaire d'Etat auprès du ministre de l'économie et des finances sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-06-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

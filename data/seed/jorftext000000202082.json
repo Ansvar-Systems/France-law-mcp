@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. - L'agence de santé du territoire des îles Wallis-et-Futuna est constituée à une date fixée par arrêté de l'administrateur supérieur du territoire et au plus tard six mois après la publication de la présente ordonnance au Journal officiel de la République française.II. - A cette date, les biens affectés au service de santé ainsi que les droits détenus et les obligations contractées par l'Etat pour le fonctionnement de ce service sont transférés de plein droit à l'agence, dont l'administrateur supérieur détermine, à la même date, le patrimoine.III. - Les contrats de travail en cours à la date de publication de la présente ordonnance subsistent entre l'agence et son personnel."
+      "content": "I. - L'agence de santé du territoire des îles Wallis-et-Futuna est constituée à une date fixée par arrêté de l'administrateur supérieur du territoire et au plus tard six mois après la publication de la présente ordonnance au Journal officiel de la République française.II. - A cette date, les biens affectés au service de santé ainsi que les droits détenus et les obligations contractées par l'Etat pour le fonctionnement de ce service sont transférés de plein droit à l'agence, dont l'administrateur supérieur détermine, à la même date, le patrimoine.III. - Les contrats de travail en cours à la date de publication de la présente ordonnance subsistent entre l'agence et son personnel.",
+      "valid_from": "2000-01-15"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, la ministre de l'emploi et de la solidarité, le ministre de l'intérieur, le ministre de l'économie, des finances et de l'industrie, le secrétaire d'Etat à l'outre-mer, la secrétaire d'Etat à la santé et à l'action sociale et la secrétaire d'Etat au budget sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'emploi et de la solidarité, le ministre de l'intérieur, le ministre de l'économie, des finances et de l'industrie, le secrétaire d'Etat à l'outre-mer, la secrétaire d'Etat à la santé et à l'action sociale et la secrétaire d'Etat au budget sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2000-01-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

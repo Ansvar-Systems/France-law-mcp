@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L’article 4 de la loi du 20 juillet 1897 est remplacé par le texte suivant :\n\n&#171 Le compte ouvert à chaque déposant ne peut dépasser le chiffre de trois mille francs (3,000 fr.). L’article 9 de la loi du 9 avril 1881 sera applicable aux comptes qui dépasseront ce maximum.&#171 Il sera remis annuellement au ministre du travail et de la prévoyance sociale, par chaque caisse d’épargne, la caisse nationale exceptée, un état des livrets dont le chiffre dépasserait le maximum autorisé.&#171 Pour les sociétés de secours mutuels et les institutions spécialement autorisées à déposer aux caisses d’épargne, le maximum des dépôts peut s’élever à vingt-cinq mille francs (27,000 fr.).&#171 Le deuxième alinéa de l’article 13 de la loi du 9 avril 1881 sera applicable aux comptes de ces sociétés et institutions qui dépasseront ce maximum. &#187"
+      "content": "L’article 4 de la loi du 20 juillet 1897 est remplacé par le texte suivant :\n\n&#171 Le compte ouvert à chaque déposant ne peut dépasser le chiffre de trois mille francs (3,000 fr.). L’article 9 de la loi du 9 avril 1881 sera applicable aux comptes qui dépasseront ce maximum.&#171 Il sera remis annuellement au ministre du travail et de la prévoyance sociale, par chaque caisse d’épargne, la caisse nationale exceptée, un état des livrets dont le chiffre dépasserait le maximum autorisé.&#171 Pour les sociétés de secours mutuels et les institutions spécialement autorisées à déposer aux caisses d’épargne, le maximum des dépôts peut s’élever à vingt-cinq mille francs (27,000 fr.).&#171 Le deuxième alinéa de l’article 13 de la loi du 9 avril 1881 sera applicable aux comptes de ces sociétés et institutions qui dépasseront ce maximum. &#187",
+      "valid_from": "1916-07-31"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "A modifié les dispositions suivantes :\n\nLa présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l'Etat.\n\n-Loi du 23 décembre 1912"
+      "content": "A modifié les dispositions suivantes :\n\nLa présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l'Etat.\n\n-Loi du 23 décembre 1912",
+      "valid_from": "1916-07-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -1,0 +1,26 @@
+{
+  "id": "legitext000006074237",
+  "type": "statute",
+  "title": "Code du domaine public fluvial et de la navigation intérieure",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006074237/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art123",
+      "section": "123",
+      "title": "Article 123",
+      "content": "Lorsqu'il est procédé à la saisie d'un bateau immatriculé à l'étranger dans un des pays signataires de la convention de Genève, du 9 décembre 1930, concernant l'immatriculation des bateaux de navigation intérieure, les droits réels sur ces bateaux et autres matières connexes, la saisie est dénoncée aux créanciers inscrits par lettre recommandée avec accusé de réception un mois avant le jour de la comparution devant le juge de l'exécution. Ces créanciers seront avisés de la même manière au moins un mois à l'avance, de la date fixée pour la vente.\n\nLa date de la vente sera publiée dans le même délai au lieu d'immatriculation du bateau.",
+      "valid_from": "2011-09-01",
+      "valid_to": "2222-02-22"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

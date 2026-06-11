@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 2016-966 du 15 juillet 2016 portant simplification de procédures mises en œuvre par l'Agence nationale de sécurité du médicament et des produits de santé est ratifiée."
+      "content": "L'ordonnance n° 2016-966 du 15 juillet 2016 portant simplification de procédures mises en œuvre par l'Agence nationale de sécurité du médicament et des produits de santé est ratifiée.",
+      "valid_from": "2017-02-25"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. et II.-A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIII.-(Abrogé)\n\n-Code de la santé publique\n\n-Code de la sécurité sociale."
+      "content": "I. et II.-A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIII.-(Abrogé)\n\n-Code de la santé publique\n\n-Code de la sécurité sociale.",
+      "valid_from": "2019-07-27"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. à IV. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nV. - Les I à III entrent en vigueur trois mois après la promulgation de la présente loi.\n\n- Code de la sécurité sociale.\n\n- Code de la santé publique\n\n- LOI n° 2016-41 du 26 janvier 2016"
+      "content": "I. à IV. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nV. - Les I à III entrent en vigueur trois mois après la promulgation de la présente loi.\n\n- Code de la sécurité sociale.\n\n- Code de la santé publique\n\n- LOI n° 2016-41 du 26 janvier 2016",
+      "valid_from": "2017-02-25"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "A modifié les dispositions suivantes :\n\n- LOI n° 2016-41 du 26 janvier 2016"
+      "content": "A modifié les dispositions suivantes :\n\n- LOI n° 2016-41 du 26 janvier 2016",
+      "valid_from": "2017-02-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

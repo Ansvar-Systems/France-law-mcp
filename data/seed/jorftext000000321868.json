@@ -12,19 +12,28 @@
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "(Dispositions déclarées contraires à la Constitution par décision du Conseil constitutionnel n° 88-251 DC du 12 janvier 1989.)"
+      "content": "(Dispositions déclarées contraires à la Constitution par décision du Conseil constitutionnel n° 88-251 DC du 12 janvier 1989.)",
+      "valid_from": "1989-01-14"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Dispositions déclarées contraires à la Constitution par décision du Conseil constitutionnel n° 88-251 DC du 12 janvier 1989."
+      "content": "Dispositions déclarées contraires à la Constitution par décision du Conseil constitutionnel n° 88-251 DC du 12 janvier 1989.",
+      "valid_from": "1989-01-14"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Les périmètres provisoires de zones d'aménagement différé existant au 1er janvier 1989 demeurent en vigueur jusqu'au 31 mai 1990."
+      "content": "Les périmètres provisoires de zones d'aménagement différé existant au 1er janvier 1989 demeurent en vigueur jusqu'au 31 mai 1990.",
+      "valid_from": "1989-01-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

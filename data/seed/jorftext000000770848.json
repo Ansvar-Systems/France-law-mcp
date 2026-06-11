@@ -12,7 +12,14 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - Les dépenses engagées par les organismes d'habitations à loyer modéré pour l'accessibilité et l'adaptation des logements aux personnes en situation de handicap sont déductibles de la taxe foncière sur les propriétés bâties versée aux collectivités territoriales."
+      "content": "I. - Les dépenses engagées par les organismes d'habitations à loyer modéré pour l'accessibilité et l'adaptation des logements aux personnes en situation de handicap sont déductibles de la taxe foncière sur les propriétés bâties versée aux collectivités territoriales.",
+      "valid_from": "2019-12-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

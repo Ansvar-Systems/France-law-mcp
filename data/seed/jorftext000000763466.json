@@ -12,19 +12,28 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La délibération du 17 mai 1961 susvisée est modifiée conformément aux articles 4 à 21 de la présente ordonnance."
+      "content": "La délibération du 17 mai 1961 susvisée est modifiée conformément aux articles 4 à 21 de la présente ordonnance.",
+      "valid_from": "2000-03-10"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "L'Etat met à la disposition des communes de Mayotte le premier équipement informatique leur permettant d'assurer la tenue informatisée de l'état civil.Les communes sont compétentes pour maintenir, remplacer et adapter à leurs frais les matériels informatiques requis pour assurer la tenue informatisée des actes de l'état civil."
+      "content": "L'Etat met à la disposition des communes de Mayotte le premier équipement informatique leur permettant d'assurer la tenue informatisée de l'état civil.Les communes sont compétentes pour maintenir, remplacer et adapter à leurs frais les matériels informatiques requis pour assurer la tenue informatisée des actes de l'état civil.",
+      "valid_from": "2000-03-10"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, le ministre de l'intérieur et le secrétaire d'Etat à l'outre-mer sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, le ministre de l'intérieur et le secrétaire d'Etat à l'outre-mer sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2000-03-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

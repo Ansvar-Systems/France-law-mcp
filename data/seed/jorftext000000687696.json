@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sans préjudice de l'application des lois et règlements en vigueur, le préfet peut, par arrêté, interdire l'accès des mineurs de dix-huit ans à tout établissement offrant, quelles qu'en soient les conditions d'accès, des distractions ou spectacles, lorsque ces distractions ou spectacles ou la fréquentation de cet établissement se révèlent de nature à exercer une influence nocive sur la santé ou la moralité de la jeunesse.Cet arrêté est pris après consultation du maire et avis d'une commission. La consultation du maire n'est toutefois pas nécessaire lorsque l'arrêté doit recevoir application sur le territoire de plusieurs communes.La composition et le fonctionnement de cette commission, les conditions dans lesquelles est effectuée la publicité donnée à l'arrêté préfectoral, ainsi que les autres modalités d'application du présent article sont fixés par arrêté conjoint des ministres intéressés."
+      "content": "Sans préjudice de l'application des lois et règlements en vigueur, le préfet peut, par arrêté, interdire l'accès des mineurs de dix-huit ans à tout établissement offrant, quelles qu'en soient les conditions d'accès, des distractions ou spectacles, lorsque ces distractions ou spectacles ou la fréquentation de cet établissement se révèlent de nature à exercer une influence nocive sur la santé ou la moralité de la jeunesse.Cet arrêté est pris après consultation du maire et avis d'une commission. La consultation du maire n'est toutefois pas nécessaire lorsque l'arrêté doit recevoir application sur le territoire de plusieurs communes.La composition et le fonctionnement de cette commission, les conditions dans lesquelles est effectuée la publicité donnée à l'arrêté préfectoral, ainsi que les autres modalités d'application du présent article sont fixés par arrêté conjoint des ministres intéressés.",
+      "valid_from": "1959-01-06"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "En cas de violation de l'arrêté d'interdiction prévu à l'article 1er, le préfet peut, afin de préserver l'ordre, la santé ou la moralité publics, ordonner après nouvel avis de la commission visée à l'article 1er, la fermeture de l'établissement pour une durée n'excédant pas six mois.La violation de l'arrêté de fermeture sera punie d'un emprisonnement d'un an et d'une amende de 4 500 euros ou de l'une de ces deux peines seulement."
+      "content": "En cas de violation de l'arrêté d'interdiction prévu à l'article 1er, le préfet peut, afin de préserver l'ordre, la santé ou la moralité publics, ordonner après nouvel avis de la commission visée à l'article 1er, la fermeture de l'établissement pour une durée n'excédant pas six mois.La violation de l'arrêté de fermeture sera punie d'un emprisonnement d'un an et d'une amende de 4 500 euros ou de l'une de ces deux peines seulement.",
+      "valid_from": "2002-01-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente ordonnance sera publiée au Journal Officiel de la République française et exécutée comme loi."
+      "content": "La présente ordonnance sera publiée au Journal Officiel de la République française et exécutée comme loi.",
+      "valid_from": "1959-01-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

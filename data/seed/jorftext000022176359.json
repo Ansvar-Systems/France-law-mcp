@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code rural est modifié dans les conditions prévues par les articles 2 à 6."
+      "content": "Le code rural est modifié dans les conditions prévues par les articles 2 à 6.",
+      "valid_from": "2010-05-08"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les agréments délivrés aux producteurs ou aux négociants en application de l'article R. 661-30 du code rural et du décret n° 53-977 du 30 septembre 1953 relatif à l'organisation et à l'assainissement du marché du vin et à l'orientation de la production viticole, dans leur rédaction antérieure à l'entrée en vigueur de l'ordonnance n° 2010-459 du 6 mai 2010 modifiant les livres Ier, V et VI du code rural, tiennent lieu de l'agrément prévu à l'article L. 661-5 et de la déclaration prévue à l'article L. 661-6 du code rural dans leur rédaction postérieure à l'entrée en vigueur de ladite ordonnance."
+      "content": "Les agréments délivrés aux producteurs ou aux négociants en application de l'article R. 661-30 du code rural et du décret n° 53-977 du 30 septembre 1953 relatif à l'organisation et à l'assainissement du marché du vin et à l'orientation de la production viticole, dans leur rédaction antérieure à l'entrée en vigueur de l'ordonnance n° 2010-459 du 6 mai 2010 modifiant les livres Ier, V et VI du code rural, tiennent lieu de l'agrément prévu à l'article L. 661-5 et de la déclaration prévue à l'article L. 661-6 du code rural dans leur rédaction postérieure à l'entrée en vigueur de ladite ordonnance.",
+      "valid_from": "2010-05-08"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Sont ou demeurent abrogés :L'ordonnance du 21 décembre 1838 qui fixe les déductions à allouer pour déchets sur les boissons ;La loi du 14 août 1889 ayant pour objet d'indiquer au consommateur la nature du produit livré à la consommation sous le nom de vins et de prévenir les fraudes dans la vente des produits ;La loi du 26 juillet 1890 concernant la fabrication et l'imposition des vins de raisins secs ;Le décret du 19 avril 1898 relatif aux vins suralcoolisés ;Le décret du 1er juillet 1922 rendant applicables les dispositions de l'article 12 de la loi du 6 mai 1919 aux vins et vins de liqueur achetés ou venus sous une appellation d'origine portugaise ;La loi du 1er janvier 1930 sur les vins ;La loi du 30 avril 1935 tendant à protéger les appellations d'origine des vins récoltés dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle ;La loi du 20 juin 1937 tendant à modifier et compléter la réglementation en matière d'appellation d'origine contrôlée ;La loi n° 4280 du 13 octobre 1941 tendant à réglementer l'édulcoration et la concentration des moûts et des vins de liqueur et apéritifs à base de vin."
+      "content": "Sont ou demeurent abrogés :L'ordonnance du 21 décembre 1838 qui fixe les déductions à allouer pour déchets sur les boissons ;La loi du 14 août 1889 ayant pour objet d'indiquer au consommateur la nature du produit livré à la consommation sous le nom de vins et de prévenir les fraudes dans la vente des produits ;La loi du 26 juillet 1890 concernant la fabrication et l'imposition des vins de raisins secs ;Le décret du 19 avril 1898 relatif aux vins suralcoolisés ;Le décret du 1er juillet 1922 rendant applicables les dispositions de l'article 12 de la loi du 6 mai 1919 aux vins et vins de liqueur achetés ou venus sous une appellation d'origine portugaise ;La loi du 1er janvier 1930 sur les vins ;La loi du 30 avril 1935 tendant à protéger les appellations d'origine des vins récoltés dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle ;La loi du 20 juin 1937 tendant à modifier et compléter la réglementation en matière d'appellation d'origine contrôlée ;La loi n° 4280 du 13 octobre 1941 tendant à réglementer l'édulcoration et la concentration des moûts et des vins de liqueur et apéritifs à base de vin.",
+      "valid_from": "2010-05-08"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le Premier ministre, la ministre d'Etat, garde des sceaux, ministre de la justice et des libertés, la ministre de l'économie, de l'industrie et de l'emploi, le ministre du budget, des comptes publics et de la réforme de l'Etat et le ministre de l'alimentation, de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre d'Etat, garde des sceaux, ministre de la justice et des libertés, la ministre de l'économie, de l'industrie et de l'emploi, le ministre du budget, des comptes publics et de la réforme de l'Etat et le ministre de l'alimentation, de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2010-05-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

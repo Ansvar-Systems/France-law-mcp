@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. - (paragraphe modificateur).\n\nII. - Abrogé"
+      "content": "I. - (paragraphe modificateur).\n\nII. - Abrogé",
+      "valid_from": "2009-05-14"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les articles L. 29 à L. 29-11 du code de la route seront applicables aux enseignants et aux établissements d'enseignement à titre onéreux de la conduite des véhicules terrestres à moteur d'une catégorie donnée, ainsi qu'aux établissements de formation des candidats pour l'exercice de la profession d'enseignant déjà existants, à l'issue d'un délai et selon des modalités fixés par le décret en Conseil d'Etat prévu par l'article L. 29-11 dudit code.Le délai prévu à l'alinéa précédent ne peut excéder deux ans après la promulgation de la présente loi."
+      "content": "Les articles L. 29 à L. 29-11 du code de la route seront applicables aux enseignants et aux établissements d'enseignement à titre onéreux de la conduite des véhicules terrestres à moteur d'une catégorie donnée, ainsi qu'aux établissements de formation des candidats pour l'exercice de la profession d'enseignant déjà existants, à l'issue d'un délai et selon des modalités fixés par le décret en Conseil d'Etat prévu par l'article L. 29-11 dudit code.Le délai prévu à l'alinéa précédent ne peut excéder deux ans après la promulgation de la présente loi.",
+      "valid_from": "1999-06-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I-Les modifications apportées par l'ordonnance du 14 avril 2011 susvisée aux articles L. 330-1 et L. 330-2 du code monétaire et financier sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna sous réserve des adaptations prévues au II.II.-A modifié les dispositions suivantes :\n\n-Code monétaire et financier"
+      "content": "I-Les modifications apportées par l'ordonnance du 14 avril 2011 susvisée aux articles L. 330-1 et L. 330-2 du code monétaire et financier sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna sous réserve des adaptations prévues au II.II.-A modifié les dispositions suivantes :\n\n-Code monétaire et financier",
+      "valid_from": "2012-03-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les modifications apportées par l'ordonnance du 14 avril 2011 susvisée aux articles L. 440-7 et L. 440-8 du code monétaire et financier sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna."
+      "content": "Les modifications apportées par l'ordonnance du 14 avril 2011 susvisée aux articles L. 440-7 et L. 440-8 du code monétaire et financier sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.",
+      "valid_from": "2012-03-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente ordonnance entre en vigueur le 1er mars 2012."
+      "content": "La présente ordonnance entre en vigueur le 1er mars 2012.",
+      "valid_from": "2012-03-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration et le ministre de l'économie, des finances et de l'industrie sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration et le ministre de l'économie, des finances et de l'industrie sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2012-03-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

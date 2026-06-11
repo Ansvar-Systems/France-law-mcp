@@ -12,49 +12,63 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le ministère chargé de la population inscrit sur un registre le nom et les prénoms, le sexe, le lieu et la date de naissance, la filiation ainsi que la profession et la résidence à l'époque de l'acquisition de la nationalité française, des personnes nées à l'étranger devenues Françaises par décret de naturalisation ou de réintégration ou par effet collectif d'un tel décret."
+      "content": "Le ministère chargé de la population inscrit sur un registre le nom et les prénoms, le sexe, le lieu et la date de naissance, la filiation ainsi que la profession et la résidence à l'époque de l'acquisition de la nationalité française, des personnes nées à l'étranger devenues Françaises par décret de naturalisation ou de réintégration ou par effet collectif d'un tel décret.",
+      "valid_from": "1960-01-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Chaque acte comporte, en outre, et à l'exclusion de toute autre indication, la date à laquelle il est établi, le nom et la signature de l'officier de l'état civil, les mentions marginales éventuelles, ainsi que les références aux déclarations et aux décisions judiciaires ou administratives relatives à la nationalité."
+      "content": "Chaque acte comporte, en outre, et à l'exclusion de toute autre indication, la date à laquelle il est établi, le nom et la signature de l'officier de l'état civil, les mentions marginales éventuelles, ainsi que les références aux déclarations et aux décisions judiciaires ou administratives relatives à la nationalité.",
+      "valid_from": "1960-01-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "L'original, unique, est conservé dans les archives de ce département. Un microfilm annuel en est déposé au ministère des affaires étrangères. Le nom et les prénoms, ainsi que la date de naissance, sont écrits en toutes lettres. Les autres indications peuvent comporter des abréviations et des chiffres."
+      "content": "L'original, unique, est conservé dans les archives de ce département. Un microfilm annuel en est déposé au ministère des affaires étrangères. Le nom et les prénoms, ainsi que la date de naissance, sont écrits en toutes lettres. Les autres indications peuvent comporter des abréviations et des chiffres.",
+      "valid_from": "1960-01-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les noms, les prénoms et les lieux sont inscrits dans les formes et orthographe résultant des documents figurant au dossier de naturalisation, notamment des traductions des actes de l'état civil étranger produites à l'administration, et compte tenu le cas échéant des francisations intervenues à l'occasion de l'acquisition de la nationalité française."
+      "content": "Les noms, les prénoms et les lieux sont inscrits dans les formes et orthographe résultant des documents figurant au dossier de naturalisation, notamment des traductions des actes de l'état civil étranger produites à l'administration, et compte tenu le cas échéant des francisations intervenues à l'occasion de l'acquisition de la nationalité française.",
+      "valid_from": "1960-01-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les copies et extraits des actes contenus dans le registre visé à l'article 1er ont la force probante qui s'attache aux copies et extraits délivrés conformément à l'article 45 du Code civil. Ils ont, en ce qui concerne la preuve des références relatives à la nationalité et notamment de l'existence du décret d'acquisition de la nationalité française, la même valeur que les attestations ministérielles prévues aux articles 139 et suivants du Code de la nationalité."
+      "content": "Les copies et extraits des actes contenus dans le registre visé à l'article 1er ont la force probante qui s'attache aux copies et extraits délivrés conformément à l'article 45 du Code civil. Ils ont, en ce qui concerne la preuve des références relatives à la nationalité et notamment de l'existence du décret d'acquisition de la nationalité française, la même valeur que les attestations ministérielles prévues aux articles 139 et suivants du Code de la nationalité.",
+      "valid_from": "1960-01-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les intéressés inscrits sur ce registre n'auront plus la faculté de demander la transcription de leur acte de naissance étranger dans les formes prévues par l'article 47 du Code civil. En cas de désaccord entre les énonciations de l'état civil étranger ou de l'état civil consulaire français et celles du registre, ce dernier fera foi jusqu'à décision judiciaire."
+      "content": "Les intéressés inscrits sur ce registre n'auront plus la faculté de demander la transcription de leur acte de naissance étranger dans les formes prévues par l'article 47 du Code civil. En cas de désaccord entre les énonciations de l'état civil étranger ou de l'état civil consulaire français et celles du registre, ce dernier fera foi jusqu'à décision judiciaire.",
+      "valid_from": "1960-01-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Un arrêté du ministre chargé de la population désignera le chef du centre chargé de viser, clore et vérifier chaque volume du registre, ainsi que les fonctionnaires ayant qualité d'officier de l'état civil, et fixera le modèle des actes."
+      "content": "Un arrêté du ministre chargé de la population désignera le chef du centre chargé de viser, clore et vérifier chaque volume du registre, ainsi que les fonctionnaires ayant qualité d'officier de l'état civil, et fixera le modèle des actes.",
+      "valid_from": "1960-01-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "La présente ordonnance, qui prendra effet le 1er janvier 1960, sera publiée an Journal officiel de la République française et exécutée comme loi de l'Etat."
+      "content": "La présente ordonnance, qui prendra effet le 1er janvier 1960, sera publiée an Journal officiel de la République française et exécutée comme loi de l'Etat.",
+      "valid_from": "1960-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

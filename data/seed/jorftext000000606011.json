@@ -12,7 +12,14 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. - Les dispositions des titres Ier et II entrent en vigueur six mois à compter de la date de promulgation de la présente loi.II. - Les dispositions des titres Ier et II et de l'article 6 s'appliquent aux contrats en cours et à leur reconduction à ladite date de promulgation."
+      "content": "I. - Les dispositions des titres Ier et II entrent en vigueur six mois à compter de la date de promulgation de la présente loi.II. - Les dispositions des titres Ier et II et de l'article 6 s'appliquent aux contrats en cours et à leur reconduction à ladite date de promulgation.",
+      "valid_from": "2005-02-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

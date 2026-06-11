@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Il est interdit de fabriquer les sceaux, timbres, cachets et marques de l'Etat ou d'une autorité quelconque sans l'ordre écrit des représentants attitrés de l'Etat ou de cette autorité. La livraison n'en pourra être faite qu'à ces représentants ou au siège même de l'autorité."
+      "content": "Il est interdit de fabriquer les sceaux, timbres, cachets et marques de l'Etat ou d'une autorité quelconque sans l'ordre écrit des représentants attitrés de l'Etat ou de cette autorité. La livraison n'en pourra être faite qu'à ces représentants ou au siège même de l'autorité.",
+      "valid_from": "1918-03-20"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Indépendamment des contrefaçons et usages frauduleux prévus et punis aux articles 444-1 à 444-9 du code pénal, sont également interdits la fabrication, la détention, la distribution, l'achat et la vente de timbres, sceaux, cachets et marques susceptibles d'être confondus avec les timbres, sceaux, cachets et marques de l'Etat ou d'une autorité quelconque."
+      "content": "Indépendamment des contrefaçons et usages frauduleux prévus et punis aux articles 444-1 à 444-9 du code pénal, sont également interdits la fabrication, la détention, la distribution, l'achat et la vente de timbres, sceaux, cachets et marques susceptibles d'être confondus avec les timbres, sceaux, cachets et marques de l'Etat ou d'une autorité quelconque.",
+      "valid_from": "1994-03-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions des articles 1er et 2 de la présente loi sont applicables aux sceaux, timbres, cachets et marques de gouvernements étrangers et des autorités étrangères."
+      "content": "Les dispositions des articles 1er et 2 de la présente loi sont applicables aux sceaux, timbres, cachets et marques de gouvernements étrangers et des autorités étrangères.",
+      "valid_from": "1918-03-20"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Toute infraction aux dispositions de la présente loi sera punie d'un emprisonnement de six mois et d'une amende de 3750 euros, ou de l'une de ces deux peines seulement   , sans préjudice, s'il y a lieu, des pénalités prévues aux articles 442-1,443-1,444-1 et 444-2 du code pénal.Les timbres, sceaux, cachets et marques seront confisqués."
+      "content": "Toute infraction aux dispositions de la présente loi sera punie d'un emprisonnement de six mois et d'une amende de 3750 euros, ou de l'une de ces deux peines seulement   , sans préjudice, s'il y a lieu, des pénalités prévues aux articles 442-1,443-1,444-1 et 444-2 du code pénal.Les timbres, sceaux, cachets et marques seront confisqués.",
+      "valid_from": "2002-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

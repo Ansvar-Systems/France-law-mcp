@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les agents de l'Office français de protection des réfugiés et apatrides qui, étant en fonctions à la date de publication des décrets pris pour l'application de la présente loi, ont été recrutés au plus tard le 31 décembre 1989, ont vocation à être, sur leur demande, titularisés dans des corps de fonctionnaires de l'office ou dans des corps de fonctionnaires du ministère des affaires étrangères.\n\nL'accès à ces corps a lieu suivant l'une des modalités ci-après ou suivant l'une et l'autre de ces modalités :\n\n1° Par voie d'examen professionnel ;\n\n2° Par voie d'inscription sur une liste d'aptitude."
+      "content": "Les agents de l'Office français de protection des réfugiés et apatrides qui, étant en fonctions à la date de publication des décrets pris pour l'application de la présente loi, ont été recrutés au plus tard le 31 décembre 1989, ont vocation à être, sur leur demande, titularisés dans des corps de fonctionnaires de l'office ou dans des corps de fonctionnaires du ministère des affaires étrangères.\n\nL'accès à ces corps a lieu suivant l'une des modalités ci-après ou suivant l'une et l'autre de ces modalités :\n\n1° Par voie d'examen professionnel ;\n\n2° Par voie d'inscription sur une liste d'aptitude.",
+      "valid_from": "1992-01-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

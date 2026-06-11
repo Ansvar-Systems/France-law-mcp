@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les bibliothécaires-gérants travaillant pour le compte de l'entreprise concessionnaire des bibliothèques dans les gares de la Société nationale des chemins de fer et du chemin de fer métropolitain de Paris peuvent, quel que soit leur âge et même s'ils n'exercent pas d'activité salariée, être intégralement rétablis au regard de l'assurance vieillesse, dans les droits qu'ils auraient eus si le régime général des assurances sociales leur avait été appliqué entre le 1er juillet 1930 et la mise en vigueur du décret du 14 juin 1938 portant modification du décret du 28 octobre 1935 sur le régime des assurances sociales applicable au commerce et à l'industrie.A cet effet, les intéressés devront effectuer, dans les deux ans de la promulgation de la présente loi, à la caisse primaire de sécurité sociale de leur dernier lieu de travail, un versement égal au montant revalorisé des cotisations qui auraient été acquittées pendant ladite période, au titre de l'assurance vieillesse, s'ils avaient été assujettis au régime en question.Un arrêté du ministre des affaires sociales fixera les modalités de la revalorisation."
+      "content": "Les bibliothécaires-gérants travaillant pour le compte de l'entreprise concessionnaire des bibliothèques dans les gares de la Société nationale des chemins de fer et du chemin de fer métropolitain de Paris peuvent, quel que soit leur âge et même s'ils n'exercent pas d'activité salariée, être intégralement rétablis au regard de l'assurance vieillesse, dans les droits qu'ils auraient eus si le régime général des assurances sociales leur avait été appliqué entre le 1er juillet 1930 et la mise en vigueur du décret du 14 juin 1938 portant modification du décret du 28 octobre 1935 sur le régime des assurances sociales applicable au commerce et à l'industrie.A cet effet, les intéressés devront effectuer, dans les deux ans de la promulgation de la présente loi, à la caisse primaire de sécurité sociale de leur dernier lieu de travail, un versement égal au montant revalorisé des cotisations qui auraient été acquittées pendant ladite période, au titre de l'assurance vieillesse, s'ils avaient été assujettis au régime en question.Un arrêté du ministre des affaires sociales fixera les modalités de la revalorisation.",
+      "valid_from": "1956-08-05"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les pensions ou rentes liquidées antérieurement à la date du versement effectué par leur titulaire au titre de la présente loi sont revisées, avec effet au premier jour du trimestre civil suivant sa promulgation.Les conjoints survivants des personnes visées à l'article 1er sont admis sur leur demande à bénéficier des dispositions de la présente loi, quelle que soit la date du décès de leur conjoint.Leur pension de réversion est liquidée selon les modalités prévues par l'ordonnance n° 45-2454 du 19 octobre 1945 modifiée, même si le décès est antérieur au 1er janvier 1946."
+      "content": "Les pensions ou rentes liquidées antérieurement à la date du versement effectué par leur titulaire au titre de la présente loi sont revisées, avec effet au premier jour du trimestre civil suivant sa promulgation.Les conjoints survivants des personnes visées à l'article 1er sont admis sur leur demande à bénéficier des dispositions de la présente loi, quelle que soit la date du décès de leur conjoint.Leur pension de réversion est liquidée selon les modalités prévues par l'ordonnance n° 45-2454 du 19 octobre 1945 modifiée, même si le décès est antérieur au 1er janvier 1946.",
+      "valid_from": "1956-08-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

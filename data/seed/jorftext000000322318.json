@@ -12,67 +12,84 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La présente loi s'applique à titre transitoire jusqu'à l'institution d'un régime de base unique de protection sociale applicable à tous les Français.Elle a pour objet :1° D'établir un régime obligatoire d'assurance des salariés agricoles contre les accidents du travail et les maladies professionnelles ;2° D'assurer, en matière de prévention et de réparation des accidents du travail et des maladies professionnelles, la parité entre les salariés agricoles et ceux relevant du régime général de la sécurité sociale."
+      "content": "La présente loi s'applique à titre transitoire jusqu'à l'institution d'un régime de base unique de protection sociale applicable à tous les Français.Elle a pour objet :1° D'établir un régime obligatoire d'assurance des salariés agricoles contre les accidents du travail et les maladies professionnelles ;2° D'assurer, en matière de prévention et de réparation des accidents du travail et des maladies professionnelles, la parité entre les salariés agricoles et ceux relevant du régime général de la sécurité sociale.",
+      "valid_from": "1973-07-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les dispositions de la présente loi entreront en vigueur le 1er juillet 1973."
+      "content": "Les dispositions de la présente loi entreront en vigueur le 1er juillet 1973.",
+      "valid_from": "1973-07-01"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les droits ouverts antérieurement au 1er juillet 1973 au profit des salariés agricoles ou assimilés victimes d'accidents du travail ou de maladies professionnelles et de leurs ayants droit demeurent régis, sauf dispositions contraires de la présente loi, par les dispositions en vigueur à la date de survenance de l'accident ou de première constatation de la maladie professionnelle."
+      "content": "Les droits ouverts antérieurement au 1er juillet 1973 au profit des salariés agricoles ou assimilés victimes d'accidents du travail ou de maladies professionnelles et de leurs ayants droit demeurent régis, sauf dispositions contraires de la présente loi, par les dispositions en vigueur à la date de survenance de l'accident ou de première constatation de la maladie professionnelle.",
+      "valid_from": "1973-07-01"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les employeurs et les sociétés et organismes d'assurances demeurent tenus envers les victimes d'accidents du travail ou de maladies professionnelles dont les droits se sont ouverts avant le 1er juillet 1973 du versement des prestations y afférentes, sous réserve des dispositions ci-après."
+      "content": "Les employeurs et les sociétés et organismes d'assurances demeurent tenus envers les victimes d'accidents du travail ou de maladies professionnelles dont les droits se sont ouverts avant le 1er juillet 1973 du versement des prestations y afférentes, sous réserve des dispositions ci-après.",
+      "valid_from": "1973-07-01"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Si les prestations dues à raison de droits ouverts avant le 1er juillet 1973 viennent à être majorées par des dispositions législatives ou réglementaires prenant effet après le 30 juin 1973, la caisse centrale de secours mutuels agricoles versera aux sociétés et organismes débiteurs une allocation calculée forfaitairement sur des bases définies par décret, et destinées à compenser les charges résultant de ces majorations.L'allocation destinée à compenser ces charges sera calculée forfaitairement sur des bases définies par décret."
+      "content": "Si les prestations dues à raison de droits ouverts avant le 1er juillet 1973 viennent à être majorées par des dispositions législatives ou réglementaires prenant effet après le 30 juin 1973, la caisse centrale de secours mutuels agricoles versera aux sociétés et organismes débiteurs une allocation calculée forfaitairement sur des bases définies par décret, et destinées à compenser les charges résultant de ces majorations.L'allocation destinée à compenser ces charges sera calculée forfaitairement sur des bases définies par décret.",
+      "valid_from": "1973-07-01"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les sociétés et organismes d'assurance doivent s'acquitter envers les créanciers de toute rente dont le montant annuel ne dépasse pas un chiffre fixé par décret, en leur versant directement le capital représentatif de cette rente dans les conditions fixées par arrêté conjoint du ministre de l'agriculture et du ministre de l'économie et des finances."
+      "content": "Les sociétés et organismes d'assurance doivent s'acquitter envers les créanciers de toute rente dont le montant annuel ne dépasse pas un chiffre fixé par décret, en leur versant directement le capital représentatif de cette rente dans les conditions fixées par arrêté conjoint du ministre de l'agriculture et du ministre de l'économie et des finances.",
+      "valid_from": "1973-07-01"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "A compter de l'entrée en vigueur de la présente loi, les contrats d'assurance en cours cesseront d'avoir effet pour tout accident du travail survenu ou toute maladie professionnelle constatée après le 30 juin 1973 concernant les personnes mentionnées aux articles 1144 et 1145 du code rural. A compter de la même date, il ne pourra plus être conclu de nouveaux contrats d'assurance concernant ces personnes pour les risques couverts par le régime institué par le chapitre Ier du titre III du livre VII de ce code.Les primes ou cotisations et fractions de primes ou cotisations devant être émises en vertu des contrats d'assurance en cours, à une date antérieure au 1er juillet 1973, pour une période prenant fin après cette date seront émises pour la période comprise entre la dernière date d'échéance et le 1er juillet 1973.Après la date de promulgation de la présente loi, aucun contrat dont l'échéance serait postérieure au 30 juin 1973 ne pourra être souscrit ou renouvelé."
+      "content": "A compter de l'entrée en vigueur de la présente loi, les contrats d'assurance en cours cesseront d'avoir effet pour tout accident du travail survenu ou toute maladie professionnelle constatée après le 30 juin 1973 concernant les personnes mentionnées aux articles 1144 et 1145 du code rural. A compter de la même date, il ne pourra plus être conclu de nouveaux contrats d'assurance concernant ces personnes pour les risques couverts par le régime institué par le chapitre Ier du titre III du livre VII de ce code.Les primes ou cotisations et fractions de primes ou cotisations devant être émises en vertu des contrats d'assurance en cours, à une date antérieure au 1er juillet 1973, pour une période prenant fin après cette date seront émises pour la période comprise entre la dernière date d'échéance et le 1er juillet 1973.Après la date de promulgation de la présente loi, aucun contrat dont l'échéance serait postérieure au 30 juin 1973 ne pourra être souscrit ou renouvelé.",
+      "valid_from": "1973-07-01"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les personnels des organismes et sociétés d'assurances ainsi que ceux des personnes mentionnées à l'article 31 du décret-loi du 14 juin 1938 modifié unifiant le contrôle de l'Etat sur les entreprises d'assurances de toute nature et de capitalisation et tendant à l'organisation de l'industrie des assurances qui seraient licenciés à la suite de la promulgation de la présente loi bénéficieront d'une priorité d'embauche auprès de la caisse centrale et des caisses de mutualité sociale agricole.Il sera institué une commission nationale chargée de constater les besoins desdites caisses en personnel, compte tenu de l'accroissement de leurs activités, et d'y satisfaire en procédant au transfert et au reclassement des personnels mentionnés à l'alinéa précédent.Un décret fixe les conditions d'application du présent article."
+      "content": "Les personnels des organismes et sociétés d'assurances ainsi que ceux des personnes mentionnées à l'article 31 du décret-loi du 14 juin 1938 modifié unifiant le contrôle de l'Etat sur les entreprises d'assurances de toute nature et de capitalisation et tendant à l'organisation de l'industrie des assurances qui seraient licenciés à la suite de la promulgation de la présente loi bénéficieront d'une priorité d'embauche auprès de la caisse centrale et des caisses de mutualité sociale agricole.Il sera institué une commission nationale chargée de constater les besoins desdites caisses en personnel, compte tenu de l'accroissement de leurs activités, et d'y satisfaire en procédant au transfert et au reclassement des personnels mentionnés à l'alinéa précédent.Un décret fixe les conditions d'application du présent article.",
+      "valid_from": "1973-07-01"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Des aides spéciales compensatrices du préjudice subi seront allouées aux organismes d'assurances et aux personnes mentionnées à l'article 31 du décret-loi précité du 14 juin 1938 modifié, en réparation du préjudice direct résultant pour elles de l'application de la présente loi.Les sociétés ou caisses d'assurances mutuelles agricoles visées à l'article 1235 du code rural pourront également prétendre à la compensation des préjudices directs éventuels dont elles rapporteraient la preuve.Les aides spéciales versées en application des deux alinéas précédents seront à la charge du régime institué au chapitre Ier du titre III du livre VII du code rural.Des décrets en Conseil d'Etat fixeront les conditions et modalités d'application du présent article.Ces aides spéciales ne pourront, en aucun cas, entraîner un accroissement des charges globales actuelles des employeurs agricoles.Ces aides spéciales compensatrices du préjudice subi ne sont pas imposables."
+      "content": "Des aides spéciales compensatrices du préjudice subi seront allouées aux organismes d'assurances et aux personnes mentionnées à l'article 31 du décret-loi précité du 14 juin 1938 modifié, en réparation du préjudice direct résultant pour elles de l'application de la présente loi.Les sociétés ou caisses d'assurances mutuelles agricoles visées à l'article 1235 du code rural pourront également prétendre à la compensation des préjudices directs éventuels dont elles rapporteraient la preuve.Les aides spéciales versées en application des deux alinéas précédents seront à la charge du régime institué au chapitre Ier du titre III du livre VII du code rural.Des décrets en Conseil d'Etat fixeront les conditions et modalités d'application du présent article.Ces aides spéciales ne pourront, en aucun cas, entraîner un accroissement des charges globales actuelles des employeurs agricoles.Ces aides spéciales compensatrices du préjudice subi ne sont pas imposables.",
+      "valid_from": "1973-07-01"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Par dérogation aux dispositions de l'article 1155 du code rural et pendant les trois premières années suivant la date d'application du régime institué au chapitre Ier du titre III du livre VII dudit code, les taux de cotisations dues au titre des accidents du travail peuvent être fixés par arrêté du ministre de l'agriculture et du ministre de l'économie et des finances."
+      "content": "Par dérogation aux dispositions de l'article 1155 du code rural et pendant les trois premières années suivant la date d'application du régime institué au chapitre Ier du titre III du livre VII dudit code, les taux de cotisations dues au titre des accidents du travail peuvent être fixés par arrêté du ministre de l'agriculture et du ministre de l'économie et des finances.",
+      "valid_from": "1973-07-01"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Toutes dispositions législatives et réglementaires comportant des références aux articles 1024, 1060, 1144, 1149 et 1152 du code rural, à l'exception de celles se rapportant aux titres II, III, IV et V du livre VII du code rural, seront modifiées, par décret, en tant que de besoin, pour tenir compte des dispositions de la présente loi.Demeurent applicables, jusqu'à l'intervention des décrets mentionnés à l'alinéa précédent, lesdits articles du code rural, tels qu'ils résultent des dispositions en vigueur au moment de la promulgation de la présente loi, en tant qu'ils servent de référence aux dispositions législatives et réglementaires précitées."
+      "content": "Toutes dispositions législatives et réglementaires comportant des références aux articles 1024, 1060, 1144, 1149 et 1152 du code rural, à l'exception de celles se rapportant aux titres II, III, IV et V du livre VII du code rural, seront modifiées, par décret, en tant que de besoin, pour tenir compte des dispositions de la présente loi.Demeurent applicables, jusqu'à l'intervention des décrets mentionnés à l'alinéa précédent, lesdits articles du code rural, tels qu'ils résultent des dispositions en vigueur au moment de la promulgation de la présente loi, en tant qu'ils servent de référence aux dispositions législatives et réglementaires précitées.",
+      "valid_from": "1973-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

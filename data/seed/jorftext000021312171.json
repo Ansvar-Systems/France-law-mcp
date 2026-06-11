@@ -12,19 +12,28 @@
       "provision_ref": "art60",
       "section": "60",
       "title": "Article 60",
-      "content": "Les mineurs détenus, lorsqu'ils ne sont pas soumis à l'obligation scolaire, sont tenus de suivre une activité à caractère éducatif."
+      "content": "Les mineurs détenus, lorsqu'ils ne sont pas soumis à l'obligation scolaire, sont tenus de suivre une activité à caractère éducatif.",
+      "valid_from": "2009-11-26"
     },
     {
       "provision_ref": "art61",
       "section": "61",
       "title": "Article 61",
-      "content": "Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat."
+      "content": "Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.",
+      "valid_from": "2009-11-26"
     },
     {
       "provision_ref": "art99",
       "section": "99",
       "title": "Article 99",
-      "content": "La présente loi est applicable, dans sa rédaction résultant de l'ordonnance n° 2022-478 du 30 mars 2022 portant partie législative du code pénitentiaire, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna."
+      "content": "La présente loi est applicable, dans sa rédaction résultant de l'ordonnance n° 2022-478 du 30 mars 2022 portant partie législative du code pénitentiaire, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.",
+      "valid_from": "2022-05-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

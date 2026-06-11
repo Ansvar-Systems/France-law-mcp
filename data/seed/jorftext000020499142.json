@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna les adjonctions et modifications apportées au code monétaire et financier en ses articles L. 214-1, L. 214-12, L. 214-17, L. 214-18, L. 214-19, L. 214-29, L. 214-30, L. 214-34-1, \nL. 214-35, L. 214-35-2, L. 214-35-5, \nL. 411-2 et L. 532-9 par l'ordonnance du 23 octobre 2008 susvisée."
+      "content": "Sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna les adjonctions et modifications apportées au code monétaire et financier en ses articles L. 214-1, L. 214-12, L. 214-17, L. 214-18, L. 214-19, L. 214-29, L. 214-30, L. 214-34-1, \nL. 214-35, L. 214-35-2, L. 214-35-5, \nL. 411-2 et L. 532-9 par l'ordonnance du 23 octobre 2008 susvisée.",
+      "valid_from": "2009-04-11"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions des articles L. 214-19, L. 214-30 et L. 214-35 du même code dans leur rédaction issue de l'ordonnance du 23 octobre 2008 susvisée sont immédiatement applicables aux organismes constitués à la date de publication des décrets rendant applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna les décrets prévus respectivement par ces dispositions."
+      "content": "Les dispositions des articles L. 214-19, L. 214-30 et L. 214-35 du même code dans leur rédaction issue de l'ordonnance du 23 octobre 2008 susvisée sont immédiatement applicables aux organismes constitués à la date de publication des décrets rendant applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna les décrets prévus respectivement par ces dispositions.",
+      "valid_from": "2009-04-11"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Premier ministre, la ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, la ministre de l'économie, de l'industrie et de l'emploi et le secrétaire d'Etat chargé de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, la ministre de l'économie, de l'industrie et de l'emploi et le secrétaire d'Etat chargé de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2009-04-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

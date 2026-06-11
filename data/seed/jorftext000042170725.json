@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - Sous réserve du II, les gens de mer mentionnés au II de l'article L. 5551-1 du code des transports, exerçant à la date de l'entrée en vigueur de la loi du 24 décembre 2019 susvisée, sont affiliés au régime d'assurances sociales relevant de leur activité principale à compter du premier jour du mois suivant la publication de la présente ordonnance.II. - Les gens de mer mentionnés au 2° du II de l'article L. 5551-1 du code des transports, affiliés au régime d'assurance vieillesse mentionné au I de cet article à la date de l'entrée en vigueur de la loi du 24 décembre 2019 précitée, demeurent affiliés à ce régime.III. - Les articles L. 5542-21 à L. 5542-28 du même code demeurent applicables aux gens de mer mentionnés au présent article maintenus au régime d'assurance vieillesse des marins en application des dispositions précitées du II ou, le cas échéant, du I."
+      "content": "I. - Sous réserve du II, les gens de mer mentionnés au II de l'article L. 5551-1 du code des transports, exerçant à la date de l'entrée en vigueur de la loi du 24 décembre 2019 susvisée, sont affiliés au régime d'assurances sociales relevant de leur activité principale à compter du premier jour du mois suivant la publication de la présente ordonnance.II. - Les gens de mer mentionnés au 2° du II de l'article L. 5551-1 du code des transports, affiliés au régime d'assurance vieillesse mentionné au I de cet article à la date de l'entrée en vigueur de la loi du 24 décembre 2019 précitée, demeurent affiliés à ce régime.III. - Les articles L. 5542-21 à L. 5542-28 du même code demeurent applicables aux gens de mer mentionnés au présent article maintenus au régime d'assurance vieillesse des marins en application des dispositions précitées du II ou, le cas échéant, du I.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, la ministre du travail, de l'emploi et de l'insertion, le ministre des solidarités et de la santé et la ministre de la mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre du travail, de l'emploi et de l'insertion, le ministre des solidarités et de la santé et la ministre de la mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-07-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

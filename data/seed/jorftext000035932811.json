@@ -12,25 +12,35 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. -(abrogé)\n\n- Code de la sécurité intérieure"
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. -(abrogé)\n\n- Code de la sécurité intérieure",
+      "valid_from": "2021-07-31"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les structures ayant pour objet ou activité la prévention et la lutte contre la radicalisation peuvent bénéficier de subventions, de la part de toute autorité administrative ou de tout organisme chargé de la gestion d'un service public industriel et commercial, pour mener les actions de prévention et de lutte contre la radicalisation qu'elles ont initiées et définies et qu'elles mettent en œuvre, dès lors que ces actions remplissent les conditions fixées par un cahier des charges arrêté par le ministre de l'intérieur.L'octroi de ces subventions est subordonné à la conclusion d'une convention, à la production d'un compte rendu financier ainsi qu'au dépôt et à la publication de ces documents, dans les conditions prévues à l'article 10 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec l'administration.Ces obligations sont également applicables au moment de la dissolution de la structure concernée, si elle bénéficie encore à cette date des subventions mentionnées au premier alinéa du présent article."
+      "content": "Les structures ayant pour objet ou activité la prévention et la lutte contre la radicalisation peuvent bénéficier de subventions, de la part de toute autorité administrative ou de tout organisme chargé de la gestion d'un service public industriel et commercial, pour mener les actions de prévention et de lutte contre la radicalisation qu'elles ont initiées et définies et qu'elles mettent en œuvre, dès lors que ces actions remplissent les conditions fixées par un cahier des charges arrêté par le ministre de l'intérieur.L'octroi de ces subventions est subordonné à la conclusion d'une convention, à la production d'un compte rendu financier ainsi qu'au dépôt et à la publication de ces documents, dans les conditions prévues à l'article 10 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec l'administration.Ces obligations sont également applicables au moment de la dissolution de la structure concernée, si elle bénéficie encore à cette date des subventions mentionnées au premier alinéa du présent article.",
+      "valid_from": "2017-11-01"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "I. - A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\nII. - Le 3° du I du présent article entre en vigueur le 1er novembre 2017."
+      "content": "I. - A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\nII. - Le 3° du I du présent article entre en vigueur le 1er novembre 2017.",
+      "valid_from": "2017-11-01"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "I., II., IV. et V. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\n- Code de la défense.\n\n- Code de procédure pénale\n\n- Code pénal\n\nIII. - Les articles 5, 6 et 12 de la présente loi sont applicables en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises."
+      "content": "I., II., IV. et V. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\n- Code de la défense.\n\n- Code de procédure pénale\n\n- Code pénal\n\nIII. - Les articles 5, 6 et 12 de la présente loi sont applicables en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.",
+      "valid_from": "2017-11-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

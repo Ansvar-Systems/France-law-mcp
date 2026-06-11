@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente loi entre en vigueur à la rentrée scolaire 2024."
+      "content": "La présente loi entre en vigueur à la rentrée scolaire 2024.",
+      "valid_from": "2024-05-29"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Dans un délai de dix-huit mois à compter de l'entrée en vigueur de la présente loi, le Gouvernement remet au Parlement un rapport sur la situation des accompagnants des élèves en situation de handicap intervenant pendant le temps scolaire et le temps de pause méridienne. Ce rapport indique notamment le nombre d'élèves concernés par ces accompagnements ainsi que le nombre d'élèves ne bénéficiant pas d'un accompagnement en dépit d'une prescription de la maison départementale des personnes handicapées. Il fait également un état des lieux des prescriptions des maisons départementales des personnes handicapées pour le temps scolaire et le temps de pause méridienne.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Dans un délai de dix-huit mois à compter de l'entrée en vigueur de la présente loi, le Gouvernement remet au Parlement un rapport sur la situation des accompagnants des élèves en situation de handicap intervenant pendant le temps scolaire et le temps de pause méridienne. Ce rapport indique notamment le nombre d'élèves concernés par ces accompagnements ainsi que le nombre d'élèves ne bénéficiant pas d'un accompagnement en dépit d'une prescription de la maison départementale des personnes handicapées. Il fait également un état des lieux des prescriptions des maisons départementales des personnes handicapées pour le temps scolaire et le temps de pause méridienne.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2024-05-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

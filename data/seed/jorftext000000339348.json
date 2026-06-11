@@ -1,10 +1,10 @@
 {
   "id": "jorftext000000339348",
   "type": "statute",
-  "title": "Loi n°79-563 du 6 juillet 1979",
+  "title": "Loi n° 79-563 du 6 juillet 1979",
   "title_en": null,
   "short_name": null,
-  "status": "repealed",
+  "status": "in_force",
   "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000339348",
   "description": null,
   "provisions": [
@@ -12,43 +12,56 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le régime d'indemnités applicable aux représentants français au Parlement européen qui ne sont ni député ni sénateur est identique à celui qui s'applique aux membres du Parlement français, tel qu'il est défini aux articles 1er, 2 et 4 de l'ordonnance n° 58-1210 du 13 décembre 1958 portant loi organique relative à l'indemnité des membres du Parlement.Il est exclusif de tous remboursements de frais, autres que ceux qui pourraient être alloués par le Parlement européen."
+      "content": "Le régime d'indemnités applicable aux représentants français au Parlement européen qui ne sont ni député ni sénateur est identique à celui qui s'applique aux membres du Parlement français, tel qu'il est défini aux articles 1er, 2 et 4 de l'ordonnance n° 58-1210 du 13 décembre 1958 portant loi organique relative à l'indemnité des membres du Parlement.Il est exclusif de tous remboursements de frais, autres que ceux qui pourraient être alloués par le Parlement européen.",
+      "valid_from": "1990-01-16"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le montant des indemnités perçues en application du premier alinéa de l'article 1er sera réduit à due concurrence du montant des indemnités de même nature qui pourraient être allouées par le Parlement européen."
+      "content": "Le montant des indemnités perçues en application du premier alinéa de l'article 1er sera réduit à due concurrence du montant des indemnités de même nature qui pourraient être allouées par le Parlement européen.",
+      "valid_from": "1990-01-16"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les indemnités mentionnées aux articles précédents sont versées par l'Assemblée nationale ou par le Sénat. Les représentants français au Parlement européen disposent d'un délai d'un mois pour faire connaître l'assemblée qui leur versera leur indemnité pendant la durée de leur mandat."
+      "content": "Les indemnités mentionnées aux articles précédents sont versées par l'Assemblée nationale ou par le Sénat. Les représentants français au Parlement européen disposent d'un délai d'un mois pour faire connaître l'assemblée qui leur versera leur indemnité pendant la durée de leur mandat.",
+      "valid_from": "1990-01-16"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les crédits nécessaires au versement de l'indemnités sont ouverts au budget de l'Etat. Ils sont fixés dans les conditions prévues par l'article 7 de l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires. Leur gestion et leur contrôle sont assurés par les assemblées parlementaires à concurrence des sommes versées par chacune d'elles."
+      "content": "Les crédits nécessaires au versement de l'indemnités sont ouverts au budget de l'Etat. Ils sont fixés dans les conditions prévues par l'article 7 de l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires. Leur gestion et leur contrôle sont assurés par les assemblées parlementaires à concurrence des sommes versées par chacune d'elles.",
+      "valid_from": "1990-01-16"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les membres du   Conseil économique, social et environnemental élus au Parlement européen cessent de percevoir toute rémunération au titre de leur mandat à ce conseil."
+      "content": "Les membres du   Conseil économique, social et environnemental élus au Parlement européen cessent de percevoir toute rémunération au titre de leur mandat à ce conseil.",
+      "valid_from": "2010-06-30"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les représentants au Parlement européen qui ne sont ni député ni sénateur sont affiliés, pour la durée de leur mandat et selon le choix qu'ils auront fait en application des dispositions de l'article 3, soit au régime des prestations de la sécurité sociale de l'Assemblée nationale, soit à celui du Sénat.Pour les pensions de retraite, ils sont affiliés à l'assurance vieillesse du régime général de sécurité sociale et au régime complémentaire de retraite institué au profit des agents non titulaires des collectivités publiques en application de l'article L. 4 du Code de la sécurité sociale. Les indemnités prévues à l'article 1er, éventuellement réduites dans les conditions prévues à l'article 2, sont soumises aux cotisations prévues à l'article 41 de l'ordonnance n° 67-706 du 21 août 1967 relative à l'organisation administrative et financière de la sécurité sociale et aux cotisations dues au titre du régime complémentaire.Toutefois, les membres du   Conseil économique, social et environnemental élus au Parlement européen demeurent affiliés à la caisse des retraites instituée en application de la loi n° 57-761 du 10 juillet 1957."
+      "content": "Les représentants au Parlement européen qui ne sont ni député ni sénateur sont affiliés, pour la durée de leur mandat et selon le choix qu'ils auront fait en application des dispositions de l'article 3, soit au régime des prestations de la sécurité sociale de l'Assemblée nationale, soit à celui du Sénat.Pour les pensions de retraite, ils sont affiliés à l'assurance vieillesse du régime général de sécurité sociale et au régime complémentaire de retraite institué au profit des agents non titulaires des collectivités publiques en application de l'article L. 4 du Code de la sécurité sociale. Les indemnités prévues à l'article 1er, éventuellement réduites dans les conditions prévues à l'article 2, sont soumises aux cotisations prévues à l'article 41 de l'ordonnance n° 67-706 du 21 août 1967 relative à l'organisation administrative et financière de la sécurité sociale et aux cotisations dues au titre du régime complémentaire.Toutefois, les membres du   Conseil économique, social et environnemental élus au Parlement européen demeurent affiliés à la caisse des retraites instituée en application de la loi n° 57-761 du 10 juillet 1957.",
+      "valid_from": "2010-06-30"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les indemnités prévues à l'article 1er de la présente loi sont soumises à l'impôt sur le revenu des la catégorie des traitements et salaires."
+      "content": "Les indemnités prévues à l'article 1er de la présente loi sont soumises à l'impôt sur le revenu des la catégorie des traitements et salaires.",
+      "valid_from": "1990-01-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

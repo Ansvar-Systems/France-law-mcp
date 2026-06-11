@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Il est créé sous le nom d'Office universitaire et culturel pour\nl'Algérie un établissement public national à caractère administratif,\ndoté de la personnalité civile et de l'autonomie financière, dont\ndépendront les établissements ou instituts scolaires, universitaires\net culturels et leurs annexes que l’Etat français conservera en Algérie\nou qu'il y créera dans les conditions prévues par l'article 2 de la\ndéclaration de principe du 19 mars 1962 relative à la coopération\nculturelle."
+      "content": "Il est créé sous le nom d'Office universitaire et culturel pour\nl'Algérie un établissement public national à caractère administratif,\ndoté de la personnalité civile et de l'autonomie financière, dont\ndépendront les établissements ou instituts scolaires, universitaires\net culturels et leurs annexes que l’Etat français conservera en Algérie\nou qu'il y créera dans les conditions prévues par l'article 2 de la\ndéclaration de principe du 19 mars 1962 relative à la coopération\nculturelle.",
+      "valid_from": "1962-08-15"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'office universitaire et culturel pour l'Algérie a pour mission\nd'assurer, dans les établissements et instituts scolaires et universitaires,\nl'exercice des activités correspondant aux divers ordres d'enseignement.\nLes études sont sanctionnées par les diplômes universitaires français.L'office est notamment chargé :D'ouvrir et administrer les établissements et instituts scolaires,\nuniversitaires et culturels français en Algérie ;De gérer et, en cas de besoin, d'acquérir ou prendre en location\nles immeubles nécessaires à ces établissements et instituts ;De gérer le personnel qui est mis à sa disposition et de recruter\ncertains personnels complémentaires ;En outre, de créer éventuellement des enseignements spécialisés\net adaptés à l'Algérie."
+      "content": "L'office universitaire et culturel pour l'Algérie a pour mission\nd'assurer, dans les établissements et instituts scolaires et universitaires,\nl'exercice des activités correspondant aux divers ordres d'enseignement.\nLes études sont sanctionnées par les diplômes universitaires français.L'office est notamment chargé :D'ouvrir et administrer les établissements et instituts scolaires,\nuniversitaires et culturels français en Algérie ;De gérer et, en cas de besoin, d'acquérir ou prendre en location\nles immeubles nécessaires à ces établissements et instituts ;De gérer le personnel qui est mis à sa disposition et de recruter\ncertains personnels complémentaires ;En outre, de créer éventuellement des enseignements spécialisés\net adaptés à l'Algérie.",
+      "valid_from": "1962-08-15"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Premier ministre, le ministre d'Etat chargé des affaires culturelles,\nle ministre d'Etat chargé des affaires algériennes, le ministre des\naffaires étrangères, le ministre des finances et des affaires économiques\net le ministre de l'éducation nationale sont chargés, chacun en ce\nqui le concerne, de l'exécution de la présente ordonnance, qui sera\npubliée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre d'Etat chargé des affaires culturelles,\nle ministre d'Etat chargé des affaires algériennes, le ministre des\naffaires étrangères, le ministre des finances et des affaires économiques\net le ministre de l'éducation nationale sont chargés, chacun en ce\nqui le concerne, de l'exécution de la présente ordonnance, qui sera\npubliée au Journal officiel de la République française.",
+      "valid_from": "1962-08-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

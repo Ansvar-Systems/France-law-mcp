@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions de la loi n° 61-1439 du 26 décembre 1961 relative à l'accueil et à la réinstallation des Français d'outre-mer sont étendues aux Français qui, à partir du 5 octobre 1979, ont quitté les Nouvelles-Hébrides où ils étaient précédemment établis pour s'installer sur le territoire de la République française."
+      "content": "Les dispositions de la loi n° 61-1439 du 26 décembre 1961 relative à l'accueil et à la réinstallation des Français d'outre-mer sont étendues aux Français qui, à partir du 5 octobre 1979, ont quitté les Nouvelles-Hébrides où ils étaient précédemment établis pour s'installer sur le territoire de la République française.",
+      "valid_from": "1980-09-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

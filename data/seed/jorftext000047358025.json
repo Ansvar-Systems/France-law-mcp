@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions annexées à la présente ordonnance constituent la partie législative du code de l'artisanat."
+      "content": "Les dispositions annexées à la présente ordonnance constituent la partie législative du code de l'artisanat.",
+      "valid_from": "2023-07-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les références à des dispositions abrogées par l'article 5 de la présente ordonnance sont remplacées par des références aux dispositions correspondantes du code de l'artisanat, dans sa rédaction annexée à la présente ordonnance."
+      "content": "Les références à des dispositions abrogées par l'article 5 de la présente ordonnance sont remplacées par des références aux dispositions correspondantes du code de l'artisanat, dans sa rédaction annexée à la présente ordonnance.",
+      "valid_from": "2023-07-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions de nature législative du code de l'artisanat qui comportent des références à des articles d'autres codes ou textes législatifs sont modifiées de plein droit par l'effet des modifications ultérieures de ces articles."
+      "content": "Les dispositions de nature législative du code de l'artisanat qui comportent des références à des articles d'autres codes ou textes législatifs sont modifiées de plein droit par l'effet des modifications ultérieures de ces articles.",
+      "valid_from": "2023-07-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er juillet 2023."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er juillet 2023.",
+      "valid_from": "2023-07-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La Première ministre, le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, le ministre de l'intérieur et des outre-mer et le ministre délégué auprès du ministre de l'intérieur et des outre-mer, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "La Première ministre, le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, le ministre de l'intérieur et des outre-mer et le ministre délégué auprès du ministre de l'intérieur et des outre-mer, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2023-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

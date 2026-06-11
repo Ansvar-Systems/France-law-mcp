@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code des communes de la Nouvelle-Calédonie (partie législative) est modifié conformément aux articles 2 à 41 de la présente ordonnance."
+      "content": "Le code des communes de la Nouvelle-Calédonie (partie législative) est modifié conformément aux articles 2 à 41 de la présente ordonnance.",
+      "valid_from": "2007-07-27"
     },
     {
       "provision_ref": "art47",
       "section": "47",
       "title": "Article 47",
-      "content": "Les dispositions de la présente ordonnance relatives aux comptes, à la présentation, au contenu et à l'exécution du budget des communes, de leurs établissements publics et des groupements de communes entrent en vigueur à compter de l'exercice 2009."
+      "content": "Les dispositions de la présente ordonnance relatives aux comptes, à la présentation, au contenu et à l'exécution du budget des communes, de leurs établissements publics et des groupements de communes entrent en vigueur à compter de l'exercice 2009.",
+      "valid_from": "2007-07-27"
     },
     {
       "provision_ref": "art48",
       "section": "48",
       "title": "Article 48",
-      "content": "Les dispositions de l'article 12 sont applicables aux procédures de passation des marchés engagées postérieurement à la date de publication de la présente ordonnance au Journal officiel de la Nouvelle-Calédonie."
+      "content": "Les dispositions de l'article 12 sont applicables aux procédures de passation des marchés engagées postérieurement à la date de publication de la présente ordonnance au Journal officiel de la Nouvelle-Calédonie.",
+      "valid_from": "2007-07-27"
     },
     {
       "provision_ref": "art52",
       "section": "52",
       "title": "Article 52",
-      "content": "Le Premier ministre et la ministre de l'intérieur, de l'outre-mer et des collectivités territoriales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre de l'intérieur, de l'outre-mer et des collectivités territoriales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2007-07-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

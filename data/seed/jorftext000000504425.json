@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les fonctionnaires, ouvriers et agents de l'Etat, soumis aux régimes spéciaux de retraites institués par les lois du 14 avril 1924, 29 juin 1927, 21 mars 1928 et les textes qui les ont modifiées ou complétées, ont droit ou ouvrent droit aux avantages prévus par l'ordonnance du 2 février 1945 modifiée dans les conditions fixées par un décret pris sur le rapport du ministre du travail et de la sécurité sociale et du ministre des finances."
+      "content": "Les fonctionnaires, ouvriers et agents de l'Etat, soumis aux régimes spéciaux de retraites institués par les lois du 14 avril 1924, 29 juin 1927, 21 mars 1928 et les textes qui les ont modifiées ou complétées, ont droit ou ouvrent droit aux avantages prévus par l'ordonnance du 2 février 1945 modifiée dans les conditions fixées par un décret pris sur le rapport du ministre du travail et de la sécurité sociale et du ministre des finances.",
+      "valid_from": "1948-03-11"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Est expressément constatée la nullité de l'acte dit loi du 18 septembre 1941, sous réserve du maintien, dans les conditions fixées par le décret prévu à l'article 1er ci-dessus, de droits acquis par les fonctionnaires, ouvriers et agents ayant atteint l'âge de 65 ans avant le 1er janvier 1945."
+      "content": "Est expressément constatée la nullité de l'acte dit loi du 18 septembre 1941, sous réserve du maintien, dans les conditions fixées par le décret prévu à l'article 1er ci-dessus, de droits acquis par les fonctionnaires, ouvriers et agents ayant atteint l'âge de 65 ans avant le 1er janvier 1945.",
+      "valid_from": "1948-03-11"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les avantages résultant du décret prévu à l'article 1er prendront effet de la même date que ceux qui sont accordés aux vieux travailleurs par la législation générale."
+      "content": "Les avantages résultant du décret prévu à l'article 1er prendront effet de la même date que ceux qui sont accordés aux vieux travailleurs par la législation générale.",
+      "valid_from": "1948-03-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

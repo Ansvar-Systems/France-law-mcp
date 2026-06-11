@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Outre les emplois visés à l'article 13 (par. 3) de la Constitution, il est pourvu en conseil des ministres :\n\nA l'emploi de procureur général près la Cour des comptes.\n\nAux emplois de direction dans les établissements publics, les entreprises publiques et les sociétés nationales quand leur importance justifie inscription sur une liste dressée par décret en conseil des ministres ;\n\nAux emplois pour lesquels cette procédure est actuellement prévue par une disposition législative ou réglementaire particulière."
+      "content": "Outre les emplois visés à l'article 13 (par. 3) de la Constitution, il est pourvu en conseil des ministres :\n\nA l'emploi de procureur général près la Cour des comptes.\n\nAux emplois de direction dans les établissements publics, les entreprises publiques et les sociétés nationales quand leur importance justifie inscription sur une liste dressée par décret en conseil des ministres ;\n\nAux emplois pour lesquels cette procédure est actuellement prévue par une disposition législative ou réglementaire particulière.",
+      "valid_from": "2016-08-12"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Sont nommés par décret du Président de la République :Les membres du Conseil d'Etat et de la Cour des comptes ;Les magistrats de l'ordre judiciaire ;Les professeurs de l'enseignement supérieur, les officiers des armées de terre, de mer et de l'air.Sont, en outre, nommés par décret du Président de la République, à leur entrée dans leurs corps respectifs, les membres des corps dont le recrutement est normalement assuré par l'école nationale d'administration, les membres du corps préfectoral, les ingénieurs des corps techniques dont le recrutement est en partie assuré conformément au tableau de classement de sortie de l'école polytechnique."
+      "content": "Sont nommés par décret du Président de la République :Les membres du Conseil d'Etat et de la Cour des comptes ;Les magistrats de l'ordre judiciaire ;Les professeurs de l'enseignement supérieur, les officiers des armées de terre, de mer et de l'air.Sont, en outre, nommés par décret du Président de la République, à leur entrée dans leurs corps respectifs, les membres des corps dont le recrutement est normalement assuré par l'école nationale d'administration, les membres du corps préfectoral, les ingénieurs des corps techniques dont le recrutement est en partie assuré conformément au tableau de classement de sortie de l'école polytechnique.",
+      "valid_from": "1958-11-29"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "L'exercice du pouvoir de nomination aux emplois civils et militaires de l'Etat autres que ceux prévus à l'article 13 (par. 3) de la Constitution et aux articles 1er et 2 ci-dessus peut être délégué au Premier ministre par décret du Président de la République en vertu des articles 13 (par. 4) et 21 (par. 1er) de la Constitution."
+      "content": "L'exercice du pouvoir de nomination aux emplois civils et militaires de l'Etat autres que ceux prévus à l'article 13 (par. 3) de la Constitution et aux articles 1er et 2 ci-dessus peut être délégué au Premier ministre par décret du Président de la République en vertu des articles 13 (par. 4) et 21 (par. 1er) de la Constitution.",
+      "valid_from": "1958-11-29"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions de l'article 3 de la présente ordonnance ne font pas obstacle aux dispositions particulières, législatives ou réglementaires, en vertu desquelles le pouvoir de nomination est confié, notamment par mesure de simplification ou de déconcentration administratives, aux ministres ou aux autorités subordonnées."
+      "content": "Les dispositions de l'article 3 de la présente ordonnance ne font pas obstacle aux dispositions particulières, législatives ou réglementaires, en vertu desquelles le pouvoir de nomination est confié, notamment par mesure de simplification ou de déconcentration administratives, aux ministres ou aux autorités subordonnées.",
+      "valid_from": "1958-11-29"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi organique."
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi organique.",
+      "valid_from": "1958-11-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

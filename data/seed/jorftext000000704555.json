@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est interdite, à compter de la promulgation de la présente loi, toute expédition, autrement qu'en bouteilles, des vins produits sous l'appellation \"Coteaux champenois\", à l'exception des mouvements s'effectuant entre producteurs-vignerons, coopératives, négociants-manipulants champenois, titulaires d'une carte professionnelle délivrée par le comité interprofessionnel du vin de Champagne, à l'intérieur de la Champagne viticole délimitée."
+      "content": "Est interdite, à compter de la promulgation de la présente loi, toute expédition, autrement qu'en bouteilles, des vins produits sous l'appellation \"Coteaux champenois\", à l'exception des mouvements s'effectuant entre producteurs-vignerons, coopératives, négociants-manipulants champenois, titulaires d'une carte professionnelle délivrée par le comité interprofessionnel du vin de Champagne, à l'intérieur de la Champagne viticole délimitée.",
+      "valid_from": "1977-05-25"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "A modifié les dispositions suivantes :\n\nloi du 20 mars 1934 article 1"
+      "content": "A modifié les dispositions suivantes :\n\nloi du 20 mars 1934 article 1",
+      "valid_from": "1977-05-25"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Des décrets fixeront en tant que de besoin les modalités d'application de la présente loi.\n\nLa présente loi sera exécutée comme loi de l'Etat."
+      "content": "Des décrets fixeront en tant que de besoin les modalités d'application de la présente loi.\n\nLa présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "1977-05-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

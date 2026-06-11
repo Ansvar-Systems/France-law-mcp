@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 2014-1335 du 6 novembre 2014 relative à l'adaptation et à l'entrée en vigueur de certaines dispositions du code général des collectivités territoriales, du code général des impôts et d'autres dispositions législatives applicables à la métropole de Lyon est ratifiée."
+      "content": "L'ordonnance n° 2014-1335 du 6 novembre 2014 relative à l'adaptation et à l'entrée en vigueur de certaines dispositions du code général des collectivités territoriales, du code général des impôts et d'autres dispositions législatives applicables à la métropole de Lyon est ratifiée.",
+      "valid_from": "2015-04-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

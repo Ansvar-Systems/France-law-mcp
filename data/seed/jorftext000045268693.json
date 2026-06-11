@@ -12,25 +12,35 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I à II.- A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIV.- A modifié les dispositions suivantes :\n\n- Code de commerce\n\n- Code de commerce\n\n- Ordonnance n°2016-728 du 2 juin 2016\n\nIII. - Les membres du Conseil des ventes volontaires de meubles aux enchères publiques sont maintenus dans leurs fonctions jusqu'à la première réunion du collège du Conseil des maisons de vente, même dans le cas où leur mandat expirerait avant celle-ci. Jusqu'à cette date, le Conseil des ventes volontaires de meubles aux enchères publiques exerce les compétences qui lui sont dévolues par les dispositions législatives et réglementaires en vigueur à la date de publication de la présente loi.A la date de la première réunion de son collège, le Conseil des maisons de vente succède au Conseil des ventes volontaires de meubles aux enchères publiques dans ses droits et obligations.A la même date, les affaires disciplinaires pendantes devant le Conseil des ventes volontaires de meubles aux enchères publiques sont transférées à la commission des sanctions du Conseil des maisons de vente."
+      "content": "I à II.- A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIV.- A modifié les dispositions suivantes :\n\n- Code de commerce\n\n- Code de commerce\n\n- Ordonnance n°2016-728 du 2 juin 2016\n\nIII. - Les membres du Conseil des ventes volontaires de meubles aux enchères publiques sont maintenus dans leurs fonctions jusqu'à la première réunion du collège du Conseil des maisons de vente, même dans le cas où leur mandat expirerait avant celle-ci. Jusqu'à cette date, le Conseil des ventes volontaires de meubles aux enchères publiques exerce les compétences qui lui sont dévolues par les dispositions législatives et réglementaires en vigueur à la date de publication de la présente loi.A la date de la première réunion de son collège, le Conseil des maisons de vente succède au Conseil des ventes volontaires de meubles aux enchères publiques dans ses droits et obligations.A la même date, les affaires disciplinaires pendantes devant le Conseil des ventes volontaires de meubles aux enchères publiques sont transférées à la commission des sanctions du Conseil des maisons de vente.",
+      "valid_from": "2022-03-02"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Le I entre en vigueur le 1er juillet 2026.\n\n-Code de commerce"
+      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Le I entre en vigueur le 1er juillet 2026.\n\n-Code de commerce",
+      "valid_from": "2022-03-02"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Au 1er juillet 2022, les commissaires de justice qui justifient avoir organisé et réalisé des ventes volontaires de meubles aux enchères publiques à titre habituel sont réputés avoir la qualification requise au sens du 3° du I de l'article L. 321-4 du code de commerce.Pour remplir la condition prévue au premier alinéa du présent article, les commissaires de justice justifient avoir organisé et réalisé, entre le 1er janvier 2016 et le 31 décembre 2021, pendant une période d'au moins trois années consécutives, soit au moins vingt-quatre ventes volontaires de meubles aux enchères publiques, soit des ventes volontaires de meubles aux enchères publiques dont le produit total est supérieur à 230 000 €."
+      "content": "Au 1er juillet 2022, les commissaires de justice qui justifient avoir organisé et réalisé des ventes volontaires de meubles aux enchères publiques à titre habituel sont réputés avoir la qualification requise au sens du 3° du I de l'article L. 321-4 du code de commerce.Pour remplir la condition prévue au premier alinéa du présent article, les commissaires de justice justifient avoir organisé et réalisé, entre le 1er janvier 2016 et le 31 décembre 2021, pendant une période d'au moins trois années consécutives, soit au moins vingt-quatre ventes volontaires de meubles aux enchères publiques, soit des ventes volontaires de meubles aux enchères publiques dont le produit total est supérieur à 230 000 €.",
+      "valid_from": "2022-03-02"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "A créé les dispositions suivantes :\n\n- Code de commerce\n\nLa présente loi sera exécutée comme loi de l'Etat."
+      "content": "A créé les dispositions suivantes :\n\n- Code de commerce\n\nLa présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2022-03-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

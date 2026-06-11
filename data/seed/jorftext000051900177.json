@@ -1,0 +1,74 @@
+{
+  "id": "jorftext000051900177",
+  "type": "statute",
+  "title": "Ordonnance n°2025-646 du 16 juillet 2025",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000051900177",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Le code de l'entrée et du séjour des étrangers et du droit d'asile est modifié conformément aux dispositions des articles 2 à 53.",
+      "valid_from": "2025-07-18"
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Article 53",
+      "content": "Le 2° du I de l'article 30 de la loi n° 2024-42 du 26 janvier 2024 est applicable à Saint-Barthélemy, Saint-Martin, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.",
+      "valid_from": "2025-07-18"
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Article 55",
+      "content": "Les articles L. 222-2-1, L. 773-11 et L. 776-1 du code de justice administrative sont applicables dans les îles Wallis et Futuna dans leur rédaction résultant de la loi du 26 janvier 2024 susvisée.",
+      "valid_from": "2025-07-18"
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Article 56",
+      "content": "Le II de l'article 35 de la loi du 26 janvier 2024 susvisée modifiant les articles 131-30, 131-30-2, 435-14, 441-11 et 444-8 et abrogeant les articles 131-30-1, 213-2, 215-2, 221-11, 221-16, 222-48, 222-64, 223-21, 224-11, 225-21, 311-15, 312-14, 321-11, 322-16, 324-8, 414-6, 431-8, 431-12, 431-19, 431-27, 433-21-2, 433-23-1, 434-46, 442-12, 443-7 et 462-4 du code pénal est applicable en Polynésie française, en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna.",
+      "valid_from": "2025-07-18"
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Article 57",
+      "content": "Le IV de l'article 35, l'article 36 et le II de l'article 53 de la loi du 26 janvier 2024 susvisée modifiant les articles 41, 706-73 et 720 du code de procédure pénale sont applicables en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna.",
+      "valid_from": "2025-07-18"
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Article 58",
+      "content": "L'article 57 de la loi du 26 janvier 2024 susvisée modifiant les articles L. 232-1, L. 232-4, L. 232-5, L. 232-7 et L. 232-7-1 du code de la sécurité intérieure est applicable en Polynésie française, en Nouvelle-Calédonie, dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises.",
+      "valid_from": "2025-07-18"
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Article 61",
+      "content": "I. ‒ A l'exception de celles mentionnées au II, les dispositions de la présente ordonnance entrent en vigueur le lendemain de sa publication au Journal officiel de la République française dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.II. ‒ Les c, d, e et h du 2°, les b, c, d et g du 4° et les c, d, e et g du 5° de l'article 21 entrent en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1janvier 2026.",
+      "valid_from": "2025-07-18"
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Article 62",
+      "content": "Le Premier ministre, le ministre d'État, ministre des outre-mer, le ministre d'État, garde des sceaux, ministre de la justice, le ministre d'État, ministre de l'intérieur, la ministre du travail, de la santé, des solidarités et des familles et le ministre de l'Europe et des affaires étrangères sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2025-07-18"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

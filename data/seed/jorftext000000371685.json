@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. - .......II. - .......III. - .......IV. - Les dispositions du I ci-dessus sont applicables aux cotisations à la charge des employeurs des salariés relevant du régime spécial de sécurité sociale des marins, dans des conditions fixées, compte tenu des adaptations nécessaires, par décret en Conseil d'Etat.V. - Les dispositions du présent article sont applicables aux gains et rémunérations versés à compter du 1er septembre 1995."
+      "content": "I. - .......II. - .......III. - .......IV. - Les dispositions du I ci-dessus sont applicables aux cotisations à la charge des employeurs des salariés relevant du régime spécial de sécurité sociale des marins, dans des conditions fixées, compte tenu des adaptations nécessaires, par décret en Conseil d'Etat.V. - Les dispositions du présent article sont applicables aux gains et rémunérations versés à compter du 1er septembre 1995.",
+      "valid_from": "1995-08-05"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. - L'article 28 de la loi n° 91-73 du 18 janvier 1991 portant dispositions relatives à la santé publique et aux assurances sociales est abrogé.II. - Les dispositions du présent article s'appliquent :1° Pour les salariés et assimilés relevant du régime général de la sécurité sociale et du régime des salariés agricoles, et pour les personnes relevant des régimes spéciaux de sécurité sociale autres que celui des fonctionnaires civils et militaires de l'Etat : aux gains et rémunérations versés à compter du 1er septembre 1995 ;2° Pour les chefs d'entreprises artisanales, industrielles et commerciales, pour les personnes visées à l'article L. 382-1 du code de la sécurité sociale, pour les chefs d'exploitations ou d'entreprises agricoles et pour les ressortissants du régime spécial de sécurité sociale des marins : aux cotisations dues au titre de la période postérieure au 31 août 1995."
+      "content": "I. - L'article 28 de la loi n° 91-73 du 18 janvier 1991 portant dispositions relatives à la santé publique et aux assurances sociales est abrogé.II. - Les dispositions du présent article s'appliquent :1° Pour les salariés et assimilés relevant du régime général de la sécurité sociale et du régime des salariés agricoles, et pour les personnes relevant des régimes spéciaux de sécurité sociale autres que celui des fonctionnaires civils et militaires de l'Etat : aux gains et rémunérations versés à compter du 1er septembre 1995 ;2° Pour les chefs d'entreprises artisanales, industrielles et commerciales, pour les personnes visées à l'article L. 382-1 du code de la sécurité sociale, pour les chefs d'exploitations ou d'entreprises agricoles et pour les ressortissants du régime spécial de sécurité sociale des marins : aux cotisations dues au titre de la période postérieure au 31 août 1995.",
+      "valid_from": "1995-08-05"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Gouvernement, après consultation du Comité supérieur de l'emploi mentionné à l'article L. 322-2 du code du travail, présentera au Parlement, avant la fin du premier trimestre 1996, un premier rapport dressant le bilan de l'élaboration des chartes de développement de l'emploi par les branches professionnelles, prévues dans le cadre des mesures d'urgence.Avant le 30 juin 1997, il présentera un second rapport, dressant le bilan de leur mise en oeuvre."
+      "content": "Le Gouvernement, après consultation du Comité supérieur de l'emploi mentionné à l'article L. 322-2 du code du travail, présentera au Parlement, avant la fin du premier trimestre 1996, un premier rapport dressant le bilan de l'élaboration des chartes de développement de l'emploi par les branches professionnelles, prévues dans le cadre des mesures d'urgence.Avant le 30 juin 1997, il présentera un second rapport, dressant le bilan de leur mise en oeuvre.",
+      "valid_from": "1995-08-05"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Il peut être conclu des conventions de coopération, signées en dehors du champ d'application de l'article L. 128 du code du travail, réunissant certaines collectivités locales, le représentant de l'Etat et les institutions chargées du placement et de l'indemnisation des demandeurs d'emploi et qui ont pour objet la mise en place de dispositifs locaux d'insertion pour les chômeurs indemnisés."
+      "content": "Il peut être conclu des conventions de coopération, signées en dehors du champ d'application de l'article L. 128 du code du travail, réunissant certaines collectivités locales, le représentant de l'Etat et les institutions chargées du placement et de l'indemnisation des demandeurs d'emploi et qui ont pour objet la mise en place de dispositifs locaux d'insertion pour les chômeurs indemnisés.",
+      "valid_from": "1995-08-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

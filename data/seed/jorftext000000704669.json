@@ -12,25 +12,35 @@
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Les dispositions du code des marchés publics relatives aux marchés passés au nom des collectivités locales et de leurs établissements publics sont applicables, sous réserve des adaptations, fixées par décret, découlant de l'organisation particulière du territoire."
+      "content": "Les dispositions du code des marchés publics relatives aux marchés passés au nom des collectivités locales et de leurs établissements publics sont applicables, sous réserve des adaptations, fixées par décret, découlant de l'organisation particulière du territoire.",
+      "valid_from": "1977-07-10"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "I - Aux articles 7 et 8 de la loi n° 69-5 du 3 janvier 1969 relative à la création et à l'organisation des communes dans le territoire de la Nouvelle-Calédonie et dépendances, les termes \"section ordinaire\" et \"section extraordinaire\" sont respectivement remplacés par les termes \"section de fonctionnement\" et \"section de fonctionnement\" et \"section d'investissement\".II - L'alinéa 3 de l'article 9 de la loi n° 69-5 du 3 janvier 1969 est ainsi modifié :\"Le fonds intercommunal de péréquation reçoit, en outre, toutes subventions allouées aux communes par le territoire. Il peut recevoir également des subventions de l'Etat destinées à l'ensemble des communes\"."
+      "content": "I - Aux articles 7 et 8 de la loi n° 69-5 du 3 janvier 1969 relative à la création et à l'organisation des communes dans le territoire de la Nouvelle-Calédonie et dépendances, les termes \"section ordinaire\" et \"section extraordinaire\" sont respectivement remplacés par les termes \"section de fonctionnement\" et \"section de fonctionnement\" et \"section d'investissement\".II - L'alinéa 3 de l'article 9 de la loi n° 69-5 du 3 janvier 1969 est ainsi modifié :\"Le fonds intercommunal de péréquation reçoit, en outre, toutes subventions allouées aux communes par le territoire. Il peut recevoir également des subventions de l'Etat destinées à l'ensemble des communes\".",
+      "valid_from": "1977-07-10"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Sont abrogées toutes les dispositions contraires à la présente loi en tant qu'elles s'appliquent aux communes du territoire de la Nouvelle-Calédonie et dépendances, et notamment :\n\nLa loi n° 69-5 du 3 janvier 1969 relative à la création et à l'organisation des communes dans le territoire de la Nouvelle-Calédonie à l'exception des articles 1er à 3, 7 à 10, 12 et 18 ;\n\nLes articles de l'arrêté n° 61-36 du conseil de gouvernement du 31 janvier 1961 relatif à la réorganisation des commissions municipales et régionales ayant reçu valeur législative en vertu de l'article 19 de la loi n° 69-5 du 3 janvier 1969 relative à la création et à l'organisation des communes dans le territoire de la Nouvelle-Calédonie et dépendances ;\n\nLe décret modifié du 8 mars 1879 instituant un conseil municipal à Nouméa à l'exception de l'article 1er ;\n\nL'article 58 du décret n° 57-811 du 22 juillet 1957 portant institution d'un conseil de gouvernement et extension des attributions de l'assemblée territoriale en Nouvelle-Calédonie et dépendances."
+      "content": "Sont abrogées toutes les dispositions contraires à la présente loi en tant qu'elles s'appliquent aux communes du territoire de la Nouvelle-Calédonie et dépendances, et notamment :\n\nLa loi n° 69-5 du 3 janvier 1969 relative à la création et à l'organisation des communes dans le territoire de la Nouvelle-Calédonie à l'exception des articles 1er à 3, 7 à 10, 12 et 18 ;\n\nLes articles de l'arrêté n° 61-36 du conseil de gouvernement du 31 janvier 1961 relatif à la réorganisation des commissions municipales et régionales ayant reçu valeur législative en vertu de l'article 19 de la loi n° 69-5 du 3 janvier 1969 relative à la création et à l'organisation des communes dans le territoire de la Nouvelle-Calédonie et dépendances ;\n\nLe décret modifié du 8 mars 1879 instituant un conseil municipal à Nouméa à l'exception de l'article 1er ;\n\nL'article 58 du décret n° 57-811 du 22 juillet 1957 portant institution d'un conseil de gouvernement et extension des attributions de l'assemblée territoriale en Nouvelle-Calédonie et dépendances.",
+      "valid_from": "1977-07-10"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Des décrets en Conseil d'Etat fixeront en tant que de besoin les modalités d'application de la présente loi."
+      "content": "Des décrets en Conseil d'Etat fixeront en tant que de besoin les modalités d'application de la présente loi.",
+      "valid_from": "1977-07-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

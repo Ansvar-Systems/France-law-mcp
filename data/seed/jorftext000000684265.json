@@ -12,7 +12,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Si l'exercice du contrôle fait apparaître qu'une entreprise de crédit différé n'est pas en mesure de faire face aux engagements qu'elle a contractés ou ne fonctionne pas conformément à la réglementation en vigueur, le ministre des finances et des affaires économiques peut suspendre les dirigeants de ladite entreprise avec nomination d'un administrateur provisoire.La décision du ministre doit être motivée ; elle ne peut intervenir qu'après avis conforme de la commission prévue à l'article 11 de la loi du 24 mars 1952 devant laquelle les dirigeants intéressés ou leurs représentants seront obligatoirement convoqués."
+      "content": "Si l'exercice du contrôle fait apparaître qu'une entreprise de crédit différé n'est pas en mesure de faire face aux engagements qu'elle a contractés ou ne fonctionne pas conformément à la réglementation en vigueur, le ministre des finances et des affaires économiques peut suspendre les dirigeants de ladite entreprise avec nomination d'un administrateur provisoire.La décision du ministre doit être motivée ; elle ne peut intervenir qu'après avis conforme de la commission prévue à l'article 11 de la loi du 24 mars 1952 devant laquelle les dirigeants intéressés ou leurs représentants seront obligatoirement convoqués.",
+      "valid_from": "1954-04-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

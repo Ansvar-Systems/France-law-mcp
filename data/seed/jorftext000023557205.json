@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "III. ― Le présent article entre en vigueur le 1er janvier 2012."
+      "content": "I.―, II.― A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIII.― Le présent article entre en vigueur le 1er janvier 2012.\n\n-Code général des collectivités territoriales\n\n-Loi n° 90-449 du 31 mai 1990\n\n-Code général des collectivités territoriales",
+      "valid_from": "2011-02-09"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Dans un délai de six mois après la promulgation de la présente loi, le Gouvernement remet un rapport au Parlement sur les modalités et les conséquences de l'application d'une allocation de solidarité pour l'eau attribuée sous conditions de ressources, directement ou indirectement, aux usagers domestiques des services publics d'eau potable et d'assainissement afin de contribuer au paiement des charges liées aux consommations d'eau au titre de la résidence principale."
+      "content": "Dans un délai de six mois après la promulgation de la présente loi, le Gouvernement remet un rapport au Parlement sur les modalités et les conséquences de l'application d'une allocation de solidarité pour l'eau attribuée sous conditions de ressources, directement ou indirectement, aux usagers domestiques des services publics d'eau potable et d'assainissement afin de contribuer au paiement des charges liées aux consommations d'eau au titre de la résidence principale.",
+      "valid_from": "2011-02-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

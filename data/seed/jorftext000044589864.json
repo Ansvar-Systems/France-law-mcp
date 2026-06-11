@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I.-A créé les dispositions suivantes :\n\nII.-Des supports de communication à destination des habitants sont mis à la disposition des communes par le référent mentionné à l'article L. 125-1-2 du code des assurances afin de garantir une bonne connaissance de la procédure de reconnaissance de l'état de catastrophe naturelle. Ces documents décrivent les étapes de la procédure, depuis la formulation de la demande jusqu'à l'achèvement du processus d'indemnisation prévu à l'article L. 125-2 du même code.III.-Le II entre en vigueur le 1er juillet 2022.\n\n- Code des assurances"
+      "content": "I.-A créé les dispositions suivantes :\n\nII.-Des supports de communication à destination des habitants sont mis à la disposition des communes par le référent mentionné à l'article L. 125-1-2 du code des assurances afin de garantir une bonne connaissance de la procédure de reconnaissance de l'état de catastrophe naturelle. Ces documents décrivent les étapes de la procédure, depuis la formulation de la demande jusqu'à l'achèvement du processus d'indemnisation prévu à l'article L. 125-2 du même code.III.-Le II entre en vigueur le 1er juillet 2022.\n\n- Code des assurances",
+      "valid_from": "2021-12-30"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur l'opportunité et les moyens d'un renforcement des constructions existantes, dans un objectif de prévention des dommages causés par le retrait-gonflement des argiles.Le rapport présente également :1° Des propositions en vue de l'indemnisation des dommages causés par ce phénomène qui ne sont couverts ni par le régime de catastrophe naturelle, ni par la garantie décennale, notamment en examinant les modalités de financement et d'attribution d'aides de l'Etat permettant d'indemniser l'ensemble des propriétaires concernés ;2° Des possibilités de réforme à apporter au dispositif de franchise spécifique pour les dommages consécutifs à la sécheresse et des pistes d'amélioration des délais d'instruction des demandes d'indemnisation des sinistrés auprès des assureurs ;3° Des pistes visant à créer un régime juridique et financier traitant de l'ensemble des aspects liés au phénomène de retrait-gonflement des argiles et soutenable sur le long terme ;4° Un état des lieux des informations disponibles sur les sites internet dédiés à la prévention des risques naturels et à la gestion et à l'indemnisation des catastrophes naturelles ainsi qu'une évaluation de la pertinence, de l'exhaustivité et de l'accessibilité de ces informations en vue d'une éventuelle harmonisation ;5° La liste des établissements publics de coopération intercommunale à fiscalité propre ou la métropole de Lyon dont la majorité des communes ou la majorité de la population est fortement exposée au phénomène de retrait-gonflement des argiles.\n\n- Code des assurances"
+      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur l'opportunité et les moyens d'un renforcement des constructions existantes, dans un objectif de prévention des dommages causés par le retrait-gonflement des argiles.Le rapport présente également :1° Des propositions en vue de l'indemnisation des dommages causés par ce phénomène qui ne sont couverts ni par le régime de catastrophe naturelle, ni par la garantie décennale, notamment en examinant les modalités de financement et d'attribution d'aides de l'Etat permettant d'indemniser l'ensemble des propriétaires concernés ;2° Des possibilités de réforme à apporter au dispositif de franchise spécifique pour les dommages consécutifs à la sécheresse et des pistes d'amélioration des délais d'instruction des demandes d'indemnisation des sinistrés auprès des assureurs ;3° Des pistes visant à créer un régime juridique et financier traitant de l'ensemble des aspects liés au phénomène de retrait-gonflement des argiles et soutenable sur le long terme ;4° Un état des lieux des informations disponibles sur les sites internet dédiés à la prévention des risques naturels et à la gestion et à l'indemnisation des catastrophes naturelles ainsi qu'une évaluation de la pertinence, de l'exhaustivité et de l'accessibilité de ces informations en vue d'une éventuelle harmonisation ;5° La liste des établissements publics de coopération intercommunale à fiscalité propre ou la métropole de Lyon dont la majorité des communes ou la majorité de la population est fortement exposée au phénomène de retrait-gonflement des argiles.\n\n- Code des assurances",
+      "valid_from": "2021-12-30"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "La présente loi ne s'applique pas aux contrats en cours à la date de sa publication.Toutefois, les articles 3 et 6 entrent en vigueur le premier jour du treizième mois suivant la publication de la présente loi.L'article 7 entre en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2023.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "La présente loi ne s'applique pas aux contrats en cours à la date de sa publication.Toutefois, les articles 3 et 6 entrent en vigueur le premier jour du treizième mois suivant la publication de la présente loi.L'article 7 entre en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2023.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2021-12-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

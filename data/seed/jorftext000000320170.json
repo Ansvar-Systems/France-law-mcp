@@ -12,13 +12,21 @@
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Les dispositions des articles 3,5 et 8 de la présente loi ne sont pas applicables aux baux en cours à la date de sa publication lorsque, à l'expiration du bail en cours, le locataire ne justifie pas exploiter son fonds soit depuis deux années consécutives en vertu d'un ou plusieurs baux écrits successifs, soit depuis quatre années consécutives   en vertu d'un ou plusieurs baux verbaux successifs ou baux verbaux et écrits successifs."
+      "content": "Les dispositions des articles 3,5 et 8 de la présente loi ne sont pas applicables aux baux en cours à la date de sa publication lorsque, à l'expiration du bail en cours, le locataire ne justifie pas exploiter son fonds soit depuis deux années consécutives en vertu d'un ou plusieurs baux écrits successifs, soit depuis quatre années consécutives   en vertu d'un ou plusieurs baux verbaux successifs ou baux verbaux et écrits successifs.",
+      "valid_from": "1965-05-13"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "I.-Le prix des baux en cours à la date de la publication de la présente loi pourra encore faire l'objet d'une revision suivant les règles de fond antérieurement applicables dès lors qu'à cette date, ce prix a effet depuis deux ans au moins   .A cette fin, toutes les demandes en revision déjà formées sont validées et déclarées recevables, en tant que de besoin. Les demandes nouvelles seront recevables sous la seule condition que le prix ait effet depuis plus de trois années   .II.-Les dispositions de l'article 15 de la présente loi sont applicables aux baux, en cours ou renouvelés, ainsi qu'aux instances en cours."
+      "content": "I.-Le prix des baux en cours à la date de la publication de la présente loi pourra encore faire l'objet d'une revision suivant les règles de fond antérieurement applicables dès lors qu'à cette date, ce prix a effet depuis deux ans au moins   .A cette fin, toutes les demandes en revision déjà formées sont validées et déclarées recevables, en tant que de besoin. Les demandes nouvelles seront recevables sous la seule condition que le prix ait effet depuis plus de trois années   .II.-Les dispositions de l'article 15 de la présente loi sont applicables aux baux, en cours ou renouvelés, ainsi qu'aux instances en cours.",
+      "valid_from": "1965-05-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

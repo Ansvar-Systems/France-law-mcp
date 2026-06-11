@@ -12,43 +12,56 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les ressortissants et anciens ressortissants des territoires et Etats sur lesquels la France, en son nom propre, en celui des autorités locales ou en vertu d'une convention internationale, a, soit accompli des actes de souveraineté, soit contrôlé l'exercice de la souveraineté locale, peuvent être admis à bénéficier de modalités particulières d'accès dans les cadres de la fonction publique ou des services publics français, dans les conditions fixées ci-après, sous réserve d'avoir occupé à titre permanent pendant un an au moins des emplois dans les administrations et services publics constitués dans les territoires et Etats visés ci-dessus, ou en relevant."
+      "content": "Les ressortissants et anciens ressortissants des territoires et Etats sur lesquels la France, en son nom propre, en celui des autorités locales ou en vertu d'une convention internationale, a, soit accompli des actes de souveraineté, soit contrôlé l'exercice de la souveraineté locale, peuvent être admis à bénéficier de modalités particulières d'accès dans les cadres de la fonction publique ou des services publics français, dans les conditions fixées ci-après, sous réserve d'avoir occupé à titre permanent pendant un an au moins des emplois dans les administrations et services publics constitués dans les territoires et Etats visés ci-dessus, ou en relevant.",
+      "valid_from": "1959-01-08"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les agents n'ayant pas encore la nationalité française peuvent, sous réserve d'avoir sollicité cette nationalité, faire l'objet d'un recrutement en qualité d'agent non titulaire."
+      "content": "Les agents n'ayant pas encore la nationalité française peuvent, sous réserve d'avoir sollicité cette nationalité, faire l'objet d'un recrutement en qualité d'agent non titulaire.",
+      "valid_from": "1959-01-08"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les agents ayant acquis la nationalité française peuvent, sans que leur soit opposable l'incapacité éventuelle résultant du mode d'acquisition de leur nationalité, soit faire l'objet d'un recrutement dans les conditions de droit commun sur un emploi d'agent titulaire, soit bénéficier de modalités particulières de reclassement dans les administrations et services publics français s'inspirant des mesures intervenues en faveur des personnels français ayant appartenu à leur ancien cadre local."
+      "content": "Les agents ayant acquis la nationalité française peuvent, sans que leur soit opposable l'incapacité éventuelle résultant du mode d'acquisition de leur nationalité, soit faire l'objet d'un recrutement dans les conditions de droit commun sur un emploi d'agent titulaire, soit bénéficier de modalités particulières de reclassement dans les administrations et services publics français s'inspirant des mesures intervenues en faveur des personnels français ayant appartenu à leur ancien cadre local.",
+      "valid_from": "1959-01-08"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les anciens ressortissants des Etats ou territoires visés à l'article 1er ci-dessus et ayant acquis, à raison du lien existant entre ces territoires et la République française à la date de leur recrutement, la qualité d'agents titulaires de l'Etat, des départements, des communes, de l'Algérie, de leurs établissements publics et des organismes soumis à leur contrôle, conservent cette qualité sous réserve d'avoir acquis la nationalité française depuis cette date.Bénéficient également de la présente disposition les intéressés qui solliciteront la nationalité française, tant que leur demande n'aura pas fait l'objet d'une décision."
+      "content": "Les anciens ressortissants des Etats ou territoires visés à l'article 1er ci-dessus et ayant acquis, à raison du lien existant entre ces territoires et la République française à la date de leur recrutement, la qualité d'agents titulaires de l'Etat, des départements, des communes, de l'Algérie, de leurs établissements publics et des organismes soumis à leur contrôle, conservent cette qualité sous réserve d'avoir acquis la nationalité française depuis cette date.Bénéficient également de la présente disposition les intéressés qui solliciteront la nationalité française, tant que leur demande n'aura pas fait l'objet d'une décision.",
+      "valid_from": "1959-01-08"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Des décrets fixeront, pour chaque Etat ou territoire, les conditions générales d'application de la présente ordonnance et en particulier :- la date limite à laquelle devra être remplie la condition de un an prévue à l'article 1er ;- les cas de cessation de fonctions dans les cadres locaux pouvant donner lieu à application de l'article 3 ;- les délais de présentation des demandes d'acquisition de nationalité visées aux articles 2 et 4."
+      "content": "Des décrets fixeront, pour chaque Etat ou territoire, les conditions générales d'application de la présente ordonnance et en particulier :- la date limite à laquelle devra être remplie la condition de un an prévue à l'article 1er ;- les cas de cessation de fonctions dans les cadres locaux pouvant donner lieu à application de l'article 3 ;- les délais de présentation des demandes d'acquisition de nationalité visées aux articles 2 et 4.",
+      "valid_from": "1959-01-08"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Un décret en Conseil d'Etat fixera les conditions dans lesquelles les étrangers, ainsi que les anciens étrangers ayant acquis la nationalité française, qui ont occupé dans les territoires et Etats visés à l'article 1er les emplois prévus audit article, pourront exceptionnellement bénéficier des dispositions qui précèdent."
+      "content": "Un décret en Conseil d'Etat fixera les conditions dans lesquelles les étrangers, ainsi que les anciens étrangers ayant acquis la nationalité française, qui ont occupé dans les territoires et Etats visés à l'article 1er les emplois prévus audit article, pourront exceptionnellement bénéficier des dispositions qui précèdent.",
+      "valid_from": "1959-01-08"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La présente ordonnance secs publiée au Journal officiel de la République française et exécutée comme loi."
+      "content": "La présente ordonnance secs publiée au Journal officiel de la République française et exécutée comme loi.",
+      "valid_from": "1959-01-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

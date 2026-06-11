@@ -1,0 +1,25 @@
+{
+  "id": "jorftext000053607699",
+  "type": "statute",
+  "title": "LOI n°2026-145 du 2 mars 2026",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053607699",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "artunique",
+      "section": "unique",
+      "title": "Article unique",
+      "content": "Est autorisée l'approbation de la résolution n° F/BG/2023/04 relative aux amendements à l'accord portant création du Fonds africain de développement, adoptée par le Conseil des gouverneurs du Fonds africain de développement à Charm el-Cheikh le 23 mai 2023, et dont le texte est annexé à la présente loi (2).La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2026-03-04"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

@@ -12,13 +12,21 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les dispositions de l'article L. 164-1-1 du code minier, dans sa rédaction résultant du 7° de l'article 5 de la présente ordonnance, entrent en vigueur à la date d'entrée en vigueur de l'arrêté des ministres chargés, respectivement, des mines, de l'environnement et de l'énergie pris pour son application et au plus tard le 1er juillet 2025."
+      "content": "Les dispositions de l'article L. 164-1-1 du code minier, dans sa rédaction résultant du 7° de l'article 5 de la présente ordonnance, entrent en vigueur à la date d'entrée en vigueur de l'arrêté des ministres chargés, respectivement, des mines, de l'environnement et de l'énergie pris pour son application et au plus tard le 1er juillet 2025.",
+      "valid_from": "2022-11-12"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "La Première ministre, le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, le ministre de la transition écologique et de la cohésion des territoires et la ministre de la transition énergétique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "La Première ministre, le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, le ministre de la transition écologique et de la cohésion des territoires et la ministre de la transition énergétique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2022-11-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

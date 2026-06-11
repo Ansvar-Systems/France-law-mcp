@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est approuvé le rapport annexé à la présente loi, qui fixe les orientations relatives à la politique de défense, à l'équipement et au format des forces armées pour la période 1995-2000."
+      "content": "Est approuvé le rapport annexé à la présente loi, qui fixe les orientations relatives à la politique de défense, à l'équipement et au format des forces armées pour la période 1995-2000.",
+      "valid_from": "1994-06-24"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les moyens affectés à l'équipement des forces armées au cours des années 1995-2000 sont ainsi fixés :(Moyens en millions de francs 1994)1995 100 9161996 101 4211997 101 9281998 102 4381999 102 9502000 103 465Ces moyens s'entendent des crédits de paiement de l'année, des crédits reportés disponibles provenant des exercices antérieurs à 1995 et des produits de fonds de concours.Ils seront actualisés chaque année par application de l'indice des prix à la consommation hors tabac retenu par la loi de finances pour chacune des années considérées.Les autorisations de programme seront déterminées annuellement en cohérence avec cet échéancier."
+      "content": "Les moyens affectés à l'équipement des forces armées au cours des années 1995-2000 sont ainsi fixés :(Moyens en millions de francs 1994)1995 100 9161996 101 4211997 101 9281998 102 4381999 102 9502000 103 465Ces moyens s'entendent des crédits de paiement de l'année, des crédits reportés disponibles provenant des exercices antérieurs à 1995 et des produits de fonds de concours.Ils seront actualisés chaque année par application de l'indice des prix à la consommation hors tabac retenu par la loi de finances pour chacune des années considérées.Les autorisations de programme seront déterminées annuellement en cohérence avec cet échéancier.",
+      "valid_from": "1994-06-24"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Gouvernement déposera en 1997, dans les mêmes formes que la présente loi, un projet de loi actualisant les données de celle-ci pour 1998, 1999 et 2000 et déterminant celles des années 2001, 2002 et 2003.Si la situation économique et financière le permet, les moyens pour les années 1998 à 2000 seront fixés dans la limite des montants suivants :(Moyens en millions de francs 1994)1998 103 5471999 105 0092000 106 584"
+      "content": "Le Gouvernement déposera en 1997, dans les mêmes formes que la présente loi, un projet de loi actualisant les données de celle-ci pour 1998, 1999 et 2000 et déterminant celles des années 2001, 2002 et 2003.Si la situation économique et financière le permet, les moyens pour les années 1998 à 2000 seront fixés dans la limite des montants suivants :(Moyens en millions de francs 1994)1998 103 5471999 105 0092000 106 584",
+      "valid_from": "1994-06-24"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les effectifs budgétaires du ministère de la défense évolueront de la façon suivante de 1995 à 2000 :1995 606 0001996 602 0001997 597 0001998 591 0001999 585 0002000 579 500Avant le 31 décembre 1996, le Gouvernement déposera au Parlement un rapport d'orientation portant sur le service national et l'éventuel développement des formes civiles dans le respect des règles d'égalité et d'universalité qui président à son exécution."
+      "content": "Les effectifs budgétaires du ministère de la défense évolueront de la façon suivante de 1995 à 2000 :1995 606 0001996 602 0001997 597 0001998 591 0001999 585 0002000 579 500Avant le 31 décembre 1996, le Gouvernement déposera au Parlement un rapport d'orientation portant sur le service national et l'éventuel développement des formes civiles dans le respect des règles d'égalité et d'universalité qui président à son exécution.",
+      "valid_from": "1994-06-24"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les effectifs des réserves dans l'objectif d'emploi et de formation mentionné au e du 1 du I du rapport annexé à la présente loi sont fixés à 500 000 hommes à l'échéance de 2000."
+      "content": "Les effectifs des réserves dans l'objectif d'emploi et de formation mentionné au e du 1 du I du rapport annexé à la présente loi sont fixés à 500 000 hommes à l'échéance de 2000.",
+      "valid_from": "1994-06-24"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Gouvernement présentera au Parlement chaque année, à l'appui du projet de loi de finances, un rapport sur l'exécution de la loi de programmation militaire faisant apparaître la cohérence entre ledit projet de loi de finances et le budget en cours d'exécution, d'une part, les réalisations en termes physiques et financiers des grands programmes et des objectifs concernant les effectifs et les réserves, d'autre part."
+      "content": "Le Gouvernement présentera au Parlement chaque année, à l'appui du projet de loi de finances, un rapport sur l'exécution de la loi de programmation militaire faisant apparaître la cohérence entre ledit projet de loi de finances et le budget en cours d'exécution, d'une part, les réalisations en termes physiques et financiers des grands programmes et des objectifs concernant les effectifs et les réserves, d'autre part.",
+      "valid_from": "1994-06-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

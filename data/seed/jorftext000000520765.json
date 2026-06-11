@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Il est interdit d'employer la dénomination \"essence de térébenthine\" et toute dénomination contenant le mot \"térébenthine\" ou des combinaisons, dérivés ou imitations de ce mot, pour désigner un produit ne provenant pas actuellement, exclusivement et directement de la distillation, à une température inférieure à 180 degrés, des sucs oléo-résineux obtenus par gemmage des diverses variétés de pins vivants qu'il est d'usage loyal et constant de cultiver en vue de la fabrication de l'essence de térébenthine."
+      "content": "Il est interdit d'employer la dénomination \"essence de térébenthine\" et toute dénomination contenant le mot \"térébenthine\" ou des combinaisons, dérivés ou imitations de ce mot, pour désigner un produit ne provenant pas actuellement, exclusivement et directement de la distillation, à une température inférieure à 180 degrés, des sucs oléo-résineux obtenus par gemmage des diverses variétés de pins vivants qu'il est d'usage loyal et constant de cultiver en vue de la fabrication de l'essence de térébenthine.",
+      "valid_from": "1932-01-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Il est interdit d'employer les dénominations d'essences de pins, de bois ou de résine, d'huiles de pins ou de résine, ainsi que toute dénomination contenant les mots \"terpène\" ou \"pinène\" et combinaisons, dérivés ou imitations de ces mots, chaque fois que leur emploi peut créer une confusion dans l'esprit de l'acheteur sur la nature de ces produits tels qu'ils seront déterminés par le décret prévu à l'article 4."
+      "content": "Il est interdit d'employer les dénominations d'essences de pins, de bois ou de résine, d'huiles de pins ou de résine, ainsi que toute dénomination contenant les mots \"terpène\" ou \"pinène\" et combinaisons, dérivés ou imitations de ces mots, chaque fois que leur emploi peut créer une confusion dans l'esprit de l'acheteur sur la nature de ces produits tels qu'ils seront déterminés par le décret prévu à l'article 4.",
+      "valid_from": "1932-01-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "En ce qui concerne les produits fabriqués présentés au public comme contenant partiellement de l'essence de térébenthine ou toute essence de produits résineux quelconques, la proportion dans laquelle intervient cette essence doit être indiquée clairement à l'acheteur par une inscription bien apparente."
+      "content": "En ce qui concerne les produits fabriqués présentés au public comme contenant partiellement de l'essence de térébenthine ou toute essence de produits résineux quelconques, la proportion dans laquelle intervient cette essence doit être indiquée clairement à l'acheteur par une inscription bien apparente.",
+      "valid_from": "1932-01-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Il sera statué par un décret, dans les conditions prévues par les articles L. 214-1, L. 215-4, L. 215-1 et L. 214-2 du code de la consommation sur les mesures à prendre pour l'application de la présente loi, notamment en ce qui concerne la définition des produits visés aux articles 1er et 2 ci-dessus."
+      "content": "Il sera statué par un décret, dans les conditions prévues par les articles L. 214-1, L. 215-4, L. 215-1 et L. 214-2 du code de la consommation sur les mesures à prendre pour l'application de la présente loi, notamment en ce qui concerne la définition des produits visés aux articles 1er et 2 ci-dessus.",
+      "valid_from": "1993-07-27"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les infractions à la présente loi seront punies des peines   prévues par les articles L. 213-1 à L. 216-1 du code de la consommation."
+      "content": "Les infractions à la présente loi seront punies des peines   prévues par les articles L. 213-1 à L. 216-1 du code de la consommation.",
+      "valid_from": "1993-07-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

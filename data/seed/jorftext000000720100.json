@@ -1,10 +1,10 @@
 {
   "id": "jorftext000000720100",
   "type": "statute",
-  "title": "Loi n°91-429 du 13 mai 1991",
+  "title": "Loi n° 91-429 du 13 mai 1991",
   "title_en": null,
   "short_name": null,
-  "status": "repealed",
+  "status": "in_force",
   "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000720100",
   "description": null,
   "provisions": [
@@ -12,61 +12,77 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Gouvernement présentera au Parlement, avant le 15 octobre 1991, un rapport sur les incidences de la modification de la définition du critère de potentiel fiscal résultant de la prise en compte des compensations versées par l'Etat aux collectivités locales au titre des mesures d'allégement des bases de taxe professionnelle et d'exonération du foncier bâti pour les constructions nouvelles, ces incidences étant appréciées séparément d'une part, simultanément d'autre part."
+      "content": "Le Gouvernement présentera au Parlement, avant le 15 octobre 1991, un rapport sur les incidences de la modification de la définition du critère de potentiel fiscal résultant de la prise en compte des compensations versées par l'Etat aux collectivités locales au titre des mesures d'allégement des bases de taxe professionnelle et d'exonération du foncier bâti pour les constructions nouvelles, ces incidences étant appréciées séparément d'une part, simultanément d'autre part.",
+      "valid_from": "2005-01-19"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - Paragraphe modificateur.II. - Les dispositions du I ci-dessus entrent en vigueur pour la répartition de la dotation globale de fonctionnement de l'exercice 1994."
+      "content": "I. - Paragraphe modificateur.II. - Les dispositions du I ci-dessus entrent en vigueur pour la répartition de la dotation globale de fonctionnement de l'exercice 1994.",
+      "valid_from": "2005-01-19"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. - Paragraphe modificateur.II. - Les dispositions du I ci-dessus entrent en vigueur pour la répartition de la dotation globale de fonctionnement de l'exercice 1994."
+      "content": "I. - Paragraphe modificateur.II. - Les dispositions du I ci-dessus entrent en vigueur pour la répartition de la dotation globale de fonctionnement de l'exercice 1994.",
+      "valid_from": "2005-01-19"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le Gouvernement présentera au Parlement, avant le 15 octobre 1991, un rapport sur les conditions et les conséquences de la prise en compte parmi les critères d'éligibilité à la dotation de solidarité urbaine et de cohésion sociale du nombre des bénéficiaires des prestations prévues aux articles L. 351-1 du code de la construction et de l'habitation et L. 542-1 et L. 831-1 du code de la sécurité sociale."
+      "content": "Le Gouvernement présentera au Parlement, avant le 15 octobre 1991, un rapport sur les conditions et les conséquences de la prise en compte parmi les critères d'éligibilité à la dotation de solidarité urbaine et de cohésion sociale du nombre des bénéficiaires des prestations prévues aux articles L. 351-1 du code de la construction et de l'habitation et L. 542-1 et L. 831-1 du code de la sécurité sociale.",
+      "valid_from": "2005-01-19"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "L'article L. 234-21-1 du code des communes est abrogé."
+      "content": "L'article L. 234-21-1 du code des communes est abrogé.",
+      "valid_from": "2005-01-19"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Le Gouvernement communiquera les simulations et études complémentaires concernant l'application du régime métropolitain de la dotation globale de fonctionnement aux communes des départements d'outre-mer et des collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon avant le 1er février 1992.Ces simulations pourront conduire, le cas échéant, à l'adoption de critères de calcul et de répartition différents en fonction de la simulation particulière de chaque département ou collectivité."
+      "content": "Le Gouvernement communiquera les simulations et études complémentaires concernant l'application du régime métropolitain de la dotation globale de fonctionnement aux communes des départements d'outre-mer et des collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon avant le 1er février 1992.Ces simulations pourront conduire, le cas échéant, à l'adoption de critères de calcul et de répartition différents en fonction de la simulation particulière de chaque département ou collectivité.",
+      "valid_from": "2005-01-19"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "I. - Les dispositions de l'article L. 263-14 du code des communes entreront en vigueur au 1er janvier 1992.II. - Les communes remplissant les conditions prévues au I de l'article L. 263-15 du code des communes peuvent, sur leur demande, bénéficier en 1991, dans la limite d'une enveloppe globale de 300 millions de francs, de prêts du groupe de la Caisse des dépôts et consignations. Le montant de cette enveloppe de prêts, consentis à taux nul, est réparti conformément aux dispositions du II de cet article.Le remboursement en capital de ces prêts sera effectué, en six annuités constantes, à compter de 1992, sur les ressources du fonds de solidarité des communes de la région d'Ile-de-France institué par l'article L. 263-13 du code des communes. Il est prélevé, à cet effet, les sommes correspondant à ce remboursement préalablement à la répartition prévue à de l'article L. 263-15."
+      "content": "I. - Les dispositions de l'article L. 263-14 du code des communes entreront en vigueur au 1er janvier 1992.II. - Les communes remplissant les conditions prévues au I de l'article L. 263-15 du code des communes peuvent, sur leur demande, bénéficier en 1991, dans la limite d'une enveloppe globale de 300 millions de francs, de prêts du groupe de la Caisse des dépôts et consignations. Le montant de cette enveloppe de prêts, consentis à taux nul, est réparti conformément aux dispositions du II de cet article.Le remboursement en capital de ces prêts sera effectué, en six annuités constantes, à compter de 1992, sur les ressources du fonds de solidarité des communes de la région d'Ile-de-France institué par l'article L. 263-13 du code des communes. Il est prélevé, à cet effet, les sommes correspondant à ce remboursement préalablement à la répartition prévue à de l'article L. 263-15.",
+      "valid_from": "2005-01-19"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Pour chaque commune concernée, la différence entre les attributions au titre de la dotation globale de fonctionnement initialement notifiées pour l'exercice 1991 et les attributions résultant de l'application de la présente loi est imputée sur la régularisation de la dotation globale de fonctionnement afférente à l'exercice 1990 versée en 1991.Au cas où, pour certaines communes, la modification du montant de l'attribution de la dotation globale de fonctionnement pour l'exercice 1991 serait supérieure au montant de la régularisation afférente à l'exercice 1990, le solde de l'ajustement serait opéré sur les versements afférents à la dotation globale de fonctionnement 1991.L'application de la garantie de progression minimale des attributions de la dotation globale de fonctionnement sera fondée en 1992 sur les attributions de la dotation globale de fonctionnement résultant pour 1991 de la présente loi."
+      "content": "Pour chaque commune concernée, la différence entre les attributions au titre de la dotation globale de fonctionnement initialement notifiées pour l'exercice 1991 et les attributions résultant de l'application de la présente loi est imputée sur la régularisation de la dotation globale de fonctionnement afférente à l'exercice 1990 versée en 1991.Au cas où, pour certaines communes, la modification du montant de l'attribution de la dotation globale de fonctionnement pour l'exercice 1991 serait supérieure au montant de la régularisation afférente à l'exercice 1990, le solde de l'ajustement serait opéré sur les versements afférents à la dotation globale de fonctionnement 1991.L'application de la garantie de progression minimale des attributions de la dotation globale de fonctionnement sera fondée en 1992 sur les attributions de la dotation globale de fonctionnement résultant pour 1991 de la présente loi.",
+      "valid_from": "2005-01-19"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Le rapport du Gouvernement mentionné à l'article 48 de la loi n° 90-669 du 30 juillet 1990 relative à la révision générale des évaluations des immeubles retenus pour la détermination des bases des impôts directs locaux comportera une étude des modalités et des conséquences d'une prise en compte des recettes de fiscalité indirecte et des produits domaniaux pour le calcul du potentiel fiscal retenu pour la mise en oeuvre de la dotation globale de fonctionnement."
+      "content": "Le rapport du Gouvernement mentionné à l'article 48 de la loi n° 90-669 du 30 juillet 1990 relative à la révision générale des évaluations des immeubles retenus pour la détermination des bases des impôts directs locaux comportera une étude des modalités et des conséquences d'une prise en compte des recettes de fiscalité indirecte et des produits domaniaux pour le calcul du potentiel fiscal retenu pour la mise en oeuvre de la dotation globale de fonctionnement.",
+      "valid_from": "2005-01-19"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Le Gouvernement présentera avant le 15 octobre 1991 un rapport au Parlement sur les conditions dans lesquelles la répartition de la dotation globale de fonctionnement peut être modifiée en faveur des communes rurales, notamment par l'aménagement des critères de répartition de la dotation de péréquation et par la création d'une dotation de solidarité versée aux communes rurales, notamment en zone de montagne, comptant moins de 2 000 habitants et confrontées à une insuffisance de leurs ressources au regard de leurs charges.Le rapport présentera la simulation des conséquences des réformes qu'il proposera, au regard, notamment, de la répartition de l'ensemble de la dotation globale de fonctionnement."
+      "content": "Le Gouvernement présentera avant le 15 octobre 1991 un rapport au Parlement sur les conditions dans lesquelles la répartition de la dotation globale de fonctionnement peut être modifiée en faveur des communes rurales, notamment par l'aménagement des critères de répartition de la dotation de péréquation et par la création d'une dotation de solidarité versée aux communes rurales, notamment en zone de montagne, comptant moins de 2 000 habitants et confrontées à une insuffisance de leurs ressources au regard de leurs charges.Le rapport présentera la simulation des conséquences des réformes qu'il proposera, au regard, notamment, de la répartition de l'ensemble de la dotation globale de fonctionnement.",
+      "valid_from": "2005-01-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

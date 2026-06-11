@@ -12,7 +12,14 @@
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "I. - L'article 215 du code rural est abrogé à la date d'entrée en vigueur du décret pris, en ce qui concerne les directions départementales de l'agriculture et de la forêt, pour l'application de l'article 26 de la loi n° 85-1098 du 11 octobre 1985 relative à la prise en charge par l'Etat, les départements et les régions, des dépenses de personnel, de fonctionnement et d'équipement des services placés sous leur autorité.II. - Sont abrogés la section première du chapitre III du titre troisième du livre deuxième du code rural sur la police sanitaire des maladies non contagieuses, les articles 245, 310 et le dernier alinéa de l'article 285 du code rural, la loi du 12 janvier 1909 ayant pour but de combattre les épizooties et les maladies contagieuses des animaux et la loi n° 71-1017 du 22 décembre 1971 tendant à la protection des jeunes animaux et à la défense de leurs acheteurs."
+      "content": "I. - L'article 215 du code rural est abrogé à la date d'entrée en vigueur du décret pris, en ce qui concerne les directions départementales de l'agriculture et de la forêt, pour l'application de l'article 26 de la loi n° 85-1098 du 11 octobre 1985 relative à la prise en charge par l'Etat, les départements et les régions, des dépenses de personnel, de fonctionnement et d'équipement des services placés sous leur autorité.II. - Sont abrogés la section première du chapitre III du titre troisième du livre deuxième du code rural sur la police sanitaire des maladies non contagieuses, les articles 245, 310 et le dernier alinéa de l'article 285 du code rural, la loi du 12 janvier 1909 ayant pour but de combattre les épizooties et les maladies contagieuses des animaux et la loi n° 71-1017 du 22 décembre 1971 tendant à la protection des jeunes animaux et à la défense de leurs acheteurs.",
+      "valid_from": "1989-06-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

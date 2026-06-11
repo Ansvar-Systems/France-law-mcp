@@ -12,13 +12,21 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Lorsqu'un bénéficiaire de l'assurance maladie dispose d'une carte électronique individuelle interrégimes délivrée selon les dispositions de l'article L. 161-31 applicables avant l'entrée en vigueur de la loi du 13 août 2004 susvisée, la deuxième phrase du I de l'article L. 161-31 du code de la sécurité sociale, telle qu'elle résulte du a du 2° de l'article 2 de la présente ordonnance, entre en vigueur en ce qui concerne cette personne lors de la délivrance d'un nouveau moyen d'identification électronique."
+      "content": "Lorsqu'un bénéficiaire de l'assurance maladie dispose d'une carte électronique individuelle interrégimes délivrée selon les dispositions de l'article L. 161-31 applicables avant l'entrée en vigueur de la loi du 13 août 2004 susvisée, la deuxième phrase du I de l'article L. 161-31 du code de la sécurité sociale, telle qu'elle résulte du a du 2° de l'article 2 de la présente ordonnance, entre en vigueur en ce qui concerne cette personne lors de la délivrance d'un nouveau moyen d'identification électronique.",
+      "valid_from": "2021-05-14"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance, la ministre des armées, le ministre des outre-mer et le ministre des solidarités et de la santé sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance, la ministre des armées, le ministre des outre-mer et le ministre des solidarités et de la santé sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-05-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

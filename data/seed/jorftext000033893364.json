@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nCode de la santé publique\n\nArt. L. 1333-17-1\n\nc) A la date d'entrée en vigueur des dispositions de l'article 38 de l'ordonnance du 10 février 2016 susvisée, au dernier alinéa des articles L. 1523-6 et L. 1533-1, les mots : \"L'article L. 1333-17-1\" sont remplacés par les mots : \"L'article L. 1333-29\".\n\n-Code de la santé publique\n\n-Code de la santé publique"
+      "content": "A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nCode de la santé publique\n\nArt. L. 1333-17-1\n\nc) A la date d'entrée en vigueur des dispositions de l'article 38 de l'ordonnance du 10 février 2016 susvisée, au dernier alinéa des articles L. 1523-6 et L. 1533-1, les mots : \"L'article L. 1333-17-1\" sont remplacés par les mots : \"L'article L. 1333-29\".\n\n-Code de la santé publique\n\n-Code de la santé publique",
+      "valid_from": "2017-01-21"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, la ministre de l'environnement de l'énergie et de la mer, chargée des relations internationales sur le climat, la ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche, la ministre des affaires sociales et de la santé, le ministre de la défense et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'environnement de l'énergie et de la mer, chargée des relations internationales sur le climat, la ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche, la ministre des affaires sociales et de la santé, le ministre de la défense et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-01-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

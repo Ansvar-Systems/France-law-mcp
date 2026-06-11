@@ -12,19 +12,28 @@
       "provision_ref": "art12bis",
       "section": "12bis",
       "title": "Article 12bis",
-      "content": "Dans les conditions définies au présent titre, un office est créé par décret en Conseil d'Etat dans le secteur des produits de la mer et de l'aquaculture.Ce décret définit la composition du conseil de direction de l'office et prévoit une représentation équilibrée de l'amont et de l'aval de la filière.Il précise également les modalités selon lesquelles les avis mentionnés aux articles 3, 5 et 7 sont donnés pour le secteur des produits de la mer et de l'aquaculture."
+      "content": "Dans les conditions définies au présent titre, un office est créé par décret en Conseil d'Etat dans le secteur des produits de la mer et de l'aquaculture.Ce décret définit la composition du conseil de direction de l'office et prévoit une représentation équilibrée de l'amont et de l'aval de la filière.Il précise également les modalités selon lesquelles les avis mentionnés aux articles 3, 5 et 7 sont donnés pour le secteur des produits de la mer et de l'aquaculture.",
+      "valid_from": "1997-11-19"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "L'article 5 de la loi susvisée n° 80-502 du 4 juillet 1980 d'orientation agricole est abrogé."
+      "content": "L'article 5 de la loi susvisée n° 80-502 du 4 juillet 1980 d'orientation agricole est abrogé.",
+      "valid_from": "1997-11-19"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "Pour tenir compte des spécificités des départements d'outre-mer, les décrets pris en application de la présente loi en préciseront les adaptations nécessaires ainsi que les modalités particulières d'intervention de chaque office pour ces départements."
+      "content": "Pour tenir compte des spécificités des départements d'outre-mer, les décrets pris en application de la présente loi en préciseront les adaptations nécessaires ainsi que les modalités particulières d'intervention de chaque office pour ces départements.",
+      "valid_from": "1997-11-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

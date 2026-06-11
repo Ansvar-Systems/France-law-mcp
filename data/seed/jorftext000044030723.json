@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code des transports est modifié conformément aux articles 2 à 16 de la présente ordonnance."
+      "content": "Le code des transports est modifié conformément aux articles 2 à 16 de la présente ordonnance.",
+      "valid_from": "2021-09-10"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "A créé les dispositions suivantes :\n\n-Code des transports"
+      "content": "A créé les dispositions suivantes :\n\n-Code des transports",
+      "valid_from": "2021-09-10"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Le Premier ministre, la ministre de la transition écologique, la ministre de la mer et le ministre délégué auprès de la ministre de la transition écologique, chargé des transports, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la transition écologique, la ministre de la mer et le ministre délégué auprès de la ministre de la transition écologique, chargé des transports, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-09-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

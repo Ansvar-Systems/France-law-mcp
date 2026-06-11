@@ -12,7 +12,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions de la présente loi sont applicables aux enfants nés avant son entrée en vigueur. Toutefois, elles ne remettent pas en cause la chose jugée à l'égard des actions à fins de subsides rejetées pour un autre motif qu'une forclusion."
+      "content": "Les dispositions de la présente loi sont applicables aux enfants nés avant son entrée en vigueur. Toutefois, elles ne remettent pas en cause la chose jugée à l'égard des actions à fins de subsides rejetées pour un autre motif qu'une forclusion.",
+      "valid_from": "1977-12-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

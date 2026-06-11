@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions de la présente loi ont pour objet de préciser dans quelles conditions il peut être dérogé au principe suivant lequel le contrat à durée indéterminée est la forme normale du contrat de travail.Elles doivent avoir pour effet de faire reculer la proportion d'emplois précaires en facilitant leur transformation en emplois stables, sous contrat à durée indéterminée, et en favorisant l'infléchissement des comportements de gestion vers des pratiques d'adaptation interne fondées sur l'aménagement négocié de l'organisation du travail.Elles instituent au profit des salariés concernés par ces formes d'emploi à caractère subsidiaire des mesures protectrices, sans préjudice des améliorations pouvant être apportées à leur statut dans le cadre de la négociation collective."
+      "content": "Les dispositions de la présente loi ont pour objet de préciser dans quelles conditions il peut être dérogé au principe suivant lequel le contrat à durée indéterminée est la forme normale du contrat de travail.Elles doivent avoir pour effet de faire reculer la proportion d'emplois précaires en facilitant leur transformation en emplois stables, sous contrat à durée indéterminée, et en favorisant l'infléchissement des comportements de gestion vers des pratiques d'adaptation interne fondées sur l'aménagement négocié de l'organisation du travail.Elles instituent au profit des salariés concernés par ces formes d'emploi à caractère subsidiaire des mesures protectrices, sans préjudice des améliorations pouvant être apportées à leur statut dans le cadre de la négociation collective.",
+      "valid_from": "1990-07-14"
     },
     {
       "provision_ref": "art42",
       "section": "42",
       "title": "Article 42",
-      "content": "Le Gouvernement déposera au Parlement, avant le 31 décembre 1991, un rapport sur l'évolution du volume et des conditions du recours aux formes de travail précaire.Ce rapport permettra d'apprécier les résultats de l'application des dispositions de la présente loi au regard des objectifs énoncés à l'article 1er, et de déterminer, si ces objectifs n'étaient pas atteints, les mesures législatives correctrices appropriées.Ce rapport comportera également une étude sur les effets de la répartition dérogatoire des coûts des accidents du travail entre l'entreprise de travail temporaire et l'entreprise utilisatrice."
+      "content": "Le Gouvernement déposera au Parlement, avant le 31 décembre 1991, un rapport sur l'évolution du volume et des conditions du recours aux formes de travail précaire.Ce rapport permettra d'apprécier les résultats de l'application des dispositions de la présente loi au regard des objectifs énoncés à l'article 1er, et de déterminer, si ces objectifs n'étaient pas atteints, les mesures législatives correctrices appropriées.Ce rapport comportera également une étude sur les effets de la répartition dérogatoire des coûts des accidents du travail entre l'entreprise de travail temporaire et l'entreprise utilisatrice.",
+      "valid_from": "1990-07-14"
     },
     {
       "provision_ref": "art43",
       "section": "43",
       "title": "Article 43",
-      "content": "Les dispositions de la présente loi s'appliquent aux contrats conclus après son entrée en vigueur."
+      "content": "Les dispositions de la présente loi s'appliquent aux contrats conclus après son entrée en vigueur.",
+      "valid_from": "1990-07-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

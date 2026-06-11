@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - L'obligation de mise en accessibilité définie au présent article entre en vigueur à une date fixée par décret et au plus tard le 1er janvier 2019.\n\n- Loi n° 84-53 du 26 janvier 1984"
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - L'obligation de mise en accessibilité définie au présent article entre en vigueur à une date fixée par décret et au plus tard le 1er janvier 2019.\n\n- Loi n° 84-53 du 26 janvier 1984",
+      "valid_from": "2017-04-15"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre et la ministre de la fonction publique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre de la fonction publique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-04-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

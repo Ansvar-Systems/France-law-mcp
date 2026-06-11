@@ -1,0 +1,25 @@
+{
+  "id": "jorftext000054148972",
+  "type": "statute",
+  "title": "LOI n°2026-410 du 28 mai 2026",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000054148972",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente loi organique entre en vigueur le lendemain de sa publication au Journal officiel de la République française.",
+      "valid_from": "2026-05-30"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

@@ -12,7 +12,14 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de commerce\n\nII. - Les dispositions de l'article 4 de la présente loi modifiant le code du patrimoine, le code des relations entre le public et l'administration, le code des transports, le code de la propriété intellectuelle, les articles L. 412-7, L. 412-8 et L. 412-17 du code de l'environnement, les articles L. 1333-29, L. 1413-9 et L. 1413-12-3 du code de la santé publique ainsi que l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics sont applicables dans les îles Wallis et Futuna.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de commerce\n\nII. - Les dispositions de l'article 4 de la présente loi modifiant le code du patrimoine, le code des relations entre le public et l'administration, le code des transports, le code de la propriété intellectuelle, les articles L. 412-7, L. 412-8 et L. 412-17 du code de l'environnement, les articles L. 1333-29, L. 1413-9 et L. 1413-12-3 du code de la santé publique ainsi que l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics sont applicables dans les îles Wallis et Futuna.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2018-08-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

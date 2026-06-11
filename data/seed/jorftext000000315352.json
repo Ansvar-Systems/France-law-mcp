@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'article 1097 du Code civil est abrogé."
+      "content": "L'article 1097 du Code civil est abrogé.",
+      "valid_from": "1963-11-07"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions de la présente loi sont applicables aux contrats conclus antérieurement à son entrée en vigueur, sous réserve seulement des décisions judiciaires passées en force de chose jugée."
+      "content": "Les dispositions de la présente loi sont applicables aux contrats conclus antérieurement à son entrée en vigueur, sous réserve seulement des décisions judiciaires passées en force de chose jugée.",
+      "valid_from": "1963-11-07"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

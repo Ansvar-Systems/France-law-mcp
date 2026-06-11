@@ -12,7 +12,14 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Gouvernement remet chaque année, avant le 31 décembre, un rapport aux commissions parlementaires compétentes faisant état de la mise en œuvre du versement de l'allocation journalière d'accompagnement d'une personne en fin de vie.Ce rapport établit aussi un état des lieux de l'application de la politique de développement des soins palliatifs à domicile."
+      "content": "Le Gouvernement remet chaque année, avant le 31 décembre, un rapport aux commissions parlementaires compétentes faisant état de la mise en œuvre du versement de l'allocation journalière d'accompagnement d'une personne en fin de vie.Ce rapport établit aussi un état des lieux de l'application de la politique de développement des soins palliatifs à domicile.",
+      "valid_from": "2010-03-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

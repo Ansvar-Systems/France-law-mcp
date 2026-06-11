@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "A compter d'une date qui sera fixée par décret, et au plus tard le 1er janvier 1960, il sera créé une nouvelle unité monétaire française dont la valeur sera égale à 100 F.Jusqu'à cette date, et sous réserve des dispositions de l'article 2 ci-après, il n'est rien modifié au régime monétaire actuel."
+      "content": "A compter d'une date qui sera fixée par décret, et au plus tard le 1er janvier 1960, il sera créé une nouvelle unité monétaire française dont la valeur sera égale à 100 F.Jusqu'à cette date, et sous réserve des dispositions de l'article 2 ci-après, il n'est rien modifié au régime monétaire actuel.",
+      "valid_from": "1958-12-28"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "A dater de la publication de la présente ordonnance, les cotations de monnaies étrangères seront exprimées en centaines de francs."
+      "content": "A dater de la publication de la présente ordonnance, les cotations de monnaies étrangères seront exprimées en centaines de francs.",
+      "valid_from": "1958-12-28"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les obligations nées à partir de la date visée à l'article 1er, inclusivement, seront libellées en nouvelles unités monétaires.Les obligations antérieurement libellées en francs seront, pour leur exécution après cette date, converties de plein droit en nouvelles unités monétaires, quelle que soit la date à laquelle elles ont pris naissance."
+      "content": "Les obligations nées à partir de la date visée à l'article 1er, inclusivement, seront libellées en nouvelles unités monétaires.Les obligations antérieurement libellées en francs seront, pour leur exécution après cette date, converties de plein droit en nouvelles unités monétaires, quelle que soit la date à laquelle elles ont pris naissance.",
+      "valid_from": "1958-12-28"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Gouvernement pourra, par décret pris en Conseil des ministres, le Conseil d'Etat entendu, prendre toutes les mesures nécessaires en vue de préparer et d'assurer l'application de la présente ordonnance."
+      "content": "Le Gouvernement pourra, par décret pris en Conseil des ministres, le Conseil d'Etat entendu, prendre toutes les mesures nécessaires en vue de préparer et d'assurer l'application de la présente ordonnance.",
+      "valid_from": "1958-12-28"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi."
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi.",
+      "valid_from": "1958-12-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

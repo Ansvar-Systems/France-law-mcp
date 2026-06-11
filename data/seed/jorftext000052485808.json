@@ -1,0 +1,32 @@
+{
+  "id": "jorftext000052485808",
+  "type": "statute",
+  "title": "LOI n°2025-1044 du 3 novembre 2025",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000052485808",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "I.-1° A modifié les dispositions suivantes :\n\n2° A modifié les dispositions suivantes :\n\n3° A modifié les dispositions suivantes :\n\nII.-A modifié les dispositions suivantes :\n\nIII.-A.-Le I s'applique à compter du 1er mars 2025.\n\nB.-La perte de recettes pour l'Etat résultant du A du présent III est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.Liens relatifs\n\n-Code général des impôts, CGI.\n\n-Code général des impôts, CGI.\n\n-Code général des impôts, CGI.\n\n-LOI n° 2025-127 du 14 février 2025",
+      "valid_from": "2025-11-05"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La perte de recettes pour l'Etat résultant du 2° du I de l'article 1est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Idu livre III du code des impositions sur les biens et services.",
+      "valid_from": "2025-11-05"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

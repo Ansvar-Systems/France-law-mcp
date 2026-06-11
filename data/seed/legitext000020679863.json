@@ -1,0 +1,46 @@
+{
+  "id": "legitext000020679863",
+  "type": "statute",
+  "title": "Ordonnance n° 45-55 du 13 janvier 1945",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000020679863/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Le décret du 4 décembre 1930 portant réunion de la bibliothèque\nMazarine à la Bibliothèque nationale est abrogé.",
+      "valid_from": "1945-01-15"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La bibliothèque Mazarine est rattachée à l’Institut de France.",
+      "valid_from": "1945-01-15"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les modalités d’application de la présente ordonnance seront déterminées,\ndans un délai de trois mois, par décret rendu sur la proposition du\nministre de l’éducation nationale et du ministre des finances.Toutefois, les locaux de la bibliothèque Mazarine sont immédiatement\nmis à la disposition de l’Institut de France, qui pourra les utiliser\nsuivant accord avec le directeur de l’enseignement supérieur et l’administrateur\ngénéral de la Bibliothèque nationale.",
+      "valid_from": "1945-01-15"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "La présente ordonnance sera publiée au Journal officiel de la\nRépublique française et exécutée comme loi.",
+      "valid_from": "1945-01-15"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Il est institué sous le nom de Centre national d'études spatiales un établissement public scientifique et technique, de caractère industriel et commercial, doté de l'autonomie financière et placé sous l'autorité du Premier ministre."
+      "content": "Il est institué sous le nom de Centre national d'études spatiales un établissement public scientifique et technique, de caractère industriel et commercial, doté de l'autonomie financière et placé sous l'autorité du Premier ministre.",
+      "valid_from": "1961-12-20"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le centre national d'études spatiales a pour mission de développer et d'orienter les recherches scientifiques et techniques poursuivies dans le domaine des recherches spatiales.Il est notamment chargé :1° De recueillir toutes informations sur les activités nationales et internationales concernant les problèmes de l'espace, son exploration et son utilisation ;2° De préparer et de proposer à l'approbation du comité interministériel de la recherche scientifique et technique les programmes de recherche d'intérêt national dans ce domaine ;3° D'assurer l'exécution desdits programmes, soit dans les laboratoires et établissements techniques créés par lui, soit par le moyen de conventions de recherche passées avec d'autres organismes publics ou privés, soit par des participations financières ;4° De suivre, en liaison avec le ministère des affaires étrangères, les problèmes de coopération internationale dans le domaine de l'espace et de veiller à l'exécution de la part des programmes internationaux confiée à la France ;5° D'assurer soit directement, soit par des souscriptions ou l'octroi de subventions, la publication de travaux scientifiques concernant les problèmes de l'espace."
+      "content": "Le centre national d'études spatiales a pour mission de développer et d'orienter les recherches scientifiques et techniques poursuivies dans le domaine des recherches spatiales.Il est notamment chargé :1° De recueillir toutes informations sur les activités nationales et internationales concernant les problèmes de l'espace, son exploration et son utilisation ;2° De préparer et de proposer à l'approbation du comité interministériel de la recherche scientifique et technique les programmes de recherche d'intérêt national dans ce domaine ;3° D'assurer l'exécution desdits programmes, soit dans les laboratoires et établissements techniques créés par lui, soit par le moyen de conventions de recherche passées avec d'autres organismes publics ou privés, soit par des participations financières ;4° De suivre, en liaison avec le ministère des affaires étrangères, les problèmes de coopération internationale dans le domaine de l'espace et de veiller à l'exécution de la part des programmes internationaux confiée à la France ;5° D'assurer soit directement, soit par des souscriptions ou l'octroi de subventions, la publication de travaux scientifiques concernant les problèmes de l'espace.",
+      "valid_from": "1961-12-20"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le centre national d'études spatiales assure sa gestion financière et présente sa comptabilité suivant les usages du commerce."
+      "content": "Le centre national d'études spatiales assure sa gestion financière et présente sa comptabilité suivant les usages du commerce.",
+      "valid_from": "1961-12-20"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Pour le financement des diverses missions prévues à l'article 2, le centre national d'études spatiales dispose notamment des crédits budgétaires ouverts pour les recherches spatiales dans chacun des budgets annuels en exécution de la loi de programme d'actions complémentaires coordonnées de recherche scientifique et technique n° 61-530 en date du 31 mai 1961.Le centre sera, dès la promulgation de la présente loi, substitué à l'Etat dans les conventions de recherche spatiale passées sur le chapitre (56-00) du budget du Premier ministre intitulé \"Fonds de développement de la recherche scientifique et technique\"."
+      "content": "Pour le financement des diverses missions prévues à l'article 2, le centre national d'études spatiales dispose notamment des crédits budgétaires ouverts pour les recherches spatiales dans chacun des budgets annuels en exécution de la loi de programme d'actions complémentaires coordonnées de recherche scientifique et technique n° 61-530 en date du 31 mai 1961.Le centre sera, dès la promulgation de la présente loi, substitué à l'Etat dans les conventions de recherche spatiale passées sur le chapitre (56-00) du budget du Premier ministre intitulé \"Fonds de développement de la recherche scientifique et technique\".",
+      "valid_from": "1961-12-20"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Un décret en Conseil d'Etat fixera les conditions d'application de la présente loi et déterminera, notamment, les règles de fonctionnement administratif et financier de l'établissement, la composition du conseil d'administration, les attributions respectives du conseil d'administration, de son président et du directeur général du centre."
+      "content": "Un décret en Conseil d'Etat fixera les conditions d'application de la présente loi et déterminera, notamment, les règles de fonctionnement administratif et financier de l'établissement, la composition du conseil d'administration, les attributions respectives du conseil d'administration, de son président et du directeur général du centre.",
+      "valid_from": "1961-12-20"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le centre national d'études spatiales déposera chaque année, devant le Parlement, avant le vote du budget, un rapport sur son activité et les résultats obtenus pendant l'année écoulée."
+      "content": "Le centre national d'études spatiales déposera chaque année, devant le Parlement, avant le vote du budget, un rapport sur son activité et les résultats obtenus pendant l'année écoulée.",
+      "valid_from": "1961-12-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

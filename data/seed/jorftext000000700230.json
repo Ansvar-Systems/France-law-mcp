@@ -12,13 +12,21 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les frais de soins et d'hospitalisation afférents à l'avortement volontaire, effectué dans les conditions prévues au chapitre III bis du titre Ier du livre II du code de la santé publique, ne peuvent excéder les tarifs fixés en application de l'ordonnance n° 45-1483 du 30 juin 1945 relative aux prix."
+      "content": "Les frais de soins et d'hospitalisation afférents à l'avortement volontaire, effectué dans les conditions prévues au chapitre III bis du titre Ier du livre II du code de la santé publique, ne peuvent excéder les tarifs fixés en application de l'ordonnance n° 45-1483 du 30 juin 1945 relative aux prix.",
+      "valid_from": "1975-01-18"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les décrets pris pour l'application de la présente loi seront publiés dans un délai de six mois à compter de la date de sa promulgation."
+      "content": "Les décrets pris pour l'application de la présente loi seront publiés dans un délai de six mois à compter de la date de sa promulgation.",
+      "valid_from": "1975-01-18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

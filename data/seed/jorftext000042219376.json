@@ -12,25 +12,35 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Au plus tard le 31 décembre 2020, le Gouvernement remet au Parlement un rapport sur les opportunités pour la Caisse d'amortissement de la dette sociale ainsi que pour tout organisme ou établissement public concerné de contracter des emprunts à impact social. Ce rapport précise les conditions juridiques et financières nécessaires pour émettre de tels emprunts dans le respect des standards internationaux les plus exigeants ainsi qu'un état des lieux sur la situation du marché et l'appétence des investisseurs pour ce type de produits financiers."
+      "content": "Au plus tard le 31 décembre 2020, le Gouvernement remet au Parlement un rapport sur les opportunités pour la Caisse d'amortissement de la dette sociale ainsi que pour tout organisme ou établissement public concerné de contracter des emprunts à impact social. Ce rapport précise les conditions juridiques et financières nécessaires pour émettre de tels emprunts dans le respect des standards internationaux les plus exigeants ainsi qu'un état des lieux sur la situation du marché et l'appétence des investisseurs pour ce type de produits financiers.",
+      "valid_from": "2020-08-09"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Le présent article entre en vigueur le 1er janvier 2024.\n\n-Code de la sécurité sociale."
+      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Le présent article entre en vigueur le 1er janvier 2024.\n\n-Code de la sécurité sociale.",
+      "valid_from": "2020-08-09"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. et III. - A modifié les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\n- Ordonnance n° 96-50 du 24 janvier 1996\n\nII. - Un montant égal à la partie de la contribution mentionnée au III de l'article L. 135-6 du code de la sécurité sociale dans sa rédaction antérieure à la présente loi est versé, au plus tard le 31 juillet 2020, à l'Agence centrale des organismes de sécurité sociale pour le compte de la Caisse nationale d'assurance vieillesse. Le montant versé est communiqué sans délai aux commissions permanentes de l'Assemblée nationale et du Sénat chargées des affaires sociales et des finances.Le montant versé en application du présent II constitue, pour son montant total, un produit de l'exercice 2020 de la Caisse nationale d'assurance vieillesse."
+      "content": "I. et III. - A modifié les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\n- Ordonnance n° 96-50 du 24 janvier 1996\n\nII. - Un montant égal à la partie de la contribution mentionnée au III de l'article L. 135-6 du code de la sécurité sociale dans sa rédaction antérieure à la présente loi est versé, au plus tard le 31 juillet 2020, à l'Agence centrale des organismes de sécurité sociale pour le compte de la Caisse nationale d'assurance vieillesse. Le montant versé est communiqué sans délai aux commissions permanentes de l'Assemblée nationale et du Sénat chargées des affaires sociales et des finances.Le montant versé en application du présent II constitue, pour son montant total, un produit de l'exercice 2020 de la Caisse nationale d'assurance vieillesse.",
+      "valid_from": "2020-08-09"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. et II. - A modifié les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\n- Code de l'action sociale et des familles\n\nIII. - Au plus tard le 15 septembre 2020, le Gouvernement remet au Parlement, après consultation des différents financeurs, des collectivités territoriales ainsi que des associations de retraités et de personnes en situation de handicap et de représentants d'usagers et d'aidants, un rapport sur les modalités de mise en œuvre d'un nouveau risque et d'une nouvelle branche de la sécurité sociale relatifs au soutien à l'autonomie des personnes âgées et des personnes en situation de handicap. Ce rapport présente les conséquences de la création de cette branche en termes d'architecture juridique et financière et en termes de pilotage, gouvernance et gestion de ce nouveau risque.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "I. et II. - A modifié les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\n- Code de l'action sociale et des familles\n\nIII. - Au plus tard le 15 septembre 2020, le Gouvernement remet au Parlement, après consultation des différents financeurs, des collectivités territoriales ainsi que des associations de retraités et de personnes en situation de handicap et de représentants d'usagers et d'aidants, un rapport sur les modalités de mise en œuvre d'un nouveau risque et d'une nouvelle branche de la sécurité sociale relatifs au soutien à l'autonomie des personnes âgées et des personnes en situation de handicap. Ce rapport présente les conséquences de la création de cette branche en termes d'architecture juridique et financière et en termes de pilotage, gouvernance et gestion de ce nouveau risque.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2020-08-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

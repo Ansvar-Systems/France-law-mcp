@@ -12,13 +12,21 @@
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "Les juges saisis à la date d'entrée en vigueur de la présente loi d'actions en modification de l'exercice de l'autorité parentale sur les enfants naturels demeurent compétents pour en connaître."
+      "content": "Les juges saisis à la date d'entrée en vigueur de la présente loi d'actions en modification de l'exercice de l'autorité parentale sur les enfants naturels demeurent compétents pour en connaître.",
+      "valid_from": "1987-07-24"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "La présente loi est applicable aux territoires d'outre-mer et à la collectivité territoriale de Mayotte."
+      "content": "La présente loi est applicable aux territoires d'outre-mer et à la collectivité territoriale de Mayotte.",
+      "valid_from": "1987-07-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

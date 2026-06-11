@@ -12,19 +12,28 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "A partir du 1er janvier 1959, la mise à jour des prix unitaires prévus à l'article 20, deuxième alinéa de la loi n° 46-2389 précitée du 28 octobre 1946 et des bordereaux, barèmes et bases de calcul utilisés pour la fixation des indemnités prévues aux articles 20, 22, 23, 24 et 25 de ladite loi sera faite en appliquant aux derniers prix unitaires et coefficients homologués des formules se référant à des indices ou à des prix établis ou publiés par les ministères intéressés ou par l'Institut national de la statistique et des études économiques. Ces formules, ainsi que la périodicité des mises à jour, sont fixées par arrêtés conjoints du ministre de la construction (ministre de l'équipement et du logement), du ministre de l'économie et des finances et des ministres intéressés, après avis d'une commission dont la composition est fixée par arrêté du ministre de l'équipement et du logement)."
+      "content": "A partir du 1er janvier 1959, la mise à jour des prix unitaires prévus à l'article 20, deuxième alinéa de la loi n° 46-2389 précitée du 28 octobre 1946 et des bordereaux, barèmes et bases de calcul utilisés pour la fixation des indemnités prévues aux articles 20, 22, 23, 24 et 25 de ladite loi sera faite en appliquant aux derniers prix unitaires et coefficients homologués des formules se référant à des indices ou à des prix établis ou publiés par les ministères intéressés ou par l'Institut national de la statistique et des études économiques. Ces formules, ainsi que la périodicité des mises à jour, sont fixées par arrêtés conjoints du ministre de la construction (ministre de l'équipement et du logement), du ministre de l'économie et des finances et des ministres intéressés, après avis d'une commission dont la composition est fixée par arrêté du ministre de l'équipement et du logement).",
+      "valid_from": "1959-01-04"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I - Les dommages visés à l'article 6, 2°, 3° et 5°, de la loi précitée (n° 46-2389) du 28 octobre 1946 ne donnent lieu à indemnisation que s'ils tirent leur origine d'un fait antérieur au 1er janvier 1962.II - Aucune demande d'indemnité fondée sur l'application de l'article 6, 7° ne sera recevable s'il s'agit d'expropriations postérieures au 1er janvier 1961 ou prononcées en application d'un plan d'aménagement et de reconstruction approuvé après le 1er janvier 1959.III - Pour l'application de l'article 42 bis nouveau aux sinistrés qui auraient déjà justifié de leurs dépenses de reconstitution avant la mise en vigueur de ces dispositions, le point de départ du délai prévu pour la production de nouvelles justifications est la date d'entrée en vigueur de la présente ordonnance.IV - Les modifications apportées à l'article 36 n'entraînent pas de répétition pour les indemnités perçues antérieurement à la promulgation de la présente ordonnance."
+      "content": "I - Les dommages visés à l'article 6, 2°, 3° et 5°, de la loi précitée (n° 46-2389) du 28 octobre 1946 ne donnent lieu à indemnisation que s'ils tirent leur origine d'un fait antérieur au 1er janvier 1962.II - Aucune demande d'indemnité fondée sur l'application de l'article 6, 7° ne sera recevable s'il s'agit d'expropriations postérieures au 1er janvier 1961 ou prononcées en application d'un plan d'aménagement et de reconstruction approuvé après le 1er janvier 1959.III - Pour l'application de l'article 42 bis nouveau aux sinistrés qui auraient déjà justifié de leurs dépenses de reconstitution avant la mise en vigueur de ces dispositions, le point de départ du délai prévu pour la production de nouvelles justifications est la date d'entrée en vigueur de la présente ordonnance.IV - Les modifications apportées à l'article 36 n'entraînent pas de répétition pour les indemnités perçues antérieurement à la promulgation de la présente ordonnance.",
+      "valid_from": "1959-01-04"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi."
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi.",
+      "valid_from": "1959-01-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,7 +12,14 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Seront punis des peines prévues à l'article L. 213-1 du code de la consommation ceux qui fabriqueront, exposeront mettront en vente ou vendront, connaissant leur destination, des substances ayant l'une quelconque des destinations suivantes :\n\nAméliorer et bouqueter les moûts, les vins et eaux-de-vie naturelles en vue de tromper l'acheteur sur leurs qualités substantielles, leur origine ou leur espèce ;\n\nGuérir les moûts ou les vins de leurs maladies en dissimulant leur altération ;\n\nFabriquer des vins, des cidres et des poirés artificiels ;\n\nDonner à des spiritueux destinés à la consommation sous quelque nom que ce soit, les caractères d'une eau-de-vie naturelle en faussant les résultats de l'analyse ;\n\nMasquer la falsification d'une boisson quelconque en faussant les résultats de l'analyse.\n\nLes pénalités prévues au paragraphe ci-dessus seront applicables à ceux qui, connaissant la destination de ces substances, auront provoqué à leur emploi, par le moyen de brochures, circulaires, prospectus, affiches, annonces ou instructions quelconques.\n\nLa détention sans motifs légitimes de ces mêmes substances sera punie des peines portées aux articles L. 213-4 et L. 214-1 du code de la consommation."
+      "content": "Seront punis des peines prévues à l'article L. 213-1 du code de la consommation ceux qui fabriqueront, exposeront mettront en vente ou vendront, connaissant leur destination, des substances ayant l'une quelconque des destinations suivantes :\n\nAméliorer et bouqueter les moûts, les vins et eaux-de-vie naturelles en vue de tromper l'acheteur sur leurs qualités substantielles, leur origine ou leur espèce ;\n\nGuérir les moûts ou les vins de leurs maladies en dissimulant leur altération ;\n\nFabriquer des vins, des cidres et des poirés artificiels ;\n\nDonner à des spiritueux destinés à la consommation sous quelque nom que ce soit, les caractères d'une eau-de-vie naturelle en faussant les résultats de l'analyse ;\n\nMasquer la falsification d'une boisson quelconque en faussant les résultats de l'analyse.\n\nLes pénalités prévues au paragraphe ci-dessus seront applicables à ceux qui, connaissant la destination de ces substances, auront provoqué à leur emploi, par le moyen de brochures, circulaires, prospectus, affiches, annonces ou instructions quelconques.\n\nLa détention sans motifs légitimes de ces mêmes substances sera punie des peines portées aux articles L. 213-4 et L. 214-1 du code de la consommation.",
+      "valid_from": "1993-07-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

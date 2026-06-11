@@ -12,19 +12,28 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I.-Est abrogé l'article 38 de la loi n° 54-268 du 11 juin 1954 portant ouverture et annulation de crédits sur les exercices 1951 et 1952 (collectif de régularisation).\n\nII. Paragraphe modificateur.\n\nIII. Paragraphe modificateur.\n\nIV. Paragraphe modificateur\n\nV.-L'article 96 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit est abrogé.\n\nIl sera procédé, dans les conditions fixées par décret en Conseil d'Etat, à la liquidation de l'établissement public créé en application de l'article 96 de la loi n° 84-46 du 24 janvier 1984 précitée, dénommé \" Union centrale des caisses de crédit municipal \".\n\nL'éventuel reliquat de liquidation de l'établissement est transféré aux caisses de crédit municipal en proportion du montant des cotisations versées à l'Union centrale par chacune des caisses de crédit municipal depuis la création de cette union."
+      "content": "I.-Est abrogé l'article 38 de la loi n° 54-268 du 11 juin 1954 portant ouverture et annulation de crédits sur les exercices 1951 et 1952 (collectif de régularisation).\n\nII. Paragraphe modificateur.\n\nIII. Paragraphe modificateur.\n\nIV. Paragraphe modificateur\n\nV.-L'article 96 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit est abrogé.\n\nIl sera procédé, dans les conditions fixées par décret en Conseil d'Etat, à la liquidation de l'établissement public créé en application de l'article 96 de la loi n° 84-46 du 24 janvier 1984 précitée, dénommé \" Union centrale des caisses de crédit municipal \".\n\nL'éventuel reliquat de liquidation de l'établissement est transféré aux caisses de crédit municipal en proportion du montant des cotisations versées à l'Union centrale par chacune des caisses de crédit municipal depuis la création de cette union.",
+      "valid_from": "1992-06-17"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I.-Paragraphe modificateur\n\nII.-Un décret en Conseil d'Etat fixe les conditions dans lesquelles les directeurs relevant du statut du personnel des caisses de crédit municipal fixé par le décret n° 81-389 du 24 avril 1981 sont intégrés, à compter de la date d'entrée en vigueur de la présente loi, dans des cadres d'emplois existants de la fonction publique territoriale.\n\nLes directeurs de caisse qui sont en fonction à la date d'entrée en vigueur de la présente loi continuent d'exercer leur fonction, sans préjudice des dispositions de l'article 2 du décret n° 55-622 du 20 mai 1955 précité.\n\nS'ils sont remplacés par le maire, les directeurs intégrés dans la fonction publique territoriale sont reclassés par la collectivité où la caisse a son siège dans un emploi vacant correspondant à leur grade, dans les conditions de l'article 97 de la loi n° 84-53 du 26 janvier 1984 précitée ; si ces directeurs relèvent de la fonction publique de l'Etat, il est mis fin à leur détachement."
+      "content": "I.-Paragraphe modificateur\n\nII.-Un décret en Conseil d'Etat fixe les conditions dans lesquelles les directeurs relevant du statut du personnel des caisses de crédit municipal fixé par le décret n° 81-389 du 24 avril 1981 sont intégrés, à compter de la date d'entrée en vigueur de la présente loi, dans des cadres d'emplois existants de la fonction publique territoriale.\n\nLes directeurs de caisse qui sont en fonction à la date d'entrée en vigueur de la présente loi continuent d'exercer leur fonction, sans préjudice des dispositions de l'article 2 du décret n° 55-622 du 20 mai 1955 précité.\n\nS'ils sont remplacés par le maire, les directeurs intégrés dans la fonction publique territoriale sont reclassés par la collectivité où la caisse a son siège dans un emploi vacant correspondant à leur grade, dans les conditions de l'article 97 de la loi n° 84-53 du 26 janvier 1984 précitée ; si ces directeurs relèvent de la fonction publique de l'Etat, il est mis fin à leur détachement.",
+      "valid_from": "1992-06-17"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Sont validés, en tant que leur régularité serait mise en cause sur le fondement de l'illégalité du décret n° 88-435 du 25 avril 1988 portant dispositions statutaires relatives aux personnels des administrations parisiennes :- l'ensemble des décisions individuelles relatives aux personnels des administrations parisiennes ainsi que les dispositions statutaires adoptées par délibération sur la base desquelles elles ont été prises ;- les élections aux commissions administratives paritaires de la commune et du département de Paris ainsi que de leurs établissements publics ;- les concours de recrutement et les concours et examens professionnels ouverts avant le 30 mars 1992 par la commune et le département de Paris ainsi que par leurs établissements publics."
+      "content": "Sont validés, en tant que leur régularité serait mise en cause sur le fondement de l'illégalité du décret n° 88-435 du 25 avril 1988 portant dispositions statutaires relatives aux personnels des administrations parisiennes :- l'ensemble des décisions individuelles relatives aux personnels des administrations parisiennes ainsi que les dispositions statutaires adoptées par délibération sur la base desquelles elles ont été prises ;- les élections aux commissions administratives paritaires de la commune et du département de Paris ainsi que de leurs établissements publics ;- les concours de recrutement et les concours et examens professionnels ouverts avant le 30 mars 1992 par la commune et le département de Paris ainsi que par leurs établissements publics.",
+      "valid_from": "1992-06-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

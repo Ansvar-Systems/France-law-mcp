@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er janvier 2016. Toutefois, les métropoles ont la faculté, sur délibération de l'organe délibérant de l'établissement public de coopération intercommunale auquel elles succèdent, d'appliquer les dispositions de l'article 1er de la présente ordonnance le 1er janvier 2015."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er janvier 2016. Toutefois, les métropoles ont la faculté, sur délibération de l'organe délibérant de l'établissement public de coopération intercommunale auquel elles succèdent, d'appliquer les dispositions de l'article 1er de la présente ordonnance le 1er janvier 2015.",
+      "valid_from": "2016-01-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Premier ministre, le ministre des finances et des comptes publics, le ministre de l'intérieur, la ministre de la décentralisation et de la fonction publique, le secrétaire d'Etat chargé du budget et le secrétaire d'Etat chargé de la réforme territoriale sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des finances et des comptes publics, le ministre de l'intérieur, la ministre de la décentralisation et de la fonction publique, le secrétaire d'Etat chargé du budget et le secrétaire d'Etat chargé de la réforme territoriale sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

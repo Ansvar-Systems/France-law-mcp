@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les personnes qui, ayant sollicité la reconnaissance d'une des qualités prévues par le titre II du livre III du Code des pensions militaires d'invalidité et des victimes de guerre, n'ont pas formé en temps utile un pourvoi contre la décision implicite de rejet résultant du silence gardé pendant plus de quatre mois par l'Administration ne seront forcloses qu'après un délai de deux mois à compter du jour de la notification d'une décision expresse de rejet."
+      "content": "Les personnes qui, ayant sollicité la reconnaissance d'une des qualités prévues par le titre II du livre III du Code des pensions militaires d'invalidité et des victimes de guerre, n'ont pas formé en temps utile un pourvoi contre la décision implicite de rejet résultant du silence gardé pendant plus de quatre mois par l'Administration ne seront forcloses qu'après un délai de deux mois à compter du jour de la notification d'une décision expresse de rejet.",
+      "valid_from": "1965-10-21"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les personnes qui, antérieurement à la promulgation de la présente loi, se sont pourvues, dans le délai du recours contentieux, contre une décision expresse, sont relevées de la forclusion résultant du défaut de recours contre la décision implicite de rejet.Les requérants, auxquels cette forclusion a été opposée par une décision de justice passée en force de chose jugée, sont admis à présenter un nouveau pourvoi dans un délai de six mois à compter de la promulgation de la présente loi."
+      "content": "Les personnes qui, antérieurement à la promulgation de la présente loi, se sont pourvues, dans le délai du recours contentieux, contre une décision expresse, sont relevées de la forclusion résultant du défaut de recours contre la décision implicite de rejet.Les requérants, auxquels cette forclusion a été opposée par une décision de justice passée en force de chose jugée, sont admis à présenter un nouveau pourvoi dans un délai de six mois à compter de la promulgation de la présente loi.",
+      "valid_from": "1965-10-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

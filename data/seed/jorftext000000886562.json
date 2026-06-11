@@ -12,25 +12,35 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Les dispositions des articles 1er à 7 de la présente loi s'appliqueront aux personnes qui acquerront ou recouvreront la nationalité française après leur entrée en vigueur.\n\nCes dispositions sont également applicables aux personnes devenues ou redevenues françaises avant cette date qui en feront la demande."
+      "content": "Les dispositions des articles 1er à 7 de la présente loi s'appliqueront aux personnes qui acquerront ou recouvreront la nationalité française après leur entrée en vigueur.\n\nCes dispositions sont également applicables aux personnes devenues ou redevenues françaises avant cette date qui en feront la demande.",
+      "valid_from": "1993-01-09"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "La présente loi est applicable à Mayotte."
+      "content": "La présente loi est applicable à Mayotte.",
+      "valid_from": "1978-07-13"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les articles 1er à 9 de la présente loi entreront en vigueur le 1er janvier 1979."
+      "content": "Les articles 1er à 9 de la présente loi entreront en vigueur le 1er janvier 1979.",
+      "valid_from": "1978-07-13"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Un décret en Conseil d'Etat déterminera les modalités d'application des articles 1er à 7 de la présente loi."
+      "content": "Un décret en Conseil d'Etat déterminera les modalités d'application des articles 1er à 7 de la présente loi.",
+      "valid_from": "1978-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

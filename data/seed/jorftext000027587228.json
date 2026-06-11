@@ -12,19 +12,28 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les articles 1er à 3 de la présente ordonnance entrent en vigueur le 6 septembre 2013."
+      "content": "Les articles 1er à 3 de la présente ordonnance entrent en vigueur le 6 septembre 2013.",
+      "valid_from": "2013-06-22"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "I. - La présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.\n\nElle est également applicable dans les Terres australes et antarctiques françaises, à l'exception des dispositions de l'article 2.\n\nII. - A modifié les dispositions suivantes :\n\n- LOI n°2012-304 du 6 mars 2012"
+      "content": "I. - La présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.\n\nElle est également applicable dans les Terres australes et antarctiques françaises, à l'exception des dispositions de l'article 2.\n\nII. - A modifié les dispositions suivantes :\n\n- LOI n°2012-304 du 6 mars 2012",
+      "valid_from": "2013-06-22"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Premier ministre, le ministre de l'intérieur et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'intérieur et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2013-06-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

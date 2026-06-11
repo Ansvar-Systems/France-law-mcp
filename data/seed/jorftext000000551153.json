@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "(paragraphe modificateur).\n\nCette suppression prend effet à la date du transfert effectif au secteur privé de la Société nationale d'exploitation industrielle des tabacs et allumettes."
+      "content": "(paragraphe modificateur).\n\nCette suppression prend effet à la date du transfert effectif au secteur privé de la Société nationale d'exploitation industrielle des tabacs et allumettes.",
+      "valid_from": "1994-12-28"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "(Paragraphe modificateur).\n\nA compter de la publication de la présente loi, des négociations doivent s'engager en vue de conclure une convention collective ou un accord collectif de travail dans les conditions fixées par les articles L. 132-2 et suivants du code du travail.\n\nLes dispositions réglementaires portant statut du personnel ainsi que les accords collectifs en vigueur à la date de publication de la présente loi continuent de s'appliquer jusqu'au transfert effectif de la Société nationale d'exploitation industrielle des tabacs et allumettes du secteur public au secteur privé. Toutefois, si ce transfert intervient avant l'expiration d'un délai de six mois à compter de la publication de la présente loi, ces dispositions continuent de s'appliquer jusqu'à l'entrée en vigueur de la convention collective ou de l'accord collectif mentionné à l'alinéa précédent, et au plus tard jusqu'à l'expiration d'un délai de six mois à compter de la date du transfert effectif de la société du secteur public au secteur privé."
+      "content": "(Paragraphe modificateur).\n\nA compter de la publication de la présente loi, des négociations doivent s'engager en vue de conclure une convention collective ou un accord collectif de travail dans les conditions fixées par les articles L. 132-2 et suivants du code du travail.\n\nLes dispositions réglementaires portant statut du personnel ainsi que les accords collectifs en vigueur à la date de publication de la présente loi continuent de s'appliquer jusqu'au transfert effectif de la Société nationale d'exploitation industrielle des tabacs et allumettes du secteur public au secteur privé. Toutefois, si ce transfert intervient avant l'expiration d'un délai de six mois à compter de la publication de la présente loi, ces dispositions continuent de s'appliquer jusqu'à l'entrée en vigueur de la convention collective ou de l'accord collectif mentionné à l'alinéa précédent, et au plus tard jusqu'à l'expiration d'un délai de six mois à compter de la date du transfert effectif de la société du secteur public au secteur privé.",
+      "valid_from": "1994-12-28"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "En cas de cession de la participation majoritaire de l'Etat dans le capital de la Société nationale d'exploitation industrielle des tabacs et allumettes suivant les procédures du marché financier, l'Etat peut proposer des titres à ses préposés débitants de tabac désignés à l'article 568 du code général des impôts.Leurs demandes sont servies à concurrence de 5 p. 100 du montant de l'opération et bénéficient des avantages accordés par ailleurs aux personnes physiques pour cette opération.En outre, des rabais sur le prix de cession peuvent leur être consentis par rapport au prix le plus bas proposé au même moment aux autres souscripteurs de la même opération sur le marché financier. Toutefois, si un rabais, qui ne peut être supérieur à 5 p. 100, a été consenti, les titres ainsi acquis ne peuvent être cédés avant deux ans, ni avant leur paiement intégral.Sous réserve des dispositions de l'article 94 A du code général des impôts, les avantages ainsi accordés ne sont pas retenus pour l'assiette de tous impôts, prélèvements ou cotisations assis sur les salaires ou les revenus.Si la somme de leurs demandes est inférieure au nombre de titres proposés, les titres non souscrits peuvent être immédiatement proposés aux autres souscripteurs de l'opération sur le marché financier.Les avantages et les modalités propres à cette opération sont arrêtés par le ministre chargé de l'économie."
+      "content": "En cas de cession de la participation majoritaire de l'Etat dans le capital de la Société nationale d'exploitation industrielle des tabacs et allumettes suivant les procédures du marché financier, l'Etat peut proposer des titres à ses préposés débitants de tabac désignés à l'article 568 du code général des impôts.Leurs demandes sont servies à concurrence de 5 p. 100 du montant de l'opération et bénéficient des avantages accordés par ailleurs aux personnes physiques pour cette opération.En outre, des rabais sur le prix de cession peuvent leur être consentis par rapport au prix le plus bas proposé au même moment aux autres souscripteurs de la même opération sur le marché financier. Toutefois, si un rabais, qui ne peut être supérieur à 5 p. 100, a été consenti, les titres ainsi acquis ne peuvent être cédés avant deux ans, ni avant leur paiement intégral.Sous réserve des dispositions de l'article 94 A du code général des impôts, les avantages ainsi accordés ne sont pas retenus pour l'assiette de tous impôts, prélèvements ou cotisations assis sur les salaires ou les revenus.Si la somme de leurs demandes est inférieure au nombre de titres proposés, les titres non souscrits peuvent être immédiatement proposés aux autres souscripteurs de l'opération sur le marché financier.Les avantages et les modalités propres à cette opération sont arrêtés par le ministre chargé de l'économie.",
+      "valid_from": "1994-12-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

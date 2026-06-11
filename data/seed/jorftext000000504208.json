@@ -1,10 +1,10 @@
 {
   "id": "jorftext000000504208",
   "type": "statute",
-  "title": "Loi n°82-916 du 28 octobre 1982",
+  "title": "Loi n° 82-916 du 28 octobre 1982",
   "title_en": null,
   "short_name": null,
-  "status": "repealed",
+  "status": "in_force",
   "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000504208",
   "description": null,
   "provisions": [
@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le 2° de l'article L. 680 du code de la Santé publique est abrogé."
+      "content": "Le 2° de l'article L. 680 du code de la Santé publique est abrogé.",
+      "valid_from": "1982-10-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

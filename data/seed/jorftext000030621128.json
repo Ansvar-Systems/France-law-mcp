@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les succursales d'établissements de crédit ayant leur siège social dans un Etat qui n'est ni membre de l'Union européenne, ni partie à l'accord sur l'Espace économique européen, qui ont été agréées avant la date de publication de la présente ordonnance, disposent d'un délai de dix-huit mois à compter de cette date pour produire l'engagement de l'établissement de crédit dont elles dépendent prévu au dernier alinéa du III de l'article L. 511-10 du code monétaire et financier dans sa rédaction issue de la présente ordonnance."
+      "content": "Les succursales d'établissements de crédit ayant leur siège social dans un Etat qui n'est ni membre de l'Union européenne, ni partie à l'accord sur l'Espace économique européen, qui ont été agréées avant la date de publication de la présente ordonnance, disposent d'un délai de dix-huit mois à compter de cette date pour produire l'engagement de l'établissement de crédit dont elles dépendent prévu au dernier alinéa du III de l'article L. 511-10 du code monétaire et financier dans sa rédaction issue de la présente ordonnance.",
+      "valid_from": "2015-05-23"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, le ministre des finances et des comptes publics et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des finances et des comptes publics et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2015-05-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

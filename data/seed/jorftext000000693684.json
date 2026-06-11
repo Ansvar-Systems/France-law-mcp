@@ -12,25 +12,35 @@
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "I. - Paragraphe modificateurII. - Par dérogation aux dispositions de la loi n° 82-659 du 30 juillet 1982 précitée, s'appliquent à la région de Corse les dispositions de la présente loi relatives à la compétence de la collectivité bénéficiaire du transfert de compétences pour les établissements existants et à la participation obligatoire des communes. Sans préjudice des dispositions de l'article 2 de la loi n° 82-659 du 30 juillet 1982 précitée, les dispositions de l'article 26 de la loi n° 83-663 du 22 juillet 1983 précitée relatives aux activités complémentaires sont applicables aux collectivités locales de Corse.Les dispositions mentionnées à l'alinéa ci-dessus, celles relatives au transfert de compétences prévu au paragraphe I du présent article ainsi que les dispositions de la loi n° 83-663 du 22 juillet 1983 non contraires aux dispositions de la loi n° 82-659 du 30 juillet 1982 s'appliquent à compter de la date d'entrée en vigueur du transfert de compétences prévu par la section 2 du titre II de la loi n° 83-663 du 22 juillet 1983. Jusqu'à cette date, les accords passés entre la région de Corse et les communes en ce qui concerne la participation de ces dernières continuent de s'appliquer."
+      "content": "I. - Paragraphe modificateurII. - Par dérogation aux dispositions de la loi n° 82-659 du 30 juillet 1982 précitée, s'appliquent à la région de Corse les dispositions de la présente loi relatives à la compétence de la collectivité bénéficiaire du transfert de compétences pour les établissements existants et à la participation obligatoire des communes. Sans préjudice des dispositions de l'article 2 de la loi n° 82-659 du 30 juillet 1982 précitée, les dispositions de l'article 26 de la loi n° 83-663 du 22 juillet 1983 précitée relatives aux activités complémentaires sont applicables aux collectivités locales de Corse.Les dispositions mentionnées à l'alinéa ci-dessus, celles relatives au transfert de compétences prévu au paragraphe I du présent article ainsi que les dispositions de la loi n° 83-663 du 22 juillet 1983 non contraires aux dispositions de la loi n° 82-659 du 30 juillet 1982 s'appliquent à compter de la date d'entrée en vigueur du transfert de compétences prévu par la section 2 du titre II de la loi n° 83-663 du 22 juillet 1983. Jusqu'à cette date, les accords passés entre la région de Corse et les communes en ce qui concerne la participation de ces dernières continuent de s'appliquer.",
+      "valid_from": "1985-01-26"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Les modalités de mise en oeuvre des dispositions transitoires pour l'application de la section 2 du titre II de la loi n° 83-663 du 22 juillet 1983 précitée, concernant notamment les opérations en cours, sont déterminées, en tant que de besoin, par décrets.Pour l'année 1985 et pour la seule application des décisions de financement prises par l'Etat, les régions peuvent assumer directement la réalisation des établissements d'enseignement qui, en application de la loi n° 83-663 du 22 juillet 1983 et de la présente loi, relèveront de leur compétence."
+      "content": "Les modalités de mise en oeuvre des dispositions transitoires pour l'application de la section 2 du titre II de la loi n° 83-663 du 22 juillet 1983 précitée, concernant notamment les opérations en cours, sont déterminées, en tant que de besoin, par décrets.Pour l'année 1985 et pour la seule application des décisions de financement prises par l'Etat, les régions peuvent assumer directement la réalisation des établissements d'enseignement qui, en application de la loi n° 83-663 du 22 juillet 1983 et de la présente loi, relèveront de leur compétence.",
+      "valid_from": "1985-01-26"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "La loi du 23 avril 1933 autorisant le département de la Seine à se substituer aux communes de ce département, y compris Paris, pour l'exécution de tout ou partie du service d'enlèvement et de traitement des ordures ménagères est abrogée."
+      "content": "La loi du 23 avril 1933 autorisant le département de la Seine à se substituer aux communes de ce département, y compris Paris, pour l'exécution de tout ou partie du service d'enlèvement et de traitement des ordures ménagères est abrogée.",
+      "valid_from": "1985-01-26"
     },
     {
       "provision_ref": "art39",
       "section": "39",
       "title": "Article 39",
-      "content": "Des décrets en Conseil d'Etat précisent, en tant que de besoin, les modalités d'application de la présente loi."
+      "content": "Des décrets en Conseil d'Etat précisent, en tant que de besoin, les modalités d'application de la présente loi.",
+      "valid_from": "1985-01-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

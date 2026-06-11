@@ -12,127 +12,154 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La contribution foncière est établie annuellement sur les propriétés bâties et non bâties situées en Nouvelle-Calédonie et dépendances et sur les droits réels immobiliers imposables s'y exerçant, à l'exception des propriétés expressément exonérées."
+      "content": "La contribution foncière est établie annuellement sur les propriétés bâties et non bâties situées en Nouvelle-Calédonie et dépendances et sur les droits réels immobiliers imposables s'y exerçant, à l'exception des propriétés expressément exonérées.",
+      "valid_from": "1985-11-15"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Sont exonérés de la contribution foncière à titre permanent :1° Les propriétés de l'Etat, du territoire, des régions ou des communes, affectées à un service public ou d'utilité publique ;2° Les bâtiments ruraux des exploitations agricoles, à l'exception de la maison d'habitation ;3° Les terrains, dans la limite de 10 ares, formant une dépendance indispensable et immédiate de la construction qui y est édifiée ;4° Les maisons d'habitation, situées à l'intérieur d'une réserve autochtone.Au terme d'un délai de cinq ans, une délibération du congrès du territoire  pourra mettre un terme à l'exonération prévue au 4° du premier alinéa et soumettre les immeubles situés à l'intérieur des réserves aux dispositions générales."
+      "content": "Sont exonérés de la contribution foncière à titre permanent :1° Les propriétés de l'Etat, du territoire, des régions ou des communes, affectées à un service public ou d'utilité publique ;2° Les bâtiments ruraux des exploitations agricoles, à l'exception de la maison d'habitation ;3° Les terrains, dans la limite de 10 ares, formant une dépendance indispensable et immédiate de la construction qui y est édifiée ;4° Les maisons d'habitation, situées à l'intérieur d'une réserve autochtone.Au terme d'un délai de cinq ans, une délibération du congrès du territoire  pourra mettre un terme à l'exonération prévue au 4° du premier alinéa et soumettre les immeubles situés à l'intérieur des réserves aux dispositions générales.",
+      "valid_from": "1986-07-19"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les exemptions temporaires résultant des dispositions réglementaires existant à la date d'entrée en vigueur de la présente ordonnance, continuent de produire leurs effets quelle que soit la localisation des biens ou droits réels qui en bénéficient."
+      "content": "Les exemptions temporaires résultant des dispositions réglementaires existant à la date d'entrée en vigueur de la présente ordonnance, continuent de produire leurs effets quelle que soit la localisation des biens ou droits réels qui en bénéficient.",
+      "valid_from": "1985-11-15"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le territoire peut instituer des exemptions temporaires au titre de biens ou droits réels, affectés à des projets utiles au développement. Ces exemptions ne s'appliquent aux centimes additionnels régionaux ou communaux que si la commune ou la région dans laquelle les biens sont situés en décide par délibération de son conseil.La durée de l'exemption ne peut excéder dix ans."
+      "content": "Le territoire peut instituer des exemptions temporaires au titre de biens ou droits réels, affectés à des projets utiles au développement. Ces exemptions ne s'appliquent aux centimes additionnels régionaux ou communaux que si la commune ou la région dans laquelle les biens sont situés en décide par délibération de son conseil.La durée de l'exemption ne peut excéder dix ans.",
+      "valid_from": "1986-07-19"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La contribution foncière des propriétés bâties et non bâties est établie d'après la valeur locative des biens ou droits réels immobiliers imposables."
+      "content": "La contribution foncière des propriétés bâties et non bâties est établie d'après la valeur locative des biens ou droits réels immobiliers imposables.",
+      "valid_from": "1985-11-15"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "La valeur locative mentionnée à l'article 5 est déterminée par application d'un tarif d'évaluation établi par commune conformément aux dispositions de l'article 13."
+      "content": "La valeur locative mentionnée à l'article 5 est déterminée par application d'un tarif d'évaluation établi par commune conformément aux dispositions de l'article 13.",
+      "valid_from": "1985-11-15"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Pour les biens ruraux ce tarif est établi en retenant pour référence les loyers réels constatés dans les baux fonciers pour des immeubles analogues.Lorsque les droits réels imposables font l'objet d'un bail dont le loyer a été déclaré, la valeur locative retenue pour l'assiette de l'impôt est égale au loyer réel."
+      "content": "Pour les biens ruraux ce tarif est établi en retenant pour référence les loyers réels constatés dans les baux fonciers pour des immeubles analogues.Lorsque les droits réels imposables font l'objet d'un bail dont le loyer a été déclaré, la valeur locative retenue pour l'assiette de l'impôt est égale au loyer réel.",
+      "valid_from": "1985-11-15"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Pour les biens urbains le tarif est établi compte tenu des loyers déterminés par la commission d'évaluation foncière."
+      "content": "Pour les biens urbains le tarif est établi compte tenu des loyers déterminés par la commission d'évaluation foncière.",
+      "valid_from": "1985-11-15"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les droits réels immobiliers individuels de personnes de statut civil de droit commun ou particulier sont imposés à la contribution foncière des propriétés bâties ou non bâties sur les bases résultant de la révision quinquennale."
+      "content": "Les droits réels immobiliers individuels de personnes de statut civil de droit commun ou particulier sont imposés à la contribution foncière des propriétés bâties ou non bâties sur les bases résultant de la révision quinquennale.",
+      "valid_from": "1985-11-15"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Le congrès du territoire peut appliquer une correction à la surface des biens imposables en fonction de l'utilisation qui en est faite."
+      "content": "Le congrès du territoire peut appliquer une correction à la surface des biens imposables en fonction de l'utilisation qui en est faite.",
+      "valid_from": "1986-07-19"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "La révision des bases d'imposition des propriétés rurales, bâties ou non bâties, est effectuée par une commission communale spéciale, dont la composition est arrêtée par l'exécutif du territoire, après consultation du président du congrès du territoire, du président du conseil de la région et du maire de la commune sur le territoire desquelles sont sis les biens. Pour les propriétés urbaines, la même commission établit de la même façon un tarif d'évaluation définissant la valeur locative compte tenu de la situation, de l'état, de l'affectation et de l'usage des biens."
+      "content": "La révision des bases d'imposition des propriétés rurales, bâties ou non bâties, est effectuée par une commission communale spéciale, dont la composition est arrêtée par l'exécutif du territoire, après consultation du président du congrès du territoire, du président du conseil de la région et du maire de la commune sur le territoire desquelles sont sis les biens. Pour les propriétés urbaines, la même commission établit de la même façon un tarif d'évaluation définissant la valeur locative compte tenu de la situation, de l'état, de l'affectation et de l'usage des biens.",
+      "valid_from": "1986-07-19"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Les bases d'imposition sont révisées tous les cinq ans et immuables entre deux révisions.Les bases d'imposition résultant d'une révision quinquennale, sont fixées par le territoire au plus tard le 30 octobre de l'année précédant celle de leur entrée en vigueur."
+      "content": "Les bases d'imposition sont révisées tous les cinq ans et immuables entre deux révisions.Les bases d'imposition résultant d'une révision quinquennale, sont fixées par le territoire au plus tard le 30 octobre de l'année précédant celle de leur entrée en vigueur.",
+      "valid_from": "1986-07-19"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "1° les bases d'imposition résultant de la révision quinquennale sont affichées à la mairie du lieu de situation des biens, à partir du 1er novembre de l'année précédant leur entrée en application.2° Chaque contribuable peut, pour les biens à raison desquels il est imposable, saisir la commission d'évaluation au plus tard quinze jours après le premier jour d'affichage, en présentant par écrit, au président de la commission, une réclamation contre les bases d'imposition retenues.3° La commission examine les requêtes et statue définitivement dans le mois suivant l'expiration du délai de réclamation.4° En cas de rejet de ses réclamations, le contribuable peut porter le litige devant le tribunal administratif."
+      "content": "1° les bases d'imposition résultant de la révision quinquennale sont affichées à la mairie du lieu de situation des biens, à partir du 1er novembre de l'année précédant leur entrée en application.2° Chaque contribuable peut, pour les biens à raison desquels il est imposable, saisir la commission d'évaluation au plus tard quinze jours après le premier jour d'affichage, en présentant par écrit, au président de la commission, une réclamation contre les bases d'imposition retenues.3° La commission examine les requêtes et statue définitivement dans le mois suivant l'expiration du délai de réclamation.4° En cas de rejet de ses réclamations, le contribuable peut porter le litige devant le tribunal administratif.",
+      "valid_from": "1985-11-15"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Le territoire fixe le taux de la contribution foncière des propriétés bâties et non bâties."
+      "content": "Le territoire fixe le taux de la contribution foncière des propriétés bâties et non bâties.",
+      "valid_from": "1986-07-19"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Les communes déterminent le montant des centimes additionnels à la contribution foncière des propriétés bâties et non bâties, dans la la limite maximum de trente-cinq centimes par franc."
+      "content": "Les communes déterminent le montant des centimes additionnels à la contribution foncière des propriétés bâties et non bâties, dans la la limite maximum de trente-cinq centimes par franc.",
+      "valid_from": "1985-11-15"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Les taux des centimes additionnels à la contribution foncière des propriétés bâties et non bâties sont votés par les régions et les communes concernées avant le 1er janvier de l'année d'imposition."
+      "content": "Les taux des centimes additionnels à la contribution foncière des propriétés bâties et non bâties sont votés par les régions et les communes concernées avant le 1er janvier de l'année d'imposition.",
+      "valid_from": "1986-07-19"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "1° Les rôles de la contribution foncière des propriétés bâties et non bâties sont mis en recouvrement quarante-cinq jours après la date de l'arrêté du président du congrès du territoire les rendant exécutoires.La date de mise en recouvrement détermine l'année de prise en charge des recettes correspondantes.2° L'imposition est exigible le dernier jour du mois suivant celui de la mise en recouvrement du rôle.3° L'exigibilité est immédiate et totale, dès la mise en recouvrement du rôle en cas de :- déménagement hors du ressort de la perception, à moins que le contribuable n'ait fait connaître son nouveau domicile ;- vente volontaire ou forcée ;- cession ou cessation définitive d'entreprise ;- décès du contribuable."
+      "content": "1° Les rôles de la contribution foncière des propriétés bâties et non bâties sont mis en recouvrement quarante-cinq jours après la date de l'arrêté du président du congrès du territoire les rendant exécutoires.La date de mise en recouvrement détermine l'année de prise en charge des recettes correspondantes.2° L'imposition est exigible le dernier jour du mois suivant celui de la mise en recouvrement du rôle.3° L'exigibilité est immédiate et totale, dès la mise en recouvrement du rôle en cas de :- déménagement hors du ressort de la perception, à moins que le contribuable n'ait fait connaître son nouveau domicile ;- vente volontaire ou forcée ;- cession ou cessation définitive d'entreprise ;- décès du contribuable.",
+      "valid_from": "1986-07-19"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Les communes peuvent permettre que les centimes additionnels à la contribution foncière soient, à la demande du contribuable, acquittés en nature selon des modalités qu'elles définissent par délibération du conseil municipal. Il est alors créé au budget de la commune une rubrique comptable du paiement en nature des taxes additionnelles permettant d'apurer les prises en charge des percepteurs."
+      "content": "Les communes peuvent permettre que les centimes additionnels à la contribution foncière soient, à la demande du contribuable, acquittés en nature selon des modalités qu'elles définissent par délibération du conseil municipal. Il est alors créé au budget de la commune une rubrique comptable du paiement en nature des taxes additionnelles permettant d'apurer les prises en charge des percepteurs.",
+      "valid_from": "1985-11-15"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Dans chaque région il est procédé à la révision des bases d'imposition à la contribution foncière des propriétés bâties et non bâties avant le 1er janvier 1989."
+      "content": "Dans chaque région il est procédé à la révision des bases d'imposition à la contribution foncière des propriétés bâties et non bâties avant le 1er janvier 1989.",
+      "valid_from": "1987-12-31"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Jusqu'à la révision des bases d'imposition, la contribution foncière des propriétés bâties et non bâties est établie en application des dispositions antérieurement en vigueur.(Abrogé)"
+      "content": "Jusqu'à la révision des bases d'imposition, la contribution foncière des propriétés bâties et non bâties est établie en application des dispositions antérieurement en vigueur.(Abrogé)",
+      "valid_from": "1987-12-31"
     },
     {
       "provision_ref": "art68",
       "section": "68",
       "title": "Article 68",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et du budget, le ministre chargé de la Nouvelle-Calédonie et le secrétaire d'Etat auprès du ministre de l'économie, des finances et du budget, chargé du budget et de la consommation, sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et du budget, le ministre chargé de la Nouvelle-Calédonie et le secrétaire d'Etat auprès du ministre de l'économie, des finances et du budget, chargé du budget et de la consommation, sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "1985-11-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

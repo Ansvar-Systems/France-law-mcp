@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les Français domiciliés sur le territoire du Vanuatu à la date du 30 juillet 1980 conservent leur nationalité quelle que soit leur situation au regard de la nationalité du Vanuatu."
+      "content": "Les Français domiciliés sur le territoire du Vanuatu à la date du 30 juillet 1980 conservent leur nationalité quelle que soit leur situation au regard de la nationalité du Vanuatu.",
+      "valid_from": "1980-09-11"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les étrangers qui étaient soumis au régime juridique applicable aux ressortissants français pourront par décret, même s'ils continuent à résider sur le territoire du Vanuatu, être naturalisés français ou réintégrés dans la nationalité française selon les conditions prévues par le code de la nationalité lorsqu'ils auront présenté une demande à cet effet avant le 1er octobre 1980."
+      "content": "Les étrangers qui étaient soumis au régime juridique applicable aux ressortissants français pourront par décret, même s'ils continuent à résider sur le territoire du Vanuatu, être naturalisés français ou réintégrés dans la nationalité française selon les conditions prévues par le code de la nationalité lorsqu'ils auront présenté une demande à cet effet avant le 1er octobre 1980.",
+      "valid_from": "1980-09-11"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les étrangers qui étaient soumis au régime juridique applicable aux ressortissants français ainsi que les ressortissants du Vanuatu pourront être naturalisés français sans la condition de stage prévue aux articles 21-17 et 21-18 du code civil s'ils établissent leur résidence sur le territoire de la République française."
+      "content": "Les étrangers qui étaient soumis au régime juridique applicable aux ressortissants français ainsi que les ressortissants du Vanuatu pourront être naturalisés français sans la condition de stage prévue aux articles 21-17 et 21-18 du code civil s'ils établissent leur résidence sur le territoire de la République française.",
+      "valid_from": "1993-07-23"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Dans un délai de trois ans à compter du 30 juillet 1980, les personnes françaises par acquisition qui auront perdu leur nationalité en acquérant par mesure individuelle la nationalité néo-hébridaise pourront être réintégrées par déclaration, dans les conditions prévues à l'article 24-2 du code civil."
+      "content": "Dans un délai de trois ans à compter du 30 juillet 1980, les personnes françaises par acquisition qui auront perdu leur nationalité en acquérant par mesure individuelle la nationalité néo-hébridaise pourront être réintégrées par déclaration, dans les conditions prévues à l'article 24-2 du code civil.",
+      "valid_from": "1993-07-23"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Sont supprimés les mots \"et ressortissants français des Nouvelles-Hébrides\" au tableau figurant à l'avant-dernier alinéa de l'article 2 de l'ordonnance n° 59-227 du 4 février 1959 relative à l'élection des députés à l'Assemblée nationale représentant les territoires d'outre-mer, modifié par l'article 1er de la loi n° 77-1340 du 8 décembre 1977."
+      "content": "Sont supprimés les mots \"et ressortissants français des Nouvelles-Hébrides\" au tableau figurant à l'avant-dernier alinéa de l'article 2 de l'ordonnance n° 59-227 du 4 février 1959 relative à l'élection des députés à l'Assemblée nationale représentant les territoires d'outre-mer, modifié par l'article 1er de la loi n° 77-1340 du 8 décembre 1977.",
+      "valid_from": "1980-09-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

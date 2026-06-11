@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Cessent d'être applicables en Nouvelle-Calédonie :1° La loi n° 49-890 du 7 juillet 1949 permettant la pratique de la greffe de la cornée à l'aide de donneurs d'yeux volontaires ;2° La loi n° 76-1181 du 22 décembre 1976 relative au prélèvement d'organes."
+      "content": "Cessent d'être applicables en Nouvelle-Calédonie :1° La loi n° 49-890 du 7 juillet 1949 permettant la pratique de la greffe de la cornée à l'aide de donneurs d'yeux volontaires ;2° La loi n° 76-1181 du 22 décembre 1976 relative au prélèvement d'organes.",
+      "valid_from": "1998-09-04"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Premier ministre, la ministre de l'emploi et de la solidarité, le ministre de l'intérieur, le secrétaire d'Etat à l'outre-mer et le secrétaire d'Etat à la santé sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'emploi et de la solidarité, le ministre de l'intérieur, le secrétaire d'Etat à l'outre-mer et le secrétaire d'Etat à la santé sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "1998-09-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

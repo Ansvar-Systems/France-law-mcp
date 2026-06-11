@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code des juridictions financières est modifié conformément aux dispositions des articles 2 à 4 de la présente ordonnance."
+      "content": "Le code des juridictions financières est modifié conformément aux dispositions des articles 2 à 4 de la présente ordonnance.",
+      "valid_from": "2022-12-09"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le code général des collectivités territoriales est modifié conformément aux dispositions des articles 9 à 19 de la présente ordonnance."
+      "content": "Le code général des collectivités territoriales est modifié conformément aux dispositions des articles 9 à 19 de la présente ordonnance.",
+      "valid_from": "2022-12-09"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Le code des communes de Nouvelle-Calédonie est modifié conformément aux dispositions des articles 22 à 30 de la présente ordonnance."
+      "content": "Le code des communes de Nouvelle-Calédonie est modifié conformément aux dispositions des articles 22 à 30 de la présente ordonnance.",
+      "valid_from": "2022-12-09"
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le dixième jour suivant sa publication en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie, à l'exception de celles des articles 3, 4, 10 et 33 qui entrent en vigueur le 1er janvier 2023.Les dispositions de l'article 2 de la présente ordonnance entrent en vigueur à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon, à compter du 1er janvier 2023."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le dixième jour suivant sa publication en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie, à l'exception de celles des articles 3, 4, 10 et 33 qui entrent en vigueur le 1er janvier 2023.Les dispositions de l'article 2 de la présente ordonnance entrent en vigueur à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon, à compter du 1er janvier 2023.",
+      "valid_from": "2022-12-09"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "La Première ministre, le ministre de l'intérieur et des outre-mer, le ministre de la transition écologique et de la cohésion des territoires et le ministre délégué auprès du ministre de l'intérieur et des outre-mer, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "La Première ministre, le ministre de l'intérieur et des outre-mer, le ministre de la transition écologique et de la cohésion des territoires et le ministre délégué auprès du ministre de l'intérieur et des outre-mer, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2022-12-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

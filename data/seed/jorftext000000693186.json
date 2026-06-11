@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les articles 9, 10 et 11 de la loi du 16 avril 1897 précitée sont abrogés."
+      "content": "Les articles 9, 10 et 11 de la loi du 16 avril 1897 précitée sont abrogés.",
+      "valid_from": "1984-07-14"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Un décret en Conseil d'Etat détermine, dans le respect des engagements communautaires de la France, les modalités de l'étiquetage, de la présentation, de l'information sur le lieu de vente et de la publicité relatives à la margarine."
+      "content": "Un décret en Conseil d'Etat détermine, dans le respect des engagements communautaires de la France, les modalités de l'étiquetage, de la présentation, de l'information sur le lieu de vente et de la publicité relatives à la margarine.",
+      "valid_from": "1984-07-14"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "L'article 1er entre en vigueur dans un délai de six mois à compter de la publication de la présente loi."
+      "content": "L'article 1er entre en vigueur dans un délai de six mois à compter de la publication de la présente loi.",
+      "valid_from": "1984-07-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

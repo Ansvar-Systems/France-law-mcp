@@ -12,7 +12,14 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "La présente loi est applicable à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.\n\nLes articles 9 et 10 de la présente loi sont applicables en Polynésie française et en Nouvelle-Calédonie."
+      "content": "La présente loi est applicable à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.\n\nLes articles 9 et 10 de la présente loi sont applicables en Polynésie française et en Nouvelle-Calédonie.",
+      "valid_from": "2014-05-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

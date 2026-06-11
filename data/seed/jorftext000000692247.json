@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les attachés d'administration centrale admis à subir une formation probatoire à l'Ecole nationale de la magistrature participent, dans les mêmes conditions que les auditeurs de justice, aux activités des parquets et des juridictions de l'ordre judiciaire auprès desquels ils font leur stage."
+      "content": "Les attachés d'administration centrale admis à subir une formation probatoire à l'Ecole nationale de la magistrature participent, dans les mêmes conditions que les auditeurs de justice, aux activités des parquets et des juridictions de l'ordre judiciaire auprès desquels ils font leur stage.",
+      "valid_from": "1983-04-24"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les attachés d'administration centrale admis à subir une formation probatoire à l'Ecole nationale de la magistrature sont astreints au secret professionnel.Préalablement à toute activité, ils prêtent serment devant la cour d'appel en ces termes :Je jure de conserver le secret des actes du parquet, des juridictions d'instruction et de jugement dont j'aurai eu connaissance au cours de mon stage.Ils ne peuvent, en aucun cas, être relevés de ce serment."
+      "content": "Les attachés d'administration centrale admis à subir une formation probatoire à l'Ecole nationale de la magistrature sont astreints au secret professionnel.Préalablement à toute activité, ils prêtent serment devant la cour d'appel en ces termes :Je jure de conserver le secret des actes du parquet, des juridictions d'instruction et de jugement dont j'aurai eu connaissance au cours de mon stage.Ils ne peuvent, en aucun cas, être relevés de ce serment.",
+      "valid_from": "1983-04-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

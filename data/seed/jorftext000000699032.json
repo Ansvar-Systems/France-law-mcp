@@ -12,31 +12,42 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Sont majorées forfaitairement de 5 p. 100 :Les pensions de vieillesse dues au titre des articles L. 331 à L. 335 du code de la sécurité sociale, dont l'entrée en jouissance est antérieure au 1er janvier 1973 et qui ont été liquidées sur la base de la durée maximum d'assurance susceptible d'être prise en compte à leur date d'entrée en jouissance ;Les fractions de pension de vieillesse dont l'entrée en jouissance est antérieure au 1er janvier 1973 et qui incombent au régime général, lorsque la durée totale d'assurance retenue pour leur calcul, en vertu d'une convention internationale ou de la réglementation interne, est au moins égale à la durée maximum d'assurance susceptible d'être prise en compte à leur date d'entrée en jouissance. Cette majoration forfaitaire n'est accordée que dans la mesure où les règles de coordination n'avaient pas permis la rémunération des années d'assurance accomplies au-delà de cette durée maximum variable selon l'année de l'entrée en jouissance."
+      "content": "Sont majorées forfaitairement de 5 p. 100 :Les pensions de vieillesse dues au titre des articles L. 331 à L. 335 du code de la sécurité sociale, dont l'entrée en jouissance est antérieure au 1er janvier 1973 et qui ont été liquidées sur la base de la durée maximum d'assurance susceptible d'être prise en compte à leur date d'entrée en jouissance ;Les fractions de pension de vieillesse dont l'entrée en jouissance est antérieure au 1er janvier 1973 et qui incombent au régime général, lorsque la durée totale d'assurance retenue pour leur calcul, en vertu d'une convention internationale ou de la réglementation interne, est au moins égale à la durée maximum d'assurance susceptible d'être prise en compte à leur date d'entrée en jouissance. Cette majoration forfaitaire n'est accordée que dans la mesure où les règles de coordination n'avaient pas permis la rémunération des années d'assurance accomplies au-delà de cette durée maximum variable selon l'année de l'entrée en jouissance.",
+      "valid_from": "1976-07-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions de la présente loi prendront effet au 1er juillet 1976.Toutefois les assurés visés à l'avant-dernier alinéa de l'article L. 332 du code de la sécurité sociale, dont la pension prendra effet avant le 1er juillet 1977, ne pourront bénéficier à soixante ans du taux normalement applicable à soixante-cinq ans que s'ils justifient d'une durée d'assurance supérieure à celle prévue audit alinéa."
+      "content": "Les dispositions de la présente loi prendront effet au 1er juillet 1976.Toutefois les assurés visés à l'avant-dernier alinéa de l'article L. 332 du code de la sécurité sociale, dont la pension prendra effet avant le 1er juillet 1977, ne pourront bénéficier à soixante ans du taux normalement applicable à soixante-cinq ans que s'ils justifient d'une durée d'assurance supérieure à celle prévue audit alinéa.",
+      "valid_from": "1976-07-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Sont majorées forfaitairement d'un taux variable en fonction de l'âge de liquidation et fixé par voie réglementaire, les pensions de vieillesse accordées aux assurés remplissant les conditions prévues aux deux derniers alinéas de l'article L. 332 du code de la sécurité sociale, dont l'entrée en jouissance est antérieure au 1er juillet 1976 et qui ont été liquidées à un taux inférieur à celui qui était normalement applicable à soixante-cinq ans, dès lors que ce taux réduit n'a pas été compensé, en vertu d'une disposition conventionnelle en vigueur à la date de publication de la présente loi."
+      "content": "Sont majorées forfaitairement d'un taux variable en fonction de l'âge de liquidation et fixé par voie réglementaire, les pensions de vieillesse accordées aux assurés remplissant les conditions prévues aux deux derniers alinéas de l'article L. 332 du code de la sécurité sociale, dont l'entrée en jouissance est antérieure au 1er juillet 1976 et qui ont été liquidées à un taux inférieur à celui qui était normalement applicable à soixante-cinq ans, dès lors que ce taux réduit n'a pas été compensé, en vertu d'une disposition conventionnelle en vigueur à la date de publication de la présente loi.",
+      "valid_from": "1976-07-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Gouvernement déposera avant le 31 décembre 1976 un projet de loi tendant à réglementer les conditions de cumul d'une activité professionnelle rémunérée avec le bénéfice d'une pension de retraite."
+      "content": "Le Gouvernement déposera avant le 31 décembre 1976 un projet de loi tendant à réglementer les conditions de cumul d'une activité professionnelle rémunérée avec le bénéfice d'une pension de retraite.",
+      "valid_from": "1976-07-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les dispositions de la présente loi sont applicables aux assurés ressortissant au code local des assurances sociales du 19 juillet 1911 et à la loi du 20 décembre 1911 dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.\n\nLes modalités d'application et d'adaptation du présent article seront fixées par voie réglementaire."
+      "content": "Les dispositions de la présente loi sont applicables aux assurés ressortissant au code local des assurances sociales du 19 juillet 1911 et à la loi du 20 décembre 1911 dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.\n\nLes modalités d'application et d'adaptation du présent article seront fixées par voie réglementaire.",
+      "valid_from": "1976-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "A modifié les dispositions suivantes :\n\n- Code pénal"
+      "content": "A modifié les dispositions suivantes :\n\n- Code pénal",
+      "valid_from": "2017-01-01"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Le Gouvernement remet au Parlement un rapport sur l'application de la présente loi deux ans après sa promulgation. Ce rapport dresse le bilan :1° De la lutte contre la traite des êtres humains et le proxénétisme et des actions de coopération européenne et internationale engagées par la France dans ce domaine ;2° De la création de l'infraction de recours à l'achat d'actes sexuels prévue au premier alinéa des articles 225-12-1 et 611-1 du code pénal ;3° De la mise en œuvre de l'article L. 121-9 du code de l'action sociale et des familles ;4° Du dispositif d'information prévu à l'article L. 312-17-1-1 du code de l'éducation ;5° Du dispositif de protection prévu à l'article 706-40-1 du code de procédure pénale.Il présente l'évolution :a) De la prostitution, notamment sur internet et dans les zones transfrontalières ;b) De la situation sanitaire et sociale des personnes prostituées ;c) De la situation, du repérage et de la prise en charge des mineurs victimes de la prostitution ;d) De la situation, du repérage et de la prise en charge des étudiants se livrant à la prostitution ;e) Du nombre de condamnations pour proxénétisme et pour traite des êtres humains."
+      "content": "Le Gouvernement remet au Parlement un rapport sur l'application de la présente loi deux ans après sa promulgation. Ce rapport dresse le bilan :1° De la lutte contre la traite des êtres humains et le proxénétisme et des actions de coopération européenne et internationale engagées par la France dans ce domaine ;2° De la création de l'infraction de recours à l'achat d'actes sexuels prévue au premier alinéa des articles 225-12-1 et 611-1 du code pénal ;3° De la mise en œuvre de l'article L. 121-9 du code de l'action sociale et des familles ;4° Du dispositif d'information prévu à l'article L. 312-17-1-1 du code de l'éducation ;5° Du dispositif de protection prévu à l'article 706-40-1 du code de procédure pénale.Il présente l'évolution :a) De la prostitution, notamment sur internet et dans les zones transfrontalières ;b) De la situation sanitaire et sociale des personnes prostituées ;c) De la situation, du repérage et de la prise en charge des mineurs victimes de la prostitution ;d) De la situation, du repérage et de la prise en charge des étudiants se livrant à la prostitution ;e) Du nombre de condamnations pour proxénétisme et pour traite des êtres humains.",
+      "valid_from": "2016-04-15"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "La présente loi est applicable à Wallis-et-Futuna, en Polynésie française et en Nouvelle-Calédonie.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "La présente loi est applicable à Wallis-et-Futuna, en Polynésie française et en Nouvelle-Calédonie.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2016-04-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

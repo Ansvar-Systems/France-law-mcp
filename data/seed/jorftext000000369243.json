@@ -1,0 +1,42 @@
+{
+  "id": "jorftext000000369243",
+  "type": "statute",
+  "title": "Loi n° 95-66 du 20 janvier 1995",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000369243",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Peuvent seuls exercer l'activité de conducteur de taxi :1° Les titulaires d'un certificat de capacité professionnelle délivré par le préfet ;2° Après stage d'adaptation ou épreuve d'aptitude, les ressortissants des Etats membres de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui sont titulaires d'un certificat de capacité professionnelle délivré par l'autorité compétente d'un autre Etat membre où un tel certificat est exigé, ou qui peuvent faire état de l'exercice de la profession, dans un autre Etat membre où un tel certificat n'est pas exigé, pendant une durée minimale, variable selon les titres de formation qu'ils détiennent.",
+      "valid_from": "1995-01-21",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art2bis",
+      "section": "2bis",
+      "title": "Article 2bis",
+      "content": "L'exercice de l'activité de conducteur de taxi nécessite d'être titulaire d'une carte professionnelle délivrée par le préfet.Le préfet peut, en cas de violation par le conducteur de la réglementation applicable à la profession, lui donner un avertissement ou procéder au retrait temporaire ou définitif de sa carte professionnelle.",
+      "valid_from": "2003-06-13",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art7bis",
+      "section": "7bis",
+      "title": "Article 7bis",
+      "content": "Les pouvoirs dévolus au préfet par la présente loi sont exercés par le préfet de police dans la zone définie pour l'exercice des attributions énumérées à l'article 1er de la loi du 13 mars 1937 ayant pour objet l'organisation de l'industrie du taxi.",
+      "valid_from": "2003-06-13",
+      "valid_to": "2222-02-22"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

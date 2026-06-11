@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est autorisée, au-delà de l'entrée en vigueur de la présente loi, la perception de la rémunération de services instituée par le décret n° 2010-471 du 11 mai 2010 portant modification du décret n° 2006-1810 du 23 décembre 2006 instituant des redevances pour services rendus par la direction générale de l'aviation civile."
+      "content": "Est autorisée, au-delà de l'entrée en vigueur de la présente loi, la perception de la rémunération de services instituée par le décret n° 2010-471 du 11 mai 2010 portant modification du décret n° 2006-1810 du 23 décembre 2006 instituant des redevances pour services rendus par la direction générale de l'aviation civile.",
+      "valid_from": "2010-06-09"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. ― Pour 2010, l'évaluation des ressources et les plafonds des charges de l'Etat demeurent inchangés depuis l'entrée en vigueur de la loi n° 2010-463 du 7 mai 2010 de finances rectificative pour 2010. Il en est de même de l'équilibre budgétaire en résultant.II. ― Pour 2010 :1° L'évaluation des ressources et des charges de trésorerie qui concourent à la réalisation de l'équilibre financier demeure inchangée ;2° Le plafond de la variation nette, appréciée en fin d'année, de la dette négociable de l'Etat d'une durée supérieure à un an demeure inchangé.III. ― Pour 2010, le plafond d'autorisation des emplois rémunérés par l'Etat demeure inchangé."
+      "content": "I. ― Pour 2010, l'évaluation des ressources et les plafonds des charges de l'Etat demeurent inchangés depuis l'entrée en vigueur de la loi n° 2010-463 du 7 mai 2010 de finances rectificative pour 2010. Il en est de même de l'équilibre budgétaire en résultant.II. ― Pour 2010 :1° L'évaluation des ressources et des charges de trésorerie qui concourent à la réalisation de l'équilibre financier demeure inchangée ;2° Le plafond de la variation nette, appréciée en fin d'année, de la dette négociable de l'Etat d'une durée supérieure à un an demeure inchangé.III. ― Pour 2010, le plafond d'autorisation des emplois rémunérés par l'Etat demeure inchangé.",
+      "valid_from": "2010-06-09"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. - Dans les conditions mentionnées au présent article, le ministre chargé de l'économie est autorisé à accorder la garantie de l'Etat, au titre de la quote-part de la France, en principal et en intérêts, aux financements obtenus et aux titres émis par le Fonds européen de stabilité financière afin d'assurer la stabilité financière dans les Etats membres de l'Union européenne dont la monnaie est l'euro. Cette garantie s'exerce dans la limite d'un plafond en principal de 159 milliards d'euros.\n\nII. ― La garantie de l'Etat mentionnée au I peut faire l'objet d'une rémunération.\n\nIII. ― La garantie de l'Etat mentionnée au I ne peut pas être octroyée après le 30 juin 2013.\n\nIV. ― Lorsqu'il octroie la garantie de l'Etat en application du présent article, le ministre chargé de l'économie informe les commissions de l'Assemblée nationale et du Sénat chargées des finances. Il transmet chaque semestre aux commissions un état récapitulatif des interventions mises en œuvre par le fonds mentionné au I."
+      "content": "I. - Dans les conditions mentionnées au présent article, le ministre chargé de l'économie est autorisé à accorder la garantie de l'Etat, au titre de la quote-part de la France, en principal et en intérêts, aux financements obtenus et aux titres émis par le Fonds européen de stabilité financière afin d'assurer la stabilité financière dans les Etats membres de l'Union européenne dont la monnaie est l'euro. Cette garantie s'exerce dans la limite d'un plafond en principal de 159 milliards d'euros.\n\nII. ― La garantie de l'Etat mentionnée au I peut faire l'objet d'une rémunération.\n\nIII. ― La garantie de l'Etat mentionnée au I ne peut pas être octroyée après le 30 juin 2013.\n\nIV. ― Lorsqu'il octroie la garantie de l'Etat en application du présent article, le ministre chargé de l'économie informe les commissions de l'Assemblée nationale et du Sénat chargées des finances. Il transmet chaque semestre aux commissions un état récapitulatif des interventions mises en œuvre par le fonds mentionné au I.",
+      "valid_from": "2011-10-18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

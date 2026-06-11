@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le privilège accordé au bailleur d'un fonds rural par l'article 2332 du code civil ne peut être exercé, même quand le bail a acquis date certaine, que pour les fermages des deux dernières années échues, de l'année courante et d'une année, à partir de l'expiration de l'année courante, ainsi que pour tout ce qui concerne l'exécution du bail et pour les dommages-intérêts qui pourront lui être accordés par les tribunaux.La disposition contenue dans le paragraphe précédent ne s'applique pas aux baux ayant acquis date certaine avant la promulgation de la présente loi."
+      "content": "Le privilège accordé au bailleur d'un fonds rural par l'article 2332 du code civil ne peut être exercé, même quand le bail a acquis date certaine, que pour les fermages des deux dernières années échues, de l'année courante et d'une année, à partir de l'expiration de l'année courante, ainsi que pour tout ce qui concerne l'exécution du bail et pour les dommages-intérêts qui pourront lui être accordés par les tribunaux.La disposition contenue dans le paragraphe précédent ne s'applique pas aux baux ayant acquis date certaine avant la promulgation de la présente loi.",
+      "valid_from": "2006-03-24"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions de l'article 2 ne préjudicieront pas aux droits des intéressés dans le cas où l'indemnité aurait fait l'objet d'une cession éventuelle à tiers, par actes ayant date certaine au jour ou la présente loi sera exécutoire, à la condition, toutefois, que le transport, s'il n'a pas été notifié antérieurement, en conformité de l'article 1690 du code civil, le soit au plus tard dans le mois qui suivra.La présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l'Etat."
+      "content": "Les dispositions de l'article 2 ne préjudicieront pas aux droits des intéressés dans le cas où l'indemnité aurait fait l'objet d'une cession éventuelle à tiers, par actes ayant date certaine au jour ou la présente loi sera exécutoire, à la condition, toutefois, que le transport, s'il n'a pas été notifié antérieurement, en conformité de l'article 1690 du code civil, le soit au plus tard dans le mois qui suivra.La présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l'Etat.",
+      "valid_from": "1889-02-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

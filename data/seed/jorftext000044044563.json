@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le livre VI du code de commerce est modifié conformément aux articles 2 à 70."
+      "content": "Le livre VI du code de commerce est modifié conformément aux articles 2 à 70.",
+      "valid_from": "2021-09-17"
     },
     {
       "provision_ref": "art65",
       "section": "65",
       "title": "Article 65",
-      "content": "A la dernière phrase du premier alinéa de l'article L. 651-2, le mot : « société » est remplacé par les mots : « personne morale »."
+      "content": "A la dernière phrase du premier alinéa de l'article L. 651-2, le mot : « société » est remplacé par les mots : « personne morale ».",
+      "valid_from": "2021-09-17"
     },
     {
       "provision_ref": "art71",
       "section": "71",
       "title": "Article 71",
-      "content": "Dans toutes les dispositions législatives et réglementaires en vigueur, la référence aux articles du code de commerce qui font l'objet d'une nouvelle numérotation par la présente ordonnance s'entend des références aux nouveaux numéros résultant de celle-ci."
+      "content": "Dans toutes les dispositions législatives et réglementaires en vigueur, la référence aux articles du code de commerce qui font l'objet d'une nouvelle numérotation par la présente ordonnance s'entend des références aux nouveaux numéros résultant de celle-ci.",
+      "valid_from": "2021-09-17"
     },
     {
       "provision_ref": "art72",
       "section": "72",
       "title": "Article 72",
-      "content": "I.-La présente ordonnance est applicable à Wallis-et-Futuna.II.-Pour l'application de la présente ordonnance à Wallis-et-Futuna, le comité social et économique est remplacé par l'institution représentative des salariés localement compétente.III.-A modifié les dispositions suivantes :\n\n-Code de commerce"
+      "content": "I.-La présente ordonnance est applicable à Wallis-et-Futuna.II.-Pour l'application de la présente ordonnance à Wallis-et-Futuna, le comité social et économique est remplacé par l'institution représentative des salariés localement compétente.III.-A modifié les dispositions suivantes :\n\n-Code de commerce",
+      "valid_from": "2021-09-17"
     },
     {
       "provision_ref": "art73",
       "section": "73",
       "title": "Article 73",
-      "content": "I. - Les dispositions de la présente ordonnance entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.II. - Par dérogation à la date d'entrée en vigueur prévue au I, l'article 27 entre en vigueur le 1er janvier 2022 et la référence faite à l'article L. 624-21 du code de commerce se lira jusqu'à cette date comme faite à l'article 2332-4 du code civil.III. - En cas de modification du plan de sauvegarde ou du plan de redressement arrêté dans une procédure ouverte avant le 22 mai 2020, les dispositions de l'article L. 626-26 du code de commerce, dans sa rédaction résultant de l'article 36 de la présente ordonnance, sont applicables sans que le privilège prévu par ces dispositions n'affecte les droits des créanciers mentionnés aux 9° à 11° de l'article L. 643-8 du code de commerce, dans sa rédaction résultant de l'article 62 de la présente ordonnance.IV. - Il est mis fin à compter du 1er octobre 2021, pour les procédures non encore ouvertes à cette date, à l'application des dispositions de l'article 3, du IV de l'article 5 et de l'article 6 de l'ordonnance du 20 mai 2020 susvisée, prolongées par l'article 124 de la loi du 7 décembre 2020 susvisée."
+      "content": "I. - Les dispositions de la présente ordonnance entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.II. - Par dérogation à la date d'entrée en vigueur prévue au I, l'article 27 entre en vigueur le 1er janvier 2022 et la référence faite à l'article L. 624-21 du code de commerce se lira jusqu'à cette date comme faite à l'article 2332-4 du code civil.III. - En cas de modification du plan de sauvegarde ou du plan de redressement arrêté dans une procédure ouverte avant le 22 mai 2020, les dispositions de l'article L. 626-26 du code de commerce, dans sa rédaction résultant de l'article 36 de la présente ordonnance, sont applicables sans que le privilège prévu par ces dispositions n'affecte les droits des créanciers mentionnés aux 9° à 11° de l'article L. 643-8 du code de commerce, dans sa rédaction résultant de l'article 62 de la présente ordonnance.IV. - Il est mis fin à compter du 1er octobre 2021, pour les procédures non encore ouvertes à cette date, à l'application des dispositions de l'article 3, du IV de l'article 5 et de l'article 6 de l'ordonnance du 20 mai 2020 susvisée, prolongées par l'article 124 de la loi du 7 décembre 2020 susvisée.",
+      "valid_from": "2021-09-17"
     },
     {
       "provision_ref": "art74",
       "section": "74",
       "title": "Article 74",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance, le ministre des outre-mer et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance, le ministre des outre-mer et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-09-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

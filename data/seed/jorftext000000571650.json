@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Il est institué une journée nationale à la mémoire des victimes des crimes racistes et antisémites de l'Etat français et d'hommage aux \" Justes \" de France qui ont recueilli, protégé ou défendu, au péril de leur propre vie et sans aucune contrepartie, une ou plusieurs personnes menacées de génocide.Cette journée est fixée au 16 juillet, date anniversaire de la rafle du Vélodrome d'hiver à Paris, si ce jour est un dimanche ; sinon, elle est reportée au dimanche suivant.Chaque année, à cette date, des cérémonies officielles sont organisées aux niveaux national et départemental, dans des conditions fixées par décret en Conseil d'Etat."
+      "content": "Il est institué une journée nationale à la mémoire des victimes des crimes racistes et antisémites de l'Etat français et d'hommage aux \" Justes \" de France qui ont recueilli, protégé ou défendu, au péril de leur propre vie et sans aucune contrepartie, une ou plusieurs personnes menacées de génocide.Cette journée est fixée au 16 juillet, date anniversaire de la rafle du Vélodrome d'hiver à Paris, si ce jour est un dimanche ; sinon, elle est reportée au dimanche suivant.Chaque année, à cette date, des cérémonies officielles sont organisées aux niveaux national et départemental, dans des conditions fixées par décret en Conseil d'Etat.",
+      "valid_from": "2000-07-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

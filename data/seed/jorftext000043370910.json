@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions du chapitre Ier du titre III du livre II de la deuxième partie du code des transports, dans leur rédaction issue de la présente ordonnance, entrent en vigueur le 1er janvier 2022, à l'exception de celles de son article L. 2231-1.Les articles L. 2231-4, L. 2231-5, L. 2231-6 et L. 2231-7 du code des transports, dans leur rédaction issue de la présente ordonnance, ne sont pas applicables aux projets de construction, d'aménagement, d'installation, de terrassement, d'excavation, de fondation, de dépôt, de quelque matière que ce soit, ou d'installation de système de rétention d'eau, qui, antérieurement au 1er janvier 2022, ont été entrepris de façon certaine dans le respect de la législation applicable, au regard de l'ensemble des circonstances de droit et de fait, telles que notamment les actes administratifs intervenus, les contrats conclus et les travaux engagés."
+      "content": "Les dispositions du chapitre Ier du titre III du livre II de la deuxième partie du code des transports, dans leur rédaction issue de la présente ordonnance, entrent en vigueur le 1er janvier 2022, à l'exception de celles de son article L. 2231-1.Les articles L. 2231-4, L. 2231-5, L. 2231-6 et L. 2231-7 du code des transports, dans leur rédaction issue de la présente ordonnance, ne sont pas applicables aux projets de construction, d'aménagement, d'installation, de terrassement, d'excavation, de fondation, de dépôt, de quelque matière que ce soit, ou d'installation de système de rétention d'eau, qui, antérieurement au 1er janvier 2022, ont été entrepris de façon certaine dans le respect de la législation applicable, au regard de l'ensemble des circonstances de droit et de fait, telles que notamment les actes administratifs intervenus, les contrats conclus et les travaux engagés.",
+      "valid_from": "2021-04-16"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, la ministre de la transition écologique et le ministre délégué auprès de la ministre de la transition écologique, chargé des transports, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la transition écologique et le ministre délégué auprès de la ministre de la transition écologique, chargé des transports, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-04-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T13:54:27.420Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }
