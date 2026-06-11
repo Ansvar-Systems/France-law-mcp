@@ -12,19 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I.-A.-A titre expérimental, pour une durée de cinq ans à compter de la promulgation de la présente loi, un dispositif d'encadrement des loyers peut être mis en place dans les collectivités régies par l'article 73 de la Constitution dans les conditions prévues à l'article 140 de la loi n° 2018-1021 du 23 novembre 2018 portant évolution du logement, de l'aménagement et du numérique.B.-Par dérogation au deuxième alinéa du I du même article 140, dans ces collectivités, la proposition du demandeur est transmise dans un délai de deux ans à compter de la promulgation de la présente loi.C.-Par dérogation au cinquième alinéa du B du III dudit article 140, aucun complément de loyer ne peut être appliqué lorsque le logement n'est pas décent conformément à l'article 6 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986.II.-Au plus tard six mois avant son terme, le Gouvernement remet au Parlement un rapport d'évaluation de l'expérimentation prévue au I du présent article."
+      "content": "I.-A.-A titre expérimental, pour une durée de cinq ans à compter de la promulgation de la présente loi, un dispositif d'encadrement des loyers peut être mis en place dans les collectivités régies par l'article 73 de la Constitution dans les conditions prévues à l'article 140 de la loi n° 2018-1021 du 23 novembre 2018 portant évolution du logement, de l'aménagement et du numérique.B.-Par dérogation au deuxième alinéa du I du même article 140, dans ces collectivités, la proposition du demandeur est transmise dans un délai de deux ans à compter de la promulgation de la présente loi.C.-Par dérogation au cinquième alinéa du B du III dudit article 140, aucun complément de loyer ne peut être appliqué lorsque le logement n'est pas décent conformément à l'article 6 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986.II.-Au plus tard six mois avant son terme, le Gouvernement remet au Parlement un rapport d'évaluation de l'expérimentation prévue au I du présent article.",
+      "valid_from": "2025-06-15"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Dans les collectivités relevant de l'article 73 de la Constitution et à Saint-Martin, les modalités de mise en œuvre de l'exemption au règlement (UE) 2024/3110 du Parlement et du Conseil du 27 novembre 2024 établissant des règles harmonisées de commercialisation pour les produits de construction et abrogeant le règlement (UE) n° 305/2011 sont précisées par décret.Le représentant de l'Etat dans le bassin géographique met en place des « comités référentiels construction » compétents sur des zones géographiques précisées par le décret mentionné au premier alinéa afin de contribuer à la mise en œuvre de cette exemption et à la définition de référentiels de construction, en tenant compte des besoins de la production locale ainsi que des spécificités et des contraintes locales.Les règles d'organisation, de fonctionnement et de contrôle de ces comités sont fixées par décret.Les comités sont éligibles aux financements publics et peuvent mener des travaux avec les instances nationales ou internationales ainsi qu'avec des collectivités françaises ultramarines ne relevant pas de l'article 349 du traité sur le fonctionnement de l'Union européenne."
-    },
-    {
-      "provision_ref": "art3",
-      "section": "3",
-      "title": "Article 3",
-      "content": "Les conséquences financières résultant pour l'Etat de la présente loi sont compensées, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Idu livre III du code des impositions sur les biens et services."
+      "content": "Dans les collectivités relevant de l'article 73 de la Constitution et à Saint-Martin, les modalités de mise en œuvre de l'exemption au règlement (UE) 2024/3110 du Parlement et du Conseil du 27 novembre 2024 établissant des règles harmonisées de commercialisation pour les produits de construction et abrogeant le règlement (UE) n° 305/2011 sont précisées par décret.Le représentant de l'Etat dans le bassin géographique met en place des « comités référentiels construction » compétents sur des zones géographiques précisées par le décret mentionné au premier alinéa afin de contribuer à la mise en œuvre de cette exemption et à la définition de référentiels de construction, en tenant compte des besoins de la production locale ainsi que des spécificités et des contraintes locales.Les règles d'organisation, de fonctionnement et de contrôle de ces comités sont fixées par décret.Les comités sont éligibles aux financements publics et peuvent mener des travaux avec les instances nationales ou internationales ainsi qu'avec des collectivités françaises ultramarines ne relevant pas de l'article 349 du traité sur le fonctionnement de l'Union européenne.",
+      "valid_from": "2025-06-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

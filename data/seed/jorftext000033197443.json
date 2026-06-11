@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - Le V de l'article 67 de la loi du 6 décembre 2013 susvisée est applicable en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et aux Terres australes et antarctiques françaises.\n\nI. - A modifié les dispositions suivantes :\n\n- Loi du 17 décembre 1926"
+      "content": "I. - Le V de l'article 67 de la loi du 6 décembre 2013 susvisée est applicable en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et aux Terres australes et antarctiques françaises.\n\nI. - A modifié les dispositions suivantes :\n\n- Loi du 17 décembre 1926",
+      "valid_from": "2016-10-08"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Premier ministre, la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-10-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

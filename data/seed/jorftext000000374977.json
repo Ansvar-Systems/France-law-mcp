@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est ratifiée, telle que modifiée par les dispositions de la présente loi, l'ordonnance n° 96-1122 du 20 décembre 1996 relative à l'amélioration de la santé publique à Mayotte prise en application de la loi n° 96-1075 du 11 décembre 1996 d'habilitation relative à l'extension et à l'adaptation à la collectivité territoriale de Mayotte des dispositions législatives du titre Ier du livre VII du code de la santé publique, au statut du personnel et au financement de l'établissement public de santé territoriale de Mayotte ainsi qu'à la réforme du statut de la caisse de prévoyance sociale."
+      "content": "Est ratifiée, telle que modifiée par les dispositions de la présente loi, l'ordonnance n° 96-1122 du 20 décembre 1996 relative à l'amélioration de la santé publique à Mayotte prise en application de la loi n° 96-1075 du 11 décembre 1996 d'habilitation relative à l'extension et à l'adaptation à la collectivité territoriale de Mayotte des dispositions législatives du titre Ier du livre VII du code de la santé publique, au statut du personnel et au financement de l'établissement public de santé territoriale de Mayotte ainsi qu'à la réforme du statut de la caisse de prévoyance sociale.",
+      "valid_from": "1998-03-10"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les articles 1er à 12 et 31 de l'ordonnance n° 96-1122 du 20 décembre 1996 précitée ainsi que les dispositions ou adaptations qu'ils introduisent dans le code de la santé publique sont abrogés."
+      "content": "Les articles 1er à 12 et 31 de l'ordonnance n° 96-1122 du 20 décembre 1996 précitée ainsi que les dispositions ou adaptations qu'ils introduisent dans le code de la santé publique sont abrogés.",
+      "valid_from": "1998-03-10"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le Gouvernement transmettra au Parlement, avant le 30 septembre 1999, un rapport présentant les données de la situation sanitaire et sociale à Mayotte et rendant compte de la mise en oeuvre des dispositions relatives à la sécurité sociale et à la santé publique qui y sont applicables."
+      "content": "Le Gouvernement transmettra au Parlement, avant le 30 septembre 1999, un rapport présentant les données de la situation sanitaire et sociale à Mayotte et rendant compte de la mise en oeuvre des dispositions relatives à la sécurité sociale et à la santé publique qui y sont applicables.",
+      "valid_from": "1998-03-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

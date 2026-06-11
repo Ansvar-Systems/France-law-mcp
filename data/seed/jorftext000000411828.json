@@ -12,19 +12,28 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Gouvernement présentera au Parlement, deux ans après l'entrée en vigueur de la présente loi, un rapport sur son application et ses incidences financières."
+      "content": "Le Gouvernement présentera au Parlement, deux ans après l'entrée en vigueur de la présente loi, un rapport sur son application et ses incidences financières.",
+      "valid_from": "2003-06-19"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Hormis les articles suivant le présent article, la présente loi entre en vigueur le premier jour du deuxième mois suivant sa publication au Journal officiel.Jusqu'à l'expiration d'un délai d'un an à compter de la date d'entrée en vigueur de la présente loi, le taux de la rémunération prévue au troisième alinéa de l'article L. 133-3 du code de la propriété intellectuelle est fixé à 3 %. Durant ce délai, le prix effectif de vente mentionné au premier alinéa de l'article 3 de la loi n° 81-766 du 10 août 1981 relative au prix du livre peut être compris entre 88 % et 100 % du prix de vente au public fixé par l'éditeur ou l'importateur.Les dispositions prévues au troisième alinéa de l'article L. 133-3 du code de la propriété intellectuelle et aux trois premiers alinéas de l'article 3 de la loi n° 81-766 du 10 août 1981 précitée ne s'appliquent pas aux marchés publics dont l'avis d'appel public à la concurrence a été envoyé à la publication avant la date d'entrée en vigueur de la présente loi.Les marchés publics en cours d'exécution à la date d'entrée en vigueur de la présente loi et les marchés publics dont l'avis d'appel public à la concurrence a été envoyé à la publication avant cette même date doivent être résiliés au plus tard un an après l'entrée en vigueur de la présente loi dès lors qu'ils comportent des dispositions non conformes aux trois premiers alinéas de l'article 3 de la loi n° 81-766 du 10 août 1981 précitée.Un décret en Conseil d'Etat fixe en tant que de besoin les conditions d'application de la présente loi."
+      "content": "Hormis les articles suivant le présent article, la présente loi entre en vigueur le premier jour du deuxième mois suivant sa publication au Journal officiel.Jusqu'à l'expiration d'un délai d'un an à compter de la date d'entrée en vigueur de la présente loi, le taux de la rémunération prévue au troisième alinéa de l'article L. 133-3 du code de la propriété intellectuelle est fixé à 3 %. Durant ce délai, le prix effectif de vente mentionné au premier alinéa de l'article 3 de la loi n° 81-766 du 10 août 1981 relative au prix du livre peut être compris entre 88 % et 100 % du prix de vente au public fixé par l'éditeur ou l'importateur.Les dispositions prévues au troisième alinéa de l'article L. 133-3 du code de la propriété intellectuelle et aux trois premiers alinéas de l'article 3 de la loi n° 81-766 du 10 août 1981 précitée ne s'appliquent pas aux marchés publics dont l'avis d'appel public à la concurrence a été envoyé à la publication avant la date d'entrée en vigueur de la présente loi.Les marchés publics en cours d'exécution à la date d'entrée en vigueur de la présente loi et les marchés publics dont l'avis d'appel public à la concurrence a été envoyé à la publication avant cette même date doivent être résiliés au plus tard un an après l'entrée en vigueur de la présente loi dès lors qu'ils comportent des dispositions non conformes aux trois premiers alinéas de l'article 3 de la loi n° 81-766 du 10 août 1981 précitée.Un décret en Conseil d'Etat fixe en tant que de besoin les conditions d'application de la présente loi.",
+      "valid_from": "2003-06-19"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "A compter de la création de l'établissement public à caractère administratif dénommé \"Ecole nationale supérieure de la photographie\", les personnels employés à la date de promulgation de la présente loi pour une durée indéterminée par l'association \"Ecole nationale de la photographie\" pourront, à titre individuel, sur leur demande et dans la limite des emplois budgétaires inscrits sur le budget de l'établissement, bénéficier d'un contrat de droit public à durée indéterminée, en conservant leur régime de retraite complémentaire et de prévoyance. Ils continueront à recevoir une rémunération nette au moins égale à leur rémunération globale antérieure nette."
+      "content": "A compter de la création de l'établissement public à caractère administratif dénommé \"Ecole nationale supérieure de la photographie\", les personnels employés à la date de promulgation de la présente loi pour une durée indéterminée par l'association \"Ecole nationale de la photographie\" pourront, à titre individuel, sur leur demande et dans la limite des emplois budgétaires inscrits sur le budget de l'établissement, bénéficier d'un contrat de droit public à durée indéterminée, en conservant leur régime de retraite complémentaire et de prévoyance. Ils continueront à recevoir une rémunération nette au moins égale à leur rémunération globale antérieure nette.",
+      "valid_from": "2003-06-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Il est créé un titre d'oenologue réservé aux techniciens titulaires du diplôme national d'oenologue et qualifiés dans les opérations d'élaboration et de conservation des vins."
+      "content": "Il est créé un titre d'oenologue réservé aux techniciens titulaires du diplôme national d'oenologue et qualifiés dans les opérations d'élaboration et de conservation des vins.",
+      "valid_from": "1955-03-20"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le diplôme national d'oenologue est délivré aux candidats ayant satisfait aux épreuves d'un examen subi soit devant les facultés des universités, soit devant les établissements d'enseignement supérieur relevant du ministère de l'agriculture. Les modalités des épreuves et les programmes d'enseignement sur lesquels portent ces épreuves sont fixés par arrêté conjoint du ministre de l'agriculture et du ministre de l'éducation nationale."
+      "content": "Le diplôme national d'oenologue est délivré aux candidats ayant satisfait aux épreuves d'un examen subi soit devant les facultés des universités, soit devant les établissements d'enseignement supérieur relevant du ministère de l'agriculture. Les modalités des épreuves et les programmes d'enseignement sur lesquels portent ces épreuves sont fixés par arrêté conjoint du ministre de l'agriculture et du ministre de l'éducation nationale.",
+      "valid_from": "2019-12-20"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "A titre transitoire, et pendant une période de cinq ans, à dater de la promulgation de la présente loi, le titre d'oenologue est attribué définitivement à tous les titulaires d'un diplôme d'ingénieur reconnu par la commission des titres d'ingénieurs, instituée par l'article 2 de la loi du 10 juillet 1934, d'une licence des sciences ou diplôme de pharmacien et justifiant soit d'un stage, soit d'un exercice honorable de la profession, pendant une durée de trois ans au moins.Pendant la période, le titre d'oenologue peut être conféré aux personnes ne possédant pas le diplôme prévu à l'article 1er, mais dont les titres ou la culture scientifique ou technique ont été jugés suffisants par la commission instituée par l'article 3 et qui, en outre, pourront justifier d'au moins cinq années de pratique.Sont dispensés de la condition d'avoir exercé la profession d'oenologue, les titulaires de diplômes spécialisés reconnus par la commission instituée à l'article 3 comme attestant de connaissances suffisantes en oenologie et délivrés antérieurement à la publication de la présente loi."
+      "content": "A titre transitoire, et pendant une période de cinq ans, à dater de la promulgation de la présente loi, le titre d'oenologue est attribué définitivement à tous les titulaires d'un diplôme d'ingénieur reconnu par la commission des titres d'ingénieurs, instituée par l'article 2 de la loi du 10 juillet 1934, d'une licence des sciences ou diplôme de pharmacien et justifiant soit d'un stage, soit d'un exercice honorable de la profession, pendant une durée de trois ans au moins.Pendant la période, le titre d'oenologue peut être conféré aux personnes ne possédant pas le diplôme prévu à l'article 1er, mais dont les titres ou la culture scientifique ou technique ont été jugés suffisants par la commission instituée par l'article 3 et qui, en outre, pourront justifier d'au moins cinq années de pratique.Sont dispensés de la condition d'avoir exercé la profession d'oenologue, les titulaires de diplômes spécialisés reconnus par la commission instituée à l'article 3 comme attestant de connaissances suffisantes en oenologie et délivrés antérieurement à la publication de la présente loi.",
+      "valid_from": "1955-03-20"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "L'usurpation du titre d'oenologue, même accompagné de quelque qualification que ce soit, est punie des peines prévues à l'article 259 du code pénal."
+      "content": "L'usurpation du titre d'oenologue, même accompagné de quelque qualification que ce soit, est punie des peines prévues à l'article 259 du code pénal.",
+      "valid_from": "1955-03-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

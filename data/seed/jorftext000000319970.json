@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les pensions de vieillesse dues aux assurés du régime général au titre des articles L. 331 et L. 332 du code de la sécurité sociale ainsi que les pensions de vieillesse des salariés des assurances sociales agricoles sont majorées forfaitairement de :6 % quand elles ont pris effet avant le 1er janvier 1972 ;4 % quand elles ont pris effet entre le 1er janvier et le 31 décembre 1972 ;5,5 % quand elles ont pris effet entre le 1er janvier et le 31 décembre 1973 et ont été liquidées sur la base d'une durée d'assurance de trente-quatre années ;1,5 % quand elles ont pris effet entre le 1er janvier et le 31 décembre 1974 et ont été liquidées sur la base d'une durée d'assurance de trente-six années."
+      "content": "Les pensions de vieillesse dues aux assurés du régime général au titre des articles L. 331 et L. 332 du code de la sécurité sociale ainsi que les pensions de vieillesse des salariés des assurances sociales agricoles sont majorées forfaitairement de :6 % quand elles ont pris effet avant le 1er janvier 1972 ;4 % quand elles ont pris effet entre le 1er janvier et le 31 décembre 1972 ;5,5 % quand elles ont pris effet entre le 1er janvier et le 31 décembre 1973 et ont été liquidées sur la base d'une durée d'assurance de trente-quatre années ;1,5 % quand elles ont pris effet entre le 1er janvier et le 31 décembre 1974 et ont été liquidées sur la base d'une durée d'assurance de trente-six années.",
+      "valid_from": "1982-12-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les fractions de pensions de vieillesse qui incombent au régime général et au régime des salariés des assurances sociales agricoles sont majorées forfaitairement de :6 % quand elles ont pris effet avant le 1er janvier 1972 ;4 % quand elles ont pris effet entre le 1er janvier et le 31 décembre 1972 ;5,5 % quand elles ont pris effet entre le 1er janvier et le 31 décembre 1973 et lorsque la durée totale d'assurance retenue pour leur calcul, en vertu de la réglementation ou d'une convention internationale, est au moins égale à trente-quatre années ;1,5 % quand elles ont pris effet entre le 1er janvier et le 31 décembre 1974 et lorsque la durée totale d'assurance retenue pour leur calcul, en vertu de la réglementation ou d'une convention internationale, est au moins égale à trente-six années.Ces deux dernières majorations forfaitaires ne sont accordées que dans la mesure où les règles de coordination n'avaient pas permis la prise en compte des années d'assurance accomplies au-delà de la trente-quatrième ou de la trente-sixième."
+      "content": "Les fractions de pensions de vieillesse qui incombent au régime général et au régime des salariés des assurances sociales agricoles sont majorées forfaitairement de :6 % quand elles ont pris effet avant le 1er janvier 1972 ;4 % quand elles ont pris effet entre le 1er janvier et le 31 décembre 1972 ;5,5 % quand elles ont pris effet entre le 1er janvier et le 31 décembre 1973 et lorsque la durée totale d'assurance retenue pour leur calcul, en vertu de la réglementation ou d'une convention internationale, est au moins égale à trente-quatre années ;1,5 % quand elles ont pris effet entre le 1er janvier et le 31 décembre 1974 et lorsque la durée totale d'assurance retenue pour leur calcul, en vertu de la réglementation ou d'une convention internationale, est au moins égale à trente-six années.Ces deux dernières majorations forfaitaires ne sont accordées que dans la mesure où les règles de coordination n'avaient pas permis la prise en compte des années d'assurance accomplies au-delà de la trente-quatrième ou de la trente-sixième.",
+      "valid_from": "1982-12-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Sont majorées forfaitairement de 4 % à compter du 1er décembre 1982, lorsqu'elles ont pris effet antérieurement à cette date :1° Les pensions de réversion qui incombent :a) Au régime général en application de l'article L. 351 du code de la sécurité sociale ;b) Au régime des assurances sociales agricoles ;c) Au régime des professions artisanales, industrielles et commerciales en application de l'article L. 663-1 du code de la sécurité sociale ;2° Les pensions d'invalidité ou de vieillesse de veuve ou de veuf, qui incombent :a) Au régime général en application des articles L. 323 et L. 329 du code de la sécurité sociale ;b) Au régime des assurances sociales agricoles.Cette majoration s'applique au montant de la pension calculée avant qu'elle n'ait été portée éventuellement au montant minimum des pensions de réversion prévu au deuxième alinéa de l'article L. 351 du code de la sécurité sociale."
+      "content": "Sont majorées forfaitairement de 4 % à compter du 1er décembre 1982, lorsqu'elles ont pris effet antérieurement à cette date :1° Les pensions de réversion qui incombent :a) Au régime général en application de l'article L. 351 du code de la sécurité sociale ;b) Au régime des assurances sociales agricoles ;c) Au régime des professions artisanales, industrielles et commerciales en application de l'article L. 663-1 du code de la sécurité sociale ;2° Les pensions d'invalidité ou de vieillesse de veuve ou de veuf, qui incombent :a) Au régime général en application des articles L. 323 et L. 329 du code de la sécurité sociale ;b) Au régime des assurances sociales agricoles.Cette majoration s'applique au montant de la pension calculée avant qu'elle n'ait été portée éventuellement au montant minimum des pensions de réversion prévu au deuxième alinéa de l'article L. 351 du code de la sécurité sociale.",
+      "valid_from": "1982-12-01"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "IV - Les dispositions des paragraphes II et III s'appliquent lorsque l'assuré a disparu de son domicile depuis plus d'un an, même si cette disparition est antérieure à l'entrée en vigueur de la présente loi."
+      "content": "IV - Les dispositions des paragraphes II et III s'appliquent lorsque l'assuré a disparu de son domicile depuis plus d'un an, même si cette disparition est antérieure à l'entrée en vigueur de la présente loi.",
+      "valid_from": "1987-07-31"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Les anciens fonctionnaires, militaires et magistrats de l'ordre judiciaire, ayant relevé du régime de retraite institué par les lois du 14 avril 1924 et du 20 septembre 1948, qui ont cessé leurs fonctions avant le 29 janvier 1950 après avoir accompli plus de cinq ans de service effectif au sens de l'article L. 5 du code des pensions civiles et militaires de retraite, sans avoir droit à pension à jouissance immédiate ou différée ou à solde de réforme, et qui n'ont demandé en temps utile ni le remboursement des retenues pour pensions effectuées sur leur traitement ou solde ni le rétablissement dans les droits qu'ils auraient pu acquérir au titre de l'assurance vieillesse du régime des assurances sociales, sont relevés de la forclusion qu'ils ont encourue au regard de ces droits. S'ils sont déjà titulaires d'une pension de vieillesse au titre de ce régime, ils peuvent en demander la révision.Les cotisations à reverser par le Trésor public au régime général pour assurer le rétablissement des intéressés dans les droits qu'ils auraient pu acquérir au titre de l'assurance vieillesse de ce régime sont revalorisées.Les dispositions du présent article ne sont pas applicables aux personnes ayant obtenu la validité des services visés au premier alinéa au titre d'un régime spécial d'assurance vieillesse."
+      "content": "Les anciens fonctionnaires, militaires et magistrats de l'ordre judiciaire, ayant relevé du régime de retraite institué par les lois du 14 avril 1924 et du 20 septembre 1948, qui ont cessé leurs fonctions avant le 29 janvier 1950 après avoir accompli plus de cinq ans de service effectif au sens de l'article L. 5 du code des pensions civiles et militaires de retraite, sans avoir droit à pension à jouissance immédiate ou différée ou à solde de réforme, et qui n'ont demandé en temps utile ni le remboursement des retenues pour pensions effectuées sur leur traitement ou solde ni le rétablissement dans les droits qu'ils auraient pu acquérir au titre de l'assurance vieillesse du régime des assurances sociales, sont relevés de la forclusion qu'ils ont encourue au regard de ces droits. S'ils sont déjà titulaires d'une pension de vieillesse au titre de ce régime, ils peuvent en demander la révision.Les cotisations à reverser par le Trésor public au régime général pour assurer le rétablissement des intéressés dans les droits qu'ils auraient pu acquérir au titre de l'assurance vieillesse de ce régime sont revalorisées.Les dispositions du présent article ne sont pas applicables aux personnes ayant obtenu la validité des services visés au premier alinéa au titre d'un régime spécial d'assurance vieillesse.",
+      "valid_from": "1982-12-01"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "Les dispositions des articles 6 et 10 de la présente loi sont applicables aux pensions prenant effet à compter du 1er décembre 1982.Les dispositions de la présente loi modifiant le code des pensions civiles et militaires de retraite et le code des pensions de retraite des marins sont applicables aux droits résultant de la radiation des cadres ou de décès, ouverts à compter de la date d'effet de la présente loi.Les dispositions des autres articles de la présente loi sont applicables à compter du 1er décembre 1982.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Les dispositions des articles 6 et 10 de la présente loi sont applicables aux pensions prenant effet à compter du 1er décembre 1982.Les dispositions de la présente loi modifiant le code des pensions civiles et militaires de retraite et le code des pensions de retraite des marins sont applicables aux droits résultant de la radiation des cadres ou de décès, ouverts à compter de la date d'effet de la présente loi.Les dispositions des autres articles de la présente loi sont applicables à compter du 1er décembre 1982.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "1982-12-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

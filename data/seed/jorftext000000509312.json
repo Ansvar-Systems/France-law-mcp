@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont amnistiées les infractions commises avant le 14 juillet 1988 à l'occasion d'événements d'ordre politique ou social en relation avec une entreprise tendant à soustraire à l'autorité de la République le département de la Guadeloupe ou celui de la Martinique, à condition que ces infractions n'aient pas entraîné la mort ou des infirmités permanentes au sens de l'article 310 du code pénal ou qu'elles ne soient pas constituées, sur la personne d'agents de la force publique, dans l'exercice ou à l'occasion de l'exercice de leurs fonctions, par des coups et blessures volontaires ou des tentatives d'homicide volontaire."
+      "content": "Sont amnistiées les infractions commises avant le 14 juillet 1988 à l'occasion d'événements d'ordre politique ou social en relation avec une entreprise tendant à soustraire à l'autorité de la République le département de la Guadeloupe ou celui de la Martinique, à condition que ces infractions n'aient pas entraîné la mort ou des infirmités permanentes au sens de l'article 310 du code pénal ou qu'elles ne soient pas constituées, sur la personne d'agents de la force publique, dans l'exercice ou à l'occasion de l'exercice de leurs fonctions, par des coups et blessures volontaires ou des tentatives d'homicide volontaire.",
+      "valid_from": "1989-07-12"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Sont amnistiées, sous la condition prévue à l'article 1er, les infractions commises avant le 14 juillet 1988 à l'occasion d'événements d'ordre politique et social en relation avec une entreprise tendant à modifier le statut de la Corse."
+      "content": "Sont amnistiées, sous la condition prévue à l'article 1er, les infractions commises avant le 14 juillet 1988 à l'occasion d'événements d'ordre politique et social en relation avec une entreprise tendant à modifier le statut de la Corse.",
+      "valid_from": "1989-07-12"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 89-258 DC du 8 juillet 1989.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 89-258 DC du 8 juillet 1989.]",
+      "valid_from": "1989-07-12"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Sont amnistiées, lorsque leur auteur relève des dispositions du chapitre IV du titre III du code du service national, les infractions prévues :\n\n-par les articles 397 du code de justice militaire et L. 124 et L. 146 du code du service national, lorsque la date fixée par la convocation prévue à l'article L. 122 de ce dernier code est antérieure au 22 mai 1988 ;\n\n-par les articles 398 et 399 du code de justice militaire et L. 145 et L. 147 du code du service national, lorsque le point de départ des délais fixés, selon le cas, à l'article 398 du code de justice militaire et à l'article L. 147 du code du service national est antérieur au 22 mai 1988."
+      "content": "Sont amnistiées, lorsque leur auteur relève des dispositions du chapitre IV du titre III du code du service national, les infractions prévues :\n\n-par les articles 397 du code de justice militaire et L. 124 et L. 146 du code du service national, lorsque la date fixée par la convocation prévue à l'article L. 122 de ce dernier code est antérieure au 22 mai 1988 ;\n\n-par les articles 398 et 399 du code de justice militaire et L. 145 et L. 147 du code du service national, lorsque le point de départ des délais fixés, selon le cas, à l'article 398 du code de justice militaire et à l'article L. 147 du code du service national est antérieur au 22 mai 1988.",
+      "valid_from": "1989-07-12"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les effets de l'amnistie prévue par la présente loi sont ceux que définissent les dispositions du chapitre IV de la loi n° 88-828 du 20 juillet 1988 portant amnistie.Les contestations relatives au bénéfice de l'amnistie sont, si elles concernent des condamnations pénales définitives, soumises aux règles de compétence et de procédure prévues par l'article 778 du code de procédure pénale.En l'absence de condamnation définitive, les contestations sont soumises à la juridiction compétente pour statuer sur la poursuite.L'amnistie résultant des dispositions de la présente loi est constatée, pour l'application de l'article 769 du code de procédure pénale, par le ministère public près la juridiction ayant prononcé la condamnation, agissant soit d'office, soit sur requête du condamné ou de ses ayants droit.La décision du ministère public peut être contestée dans les conditions prévues aux deuxième et troisième alinéas du présent article."
+      "content": "Les effets de l'amnistie prévue par la présente loi sont ceux que définissent les dispositions du chapitre IV de la loi n° 88-828 du 20 juillet 1988 portant amnistie.Les contestations relatives au bénéfice de l'amnistie sont, si elles concernent des condamnations pénales définitives, soumises aux règles de compétence et de procédure prévues par l'article 778 du code de procédure pénale.En l'absence de condamnation définitive, les contestations sont soumises à la juridiction compétente pour statuer sur la poursuite.L'amnistie résultant des dispositions de la présente loi est constatée, pour l'application de l'article 769 du code de procédure pénale, par le ministère public près la juridiction ayant prononcé la condamnation, agissant soit d'office, soit sur requête du condamné ou de ses ayants droit.La décision du ministère public peut être contestée dans les conditions prévues aux deuxième et troisième alinéas du présent article.",
+      "valid_from": "1989-07-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

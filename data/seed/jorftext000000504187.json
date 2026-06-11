@@ -12,49 +12,63 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les fonctions de magistrats du parquet et de l'instruction auprès des juridictions des forces armées sont exercées, sous réserve des dispositions des articles 47 et 57 du Code de justice militaire, par des magistrats du corps judiciaire placés, sur leur demande, en position de détachement auprès du ministre chargé de la défense.Des magistrats du corps judiciaire peuvent, dans les mêmes conditions, être placés en position de détachement pour exercer des fonctions à l'administration centrale de la justice militaire."
+      "content": "Les fonctions de magistrats du parquet et de l'instruction auprès des juridictions des forces armées sont exercées, sous réserve des dispositions des articles 47 et 57 du Code de justice militaire, par des magistrats du corps judiciaire placés, sur leur demande, en position de détachement auprès du ministre chargé de la défense.Des magistrats du corps judiciaire peuvent, dans les mêmes conditions, être placés en position de détachement pour exercer des fonctions à l'administration centrale de la justice militaire.",
+      "valid_from": "1982-07-22"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le détachement des magistrats visés à l'article 1er est prononcé dans les formes prévues à l'article 72 de l'ordonnance n° 58-1270 du 22 décembre 1958 pour une durée qui ne peut excéder cinq année. Il est renouvelable.Au cours de la période de détachement, le magistrat détaché peut être remis par le ministre chargé de la défense à la disposition du garde des Sceaux, ministre de la justice, après accord de celui-ci."
+      "content": "Le détachement des magistrats visés à l'article 1er est prononcé dans les formes prévues à l'article 72 de l'ordonnance n° 58-1270 du 22 décembre 1958 pour une durée qui ne peut excéder cinq année. Il est renouvelable.Au cours de la période de détachement, le magistrat détaché peut être remis par le ministre chargé de la défense à la disposition du garde des Sceaux, ministre de la justice, après accord de celui-ci.",
+      "valid_from": "1967-11-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le régime disciplinaire de leur statut d'origine demeure seul applicable aux magistrats détachés. Les faits de nature à entraîner des poursuites disciplinaires sont portés à la connaissance du garde des Sceaux, ministre de la justice, par le ministre chargé de la défense."
+      "content": "Le régime disciplinaire de leur statut d'origine demeure seul applicable aux magistrats détachés. Les faits de nature à entraîner des poursuites disciplinaires sont portés à la connaissance du garde des Sceaux, ministre de la justice, par le ministre chargé de la défense.",
+      "valid_from": "1967-11-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Sous les réserves résultant de la nature de leurs fonctions et sans qu'il puisse être notamment porté atteinte à l'indépendance des présidents et des juges d'instruction, les magistrats détachés sont soumis aux obligations de la discipline générale des armées.En dehors de toute action disciplinaire, le ministre chargé de la défense peut leur adresser, sous les mêmes réserves, un avertissement sans inscription au dossier."
+      "content": "Sous les réserves résultant de la nature de leurs fonctions et sans qu'il puisse être notamment porté atteinte à l'indépendance des présidents et des juges d'instruction, les magistrats détachés sont soumis aux obligations de la discipline générale des armées.En dehors de toute action disciplinaire, le ministre chargé de la défense peut leur adresser, sous les mêmes réserves, un avertissement sans inscription au dossier.",
+      "valid_from": "1967-11-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les magistrats détachés ne peuvent être traduits devant une juridiction militaire en temps de paix que sur l'ordre du ministre, après avis du garde des Sceaux."
+      "content": "Les magistrats détachés ne peuvent être traduits devant une juridiction militaire en temps de paix que sur l'ordre du ministre, après avis du garde des Sceaux.",
+      "valid_from": "1967-11-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "En temps de guerre ou dans le cas de mobilisation, les magistrats détachés qui se trouvent en fonction dans les services de la justice militaire sont, pour les besoins de ces services, mobilisés en qualité d'assimilés spéciaux du service de la justice militaire.Ils conservent le grade qui leur a été attribué en application du décret en Conseil d'Etat prévu à l'article 8 ci-après."
+      "content": "En temps de guerre ou dans le cas de mobilisation, les magistrats détachés qui se trouvent en fonction dans les services de la justice militaire sont, pour les besoins de ces services, mobilisés en qualité d'assimilés spéciaux du service de la justice militaire.Ils conservent le grade qui leur a été attribué en application du décret en Conseil d'Etat prévu à l'article 8 ci-après.",
+      "valid_from": "1980-07-09"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "A titre provisoire, les magistrats militaires appartenant au corps institué par la loi n° 56-1115 du 9 novembre 1956 exerceront jusqu'à extinction du corps les fonctions prévues à l'article 1er ci-dessus."
+      "content": "A titre provisoire, les magistrats militaires appartenant au corps institué par la loi n° 56-1115 du 9 novembre 1956 exerceront jusqu'à extinction du corps les fonctions prévues à l'article 1er ci-dessus.",
+      "valid_from": "1967-11-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Un décret en Conseil d'Etat fixera les modalités d'application et, notamment, les correspondances de grade entre les magistrats détachés et les autres personnels militaires ou assimilés ainsi que la date de mise en vigueur de la présente loi."
+      "content": "Un décret en Conseil d'Etat fixera les modalités d'application et, notamment, les correspondances de grade entre les magistrats détachés et les autres personnels militaires ou assimilés ainsi que la date de mise en vigueur de la présente loi.",
+      "valid_from": "1980-07-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 2017-644 du 27 avril 2017 relative à l'adaptation des dispositions législatives relatives au fonctionnement des ordres des professions de santé est ratifiée."
+      "content": "L'ordonnance n° 2017-644 du 27 avril 2017 relative à l'adaptation des dispositions législatives relatives au fonctionnement des ordres des professions de santé est ratifiée.",
+      "valid_from": "2018-01-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. à III.-A modifié les dispositions suivantes :\n\n-Code de la santé publique\n\nIV.-Le 1° du II du présent article entre en vigueur à compter du premier renouvellement du Conseil national de l'ordre des pharmaciens suivant la publication de la présente loi."
+      "content": "I. à III.-A modifié les dispositions suivantes :\n\n-Code de la santé publique\n\nIV.-Le 1° du II du présent article entre en vigueur à compter du premier renouvellement du Conseil national de l'ordre des pharmaciens suivant la publication de la présente loi.",
+      "valid_from": "2018-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

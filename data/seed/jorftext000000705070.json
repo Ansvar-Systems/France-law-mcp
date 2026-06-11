@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont ratifiés les décrets dénommés ordonnances pris en application de la loi n° 58-520 du 3 juin 1958 et dont la liste est annexée à la présente ordonnance (annexe non reproduite).Toutefois, lesdits décrets n'auront force de loi qu'en celles de leurs dispositions qui portent sur les matières énumérées à l'article 34 de la Constitution."
+      "content": "Sont ratifiés les décrets dénommés ordonnances pris en application de la loi n° 58-520 du 3 juin 1958 et dont la liste est annexée à la présente ordonnance (annexe non reproduite).Toutefois, lesdits décrets n'auront force de loi qu'en celles de leurs dispositions qui portent sur les matières énumérées à l'article 34 de la Constitution.",
+      "valid_from": "1958-12-09"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi."
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi.",
+      "valid_from": "1958-12-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

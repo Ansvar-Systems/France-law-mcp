@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'exploitation des enfants par le travail doit être fermement combattue et dénoncée par tous les moyens légaux, y compris en refusant de coopérer avec des pays qui ne respectent pas la déclaration des droits de l'enfant."
+      "content": "L'exploitation des enfants par le travail doit être fermement combattue et dénoncée par tous les moyens légaux, y compris en refusant de coopérer avec des pays qui ne respectent pas la déclaration des droits de l'enfant.",
+      "valid_from": "1999-06-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

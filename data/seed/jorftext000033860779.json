@@ -12,13 +12,21 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. - Les groupements de coopération sanitaire, régulièrement constitués avant la date de publication de la présente ordonnance, sont mis en conformité avec les dispositions de ses articles 1er, 2 et 3 au plus tard au 1er janvier 2020.Si, à l'expiration de ce délai, le directeur général de l'agence régionale de santé constate que le groupement de coopération sanitaire ne s'est pas mis en conformité, il notifie aux membres du groupement ses constatations assorties d'une mise en demeure de remédier aux manquements dans un délai de six mois. S'il est constaté, au terme de ce délai, que le groupement ne s'est pas mis en conformité, le directeur général de l'agence régionale de santé prononce la dissolution du groupement selon les modalités prévues aux articles L. 6133-9 et L. 6147-9 du code de la santé publique. Cette décision motivée est notifiée aux membres du groupement et publiée.II. - Les mises à disposition des agents auprès des groupements de coopération sanitaire constitués avant la date de publication de la présente ordonnance continuent d'être régies par les dispositions en vigueur à la date de ces mises à disposition et pour la durée des conventions de mise à disposition restant à courir.III. - Les dispositions des articles 5 et 6 s'appliquent au plus tard à compter du prochain renouvellement général des organismes consultatifs de la fonction publique hospitalière."
+      "content": "I. - Les groupements de coopération sanitaire, régulièrement constitués avant la date de publication de la présente ordonnance, sont mis en conformité avec les dispositions de ses articles 1er, 2 et 3 au plus tard au 1er janvier 2020.Si, à l'expiration de ce délai, le directeur général de l'agence régionale de santé constate que le groupement de coopération sanitaire ne s'est pas mis en conformité, il notifie aux membres du groupement ses constatations assorties d'une mise en demeure de remédier aux manquements dans un délai de six mois. S'il est constaté, au terme de ce délai, que le groupement ne s'est pas mis en conformité, le directeur général de l'agence régionale de santé prononce la dissolution du groupement selon les modalités prévues aux articles L. 6133-9 et L. 6147-9 du code de la santé publique. Cette décision motivée est notifiée aux membres du groupement et publiée.II. - Les mises à disposition des agents auprès des groupements de coopération sanitaire constitués avant la date de publication de la présente ordonnance continuent d'être régies par les dispositions en vigueur à la date de ces mises à disposition et pour la durée des conventions de mise à disposition restant à courir.III. - Les dispositions des articles 5 et 6 s'appliquent au plus tard à compter du prochain renouvellement général des organismes consultatifs de la fonction publique hospitalière.",
+      "valid_from": "2017-01-14"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le Premier ministre, la ministre des affaires sociales et de la santé, le ministre de la défense, la ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social et la ministre de la fonction publique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre des affaires sociales et de la santé, le ministre de la défense, la ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social et la ministre de la fonction publique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-01-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'article 78 de la loi n° 93-1313 du 20 décembre 1993 quinquennale relative au travail, à l'emploi et à la formation professionnelle est abrogé à compter du 1er avril 2000."
+      "content": "L'article 78 de la loi n° 93-1313 du 20 décembre 1993 quinquennale relative au travail, à l'emploi et à la formation professionnelle est abrogé à compter du 1er avril 2000.",
+      "valid_from": "2000-03-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

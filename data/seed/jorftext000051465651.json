@@ -12,7 +12,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les articles 1er et 2 de la présente loi entrent en vigueur à la date fixée par le décret prévu au IV de l'article 19 de la loi n° 2025-127 du 14 février 2025 de finances pour 2025 et selon les conditions prévues au même IV."
+      "content": "Les articles 1er et 2 de la présente loi entrent en vigueur à la date fixée par le décret prévu au IV de l'article 19 de la loi n° 2025-127 du 14 février 2025 de finances pour 2025 et selon les conditions prévues au même IV.",
+      "valid_from": "2025-04-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

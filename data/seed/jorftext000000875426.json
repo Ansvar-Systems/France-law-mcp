@@ -12,7 +12,14 @@
       "provision_ref": "art145",
       "section": "145",
       "title": "Article 145",
-      "content": "Sont applicables en Nouvelle-Calédonie l'article 719, les deuxième et troisième alinéas de l'article 727, l'article 728, le troisième alinéa de l'article 731 et l'article 800 du code de procédure pénale ainsi que la loi n° 87-432 du 22 juin 1987 relative au service public pénitentiaire, à l'exception du paragraphe III de son article 5."
+      "content": "Sont applicables en Nouvelle-Calédonie l'article 719, les deuxième et troisième alinéas de l'article 727, l'article 728, le troisième alinéa de l'article 731 et l'article 800 du code de procédure pénale ainsi que la loi n° 87-432 du 22 juin 1987 relative au service public pénitentiaire, à l'exception du paragraphe III de son article 5.",
+      "valid_from": "2010-03-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

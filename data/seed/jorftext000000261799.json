@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le 3° de l'article 1er de la loi n° 2005-5 du 5 janvier 2005 susvisée est applicable en Nouvelle-Calédonie et en Polynésie française."
+      "content": "Le 3° de l'article 1er de la loi n° 2005-5 du 5 janvier 2005 susvisée est applicable en Nouvelle-Calédonie et en Polynésie française.",
+      "valid_from": "2006-02-17"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les autorités compétentes de la Nouvelle-Calédonie peuvent décider que les personnels enseignants et de documentation des établissements d'enseignement privés sous contrat qui exercent leurs fonctions sur le territoire de cette collectivité sont affiliés au régime de retraite additionnel institué par l'article 3 de la loi du 5 janvier 2005 susvisée."
+      "content": "Les autorités compétentes de la Nouvelle-Calédonie peuvent décider que les personnels enseignants et de documentation des établissements d'enseignement privés sous contrat qui exercent leurs fonctions sur le territoire de cette collectivité sont affiliés au régime de retraite additionnel institué par l'article 3 de la loi du 5 janvier 2005 susvisée.",
+      "valid_from": "2006-02-17"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les autorités compétentes de la Polynésie française peuvent décider que les personnels enseignants et de documentation des établissements d'enseignement privés sous contrat qui exercent leurs fonctions sur le territoire de cette collectivité sont affiliés au régime de retraite additionnel institué par l'article 3 de la loi du 5 janvier 2005 susvisée."
+      "content": "Les autorités compétentes de la Polynésie française peuvent décider que les personnels enseignants et de documentation des établissements d'enseignement privés sous contrat qui exercent leurs fonctions sur le territoire de cette collectivité sont affiliés au régime de retraite additionnel institué par l'article 3 de la loi du 5 janvier 2005 susvisée.",
+      "valid_from": "2006-02-17"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La présente ordonnance entre en vigueur le 22 février 2006 en Nouvelle-Calédonie et le 7 août 2006 en Polynésie française."
+      "content": "La présente ordonnance entre en vigueur le 22 février 2006 en Nouvelle-Calédonie et le 7 août 2006 en Polynésie française.",
+      "valid_from": "2006-02-17"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie, le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie, le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2006-02-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

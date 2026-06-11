@@ -12,79 +12,98 @@
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Les établissements de crédit agréés, avant la promulgation de la présente loi, en qualité de société financière et dont l'activité est limitée à l'émission, la mise à la disposition du public ou la gestion de monnaie électronique sont réputés être titulaires de l'agrément d'établissement de monnaie électronique et respecter les exigences fixées aux articles L. 526-8 et L. 526-9 du code monétaire et financier. Ils mettent leurs statuts en conformité avec les exigences relatives à la qualité d'établissement de monnaie électronique dans un délai de six mois à compter de la promulgation de la présente loi."
+      "content": "Les établissements de crédit agréés, avant la promulgation de la présente loi, en qualité de société financière et dont l'activité est limitée à l'émission, la mise à la disposition du public ou la gestion de monnaie électronique sont réputés être titulaires de l'agrément d'établissement de monnaie électronique et respecter les exigences fixées aux articles L. 526-8 et L. 526-9 du code monétaire et financier. Ils mettent leurs statuts en conformité avec les exigences relatives à la qualité d'établissement de monnaie électronique dans un délai de six mois à compter de la promulgation de la présente loi.",
+      "valid_from": "2013-01-30"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "Les établissements de crédit, autres que ceux mentionnés à l'article 25, peuvent opter, dans les six mois à compter de la promulgation de la présente loi, pour le statut d'établissement de monnaie électronique mentionné au chapitre VI du titre II du livre V du code monétaire et financier. Ils notifient leur choix à l'Autorité de contrôle prudentiel, en précisant les opérations qu'ils souhaitent fournir ainsi que, le cas échéant, le maintien des formalités de reconnaissance mutuelle de leur agrément effectuées sous le statut d'établissement de crédit. L'Autorité de contrôle prudentiel se prononce dans un délai de deux mois à compter de la réception de la notification.A défaut d'une telle notification, ils sont réputés garder le statut d'établissement de crédit à l'issue du délai d'option.Lorsqu'ils optent pour le statut d'établissement de monnaie électronique et ont fourni à l'Autorité de contrôle prudentiel la preuve du respect des exigences fixées aux articles L. 526-8 et L. 526-9 du même code, les établissements de crédit sont réputés être titulaires de l'agrément pour exercer l'ensemble des opérations notifiées sur le territoire de la République ainsi que, le cas échéant, dans les autres Etats membres de l'Union européenne ou dans les autres Etats parties à l'accord sur l'Espace économique européen. Ils mettent leurs statuts en conformité avec les exigences relatives au statut d'établissement de monnaie électronique."
+      "content": "Les établissements de crédit, autres que ceux mentionnés à l'article 25, peuvent opter, dans les six mois à compter de la promulgation de la présente loi, pour le statut d'établissement de monnaie électronique mentionné au chapitre VI du titre II du livre V du code monétaire et financier. Ils notifient leur choix à l'Autorité de contrôle prudentiel et de résolution, en précisant les opérations qu'ils souhaitent fournir ainsi que, le cas échéant, le maintien des formalités de reconnaissance mutuelle de leur agrément effectuées sous le statut d'établissement de crédit. L'Autorité de contrôle prudentiel et de résolution se prononce dans un délai de deux mois à compter de la réception de la notification.A défaut d'une telle notification, ils sont réputés garder le statut d'établissement de crédit à l'issue du délai d'option.Lorsqu'ils optent pour le statut d'établissement de monnaie électronique et ont fourni à l'Autorité de contrôle prudentiel et de résolution la preuve du respect des exigences fixées aux articles L. 526-8 et L. 526-9 du même code, les établissements de crédit sont réputés être titulaires de l'agrément pour exercer l'ensemble des opérations notifiées sur le territoire de la République ainsi que, le cas échéant, dans les autres Etats membres de l'Union européenne ou dans les autres Etats parties à l'accord sur l'Espace économique européen. Ils mettent leurs statuts en conformité avec les exigences relatives au statut d'établissement de monnaie électronique.",
+      "valid_from": "2013-07-28"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Les articles 25 et 26 sont également applicables aux entreprises qui ont fait l'objet d'une décision d'agrément sous conditions suspensives. Les conditions suspensives prévues avant la promulgation de la présente loi sont maintenues en l'état et conditionnent l'agrément substitué."
+      "content": "Les articles 25 et 26 sont également applicables aux entreprises qui ont fait l'objet d'une décision d'agrément sous conditions suspensives. Les conditions suspensives prévues avant la promulgation de la présente loi sont maintenues en l'état et conditionnent l'agrément substitué.",
+      "valid_from": "2013-01-30"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "L'Autorité de contrôle prudentiel peut demander à un établissement de crédit agréé avant la promulgation de la présente loi qui n'effectue pas d'opérations de banque au sens de l'article L. 311-1 du code monétaire et financier à la date de promulgation de la présente loi et qui n'a pas souhaité bénéficier des dispositions de l'article 25 de lui présenter toutes les informations de nature à justifier cette situation."
+      "content": "L'Autorité de contrôle prudentiel et de résolution peut demander à un établissement de crédit agréé avant la promulgation de la présente loi qui n'effectue pas d'opérations de banque au sens de l'article L. 311-1 du code monétaire et financier à la date de promulgation de la présente loi et qui n'a pas souhaité bénéficier des dispositions de l'article 25 de lui présenter toutes les informations de nature à justifier cette situation.",
+      "valid_from": "2013-07-28"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "Les établissements de crédit habilités à agir sur le territoire national qui, à la date de promulgation de la présente loi, ont recours à des intermédiaires en opérations de banque et en services de paiement pour distribuer de la monnaie électronique se mettent en conformité avec les articles L. 525-8 et suivants du code monétaire et financier dans un délai de trois mois à compter de la promulgation de la présente loi."
+      "content": "Les établissements de crédit habilités à agir sur le territoire national qui, à la date de promulgation de la présente loi, ont recours à des intermédiaires en opérations de banque et en services de paiement pour distribuer de la monnaie électronique se mettent en conformité avec les articles L. 525-8 et suivants du code monétaire et financier dans un délai de trois mois à compter de la promulgation de la présente loi.",
+      "valid_from": "2013-01-30"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "L'Autorité de contrôle prudentiel et de résolution met à jour la liste mentionnée à l'article L. 612-21 du code monétaire et financier et, le cas échéant, informe les autorités compétentes des autres Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen."
+      "content": "L'Autorité de contrôle prudentiel et de résolution met à jour la liste mentionnée à l'article L. 612-21 du code monétaire et financier et, le cas échéant, informe les autorités compétentes des autres Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen.",
+      "valid_from": "2013-07-28"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "Les entreprises qui bénéficient, à la date de promulgation de la présente loi, d'une exemption accordée au titre du II de l'article L. 511-7 du code monétaire et financier, dans une version antérieure à la présente loi, confirment dans les douze mois qui suivent la promulgation de la présente loi, auprès de l'Autorité de contrôle prudentiel et de résolution, qu'elles satisfont aux ou se mettent en conformité avec les exigences fixées aux articles L. 525-5 et L. 525-6 ou à l'article L. 526-7 du même code."
+      "content": "Les entreprises qui bénéficient, à la date de promulgation de la présente loi, d'une exemption accordée au titre du II de l'article L. 511-7 du code monétaire et financier, dans une version antérieure à la présente loi, confirment dans les douze mois qui suivent la promulgation de la présente loi, auprès de l'Autorité de contrôle prudentiel et de résolution, qu'elles satisfont aux ou se mettent en conformité avec les exigences fixées aux articles L. 525-5 et L. 525-6 ou à l'article L. 526-7 du même code.",
+      "valid_from": "2013-07-28"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "La présente loi, à l'exception des articles 7 et 14, s'applique aux contrats liant l'établissement émetteur et le détenteur de monnaie électronique conclus avant sa promulgation.Les clauses des contrats contraires à la présente loi sont caduques à compter de la même date.Les établissements émetteurs informent, dans un délai de six mois à compter de la promulgation de la présente loi, leurs clients ne disposant pas d'un contrat mis en conformité avec la présente loi de la mise à leur disposition à leurs guichets ou, au besoin, par tout autre moyen approprié, d'un contrat mis à jour et de la possibilité d'en recevoir un exemplaire sur support papier sur simple demande lorsque le contrat a été conclu avant la promulgation de la présente loi.Les établissements émetteurs sont tenus de mettre les contrats les liant à leurs clients détenteurs de monnaie électronique en conformité avec la présente loi dans les six mois à compter de sa promulgation.Lorsqu'un contrat est conclu dans les six mois à compter de la promulgation de la présente loi, les établissements émetteurs qui n'ont pas été en mesure d'adapter leurs nouveaux contrats sont tenus de fournir une information écrite à leurs clients sur les conséquences des dispositions introduites par la présente loi et préciser qu'elles s'appliquent immédiatement au contrat."
+      "content": "La présente loi, à l'exception des articles 7 et 14, s'applique aux contrats liant l'établissement émetteur et le détenteur de monnaie électronique conclus avant sa promulgation.Les clauses des contrats contraires à la présente loi sont caduques à compter de la même date.Les établissements émetteurs informent, dans un délai de six mois à compter de la promulgation de la présente loi, leurs clients ne disposant pas d'un contrat mis en conformité avec la présente loi de la mise à leur disposition à leurs guichets ou, au besoin, par tout autre moyen approprié, d'un contrat mis à jour et de la possibilité d'en recevoir un exemplaire sur support papier sur simple demande lorsque le contrat a été conclu avant la promulgation de la présente loi.Les établissements émetteurs sont tenus de mettre les contrats les liant à leurs clients détenteurs de monnaie électronique en conformité avec la présente loi dans les six mois à compter de sa promulgation.Lorsqu'un contrat est conclu dans les six mois à compter de la promulgation de la présente loi, les établissements émetteurs qui n'ont pas été en mesure d'adapter leurs nouveaux contrats sont tenus de fournir une information écrite à leurs clients sur les conséquences des dispositions introduites par la présente loi et préciser qu'elles s'appliquent immédiatement au contrat.",
+      "valid_from": "2013-01-30"
     },
     {
       "provision_ref": "art33",
       "section": "33",
       "title": "Article 33",
-      "content": "Les sanctions mentionnées aux articles 7 et 14 ne peuvent être prononcées qu'à raison de la méconnaissance des obligations mentionnées soit à l'article L. 351-1 du code monétaire et financier, soit aux articles L. 572-13 à L. 572-22 du même code intervenue postérieurement à la promulgation de la présente loi et, pour les contrats en cours à cette date ou nouveaux, six mois après cette promulgation."
+      "content": "Les sanctions mentionnées aux articles 7 et 14 ne peuvent être prononcées qu'à raison de la méconnaissance des obligations mentionnées soit à l'article L. 351-1 du code monétaire et financier, soit aux articles L. 572-13 à L. 572-22 du même code intervenue postérieurement à la promulgation de la présente loi et, pour les contrats en cours à cette date ou nouveaux, six mois après cette promulgation.",
+      "valid_from": "2013-01-30"
     },
     {
       "provision_ref": "art39",
       "section": "39",
       "title": "Article 39",
-      "content": "Les collectivités territoriales, leurs établissements publics et leurs groupements ainsi que les établissements publics de santé sont remboursés par l'Etat, de façon récursoire, de la part des intérêts moratoires versés imputable à un comptable de l'Etat."
+      "content": "Les collectivités territoriales, leurs établissements publics et leurs groupements ainsi que les établissements publics de santé sont remboursés par l'Etat, de façon récursoire, de la part des intérêts moratoires versés imputable à un comptable de l'Etat.",
+      "valid_from": "2019-04-01"
     },
     {
       "provision_ref": "art40",
       "section": "40",
       "title": "Article 40",
-      "content": "Les collectivités territoriales, leurs établissements publics et leurs groupements ainsi que les établissements publics de santé sont remboursés par l'Etat, de façon récursoire, de la part de l'indemnité forfaitaire et, le cas échéant, de l'indemnisation complémentaire versées imputables à un comptable de l'Etat."
+      "content": "Les collectivités territoriales, leurs établissements publics et leurs groupements ainsi que les établissements publics de santé sont remboursés par l'Etat, de façon récursoire, de la part de l'indemnité forfaitaire et, le cas échéant, de l'indemnisation complémentaire versées imputables à un comptable de l'Etat.",
+      "valid_from": "2019-04-01"
     },
     {
       "provision_ref": "art45",
       "section": "45",
       "title": "Article 45",
-      "content": "Dans un délai de neuf mois à compter de la promulgation de la présente loi, le Gouvernement est autorisé à prendre par ordonnances, dans les conditions prévues à l'article 38 de la Constitution, les mesures de nature législative permettant :1° D'une part, de rendre applicables, avec les adaptations nécessaires, les dispositions de la présente loi concernant la monnaie électronique, les établissements de monnaie électronique et la surveillance prudentielle de ces établissements en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, pour celles qui relèvent de la compétence de l'Etat, ainsi que de procéder aux adaptations nécessaires en ce qui concerne les collectivités de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon ;2° D'autre part, de rendre applicables, avec les adaptations nécessaires, les dispositions de la présente loi relatives aux compétences des autorités européennes de supervision en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, pour celles qui relèvent de la compétence de l'Etat, ainsi que de procéder aux adaptations nécessaires en ce qui concerne les collectivités de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon.Les projets de loi portant ratification de ces ordonnances sont déposés devant le Parlement au plus tard le dernier jour du troisième mois suivant la publication des ordonnances."
+      "content": "Dans un délai de neuf mois à compter de la promulgation de la présente loi, le Gouvernement est autorisé à prendre par ordonnances, dans les conditions prévues à l'article 38 de la Constitution, les mesures de nature législative permettant :1° D'une part, de rendre applicables, avec les adaptations nécessaires, les dispositions de la présente loi concernant la monnaie électronique, les établissements de monnaie électronique et la surveillance prudentielle de ces établissements en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, pour celles qui relèvent de la compétence de l'Etat, ainsi que de procéder aux adaptations nécessaires en ce qui concerne les collectivités de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon ;2° D'autre part, de rendre applicables, avec les adaptations nécessaires, les dispositions de la présente loi relatives aux compétences des autorités européennes de supervision en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, pour celles qui relèvent de la compétence de l'Etat, ainsi que de procéder aux adaptations nécessaires en ce qui concerne les collectivités de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon.Les projets de loi portant ratification de ces ordonnances sont déposés devant le Parlement au plus tard le dernier jour du troisième mois suivant la publication des ordonnances.",
+      "valid_from": "2013-01-30"
     },
     {
       "provision_ref": "art46",
       "section": "46",
       "title": "Article 46",
-      "content": "Les articles 37 à 40 et 44 de la présente loi sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna aux paiements afférents aux contrats conclus par l'Etat et par ses établissements publics."
+      "content": "Les articles 37 à 40 et 44 de la présente loi sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna aux paiements afférents aux contrats conclus par l'Etat et par ses établissements publics.",
+      "valid_from": "2013-01-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,31 +12,42 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le titulaire d'une créance alimentaire fixée par décision de justice devenue exécutoire en faveur de ses enfants mineurs, s'il ne remplit pas les conditions d'attribution de l'allocation de soutien familial et si une voie d'exécution engagée par ses soins n'a pas abouti, bénéficie, à sa demande, de l'aide des organismes débiteurs de prestations familiales pour le recouvrement des termes échus dans la limite de deux années à compter de la demande de recouvrement et des termes à échoir.\n\nCe recouvrement est exercé dans les conditions et pour les créances visées à l'article L. 543-5-1 du code de la sécurité sociale."
+      "content": "Le titulaire d'une créance alimentaire fixée par décision de justice devenue exécutoire en faveur de ses enfants mineurs, s'il ne remplit pas les conditions d'attribution de l'allocation de soutien familial et si une voie d'exécution engagée par ses soins n'a pas abouti, bénéficie, à sa demande, de l'aide des organismes débiteurs de prestations familiales pour le recouvrement des termes échus dans la limite de deux années à compter de la demande de recouvrement et des termes à échoir.\n\nCe recouvrement est exercé dans les conditions et pour les créances visées à l'article L. 543-5-1 du code de la sécurité sociale.",
+      "valid_from": "1985-12-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "I-Par dérogation aux articles 2 et 3 de la loi n° 75-618 du 11 juillet 1975 précitée, le directeur de l'organisme débiteur de prestations familiales intervenant au titre de l'article L. 543-5-1 du code de la sécurité sociale établit et certifie l'état des sommes à recouvrer et l'adresse au représentant de l'Etat dans le département. Celui-ci rend cet état exécutoire dans un délai de cinq jours ouvrables et le transmet au trésorier-payeur général du département."
+      "content": "I-Par dérogation aux articles 2 et 3 de la loi n° 75-618 du 11 juillet 1975 précitée, le directeur de l'organisme débiteur de prestations familiales intervenant au titre de l'article L. 543-5-1 du code de la sécurité sociale établit et certifie l'état des sommes à recouvrer et l'adresse au représentant de l'Etat dans le département. Celui-ci rend cet état exécutoire dans un délai de cinq jours ouvrables et le transmet au trésorier-payeur général du département.",
+      "valid_from": "2010-12-24"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Un décret en Conseil d'Etat détermine les conditions d'application de la présente loi et les dates d'entrée en vigueur de chacun des articles, fixées au plus tard au 1er janvier 1986. Il précise les délais dans lesquels les bénéficiaires de l'allocation d'orphelin sont tenus de souscrire au régime de l'allocation de soutien familial.\n\nLa présente loi s'appliquera, dans un délai maximum de deux ans, aux personnes bénéficiaires de l'allocation d'orphelin lors de la promulgation de la présente loi."
+      "content": "Un décret en Conseil d'Etat détermine les conditions d'application de la présente loi et les dates d'entrée en vigueur de chacun des articles, fixées au plus tard au 1er janvier 1986. Il précise les délais dans lesquels les bénéficiaires de l'allocation d'orphelin sont tenus de souscrire au régime de l'allocation de soutien familial.\n\nLa présente loi s'appliquera, dans un délai maximum de deux ans, aux personnes bénéficiaires de l'allocation d'orphelin lors de la promulgation de la présente loi.",
+      "valid_from": "1984-12-27"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Avant le 1er janvier 1988, le Gouvernement présentera au Parlement un rapport sur l'application de la présente loi."
+      "content": "Avant le 1er janvier 1988, le Gouvernement présentera au Parlement un rapport sur l'application de la présente loi.",
+      "valid_from": "1984-12-27"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Un décret précisera les conditions dans lesquelles, lorsqu'une décision judiciaire a fixé une créance alimentaire ainsi que les créances des articles 214, 276 et 342 du code civil, les parties sont informées des modalités de recouvrement, des règles de révision de la créance et des sanctions pénales encourues."
+      "content": "Un décret précisera les conditions dans lesquelles, lorsqu'une décision judiciaire a fixé une créance alimentaire ainsi que les créances des articles 214, 276 et 342 du code civil, les parties sont informées des modalités de recouvrement, des règles de révision de la créance et des sanctions pénales encourues.",
+      "valid_from": "1984-12-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. - Les dispositions des articles 3, 4 et 6 de la présente loi ne sont applicables qu'aux accords conclus ou renouvelés après sa publication.II. - Les dispositions de l'article 5 de la présente loi sont applicables, pour chaque entreprise, au premier exercice ouvert après sa publication.III. - A titre transitoire, les entreprises de cent salariés au plus qui font application d'un accord d'intéressement à la date de publication de la présente loi ne sont pas, jusqu'au terme de cet accord, soumises aux obligations prévues à l'article 5."
+      "content": "I. - Les dispositions des articles 3, 4 et 6 de la présente loi ne sont applicables qu'aux accords conclus ou renouvelés après sa publication.II. - Les dispositions de l'article 5 de la présente loi sont applicables, pour chaque entreprise, au premier exercice ouvert après sa publication.III. - A titre transitoire, les entreprises de cent salariés au plus qui font application d'un accord d'intéressement à la date de publication de la présente loi ne sont pas, jusqu'au terme de cet accord, soumises aux obligations prévues à l'article 5.",
+      "valid_from": "1990-11-11"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les dividendes des actions de travail qui sont attribuées aux salariés des sociétés anonymes à participation ouvrière régies par la loi du 26 avril 1917 suivent le régime fiscal et social des traitements et salaires pour l'application du code général des impôts et du code de la sécurité sociale.Ils bénéficient des dispositions des articles L. 441-1 à L. 441-8 du Code du travail, dans les conditions et limites fixées à ce même chapitre.Cette disposition entre en vigueur à compter du 1er janvier 1991."
+      "content": "Les dividendes des actions de travail qui sont attribuées aux salariés des sociétés anonymes à participation ouvrière régies par la loi du 26 avril 1917 suivent le régime fiscal et social des traitements et salaires pour l'application du code général des impôts et du code de la sécurité sociale.Ils bénéficient des dispositions des articles L. 441-1 à L. 441-8 du Code du travail, dans les conditions et limites fixées à ce même chapitre.Cette disposition entre en vigueur à compter du 1er janvier 1991.",
+      "valid_from": "1994-07-27"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Il sera procédé à la codification des textes législatifs relatifs à l'intéressement, à la participation des salariés aux résultats de l'entreprise et aux plans d'épargne d'entreprise, après avis de la Commission supérieure de codification chargée d'oeuvrer à la simplification et à la clarification du droit."
+      "content": "Il sera procédé à la codification des textes législatifs relatifs à l'intéressement, à la participation des salariés aux résultats de l'entreprise et aux plans d'épargne d'entreprise, après avis de la Commission supérieure de codification chargée d'oeuvrer à la simplification et à la clarification du droit.",
+      "valid_from": "1990-11-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

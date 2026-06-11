@@ -1,0 +1,452 @@
+{
+  "id": "legitext000006070180",
+  "type": "statute",
+  "title": "Loi du 14 décembre 1789",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070180/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les municipalités actuellement subsistant en chaque ville, bourg, paroisse ou communauté, sous le titre d'hôtels-de-ville, mairies, échevinats, consulats, et généralement sous quelque titre et qualification que ce soit, sont supprimées et abolies ; et cependant les officiers municipaux actuellement en exercice continueront leurs fonctions jusqu'à ce qu'ils ayent été remplacés.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les officiers et membres des municipalités actuelles seront remplacés par voie d'élection.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les droits de présentation, nomination ou confirmation, et les droits de présidence ou de présence aux assemblées municipales prétendus ou exercés comme attachés à la possession de certaines terres, aux fonctions de commandans de province ou de ville, aux évêchés ou archevêchés, et généralement à tel autre titre que ce puisse être, sont abolis.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le chef de tout corps municipal portera le nom de maire.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Tous les citoyens actifs de chaque ville, bourg, paroisse ou communauté, pourront concourir à l'élection des membres du corps municipal.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Les citoyens actifs se réuniront en une seule assemblée, dans les communautés où il y a moins de quatre mille habitans ; en deux assemblées, dans les communautés de quatre mille à huit mille habitans ; en trois assemblées, dans les communautés de huit mille à douze mille habitans, et ainsi de suite.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Les assemblées ne pourront se former par métiers, professions ou corporations, mais par quartiers ou arrondissemens.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Les assemblées de citoyens actifs seront convoquées par le corps municipal, huit jours avant celui où elles devront avoir lieu. La séance sera ouverte en présence d'un citoyen, chargé par le corps municipal d'expliquer l'objet de la convocation.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9",
+      "content": "Toutes les assemblées particulières dans la même ville ou communauté seront indiquées pour le même jour et à la même heure.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "Chaque assemblée procèdera, dès qu'elle sera formée, à la nomination d'un président et d'un secrétaire ; il ne faudra pour cette nomination que la simple pluralité relative des suffrages, en un seul scrutin recueilli et dépouillé par les trois plus anciens d'âge.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11",
+      "content": "Chaque assemblée nommera ensuite, à la pluralité relative des suffrages, trois scrutateurs qui seront chargés d'ouvrir les scrutins subséquens, de les dépouiller, de compter les voix et de proclamer les résultats. Ces trois scrutateurs seront nommés par un seul scrutin recueilli et dépouillé, comme le précédent, par les trois plus anciens d'âge.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12",
+      "content": "Les conditions de l'éligibilité pour les administrations municipales seront les mêmes que pour les administrations de département et de district ; néanmoins les parens et alliés aux degrés de père et de fils, de beau-père et de gendre, de frères et de beau-frères, d'oncle et de neveu, ne pourront être en même-temps membres du même corps municipal.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13",
+      "content": "Les officiers municipaux et les notables dont il sera parlé ci-après ne pourront être nommés que parmi les citoyens éligibles de la commune.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14",
+      "content": "Les citoyens qui occupent des places de judicature ne peuvent être en même-temps membres des corps municipaux.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15",
+      "content": "Ceux qui sont chargés de la perception des impôts indirects, tant que ces impôts subsisteront, ne peuvent être admis en même temps aux fonctions municipales.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16",
+      "content": "Les maires seront toujours élus à la pluralité absolue des voix. Si le premier scrutin ne donne pas cette pluralité, il sera procédé à un second ; si celui-ci ne la donne point encore, il sera procédé à un troisième, dans lequel le choix ne pourra plus se faire qu'entre les deux citoyens qui auront réuni le plus de voix au scrutin précédent. Enfin, s'il y avoit égalité de suffrages entr'eux, à ce troisième scrutin, le plus âgé seroit préféré.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Article 17",
+      "content": "La nomination des autres membres du corps municipal sera faite au scrutin de liste double.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Article 18",
+      "content": "Dans les villes ou communautés où il y aura plusieurs assemblées particulières des citoyens actifs, ces assemblées ne seront regardées que comme des sections de l'assemblée générale de ville ou communauté.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Article 19",
+      "content": "En conséquence, chaque section de l'assemblée générale des citoyens actifs fera parvenir à la maison commune ou maison de ville le recensement de son scrutin particulier, contenant la mention du nombre de suffrages que chaque citoyen nommé aura réunis en sa faveur ; et le résultat général de tous ces recensemens sera formé dans la maison commune.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Article 20",
+      "content": "Chaque section particulière de l'assemblée générale des citoyens actifs pourra envoyer à la maison commune un commissaire pour assister au recensement du scrutin.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Article 21",
+      "content": "Ceux qui, dès le premier scrutin, réuniront la pluralité absolue, c'est-à-dire, la moitié des suffrages et un en sus, seront définitivement élus.\n\nSi au premier tour de scrutin il n'y a pas un nombre suffisant de citoyens élus à la pluralité absolue des voix, on procèdera à un second scrutin ; et ceux qui obtiendront cette seconde fois la pluralité absolue seront de même élus définitivement.\n\nEnfin, si le nombre nécessaire n'est pas rempli par les deux premiers scrutins, il en sera fait un troisième et dernier ; et à celui-ci, il suffira pour être élu d'obtenir la pluralité relative des suffrages.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Article 22",
+      "content": "Les citoyens qui par l'évènement du scrutin auront été nommés membres du corps municipal seront proclamés par les officiers municipaux en exercice.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Article 23",
+      "content": "Dans les villes où l'assemblée générale des citoyens actifs sera divisée en plusieurs sections, les scrutins de ces diverses sections seront recensés à la maison commune, le plus promptement qu'il sera possible ; en sorte que les scrutins ultérieurs, s'ils se trouvent nécessaires, puissent se faire dès le jour même, et au plus tard le lendemain.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Article 24",
+      "content": "Après les élections, les citoyens actifs de la communauté ne pouront ni rester assemblés, ni s'assembler de nouveau en corps de commune, sans une convocation expresse ordonnée par le conseil général de la commune, dont il va être parlé ci-après. Ce conseil ne pourra la refuser, si elle est requise par le sixième des citoyens actifs dans les communautés au-dessous de 4,000 ames, et par 150 citoyens actifs dans toutes les autres communautés.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Article 25",
+      "content": "Les membres des corps municipaux des villes, bourgs, paroisses ou communautés seront au nombre de trois, y compris le maire, lorsque la population sera au-dessous de 500 ames ;\n\nDe six, y compris le maire, depuis 500 ames jusqu'à 3,000 ;\n\nDe neuf, depuis 3,000 ames jusqu'à 10,000 ;\n\nDe douze, depuis 10,000 ames jusqu'à 25,000 ;\n\nDe quinze, depuis 25,000 ames jusqu'à 50,000 ;\n\nDe dix-huit, depuis 50,000 ames jusqu'à 100,000 ames ;\n\nDe vint-un, au-dessus de 100,000 ames.\n\nQuant à la ville de Paris, attendu son immense population, elle sera gouvernée par un règlement particulier, qui sera donné par l'assemblée nationale, sur les mêmes bases et d'après les mêmes principes que le règlement général de toutes les municipalités du royaume.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Article 26",
+      "content": "Il y aura dans chaque municipalité un procureur de la commune, sans voix délibérative ; il sera chargé de défendre les intérêts, et de poursuivre les affaires de la communauté.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Article 27",
+      "content": "Dans les villes au-dessus de 10,000 ames, il y aura en outre un substitut du procureur de la commune, lequel, à défaut de celui-ci, exercera les fonctions.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Article 28",
+      "content": "Le procureur de la commune sera nommé par les citoyens actifs, au scrutin et à la pluralité absolue des suffrages, dans la forme et selon les règles prescrites par l'article 15 ci-dessus, pour l'élection du maire.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Article 29",
+      "content": "Le substitut du procureur de la commune, lorsqu'il y aura lieu d'en nommer un, sera élu de la même manière.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Article 30",
+      "content": "Les citoyens actifs de chaque communauté nommeront par un seul scrutin de liste, et à la pluralité relative des suffrages, un nombre de notables double de celui des membres du corps municipal.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Article 31",
+      "content": "Ces notables formeront avec les membres du corps municipal le conseil général de la commune, et ne seront appelés que pour les affaires les plus importantes, ainsi qu'il sera dit ci-après.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Article 32",
+      "content": "Il y aura en chaque municipalité un secrétaire-greffier nommé par le conseil général de la commune. Il prêtera serment de remplir fidèlement ses fonctions, et pourra être changé lorsque le conseil général convoqué à cet effet, l'aura jugé convenable à la majorité des voix.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Article 33",
+      "content": "Le conseil général de la commune pourra aussi, suivant les circonstances, nommer un trésorier, en prenant les précautions nécessaires pour la sûreté des fonds de la communauté. Ce trésorier pourra être changé comme le secrétaire-greffier.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Article 34",
+      "content": "Chaque corps municipal composé de plus de trois membres sera divisé en conseil et en bureau.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Article 35",
+      "content": "Le bureau sera composé du tiers des officiers municipaux, y compris le maire, qui en fera toujours partie ; les deux autres tiers formeront le conseil.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Article 36",
+      "content": "Les membres du bureau seront choisis par le corps municipal tous les ans, et pourront être réélus pour une seconde année.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Article 37",
+      "content": "Le bureau sera chargé de tous les soins de l'exécution, et borné à la simple régie. Dans les municipalités réduites à trois membres, l'exécution sera confiée au maire seul.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Article 38",
+      "content": "Le conseil municipal s'assemblera au moins une fois par mois ; il commencera par arrêter les comptes du bureau, lorsqu'il y aura lieu ; et après cette opération faite, les membres du bureau auront séance et voix délibérative avec ceux du conseil.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Article 39",
+      "content": "Toutes les délibérations nécessaires à l'exercice des fonctions du corps municipal seront prises dans l'assemblée des membres du conseil et du bureau réunis, à l'exception des délibérations relatives à l'arrêté des comptes, qui, comme il vient d'être dit, seront prises par le conseil seul.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Article 40",
+      "content": "La présence des deux tiers au moins des membres du conseil sera nécessaire pour recevoir les comptes du bureau ; et celle de la moitié, plus un, des membres du corps municipal, pour prendre les autres délibérations.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Article 41",
+      "content": "Dans les villes au-dessus de 25,000 ames, l'administration municipale pourra se diviser en sections, à raison de la diversité des matières.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Article 42",
+      "content": "Les officiers municipaux et les notables seront élus pour deux ans, et renouvelés par moitié chaque année. Le fort déterminera ceux qui devront sortir à l'époque de l'élection qui suivra la première. Quand le nombre sera impair, il sortira alternativement un membre de plus ou un membre de moins.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Article 43",
+      "content": "Le maire restera en exercice pendant deux ans ; il pourra être réélu pour deux autres années, mais ensuite il ne sera permis de l'élire de nouveau qu'après un intervalle de deux ans.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Article 44",
+      "content": "Le procureur de la commune et son substitut conserveront leurs places pendant deux ans, et pourront également être réélus pour deux autres années ; néanmoins à la suite de la première élection, le substitut du procureur de la commune n'exercera ses fonctions qu'une année ; et dans toutes les élections suivantes, le procureur de la commune et son substitut seront remplacés ou réélus alternativement chaque année.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Article 45",
+      "content": "Les assemblées d'élection pour les renouvellemens annuels se tiendront, dans tout le royaume, le dimanche d'après la Saint-Martin, sur la convocation des officiers municipaux.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Article 46",
+      "content": "Si la place de maire ou de procureur de la commune, ou de son substitut, devient vacante par mort, démission ou autrement, il sera convoqué une assemblée extraordinaire des citoyens actifs, pour procéder à une nouvelle élection.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Article 47",
+      "content": "Lorsqu'un membre du conseil municipal viendra à mourir ou donnera sa démission, ou sera destitué ou suspendu de sa place, ou passera dans le bureau municipal, il sera remplacé de droit, pour le temps qui lui restoit à remplir, par celui des notables qui aura réuni le plus de suffrages.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Article 48",
+      "content": "Avant d'entrer en exercice, le maire et les autres membres du corps municipal, le procureur de la commune et son substitut, s'il y en a un, prêteront serment. Ce serment sera prêté à la prochaine élection devant la commune, et devant le corps municipal aux élections suivantes.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Article 49",
+      "content": "Les corps municipaux auront deux espèces de fonctions à remplir : les unes, propres au pouvoir municipal ; les autres, propres à l'administration générale de l'état, et délégués par elle aux municipalités.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Article 50",
+      "content": "Les fonctions propres au pouvoir municipal, sous la surveillance et l'inspection des assemblées administratives, sont :\n\nDe régir les biens et revenus communs des villes, bourgs, paroisses et communautés ;\n\nDe régler et d'acquitter celles des dépenses locales qui doivent être payées des deniers communs ;\n\nDe diriger et faire exécuter les travaux publics qui sont à la charge de la communauté ;\n\nD'administrer les établissemens qui appartiennent à la commune, qui sont entretenus de ses deniers, ou qui sont particulièrement destinés à l'usage des citoyens dont elle est composée ;\n\nDe faire jouir les habitans des avantages d'une bonne police, notamment de la propreté, de la salubrité, de la sûreté et la tranquilité dans les rues, lieux et édifices publics.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Article 51",
+      "content": "Les fonctions propres à l'administration générale, qui peuvent être déléguées aux corps municipaux pour les exercer sous l'autorité des assemblées administratives, sont :\n\nLa répartition des contributions directes entre les citoyens dont la communauté est composée ;\n\nLa perception de ces contributions ;\n\nLe versement de ces contributions dans les caisses de district ou du département ;\n\nLa direction immédiate des travaux publics dans le ressort de la municipalité ;\n\nLa régie immédiate des établissements publics destinés à l'utilité générale ;\n\nLa surveillance et l'agence nécessaires à la conservation des propriétés publiques ;\n\nL'inspection directe des travaux de réparation ou de reconstruction des églises, presbytères et autres objets relatifs au service du culte religieux.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Article 52",
+      "content": "Pour l'exercice des fonctions propres ou déléguées aux corps municipaux, ils auront le droit de requérir les secours nécessaires des gardes nationales et autres forces publiques, ainsi qu'il sera plus amplement expliqué.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Article 53",
+      "content": "Le maire et les autres membres du corps municipal, le procureur de la commune et son substitut, ne pourront exercer en même-temps les fonctions municipales et celles de la garde nationale.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Article 54",
+      "content": "Le conseil général de commune, composé tant des membres du corps municipal que des notables, sera convoqué toutes les fois que l'administration municipale le jugera convenable. Elle ne pourra se dispenser de la convoquer lorsqu'il s'agira de délibérer :\n\nSur des acquisitions ou aliénations d'immeubles ;\n\nSur des impositions extraordinaires pour dépenses locales ;\n\nSur des emprunts ;\n\nSur des travaux à entreprendre ;\n\nSur l'emploi du prix des ventes, des remboursemens ou recouvremens ;\n\nSur les procès à intenter ;\n\nMême sur les procès à soutenir, dans le cas où le fonds du droit sera contesté.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Article 55",
+      "content": "Les corps municipaux seront entièrement subordonnés aux administrations de département et de district, pour tout ce qui concernera les fonctions qu'ils auront à exercer par délégation de l'administration générale.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Article 56",
+      "content": "Quant à l'exercice des fonctions propres au pouvoir municipal, toutes les délibérations pour lesquelles la convocation du conseil général de la commune est nécessaire, suivant l'article 54 ci-dessus, ne pourront être exécutées qu'avec l'approbation de l'administration ou du directoire de département, qui sera donnée, s'il y a lieu, sur l'avis de l'administration ou du directoire de district.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Article 57",
+      "content": "Tous les comptes de la régie des bureaux municipaux, après qu'ils auront été reçus par le conseil municipal, seront vérifiés par l'administration ou le directoire de district, et arrêtés définitivement par l'administration ou le directoire de département, sur l'avis de celle de district ou de son directoire.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Article 58",
+      "content": "Dans toutes les villes au-dessous de 4,000 ames, les comptes de l'administration municipale, en recette et en dépense, seront imprimés chaque année.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Article 59",
+      "content": "Dans toutes les communautés sans distinction, les citoyens actifs pourront prendre au greffe de la municipalité, sans déplacer et sans frais, communication des comptes, des pièces justificatives et des délibérations du corps municipal, toutes les fois qu'ils le requerront.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Article 60",
+      "content": "Si un citoyen croit être personnellement lésé par quelque acte du corps municipal, il pourra exposer ses sujets de plainte à l'administration ou au directoire de département, qui y fera droit sur l'avis de l'administration de district, qui sera chargée de vérifier les faits.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Article 61",
+      "content": "Tout citoyen actif pourra signer et présenter contre les officiers municipaux la dénonciation des délits d'administration dont il prétendra qu'ils se seroient rendus coupables ; mais avant de porter cette dénonciation dans les tribunaux, il sera tenu de la soumettre à l'administration ou au directoire de département, qui, après avoir pris l'avis de l'administration de district ou de son directoire, renverra la dénonciation, s'il y a lieu, devant les juges qui en devront connoître.",
+      "valid_from": "1789-12-14"
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Article 62",
+      "content": "Les citoyens actifs ont le droit de se réunir paisiblement et sans armes en assemblées particulières, pour rédiger des adresses et pétitions, soit au corps municipal, soit aux administrations de département et district, soit au corps législatif, soit au roi, sous la condition de donner avis aux officiers municipaux du temps et du lieu de ces assemblées, et de ne pouvoir députer que dix citoyens pour apporter et présenter ces adresses et pétitions.",
+      "valid_from": "1789-12-14"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

@@ -12,7 +12,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Avant le 31 décembre 2000, le Gouvernement présente au Parlement un rapport relatif à la prise en charge des personnes atteintes du syndrome autistique et des troubles qui lui sont apparentés, et à la création de places en établissements pour celles-ci. Ce rapport présente également une évaluation du nombre des personnes, mineures ou adultes, atteintes de ce syndrome."
+      "content": "Avant le 31 décembre 2000, le Gouvernement présente au Parlement un rapport relatif à la prise en charge des personnes atteintes du syndrome autistique et des troubles qui lui sont apparentés, et à la création de places en établissements pour celles-ci. Ce rapport présente également une évaluation du nombre des personnes, mineures ou adultes, atteintes de ce syndrome.",
+      "valid_from": "1996-12-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

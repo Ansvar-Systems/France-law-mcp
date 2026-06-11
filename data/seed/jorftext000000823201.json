@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 2000-373 du 26 avril 2000 susvisée est modifiée conformément aux articles 2 à 31 de la présente ordonnance."
+      "content": "L'ordonnance n° 2000-373 du 26 avril 2000 susvisée est modifiée conformément aux articles 2 à 31 de la présente ordonnance.",
+      "valid_from": "2007-01-26"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "L'ordonnance n° 2000-371 du 26 avril 2000 susvisée est modifiée conformément aux articles 33 à 63 de la présente ordonnance."
+      "content": "L'ordonnance n° 2000-371 du 26 avril 2000 susvisée est modifiée conformément aux articles 33 à 63 de la présente ordonnance.",
+      "valid_from": "2007-01-26"
     },
     {
       "provision_ref": "art64",
       "section": "64",
       "title": "Article 64",
-      "content": "L'ordonnance n° 2000-372 du 26 avril 2000 susvisée est modifiée conformément aux articles 65 à 95 de la présente ordonnance."
+      "content": "L'ordonnance n° 2000-372 du 26 avril 2000 susvisée est modifiée conformément aux articles 65 à 95 de la présente ordonnance.",
+      "valid_from": "2007-01-26"
     },
     {
       "provision_ref": "art96",
       "section": "96",
       "title": "Article 96",
-      "content": "L'ordonnance n° 2002-388 du 20 mars 2002 susvisée est modifiée conformément aux articles 97 à 127 de la présente ordonnance."
+      "content": "L'ordonnance n° 2002-388 du 20 mars 2002 susvisée est modifiée conformément aux articles 97 à 127 de la présente ordonnance.",
+      "valid_from": "2007-01-26"
     },
     {
       "provision_ref": "art131",
       "section": "131",
       "title": "Article 131",
-      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, le ministre des affaires étrangères, le ministre de l'emploi, de la cohésion sociale et du logement, le garde des sceaux, ministre de la justice, et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, le ministre des affaires étrangères, le ministre de l'emploi, de la cohésion sociale et du logement, le garde des sceaux, ministre de la justice, et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2007-01-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

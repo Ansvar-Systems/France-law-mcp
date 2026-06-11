@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "Dans les lois en vigueur à la date de publication de la présente loi, tout renvoi à un règlement d'administration publique ou à un décret en forme de règlement d'administration publique est remplacé par un renvoi à un décret en Conseil d'Etat."
+      "content": "Dans les lois en vigueur à la date de publication de la présente loi, tout renvoi à un règlement d'administration publique ou à un décret en forme de règlement d'administration publique est remplacé par un renvoi à un décret en Conseil d'Etat.",
+      "valid_from": "1980-07-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

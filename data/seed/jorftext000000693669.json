@@ -12,7 +12,14 @@
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Sous réserve des dispositions de l'article 26 ci-dessus, la loi n° 64-1229 du 14 décembre 1964, modifiée par la loi n° 66-507 du 12 juillet 1966, est abrogée."
+      "content": "Sous réserve des dispositions de l'article 26 ci-dessus, la loi n° 64-1229 du 14 décembre 1964, modifiée par la loi n° 66-507 du 12 juillet 1966, est abrogée.",
+      "valid_from": "1970-07-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

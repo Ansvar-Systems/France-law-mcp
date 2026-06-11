@@ -4,7 +4,7 @@
   "title": "Loi du 24 mai 1872",
   "title_en": null,
   "short_name": null,
-  "status": "repealed",
+  "status": "in_force",
   "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000521091",
   "description": null,
   "provisions": [
@@ -12,79 +12,119 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les conflits d'attribution entre la juridiction administrative et la juridiction judiciaire sont réglés par un Tribunal des conflits composé en nombre égal de membres du Conseil d'Etat et de la Cour de cassation."
+      "content": "Les conflits d'attribution entre la juridiction administrative et la juridiction judiciaire sont réglés par un Tribunal des conflits composé en nombre égal de membres du Conseil d'Etat et de la Cour de cassation.",
+      "valid_from": "2015-04-01"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Dans sa formation ordinaire, le Tribunal des conflits comprend :\n\n1° Quatre conseillers d'Etat en service ordinaire élus par l'assemblée générale du Conseil d'Etat ;\n\n2° Quatre conseillers ou présidents de chambre de la Cour de cassation élus par l'ensemble des magistrats du siège du troisième grade de la Cour, à l'exclusion des auditeurs et des conseillers référendaires ;\n\n3° Deux suppléants élus, l'un par l'assemblée générale du Conseil d'Etat parmi les conseillers d'Etat en service ordinaire et les maîtres des requêtes, l'autre par l'assemblée générale des magistrats du siège du troisième grade de la Cour de cassation, à l'exclusion des auditeurs, parmi l'ensemble des magistrats du siège du troisième grade de la Cour, à l'exclusion des auditeurs .\n\nLes membres du Tribunal des conflits sont soumis à réélection tous les trois ans et rééligibles deux fois. Lorsqu'un membre titulaire ou suppléant cesse définitivement d'exercer ses fonctions, il est procédé à son remplacement jusqu'à la fin du mandat en cours dans les conditions prévues aux 1°, 2° ou 3°, selon le cas.",
+      "valid_from": "2025-12-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les membres mentionnés aux 1° et 2° de l'article 2 choisissent parmi eux, pour trois ans, un président issu alternativement du Conseil d'Etat et de la Cour de cassation, au scrutin secret à la majorité des voix.En cas d'empêchement provisoire du président, le tribunal est présidé par le membre le plus ancien appartenant au même ordre de juridiction.En cas de cessation définitive des fonctions du président, le tribunal, alors complété dans les conditions prévues au dernier alinéa de l'article 2, est présidé par un membre du même ordre, choisi dans les conditions prévues au premier alinéa du présent article, pour la durée du mandat restant à courir."
+      "content": "Les membres mentionnés aux 1° et 2° de l'article 2 choisissent parmi eux, pour trois ans, un président issu alternativement du Conseil d'Etat et de la Cour de cassation, au scrutin secret à la majorité des voix.En cas d'empêchement provisoire du président, le tribunal est présidé par le membre le plus ancien appartenant au même ordre de juridiction.En cas de cessation définitive des fonctions du président, le tribunal, alors complété dans les conditions prévues au dernier alinéa de l'article 2, est présidé par un membre du même ordre, choisi dans les conditions prévues au premier alinéa du présent article, pour la durée du mandat restant à courir.",
+      "valid_from": "2015-04-01"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Deux membres du Conseil d'Etat, élus par l'assemblée générale du Conseil d'Etat parmi les rapporteurs publics, et deux membres du parquet général de la Cour de cassation, élus par l'assemblée générale des magistrats du parquet du troisième grade, à l'exclusion des avocats généraux référendaires, parmi eux, sont chargés des fonctions de rapporteur public.\n\nIls sont élus pour trois ans et rééligibles deux fois.\n\nLe rapporteur public expose publiquement et en toute indépendance son opinion sur les questions que présentent à juger les affaires dont le Tribunal des conflits est saisi.",
+      "valid_from": "2025-12-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Sous réserve de l'article 6, le Tribunal des conflits ne peut délibérer que si cinq membres au moins sont présents."
+      "content": "Sous réserve de l'article 6, le Tribunal des conflits ne peut délibérer que si cinq membres au moins sont présents.",
+      "valid_from": "2015-04-01"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Dans le cas où, après une seconde délibération, les membres du tribunal n'ont pu se départager, l'affaire est examinée en formation élargie, dans des conditions précisées par décret en Conseil d'Etat. Cette formation est composée, outre les membres mentionnés aux 1° et 2° de l'article 2, de deux conseillers d'Etat en service ordinaire et de deux conseillers ou présidents de chambre de la Cour de cassation élus, dans les conditions définies aux mêmes 1° et 2°, lors de l'élection des membres de la formation ordinaire.\n\nLes règles de suppléance sont applicables.\n\nLe tribunal ne peut siéger que si tous les membres sont présents ou suppléés.",
+      "valid_from": "2025-12-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les débats ont lieu en audience publique après une instruction contradictoire."
+      "content": "Les débats ont lieu en audience publique après une instruction contradictoire.",
+      "valid_from": "2015-04-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le délibéré des juges est secret."
+      "content": "Le délibéré des juges est secret.",
+      "valid_from": "2015-04-01"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les décisions sont rendues au nom du peuple français. Elles sont motivées et comportent le nom des membres qui en ont délibéré.Elles sont rendues en audience publique."
+      "content": "Les décisions sont rendues au nom du peuple français. Elles sont motivées et comportent le nom des membres qui en ont délibéré.Elles sont rendues en audience publique.",
+      "valid_from": "2015-04-01"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Lorsque la solution de la question soumise au Tribunal des conflits s'impose avec évidence, le président, conjointement avec le membre le plus ancien appartenant à l'autre ordre de juridiction, peut statuer par voie d'ordonnance dans les cas prévus par décret en Conseil d'Etat."
+      "content": "Lorsque la solution de la question soumise au Tribunal des conflits s'impose avec évidence, le président, conjointement avec le membre le plus ancien appartenant à l'autre ordre de juridiction, peut statuer par voie d'ordonnance dans les cas prévus par décret en Conseil d'Etat.",
+      "valid_from": "2015-04-01"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Les décisions du Tribunal des conflits s'imposent à toutes les juridictions de l'ordre judiciaire et de l'ordre administratif."
+      "content": "Les décisions du Tribunal des conflits s'imposent à toutes les juridictions de l'ordre judiciaire et de l'ordre administratif.",
+      "valid_from": "2015-04-01"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Le Tribunal des conflits règle le conflit d'attribution entre les deux ordres de juridiction, dans des conditions prévues par décret en Conseil d'Etat :1° Lorsque le représentant de l'Etat dans le département ou la collectivité a élevé le conflit dans le cas prévu à l'article 13 ;2° Lorsque les juridictions de l'un et l'autre ordre se sont déclarées respectivement incompétentes pour connaître d'un litige ayant le même objet ;3° Lorsqu'une juridiction de l'un ou l'autre ordre lui a renvoyé la question de compétence soulevée dans un litige."
+      "content": "Le Tribunal des conflits règle le conflit d'attribution entre les deux ordres de juridiction, dans des conditions prévues par décret en Conseil d'Etat :1° Lorsque le représentant de l'Etat dans le département ou la collectivité a élevé le conflit dans le cas prévu à l'article 13 ;2° Lorsque les juridictions de l'un et l'autre ordre se sont déclarées respectivement incompétentes pour connaître d'un litige ayant le même objet ;3° Lorsqu'une juridiction de l'un ou l'autre ordre lui a renvoyé la question de compétence soulevée dans un litige.",
+      "valid_from": "2015-04-01"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Lorsque le représentant de l'Etat dans le département ou la collectivité estime que la connaissance d'un litige ou d'une question préjudicielle portée devant une juridiction de l'ordre judiciaire relève de la compétence de la juridiction administrative, il peut, alors même que l'administration ne serait pas en cause, demander à la juridiction saisie de décliner sa compétence."
+      "content": "Lorsque le représentant de l'Etat dans le département ou la collectivité estime que la connaissance d'un litige ou d'une question préjudicielle portée devant une juridiction de l'ordre judiciaire relève de la compétence de la juridiction administrative, il peut, alors même que l'administration ne serait pas en cause, demander à la juridiction saisie de décliner sa compétence.",
+      "valid_from": "2015-04-01"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Le conflit d'attribution entre les juridictions judiciaires et administratives ne peut être élevé en matière pénale.Il peut être élevé en toute autre matière, sauf sur l'action civile dans les cas mentionnés à l'article 136 du code de procédure pénale."
+      "content": "Le conflit d'attribution entre les juridictions judiciaires et administratives ne peut être élevé en matière pénale.Il peut être élevé en toute autre matière, sauf sur l'action civile dans les cas mentionnés à l'article 136 du code de procédure pénale.",
+      "valid_from": "2015-04-01"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Le Tribunal des conflits peut être saisi des décisions définitives rendues par les juridictions administratives et judiciaires dans les instances introduites devant les deux ordres de juridiction, pour des litiges portant sur le même objet, lorsqu'elles présentent une contrariété conduisant à un déni de justice.Sur les litiges qui lui sont ainsi déférés, le Tribunal des conflits juge au fond, à l'égard de toutes les parties en cause. Ses décisions ne sont susceptibles d'aucun recours."
+      "content": "Le Tribunal des conflits peut être saisi des décisions définitives rendues par les juridictions administratives et judiciaires dans les instances introduites devant les deux ordres de juridiction, pour des litiges portant sur le même objet, lorsqu'elles présentent une contrariété conduisant à un déni de justice.Sur les litiges qui lui sont ainsi déférés, le Tribunal des conflits juge au fond, à l'égard de toutes les parties en cause. Ses décisions ne sont susceptibles d'aucun recours.",
+      "valid_from": "2015-04-01"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Le Tribunal des conflits est seul compétent pour connaître d'une action en indemnisation du préjudice découlant d'une durée totale excessive des procédures afférentes à un même litige et conduites entre les mêmes parties devant les juridictions des deux ordres en raison des règles de compétence applicables et, le cas échéant, devant lui."
+      "content": "Le Tribunal des conflits est seul compétent pour connaître d'une action en indemnisation du préjudice découlant d'une durée totale excessive des procédures afférentes à un même litige et conduites entre les mêmes parties devant les juridictions des deux ordres en raison des règles de compétence applicables et, le cas échéant, devant lui.",
+      "valid_from": "2015-04-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

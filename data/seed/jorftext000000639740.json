@@ -12,13 +12,21 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les enquêtes relatives aux accidents survenus antérieurement à la publication de la présente ordonnance restent soumises aux dispositions en vigueur à la date de l'accident."
+      "content": "Les enquêtes relatives aux accidents survenus antérieurement à la publication de la présente ordonnance restent soumises aux dispositions en vigueur à la date de l'accident.",
+      "valid_from": "2006-07-21"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre et le ministre de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2006-07-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

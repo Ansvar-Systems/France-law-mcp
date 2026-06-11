@@ -1,0 +1,39 @@
+{
+  "id": "legitext000006070729",
+  "type": "statute",
+  "title": "Ordonnance du 6 mai 1944",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070729/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "L'amende prévue par les articles 24 (alinéa 1er), 25, 26, 30, 31, 32 (alinéa 2), 34, 36, 37 et 40 de la loi du 29 juillet 1881 sera de 45000 euros.L'amende prononcée en application des articles 32 (alinéa 1er) et 33 (alinéas 1er et 2) sera de 2000 euros, elle pourra s'élever à 22500 euros dans le cas prévu à l'article 33 (alinéa 2 in fine).",
+      "valid_from": "2002-01-01"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15",
+      "content": "Sont abrogées toutes dispositions contraires à la présente ordonnance.",
+      "valid_from": "1944-05-20"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16",
+      "content": "La présente ordonnance         sera publiée au Journal Officiel de la République Française et exécutée comme loi.",
+      "valid_from": "2011-05-19"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

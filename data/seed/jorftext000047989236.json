@@ -12,13 +12,21 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La présente ordonnance entre en vigueur le 10 novembre 2023, à l'exception de son article 6, qui entre en vigueur le lendemain de sa publication."
+      "content": "La présente ordonnance entre en vigueur le 10 novembre 2023, à l'exception de son article 6, qui entre en vigueur le lendemain de sa publication.",
+      "valid_from": "2023-08-25"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "La Première ministre, le ministre de l'intérieur et des outre-mer et la ministre de la transition énergétique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "La Première ministre, le ministre de l'intérieur et des outre-mer et la ministre de la transition énergétique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2023-08-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

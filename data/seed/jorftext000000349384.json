@@ -12,7 +12,14 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Une évaluation des dispositions prévues par la présente loi devra être réalisée dans les cinq années qui suivent sa promulgation. Cette évaluation sera établie sur la base des rapports des commissions départementales prévues à l'article L. 332-3 du code de la santé publique ; elle sera soumise au Parlement après avis de la commission des maladies mentales."
+      "content": "Une évaluation des dispositions prévues par la présente loi devra être réalisée dans les cinq années qui suivent sa promulgation. Cette évaluation sera établie sur la base des rapports des commissions départementales prévues à l'article L. 332-3 du code de la santé publique ; elle sera soumise au Parlement après avis de la commission des maladies mentales.",
+      "valid_from": "1990-06-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

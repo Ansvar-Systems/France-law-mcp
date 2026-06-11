@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Lorsqu'un ouvrage d'infrastructure de transport, construit ou aménagé en urgence en vue du rétablissement des contrôles des marchandises et des passagers à destination ou en provenance du Royaume-Uni en raison de son retrait de l'Union européenne, est soumis aux dispositions de l'article L. 551-2 du code de l'environnement du fait du stationnement, chargement ou déchargement de véhicules ou d'engins de transport contenant des matières dangereuses, l'étude de dangers est adressée au représentant de l'Etat dans le département au plus tard six mois après le démarrage des travaux de l'ouvrage."
+      "content": "Lorsqu'un ouvrage d'infrastructure de transport, construit ou aménagé en urgence en vue du rétablissement des contrôles des marchandises et des passagers à destination ou en provenance du Royaume-Uni en raison de son retrait de l'Union européenne, est soumis aux dispositions de l'article L. 551-2 du code de l'environnement du fait du stationnement, chargement ou déchargement de véhicules ou d'engins de transport contenant des matières dangereuses, l'étude de dangers est adressée au représentant de l'Etat dans le département au plus tard six mois après le démarrage des travaux de l'ouvrage.",
+      "valid_from": "2019-03-29"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'article 1er est applicable aux travaux débutés avant le dernier jour du deuxième mois suivant la date du retrait du Royaume-Uni de l'Union européenne."
+      "content": "L'article 1er est applicable aux travaux débutés avant le dernier jour du deuxième mois suivant la date du retrait du Royaume-Uni de l'Union européenne.",
+      "valid_from": "2019-03-29"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, le ministre d'Etat, ministre de la transition écologique et solidaire, le ministre de l'économie et des finances et la ministre auprès du ministre d'Etat, ministre de la transition écologique et solidaire, chargée des transports, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre d'Etat, ministre de la transition écologique et solidaire, le ministre de l'économie et des finances et la ministre auprès du ministre d'Etat, ministre de la transition écologique et solidaire, chargée des transports, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2019-03-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

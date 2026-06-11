@@ -12,25 +12,35 @@
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les articles L. 324-6 à L. 324-8 du même code sont abrogés."
+      "content": "Les articles L. 324-6 à L. 324-8 du même code sont abrogés.",
+      "valid_from": "2006-01-01"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Le titre III du livre IV du code du travail applicable à Mayotte devient son titre V. Les articles L. 430-1 et L. 430-2 deviennent respectivement les articles L. 450-1 et L. 450-2."
+      "content": "Le titre III du livre IV du code du travail applicable à Mayotte devient son titre V. Les articles L. 430-1 et L. 430-2 deviennent respectivement les articles L. 450-1 et L. 450-2.",
+      "valid_from": "2006-01-01"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er janvier 2006.Toutefois, les dispositions du chapitre V du titre III du livre IV du code du travail applicable à Mayotte relatives au licenciement des délégués du personnel, introduites dans ce code par l'article 22 de la présente ordonnance, entrent en vigueur à la date de publication de celle-ci. Les dispositions du 3° de l'article 35 s'appliquent lors du prochain renouvellement du mandat des assesseurs du tribunal du travail."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er janvier 2006.Toutefois, les dispositions du chapitre V du titre III du livre IV du code du travail applicable à Mayotte relatives au licenciement des délégués du personnel, introduites dans ce code par l'article 22 de la présente ordonnance, entrent en vigueur à la date de publication de celle-ci. Les dispositions du 3° de l'article 35 s'appliquent lors du prochain renouvellement du mandat des assesseurs du tribunal du travail.",
+      "valid_from": "2006-01-01"
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "Le Premier ministre, le ministre de l'emploi, du travail et de la cohésion sociale, le garde des sceaux, ministre de la justice, et la ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'emploi, du travail et de la cohésion sociale, le garde des sceaux, ministre de la justice, et la ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2006-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

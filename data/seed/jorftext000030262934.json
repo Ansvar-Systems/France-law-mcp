@@ -12,13 +12,21 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "I.-Le titre Ier de la présente loi s'applique à compter du 1er novembre 2013. Il n'a pas pour effet de faire renaître des droits sur des fixations ou des phonogrammes dont la durée de protection a expiré avant le 1er novembre 2013.II.-En l'absence d'indication contraire claire dans le contrat, l'autorisation écrite donnée avant le 1er novembre 2013 en application de l'article L. 212-3 du code de la propriété intellectuelle continue de produire ses effets au-delà des cinquante premières années du délai de soixante-dix ans prévu au 2° du I de l'article L. 211-4 du même code.III.-L'autorisation écrite donnée avant le 1er novembre 2013 en application de l'article L. 212-3 du code de la propriété intellectuelle et prévoyant une rémunération proportionnelle peut être renégociée au bénéfice des artistes-interprètes au-delà des cinquante premières années du délai de soixante-dix ans prévu au 2° du I de l'article L. 211-4 du même code.IV.-Ne peuvent donner lieu à poursuites pénales que les infractions au titre Ier de la présente loi commises après la publication de ladite loi."
+      "content": "I.-Le titre Ier de la présente loi s'applique à compter du 1er novembre 2013. Il n'a pas pour effet de faire renaître des droits sur des fixations ou des phonogrammes dont la durée de protection a expiré avant le 1er novembre 2013.II.-En l'absence d'indication contraire claire dans le contrat, l'autorisation écrite donnée avant le 1er novembre 2013 en application de l'article L. 212-3 du code de la propriété intellectuelle continue de produire ses effets au-delà des cinquante premières années du délai de soixante-dix ans prévu au 2° du I de l'article L. 211-4 du même code.III.-L'autorisation écrite donnée avant le 1er novembre 2013 en application de l'article L. 212-3 du code de la propriété intellectuelle et prévoyant une rémunération proportionnelle peut être renégociée au bénéfice des artistes-interprètes au-delà des cinquante premières années du délai de soixante-dix ans prévu au 2° du I de l'article L. 211-4 du même code.IV.-Ne peuvent donner lieu à poursuites pénales que les infractions au titre Ier de la présente loi commises après la publication de ladite loi.",
+      "valid_from": "2015-02-23"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les articles 1er, 2 et 8 sont applicables dans les îles Wallis et Futuna."
+      "content": "Les articles 1er, 2 et 8 sont applicables dans les îles Wallis et Futuna.",
+      "valid_from": "2015-02-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

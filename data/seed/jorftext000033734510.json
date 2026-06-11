@@ -12,25 +12,35 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I.-A modifié les dispositions suivantes :\n\n-Code de commerce\n\nII.-Le I entre en vigueur le premier jour du troisième mois suivant la promulgation de la présente loi. Il est applicable aux contrats conclus avant cette date.\n\nArt. L420-2-2, Art. L420-3, Art. L420-4, Art. L420-6, Art. L450-5, Art. L462-3, Art. L462-5, Art. L462-6, Art. L464-2, Art. L464-9"
+      "content": "I.-A modifié les dispositions suivantes :\n\n-Code de commerce\n\nII.-Le I entre en vigueur le premier jour du troisième mois suivant la promulgation de la présente loi. Il est applicable aux contrats conclus avant cette date.\n\nArt. L420-2-2, Art. L420-3, Art. L420-4, Art. L420-6, Art. L450-5, Art. L462-3, Art. L462-5, Art. L462-6, Art. L464-2, Art. L464-9",
+      "valid_from": "2016-12-31"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "II. - Par dérogation au II de l'article L. 3112-1 du code des  transports, les entreprises de transport public collectif de personnes  exécutant, à la date de promulgation de la présente loi, dans les  périmètres mentionnés au même II, des services occasionnels avec des  véhicules motorisés comportant, outre le siège du conducteur, huit  places assises au maximum, peuvent continuer à exécuter de tels services  pendant un an à compter de cette même promulgation.III. - Un décret en Conseil d'Etat fixe, pour  une durée limitée, les mesures dérogatoires permettant aux conducteurs  employés par ou gérants des entreprises mentionnées au II du présent  article et n'ayant pas achevé la période probatoire prévue à l'article  L. 223-1 du code de la route, de se conformer aux conditions d'aptitude  mentionnées à l'article L. 3120-2-1 du code des transports.IV. - L'obligation de répondre à des  conditions techniques et de confort prévue à l'article L. 3122-4 du code  des transports n'est pas applicable aux véhicules déclarés par les  entreprises mentionnées au II du présent article lors de leur  inscription au registre mentionné à l'article L. 3122-3 du même code,  lorsque cette inscription intervient dans un délai d'un an à compter de  la promulgation de la présente loi. Elle leur est applicable à compter  du premier renouvellement de l'inscription de ces entreprises sur ce  registre."
+      "content": "II. - Par dérogation au II de l'article L. 3112-1 du code des  transports, les entreprises de transport public collectif de personnes  exécutant, à la date de promulgation de la présente loi, dans les  périmètres mentionnés au même II, des services occasionnels avec des  véhicules motorisés comportant, outre le siège du conducteur, huit  places assises au maximum, peuvent continuer à exécuter de tels services  pendant un an à compter de cette même promulgation.III. - Un décret en Conseil d'Etat fixe, pour  une durée limitée, les mesures dérogatoires permettant aux conducteurs  employés par ou gérants des entreprises mentionnées au II du présent  article et n'ayant pas achevé la période probatoire prévue à l'article  L. 223-1 du code de la route, de se conformer aux conditions d'aptitude  mentionnées à l'article L. 3120-2-1 du code des transports.IV. - L'obligation de répondre à des  conditions techniques et de confort prévue à l'article L. 3122-4 du code  des transports n'est pas applicable aux véhicules déclarés par les  entreprises mentionnées au II du présent article lors de leur  inscription au registre mentionné à l'article L. 3122-3 du même code,  lorsque cette inscription intervient dans un délai d'un an à compter de  la promulgation de la présente loi. Elle leur est applicable à compter  du premier renouvellement de l'inscription de ces entreprises sur ce  registre.",
+      "valid_from": "2016-12-31"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "I.-A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nII.-Le I du présent article entre en vigueur le 1er janvier 2017.\n\n-Code des transports\n\n-Code des transports\n\n-Code des transports\n\n-Code des transports"
+      "content": "I.-A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nII.-Le I du présent article entre en vigueur le 1er janvier 2017.\n\n-Code des transports\n\n-Code des transports\n\n-Code des transports\n\n-Code des transports",
+      "valid_from": "2016-12-31"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "I. à III.-A abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n-Code des transports\n\n-Code de la consommation\n\n-Code des transports\n\n-LOI n° 2014-1104 du 1er octobre 2014"
+      "content": "I. à III.-A abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n-Code des transports\n\n-Code de la consommation\n\n-Code des transports\n\n-LOI n° 2014-1104 du 1er octobre 2014",
+      "valid_from": "2016-12-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

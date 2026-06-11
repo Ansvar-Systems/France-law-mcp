@@ -12,13 +12,21 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "L'Agence pour la qualité de l'air, l'Agence française pour la maîtrise de l'énergie et l'Agence nationale pour la récupération et l'élimination des déchets sont dissoutes.Les biens, droits et obligations de ces trois établissements publics sont dévolus à l'Agence de l'environnement et de la maîtrise de l'énergie."
+      "content": "L'Agence pour la qualité de l'air, l'Agence française pour la maîtrise de l'énergie et l'Agence nationale pour la récupération et l'élimination des déchets sont dissoutes.Les biens, droits et obligations de ces trois établissements publics sont dévolus à l'Agence de l'environnement et de la maîtrise de l'énergie.",
+      "valid_from": "1990-12-22"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Il sera procédé à l'harmonisation des conditions d'emploi et de rémunération de tous les personnels de l'agence avant le 31 décembre 1991."
+      "content": "Il sera procédé à l'harmonisation des conditions d'emploi et de rémunération de tous les personnels de l'agence avant le 31 décembre 1991.",
+      "valid_from": "1990-12-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

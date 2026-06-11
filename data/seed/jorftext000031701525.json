@@ -12,19 +12,28 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "La présente loi est applicable :1° En Nouvelle-Calédonie et en Polynésie française, aux informations figurant dans des documents produits ou reçus par l'Etat, ses établissements publics, les communes et leurs établissements publics, les personnes publiques créées par l'Etat ou les personnes privées chargées par l'Etat d'une mission de service public ;2° Aux îles Wallis et Futuna et dans les Terres australes et antarctiques françaises."
+      "content": "La présente loi est applicable :1° En Nouvelle-Calédonie et en Polynésie française, aux informations figurant dans des documents produits ou reçus par l'Etat, ses établissements publics, les communes et leurs établissements publics, les personnes publiques créées par l'Etat ou les personnes privées chargées par l'Etat d'une mission de service public ;2° Aux îles Wallis et Futuna et dans les Terres australes et antarctiques françaises.",
+      "valid_from": "2015-12-30"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "I.-Les accords d'exclusivité existants qui relèvent des exceptions prévues aux articles L. 325-1 à L. 325-4 du code des relations entre le public et l'administration sont mis en conformité avec les dispositions du même article 14, dans sa rédaction résultant de la présente loi, lors de leur premier réexamen suivant la promulgation de la même loi. Sans préjudice de l'article 12 de l'ordonnance n° 2005-650 du 6 juin 2005 relative à la liberté d'accès aux documents administratifs et à la réutilisation des informations publiques, les accords d'exclusivité existants qui ne relèvent pas de l'exception prévue au premier alinéa dudit article 14 prennent fin à l'échéance du contrat et, au plus tard, à la seconde date mentionnée au 4 de l'article 11 de la directive 2003/98/ CE du Parlement européen et du Conseil, du 17 novembre 2003, concernant la réutilisation des informations du secteur public.\n\nII.-Les licences en cours et tout acte réglementaire ou contractuel en vigueur fixant les conditions de réutilisation des informations publiques à la date d'entrée en vigueur de la présente loi sont mis en conformité avec les articles L. 324-1 à L. 324-5 du code des relations entre le public et l'administration, dans sa rédaction résultant de la présente loi, au plus tard le premier jour du douzième mois suivant celui de sa promulgation."
+      "content": "I.-Les accords d'exclusivité existants qui relèvent des exceptions prévues aux articles L. 325-1 à L. 325-4 du code des relations entre le public et l'administration sont mis en conformité avec les dispositions du même article 14, dans sa rédaction résultant de la présente loi, lors de leur premier réexamen suivant la promulgation de la même loi. Sans préjudice de l'article 12 de l'ordonnance n° 2005-650 du 6 juin 2005 relative à la liberté d'accès aux documents administratifs et à la réutilisation des informations publiques, les accords d'exclusivité existants qui ne relèvent pas de l'exception prévue au premier alinéa dudit article 14 prennent fin à l'échéance du contrat et, au plus tard, à la seconde date mentionnée au 4 de l'article 11 de la directive 2003/98/ CE du Parlement européen et du Conseil, du 17 novembre 2003, concernant la réutilisation des informations du secteur public.\n\nII.-Les licences en cours et tout acte réglementaire ou contractuel en vigueur fixant les conditions de réutilisation des informations publiques à la date d'entrée en vigueur de la présente loi sont mis en conformité avec les articles L. 324-1 à L. 324-5 du code des relations entre le public et l'administration, dans sa rédaction résultant de la présente loi, au plus tard le premier jour du douzième mois suivant celui de sa promulgation.",
+      "valid_from": "2016-03-19"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est habilité à prendre par ordonnance toutes mesures relevant du domaine de la loi nécessaires pour modifier et compléter le code des relations entre le public et l'administration, afin de codifier, à droit constant, les articles 10 à 19 et 25 de la loi n° 78-753 du 17 juillet 1978 précitée dans sa rédaction issue de la présente loi.L'ordonnance est prise dans un délai de quatre mois à compter de la promulgation de la présente loi.Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de cette ordonnance.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est habilité à prendre par ordonnance toutes mesures relevant du domaine de la loi nécessaires pour modifier et compléter le code des relations entre le public et l'administration, afin de codifier, à droit constant, les articles 10 à 19 et 25 de la loi n° 78-753 du 17 juillet 1978 précitée dans sa rédaction issue de la présente loi.L'ordonnance est prise dans un délai de quatre mois à compter de la promulgation de la présente loi.Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de cette ordonnance.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2015-12-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le titre IV du livre VI du code rural et de la pêche maritime est modifié conformément aux articles 2 à 6."
+      "content": "Le titre IV du livre VI du code rural et de la pêche maritime est modifié conformément aux articles 2 à 6.",
+      "valid_from": "2015-10-09"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le Premier ministre et le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2015-10-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

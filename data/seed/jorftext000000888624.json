@@ -12,19 +12,28 @@
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "Dans les sociétés anonymes à capital variable, qui sont tenues d'harmoniser leurs statuts avec les dispositions de l'article 30 ci-dessus, la clause insérée dans les statuts en vertu de l'article L. 231-6, alinéas 1 et 2, du code de commerce demeure valable.Les actions des associés actionnaires qui cessent de faire partie de la société sont soit cédées à un autre associé ou à un salarié de la société, soit apportées à un fonds commun de placement comprenant exclusivement des actions de la société ; ce fonds commun de placement peut être géré par la société.Le règlement du fonds commun de placement doit prévoir l'institution d'un conseil de surveillance composé des représentants des actionnaires désignés selon des conditions fixées par décret. Le conseil de surveillance exerce les droits de vote attachés aux actions comprises dans le fonds commun de placement et désigne à cet effet un ou plusieurs mandataires.Les dispositions de l'article 3 et de l'article 7, alinéas 1, 2 et 4, de la loi n° 79-594 du 13 juillet 1979 relative aux fonds communs de placement ne sont pas applicables aux fonds communs de placement constitués en vertu du présent article ; le gérant n'est pas non plus tenu de demander la désignation d'un commissaire aux comptes."
+      "content": "Dans les sociétés anonymes à capital variable, qui sont tenues d'harmoniser leurs statuts avec les dispositions de l'article 30 ci-dessus, la clause insérée dans les statuts en vertu de l'article L. 231-6, alinéas 1 et 2, du code de commerce demeure valable.Les actions des associés actionnaires qui cessent de faire partie de la société sont soit cédées à un autre associé ou à un salarié de la société, soit apportées à un fonds commun de placement comprenant exclusivement des actions de la société ; ce fonds commun de placement peut être géré par la société.Le règlement du fonds commun de placement doit prévoir l'institution d'un conseil de surveillance composé des représentants des actionnaires désignés selon des conditions fixées par décret. Le conseil de surveillance exerce les droits de vote attachés aux actions comprises dans le fonds commun de placement et désigne à cet effet un ou plusieurs mandataires.Les dispositions de l'article 3 et de l'article 7, alinéas 1, 2 et 4, de la loi n° 79-594 du 13 juillet 1979 relative aux fonds communs de placement ne sont pas applicables aux fonds communs de placement constitués en vertu du présent article ; le gérant n'est pas non plus tenu de demander la désignation d'un commissaire aux comptes.",
+      "valid_from": "1983-01-04"
     },
     {
       "provision_ref": "art33",
       "section": "33",
       "title": "Article 33",
-      "content": "La présente loi est applicable aux sociétés qui seront constituées à dater de son entrée en vigueur.Les sociétés constituées antérieurement seront soumises aux dispositions de la présente loi à compter du 1er juillet 1982 ; par exception, un délai leur est accordé jusqu'au 1er janvier 1985 pour l'application des dispositions de l'article 8 sur le montant du capital social.Les sociétés seront tenues de procéder à la mise en harmonie de leurs statuts avant le 1er juillet 1985.Les modalités de mise en harmonie des statuts et les sanctions prévues par les articles 499, alinéas 3 à 5, 500 et 501 de la loi n° 66-537 du 24 juillet 1966 précitée (1) sont applicables."
+      "content": "La présente loi est applicable aux sociétés qui seront constituées à dater de son entrée en vigueur.Les sociétés constituées antérieurement seront soumises aux dispositions de la présente loi à compter du 1er juillet 1982 ; par exception, un délai leur est accordé jusqu'au 1er janvier 1985 pour l'application des dispositions de l'article 8 sur le montant du capital social.Les sociétés seront tenues de procéder à la mise en harmonie de leurs statuts avant le 1er juillet 1985.Les modalités de mise en harmonie des statuts et les sanctions prévues par les articles 499, alinéas 3 à 5, 500 et 501 de la loi n° 66-537 du 24 juillet 1966 précitée (1) sont applicables.",
+      "valid_from": "2000-09-21"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "La présente loi, à l'exception de l'article 31, est applicable dans les territoires d'outre-mer et à Mayotte."
+      "content": "La présente loi, à l'exception de l'article 31, est applicable dans les territoires d'outre-mer et à Mayotte.",
+      "valid_from": "2001-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

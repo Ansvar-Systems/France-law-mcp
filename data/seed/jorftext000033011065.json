@@ -12,25 +12,36 @@
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2016-732 DC du 28 juillet 2016.]\n\nA créé les dispositions suivantes :\n\n- Ordonnance n° 58-1270 du 22 décembre 1958\n\n- Ordonnance n° 58-1270 du 22 décembre 1958"
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2016-732 DC du 28 juillet 2016.]\n\nA créé les dispositions suivantes :\n\n- Ordonnance n° 58-1270 du 22 décembre 1958\n\n- Ordonnance n° 58-1270 du 22 décembre 1958",
+      "valid_from": "2016-08-12"
     },
     {
       "provision_ref": "art48",
       "section": "48",
       "title": "Article 48",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2016-732 DC du 28 juillet 2016.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2016-732 DC du 28 juillet 2016.]",
+      "valid_from": "2016-08-12"
     },
     {
       "provision_ref": "art49",
       "section": "49",
       "title": "Article 49",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2016-732 DC du 28 juillet 2016.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2016-732 DC du 28 juillet 2016.]",
+      "valid_from": "2016-08-12"
     },
     {
       "provision_ref": "art50",
       "section": "50",
       "title": "Article 50",
-      "content": "XII. - Les articles 3, 3-1 et 28-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 précitée, dans leur rédaction résultant, respectivement, des articles 2, 9 et 18 de la présente loi organique, s'agissant des juges des libertés et de la détention et des premiers vice-présidents chargés des fonctions de juge des libertés et de la détention, sont applicables à compter du 1er septembre 2017.XIII. - A la date de la publication de la présente loi organique, les magistrats régis par le I de l'article 164 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 poursuivent leurs activités non juridictionnelles, sauf s'ils ont présenté une demande visant à exercer une fonction juridictionnelle, en application de l'article 41-25 de l'ordonnance n° 58-1270 du 22 décembre 1958 précitée, dans sa rédaction résultant de la présente loi organique.XIV. - [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2016-732 DC du 28 juillet 2016.]XV. - [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2016-732 DC du 28 juillet 2016.]"
+      "content": "XII. - Les articles 3, 3-1 et 28-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 précitée, dans leur rédaction résultant, respectivement, des articles 2, 9 et 18 de la présente loi organique, s'agissant des juges des libertés et de la détention et des premiers vice-présidents chargés des fonctions de juge des libertés et de la détention, sont applicables à compter du 1er septembre 2017.XIII. - A la date de la publication de la présente loi organique, les magistrats régis par le I de l'article 164 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 poursuivent leurs activités non juridictionnelles, sauf s'ils ont présenté une demande visant à exercer une fonction juridictionnelle, en application de l'article 41-25 de l'ordonnance n° 58-1270 du 22 décembre 1958 précitée, dans sa rédaction résultant de la présente loi organique.XIV. - [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2016-732 DC du 28 juillet 2016.]XV. - [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2016-732 DC du 28 juillet 2016.]",
+      "valid_from": "2016-08-12",
+      "valid_to": "2029-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

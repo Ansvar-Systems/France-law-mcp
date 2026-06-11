@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Par dérogation aux dispositions de l'article 55 (1) de la loi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement amiable des difficultés des entreprises et jusqu'au 31 décembre 1991, les sociétés à responsabilité limitée dont le capital social serait inférieur au montant minimal prévu par le premier alinéa de l'article L. 223-2 du code de commerce pourront être dissoutes à la demande de tout intéressé ou du ministère public. Le tribunal pourra accorder un délai maximal de six mois pour régulariser la situation ; il ne pourra prononcer la dissolution si, au jour où il statue sur le fond, la régularisation a eu lieu."
+      "content": "Par dérogation aux dispositions de l'article 55 (1) de la loi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement amiable des difficultés des entreprises et jusqu'au 31 décembre 1991, les sociétés à responsabilité limitée dont le capital social serait inférieur au montant minimal prévu par le premier alinéa de l'article L. 223-2 du code de commerce pourront être dissoutes à la demande de tout intéressé ou du ministère public. Le tribunal pourra accorder un délai maximal de six mois pour régulariser la situation ; il ne pourra prononcer la dissolution si, au jour où il statue sur le fond, la régularisation a eu lieu.",
+      "valid_from": "1989-03-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Jusqu'au 31 décembre 1991, les gérants des sociétés à responsabilité limitée qui n'auront pas régularisé la situation à l'issue du délai qui leur aura été accordé par le tribunal en application de l'article précédent seront punis des peines prévues au dernier alinéa de l'article 501 de la loi n° 66-537 du 24 juillet 1966 précitée (1)."
+      "content": "Jusqu'au 31 décembre 1991, les gérants des sociétés à responsabilité limitée qui n'auront pas régularisé la situation à l'issue du délai qui leur aura été accordé par le tribunal en application de l'article précédent seront punis des peines prévues au dernier alinéa de l'article 501 de la loi n° 66-537 du 24 juillet 1966 précitée (1).",
+      "valid_from": "2000-09-21"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions de l'article 1er de la présente loi entrent en vigueur à compter du 1er mars 1989."
+      "content": "Les dispositions de l'article 1er de la présente loi entrent en vigueur à compter du 1er mars 1989.",
+      "valid_from": "1989-07-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

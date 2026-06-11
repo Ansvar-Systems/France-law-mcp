@@ -12,433 +12,505 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Au titre de l'année 2024, sont rectifiés :1° Les prévisions de recettes, les objectifs de dépenses et le tableau d'équilibre, par branche, de l'ensemble des régimes obligatoires de base de sécurité sociale ainsi qu'il suit :\n\n(En milliards d'euros)\n\n;2° Les prévisions de recettes, les prévisions de dépenses et le tableau d'équilibre des organismes concourant au financement des régimes obligatoires de base de sécurité sociale ainsi qu'il suit :\n\n(En milliards d'euros)\n\n;3° Les prévisions des recettes affectées au Fonds de réserve pour les retraites, lesquelles demeurent nulles ;4° L'objectif d'amortissement de la dette sociale par la Caisse d'amortissement de la dette sociale, qui est fixé à 15,99 milliards d'euros.\n\nRecettes\n\nDépenses\n\nSolde\n\nMaladie\n\n238,0\n\n253,3\n\n- 15,3\n\nAccidents du travail et maladies professionnelles\n\n16,7\n\n16,1\n\n0,6\n\nVieillesse\n\n287,6\n\n293,6\n\n- 6,0\n\nFamille\n\n58,4\n\n57,9\n\n0,5\n\nAutonomie\n\n41,1\n\n39,9\n\n1,1\n\nToutes branches (hors transferts entre branches)\n\n623,6\n\n642,6\n\n- 19,0\n\nToutes branches (hors transferts entre branches) y compris Fonds de solidarité vieillesse\n\n624,7\n\n642,9\n\n- 18,2\n\n1\n\ncenter\n\nRecettes\n\nDépenses\n\nSolde\n\nFonds de solidarité vieillesse\n\n21,4\n\n20,6\n\n0,8\n\n1\n\ncenter"
+      "content": "Au titre de l'année 2024, sont rectifiés :1° Les prévisions de recettes, les objectifs de dépenses et le tableau d'équilibre, par branche, de l'ensemble des régimes obligatoires de base de sécurité sociale ainsi qu'il suit :\n\n(En milliards d'euros)\n\n;2° Les prévisions de recettes, les prévisions de dépenses et le tableau d'équilibre des organismes concourant au financement des régimes obligatoires de base de sécurité sociale ainsi qu'il suit :\n\n(En milliards d'euros)\n\n;3° Les prévisions des recettes affectées au Fonds de réserve pour les retraites, lesquelles demeurent nulles ;4° L'objectif d'amortissement de la dette sociale par la Caisse d'amortissement de la dette sociale, qui est fixé à 15,99 milliards d'euros.\n\nRecettes\n\nDépenses\n\nSolde\n\nMaladie\n\n238,0\n\n253,3\n\n- 15,3\n\nAccidents du travail et maladies professionnelles\n\n16,7\n\n16,1\n\n0,6\n\nVieillesse\n\n287,6\n\n293,6\n\n- 6,0\n\nFamille\n\n58,4\n\n57,9\n\n0,5\n\nAutonomie\n\n41,1\n\n39,9\n\n1,1\n\nToutes branches (hors transferts entre branches)\n\n623,6\n\n642,6\n\n- 19,0\n\nToutes branches (hors transferts entre branches) y compris Fonds de solidarité vieillesse\n\n624,7\n\n642,9\n\n- 18,2\n\n1\n\ncenter\n\nRecettes\n\nDépenses\n\nSolde\n\nFonds de solidarité vieillesse\n\n21,4\n\n20,6\n\n0,8\n\n1\n\ncenter",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Au titre de l'année 2024, l'objectif national de dépenses d'assurance maladie de l'ensemble des régimes obligatoires de base ainsi que ses sous-objectifs sont rectifiés ainsi qu'il suit :\n\n(En milliards d'euros)\n\nSous-objectif\n\nObjectifde dépenses\n\nDépenses de soins de ville\n\n110,1\n\nDépenses relatives aux établissements de santé\n\n105,6\n\nDépenses relatives aux établissements et services pour personnes âgées\n\n16,1\n\nDépenses relatives aux établissements et services pour personnes handicapées\n\n15,2\n\nDépenses relatives au fonds d'intervention régional et au soutien national à l'investissement\n\n6,7\n\nAutres prises en charge\n\n3,2\n\nTotal\n\n256,9\n\n1\n\ncenter"
+      "content": "Au titre de l'année 2024, l'objectif national de dépenses d'assurance maladie de l'ensemble des régimes obligatoires de base ainsi que ses sous-objectifs sont rectifiés ainsi qu'il suit :\n\n(En milliards d'euros)\n\nSous-objectif\n\nObjectifde dépenses\n\nDépenses de soins de ville\n\n110,1\n\nDépenses relatives aux établissements de santé\n\n105,6\n\nDépenses relatives aux établissements et services pour personnes âgées\n\n16,1\n\nDépenses relatives aux établissements et services pour personnes handicapées\n\n15,2\n\nDépenses relatives au fonds d'intervention régional et au soutien national à l'investissement\n\n6,7\n\nAutres prises en charge\n\n3,2\n\nTotal\n\n256,9\n\n1\n\ncenter",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. II. - A modifié les dispositions suivantes :\n\nLes 1° et 2° du même I entrent en vigueur le 1er janvier 2026.\n\nPar dérogation au second alinéa des 1° et 2° de l'article L. 731-42 du code rural et de la pêche maritime, pour les périodes courant du 1er janvier 2026 au 31 décembre 2028, un décret fixe les taux des cotisations mentionnées au 1° du même article L. 731-42 dues par les chefs d'exploitation et d'entreprise agricole exerçant à titre secondaire et de celles mentionnées au 2° dudit article L. 731-42 de manière à résorber progressivement, chaque année, les écarts entre, d'une part, la somme des taux des cotisations d'assurance vieillesse de base applicables aux personnes concernées au 31 décembre 2025 et, d'autre part, les taux mentionnés au second alinéa des 1° et 2° du même article L. 731-42.\n\n- Code rural et de la pêche maritime\n\n- LOI n°2023-1250 du 26 décembre 2023\n\nIII. - Les 4°, 5° et 8° à 12° du I s'appliquent aux cotisations dues au titre des périodes courant à compter du 1er janvier 2026."
+      "content": "I. II. - A modifié les dispositions suivantes :\n\nLes 1° et 2° du même I entrent en vigueur le 1er janvier 2026.\n\nPar dérogation au second alinéa des 1° et 2° de l'article L. 731-42 du code rural et de la pêche maritime, pour les périodes courant du 1er janvier 2026 au 31 décembre 2028, un décret fixe les taux des cotisations mentionnées au 1° du même article L. 731-42 dues par les chefs d'exploitation et d'entreprise agricole exerçant à titre secondaire et de celles mentionnées au 2° dudit article L. 731-42 de manière à résorber progressivement, chaque année, les écarts entre, d'une part, la somme des taux des cotisations d'assurance vieillesse de base applicables aux personnes concernées au 31 décembre 2025 et, d'autre part, les taux mentionnés au second alinéa des 1° et 2° du même article L. 731-42.\n\n- Code rural et de la pêche maritime\n\n- LOI n°2023-1250 du 26 décembre 2023\n\nIII. - Les 4°, 5° et 8° à 12° du I s'appliquent aux cotisations dues au titre des périodes courant à compter du 1er janvier 2026.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Le I du présent article est applicable aux contrats prenant effet à compter du 1er janvier 2025.\n\n- Code de la sécurité sociale."
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Le I du présent article est applicable aux contrats prenant effet à compter du 1er janvier 2025.\n\n- Code de la sécurité sociale.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII.- A.-Le 1° du I entre en vigueur le 1er juillet 2025.B.- Le 2° du I entre en vigueur le 1er janvier 2026.\n\n- Code de la sécurité sociale."
+      "content": "I. - A modifié les dispositions suivantes :\n\nII.- A.-Le 1° du I entre en vigueur le 1er juillet 2025.B.- Le 2° du I entre en vigueur le 1er janvier 2026.\n\n- Code de la sécurité sociale.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "I. - Sous réserve que leur revenu professionnel non salarié annuel soit inférieur à un montant fixé par décret, les médecins exerçant leur activité dans une zone caractérisée par une offre de soins insuffisante ou des difficultés dans l'accès aux soins, au sens de l'article L. 1434-4 du code de la santé publique, classée par l'agence régionale de santé territorialement compétente comme une zone d'intervention prioritaire et remplissant les conditions prévues aux troisième à avant-dernier alinéas de l'article L. 643-6 du code de la sécurité sociale sont exonérés, au titre de leur activité professionnelle en qualité de médecin, des cotisations d'assurance vieillesse mentionnées aux articles L. 642-1, L. 644-1, L. 645-2 et L. 645-3 du même code dues sur les revenus perçus en 2025.II. - Par dérogation au 2° de l'article L. 161-22-1 du code de la sécurité sociale et à l'article L. 161-22-1-1 du même code, les médecins bénéficiant de l'exonération de cotisations prévue au I du présent article ne se constituent, au titre des périodes concernées, aucun droit à la retraite de base en vue d'une seconde pension.III. - Les I et II sont uniquement applicables aux médecins ayant liquidé leurs pensions de vieillesse personnelles avant le premier jour du mois suivant la promulgation de la présente loi."
+      "content": "I. - Sous réserve que leur revenu professionnel non salarié annuel soit inférieur à un montant fixé par décret, les médecins exerçant leur activité dans une zone caractérisée par une offre de soins insuffisante ou des difficultés dans l'accès aux soins, au sens de l'article L. 1434-4 du code de la santé publique, classée par l'agence régionale de santé territorialement compétente comme une zone d'intervention prioritaire et remplissant les conditions prévues aux troisième à avant-dernier alinéas de l'article L. 643-6 du code de la sécurité sociale sont exonérés, au titre de leur activité professionnelle en qualité de médecin, des cotisations d'assurance vieillesse mentionnées aux articles L. 642-1, L. 644-1, L. 645-2 et L. 645-3 du même code dues sur les revenus perçus en 2025.II. - Par dérogation au 2° de l'article L. 161-22-1 du code de la sécurité sociale et à l'article L. 161-22-1-1 du même code, les médecins bénéficiant de l'exonération de cotisations prévue au I du présent article ne se constituent, au titre des périodes concernées, aucun droit à la retraite de base en vue d'une seconde pension.III. - Les I et II sont uniquement applicables aux médecins ayant liquidé leurs pensions de vieillesse personnelles avant le premier jour du mois suivant la promulgation de la présente loi.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Jusqu'au 1er janvier 2026, le taux global applicable aux travailleurs indépendants des professions libérales relevant à la fois des articles L. 613-7 et L. 631-1 du code de la sécurité sociale peut être fixé par décret à un niveau inférieur à celui qui résulterait de l'application du premier alinéa du I de l'article L. 613-7 du même code, sans que l'écart à ce dernier excède :1° 20 % en 2024 ;2° 10 % en 2025."
+      "content": "Jusqu'au 1er janvier 2026, le taux global applicable aux travailleurs indépendants des professions libérales relevant à la fois des articles L. 613-7 et L. 631-1 du code de la sécurité sociale peut être fixé par décret à un niveau inférieur à celui qui résulterait de l'application du premier alinéa du I de l'article L. 613-7 du même code, sans que l'écart à ce dernier excède :1° 20 % en 2024 ;2° 10 % en 2025.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "I. II. - A modifié les dispositions suivantes :\n\n- Code rural et de la pêche maritime\n\nIII. - Avant le 1er octobre 2025, le Gouvernement remet au Parlement un rapport évaluant l'exonération de cotisations sociales mentionnée à l'article L. 741-16 du code rural et de la pêche maritime. Ce rapport évalue précisément le coût pour les finances sociales, l'impact économique sur les exploitations agricoles ainsi que l'efficacité sur l'emploi des travailleurs agricoles de ladite exonération. Le cas échéant, il formule des propositions pour en resserrer le périmètre."
+      "content": "I. II. - A modifié les dispositions suivantes :\n\n- Code rural et de la pêche maritime\n\nIII. - Avant le 1er octobre 2025, le Gouvernement remet au Parlement un rapport évaluant l'exonération de cotisations sociales mentionnée à l'article L. 741-16 du code rural et de la pêche maritime. Ce rapport évalue précisément le coût pour les finances sociales, l'impact économique sur les exploitations agricoles ainsi que l'efficacité sur l'emploi des travailleurs agricoles de ladite exonération. Le cas échéant, il formule des propositions pour en resserrer le périmètre.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "I.-, II.- A modifié les dispositions suivantes :\n\nIII.- Les I et II sont applicables aux cotisations et aux contributions dues au titre des périodes d'activité courant à compter du 1er janvier 2025.\n\n- Code de la sécurité sociale.\n\n- Code rural et de la pêche maritime"
+      "content": "I.-, II.- A modifié les dispositions suivantes :\n\nIII.- Les I et II sont applicables aux cotisations et aux contributions dues au titre des périodes d'activité courant à compter du 1er janvier 2025.\n\n- Code de la sécurité sociale.\n\n- Code rural et de la pêche maritime",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "I.- A créé les dispositions suivantes :\n\nII. - Le présent article s'applique au calcul des cotisations et des contributions dues au titre des périodes courant à compter du 1er janvier 2026.\n\n- Code rural et de la pêche maritime"
+      "content": "I.- A créé les dispositions suivantes :\n\nII. - Le présent article s'applique au calcul des cotisations et des contributions dues au titre des périodes courant à compter du 1er janvier 2026.\n\n- Code rural et de la pêche maritime",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "I.- à III.- A modifié les dispositions suivantes :\n\nIV.- Le présent article s'applique au calcul des cotisations et des contributions dues par les travailleurs indépendants agricoles au titre des périodes courant à compter du 1er janvier 2026.\n\n- Code rural et de la pêche maritime\n\n- Code de la sécurité sociale.\n\n- LOI n°2023-1250 du 26 décembre 2023"
+      "content": "I.- à III.- A modifié les dispositions suivantes :\n\nIV.- Le présent article s'applique au calcul des cotisations et des contributions dues par les travailleurs indépendants agricoles au titre des périodes courant à compter du 1er janvier 2026.\n\n- Code rural et de la pêche maritime\n\n- Code de la sécurité sociale.\n\n- LOI n°2023-1250 du 26 décembre 2023",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport évaluant la mise en œuvre de l'article 18 de la loi n° 2023-1250 du 26 décembre 2023 de financement de la sécurité sociale pour 2024.Ce rapport étudie l'opportunité d'aligner l'assiette des cotisations sociales sur celle de la contribution sociale généralisée, en évaluant l'incidence budgétaire pour les organismes de sécurité sociale et par cas-type d'assuré."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport évaluant la mise en œuvre de l'article 18 de la loi n° 2023-1250 du 26 décembre 2023 de financement de la sécurité sociale pour 2024.Ce rapport étudie l'opportunité d'aligner l'assiette des cotisations sociales sur celle de la contribution sociale généralisée, en évaluant l'incidence budgétaire pour les organismes de sécurité sociale et par cas-type d'assuré.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "I. à IV. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIV . -A.-Le 1° du III du présent article est applicable aux cotisations et aux contributions dues au titre des périodes d'emploi courant à compter du 1er janvier 2025.\n\nB.-Le 2° du même III est applicable aux cotisations et aux contributions dues au titre des périodes d'emploi courant à compter du 1er janvier 2026.\n\nV. - A compter de l'entrée en vigueur de la présente loi et jusqu'au 31 décembre 2029, un comité de suivi placé auprès du Premier ministre est chargé de l'évaluation des allégements généraux de cotisations sociales patronales et du suivi de la mise en œuvre de la réforme prévue au III du présent article. Présidé par une personnalité désignée par le Premier ministre, ce comité est composé de deux députés et de deux sénateurs et, à parts égales, de représentants des administrations compétentes et de représentants des organisations professionnelles d'employeurs et des organisations syndicales. Avant le dépôt des projets de loi de financement de la sécurité sociale pour les années 2026,2027,2028,2029 et 2030, il présente, dans un rapport qui est rendu public, l'état des évaluations réalisées. Sa composition, ses missions et ses modalités de fonctionnement sont précisées par décret.\n\nLes membres du comité exercent leurs fonctions à titre gratuit.\n\nVI. à VII. - A modifié les dispositions suivantes :\n\nVIII. - A.- A modifié les dispositions suivantes :\n\nB. - Le A du présent VIII entre en vigueur le 1er janvier 2026.\n\nIX. - Les articles L. 241-2-1 et L. 241-6-1 du code de la sécurité sociale s'appliquent dans leur rédaction antérieure à la présente loi aux réductions dégressives de cotisations patronales spécifiques dont le bénéfice est cumulable avec les réductions prévues aux mêmes articles L. 241-2-1 et L. 241-6-1, dans leur rédaction antérieure à la présente loi, mais pas avec la réduction générale dégressive prévue à l'article L. 241-13 dudit code.\n\nX. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance toute mesure relevant du domaine de la loi afin, dans le cas des réductions dégressives spécifiques mentionnées au IX du présent article :\n\n1° De prévoir dans leur dispositif que, pour les salariés donnant droit à la réduction dégressive prévue à l'article L. 241-13 du code de la sécurité sociale, les articles L. 241-2-1 et L. 241-6-1 du même code s'appliquent dans leur rédaction antérieure à la présente loi ;\n\n2° De modifier leurs règles de calcul, afin de corriger les cas où, à compter du 1er janvier 2026, la somme de la réduction dégressive spécifique et de celles prévues aux articles L. 241-2-1 et L. 241-6-1 du code de la sécurité sociale dans leur rédaction antérieure à la présente loi devient moins favorable que la réduction dégressive prévue à l'article L. 241-13 du code de la sécurité sociale pour certains niveaux de revenu d'activité. Ces corrections ne peuvent avoir pour effet de rendre la réduction moins favorable pour d'autres niveaux de revenu d'activité.\n\nL'ordonnance est prise dans un délai de six mois à compter de la promulgation de la présente loi. Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de cette ordonnance.\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale.\n\n-Code rural et de la pêche maritime"
+      "content": "I. à IV. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIV . -A.-Le 1° du III du présent article est applicable aux cotisations et aux contributions dues au titre des périodes d'emploi courant à compter du 1er janvier 2025.\n\nB.-Le 2° du même III est applicable aux cotisations et aux contributions dues au titre des périodes d'emploi courant à compter du 1er janvier 2026.\n\nV. - A compter de l'entrée en vigueur de la présente loi et jusqu'au 31 décembre 2029, un comité de suivi placé auprès du Premier ministre est chargé de l'évaluation des allégements généraux de cotisations sociales patronales et du suivi de la mise en œuvre de la réforme prévue au III du présent article. Présidé par une personnalité désignée par le Premier ministre, ce comité est composé de deux députés et de deux sénateurs et, à parts égales, de représentants des administrations compétentes et de représentants des organisations professionnelles d'employeurs et des organisations syndicales. Avant le dépôt des projets de loi de financement de la sécurité sociale pour les années 2026,2027,2028,2029 et 2030, il présente, dans un rapport qui est rendu public, l'état des évaluations réalisées. Sa composition, ses missions et ses modalités de fonctionnement sont précisées par décret.\n\nLes membres du comité exercent leurs fonctions à titre gratuit.\n\nVI. à VII. - A modifié les dispositions suivantes :\n\nVIII. - A.- A modifié les dispositions suivantes :\n\nB. - Le A du présent VIII entre en vigueur le 1er janvier 2026.\n\nIX. - (Abrogé).\n\nX. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance toute mesure relevant du domaine de la loi afin, dans le cas des réductions dégressives spécifiques mentionnées au IX du présent article :\n\n1° De prévoir dans leur dispositif que, pour les salariés donnant droit à la réduction dégressive prévue à l'article L. 241-13 du code de la sécurité sociale, les articles L. 241-2-1 et L. 241-6-1 du même code s'appliquent dans leur rédaction antérieure à la présente loi ;\n\n2° De modifier leurs règles de calcul, afin de corriger les cas où, à compter du 1er janvier 2026, la somme de la réduction dégressive spécifique et de celles prévues aux articles L. 241-2-1 et L. 241-6-1 du code de la sécurité sociale dans leur rédaction antérieure à la présente loi devient moins favorable que la réduction dégressive prévue à l'article L. 241-13 du code de la sécurité sociale pour certains niveaux de revenu d'activité. Ces corrections ne peuvent avoir pour effet de rendre la réduction moins favorable pour d'autres niveaux de revenu d'activité.\n\nL'ordonnance est prise dans un délai de six mois à compter de la promulgation de la présente loi. Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de cette ordonnance.\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale.\n\n-Code rural et de la pêche maritime",
+      "valid_from": "2026-01-01"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Le présent article entre en vigueur le premier jour du mois suivant la publication de la présente loi.\n\n- Code de la sécurité sociale."
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Le présent article entre en vigueur le premier jour du mois suivant la publication de la présente loi.\n\n- Code de la sécurité sociale.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "I. - L'Etat peut, à titre expérimental et pour une durée de trois ans, permettre aux chefs d'exploitation ou d'entreprise agricole d'opter pour que leurs cotisations soient calculées à titre provisionnel sur la base d'une assiette fixée forfaitairement, par dérogation à l'article L. 731-15 du code rural et de la pêche maritime.II. - Les modalités de mise en œuvre de l'expérimentation prévue au I sont définies par décret, au plus tard le 1er octobre 2025. Les ministres chargés du travail et de l'agriculture arrêtent la liste des territoires participant à l'expérimentation, dans la limite de trois régions.III. - Dans un délai de six mois avant le terme de l'expérimentation, le Gouvernement adresse au Parlement un rapport d'évaluation, portant notamment sur la pertinence de sa généralisation."
+      "content": "I. - L'Etat peut, à titre expérimental et pour une durée de trois ans, permettre aux chefs d'exploitation ou d'entreprise agricole d'opter pour que leurs cotisations soient calculées à titre provisionnel sur la base d'une assiette fixée forfaitairement, par dérogation à l'article L. 731-15 du code rural et de la pêche maritime.II. - Les modalités de mise en œuvre de l'expérimentation prévue au I sont définies par décret, au plus tard le 1er octobre 2025. Les ministres chargés du travail et de l'agriculture arrêtent la liste des territoires participant à l'expérimentation, dans la limite de trois régions.III. - Dans un délai de six mois avant le terme de l'expérimentation, le Gouvernement adresse au Parlement un rapport d'évaluation, portant notamment sur la pertinence de sa généralisation.",
+      "valid_from": "2025-03-01",
+      "valid_to": "2026-10-01"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "I. à V. - A modifié les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\n- Code des transports\n\n- Code général des impôts, CGI.\n\nVI. - Le présent article entre en vigueur le premier jour du mois suivant la publication de la présente loi et est applicable aux cotisations et aux contributions dues au titre des périodes d'activité courant à compter de la même date, à l'exception du I, qui s'applique aux contrats d'apprentissage conclus à compter de la même date."
+      "content": "I. à V. - A modifié les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\n- Code des transports\n\n- Code général des impôts, CGI.\n\nVI. - Le présent article entre en vigueur le premier jour du mois suivant la publication de la présente loi et est applicable aux cotisations et aux contributions dues au titre des périodes d'activité courant à compter de la même date, à l'exception du I, qui s'applique aux contrats d'apprentissage conclus à compter de la même date.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Le présent article entre en vigueur le premier jour du mois suivant la publication de la présente loi et s'applique aux contrats d'apprentissage conclus à compter de la même date.\n\n- Code du travail"
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Le présent article entre en vigueur le premier jour du mois suivant la publication de la présente loi et s'applique aux contrats d'apprentissage conclus à compter de la même date.\n\n- Code du travail",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "I. à XX.-A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nXXI.-Les fonds propres, constatés à la clôture de l'exercice 2024, des régimes spéciaux de retraite mentionnés aux b et c du 3° de l'article L. 134-3 du code de la sécurité sociale font l'objet, au plus tard le 30 juin 2025, d'une reprise par la Caisse nationale d'assurance vieillesse, qui les enregistre en fonds propres dans ses comptes. Les modalités de cette reprise ainsi que de celle des actifs correspondants sont fixées par arrêté des ministres chargés de la sécurité sociale et du budget.XXII.-Les droits et obligations du Fonds de solidarité vieillesse sont dévolus à la Caisse nationale d'assurance vieillesse à compter du 1er janvier 2026.Les comptes de l'exercice 2025 du Fonds de solidarité vieillesse sont approuvés par arrêté des ministres chargés du budget et de la sécurité sociale.Au plus tard le 1er juin de chaque année, le Gouvernement remet au Parlement un rapport retraçant les efforts de la Nation en matière de solidarité vieillesse.XXIII.-A.-Les I à V, XV et XVI s'appliquent à compter du 1er janvier 2025.B.-Les VII à XIV, XVII à XX et XXII entrent en vigueur le 1er janvier 2026.\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale.\n\n-Code rural et de la pêche maritime\n\n-Loi n° 2002-73 du 17 janvier 2002\n\n-Code du travail\n\n-Code du service national\n\n-Ordonnance n° 2002-411 du 27 mars 2002\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale."
+      "content": "I. à XX.-A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nXXI.-Les fonds propres, constatés à la clôture de l'exercice 2024, des régimes spéciaux de retraite mentionnés aux b et c du 3° de l'article L. 134-3 du code de la sécurité sociale font l'objet, au plus tard le 30 juin 2025, d'une reprise par la Caisse nationale d'assurance vieillesse, qui les enregistre en fonds propres dans ses comptes. Les modalités de cette reprise ainsi que de celle des actifs correspondants sont fixées par arrêté des ministres chargés de la sécurité sociale et du budget.\n\nXXII.-Les droits et obligations du Fonds de solidarité vieillesse sont dévolus à la Caisse nationale d'assurance vieillesse à compter du 1er janvier 2026.\n\nLes comptes de l'exercice 2025 du Fonds de solidarité vieillesse sont approuvés par arrêté des ministres chargés du budget et de la sécurité sociale.\n\nAu plus tard le 1er juin de chaque année, le Gouvernement remet au Parlement un rapport retraçant les efforts de la Nation en matière de solidarité vieillesse.\n\nXXIII.-A.-Les I à V, XV et XVI s'appliquent à compter du 1er janvier 2025.\n\nB.-Les VII à XIV, XVII à XX et XXII entrent en vigueur le 1er janvier 2026.\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale.\n\n-Code rural et de la pêche maritime\n\n-Loi n° 2002-73 du 17 janvier 2002\n\n-Code du travail\n\n-Code du service national\n\n-Ordonnance n° 2002-411 du 27 mars 2002\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "I. II. III. - A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\n- Code rural et de la pêche maritime\n\n- Code de commerce\n\n- Code de commerce"
+      "content": "I. II. III. - A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\n- Code rural et de la pêche maritime\n\n- Code de commerce\n\n- Code de commerce",
+      "valid_from": "2025-07-02"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "I.- A modifié les dispositions suivantes :\n\nII.- A modifié les dispositions suivantes :\n\nIII.- Le I est applicable aux cotisations et contributions dues pour les périodes courant à compter du 1er janvier 2026.\n\n- Code rural et de la pêche maritime\n\n- Code de la sécurité sociale."
+      "content": "I.- A modifié les dispositions suivantes :\n\nII.- A modifié les dispositions suivantes :\n\nIII.- Le I est applicable aux cotisations et contributions dues pour les périodes courant à compter du 1er janvier 2026.\n\n- Code rural et de la pêche maritime\n\n- Code de la sécurité sociale.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "I.- A modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nII. - Pour l'année 2025, le montant Z mentionné à l'article L. 138-19-8 du code de la sécurité sociale est fixé à 2,26 milliards d'euros.III. - Pour l'année 2025, le montant M mentionné à l'article L. 138-10 du code de la sécurité sociale est fixé à 27,25 milliards d'euros.IV. - Le montant de la contribution prévue à l'article L. 138-12 du code de la sécurité sociale due au titre de l'année 2025 par chaque entreprise redevable au titre des spécialités pharmaceutiques définies aux 1° à 3° du présent IV ne peut excéder 1,75 % du chiffre d'affaires réalisé par l'entreprise au titre de ces mêmes spécialités, calculé selon les modalités prévues à l'article L. 138-11 du même code. Ces spécialités sont :1° Les spécialités génériques définies au 5° de l'article L. 5121-1 du code de la santé publique ;2° Les spécialités de référence mentionnées au même article L. 5121-1 dont la base de remboursement des frais exposés par les assurés est limitée à un tarif forfaitaire de responsabilité défini au II de l'article L. 162-16 du code de la sécurité sociale ou dont le prix fixé en application de l'article L. 162-16-4 du même code est identique à celui des spécialités génériques figurant dans le même groupe générique en application du b du 5° de l'article L. 5121-1 du code de la santé publique ;3° Les spécialités de référence appartenant à certaines classes thérapeutiques définies par décret, lorsque leur prix de vente au public est inférieur à un seuil fixé, pour chaque classe, par le même décret.L'application du présent IV ne peut avoir pour effet de diminuer le montant total de la contribution calculé selon les modalités prévues à l'article L. 138-12 du code de la sécurité sociale. Le montant à redistribuer dû par chaque entreprise redevable est réparti au prorata de la contribution au titre des spécialités non citées aux 1° à 3° du présent IV. Le cas échéant, la contribution due par chaque entreprise en application de l'article L. 138-12 du code de la sécurité sociale peut être augmentée du montant issu de cette redistribution, sans excéder 10 % de son chiffre d'affaires calculé selon les modalités définies à l'article L. 138-10 du même code.V. - Pour la contribution définie à l'article L. 138-10 du code de la sécurité sociale due au titre de l'année 2025 :1° Le calcul de la part de la contribution au titre de la progression du chiffre d'affaires prévue au troisième alinéa de l'article L. 138-12 du même code, dans sa rédaction antérieure à la loi n° 2023-1250 du 26 décembre 2023 de financement de la sécurité sociale pour 2024, pour les entreprises exploitant ou assurant la distribution ou l'importation parallèle des spécialités mentionnées au 6° du II de l'article L. 138-10 du code de la sécurité sociale, est effectué en reconstituant le chiffre d'affaires réalisé en 2024 par ces entreprises au titre de ces spécialités ;2° Par dérogation au dernier alinéa de l'article L. 138-12 du même code, dans sa rédaction antérieure à la loi n° 2023-1250 du 26 décembre 2023 précitée, le montant de la contribution prévue à l'article L. 138-12 du code de la sécurité sociale due au titre de l'année 2025 par chaque entreprise redevable ne peut excéder 10 % de son chiffre d'affaires calculé selon les modalités définies à l'article L. 138-10 du même code.VI. - Les 1° à 4° du I du présent article entrent en vigueur à la date prévue au VII de l'article 28 de la loi n° 2023-1250 du 26 décembre 2023 précitée.VII. - Pour l'année 2025, le montant M mentionné au III du présent article est fixé à un niveau conduisant à un rendement maximal de 1,6 milliard d'euros de la contribution mentionnée à l'article L. 138-10 du code de la sécurité sociale si l'évolution des dépenses de l'assurance maladie au titre des médicaments remboursés avant les mesures d'économies et les mesures d'économies portant sur ces dépenses sont conformes aux prévisions sous-jacentes à la présente loi. Ce montant M est révisé par la loi de financement de la sécurité sociale pour 2026, à la hausse ou à la baisse, afin de garantir le respect de l'équilibre économique conforme à ces prévisions.VIII. - Au VII de l'article 28 de la loi n° 2023-1250 du 26 décembre 2023 précitée, l'année : &laquo 2026 &raquo est remplacée par l'année : &laquo 2027 &raquo pour la contribution définie à l'article L. 138-10 du code de la sécurité sociale due au titre de l'année 2026.\n\n- Code de la sécurité sociale.\n\n- Code de la sécurité sociale."
+      "content": "I.- A modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nII. - Pour l'année 2025, le montant Z mentionné à l'article L. 138-19-8 du code de la sécurité sociale est fixé à 2,26 milliards d'euros.\n\nIII. - Pour l'année 2025, le montant M mentionné à l'article L. 138-10 du code de la sécurité sociale est fixé à 26,10 milliards d'euros.\n\nIV. - Le montant de la contribution prévue à l'article L. 138-12 du code de la sécurité sociale due au titre de l'année 2025 par chaque entreprise redevable au titre des spécialités pharmaceutiques définies aux 1° à 3° du présent IV ne peut excéder 1,75 % du chiffre d'affaires réalisé par l'entreprise au titre de ces mêmes spécialités, calculé selon les modalités prévues à l'article L. 138-11 du même code. Ces spécialités sont :\n\n1° Les spécialités génériques définies au 5° de l'article L. 5121-1 du code de la santé publique ;\n\n2° Les spécialités de référence mentionnées au même article L. 5121-1 dont la base de remboursement des frais exposés par les assurés est limitée à un tarif forfaitaire de responsabilité défini au II de l'article L. 162-16 du code de la sécurité sociale ou dont le prix fixé en application de l'article L. 162-16-4 du même code est identique à celui des spécialités génériques figurant dans le même groupe générique en application du b du 5° de l'article L. 5121-1 du code de la santé publique ;\n\n3° Les spécialités de référence appartenant à certaines classes thérapeutiques définies par décret, lorsque leur prix de vente au public est inférieur à un seuil fixé, pour chaque classe, par le même décret.\n\nL'application du présent IV ne peut avoir pour effet de diminuer le montant total de la contribution calculé selon les modalités prévues à l'article L. 138-12 du code de la sécurité sociale. Le montant à redistribuer dû par chaque entreprise redevable est réparti au prorata de la contribution au titre des spécialités non citées aux 1° à 3° du présent IV. Le cas échéant, la contribution due par chaque entreprise en application de l'article L. 138-12 du code de la sécurité sociale peut être augmentée du montant issu de cette redistribution, sans excéder 10 % de son chiffre d'affaires calculé selon les modalités définies à l'article L. 138-10 du même code.\n\nV. - Pour la contribution définie à l'article L. 138-10 du code de la sécurité sociale due au titre de l'année 2025 :\n\n1° Le calcul de la part de la contribution au titre de la progression du chiffre d'affaires prévue au troisième alinéa de l'article L. 138-12 du même code, dans sa rédaction antérieure à la loi n° 2023-1250 du 26 décembre 2023 de financement de la sécurité sociale pour 2024, pour les entreprises exploitant ou assurant la distribution ou l'importation parallèle des spécialités mentionnées au 6° du II de l'article L. 138-10 du code de la sécurité sociale, est effectué en reconstituant le chiffre d'affaires réalisé en 2024 par ces entreprises au titre de ces spécialités ;\n\n2° Par dérogation au dernier alinéa de l'article L. 138-12 du même code, dans sa rédaction antérieure à la loi n° 2023-1250 du 26 décembre 2023 précitée, le montant de la contribution prévue à l'article L. 138-12 du code de la sécurité sociale due au titre de l'année 2025 par chaque entreprise redevable ne peut excéder 10 % de son chiffre d'affaires calculé selon les modalités définies à l'article L. 138-10 du même code.\n\nVI. - Les 1° à 4° du I du présent article entrent en vigueur à la date prévue au VII de l'article 28 de la loi n° 2023-1250 du 26 décembre 2023 précitée.\n\nVII. - Pour l'année 2025, le montant M mentionné au III du présent article est fixé à un niveau conduisant à un rendement maximal de 1,6 milliard d'euros de la contribution mentionnée à l'article L. 138-10 du code de la sécurité sociale si l'évolution des dépenses de l'assurance maladie au titre des médicaments remboursés avant les mesures d'économies et les mesures d'économies portant sur ces dépenses sont conformes aux prévisions sous-jacentes à la présente loi. Ce montant M est révisé par la loi de financement de la sécurité sociale pour 2026, à la hausse ou à la baisse, afin de garantir le respect de l'équilibre économique conforme à ces prévisions.\n\nVIII. - Au VII de l'article 28 de la loi n° 2023-1250 du 26 décembre 2023 précitée, l'année : \" 2026 \" est remplacée par l'année : \" 2027 \" pour la contribution définie à l'article L. 138-10 du code de la sécurité sociale due au titre de l'année 2026.\n\n- Code de la sécurité sociale.\n\n- Code de la sécurité sociale.",
+      "valid_from": "2025-12-31"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "I.- A modifié les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\nII. - Le I s'applique à la contribution prévue à l'article L. 137-33 du code de la sécurité sociale due à compter de l'exercice 2025."
+      "content": "I.- A modifié les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\nII. - Le I s'applique à la contribution prévue à l'article L. 137-33 du code de la sécurité sociale due à compter de l'exercice 2025.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Le 1° du I entre en vigueur le premier jour du mois suivant la publication de la présente loi.\n\nLe 2° du même I entre en vigueur le 1er janvier 2026.\n\n-Code général des impôts, CGI."
+      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Le 1° du I entre en vigueur le premier jour du mois suivant la publication de la présente loi.\n\nLe 2° du même I entre en vigueur le 1er janvier 2026.\n\n-Code général des impôts, CGI.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "I.- A modifié les dispositions suivantes :\n\nII.- A abrogé les dispositions suivantes :\n\nIII.- A modifié les dispositions suivantes :\n\nIV.- Le présent article entre en vigueur le 1er juillet 2025 et s'applique aux contributions et aux prélèvements dus à compter de la même date.\n\nV.- Le 6° du I s'applique à la perception de la contribution mentionnée à l'article L. 137-27 du code de la sécurité sociale due au titre des exercices clos à compter du 1er juillet 2025.\n\n- Code de la sécurité sociale.\n\n- Code général des collectivités territoriales\n\n- Code de la sécurité intérieure"
+      "content": "I.- A modifié les dispositions suivantes :\n\nII.- A abrogé les dispositions suivantes :\n\nIII.- A modifié les dispositions suivantes :\n\nIV.- Le présent article entre en vigueur le 1er juillet 2025 et s'applique aux contributions et aux prélèvements dus à compter de la même date.\n\nV.- Le 6° du I s'applique à la perception de la contribution mentionnée à l'article L. 137-27 du code de la sécurité sociale due au titre des exercices clos à compter du 1er juillet 2025.\n\n- Code de la sécurité sociale.\n\n- Code général des collectivités territoriales\n\n- Code de la sécurité intérieure",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "Est approuvé le montant de 6,37 milliards d'euros correspondant à la compensation des exonérations, réductions ou abattements d'assiette de cotisations ou contributions de sécurité sociale, mentionné à l'annexe 4 jointe au projet de loi de financement de la sécurité sociale pour 2025."
+      "content": "Est approuvé le montant de 6,37 milliards d'euros correspondant à la compensation des exonérations, réductions ou abattements d'assiette de cotisations ou contributions de sécurité sociale, mentionné à l'annexe 4 jointe au projet de loi de financement de la sécurité sociale pour 2025.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "I. - Pour l'année 2025, est approuvé le tableau d'équilibre, par branche, de l'ensemble des régimes obligatoires de base de sécurité sociale :\n\n(En milliards d'euros)\n\nII. - Pour l'année 2025, est approuvé le tableau d'équilibre du Fonds de solidarité vieillesse :\n\n(En milliards d'euros)\n\nRecettes\n\nDépenses\n\nSolde\n\nMaladie\n\n246,4\n\n261,8\n\n- 15,4\n\nAccidents du travail et maladies professionnelles\n\n17,1\n\n17,0\n\n0,2\n\nVieillesse\n\n296,6\n\n304,1\n\n- 7,5\n\nFamille\n\n59,9\n\n59,5\n\n0,4\n\nAutonomie\n\n41,9\n\n42,6\n\n- 0,7\n\nToutes branches (hors transferts entre branches)\n\n643,0\n\n666,1\n\n- 23,0\n\nToutes branches (hors transferts entre branches) y compris Fonds de solidarité vieillesse\n\n644,3\n\n666,4\n\n- 22,1\n\n1\n\ncenter\n\nRecettes\n\nDépenses\n\nSolde\n\nFonds de solidarité vieillesse\n\n22,1\n\n21,1\n\n0,9\n\n1\n\ncenter"
+      "content": "I. - Pour l'année 2025, est approuvé le tableau d'équilibre, par branche, de l'ensemble des régimes obligatoires de base de sécurité sociale :\n\n(En milliards d'euros)\n\nII. - Pour l'année 2025, est approuvé le tableau d'équilibre du Fonds de solidarité vieillesse :\n\n(En milliards d'euros)\n\nRecettes\n\nDépenses\n\nSolde\n\nMaladie\n\n246,4\n\n261,8\n\n- 15,4\n\nAccidents du travail et maladies professionnelles\n\n17,1\n\n17,0\n\n0,2\n\nVieillesse\n\n296,6\n\n304,1\n\n- 7,5\n\nFamille\n\n59,9\n\n59,5\n\n0,4\n\nAutonomie\n\n41,9\n\n42,6\n\n- 0,7\n\nToutes branches (hors transferts entre branches)\n\n643,0\n\n666,1\n\n- 23,0\n\nToutes branches (hors transferts entre branches) y compris Fonds de solidarité vieillesse\n\n644,3\n\n666,4\n\n- 22,1\n\n1\n\ncenter\n\nRecettes\n\nDépenses\n\nSolde\n\nFonds de solidarité vieillesse\n\n22,1\n\n21,1\n\n0,9\n\n1\n\ncenter",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "I. - Pour l'année 2025, l'objectif d'amortissement de la dette sociale par la Caisse d'amortissement de la dette sociale est fixé à 16,28 milliards d'euros.II. - Pour l'année 2025, les prévisions de recettes par catégorie affectées au Fonds de réserve pour les retraites sont fixées à :\n\n(En milliards d'euros)\n\nPrévisions de recettes\n\nRecettes affectées\n\n0\n\n1\n\ncenter"
+      "content": "I. - Pour l'année 2025, l'objectif d'amortissement de la dette sociale par la Caisse d'amortissement de la dette sociale est fixé à 16,28 milliards d'euros.II. - Pour l'année 2025, les prévisions de recettes par catégorie affectées au Fonds de réserve pour les retraites sont fixées à :\n\n(En milliards d'euros)\n\nPrévisions de recettes\n\nRecettes affectées\n\n0\n\n1\n\ncenter",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art39",
       "section": "39",
       "title": "Article 39",
-      "content": "I.- Sont habilités en 2025 à recourir à des ressources non permanentes afin de couvrir leurs besoins de trésorerie les organismes mentionnés dans le tableau ci-dessous, dans les limites indiquées :\n\n(En millions d'euros)\n\nII.- A modifié les dispositions suivantes :\n\nEncours limites\n\nAgence centrale des organismes de sécurité sociale (ACOSS)\n\n65 000\n\nCaisse de prévoyance et de retraite du personnel ferroviaire (CPRPF)\n\n300\n\nCaisse autonome nationale de la sécurité sociale dans les mines (CANSSM)\n\n450\n\nCaisse nationale de retraites des agents des collectivités locales (CNRACL)\n\n13 200\n\n1\n\n- Code de la sécurité sociale."
+      "content": "I.- Sont habilités en 2025 à recourir à des ressources non permanentes afin de couvrir leurs besoins de trésorerie les organismes mentionnés dans le tableau ci-dessous, dans les limites indiquées :\n\n(En millions d'euros)\n\nII.- A modifié les dispositions suivantes :\n\nEncours limites\n\nAgence centrale des organismes de sécurité sociale (ACOSS)\n\n65 000\n\nCaisse de prévoyance et de retraite du personnel ferroviaire (CPRPF)\n\n300\n\nCaisse autonome nationale de la sécurité sociale dans les mines (CANSSM)\n\n450\n\nCaisse nationale de retraites des agents des collectivités locales (CNRACL)\n\n13 200\n\n1\n\n- Code de la sécurité sociale.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art40",
       "section": "40",
       "title": "Article 40",
-      "content": "Est approuvé le rapport figurant en annexe à la présente loi décrivant, pour les quatre années à venir (2025 à 2028), les prévisions de recettes et les objectifs de dépenses par branche des régimes obligatoires de base de sécurité sociale, les prévisions de recettes et de dépenses des organismes concourant au financement de ces régimes ainsi que l'objectif national de dépenses d'assurance maladie."
+      "content": "Est approuvé le rapport figurant en annexe à la présente loi décrivant, pour les quatre années à venir (2025 à 2028), les prévisions de recettes et les objectifs de dépenses par branche des régimes obligatoires de base de sécurité sociale, les prévisions de recettes et de dépenses des organismes concourant au financement de ces régimes ainsi que l'objectif national de dépenses d'assurance maladie.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art41",
       "section": "41",
       "title": "Article 41",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - En l'absence de conclusion, au 30 septembre 2025, d'un accord mentionné à l'article L. 162-12-18 sur les dépenses d'imagerie médicale permettant de réaliser un montant d'au moins 300 millions d'euros d'économies au cours des années 2025 à 2027, le directeur général de l'Union nationale des caisses d'assurance maladie peut procéder jusqu'au 31 octobre 2025 à des baisses de tarifs des actes d'imagerie permettant d'atteindre ce montant d'économies.III. - En l'absence de conclusion, au 30 septembre 2025, d'accords mentionnés à l'article L. 162-12-18 dans le champ des transports sanitaires et des transports effectués par une entreprise de taxi permettant de réaliser un montant d'au moins 300 millions d'euros d'économies au cours des années 2025 à 2027, le directeur général de l'Union nationale des caisses d'assurance maladie peut procéder jusqu'au 31 octobre 2025 à des baisses de tarifs permettant d'atteindre ce montant.\n\n- Code de la sécurité sociale."
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - En l'absence de conclusion, au 30 septembre 2025, d'un accord mentionné à l'article L. 162-12-18 sur les dépenses d'imagerie médicale permettant de réaliser un montant d'au moins 300 millions d'euros d'économies au cours des années 2025 à 2027, le directeur général de l'Union nationale des caisses d'assurance maladie peut procéder jusqu'au 31 octobre 2025 à des baisses de tarifs des actes d'imagerie permettant d'atteindre ce montant d'économies.III. - En l'absence de conclusion, au 30 septembre 2025, d'accords mentionnés à l'article L. 162-12-18 dans le champ des transports sanitaires et des transports effectués par une entreprise de taxi permettant de réaliser un montant d'au moins 300 millions d'euros d'économies au cours des années 2025 à 2027, le directeur général de l'Union nationale des caisses d'assurance maladie peut procéder jusqu'au 31 octobre 2025 à des baisses de tarifs permettant d'atteindre ce montant.\n\n- Code de la sécurité sociale.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art42",
       "section": "42",
       "title": "Article 42",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art43",
       "section": "43",
       "title": "Article 43",
-      "content": "I. - A créé les dispositions suivantes :\n\nII. - Le I entre en vigueur à une date déterminée par décret, et au plus tard le 1er septembre 2025.\n\nIII. - Un décret en Conseil d'Etat établit le délai dans lequel les organismes locaux d'assurance maladie vérifient le respect des conditions prévues à l'article L. 165-6-1 du code de la sécurité sociale par les professionnels de santé délivrant des produits et des prestations d'appareillage des déficients de l'ouïe adhérant aux accords mentionnés au I de l'article L. 165-6 du même code à la date de publication du décret en Conseil d'Etat mentionné au dernier alinéa de l'article L. 165-6-1 dudit code.\n\n- Code de la sécurité sociale."
+      "content": "I. - A créé les dispositions suivantes :\n\nII. - Le I entre en vigueur à une date déterminée par décret, et au plus tard le 1er septembre 2025.\n\nIII. - Un décret en Conseil d'Etat établit le délai dans lequel les organismes locaux d'assurance maladie vérifient le respect des conditions prévues à l'article L. 165-6-1 du code de la sécurité sociale par les professionnels de santé délivrant des produits et des prestations d'appareillage des déficients de l'ouïe adhérant aux accords mentionnés au I de l'article L. 165-6 du même code à la date de publication du décret en Conseil d'Etat mentionné au dernier alinéa de l'article L. 165-6-1 dudit code.\n\n- Code de la sécurité sociale.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art44",
       "section": "44",
       "title": "Article 44",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art46",
       "section": "46",
       "title": "Article 46",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport évaluant l'application du 2° du I de l'article 51 de la loi n° 2022-1616 du 23 décembre 2022 de financement de la sécurité sociale pour 2023. Ce rapport évalue en particulier le niveau de financement des actes innovants de biologie et d'anatomopathologie hors nomenclature susceptibles de présenter un bénéfice clinique ou médico-économique, quelle que soit la date à compter de laquelle ils ont bénéficié d'une prise en charge sans être inscrits sur la liste mentionnée au I de l'article L. 162-1-7 du code de la sécurité sociale, en le rapportant aux besoins de diagnostic des patients. Il formule des propositions pour améliorer la prise en charge de ces actes innovants."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport évaluant l'application du 2° du I de l'article 51 de la loi n° 2022-1616 du 23 décembre 2022 de financement de la sécurité sociale pour 2023. Ce rapport évalue en particulier le niveau de financement des actes innovants de biologie et d'anatomopathologie hors nomenclature susceptibles de présenter un bénéfice clinique ou médico-économique, quelle que soit la date à compter de laquelle ils ont bénéficié d'une prise en charge sans être inscrits sur la liste mentionnée au I de l'article L. 162-1-7 du code de la sécurité sociale, en le rapportant aux besoins de diagnostic des patients. Il formule des propositions pour améliorer la prise en charge de ces actes innovants.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art47",
       "section": "47",
       "title": "Article 47",
-      "content": "Dans un délai de trois mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport présentant le bilan de la mise en œuvre de l'article 33 de la loi n° 2022-1616 du 23 décembre 2022 de financement de la sécurité sociale pour 2023. Ce rapport étudie aussi l'amélioration de l'attractivité du métier d'infirmier et de la reconnaissance de leurs compétences, notamment au regard des conditions de leur formation initiale et continue, ainsi que les modalités de revalorisation des actes infirmiers et leurs impacts pour la sécurité sociale."
+      "content": "Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport présentant le bilan de la mise en œuvre de l'article 33 de la loi n° 2022-1616 du 23 décembre 2022 de financement de la sécurité sociale pour 2023. Ce rapport étudie aussi l'amélioration de l'attractivité du métier d'infirmier et de la reconnaissance de leurs compétences, notamment au regard des conditions de leur formation initiale et continue, ainsi que les effets de la revalorisation des actes infirmiers. Ce rapport définit les conditions de la prise en charge directe des patients mentionnée à l'article 6 de la loi n° 2025-581 du 27 juin 2025 sur la profession d'infirmier.",
+      "valid_from": "2025-12-31"
     },
     {
       "provision_ref": "art48",
       "section": "48",
       "title": "Article 48",
-      "content": "I. - A modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nII. - A modifié les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\n- Code de la sécurité sociale.\n\n- Ordonnance n° 96-1122 du 20 décembre 1996\n\nIII. - Le présent article entre en vigueur le 1er janvier 2026."
+      "content": "I. - A modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nII. - A modifié les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\n- Code de la sécurité sociale.\n\n- Ordonnance n° 96-1122 du 20 décembre 1996\n\nIII. - Le présent article entre en vigueur le 1er janvier 2026.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art49",
       "section": "49",
       "title": "Article 49",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art50",
       "section": "50",
       "title": "Article 50",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art51",
       "section": "51",
       "title": "Article 51",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art52",
       "section": "52",
       "title": "Article 52",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art53",
       "section": "53",
       "title": "Article 53",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art55",
       "section": "55",
       "title": "Article 55",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport portant sur l'application de l'article 49 de la loi n° 2023-1250 du 26 décembre 2023 de financement de la sécurité sociale pour 2024.Plus particulièrement, il détaille la méthode de fixation par l'Etat du coefficient géographique s'appliquant aux tarifs nationaux et formule des recommandations pour améliorer la formule de calcul.Il étudie l'opportunité de procéder à une révision annuelle des coefficients géographiques et à une revalorisation de ces derniers dans les territoires concernés."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport portant sur l'application de l'article 49 de la loi n° 2023-1250 du 26 décembre 2023 de financement de la sécurité sociale pour 2024.Plus particulièrement, il détaille la méthode de fixation par l'Etat du coefficient géographique s'appliquant aux tarifs nationaux et formule des recommandations pour améliorer la formule de calcul.Il étudie l'opportunité de procéder à une révision annuelle des coefficients géographiques et à une revalorisation de ces derniers dans les territoires concernés.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art58",
       "section": "58",
       "title": "Article 58",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art59",
       "section": "59",
       "title": "Article 59",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Les conventions conclues par un organisme local d'assurance maladie avec les entreprises de taxi avant l'entrée en vigueur de la présente loi demeurent applicables pendant un délai de deux mois à compter de la publication de la convention-cadre nationale prévue à l'article L. 322-5 du code de la sécurité sociale.\n\n- Code de la sécurité sociale."
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Les conventions conclues par un organisme local d'assurance maladie avec les entreprises de taxi avant l'entrée en vigueur de la présente loi demeurent applicables pendant un délai de deux mois à compter de la publication de la convention-cadre nationale prévue à l'article L. 322-5 du code de la sécurité sociale.\n\n- Code de la sécurité sociale.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art60",
       "section": "60",
       "title": "Article 60",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art63",
       "section": "63",
       "title": "Article 63",
-      "content": "I.-, II.-A modifié les dispositions suivantes :\n\nIII.-Le présent article et l'ensemble des mesures afférentes prévues aux articles 24.1 à 24.2.1.4 du sous-titre I du titre III et à l'article 28 du sous-titre II du titre III de la convention nationale organisant les rapports entre les chirurgiens-dentistes libéraux et l'assurance maladie publiée au Journal officiel du 25 août 2023 sont applicables à compter du 1er avril 2025.\n\n-Code de la santé publique\n\n-Code de la sécurité sociale."
+      "content": "I.-, II.-A modifié les dispositions suivantes :\n\nIII.-Le présent article et l'ensemble des mesures afférentes prévues aux articles 24.1 à 24.2.1.4 du sous-titre I du titre III et à l'article 28 du sous-titre II du titre III de la convention nationale organisant les rapports entre les chirurgiens-dentistes libéraux et l'assurance maladie publiée au Journal officiel du 25 août 2023 sont applicables à compter du 1er avril 2025.\n\n-Code de la santé publique\n\n-Code de la sécurité sociale.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art66",
       "section": "66",
       "title": "Article 66",
-      "content": "I.- A modifié les dispositions suivantes :\n\nII.- L'article L. 162-58 du code de la sécurité sociale, dans sa rédaction résultant du I du présent article, est également applicable aux séances d'accompagnement psychologique réalisées par les psychologues ayant signé une convention avec leur organisme local d'assurance maladie avant l'entrée en vigueur de la présente loi.\n\nIII.- A modifié les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\n- Ordonnance n° 96-1122 du 20 décembre 1996"
+      "content": "I.- A modifié les dispositions suivantes :\n\nII.- L'article L. 162-58 du code de la sécurité sociale, dans sa rédaction résultant du I du présent article, est également applicable aux séances d'accompagnement psychologique réalisées par les psychologues ayant signé une convention avec leur organisme local d'assurance maladie avant l'entrée en vigueur de la présente loi.\n\nIII.- A modifié les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\n- Ordonnance n° 96-1122 du 20 décembre 1996",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art68",
       "section": "68",
       "title": "Article 68",
-      "content": "I. - L'Etat peut autoriser, à titre expérimental et pour une durée de trois ans, le remboursement par l'assurance maladie des recherches, incluant les tests et analyses, permettant de détecter un état de soumission chimique résultant des faits mentionnés à l'article 222-30-1 du code pénal, même en l'absence de plainte préalable, pour améliorer la prise en charge, y compris psychologique, des victimes potentielles.II. - Les modalités de mise en œuvre de l'expérimentation prévue au I sont définies par décret, au plus tard le 1er juillet 2025. Les ministres chargés de la santé et de la sécurité sociale arrêtent la liste des territoires participant à l'expérimentation mentionnée au même I, dans la limite de trois régions.III. - Dans un délai de six mois avant le terme de l'expérimentation, le Gouvernement adresse au Parlement un rapport d'évaluation, qui se prononce notamment sur la pertinence d'une généralisation."
+      "content": "I. - L'Etat peut autoriser, à titre expérimental et pour une durée de trois ans, le remboursement par l'assurance maladie des recherches, incluant les tests et analyses, permettant de détecter un état de soumission chimique résultant des faits mentionnés à l'article 222-30-1 du code pénal, même en l'absence de plainte préalable, pour améliorer la prise en charge, y compris psychologique, des victimes potentielles.\n\nII. - Les modalités de mise en œuvre de l'expérimentation prévue au I sont définies par décret, au plus tard le 1er juillet 2025. Les ministres chargés de la santé et de la sécurité sociale arrêtent la liste des territoires participant à l'expérimentation mentionnée au même I, dans la limite de quatre régions, dont une collectivité régie par l'article 73 de la Constitution.\n\nIII. - Dans un délai de six mois avant le terme de l'expérimentation, le Gouvernement adresse au Parlement un rapport d'évaluation, qui se prononce notamment sur la pertinence d'une généralisation.",
+      "valid_from": "2025-12-31"
     },
     {
       "provision_ref": "art69",
       "section": "69",
       "title": "Article 69",
-      "content": "Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport faisant l'évaluation des articles 37 à 39, 44 et 46 de la loi n° 2023-1250 du 26 décembre 2023 de financement de la sécurité sociale pour 2024.Ce rapport examine plus largement la distinction des dépenses associées à des mesures de prévention inscrites dans la loi de financement de la sécurité sociale et évalue l'opportunité de distinguer l'investissement en santé par la prévention, en permettant d'identifier les économies réalisées à terme. Ce rapport est rendu public."
+      "content": "Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport faisant l'évaluation des articles 37 à 39, 44 et 46 de la loi n° 2023-1250 du 26 décembre 2023 de financement de la sécurité sociale pour 2024.Ce rapport examine plus largement la distinction des dépenses associées à des mesures de prévention inscrites dans la loi de financement de la sécurité sociale et évalue l'opportunité de distinguer l'investissement en santé par la prévention, en permettant d'identifier les économies réalisées à terme. Ce rapport est rendu public.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art70",
       "section": "70",
       "title": "Article 70",
-      "content": "I.-, II.- A modifié les dispositions suivantes :\n\nIII.- Le présent article s'applique aux contrats conclus à compter du 1er juillet 2025.\n\n- Code de la santé publique\n\n- Code de l'action sociale et des familles"
+      "content": "I.-, II.- A modifié les dispositions suivantes :\n\nIII.- Le présent article s'applique aux contrats conclus à compter du 1er juillet 2025.\n\n- Code de la santé publique\n\n- Code de l'action sociale et des familles",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art71",
       "section": "71",
       "title": "Article 71",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII.- Jusqu'au 31 décembre 2025, par dérogation à l'article L. 162-23-4 du code de la sécurité sociale, dans sa rédaction résultant du 2° du I du présent article, les tarifs et les coefficients mentionnés au même article L. 162-23-4 prennent effet le 1er mars de l'année en cours.\n\n- Code de la sécurité sociale."
+      "content": "I. - A modifié les dispositions suivantes :\n\nII.- Jusqu'au 31 décembre 2025, par dérogation à l'article L. 162-23-4 du code de la sécurité sociale, dans sa rédaction résultant du 2° du I du présent article, les tarifs et les coefficients mentionnés au même article L. 162-23-4 prennent effet le 1er mars de l'année en cours.\n\n- Code de la sécurité sociale.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art74",
       "section": "74",
       "title": "Article 74",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art83",
       "section": "83",
       "title": "Article 83",
-      "content": "A modifié les dispositions suivantes :\n\n-Code de la santé publique"
+      "content": "A modifié les dispositions suivantes :\n\n-Code de la santé publique",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art84",
       "section": "84",
       "title": "Article 84",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art85",
       "section": "85",
       "title": "Article 85",
-      "content": "Pour l'année 2025, une aide exceptionnelle de 300 millions d'euros, financée par le sous-objectif « Dépenses relatives aux établissements et services pour personnes âgées » prévu à l'article 97, est déployée en soutien aux établissements sociaux et médico-sociaux en difficulté financière."
+      "content": "Pour l'année 2025, une aide exceptionnelle de 300 millions d'euros, financée par le sous-objectif « Dépenses relatives aux établissements et services pour personnes âgées » prévu à l'article 97, est déployée en soutien aux établissements sociaux et médico-sociaux en difficulté financière.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art87",
       "section": "87",
       "title": "Article 87",
-      "content": "I. à VII. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- LOI n° 2010-1330 du 9 novembre 2010\n\n- LOI n° 87-563 du 17 juillet 1987\n\n- Code de la sécurité sociale.\n\n- Code de la sécurité sociale.\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- LOI n° 2014-40 du 20 janvier 2014\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- Code rural et de la pêche maritime\n\n- Code de la sécurité sociale.\n\n- Code de la sécurité sociale.\n\n- LOI n°2022-1158 du 16 août 2022\n\n- Code du travail\n\n- Code rural et de la pêche maritime\n\nVIII. - A. - Le A du I et les 9°, 13° et 17° du II s'appliquent à compter du 1er janvier 2025.Les B à E, G, H, J et K et les 3°, 4°, 6° et 7°, les trois premiers alinéas du 8° et les 10°, 11°, 13° à 16° et 18° à 32° du L du I, les 2°, 7°, 8°, 11°, 15°, 16°, 20° à 22°, 24° et 25° du II et le III entrent en vigueur le 1er janvier 2026.Les F et İ, les 1°, 2°, 5°, 8°, 9°, 12° et 17° du L et les M et N du I, les 3° à 6°, 10°, 12°, 14°, 18°, 19° et 23° du II et les IV à VII s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.B. - Par dérogation au A du présent VIII, les dispositions, autres que celles de l'article L. 732-54-3, de la section 3 du chapitre II du titre III du livre VII du code rural et de la pêche maritime, dans leur rédaction antérieure à la présente loi, continuent de s'appliquer aux pensions dues au titre du régime des non-salariés des professions agricoles prenant effet entre le 1er janvier 2026 et le 31 décembre 2027. Toutefois, pour les pensions prenant effet à compter du 1er janvier 2026, les pensions de retraite proportionnelle prévues au 2° de l'article L. 732-24 du code rural et de la pêche maritime, dans sa rédaction antérieure à la présente loi, dues au titre des périodes d'assurance antérieures à 2016 sont liquidées dans les conditions prévues au b du 2° du I du même article L. 732-24, dans sa rédaction résultant de la présente loi.Pour l'application du premier alinéa du présent B, les droits à pension au titre de la retraite proportionnelle prévue à l'article L. 732-24 du code rural et de la pêche maritime, dans sa rédaction antérieure à la présente loi, pour les périodes d'assurance de 2026 et 2027 sont acquis, dans des conditions fixées par décret, en tenant compte des cotisations prévues à l'article L. 731-42 du même code, dans sa rédaction résultant de la présente loi, et de la durée d'assurance dans le régime.A une date fixée par décret, et au plus tard le 31 mars 2028, les pensions mentionnées au premier alinéa du présent B font l'objet d'un nouveau calcul en tenant compte des modifications résultant du présent article. Si le montant issu de ce nouveau calcul est supérieur à celui attribué dans les conditions prévues au même premier alinéa, le niveau de la pension est révisé et les sommes versées antérieurement font l'objet d'une régularisation.IX. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre, par voie d'ordonnance, dans un délai de deux ans à compter de la promulgation de la présente loi, toute mesure relevant du domaine de la loi visant à modifier, afin de les rapprocher de celles applicables sur le reste du territoire, les modalités d'ouverture des droits, de calcul et de service des pensions de vieillesse et de veuvage des non-salariés des professions agricoles en Guadeloupe, en Guyane, en Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy et à Saint-Martin.Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance."
+      "content": "I. à VII.-A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nVIII.-A.-Le A du I et les 9°, 13° et 17° du II s'appliquent à compter du 1er janvier 2025.Les B à E, G, H, J et K et les 3°, 4°, 6° et 7°, les trois premiers alinéas du 8° et les 10°, 11°, 13° à 16° et 18° à 32° du L du I, les 2°, 7°, 8°, 11°, 15°, 16°, 20° à 22° et 25° du II et le III entrent en vigueur le 1er janvier 2026.Les F et İ, les 1°, 2°, 5°, 8°, 9°, 12° et 17° du L et les M et N du I, les 3° à 6°, 10°, 12°, 14°, 18°, 19° et 23° du II et les IV à VII s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.B.-Par dérogation au A du présent VIII, les dispositions, autres que celles des articles L. 732-54-2, L. 732-54-3 et L. 732-63, de la section 3 du chapitre II du titre III du livre VII du code rural et de la pêche maritime, dans leur rédaction antérieure à la présente loi, continuent de s'appliquer aux pensions dues au titre du régime des non-salariés des professions agricoles prenant effet entre le 1er janvier 2026 et le 31 décembre 2027. Toutefois, pour les pensions prenant effet à compter du 1er janvier 2026, les pensions de retraite proportionnelle prévues au 2° de l'article L. 732-24 du code rural et de la pêche maritime, dans sa rédaction antérieure à la présente loi, dues au titre des périodes d'assurance antérieures à 2016 sont liquidées dans les conditions prévues au b du 2° du I du même article L. 732-24, dans sa rédaction résultant de la présente loi.Pour l'application du premier alinéa du présent B, les droits à pension au titre de la retraite proportionnelle prévue à l'article L. 732-24 du code rural et de la pêche maritime, dans sa rédaction antérieure à la présente loi, pour les périodes d'assurance de 2026 et 2027 sont acquis, dans des conditions fixées par décret, en tenant compte des cotisations prévues à l'article L. 731-42 du même code, dans sa rédaction résultant de la présente loi, et de la durée d'assurance dans le régime.A une date fixée par décret, et au plus tard le 31 mars 2028, les pensions mentionnées au premier alinéa du présent B font l'objet d'un nouveau calcul en tenant compte des modifications résultant du présent article. Si le montant issu de ce nouveau calcul est supérieur à celui attribué dans les conditions prévues au même premier alinéa, le niveau de la pension est révisé et les sommes versées antérieurement font l'objet d'une régularisation.\n\nS'agissant de la retraite anticipée pour carrière longue prévue à l'article L. 732-18-1 du code rural et de la pêche maritime, dans sa rédaction antérieure à la présente loi, les droits à pension sont appréciés, pour les pensions prenant effet à compter du 1er septembre 2026, dans les conditions prévues à l'article L. 351-1-1 du code de la sécurité sociale dans sa rédaction résultant de la loi n° 2025-1403 du 30 décembre 2025 de financement de la sécurité sociale pour 2026.IX.-Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre, par voie d'ordonnance, dans un délai de deux ans à compter de la promulgation de la présente loi, toute mesure relevant du domaine de la loi visant à modifier, afin de les rapprocher de celles applicables sur le reste du territoire, les modalités d'ouverture des droits, de calcul et de service des pensions de vieillesse et de veuvage des non-salariés des professions agricoles en Guadeloupe, en Guyane, en Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy et à Saint-Martin.Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-LOI n° 2010-1330 du 9 novembre 2010\n\n-LOI n° 87-563 du 17 juillet 1987\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale.\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-LOI n° 2014-40 du 20 janvier 2014\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-Code rural et de la pêche maritime\n\n-Code de la sécurité sociale.\n\n-Code de la sécurité sociale.\n\n-LOI n° 2022-1158 du 16 août 2022\n\n-Code du travail\n\n-Code rural et de la pêche maritime",
+      "valid_from": "2025-12-31"
     },
     {
       "provision_ref": "art88",
       "section": "88",
       "title": "Article 88",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\nII. - Le I entre en vigueur le 1er janvier 2028."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\nII. - Le I entre en vigueur le 1er janvier 2028.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art90",
       "section": "90",
       "title": "Article 90",
-      "content": "I. à III. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\n- Code de la sécurité sociale.\n\n- Ordonnance n° 77-1102 du 26 septembre 1977\n\n- Code rural et de la pêche maritime\n\n- Code de la sécurité sociale.\n\nIV. - Une commission des garanties, composée au sein de la commission des accidents du travail et des maladies professionnelles mentionnée à l'article L. 221-5 du code de la sécurité sociale, est consultée sur les projets de textes pris pour l'application des dispositions mentionnées au I du présent article et est chargée d'en suivre la mise en œuvre. Les représentants des organisations nationales d'aide aux victimes d'accidents du travail et de maladies professionnelles sont informés de tout projet de texte pris en application du présent article et sont entendus, au moins une fois par an, par la commission des garanties.V. - Le I entre en vigueur à une date fixée par décret, et au plus tard le 1er juin 2026. Il s'applique aux victimes dont l'état est consolidé à compter de cette date."
-    },
-    {
-      "provision_ref": "art92",
-      "section": "92",
-      "title": "Article 92",
-      "content": "I. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n- Code de la sécurité sociale.\n\n- Code de la sécurité sociale.\n\nII. - Le présent article entre en vigueur le 1er janvier 2026."
+      "content": "I. à III. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nIV. - Une commission des garanties, composée au sein de la commission des accidents du travail et des maladies professionnelles mentionnée à l'article L. 221-5 du code de la sécurité sociale, est consultée sur les projets de textes pris pour l'application des dispositions mentionnées au I du présent article et est chargée d'en suivre la mise en œuvre. Les représentants des organisations nationales d'aide aux victimes d'accidents du travail et de maladies professionnelles sont informés de tout projet de texte pris en application du présent article et sont entendus, au moins une fois par an, par la commission des garanties.V. - Le I entre en vigueur à une date fixée par décret, et au plus tard le 1novembre 2026. Il s'applique aux victimes dont l'état est consolidé à compter de cette date.\n\n- Code de la sécurité sociale.\n\n- Code de la sécurité sociale.\n\n- Ordonnance n° 77-1102 du 26 septembre 1977\n\n- Code rural et de la pêche maritime\n\n- Code de la sécurité sociale.",
+      "valid_from": "2025-12-31"
     },
     {
       "provision_ref": "art93",
       "section": "93",
       "title": "Article 93",
-      "content": "I. et II. - A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n- Ordonnance n° 2002-149 du 7 février 2002\n\n- Ordonnance n° 2002-411 du 27 mars 2002\n\n- Ordonnance n° 2002-411 du 27 mars 2002\n\nIII. - Le présent article entre en vigueur le 1er janvier 2026."
+      "content": "I. et II. - A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n- Ordonnance n° 2002-149 du 7 février 2002\n\n- Ordonnance n° 2002-411 du 27 mars 2002\n\n- Ordonnance n° 2002-411 du 27 mars 2002\n\nIII. - Le présent article entre en vigueur le 1er janvier 2026.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art94",
       "section": "94",
       "title": "Article 94",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-875 DC du 28 février 2025.]",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art95",
       "section": "95",
       "title": "Article 95",
-      "content": "I. - Les montants des participations au financement du fonds pour la modernisation et l'investissement en santé mentionnées au V de l'article 40 de la loi n° 2000-1257 du 23 décembre 2000 de financement de la sécurité sociale pour 2001 sont fixés pour l'année 2025 à :1° 523 millions d'euros pour les régimes obligatoires d'assurance maladie ;2° 86 millions d'euros pour la branche Autonomie du régime général.II. - Le montant de la contribution de la branche Autonomie du régime général au financement des actions des agences régionales de santé concernant les établissements et les services médico-sociaux ou les prises en charge et les accompagnements en direction des personnes âgées ou handicapées, mentionnée au 3° de l'article L. 1432-6 du code de la santé publique, est fixé à 190 millions d'euros pour l'année 2025.III. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de l'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales, mentionnée à l'article L. 1142-23 du code de la santé publique, est fixé à 181,2 millions d'euros pour l'année 2025.IV. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de l'Agence nationale de santé publique mentionnée à l'article L. 1413-1 du code de la santé publique est fixé à un maximum de 357,61 millions d'euros pour l'année 2025, dépenses pour la gestion des crises comprises.V. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de l'Agence de biomédecine mentionnée à l'article L. 1418-1 du code de la santé publique est fixé à un maximum de 57,42 millions d'euros pour l'année 2025.VI. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de l'Agence nationale de sécurité du médicament et des produits de santé mentionnée à l'article L. 5311-1 du code de la santé publique est fixé à un maximum de 149,04 millions d'euros pour l'année 2025.VII. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de la Haute Autorité de santé mentionnée à l'article L. 161-37 du code de la sécurité sociale est fixé à un maximum de 75,68 millions d'euros pour l'année 2025.VIII. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement du groupement d'intérêt public Agence du numérique en santé prévue à l'article L. 1111-24 du code de la santé publique est fixé à un maximum de 121,67 millions d'euros pour l'année 2025.IX. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de l'Etablissement français du sang prévue à l'article L. 1222-8 du code de la santé publique est fixé à un maximum de 114,95 millions d'euros pour l'année 2025.X. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de l'Ecole des hautes études en santé publique prévue à l'article L. 756-2-1 du code de l'éducation est fixé à un maximum de 47,23 millions d'euros pour l'année 2025.XI. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de l'Agence nationale d'appui à la performance des établissements de santé et médico-sociaux prévue à l'article L. 6113-10-2 du code de la santé publique est fixé à un maximum de 20,69 millions d'euros pour l'année 2025.XII. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de l'Agence technique de l'information sur l'hospitalisation prévue au 2° du I de l'article 4 de la loi n° 2002-73 du 17 janvier 2002 de modernisation sociale est fixé à un maximum de 12 millions d'euros pour l'année 2025.XIII. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement du Centre national de gestion prévue à l'article L. 453-5 du code général de la fonction publique est fixé à un maximum de 86,43 millions d'euros pour l'année 2025.XIV. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de l'Agence nationale du développement professionnel continu prévue à l'article L. 4021-6 du code de la santé publique est fixé à un maximum de 215,87 millions d'euros pour l'année 2025.XV. - Une mise en réserve prudentielle d'au minimum 0,3 % est appliquée aux plafonds fixés aux IV à XIII du présent article. Ce niveau de mise en réserve prudentielle est fixé chaque année pour chaque entité mentionnée aux mêmes IV à XIII par arrêté du ministre chargé de la santé et de la sécurité sociale, en tenant compte de la soutenabilité budgétaire, des besoins de gestion de crise et, le cas échéant, de la part et de la nature des dépenses d'intervention. Le montant de la dotation versée par le régime obligatoire d'assurance maladie aux entités mentionnées auxdits IV à XIII tient compte chaque année de cette mise en réserve.XVI. à XX. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nXXI. - Le montant de la contribution de la branche Accidents du travail et maladies professionnelles du régime général au financement du Fonds d'indemnisation des victimes de l'amiante est fixé à 465 millions d'euros au titre de l'année 2025.XXII. - Le montant de la contribution de la branche Accidents du travail et maladies professionnelles du régime général au financement du Fonds de cessation anticipée d'activité des travailleurs de l'amiante est fixé à 453 millions d'euros au titre de l'année 2025.XXIII. - Le montant du versement mentionné à l'article L. 176-1 du code de la sécurité sociale est fixé à 1,6 milliard d'euros au titre de l'année 2025.XXIV. - Les montants mentionnés à l'article L. 242-5 du code de la sécurité sociale et à l'article L. 751-13-1 du code rural et de la pêche maritime couvrant les dépenses supplémentaires engendrées par les départs en retraite à l'âge fixé en application de l'article L. 351-1-4 du code de la sécurité sociale et les dépenses supplémentaires engendrées par le dispositif mentionné à l'article L. 4163-1 du code du travail sont respectivement fixés à 220,7 millions d'euros et à 9,7 millions d'euros pour l'année 2025.\n\n- Code de la sécurité sociale.\n\n- Code général de la fonction publique\n\n- Code de l'éducation\n\n- Loi n° 2002-73 du 17 janvier 2002\n\n- Code de la santé publique"
+      "content": "I. - Les montants des participations au financement du fonds pour la modernisation et l'investissement en santé mentionnées au V de l'article 40 de la loi n° 2000-1257 du 23 décembre 2000 de financement de la sécurité sociale pour 2001 sont fixés pour l'année 2025 à :1° 523 millions d'euros pour les régimes obligatoires d'assurance maladie ;2° 86 millions d'euros pour la branche Autonomie du régime général.II. - Le montant de la contribution de la branche Autonomie du régime général au financement des actions des agences régionales de santé concernant les établissements et les services médico-sociaux ou les prises en charge et les accompagnements en direction des personnes âgées ou handicapées, mentionnée au 3° de l'article L. 1432-6 du code de la santé publique, est fixé à 190 millions d'euros pour l'année 2025.III. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de l'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales, mentionnée à l'article L. 1142-23 du code de la santé publique, est fixé à 181,2 millions d'euros pour l'année 2025.IV. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de l'Agence nationale de santé publique mentionnée à l'article L. 1413-1 du code de la santé publique est fixé à un maximum de 357,61 millions d'euros pour l'année 2025, dépenses pour la gestion des crises comprises.V. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de l'Agence de biomédecine mentionnée à l'article L. 1418-1 du code de la santé publique est fixé à un maximum de 57,42 millions d'euros pour l'année 2025.VI. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de l'Agence nationale de sécurité du médicament et des produits de santé mentionnée à l'article L. 5311-1 du code de la santé publique est fixé à un maximum de 149,04 millions d'euros pour l'année 2025.VII. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de la Haute Autorité de santé mentionnée à l'article L. 161-37 du code de la sécurité sociale est fixé à un maximum de 75,68 millions d'euros pour l'année 2025.VIII. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement du groupement d'intérêt public Agence du numérique en santé prévue à l'article L. 1111-24 du code de la santé publique est fixé à un maximum de 121,67 millions d'euros pour l'année 2025.IX. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de l'Etablissement français du sang prévue à l'article L. 1222-8 du code de la santé publique est fixé à un maximum de 114,95 millions d'euros pour l'année 2025.X. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de l'Ecole des hautes études en santé publique prévue à l'article L. 756-2-1 du code de l'éducation est fixé à un maximum de 47,23 millions d'euros pour l'année 2025.XI. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de l'Agence nationale d'appui à la performance des établissements de santé et médico-sociaux prévue à l'article L. 6113-10-2 du code de la santé publique est fixé à un maximum de 20,69 millions d'euros pour l'année 2025.XII. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de l'Agence technique de l'information sur l'hospitalisation prévue au 2° du I de l'article 4 de la loi n° 2002-73 du 17 janvier 2002 de modernisation sociale est fixé à un maximum de 12 millions d'euros pour l'année 2025.XIII. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement du Centre national de gestion prévue à l'article L. 453-5 du code général de la fonction publique est fixé à un maximum de 86,43 millions d'euros pour l'année 2025.XIV. - Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de l'Agence nationale du développement professionnel continu prévue à l'article L. 4021-6 du code de la santé publique est fixé à un maximum de 215,87 millions d'euros pour l'année 2025.XV. - Une mise en réserve prudentielle d'au minimum 0,3 % est appliquée aux plafonds fixés aux IV à XIII du présent article. Ce niveau de mise en réserve prudentielle est fixé chaque année pour chaque entité mentionnée aux mêmes IV à XIII par arrêté du ministre chargé de la santé et de la sécurité sociale, en tenant compte de la soutenabilité budgétaire, des besoins de gestion de crise et, le cas échéant, de la part et de la nature des dépenses d'intervention. Le montant de la dotation versée par le régime obligatoire d'assurance maladie aux entités mentionnées auxdits IV à XIII tient compte chaque année de cette mise en réserve.XVI. à XX. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nXXI. - Le montant de la contribution de la branche Accidents du travail et maladies professionnelles du régime général au financement du Fonds d'indemnisation des victimes de l'amiante est fixé à 465 millions d'euros au titre de l'année 2025.XXII. - Le montant de la contribution de la branche Accidents du travail et maladies professionnelles du régime général au financement du Fonds de cessation anticipée d'activité des travailleurs de l'amiante est fixé à 453 millions d'euros au titre de l'année 2025.XXIII. - Le montant du versement mentionné à l'article L. 176-1 du code de la sécurité sociale est fixé à 1,6 milliard d'euros au titre de l'année 2025.XXIV. - Les montants mentionnés à l'article L. 242-5 du code de la sécurité sociale et à l'article L. 751-13-1 du code rural et de la pêche maritime couvrant les dépenses supplémentaires engendrées par les départs en retraite à l'âge fixé en application de l'article L. 351-1-4 du code de la sécurité sociale et les dépenses supplémentaires engendrées par le dispositif mentionné à l'article L. 4163-1 du code du travail sont respectivement fixés à 220,7 millions d'euros et à 9,7 millions d'euros pour l'année 2025.\n\n- Code de la sécurité sociale.\n\n- Code général de la fonction publique\n\n- Code de l'éducation\n\n- Loi n° 2002-73 du 17 janvier 2002\n\n- Code de la santé publique",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art96",
       "section": "96",
       "title": "Article 96",
-      "content": "Pour l'année 2025, l'objectif de dépenses de la branche Maladie, maternité, invalidité et décès est fixé à 261,8 milliards d'euros pour l'ensemble des régimes obligatoires de base de sécurité sociale."
+      "content": "Pour l'année 2025, l'objectif de dépenses de la branche Maladie, maternité, invalidité et décès est fixé à 261,8 milliards d'euros pour l'ensemble des régimes obligatoires de base de sécurité sociale.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art97",
       "section": "97",
       "title": "Article 97",
-      "content": "Pour l'année 2025, l'objectif national de dépenses d'assurance maladie de l'ensemble des régimes obligatoires de base et ses sous-objectifs sont fixés comme suit :\n\n(En milliards d'euros)\n\nSous-objectifs\n\nObjectifsde dépenses\n\nDépenses de soins de ville\n\n113,2\n\nDépenses relatives aux établissements de santé\n\n109,6\n\nDépenses relatives aux établissements et services pour personnes âgées\n\n17,6\n\nDépenses relatives aux établissements et services pour personnes handicapées\n\n15,7\n\nDépenses relatives au fonds d'intervention régional et au soutien national à l'investissement\n\n6,3\n\nAutres prises en charge\n\n3,4\n\nTotal\n\n265,9\n\n1\n\ncenter"
+      "content": "Pour l'année 2025, l'objectif national de dépenses d'assurance maladie de l'ensemble des régimes obligatoires de base et ses sous-objectifs sont fixés comme suit :\n\n(En milliards d'euros)\n\nSous-objectifs\n\nObjectifsde dépenses\n\nDépenses de soins de ville\n\n113,2\n\nDépenses relatives aux établissements de santé\n\n109,6\n\nDépenses relatives aux établissements et services pour personnes âgées\n\n17,6\n\nDépenses relatives aux établissements et services pour personnes handicapées\n\n15,7\n\nDépenses relatives au fonds d'intervention régional et au soutien national à l'investissement\n\n6,3\n\nAutres prises en charge\n\n3,4\n\nTotal\n\n265,9\n\n1\n\ncenter",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art98",
       "section": "98",
       "title": "Article 98",
-      "content": "Pour l'année 2025, l'objectif de dépenses de la branche Accidents du travail et maladies professionnelles est fixé à 17,0 milliards d'euros pour l'ensemble des régimes obligatoires de base de sécurité sociale."
+      "content": "Pour l'année 2025, l'objectif de dépenses de la branche Accidents du travail et maladies professionnelles est fixé à 17,0 milliards d'euros pour l'ensemble des régimes obligatoires de base de sécurité sociale.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art99",
       "section": "99",
       "title": "Article 99",
-      "content": "Pour l'année 2025, l'objectif de dépenses de la branche Vieillesse est fixé à 304,1 milliards d'euros pour l'ensemble des régimes obligatoires de base de sécurité sociale."
+      "content": "Pour l'année 2025, l'objectif de dépenses de la branche Vieillesse est fixé à 304,1 milliards d'euros pour l'ensemble des régimes obligatoires de base de sécurité sociale.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art100",
       "section": "100",
       "title": "Article 100",
-      "content": "Pour l'année 2025, l'objectif de dépenses de la branche Famille de la sécurité sociale est fixé à 59,5 milliards d'euros."
+      "content": "Pour l'année 2025, l'objectif de dépenses de la branche Famille de la sécurité sociale est fixé à 59,5 milliards d'euros.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art101",
       "section": "101",
       "title": "Article 101",
-      "content": "Pour l'année 2025, l'objectif de dépenses de la branche Autonomie de la sécurité sociale est fixé à 42,6 milliards d'euros."
+      "content": "Pour l'année 2025, l'objectif de dépenses de la branche Autonomie de la sécurité sociale est fixé à 42,6 milliards d'euros.",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "art102",
       "section": "102",
       "title": "Article 102",
-      "content": "Pour l'année 2025, les prévisions des charges des organismes concourant au financement des régimes obligatoires de sécurité sociale sont fixées ainsi qu'il suit :\n\n(En milliards d'euros)\n\nPrévisionde charges\n\nFonds de solidarité vieillesse\n\n21,1\n\n1"
+      "content": "Pour l'année 2025, les prévisions des charges des organismes concourant au financement des régimes obligatoires de sécurité sociale sont fixées ainsi qu'il suit :\n\n(En milliards d'euros)\n\nPrévisionde charges\n\nFonds de solidarité vieillesse\n\n21,1\n\n1",
+      "valid_from": "2025-03-01"
     },
     {
       "provision_ref": "artliminaire",
       "section": "liminaire",
       "title": "Article liminaire",
-      "content": "Les prévisions de dépenses, de recettes et de solde des administrations de sécurité sociale pour les années 2024 et 2025 s'établissent comme suit, au sens de la comptabilité nationale :\n\n(En points de produit intérieur brut)\n\n2024\n\n2025\n\nRecettes\n\n26,6\n\n26,7\n\nDépenses\n\n26,6\n\n26,8\n\nSolde\n\n0,0\n\n- 0,1\n\n1\n\ncenter"
+      "content": "Les prévisions de dépenses, de recettes et de solde des administrations de sécurité sociale pour les années 2024 et 2025 s'établissent comme suit, au sens de la comptabilité nationale :\n\n(En points de produit intérieur brut)\n\n2024\n\n2025\n\nRecettes\n\n26,6\n\n26,7\n\nDépenses\n\n26,6\n\n26,8\n\nSolde\n\n0,0\n\n- 0,1\n\n1\n\ncenter",
+      "valid_from": "2025-03-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

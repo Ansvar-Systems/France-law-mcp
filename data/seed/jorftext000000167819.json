@@ -12,19 +12,28 @@
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Le Gouvernement présente au Parlement, avant le 30 novembre de chaque année un bilan relatif à l'exécution et à la coordination des programmations nationale et régionale des interventions de l'Etat en matière de formation professionnelle et d'apprentissage."
+      "content": "Le Gouvernement présente au Parlement, avant le 30 novembre de chaque année un bilan relatif à l'exécution et à la coordination des programmations nationale et régionale des interventions de l'Etat en matière de formation professionnelle et d'apprentissage.",
+      "valid_from": "1990-07-10"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Un rapport sera présenté par le Gouvernement au Parlement avant le 31 décembre 1991, d'une part, sur l'utilisation des ressources des organismes collecteurs de fonds de la formation professionnelle continue et dispensateurs de formation, d'autre part, sur l'évolution de la participation des employeurs au développement de la formation professionnelle continue."
+      "content": "Un rapport sera présenté par le Gouvernement au Parlement avant le 31 décembre 1991, d'une part, sur l'utilisation des ressources des organismes collecteurs de fonds de la formation professionnelle continue et dispensateurs de formation, d'autre part, sur l'évolution de la participation des employeurs au développement de la formation professionnelle continue.",
+      "valid_from": "1990-07-10"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Les établissements énumérés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière consacrent au financement de leurs actions de formation 1 p. 100 au minimum du montant des salaires inscrits à leur budget au sens du 1 de l'article 231 du code général des impôts.\n\nCe pourcentage sera progressivement porté à 1,4 en 1991, 1,8 en 1992 et 2,1 au minimum en 1993."
+      "content": "Les établissements énumérés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière consacrent au financement de leurs actions de formation 1 p. 100 au minimum du montant des salaires inscrits à leur budget au sens du 1 de l'article 231 du code général des impôts.\n\nCe pourcentage sera progressivement porté à 1,4 en 1991, 1,8 en 1992 et 2,1 au minimum en 1993.",
+      "valid_from": "2022-03-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

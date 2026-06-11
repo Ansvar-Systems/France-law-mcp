@@ -1,0 +1,25 @@
+{
+  "id": "jorftext000052075804",
+  "type": "statute",
+  "title": "LOI n°2025-793 du 11 août 2025",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000052075804",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "La présente loi organique entre en vigueur à une date fixée par décret et, au plus tard, le 1janvier 2026.Les articles 2, 3 et 4 de la présente loi organique s'appliquent à compter du prochain renouvellement général des conseils départementaux suivant son entrée en vigueur.",
+      "valid_from": "2025-08-13"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

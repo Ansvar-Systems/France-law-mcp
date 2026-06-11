@@ -12,259 +12,316 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I., II.-A abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIII.-Les I et II du présent article s'appliquent à l'impôt de solidarité sur la fortune dû à compter de l'année 2012, à l'exception de l'option de paiement par prélèvements mensuels prévue au second alinéa du 1 de l'article 1723 ter-00 A du code général des impôts dans sa rédaction issue du 7° du I du présent article, qui s'applique à l'impôt dû à compter de l'année 2013.\n\nIV.-Au titre de l'année 2011 :\n\n1° L'impôt de solidarité sur la fortune est assis et liquidé dans les conditions prévues aux articles 885 A et suivants du code général des impôts et dû par les seules personnes physiques dont la valeur nette taxable du patrimoine est supérieure ou égale à 1 300 000 € ;\n\n2° La déclaration prévue à l'article 885 W du même code peut être souscrite jusqu'au 30 septembre 2011 ;\n\n3° Les redevables dont le patrimoine a une valeur nette taxable inférieure à 3 000 000 € sont dispensés du respect des obligations déclaratives prévues au VII de l'article 885-0 V bis, au V de l'article 885-0 V bis A et à l'article 885 Z du même code.\n\n4° Par dérogation au III du présent article, les a et b du 1° du II et le 3° du II du présent article s'appliquent pour le contrôle de l'impôt de solidarité sur la fortune dû au titre de l'année 2011. Pour l'application de cette disposition, les redevables mentionnés au 2 du I de l'article 885 W du code général des impôts sont ceux dont le patrimoine est compris entre 1 300 000 € et 3 000 000 € et qui se sont acquittés de leur obligation déclarative.\n\n-Code général des impôts, CGI.\n\n-Code général des impôts, CGI.\n\n-Livre des procédures fiscales"
+      "content": "I., II.-A abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIII.-Les I et II du présent article s'appliquent à l'impôt de solidarité sur la fortune dû à compter de l'année 2012, à l'exception de l'option de paiement par prélèvements mensuels prévue au second alinéa du 1 de l'article 1723 ter-00 A du code général des impôts dans sa rédaction issue du 7° du I du présent article, qui s'applique à l'impôt dû à compter de l'année 2013.\n\nIV.-Au titre de l'année 2011 :\n\n1° L'impôt de solidarité sur la fortune est assis et liquidé dans les conditions prévues aux articles 885 A et suivants du code général des impôts et dû par les seules personnes physiques dont la valeur nette taxable du patrimoine est supérieure ou égale à 1 300 000 € ;\n\n2° La déclaration prévue à l'article 885 W du même code peut être souscrite jusqu'au 30 septembre 2011 ;\n\n3° Les redevables dont le patrimoine a une valeur nette taxable inférieure à 3 000 000 € sont dispensés du respect des obligations déclaratives prévues au VII de l'article 885-0 V bis, au V de l'article 885-0 V bis A et à l'article 885 Z du même code.\n\n4° Par dérogation au III du présent article, les a et b du 1° du II et le 3° du II du présent article s'appliquent pour le contrôle de l'impôt de solidarité sur la fortune dû au titre de l'année 2011. Pour l'application de cette disposition, les redevables mentionnés au 2 du I de l'article 885 W du code général des impôts sont ceux dont le patrimoine est compris entre 1 300 000 € et 3 000 000 € et qui se sont acquittés de leur obligation déclarative.\n\n-Code général des impôts, CGI.\n\n-Code général des impôts, CGI.\n\n-Livre des procédures fiscales",
+      "valid_from": "2013-01-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "II. ― Le I du présent article est applicable à compter de l'impôt de solidarité  sur la fortune dû au titre de l'année 2011."
+      "content": "II. ― Le I du présent article est applicable à compter de l'impôt de solidarité  sur la fortune dû au titre de l'année 2011.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Par dérogation aux dispositions du c du 1 du VI de l'article 199 terdecies-0 A et du c du 1 du III de l'article 885-0 V bis du code général des impôts relatives à la période de souscription, les fonds dont la période de souscription n'est pas close au 14 juin 2011 peuvent proroger cette période pour une durée d'au plus trois mois, sans que cette prorogation puisse avoir pour effet de permettre une clôture de la période de souscription au-delà du 30 septembre 2011."
+      "content": "Par dérogation aux dispositions du c du 1 du VI de l'article 199 terdecies-0 A et du c du 1 du III de l'article 885-0 V bis du code général des impôts relatives à la période de souscription, les fonds dont la période de souscription n'est pas close au 14 juin 2011 peuvent proroger cette période pour une durée d'au plus trois mois, sans que cette prorogation puisse avoir pour effet de permettre une clôture de la période de souscription au-delà du 30 septembre 2011.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les contribuables qui sont redevables de l'impôt de solidarité sur la fortune au titre de l'année 2011 et qui n'exercent pas le droit à restitution acquis au 1er janvier de la même année en déposant une demande de restitution selon les modalités prévues au 8 de l'article 1649-0 A du code général des impôts avant le 30 septembre 2011 exercent ce droit à restitution, selon les modalités prévues au 9 du même article, en imputant le montant correspondant à ce droit exclusivement sur celui de la cotisation d'impôt de solidarité sur la fortune due au titre de 2011.La part du droit à restitution non imputée sur la cotisation d'impôt de solidarité sur la fortune due par les contribuables, en application du premier alinéa du présent article, constitue une créance sur l'Etat imputable exclusivement sur les cotisations d'impôt de solidarité sur la fortune dues au titre des années suivantes.Par exception au deuxième alinéa, la restitution du reliquat de la créance née du droit à restitution acquis en 2011 peut être demandée par le contribuable ou ses ayants droit avant le 31 décembre de l'année au titre de laquelle :― le contribuable titulaire de la créance n'est plus redevable de l'impôt de solidarité sur la fortune ;― les membres du foyer fiscal titulaire de la créance font l'objet d'une imposition distincte à l'impôt de solidarité sur la fortune ;― l'un des membres du foyer fiscal titulaire de la créance décède."
+      "content": "Les contribuables qui sont redevables de l'impôt de solidarité sur la fortune au titre de l'année 2011 et qui n'exercent pas le droit à restitution acquis au 1er janvier de la même année en déposant une demande de restitution selon les modalités prévues au 8 de l'article 1649-0 A du code général des impôts avant le 30 septembre 2011 exercent ce droit à restitution, selon les modalités prévues au 9 du même article, en imputant le montant correspondant à ce droit exclusivement sur celui de la cotisation d'impôt de solidarité sur la fortune due au titre de 2011.La part du droit à restitution non imputée sur la cotisation d'impôt de solidarité sur la fortune due par les contribuables, en application du premier alinéa du présent article, constitue une créance sur l'Etat imputable exclusivement sur les cotisations d'impôt de solidarité sur la fortune dues au titre des années suivantes.Par exception au deuxième alinéa, la restitution du reliquat de la créance née du droit à restitution acquis en 2011 peut être demandée par le contribuable ou ses ayants droit avant le 31 décembre de l'année au titre de laquelle :― le contribuable titulaire de la créance n'est plus redevable de l'impôt de solidarité sur la fortune ;― les membres du foyer fiscal titulaire de la créance font l'objet d'une imposition distincte à l'impôt de solidarité sur la fortune ;― l'un des membres du foyer fiscal titulaire de la créance décède.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "III. ― Abrogé ;"
+      "content": "I.―, II.―, IV.― A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIII. ― Abrogé ;\n\nV. ― Le IV entre en vigueur le 1er janvier 2012. Toutefois, lorsqu'une convention de divorce a été présentée au juge avant le 30 juillet 2011, le partage donne lieu à l'acquittement du droit d'enregistrement ou de la taxe de publicité foncière prévus à l' article 746 du code général des impôts dans sa rédaction antérieure à l'entrée en vigueur du IV du présent article, nonobstant la date de l'homologation de la convention par le juge.\n\n-Code général des impôts, CGI.\n\n-Code général des impôts, CGI.\n\n-Livre des procédures fiscales",
+      "valid_from": "2012-08-17"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "IV. ― Le II s'applique aux dons manuels consentis à compter de l'entrée en vigueur de la présente loi."
+      "content": "IV. ― Le II s'applique aux dons manuels consentis à compter de l'entrée en vigueur de la présente loi.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "I. - A modifié les dispositions suivantes :II. ― Le I s'applique aux sommes, rentes ou valeurs versées à raison des décès  intervenus à compter de l'entrée en vigueur de la présente loi."
+      "content": "I. - A modifié les dispositions suivantes :II. ― Le I s'applique aux sommes, rentes ou valeurs versées à raison des décès  intervenus à compter de l'entrée en vigueur de la présente loi.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. ― Le présent article s'applique à compter de l'imposition des revenus de  l'année 2011.\n\n- Code général des impôts, CGI."
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. ― Le présent article s'applique à compter de l'imposition des revenus de  l'année 2011.\n\n- Code général des impôts, CGI.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "I et II. A modifié les dispositions suivantes :"
+      "content": "I et II. A modifié les dispositions suivantes :",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "I. - A modifié les dispositions suivantes :"
+      "content": "I. - A modifié les dispositions suivantes :",
+      "valid_from": "2011-07-30"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "I. ― Les entreprises dont l'objet est d'effectuer la première transformation du pétrole brut ou de distribuer les carburants issus de cette transformation acquittent une contribution exceptionnelle assise sur la fraction excédant 100 000 € du montant de la provision pour hausse des prix prévue au onzième alinéa du 5° du 1 de l'article 39 du code général des impôts et inscrite au bilan à la clôture de l'exercice ou à la clôture de l'exercice précédent si le montant correspondant est supérieur.Le taux de la contribution est fixé à 15 %.La contribution est acquittée dans les sept mois de la clôture de l'exercice. Elle est liquidée, déclarée, recouvrée et contrôlée comme en matière de taxe sur le chiffre d'affaires et sous les mêmes garanties et sanctions.II. ― Le I s'applique au titre du premier exercice clos à compter du 31 décembre 2010."
+      "content": "I. ― Les entreprises dont l'objet est d'effectuer la première transformation du pétrole brut ou de distribuer les carburants issus de cette transformation acquittent une contribution exceptionnelle assise sur la fraction excédant 100 000 € du montant de la provision pour hausse des prix prévue au onzième alinéa du 5° du 1 de l'article 39 du code général des impôts et inscrite au bilan à la clôture de l'exercice ou à la clôture de l'exercice précédent si le montant correspondant est supérieur.Le taux de la contribution est fixé à 15 %.La contribution est acquittée dans les sept mois de la clôture de l'exercice. Elle est liquidée, déclarée, recouvrée et contrôlée comme en matière de taxe sur le chiffre d'affaires et sous les mêmes garanties et sanctions.II. ― Le I s'applique au titre du premier exercice clos à compter du 31 décembre 2010.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "I. - 1. Il est créé un prélèvement sur les recettes de l'Etat intitulé dotation de compensation de la réforme de la taxe professionnelle résultant des contributions fiscalisées aux syndicats de communes.\n\nCette dotation est égale, pour chaque commune dont tout ou partie de la contribution versée, au titre de l'année 2009, à un syndicat de communes dont elle était membre était fiscalisée en application du deuxième alinéa de l'article L. 5212-20 du code général des collectivités territoriales, au produit des bases communales de taxe professionnelle figurant sur le rôle général de l'année 2009, à l'exception de celles afférentes aux biens passibles de taxes foncières et qui n'en sont pas exonérées en application des 11° ou 12° de l'article 1382 du code général des impôts, par le taux syndical additionnel au taux de taxe professionnelle applicable en 2009.\n\nCette dotation est versée les années au cours desquelles la commune verse l'intégralité de sa contribution au syndicat dont elle est associée depuis le 1er janvier 2009, soit sous la forme de la contribution prévue au 1° de l'article L. 5212-19 du code général des collectivités territoriales, soit sous celle d'autres ressources, dans les conditions prévues au dernier alinéa de l'article L. 5212-20 du même code.\n\nEn 2012, chaque commune perçoit, au titre de la dotation de compensation de la réforme de la taxe professionnelle résultant des contributions fiscalisées aux syndicats de communes, un montant égal à la somme des produits calculés conformément aux deux alinéas précédents pour chaque syndicat de communes à contribution fiscalisée dont elle était membre. Les dotations versées en 2013 et 2014 sont égales respectivement à 67 % et 33 % du montant versé en 2012.\n\nLes taux des taxes foncières et de la taxe d'habitation applicables l'année au cours de laquelle la commune bénéficie de la dotation définie au présent 1 peuvent être augmentés des taux des taxes additionnelles aux taxes foncières et à la taxe d'habitation perçues au titre de l'année précédente au profit du syndicat. Le taux de la cotisation foncière des entreprises applicable cette même année peut être augmenté du taux de la taxe additionnelle à la taxe professionnelle perçue au titre de 2009 au profit du syndicat.\n\nLes dispositions du code général des impôts relatives à la fixation des taux d'imposition s'appliquent aux taux des taxes foncières, de la taxe d'habitation et de la cotisation foncière des entreprises ainsi augmentés.\n\n2. La dotation de compensation de la réforme de la taxe professionnelle résultant des contributions fiscalisées aux syndicats de communes est exclue du périmètre des concours financiers de l'Etat aux collectivités territoriales stabilisés en valeur en application de l'article 7 de la loi n° 2010-1645 du 28 décembre 2010 de programmation des finances publiques pour les années 2011 à 2014.\n\n3. Les 1 et 2 du présent I entrent en vigueur le 1er janvier 2012.\n\nII. - A créé les dispositions suivantes :\n\nIII. - A modifié les dispositions suivantes :\n\n- Code général des impôts, CGI.\n\n- Code général des impôts, CGI."
+      "content": "I. - 1. Il est créé un prélèvement sur les recettes de l'Etat intitulé dotation de compensation de la réforme de la taxe professionnelle résultant des contributions fiscalisées aux syndicats de communes.\n\nCette dotation est égale, pour chaque commune dont tout ou partie de la contribution versée, au titre de l'année 2009, à un syndicat de communes dont elle était membre était fiscalisée en application du deuxième alinéa de l'article L. 5212-20 du code général des collectivités territoriales, au produit des bases communales de taxe professionnelle figurant sur le rôle général de l'année 2009, à l'exception de celles afférentes aux biens passibles de taxes foncières et qui n'en sont pas exonérées en application des 11° ou 12° de l'article 1382 du code général des impôts, par le taux syndical additionnel au taux de taxe professionnelle applicable en 2009.\n\nCette dotation est versée les années au cours desquelles la commune verse l'intégralité de sa contribution au syndicat dont elle est associée depuis le 1er janvier 2009, soit sous la forme de la contribution prévue au 1° de l'article L. 5212-19 du code général des collectivités territoriales, soit sous celle d'autres ressources, dans les conditions prévues au dernier alinéa de l'article L. 5212-20 du même code.\n\nEn 2012, chaque commune perçoit, au titre de la dotation de compensation de la réforme de la taxe professionnelle résultant des contributions fiscalisées aux syndicats de communes, un montant égal à la somme des produits calculés conformément aux deux alinéas précédents pour chaque syndicat de communes à contribution fiscalisée dont elle était membre. Les dotations versées en 2013 et 2014 sont égales respectivement à 67 % et 33 % du montant versé en 2012.\n\nLes taux des taxes foncières et de la taxe d'habitation applicables l'année au cours de laquelle la commune bénéficie de la dotation définie au présent 1 peuvent être augmentés des taux des taxes additionnelles aux taxes foncières et à la taxe d'habitation perçues au titre de l'année précédente au profit du syndicat. Le taux de la cotisation foncière des entreprises applicable cette même année peut être augmenté du taux de la taxe additionnelle à la taxe professionnelle perçue au titre de 2009 au profit du syndicat.\n\nLes dispositions du code général des impôts relatives à la fixation des taux d'imposition s'appliquent aux taux des taxes foncières, de la taxe d'habitation et de la cotisation foncière des entreprises ainsi augmentés.\n\n2. La dotation de compensation de la réforme de la taxe professionnelle résultant des contributions fiscalisées aux syndicats de communes est exclue du périmètre des concours financiers de l'Etat aux collectivités territoriales stabilisés en valeur en application de l'article 7 de la loi n° 2010-1645 du 28 décembre 2010 de programmation des finances publiques pour les années 2011 à 2014.\n\n3. Les 1 et 2 du présent I entrent en vigueur le 1er janvier 2012.\n\nII. - A créé les dispositions suivantes :\n\nIII. - A modifié les dispositions suivantes :\n\n- Code général des impôts, CGI.\n\n- Code général des impôts, CGI.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Il est opéré, en 2011 et au profit du budget général de l'Etat, un prélèvement exceptionnel de 25 millions d'euros sur le produit des contributions additionnelles mentionnées au III de l'article L. 262-24 du code de l'action sociale et des familles."
+      "content": "Il est opéré, en 2011 et au profit du budget général de l'Etat, un prélèvement exceptionnel de 25 millions d'euros sur le produit des contributions additionnelles mentionnées au III de l'article L. 262-24 du code de l'action sociale et des familles.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "I. - (Abrogé)\n\nII. - (Abrogé)\n\nIII., IV., V.-A modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nVI.-Le III du présent article est applicable à la contribution due en 2012 au titre des rémunérations versées à compter du 1er janvier 2011.\n\n-Code général des impôts, CGI.\n\n-Code du travail\n\n-Loi n° 2005-32 du 18 janvier 2005\n\n-Code du travail"
+      "content": "I. - (Abrogé)\n\nII. - (Abrogé)\n\nIII., IV., V.-A modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nVI.-Le III du présent article est applicable à la contribution due en 2012 au titre des rémunérations versées à compter du 1er janvier 2011.\n\n-Code général des impôts, CGI.\n\n-Code du travail\n\n-Loi n° 2005-32 du 18 janvier 2005\n\n-Code du travail",
+      "valid_from": "2019-12-30"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "I.-Pour l'année 2011 et par dérogation au premier alinéa du II de l'article 49 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006, le produit des amendes forfaitaires perçues par la voie de systèmes automatiques de contrôle et sanction est affecté au compte d'affectation spéciale Contrôle de la circulation et du stationnement routiers dans la limite de 340 millions d'euros. Ce produit est affecté successivement à hauteur de 180 millions d'euros à la première section Contrôle automatisé, puis à hauteur de 160 millions d'euros à la deuxième section Circulation et stationnement routiers.\n\nPour l'année 2011, par dérogation au second alinéa du même II, le produit de ces amendes excédant 465 millions d'euros est affecté pour moitié à la première section \" Contrôle automatisé \" du compte d'affectation spéciale \" Contrôle de la circulation et du stationnement routiers \", dans la limite de 18 millions d'euros. Le solde de ce produit est affecté à l'Agence de financement des infrastructures de transport de France.\n\nII.-A modifié les dispositions suivantes :\n\n-Loi n° 2005-1719 du 30 décembre 2005"
+      "content": "I.-Pour l'année 2011 et par dérogation au premier alinéa du II de l'article 49 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006, le produit des amendes forfaitaires perçues par la voie de systèmes automatiques de contrôle et sanction est affecté au compte d'affectation spéciale Contrôle de la circulation et du stationnement routiers dans la limite de 340 millions d'euros. Ce produit est affecté successivement à hauteur de 180 millions d'euros à la première section Contrôle automatisé, puis à hauteur de 160 millions d'euros à la deuxième section Circulation et stationnement routiers.\n\nPour l'année 2011, par dérogation au second alinéa du même II, le produit de ces amendes excédant 465 millions d'euros est affecté pour moitié à la première section \" Contrôle automatisé \" du compte d'affectation spéciale \" Contrôle de la circulation et du stationnement routiers \", dans la limite de 18 millions d'euros. Le solde de ce produit est affecté à l'Agence de financement des infrastructures de transport de France.\n\nII.-A modifié les dispositions suivantes :\n\n-Loi n° 2005-1719 du 30 décembre 2005",
+      "valid_from": "2011-12-30"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Est autorisée, à compter de la promulgation de la présente loi, la perception de la rémunération de services instituée par le décret n° 2011-579 du 25 mai 2011 instituant une redevance pour les prestations fournies par le greffe du tribunal mixte de commerce de Nouméa."
+      "content": "Est autorisée, à compter de la promulgation de la présente loi, la perception de la rémunération de services instituée par le décret n° 2011-579 du 25 mai 2011 instituant une redevance pour les prestations fournies par le greffe du tribunal mixte de commerce de Nouméa.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "I. - Pour 2011, l'ajustement des ressources tel qu'il résulte des évaluations révisées figurant à l'état A annexé à la présente loi et le supplément des charges du budget de l'Etat sont fixés aux montants suivants :\n\n(En millions d'euros)\n\nII. - Pour 2011 :1° Les ressources et les charges de trésorerie qui concourent à la réalisation de l'équilibre financier sont évaluées comme suit :\n\n(En milliards d'euros)\n\n2° Le plafond de la variation nette, appréciée en fin d'année, de la dette négociable de l'Etat d'une durée supérieure à un an demeure inchangé.III. - Pour 2011, le plafond d'autorisation des emplois rémunérés par l'Etat demeure inchangé.\n\nIV. - A modifié les dispositions suivantes :\n\nRESSOURCES\n\nCHARGES\n\nSOLDES\n\nBudget général\n\ncenter\n\ncenter\n\ncenter\n\nRecettes fiscales brutes/dépenses brutes\n\n96\n\n1 034\n\ncenter\n\nA déduire : remboursements et dégrèvements\n\n577\n\n577\n\ncenter\n\nRecettes fiscales nettes/dépenses nettes\n\n- 481\n\n457\n\ncenter\n\nRecettes non fiscales\n\n- 262\n\ncenter\n\ncenter\n\nRecettes totales nettes/dépenses nettes\n\n- 743\n\n457\n\ncenter\n\nA déduire : prélèvements sur recettes au profit des collectivités territoriales et de l'Union européenne\n\n0\n\ncenter\n\ncenter\n\nMontants nets pour le budget général\n\n- 743\n\n457\n\n- 1 200\n\nEvaluation des fonds de concours et crédits correspondants\n\ncenter\n\ncenter\n\ncenter\n\nMontants nets pour le budget général, y compris fonds de concours\n\n- 743\n\n457\n\ncenter\n\nBudgets annexes\n\ncenter\n\ncenter\n\ncenter\n\nContrôle et exploitation aériens\n\ncenter\n\n3\n\n- 3\n\nPublications officielles et information administrative\n\ncenter\n\ncenter\n\ncenter\n\nTotaux pour les budgets annexes\n\ncenter\n\n3\n\n- 3\n\nEvaluation des fonds de concours et crédits correspondants :\n\ncenter\n\ncenter\n\ncenter\n\nContrôle et exploitation aériens\n\ncenter\n\ncenter\n\ncenter\n\nPublications officielles et information administrative\n\ncenter\n\ncenter\n\ncenter\n\nTotaux pour les budgets annexes, y compris fonds de concours\n\ncenter\n\n3\n\n- 3\n\nComptes spéciaux\n\ncenter\n\ncenter\n\ncenter\n\nComptes d'affectation spéciale\n\n778\n\n778\n\n0\n\nComptes de concours financiers\n\n2 000\n\n1 512\n\n488\n\nComptes de commerce (solde)\n\ncenter\n\ncenter\n\ncenter\n\nComptes d'opérations monétaires (solde)\n\ncenter\n\ncenter\n\ncenter\n\nSolde pour les comptes spéciaux\n\ncenter\n\ncenter\n\n488\n\nSolde général\n\ncenter\n\ncenter\n\n- 715\n\n1\n\nBesoin de financement\n\ncenter\n\nAmortissement de la dette à long terme\n\n48,8\n\nAmortissement de la dette à moyen terme\n\n48,0\n\nAmortissement de dettes reprises par l'Etat\n\n0,6\n\nDéficit budgétaire\n\n92,3\n\nTotal\n\n189,7\n\nRessources de financement\n\ncenter\n\nEmissions à moyen et long termes (obligations assimilables du Trésor et bons du Trésor à taux fixe et intérêt annuel), nettes des rachats effectués par l'Etat et par la Caisse de la dette publique\n\n186,0\n\nAnnulation de titres de l'Etat par la Caisse de la dette publique\n\n2,9\n\nVariation nette des bons du Trésor à taux fixe et intérêts précomptés\n\n- 0,4\n\nVariation des dépôts des correspondants\n\n- 3,0\n\nVariation du compte de Trésor\n\n1,2\n\nAutres ressources de trésorerie\n\n3,0\n\nTotal\n\n189,7\n\n1\n\n- LOI n°2010-1657 du 29 décembre 2010"
+      "content": "I. - Pour 2011, l'ajustement des ressources tel qu'il résulte des évaluations révisées figurant à l'état A annexé à la présente loi et le supplément des charges du budget de l'Etat sont fixés aux montants suivants :\n\n(En millions d'euros)\n\nII. - Pour 2011 :1° Les ressources et les charges de trésorerie qui concourent à la réalisation de l'équilibre financier sont évaluées comme suit :\n\n(En milliards d'euros)\n\n2° Le plafond de la variation nette, appréciée en fin d'année, de la dette négociable de l'Etat d'une durée supérieure à un an demeure inchangé.III. - Pour 2011, le plafond d'autorisation des emplois rémunérés par l'Etat demeure inchangé.\n\nIV. - A modifié les dispositions suivantes :\n\nRESSOURCES\n\nCHARGES\n\nSOLDES\n\nBudget général\n\ncenter\n\ncenter\n\ncenter\n\nRecettes fiscales brutes/dépenses brutes\n\n96\n\n1 034\n\ncenter\n\nA déduire : remboursements et dégrèvements\n\n577\n\n577\n\ncenter\n\nRecettes fiscales nettes/dépenses nettes\n\n- 481\n\n457\n\ncenter\n\nRecettes non fiscales\n\n- 262\n\ncenter\n\ncenter\n\nRecettes totales nettes/dépenses nettes\n\n- 743\n\n457\n\ncenter\n\nA déduire : prélèvements sur recettes au profit des collectivités territoriales et de l'Union européenne\n\n0\n\ncenter\n\ncenter\n\nMontants nets pour le budget général\n\n- 743\n\n457\n\n- 1 200\n\nEvaluation des fonds de concours et crédits correspondants\n\ncenter\n\ncenter\n\ncenter\n\nMontants nets pour le budget général, y compris fonds de concours\n\n- 743\n\n457\n\ncenter\n\nBudgets annexes\n\ncenter\n\ncenter\n\ncenter\n\nContrôle et exploitation aériens\n\ncenter\n\n3\n\n- 3\n\nPublications officielles et information administrative\n\ncenter\n\ncenter\n\ncenter\n\nTotaux pour les budgets annexes\n\ncenter\n\n3\n\n- 3\n\nEvaluation des fonds de concours et crédits correspondants :\n\ncenter\n\ncenter\n\ncenter\n\nContrôle et exploitation aériens\n\ncenter\n\ncenter\n\ncenter\n\nPublications officielles et information administrative\n\ncenter\n\ncenter\n\ncenter\n\nTotaux pour les budgets annexes, y compris fonds de concours\n\ncenter\n\n3\n\n- 3\n\nComptes spéciaux\n\ncenter\n\ncenter\n\ncenter\n\nComptes d'affectation spéciale\n\n778\n\n778\n\n0\n\nComptes de concours financiers\n\n2 000\n\n1 512\n\n488\n\nComptes de commerce (solde)\n\ncenter\n\ncenter\n\ncenter\n\nComptes d'opérations monétaires (solde)\n\ncenter\n\ncenter\n\ncenter\n\nSolde pour les comptes spéciaux\n\ncenter\n\ncenter\n\n488\n\nSolde général\n\ncenter\n\ncenter\n\n- 715\n\n1\n\nBesoin de financement\n\ncenter\n\nAmortissement de la dette à long terme\n\n48,8\n\nAmortissement de la dette à moyen terme\n\n48,0\n\nAmortissement de dettes reprises par l'Etat\n\n0,6\n\nDéficit budgétaire\n\n92,3\n\nTotal\n\n189,7\n\nRessources de financement\n\ncenter\n\nEmissions à moyen et long termes (obligations assimilables du Trésor et bons du Trésor à taux fixe et intérêt annuel), nettes des rachats effectués par l'Etat et par la Caisse de la dette publique\n\n186,0\n\nAnnulation de titres de l'Etat par la Caisse de la dette publique\n\n2,9\n\nVariation nette des bons du Trésor à taux fixe et intérêts précomptés\n\n- 0,4\n\nVariation des dépôts des correspondants\n\n- 3,0\n\nVariation du compte de Trésor\n\n1,2\n\nAutres ressources de trésorerie\n\n3,0\n\nTotal\n\n189,7\n\n1\n\n- LOI n°2010-1657 du 29 décembre 2010",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "I. ― Il est ouvert aux ministres, pour 2011, au titre du budget général, des autorisations d'engagement et des crédits de paiement supplémentaires s'élevant, respectivement, aux montants de 1 862 494 766 € et de 1 520 822 955 €, conformément à la répartition donnée à l'état B annexé à la présente loi.II. ― Il est annulé, au titre du budget général, pour 2011, des autorisations d'engagement et des crédits de paiement s'élevant, respectivement, aux montants de 502 543 114 € et de 487 302 955 €, conformément à la répartition donnée à l'état B annexé à la présente loi."
+      "content": "I. ― Il est ouvert aux ministres, pour 2011, au titre du budget général, des autorisations d'engagement et des crédits de paiement supplémentaires s'élevant, respectivement, aux montants de 1 862 494 766 € et de 1 520 822 955 €, conformément à la répartition donnée à l'état B annexé à la présente loi.II. ― Il est annulé, au titre du budget général, pour 2011, des autorisations d'engagement et des crédits de paiement s'élevant, respectivement, aux montants de 502 543 114 € et de 487 302 955 €, conformément à la répartition donnée à l'état B annexé à la présente loi.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "I. ― Il est ouvert au ministre chargé des transports, pour 2011, au titre du budget annexe « Contrôle et exploitation aériens », des autorisations d'engagement et des crédits de paiement supplémentaires s'élevant à 5 000 000 €, conformément à la répartition donnée à l'état C annexé à la présente loi.II. ― Il est annulé, au titre du budget annexe « Contrôle et exploitation aériens », des autorisations d'engagement et des crédits de paiement s'élevant à 2 000 000 €, conformément à la répartition donnée à l'état C annexé à la présente loi."
+      "content": "I. ― Il est ouvert au ministre chargé des transports, pour 2011, au titre du budget annexe « Contrôle et exploitation aériens », des autorisations d'engagement et des crédits de paiement supplémentaires s'élevant à 5 000 000 €, conformément à la répartition donnée à l'état C annexé à la présente loi.II. ― Il est annulé, au titre du budget annexe « Contrôle et exploitation aériens », des autorisations d'engagement et des crédits de paiement s'élevant à 2 000 000 €, conformément à la répartition donnée à l'état C annexé à la présente loi.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "I. ― Il est ouvert aux ministres, pour 2011, au titre des comptes d'affectation spéciale, des autorisations d'engagement et des crédits de paiement supplémentaires s'élevant à 778 000 000 €, conformément à la répartition donnée à l'état D annexé à la présente loi.II. ― Il est ouvert au ministre de l'économie, des finances et de l'industrie, pour 2011, au titre du compte de concours financiers « Prêts à des Etats étrangers », un crédit de paiement supplémentaire s'élevant à 1 511 743 337 €, conformément à la répartition donnée à l'état D annexé à la présente loi."
+      "content": "I. ― Il est ouvert aux ministres, pour 2011, au titre des comptes d'affectation spéciale, des autorisations d'engagement et des crédits de paiement supplémentaires s'élevant à 778 000 000 €, conformément à la répartition donnée à l'état D annexé à la présente loi.II. ― Il est ouvert au ministre de l'économie, des finances et de l'industrie, pour 2011, au titre du compte de concours financiers « Prêts à des Etats étrangers », un crédit de paiement supplémentaire s'élevant à 1 511 743 337 €, conformément à la répartition donnée à l'état D annexé à la présente loi.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "I.-Les articles 1er et 1649-0 A du code général des impôts s'appliquent pour la dernière fois pour la détermination du plafonnement des impositions afférentes aux revenus réalisés en 2010.\n\nII.-Les contribuables qui sont redevables de l'impôt de solidarité sur la fortune au titre de l'année 2012 exercent le droit à restitution acquis au 1er janvier de la même année en application de l'article 1649-0 A du code général des impôts, selon les modalités prévues au 9 du même article, en imputant le montant correspondant à ce droit exclusivement sur celui de la cotisation d'impôt de solidarité sur la fortune due au titre de la même année.\n\nLa part du droit à restitution non imputée sur la cotisation d'impôt de solidarité sur la fortune due par les contribuables, en application du premier alinéa du présent II, constitue une créance sur l'Etat imputable exclusivement sur les cotisations d'impôt de solidarité sur la fortune dues au titre des années suivantes.\n\nPar exception au deuxième alinéa du présent II, la restitution du reliquat de la créance née du droit à restitution acquis en 2012 peut être demandée par le contribuable ou ses ayants droit avant le 31 décembre de l'année au titre de laquelle :\n\n1° Le contribuable titulaire de la créance n'est plus redevable de l'impôt de solidarité sur la fortune ;\n\n2° Les membres du foyer fiscal titulaire de la créance font l'objet d'une imposition distincte à l'impôt de solidarité sur la fortune ;\n\n3° L'un des membres du foyer fiscal titulaire de la créance décède.\n\nIII.-A abrogé les dispositions suivantes :\n\n-Code général des impôts, CGI."
+      "content": "I.-Les articles 1er et 1649-0 A du code général des impôts s'appliquent pour la dernière fois pour la détermination du plafonnement des impositions afférentes aux revenus réalisés en 2010.\n\nII.-Les contribuables qui sont redevables de l'impôt de solidarité sur la fortune au titre de l'année 2012 exercent le droit à restitution acquis au 1er janvier de la même année en application de l'article 1649-0 A du code général des impôts, selon les modalités prévues au 9 du même article, en imputant le montant correspondant à ce droit exclusivement sur celui de la cotisation d'impôt de solidarité sur la fortune due au titre de la même année.\n\nLa part du droit à restitution non imputée sur la cotisation d'impôt de solidarité sur la fortune due par les contribuables, en application du premier alinéa du présent II, constitue une créance sur l'Etat imputable exclusivement sur les cotisations d'impôt de solidarité sur la fortune dues au titre des années suivantes.\n\nPar exception au deuxième alinéa du présent II, la restitution du reliquat de la créance née du droit à restitution acquis en 2012 peut être demandée par le contribuable ou ses ayants droit avant le 31 décembre de l'année au titre de laquelle :\n\n1° Le contribuable titulaire de la créance n'est plus redevable de l'impôt de solidarité sur la fortune ;\n\n2° Les membres du foyer fiscal titulaire de la créance font l'objet d'une imposition distincte à l'impôt de solidarité sur la fortune ;\n\n3° L'un des membres du foyer fiscal titulaire de la créance décède.\n\nIII.-A abrogé les dispositions suivantes :\n\n-Code général des impôts, CGI.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "I et II. - A modifié les dispositions suivantes :"
+      "content": "I et II. - A modifié les dispositions suivantes :",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art33",
       "section": "33",
       "title": "Article 33",
-      "content": "II. ― Le I s'applique à compter des impositions  établies au titre de l'année 2011."
+      "content": "II. ― Le I s'applique à compter des impositions  établies au titre de l'année 2011.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "II-1. Les locaux à usage de bureaux situés :"
+      "content": "I., IV.-A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nII-1. Les locaux à usage de bureaux situés :\n\na) Dans les communes de la région d'Ile-de-France non mentionnées à l'article R. 520-12 du code de l'urbanisme, dans sa rédaction en vigueur au 28 décembre 2010, et rattachées à la deuxième circonscription en application de l'article L. 520-3 du même code ;\n\nb) Dans les communes mentionnées au second alinéa de l'article L. 520-1 et au 3° de l'article R. 520-12 du même code, dans leur rédaction en vigueur au 28 décembre 2010, à l'exception des arrondissements de Paris, et rattachées à la première circonscription en application de l'article L. 520-3 du même code ;\n\nbénéficient à compter du 1er janvier 2015 d'un abattement du tiers de l'augmentation du montant de la redevance telle que définie au 3 du présent II.\n\n2. Les locaux à usage de bureaux situés :\n\na) Dans les communes de la région d'Ile-de-France non mentionnées à l'article R. 520-12 du même code, dans sa rédaction en vigueur au 28 décembre 2010, et rattachées à la troisième circonscription en application de l'article L. 520-3 du même code ;\n\nb) Dans les communes mentionnées au second alinéa de l'article L. 520-1 et au 3° de l'article R. 520-12 du même code, dans leur rédaction en vigueur au 28 décembre 2010, et rattachées à la deuxième circonscription en application de l'article L. 520-3 du même code ;\n\nc) Dans les communes mentionnées au 2° de l'article R. 520-12 du même code, dans sa rédaction en vigueur au 28 décembre 2010, et rattachées à la première circonscription en application de l'article L. 520-3 du même code ;\n\nd) Dans les arrondissements de Paris mentionnés au 3° de l'article R. 520-12 du code de l'environnement, dans sa rédaction en vigueur au 28 décembre 2010, à l'exception des 5e, 12e et 13e arrondissements ;\n\nbénéficient au titre des années 2011 à 2013 d'un abattement respectivement des trois quarts, de la moitié et du quart de l'augmentation du montant de la redevance telle que définie au 3 du présent II.\n\n3. L'augmentation du montant de la redevance visée aux 1 et 2 est égale à la différence entre le montant dû en application du I du présent article et le montant exigible en appliquant les tarifs et les circonscriptions en vigueur au 28 décembre 2010.\n\n4. Les locaux mentionnés aux b et c du II de l'article L. 520-3 du même code bénéficient au titre des années 2011 à 2013 d'un abattement respectivement des trois quarts, de la moitié et du quart du montant de la redevance.\n\nIII. ― Les I et II s'appliquent à compter du 1er janvier 2011.\n\n-Code de l'urbanisme\n\n-Code des douanes\n\nArt. 265 A bis",
+      "valid_from": "2014-12-30"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "II. ― Le I entre en vigueur le 1er janvier 2011."
+      "content": "II. ― Le I entre en vigueur le 1er janvier 2011.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art39",
       "section": "39",
       "title": "Article 39",
-      "content": "I à III.-A modifié les dispositions suivantes :\n\nIV.-Le présent article s'applique à l'impôt sur la fortune dû à compter de l'année 2012.\n\n-Code général des impôts, CGI."
+      "content": "I à III.-A modifié les dispositions suivantes :\n\nIV.-Le présent article s'applique à l'impôt sur la fortune dû à compter de l'année 2012.\n\n-Code général des impôts, CGI.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art40",
       "section": "40",
       "title": "Article 40",
-      "content": "I. - A créé les dispositions suivantes :"
+      "content": "I. - A créé les dispositions suivantes :",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art41",
       "section": "41",
       "title": "Article 41",
-      "content": "I à IV.-A modifié les dispositions suivantes :\n\n-Ordonnance n° 96-50 du 24 janvier 1996\n\n-Code général des impôts, CGI.\n\n-Code général des impôts, CGI.\n\nArt. 15\n\nArt. 163 bis,\nArt. 1417\n\nV.-Le présent article s'applique à compter de l'imposition des revenus de 2011."
+      "content": "I à IV.-A modifié les dispositions suivantes :\n\n-Ordonnance n° 96-50 du 24 janvier 1996\n\n-Code général des impôts, CGI.\n\n-Code général des impôts, CGI.\n\nArt. 15\n\nArt. 163 bis,\nArt. 1417\n\nV.-Le présent article s'applique à compter de l'imposition des revenus de 2011.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art48",
       "section": "48",
       "title": "Article 48",
-      "content": "I. à III.-A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIV.-Le présent article est applicable aux transferts du domicile fiscal hors de France intervenus à compter du 3 mars 2011.\n\n-Code général des impôts, CGI.\n\n-Code de la sécurité sociale."
+      "content": "I. à III.-A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIV.-Le présent article est applicable aux transferts du domicile fiscal hors de France intervenus à compter du 3 mars 2011.\n\n-Code général des impôts, CGI.\n\n-Code de la sécurité sociale.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art50",
       "section": "50",
       "title": "Article 50",
-      "content": "I. - A créé les dispositions suivantes :\n\nIII. - Pour les établissements mentionnés aux a à c de l'article L. 162-22-6 du code de la sécurité sociale, outre les éléments mentionnés à l'article L. 162-22-11-1 du même code, les tarifs permettant la facturation de l'aide médicale de l'Etat sont majorés d'un coefficient de transition. Ce coefficient atteint la valeur 1 au plus tard en 2013 selon un calendrier et des modalités de calcul fixés par arrêté des ministres chargés de la santé, du budget et de la sécurité sociale.\n\nII. et IV. - A modifié les dispositions suivantes :\n\nV. - Le présent article entre en vigueur le 1er décembre 2011.\n\n- Code de la sécurité sociale.\n\n- Code de la sécurité sociale.\n\n- Loi n°2003-1199 du 18 décembre 2003"
+      "content": "I. - A créé les dispositions suivantes :\n\nIII. - Pour les établissements mentionnés aux a à c de l'article L. 162-22-6 du code de la sécurité sociale, outre les éléments mentionnés à l'article L. 162-22-11-1 du même code, les tarifs permettant la facturation de l'aide médicale de l'Etat sont majorés d'un coefficient de transition. Ce coefficient atteint la valeur 1 au plus tard en 2013 selon un calendrier et des modalités de calcul fixés par arrêté des ministres chargés de la santé, du budget et de la sécurité sociale.\n\nII. et IV. - A modifié les dispositions suivantes :\n\nV. - Le présent article entre en vigueur le 1er décembre 2011.\n\n- Code de la sécurité sociale.\n\n- Code de la sécurité sociale.\n\n- Loi n°2003-1199 du 18 décembre 2003",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art51",
       "section": "51",
       "title": "Article 51",
-      "content": "I. à III. - A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIV. - Les I et II entrent en vigueur le 1er janvier 2012.\n\n- Code général des impôts, CGI.\n\n- Code monétaire et financier\n\n- Code général des impôts, CGI."
+      "content": "I. à III. - A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIV. - Les I et II entrent en vigueur le 1er janvier 2012.\n\n- Code général des impôts, CGI.\n\n- Code monétaire et financier\n\n- Code général des impôts, CGI.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art52",
       "section": "52",
       "title": "Article 52",
-      "content": "III. - Le I entre en vigueur le 1er janvier 2012."
+      "content": "III. - Le I entre en vigueur le 1er janvier 2012.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art53",
       "section": "53",
       "title": "Article 53",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2011-638 DC du 28 juillet 2011.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2011-638 DC du 28 juillet 2011.]",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art54",
       "section": "54",
       "title": "Article 54",
-      "content": "I, III à V.-A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nII.-Le I est applicable aux instances introduites à compter du 1er octobre 2011.\n\n-Code général des impôts, CGI.\n\n-Loi n° 71-1130 du 31 décembre 1971\n\n-Loi n° 91-647 du 10 juillet 1991\n\n-Loi n° 71-1130 du 31 décembre 1971\n\n-Loi n° 91-647 du 10 juillet 1991"
+      "content": "I, III à V.-A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nII.-Le I est applicable aux instances introduites à compter du 1er octobre 2011.\n\n-Code général des impôts, CGI.\n\n-Loi n° 71-1130 du 31 décembre 1971\n\n-Loi n° 91-647 du 10 juillet 1991\n\n-Loi n° 71-1130 du 31 décembre 1971\n\n-Loi n° 91-647 du 10 juillet 1991",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art56",
       "section": "56",
       "title": "Article 56",
-      "content": "I.-Par dérogation à l'article L. 121-13 du code de l'énergie, le montant de la contribution due par les consommateurs finals d'électricité applicable à chaque kilowattheure est fixée à 0,009 € jusqu'au 30 juin 2012, puis à 0,0105 € du 1er juillet au 31 décembre 2012.\n\nII.-A modifié les dispositions suivantes :\n\n-Code de l'énergie"
+      "content": "I.-Par dérogation à l'article L. 121-13 du code de l'énergie, le montant de la contribution due par les consommateurs finals d'électricité applicable à chaque kilowattheure est fixée à 0,009 € jusqu'au 30 juin 2012, puis à 0,0105 € du 1er juillet au 31 décembre 2012.\n\nII.-A modifié les dispositions suivantes :\n\n-Code de l'énergie",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art57",
       "section": "57",
       "title": "Article 57",
-      "content": "IV. ― Le présent article entre en vigueur le premier jour du mois suivant la publication du décret mentionné à l'article L. 1142-24-4 du code de la santé publique et au plus tard le 1er septembre 2011."
+      "content": "I.-,II.- III.- A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nIV. ― Le présent article entre en vigueur le premier jour du mois suivant la publication du décret mentionné à l'article L. 1142-24-4 du code de la santé publique et au plus tard le 1er septembre 2011.\n\nA compter de cette entrée en vigueur, les commissions mentionnées à l'article L. 1142-5 du même code transmettent les demandes dont elles sont saisies et qui relèvent de la section 4 bis du chapitre II du titre IV du livre Ier de la première partie dudit code à l'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales si elles n'ont pas encore émis leur avis en application de l'article L. 1142-8 du même code. Le délai prévu à l'article L. 1142-24-5 du même code ne court qu'à compter de la date à laquelle l'office accuse réception de cette transmission.\n\nDans des conditions prévues par décret en Conseil d'Etat, si à la date d'entrée en vigueur du présent article une personne mentionnée à l'article L. 1142-24-2 du code de la santé publique a intenté une action en justice tendant à la réparation de préjudices relevant de la section 4 bis du chapitre II du titre IV du livre Ier de la première partie du même code, elle peut saisir l'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales en vue d'obtenir la réparation de ses préjudices. Elle informe la juridiction de cette saisine.\n\n-Code de la santé publique\n\n-Code de la santé publique\n\n-Code de la santé publique",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art58",
       "section": "58",
       "title": "Article 58",
-      "content": "Le Gouvernement est autorisé à participer à la révision générale des quotes-parts des pays membres du Fonds monétaire international qui a été approuvée par la résolution du conseil des gouverneurs de cette institution en date du 15 décembre 2010.Le montant de la quote-part de la France dans le Fonds monétaire international est porté de 10 738,5 millions de droits de tirage spéciaux à 20 155,1 millions de droits de tirage spéciaux."
+      "content": "Le Gouvernement est autorisé à participer à la révision générale des quotes-parts des pays membres du Fonds monétaire international qui a été approuvée par la résolution du conseil des gouverneurs de cette institution en date du 15 décembre 2010.Le montant de la quote-part de la France dans le Fonds monétaire international est porté de 10 738,5 millions de droits de tirage spéciaux à 20 155,1 millions de droits de tirage spéciaux.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art59",
       "section": "59",
       "title": "Article 59",
-      "content": "Avant le 1er janvier 2012, le Gouvernement remet un rapport au Parlement sur les conditions de mise en œuvre d'une fusion progressive de l'impôt sur le revenu et de la contribution sociale généralisée. Ce rapport détaille notamment les possibilités d'un prélèvement à la source de l'impôt sur le revenu."
+      "content": "Avant le 1er janvier 2012, le Gouvernement remet un rapport au Parlement sur les conditions de mise en œuvre d'une fusion progressive de l'impôt sur le revenu et de la contribution sociale généralisée. Ce rapport détaille notamment les possibilités d'un prélèvement à la source de l'impôt sur le revenu.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art60",
       "section": "60",
       "title": "Article 60",
-      "content": "I.-A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n-Code de la construction et de l'habitation.\n\n-Code de la construction et de l'habitation."
+      "content": "I.-A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n-Code de la construction et de l'habitation.\n\n-Code de la construction et de l'habitation.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art67",
       "section": "67",
       "title": "Article 67",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2011-638 DC du 28 juillet 2011.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2011-638 DC du 28 juillet 2011.]",
+      "valid_from": "2011-07-31"
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Article 69",
+      "content": "Sous réserve de la signature par les chefs d'Etat ou de Gouvernement des Etats membres de l'Union européenne dont la monnaie est l'euro, au plus tard le 31 décembre 2011, des modifications de l'accord-cadre du 7 juin 2010 créant le Fonds européen de stabilité financière.A modifié les dispositions suivantes :\n\n-LOI n° 2010-606 du 7 juin 2010",
+      "valid_from": "2011-07-31",
+      "valid_to": "2222-02-22"
     },
     {
       "provision_ref": "art70",
       "section": "70",
       "title": "Article 70",
-      "content": "Dans le cadre de la reprise par l'Etat des droits et obligations de l'établissement public en liquidation « Entreprise minière et chimique », l'Etat peut se substituer à l'Entreprise minière et chimique pour les différentes garanties de passifs accordées lors de la vente de la société par action simplifiée unipersonnelle SCPA SIVEX International à LD Commodities Fertilizers Holding, intervenue le 22 décembre 2010. Ces garanties de l'Etat sont accordées dans le respect d'un plafond de 4 millions d'euros et prennent fin le 13 janvier 2012."
+      "content": "Dans le cadre de la reprise par l'Etat des droits et obligations de l'établissement public en liquidation « Entreprise minière et chimique », l'Etat peut se substituer à l'Entreprise minière et chimique pour les différentes garanties de passifs accordées lors de la vente de la société par action simplifiée unipersonnelle SCPA SIVEX International à LD Commodities Fertilizers Holding, intervenue le 22 décembre 2010. Ces garanties de l'Etat sont accordées dans le respect d'un plafond de 4 millions d'euros et prennent fin le 13 janvier 2012.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art71",
       "section": "71",
       "title": "Article 71",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2011-638 DC du 28 juillet 2011.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2011-638 DC du 28 juillet 2011.]",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art72",
       "section": "72",
       "title": "Article 72",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2011-638 DC du 28 juillet 2011.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2011-638 DC du 28 juillet 2011.]",
+      "valid_from": "2011-07-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

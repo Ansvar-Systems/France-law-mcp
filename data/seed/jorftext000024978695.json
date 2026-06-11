@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "1° A créé les dispositions suivantes :\n\n2° Le dernier alinéa de l'article 43 est applicable en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna.\n\n- LOI n°2010-1609 du 22 décembre 2010"
+      "content": "1° A créé les dispositions suivantes :\n\n2° Le dernier alinéa de l'article 43 est applicable en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna.\n\n- LOI n°2010-1609 du 22 décembre 2010",
+      "valid_from": "2011-12-17"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le IV de l'article 6 de la loi du 22 décembre 1984 susvisée est abrogé en tant qu'il s'applique dans les îles Wallis et Futuna."
+      "content": "Le IV de l'article 6 de la loi du 22 décembre 1984 susvisée est abrogé en tant qu'il s'applique dans les îles Wallis et Futuna.",
+      "valid_from": "2011-12-17"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice et des libertés, et le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice et des libertés, et le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2011-12-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

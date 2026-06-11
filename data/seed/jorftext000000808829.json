@@ -12,13 +12,22 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2004-510 DC du 20 janvier 2004)."
+      "content": "(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2004-510 DC du 20 janvier 2004).",
+      "valid_from": "2005-01-27"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "La présente loi ne s'applique pas, en matière civile, aux instances engagées avant la date de son entrée en vigueur.Les dispositions des articles 7 à 9 entrent en vigueur le premier jour du troisième mois suivant sa publication. Toutefois, les affaires dont le tribunal de police ou la juridiction de proximité sont régulièrement saisis à cette date demeurent de la compétence de ces juridictions."
+      "content": "La présente loi ne s'applique pas, en matière civile, aux instances engagées avant la date de son entrée en vigueur.Les dispositions des articles 7 à 9 entrent en vigueur le premier jour du troisième mois suivant sa publication. Toutefois, les affaires dont le tribunal de police ou la juridiction de proximité sont régulièrement saisis à cette date demeurent de la compétence de ces juridictions.",
+      "valid_from": "2005-01-27",
+      "valid_to": "2029-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La loi des 20 mai - 3 juin 1874 sur l'aumônerie militaire est abrogée."
+      "content": "La loi des 20 mai - 3 juin 1874 sur l'aumônerie militaire est abrogée.",
+      "valid_from": "1880-07-11"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Il sera attaché des ministres des différents cultes aux camps, forts détachés et aux garnisons placées hors de l'enceinte des villes, contenant un rassemblement de deux mille hommes au moins et éloignés des églises paroissiales et des temples de plus de trois kilomètres, ainsi qu'aux hôpitaux et pénitenciers militaires."
+      "content": "Il sera attaché des ministres des différents cultes aux camps, forts détachés et aux garnisons placées hors de l'enceinte des villes, contenant un rassemblement de deux mille hommes au moins et éloignés des églises paroissiales et des temples de plus de trois kilomètres, ainsi qu'aux hôpitaux et pénitenciers militaires.",
+      "valid_from": "1880-07-11"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "En cas de mobilisation, des ministres des différents cultes seront attachés aux armées, corps d'armée et divisions en campagne, mais sans aucune distinction hiérarchique. Un décret en Conseil d'Etat déterminera le mode de recrutement et le nombre de ces ministres.\n\nLa présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l'Etat."
+      "content": "En cas de mobilisation, des ministres des différents cultes seront attachés aux armées, corps d'armée et divisions en campagne, mais sans aucune distinction hiérarchique. Un décret en Conseil d'Etat déterminera le mode de recrutement et le nombre de ces ministres.\n\nLa présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l'Etat.",
+      "valid_from": "1880-07-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

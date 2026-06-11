@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Nonobstant les clauses de leurs statuts, les établissements d'utilité publique constitués sous forme d'associations régies par le titre II de la loi du 1er juillet 1901 ou de fondations pourront placer leurs capitaux en valeurs admises par la Banque de France en garantie d'avances."
+      "content": "Nonobstant les clauses de leurs statuts, les établissements d'utilité publique constitués sous forme d'associations régies par le titre II de la loi du 1er juillet 1901 ou de fondations pourront placer leurs capitaux en valeurs admises par la Banque de France en garantie d'avances.",
+      "valid_from": "1987-07-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

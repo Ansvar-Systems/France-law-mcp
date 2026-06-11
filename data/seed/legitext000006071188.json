@@ -9,10 +9,65 @@
   "description": null,
   "provisions": [
     {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Pour l'application des dispositions contenues dans la présente loi :\n\nL'expression de \" capitaine \" désigne le capitaine ou patron ou, à défaut, la personne qui exerce régulièrement, en fait, le commandement du navire ;\n\nL'expression d'\" officier \" désigne le second, les lieutenants, le chef mécanicien, les mécaniciens chefs de quart, les radiotélégraphistes ayant rang d'officier, le commissaire, les médecins, les marins titulaires du diplôme d'élève officier de la marine marchande ou du brevet d'élève officier mécanicien et embarqués comme élèves officiers, ainsi que toutes personnes portées comme officiers sur le   permis d'armement ;\n\nL'expression de \" maître \" désigne les maîtres d'équipage, les premiers chauffeurs ou assimilés, les radiotélégraphistes n'ayant pas rang d'officier, ainsi que toutes personnes portées comme maîtres ou chefs de service sur le   permis d'armement ;\n\nL'expression d'\" homme d'équipage \" désigne toutes les autres personnes de l'équipage, quel que soit leur sexe, qui sont inscrites sur le   permis d'armement, soit pour le service du pont ou de la machine, soit pour le service général ;\n\nL'expression de \" passager \" désigne les passagers proprement dits, ainsi que toutes les personnes qui se trouvent en fait, à bord du navire, en vue d'effectuer le voyage ;\n\nL'expression de \" personnes embarquées, désigne l'ensemble des personnes énumérées aux alinéas 1° et 2° du paragraphe premier de l'article premier ;\n\nL'expression d'administrateur des affaires maritimes désigne :\n\nEn France métropolitaine et dans les départements de la Guyane, de la Martinique, de la Guadeloupe et de la Réunion : le fonctionnaire chargé du service des affaires maritimes ;\n\nDans les territoires d'outre-mer de la République : le chef du service des administrateurs des affaires maritimes ;\n\nDans les Etats de la Communauté : le fonctionnaire chargé des services extérieurs et communs en matière de transports maritimes ;\n\nDans les rades et ports étrangers : l'autorité consulaire, à l'exclusion des agents consulaires.\n\nL'expression de \" bord \" désigne le navire, ses embarcations et ses moyens de communication fixes avec la terre.\n\nLes dispositions visant les ports métropolitains s'appliquent également à un port d'un département d'outre-mer dans les cas où le navire en cause sera immatriculé dans l'un de ces départements.",
+      "valid_from": "2018-01-01",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Article 43",
+      "content": "Est puni, pour chacune des infractions visées ci-après, de l'amende prévue pour les contraventions de la 5e classe, tout capitaine qui refuse ou néglige, sans motif légitime :1° De faire les constatations requises en cas de crime ou de délit commis à bord ;2° De rédiger : soit les actes de l'état civil, les procès-verbaux de disparition et les testaments, dans les cas prévus par les articles 59, 62, 86, 87, 988 et 989 du Code civil, soit les actes de procuration, de consentement et d'autorisation prévus par la loi du 8 juin 1893, soit les rapports de maladies, blessures ou décès des participants à la caisse nationale de prévoyance des marins français ;3° De tenir régulièrement le journal du bord, le livre de discipline et autres documents réglementaires.",
+      "valid_from": "1994-03-01",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Article 55",
+      "content": "Est punie d'un mois d'emprisonnement toute personne embarquée, coupable d'avoir introduit de l'alcool et des boissons spiritueuses ou d'en avoir facilité l'introduction à bord, sans l'autorisation expresse du capitaine.Est puni d'une peine double le capitaine ou l'armateur qui a embarqué ou fait embarquer de l'alcool ou des boissons spiritueuses, destinées à la consommation de l'équipage, en quantités supérieures aux quantités réglementaires, ou en aura autorisé l'embarquement.",
+      "valid_from": "1994-03-01",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Article 72",
+      "content": "Tout capitaine qui embarque ou débarque une personne de l'équipage sans faire mentionner cet embarquement ou ce débarquement sur le   permis d'armement par l'autorité maritime est puni, pour chaque personne irrégulièrement embarquée ou débarquée, de l'amende prévue pour les contraventions de la 5e classe, si le bâtiment a une jauge brute dépassant 25 tonneaux, de l'amende prévue pour les contraventions de la 4e classe dans le cas contraire.Les mêmes peines sont encourues pour chaque passager admis à bord sans avoir été inscrit à la suite du   permis d'armement. Toutefois, des dispositions spéciales pourront être établies par décret pour certaines navigations ; les infractions à ces dispositions seront punies de l'amende prévue pour les contraventions de la 3e classe.",
+      "valid_from": "2018-01-01",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Article 76",
+      "content": "Tout capitaine qui, hors le cas d'empêchement légitime, ne dépose pas son   permis d'armement et son livre de discipline au bureau des affaires maritimes ou à la chancellerie du consulat, soit dans les vingt-quatre heures de son arrivée dans un port français ou dans un port étranger où réside un consul général, un consul ou un vice-consul de France lorsque le bâtiment doit séjourner plus de vingt-quatre heures dans le port (jours fériés exclus), soit dès son arrivée, si le bâtiment doit séjourner moins de vingt-quatre heures dans le port, est puni de l'amende prévue pour les contraventions de la 5e classe.",
+      "valid_from": "2018-01-01",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Article 82",
+      "content": "Toute personne de l'équipage, autre que le capitaine, le chef de quart ou le pilote, qui se rend coupable, pendant son service, d'un fait de négligence sans excuse, d'un défaut de vigilance ou de tout autre manquement aux obligations de son service ayant occasionné, pour un navire quelconque, soit un abordage, soit un échouement ou un choc contre un obstacle visible ou connu, soit une avarie grave d'un navire ou de sa cargaison, est punie de l'amende prévue pour les contraventions de la 4e classe.Si l'infraction a eu pour conséquence la perte ou l'innavigabilité absolue d'un navire, ou la perte d'une cargaison, ou si elle a entraîné soit des blessures graves, soit la mort pour une ou plusieurs personnes, le coupable est puni de l'amende prévue pour les contraventions de la 5e classe.",
+      "valid_from": "1994-03-01",
+      "valid_to": "2222-02-22"
+    },
+    {
       "provision_ref": "art95",
       "section": "95",
       "title": "Article 95",
-      "content": "Le montant des sommes provenant des amendes prononcées en vertu de la présente loi est versé à la caisse des invalides de la marine."
+      "content": "Le montant des sommes provenant des amendes prononcées en vertu de la présente loi est versé à la caisse des invalides de la marine.",
+      "valid_from": "1926-12-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le tableau annexé à la loi du 11 juillet 1986 susvisée, répartissant les sièges de députés élus dans les départements, est modifié conformément au tableau n° 1 annexé à la présente ordonnance."
+      "content": "Le tableau annexé à la loi du 11 juillet 1986 susvisée, répartissant les sièges de députés élus dans les départements, est modifié conformément au tableau n° 1 annexé à la présente ordonnance.",
+      "valid_from": "2009-08-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. ― Le tableau n° 1 annexé au code électoral en application de l'article L. 125 du même code est modifié conformément au tableau n° 2 annexé à la présente ordonnance.II. ― Le tableau n° 1 bis annexé au code électoral en application de l'article L. 125 du même code est modifié conformément au tableau n° 3 annexé à la présente ordonnance.III. ― Le tableau n° 1 ter annexé au code électoral en application de l'article L. 125 du même code est établi conformément au tableau n° 4 annexé à la présente ordonnance."
+      "content": "I. ― Le tableau n° 1 annexé au code électoral en application de l'article L. 125 du même code est modifié conformément au tableau n° 2 annexé à la présente ordonnance.II. ― Le tableau n° 1 bis annexé au code électoral en application de l'article L. 125 du même code est modifié conformément au tableau n° 3 annexé à la présente ordonnance.III. ― Le tableau n° 1 ter annexé au code électoral en application de l'article L. 125 du même code est établi conformément au tableau n° 4 annexé à la présente ordonnance.",
+      "valid_from": "2009-08-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les limites des cantons, des communes, des arrondissements et quartiers municipaux et des circonscriptions électorales relatives à l'Assemblée des Français de l'étranger auxquels se réfèrent les tableaux annexés à la présente ordonnance sont celles qui résultent des dispositions en vigueur à la date de sa publication."
+      "content": "Les limites des cantons, des communes, des arrondissements et quartiers municipaux et des circonscriptions électorales relatives à l'Assemblée des Français de l'étranger auxquels se réfèrent les tableaux annexés à la présente ordonnance sont celles qui résultent des dispositions en vigueur à la date de sa publication.",
+      "valid_from": "2009-08-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, le ministre des affaires étrangères et européennes, le ministre de l'intérieur, de l'outre-mer et des collectivités territoriales et le secrétaire d'Etat à l'intérieur et aux collectivités territoriales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des affaires étrangères et européennes, le ministre de l'intérieur, de l'outre-mer et des collectivités territoriales et le secrétaire d'Etat à l'intérieur et aux collectivités territoriales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2009-08-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

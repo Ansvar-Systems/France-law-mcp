@@ -12,31 +12,42 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "A titre transitoire, la majoration d'allocation prévue par l'article 1er sera financée par les recettes instituées à l'article 4 ci-après.Les crédits applicables auxdites contributions seront, pour l'exercice 1956, ouvert au titre VIII du budget général, par décret pris sur le rapport du ministre des finances et des affaires économiques.Les modalités de répartition de ces crédits entre les divers régimes seront fixées par décret."
+      "content": "A titre transitoire, la majoration d'allocation prévue par l'article 1er sera financée par les recettes instituées à l'article 4 ci-après.Les crédits applicables auxdites contributions seront, pour l'exercice 1956, ouvert au titre VIII du budget général, par décret pris sur le rapport du ministre des finances et des affaires économiques.Les modalités de répartition de ces crédits entre les divers régimes seront fixées par décret.",
+      "valid_from": "1956-01-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I - A compter du premier jour du mois suivant la date de promulgation de la présente loi, à zéro heure, un décret aménagera le taux des taxes intérieures de consommation sur les produits pétroliers, en vue de dégager deux milliards de francs de recettes supplémentaires par an, sans qu'il en résulte d'augmentation des prix de vente aux consommateurs. Ce même décret réduira, en contrepartie de deux milliards par an la protection douanière dont bénéficie l'industrie du raffinage du pétrole.II - Sans préjudice de la majoration du taux des taxes intérieures prévue à l'alinéa précédent, le tableau B de l'article 265 du code des douanes est modifié comme suit en ce qui concerne les produits désignés ci-après (tableau non reproduit).III - Un décret donnera la définition des essences de pétrole devant être consommées comme supercarburant et précisera les modalités d'assiette, de contrôle et de perception de la majoration de taxe intérieure applicable à ce produit ainsi que la date d'application de l'augmentation du taux de la taxe intérieure prévue au paragraphe II ci-dessus.IV - Les recettes provenant des majorations du taux de la taxe intérieure de consommation instituées aux alinéas I et II ci-dessus ne seront pas soumises aux prélèvements prévus en faveur du fonds spécial d'investissement routier."
+      "content": "I - A compter du premier jour du mois suivant la date de promulgation de la présente loi, à zéro heure, un décret aménagera le taux des taxes intérieures de consommation sur les produits pétroliers, en vue de dégager deux milliards de francs de recettes supplémentaires par an, sans qu'il en résulte d'augmentation des prix de vente aux consommateurs. Ce même décret réduira, en contrepartie de deux milliards par an la protection douanière dont bénéficie l'industrie du raffinage du pétrole.II - Sans préjudice de la majoration du taux des taxes intérieures prévue à l'alinéa précédent, le tableau B de l'article 265 du code des douanes est modifié comme suit en ce qui concerne les produits désignés ci-après (tableau non reproduit).III - Un décret donnera la définition des essences de pétrole devant être consommées comme supercarburant et précisera les modalités d'assiette, de contrôle et de perception de la majoration de taxe intérieure applicable à ce produit ainsi que la date d'application de l'augmentation du taux de la taxe intérieure prévue au paragraphe II ci-dessus.IV - Les recettes provenant des majorations du taux de la taxe intérieure de consommation instituées aux alinéas I et II ci-dessus ne seront pas soumises aux prélèvements prévus en faveur du fonds spécial d'investissement routier.",
+      "valid_from": "1956-01-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Aucun remboursement de trop-perçu en matière de prestations de retraites ne sera réclamé à un assujetti de bonne foi quand ses ressources, durant la période afférente aux sommes réclamées, ont été inférieures au double de l'allocation aux vieux travailleurs salariés.Toute demande de remboursement de trop-perçu en matière de prestations de retraites est prescrite par un délai de trois années."
+      "content": "Aucun remboursement de trop-perçu en matière de prestations de retraites ne sera réclamé à un assujetti de bonne foi quand ses ressources, durant la période afférente aux sommes réclamées, ont été inférieures au double de l'allocation aux vieux travailleurs salariés.Toute demande de remboursement de trop-perçu en matière de prestations de retraites est prescrite par un délai de trois années.",
+      "valid_from": "1956-01-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les allocations aux vieux travailleurs salariés servies dans les départements d'outre-mer sont majorées de 10 p. 100 à dater du 1er janvier 1956."
+      "content": "Les allocations aux vieux travailleurs salariés servies dans les départements d'outre-mer sont majorées de 10 p. 100 à dater du 1er janvier 1956.",
+      "valid_from": "1956-01-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Sont abrogées toutes dispositions contraires à la présente loi qui entrera en vigueur le 1er janvier 1956."
+      "content": "Sont abrogées toutes dispositions contraires à la présente loi qui entrera en vigueur le 1er janvier 1956.",
+      "valid_from": "1956-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

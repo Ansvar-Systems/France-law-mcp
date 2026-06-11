@@ -1,0 +1,25 @@
+{
+  "id": "legitext000006069613",
+  "type": "statute",
+  "title": "Loi du 29 mars 1897",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069613/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Article 22",
+      "content": "Les sommes déposées à la Caisse des gens de mer et non réclamées à cette caisse par les ayants droit dans un délai de trente ans sont acquises à la Caisse des invalides de la marine et placées en rentes sur l'Etat.Six mois au plus tard avant l'échéance de ce délai, l'administration de la Caisse des invalides avise les ayants droit connus de la déchéance encourue par eux. Cet avis est adressé au domicile indiqué dans les actes et pièces qui se trouvent en la possession de la Caisse. En outre, la date et le lieu de la consignation, les noms, prénoms et adresses des intéressés qui n'auront pas fait notifier de réquisition de paiement dans un délai de deux mois après cet avis seront immédiatement publiés au Journal officiel.",
+      "valid_from": "1897-03-30"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

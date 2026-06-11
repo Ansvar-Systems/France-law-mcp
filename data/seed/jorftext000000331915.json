@@ -12,217 +12,259 @@
       "provision_ref": "artI",
       "section": "I",
       "title": "Article I",
-      "content": "Les administrations de département seront chargées, sous l'inspection du corps législatif, & en vertu de ses décrets :\n\n1°. De répartir toutes les contributions directes imposées à chaque département. Cette répartition fera faite par les administrations de département entre les districts de leur ressort, & par les administrations de district entre les municipalités.\n\n2°. D'ordonner & de faire faire suivant les formes qui seront établies les rôles d'assiette & de cotisation entre les contribuables de chaque municipalité.\n\n3°. De régler &, de surveiller tout ce qui concerne, tant la perception & le versement du produit de ces contributions, que le,' service & les fondions des agens qui en seront chargés.\n\n4°. D'ordonner & de faire exécuter le payement des dépenses qui seront assignées en chaque département sur le produit des mêmes contributions."
+      "content": "Les administrations de département seront chargées, sous l'inspection du corps législatif, & en vertu de ses décrets :\n\n1°. De répartir toutes les contributions directes imposées à chaque département. Cette répartition fera faite par les administrations de département entre les districts de leur ressort, & par les administrations de district entre les municipalités.\n\n2°. D'ordonner & de faire faire suivant les formes qui seront établies les rôles d'assiette & de cotisation entre les contribuables de chaque municipalité.\n\n3°. De régler &, de surveiller tout ce qui concerne, tant la perception & le versement du produit de ces contributions, que le,' service & les fondions des agens qui en seront chargés.\n\n4°. D'ordonner & de faire exécuter le payement des dépenses qui seront assignées en chaque département sur le produit des mêmes contributions.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artII",
       "section": "II",
       "title": "Article II",
-      "content": "Les administrations de département seront encore chargées, sous l'autorité &l'inspection du roi, comme chef suprême de la nation & de l'administration générale du royaume, de toutes les parties de cette administration notamment de celles qui sont relatives :\n\n1.° Au soulagement des pauvres & à la police des mendians & vagabonds.\n\n2.° A l'inspection & à l'amélioration du régime des hôpitaux, hôtel-Dieu, établissemens & ateliers de charité, prisons, maisons d'arrêt & de correction.\n\n3.° A la surveillance de l'éducation publique & de l'enseignement politique & moral.\n\n4.° A la manutention & à l'emploi des fonds dessinés en chaque département, à l'encouragement de l'agriculture et de l'industrie, & à toute espèce de bienfaisance publique.\n\n5.° A la conservation des propriétés publiques.\n\n6.° A celle des forêts-, rivières, chemins & autres choses communes.\n\n7.° A la direction & confection des travaux pour la confection des routes, canaux & autres ouvrages publics autorisés dans le département.\n\n8.° A l'entretien, réparation & reconstruction des églises presbytères & autres objets nécessaires au service du culte religieux.\n\n9.° Au maintien de la salubrité, de la sûreté & de la tranquillité publiques.\n\n10.° Enfin, au service & à l'emploi des milices ou gardes nationales, ainsi qu'il sera réglé par des décrets particuliers par nous sanctionnés ou acceptés."
+      "content": "Les administrations de département seront encore chargées, sous l'autorité &l'inspection du roi, comme chef suprême de la nation & de l'administration générale du royaume, de toutes les parties de cette administration notamment de celles qui sont relatives :\n\n1.° Au soulagement des pauvres & à la police des mendians & vagabonds.\n\n2.° A l'inspection & à l'amélioration du régime des hôpitaux, hôtel-Dieu, établissemens & ateliers de charité, prisons, maisons d'arrêt & de correction.\n\n3.° A la surveillance de l'éducation publique & de l'enseignement politique & moral.\n\n4.° A la manutention & à l'emploi des fonds dessinés en chaque département, à l'encouragement de l'agriculture et de l'industrie, & à toute espèce de bienfaisance publique.\n\n5.° A la conservation des propriétés publiques.\n\n6.° A celle des forêts-, rivières, chemins & autres choses communes.\n\n7.° A la direction & confection des travaux pour la confection des routes, canaux & autres ouvrages publics autorisés dans le département.\n\n8.° A l'entretien, réparation & reconstruction des églises presbytères & autres objets nécessaires au service du culte religieux.\n\n9.° Au maintien de la salubrité, de la sûreté & de la tranquillité publiques.\n\n10.° Enfin, au service & à l'emploi des milices ou gardes nationales, ainsi qu'il sera réglé par des décrets particuliers par nous sanctionnés ou acceptés.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artIII",
       "section": "III",
       "title": "Article III",
-      "content": "Les qualités nécessaires pour être citoyen actif sont, I.° d’être François ou devenu François ; 2.° d’être majeur de vingt-cinq ans accomplis ; 3 .° d’être domicilié de fait dans le canton au moins depuis un an ; 4.° de payer une contribution directe de la valeur locale de trois journées de travail ; 5.° de n’être point dans l’état de domesticité, c’est-à-dire, de serviteur à gages."
+      "content": "Les administrations de district ne participeront à toutes fondions, dans le ressort de chaque district, que sous l'autorité interposée des administrations de département.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artIV",
       "section": "IV",
       "title": "Article IV",
-      "content": "Les assemblées primaires formeront un tableau des citoyens de chaque canton, & y inscriront chaque année, dans un jour marqué, tous ceux qui auront atteint l’âge de vingt-un ans, après leur avoir fait prêter ferment de fidélité à la constitution, aux lois de l’état & au roi : nul ne pourra être électeur & ne sera éligible dans les assemblées primaire, lorsqu’il aura accompli sa vingt-cinquième année, s’il n’a été inscrit sur ce tableau civique."
+      "content": "Les administrations de département & de distri& seront toujours tenues de se conformer, dans l'exercice de toutes ces fonctions, aux règles établies par la constitution, & aux décrets des législatures par nous sanctionnés.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artIX",
       "section": "IX",
       "title": "Article IX",
-      "content": "Il n'y aura aucun intermédiaire entre les administrations de département & le pouvoir exécutif Suprême. Les commissaires départis, intendans & leurs subdélégués, cesseront toutes fondions aussitôt que les administrations de département seront entrées en activité."
+      "content": "Il n'y aura aucun intermédiaire entre les administrations de département & le pouvoir exécutif Suprême. Les commissaires départis, intendans & leurs subdélégués, cesseront toutes fondions aussitôt que les administrations de département seront entrées en activité.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artPREMIER.",
       "section": "PREMIER.",
       "title": "Article PREMIER.",
-      "content": "Il sera fait une nouvelle division du royaume en départemens, tant pour la présentation que pour l’administration. Ces départemens seront au nombre de soixante-quinze à quatre-vingt-cinq."
+      "content": "Tous les citoyens qui auront le droit de voter se réuniront, non en assemblées de paroisse ou de communauté, mais en assemblées primaires par cantons.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artV",
       "section": "V",
       "title": "Article V",
-      "content": "Les délibérations des assemblées administratives de département, sur tous les objets qui intéresseront le régime de l'administration générale du royaume, ou sur des entreprises nouvelles & des travaux extraordinaires, ne pourront être exécutées qu'après avoir reçu notre approbation. Quant à l'expédition des affaires particulières & de tout ce qui s'exécute en vertu de délibérations déjà approuvées, notre autorisation spéciale ne sera pas nécessaire."
+      "content": "Les délibérations des assemblées administratives de département, sur tous les objets qui intéresseront le régime de l'administration générale du royaume, ou sur des entreprises nouvelles & des travaux extraordinaires, ne pourront être exécutées qu'après avoir reçu notre approbation. Quant à l'expédition des affaires particulières & de tout ce qui s'exécute en vertu de délibérations déjà approuvées, notre autorisation spéciale ne sera pas nécessaire.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artVI",
       "section": "VI",
       "title": "Article VI",
-      "content": "Les administrations de département & de district ne pourront établir aucun impôt, pour quelque cause & sous quelque dénomination que ce soit, en répartir aucun au-delà des sommes & du temps fixés par le corps législatif, ni faire aucun emprunt sans y être autorisées par lui , sauf à pourvoir à rétablissement des moyens propres à leur procurer les fonds nécessaires au payement des dettes & des dépenses locales, & aux besoins imprévus & urgens."
+      "content": "Les administrations de département & de district ne pourront établir aucun impôt, pour quelque cause & sous quelque dénomination que ce soit, en répartir aucun au-delà des sommes & du temps fixés par le corps législatif, ni faire aucun emprunt sans y être autorisées par lui , sauf à pourvoir à rétablissement des moyens propres à leur procurer les fonds nécessaires au payement des dettes & des dépenses locales, & aux besoins imprévus & urgens.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artVII",
       "section": "VII",
       "title": "Article VII",
-      "content": "Ceux qui, étant dant l'un des cas d'exclusion ci-dessus, feront cesser la cause de cette exclusion en payant leurs créanciers, ou en acquittant leur portion virile des dettes de leur père, rentreront dans les droits de citoyen actif, pourront être électeurs, & seront éligibles, s'ils réunissent les conditions prescrites."
+      "content": "Elles ne pourront être troublées dans l'exercice de leurs fonctions administratives par aucun acte du pouvoir judiciaire.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artVIII",
       "section": "VIII",
       "title": "Article VIII",
-      "content": "Les représentants nommés à l’assemblée nationale par les départemens ne pourront pas être regardés comme les représentans d’un département particulier, mais comme les représentans de la totalité des départemens, c’est-à-dire, de la nation entière.Les représentants nommés à l’assemblée nationale par les départemens ne pourront pas être regardés comme les représentans d’un département particulier, mais comme les représentans de la totalité des départemens, c’est-à-dire, de la nation entière."
+      "content": "Du jour où les administrations de département & de district seront formées, les états provinciaux, les assemblées provinciales & les assemblées inférieures qui exigent actuellement demeureront supprimés & cesseront entièrement leurs fonctions.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artX",
       "section": "X",
       "title": "Article X",
-      "content": "Dans les provinces qui ont eu jusqu'à présent une administration commune & qui sont divisées en plusieurs départemens, chaque administration de département nommera deux commissaires qui se réuniront pour faire ensemble la liquidation des dettes contrariées sous le régime précédent, pour établir la répartition de ces dettes entre les différentes parties de la province, & pour mettre à fin les anciennes affaires. Le compte en sera rendu à une assemblée formée de quatre autres commissaires nommés, par chaque administration de département."
+      "content": "Dans les provinces qui ont eu jusqu'à présent une administration commune & qui sont divisées en plusieurs départemens, chaque administration de département nommera deux commissaires qui se réuniront pour faire ensemble la liquidation des dettes contrariées sous le régime précédent, pour établir la répartition de ces dettes entre les différentes parties de la province, & pour mettre à fin les anciennes affaires. Le compte en sera rendu à une assemblée formée de quatre autres commissaires nommés, par chaque administration de département.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXI",
       "section": "XI",
       "title": "Article XI",
-      "content": "Les membres des administrations de département & de district seront choisis par les électeurs, en trois scrutins de liste double. A chaque scrutin, ceux qui auront la pluralité absolue seront élus définitivement, & le nombre de ceux qui resteront à nommer au troisième scrutin sera rempli à la pluralité relative."
+      "content": "Les membres des administrations de département & de district seront choisis par les électeurs, en trois scrutins de liste double. A chaque scrutin, ceux qui auront la pluralité absolue seront élus définitivement, & le nombre de ceux qui resteront à nommer au troisième scrutin sera rempli à la pluralité relative.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXII",
       "section": "XII",
       "title": "Article XII",
-      "content": "Chaque administration, soit de département soit de district, sera permanente, & les membres en seront renouvelés par moitié tous les deux ans ; la première fois au sort, après les deux premières années d'exercice & ensuite à tour d'ancienneté."
+      "content": "Chaque administration, soit de département soit de district, sera permanente, & les membres en seront renouvelés par moitié tous les deux ans ; la première fois au sort, après les deux premières années d'exercice & ensuite à tour d'ancienneté.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXIII",
       "section": "XIII",
       "title": "Article XIII",
-      "content": "Chaque assemblée tendra toujours à se former, autant qu’il sera possible, au nombre de six cents, de telle sorte néanmoins que s’il y a plusieurs assemblées dans ce canton, la moins nombreuse soit au moins de quatre cent cinquante.\n\nAinsi, au-delà de neuf cents, mais avant mille cinquante, il ne pourra y avoir une assemblée complette de six cents, puisque la seconde aurait mois de quatre cent cinquante.\n\nDès le nombre de mille cinquante & au-delà, la première assemblée fera de six cents, & la deuxième de quatre cent cinquante ou plus.\n\nSi le nombre s’élève à quatorze cents, il n’y en aura que deux, une de six cents & l’autre de huit cents ; mais à quinze cents il s’en formera trois, une de six cents & deux de quatre cent cinquante, ainsi de suite, suivant le nombre de citoyens actifs de chaque canton."
+      "content": "Les membres des administrations seront ainsi en fondions pendant quatre ans, à l'exception de ceux qui sortiront par le premier renouvellement au sort, après les deux premières années.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXIV",
       "section": "XIV",
       "title": "Article XIV",
-      "content": "Dans les villes de quatre mille ames & au-dessous, il n’y aura qu’une assemblée primaire ; il y en aura deux dans celles qui auront quatre mille ames jusqu’à huit mille ; trois dans celles de huit mille ames jusqu’à douze mille, & ainsi de suite. Ces assemblées seront formées par quartiers ou arrondissemens."
+      "content": "En chaque administration de département il y aura un procureur-général-syndic, & en chaque administration de district un procureur-syndic. Ils feront nommés au scrutin individuel & à la pluralité absolue des suffrages, en même-temps que les membres de chaque administration, & par les mêmes électeurs.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXIX",
       "section": "XIX",
       "title": "Article XIX",
-      "content": "Pour être éligible dans les assemblées primaires, il faudra réunir aux qualités de citoyen actif ci-dessus détaillées la condition de payer une contribution directe plus forte, & qui se monte au moins à la valeur locale de dix journées de travail."
+      "content": "Les administrations, soit de département, soit de district, nommeront leur président & leur secrétaire au scrutin individuel & à la pluralité absolue des suffrages. Le secrétaire pourra être changé, lorsque l'administration le trouvera convenable.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXV",
       "section": "XV",
       "title": "Article XV",
-      "content": "Chaque assemblée primaire, aussi-tôt qu’elle sera formée, élira son président & son secrétaire au scrutin individuel & à la pluralité absolue des voix ; jusque-là, le doyen d’âge tiendra la séance ; les trois plus anciens d’âge après le doyen recueilleront & dépouilleront le scrutin présence de l’assemblée."
+      "content": "Le procureur-général-syndic de département & les procureurs- syndics des districts, seront quatre ans en place, & pourront être continués par une nouvelle élection pour quatre autres années ; mais ensuite ils ne pourront être réélus qu'après un intervalle de quatre années.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXVI",
       "section": "XVI",
       "title": "Article XVI",
-      "content": "Les membres des administrations de département & de district : en nommant ceux des directoires, comme il sera dit ci-après, choisiront & désigneront celui des membres des directoires qui devra remplacer momentanément le procureur général-syndic, ou le procureur-syndic, en cas d'absence, de maladie ou autre empêchement."
+      "content": "Les membres des administrations de département & de district : en nommant ceux des directoires, comme il sera dit ci-après, choisiront & désigneront celui des membres des directoires qui devra remplacer momentanément le procureur général-syndic, ou le procureur-syndic, en cas d'absence, de maladie ou autre empêchement.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXVII",
       "section": "XVII",
       "title": "Article XVII",
-      "content": "Les assemblées primaires nommeront un électeur à raison de cent citoyens actifs, présens ou non présens à l’assemblée, mais ayant droit d’y voter ; en sorte que jusqu’à cent cinquante citoyens actifs, il sera nommé un électeur, & qu’il en fera nommé deux depuis cent cinquante-un citoyens actifs jusqu’à deux cent cinquante, & ainsi de suite."
+      "content": "Les procureurs-généraux-syndics & les procureurs-syndics auront séance aux assemblées générales des administrations sans voix délibérative -, mais il ne pourra y être fait aucuns rapports sans qu'ils en ayent eu communication, ni être pris aucune délibération sur ces rapports sans qu'ils ayent été entendus.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXVIII",
       "section": "XVIII",
       "title": "Article XVIII",
-      "content": "Ils auront de même séance aux directoires avec voix consultative, & seront au surplus chargés de la suite de toutes les affaires."
+      "content": "Ils auront de même séance aux directoires avec voix consultative, & seront au surplus chargés de la suite de toutes les affaires.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXX",
       "section": "XX",
       "title": "Article XX",
-      "content": "Les électeurs seront choisis par les assemblées primaires, en un seul scrutin de lisse double du nombre des électeurs qu'il s'agira de nommer."
+      "content": "Chaque administration de département sera divisée en deux sections ; l'une, sous le titre de",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXXI",
       "section": "XXI",
       "title": "Article XXI",
-      "content": "Le conseil de département tiendra annuellement une session, pour fixer les règles de chaque partie de l'administration, ordonner les travaux & les dépenses générales du département, & recevoir le compte de la gestion du directoire. La première session pourra être de six semaines, & celle des années suivantes d'un mois au plus."
+      "content": "Le conseil de département tiendra annuellement une session, pour fixer les règles de chaque partie de l'administration, ordonner les travaux & les dépenses générales du département, & recevoir le compte de la gestion du directoire. La première session pourra être de six semaines, & celle des années suivantes d'un mois au plus.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXXII",
       "section": "XXII",
       "title": "Article XXII",
-      "content": "Tous les électeurs nommés par les assemblées primaires de chaque département se réuniront, sans distinction d'état ni de condition, en une seule assemblée, pour élire ensemble les représentans à l'assemblée nationale."
+      "content": "Le directoire de département sera toujours en activité pour l'expédition des affaires, & rendra tous les ans au conseil de département le compte de sa gestion, qui sera publié par la voie de l'impression.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXXIII",
       "section": "XXIII",
       "title": "Article XXIII",
-      "content": "Les membres de chaque administration de département éliront, à la fin de leur première session, huit d’entre eux pour composer le directoire ; ils les renouvelleront tous les deux ans par moitié. Le président de l'administration de département pourra assister & aura droit de présider à toutes les séances du directoire, qui pourra néanmoins se choisir un vice-président."
+      "content": "Les membres de chaque administration de département éliront, à la fin de leur première session, huit d’entre eux pour composer le directoire ; ils les renouvelleront tous les deux ans par moitié. Le président de l'administration de département pourra assister & aura droit de présider à toutes les séances du directoire, qui pourra néanmoins se choisir un vice-président.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXXIV",
       "section": "XXIV",
       "title": "Article XXIV",
-      "content": "A l'ouverture de chaque session annuelle, le conseil de département commencera par entendre, recevoir & arrêter le compte de la gestion du directoire ; ensuite les membres dit directoire prendront séance & auront voix délibérative avec ceux du conseil."
+      "content": "A l'ouverture de chaque session annuelle, le conseil de département commencera par entendre, recevoir & arrêter le compte de la gestion du directoire ; ensuite les membres dit directoire prendront séance & auront voix délibérative avec ceux du conseil.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXXIX",
       "section": "XXIX",
       "title": "Article XXIX",
-      "content": "Le second tiers sera attribué à la population. La somme totale de la population du royaume sera divisée en autant de parts que ce second tiers donnera de représentans, & chaque département nommera autant de représentans de cette seconde classe qu'il contiendra de parts de population."
+      "content": "Les conseils de district ne pourront tenir leur session annuelle que pendant quinze jours au plus, & l'ouverture de cette session précédera d'un mois celle du conseil de département.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXXV",
       "section": "XXV",
       "title": "Article XXV",
-      "content": "Les représentans à l’assemblée nationale seront élus au scrutin individuel, & à la pluralité absolue des suffrages.\n\nSile premier scrutin recueilli pour chaque représentant qu’il s’agit de nommer ne détermine pas l’élection par la pluralité absolue, il sera procédé à un second scrutin.\n\nSi ce second scrutin ne donne pas encore la pluralité absolue, il sera procédé à un troisième entre les deux citoyens seulement qui seront reconnus par les scrutateurs, & annoncés à l’assemblée avoir obtenu le plus grand nombre de suffrages.\n\nEnfin, si à ce troisième scrutin les suffrages étaient partagés, le plus ancien d’âge serait préféré."
+      "content": "Chaque administration de district sera divisée de même en deux serions ; l'une, sous le titre de conseil de district ; l'autre, sous celui de directoire de district ; & ce directoire sera composé de quatre membres.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXXVI",
       "section": "XXVI",
       "title": "Article XXVI",
-      "content": "Le président de l'administration de district pourra de même assister, & aura droit de présider au directoire de district. Ce directoire pourra également se choisir un vice-président."
+      "content": "Le président de l'administration de district pourra de même assister, & aura droit de présider au directoire de district. Ce directoire pourra également se choisir un vice-président.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXXVII",
       "section": "XXVII",
       "title": "Article XXVII",
-      "content": "Tout ce qui est prescrit par les articles XXII, XXIII & XXIV ci-dessus, pour les fondions, la forme d’élection & de renouvellement, le droit de séance & de voix délibérative des membres du directoire de département, aura lieu de même pour ceux des directoires de district."
+      "content": "Tout ce qui est prescrit par les articles XXII, XXIII & XXIV ci-dessus, pour les fondions, la forme d’élection & de renouvellement, le droit de séance & de voix délibérative des membres du directoire de département, aura lieu de même pour ceux des directoires de district.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXXVIII",
       "section": "XXVIII",
       "title": "Article XXVIII",
-      "content": "Le premier tiers du nombre total des représentans formant l'assemblée nationale sera attaché au territoire, chaque département nommera également trois représentans de cette classe."
+      "content": "Les administrations & les directoires de district seront entièrement subordonnés aux administrations & directoires de département.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXXX",
       "section": "XXX",
       "title": "Article XXX",
-      "content": "Le dernier tiers sera attribué à la contribution directe. La masse entière de la contribution directe du royaume sera divisée en autant de parts qu'il y aura de représentans dans ce dernier tiers ; & chaque département nommera autant de représentans de cette troisième classe qu'il payera de parts de contribution directe."
+      "content": "Les conseils de district ne pourront s'occuper que de préparer les demandes à faire & les matières à soumettre à l'administration de département pour l'intérêt du district, de disposer les moyens d’exécution, de recevoir les comptes de la gestion de leur directoire.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXXXI",
       "section": "XXXI",
       "title": "Article XXXI",
-      "content": "Les directoires de district seront chargés de l’exécution dans le ressort de leur district, sous la direction & l'autorité de l'administration de département & de son directoire, & ils ne pourront faire exécuter aucuns arrêtés du conseil de district, en matière d'administration générale, s'ils n'ont été approuvés, par l'administration de département."
+      "content": "Les directoires de district seront chargés de l’exécution dans le ressort de leur district, sous la direction & l'autorité de l'administration de département & de son directoire, & ils ne pourront faire exécuter aucuns arrêtés du conseil de district, en matière d'administration générale, s'ils n'ont été approuvés, par l'administration de département.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXXXII",
       "section": "XXXII",
       "title": "Article XXXII",
-      "content": "Pour être éligible à l’assemblée nationale, il faudra payer une contribution directe équivalente à la valeur d’un marc d’argent, & en outre avoir une propriété foncière quelconque."
+      "content": "Pour être éligible à l’assemblée nationale, il faudra payer une contribution directe équivalente à la valeur d’un marc d’argent, & en outre avoir une propriété foncière quelconque.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXXXIII",
       "section": "XXXIII",
       "title": "Article XXXIII",
-      "content": "Les électeurs nommeront par scrutin de liste double, à la pluralité relative des suffrages, un nombre de suppléans égal au tiers de celui des représentans à l'assemblée nationale, pour remplacer ceux-ci, en cas de mort ou de démission."
+      "content": "Les électeurs nommeront par scrutin de liste double, à la pluralité relative des suffrages, un nombre de suppléans égal au tiers de celui des représentans à l'assemblée nationale, pour remplacer ceux-ci, en cas de mort ou de démission.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXXXIV",
       "section": "XXXIV",
       "title": "Article XXXIV",
-      "content": "L'acte d'élection sera le seul titre des fondions des représentans de la nation ; la liberté de leurs suffrages ne pouvant être gênée par aucun mandat particulier, les assemblées primaires & celles des électeurs adresseront directement au corps législatif les pétitions & instructions qu'elles voudront lui faire parvenir."
+      "content": "L'acte d'élection sera le seul titre des fondions des représentans de la nation ; la liberté de leurs suffrages ne pouvant être gênée par aucun mandat particulier, les assemblées primaires & celles des électeurs adresseront directement au corps législatif les pétitions & instructions qu'elles voudront lui faire parvenir.",
+      "valid_from": "1789-12-22"
     },
     {
       "provision_ref": "artXXXV",
       "section": "XXXV",
       "title": "Article XXXV",
-      "content": "Les assemblées primaires & les assemblées d'élection ne pourront, après les élections finies, ni continuer leurs séances, ni les reprendre jusqu'à l'époque des élections suivantes."
+      "content": "Les assemblées primaires & les assemblées d'élection ne pourront, après les élections finies, ni continuer leurs séances, ni les reprendre jusqu'à l'époque des élections suivantes.",
+      "valid_from": "1789-12-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

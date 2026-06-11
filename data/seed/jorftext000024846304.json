@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les contrats emploi-solidarité, les contrats emploi consolidé et les contrats de retour à l'emploi conclus antérieurement au 1er mars 2012 continuent à produire leurs effets dans les conditions applicables antérieurement à cette date, jusqu'au terme de la convention individuelle en application de laquelle ils ont été signés. Cette convention et ces contrats ne peuvent faire l'objet d'aucun renouvellement ni d'aucune prolongation au-delà du 1er mars 2012."
+      "content": "Les contrats emploi-solidarité, les contrats emploi consolidé et les contrats de retour à l'emploi conclus antérieurement au 1er mars 2012 continuent à produire leurs effets dans les conditions applicables antérieurement à cette date, jusqu'au terme de la convention individuelle en application de laquelle ils ont été signés. Cette convention et ces contrats ne peuvent faire l'objet d'aucun renouvellement ni d'aucune prolongation au-delà du 1er mars 2012.",
+      "valid_from": "2012-03-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er mars 2012."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er mars 2012.",
+      "valid_from": "2012-03-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, le ministre du travail, de l'emploi et de la santé et la ministre auprès du ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, chargée de l'outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, le ministre du travail, de l'emploi et de la santé et la ministre auprès du ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, chargée de l'outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2012-03-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

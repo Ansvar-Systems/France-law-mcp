@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La présente loi ne peut avoir pour effet de prescrire des infractions qui, au moment de son entrée en vigueur, avaient valablement donné lieu à la mise en mouvement ou à l'exercice de l'action publique à une date à laquelle, en vertu des dispositions législatives alors applicables et conformément à leur interprétation jurisprudentielle, la prescription n'était pas acquise."
+      "content": "La présente loi ne peut avoir pour effet de prescrire des infractions qui, au moment de son entrée en vigueur, avaient valablement donné lieu à la mise en mouvement ou à l'exercice de l'action publique à une date à laquelle, en vertu des dispositions législatives alors applicables et conformément à leur interprétation jurisprudentielle, la prescription n'était pas acquise.",
+      "valid_from": "2017-03-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. et II. - A modifié les dispositions suivantes :\n\nIII. - Le III de l'article 3 et l'article 4 sont applicables dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.\n\nIV. - Le IV de l'article 3 est applicable dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et à Saint-Barthélemy.\n\n- Code de procédure pénale\n\n- Code pénal"
+      "content": "I. et II. - A modifié les dispositions suivantes :\n\nIII. - Le III de l'article 3 et l'article 4 sont applicables dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.\n\nIV. - Le IV de l'article 3 est applicable dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et à Saint-Barthélemy.\n\n- Code de procédure pénale\n\n- Code pénal",
+      "valid_from": "2017-03-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

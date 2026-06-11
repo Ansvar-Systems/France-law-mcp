@@ -12,25 +12,35 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "A titre transitoire, les schémas régionaux d'organisation sanitaire et les schémas régionaux de psychiatrie prévus par l'article L. 6121-8 du code de la santé publique dans la rédaction de cet article en vigueur avant la publication de la présente ordonnance sont prorogés jusqu'à la publication des schémas pris en application de la présente ordonnance et au plus tard le 31 mars 2006.A titre transitoire, les dispositions législatives en vigueur avant la publication de la présente ordonnance et relatives à la carte sanitaire et au régime des autorisations demeurent opposables aux installations, activités de soins ou équipements matériels lourds d'une région, jusqu'à la publication des dispositions du schéma d'organisation sanitaire applicables à ces activités ou équipements et au plus tard le 31 mars 2006. Toutefois, à compter de la publication de la présente ordonnance, la carte sanitaire n'est plus opposable aux structures d'hospitalisation à domicile et aux structures d'hospitalisation à temps partiel, à l'exception des structures d'anesthésie ou de chirurgie ambulatoires.A titre transitoire, les dispositions législatives en vigueur avant la publication de la présente ordonnance et relatives aux contrats pluriannuels d'objectifs et de moyens mentionnés aux articles L. 6114-1 et suivants demeurent applicables jusqu'à la publication des schémas d'organisation sanitaire pris en application de la présente ordonnance et au plus tard le 31 mars 2006.Les établissements de santé qui, à la date d'entrée en vigueur du schéma d'organisation sanitaire concernant une activité de soins ou au plus tard au 31 mars 2006, sont titulaires d'une autorisation d'installations dans laquelle ils exercent cette activité de soins sont réputés titulaires de l'autorisation pour cette activité de soins jusqu'à la date d'expiration de la validité de l'autorisation d'installations susmentionnée."
+      "content": "A titre transitoire, les schémas régionaux d'organisation sanitaire et les schémas régionaux de psychiatrie prévus par l'article L. 6121-8 du code de la santé publique dans la rédaction de cet article en vigueur avant la publication de la présente ordonnance sont prorogés jusqu'à la publication des schémas pris en application de la présente ordonnance et au plus tard le 31 mars 2006.A titre transitoire, les dispositions législatives en vigueur avant la publication de la présente ordonnance et relatives à la carte sanitaire et au régime des autorisations demeurent opposables aux installations, activités de soins ou équipements matériels lourds d'une région, jusqu'à la publication des dispositions du schéma d'organisation sanitaire applicables à ces activités ou équipements et au plus tard le 31 mars 2006. Toutefois, à compter de la publication de la présente ordonnance, la carte sanitaire n'est plus opposable aux structures d'hospitalisation à domicile et aux structures d'hospitalisation à temps partiel, à l'exception des structures d'anesthésie ou de chirurgie ambulatoires.A titre transitoire, les dispositions législatives en vigueur avant la publication de la présente ordonnance et relatives aux contrats pluriannuels d'objectifs et de moyens mentionnés aux articles L. 6114-1 et suivants demeurent applicables jusqu'à la publication des schémas d'organisation sanitaire pris en application de la présente ordonnance et au plus tard le 31 mars 2006.Les établissements de santé qui, à la date d'entrée en vigueur du schéma d'organisation sanitaire concernant une activité de soins ou au plus tard au 31 mars 2006, sont titulaires d'une autorisation d'installations dans laquelle ils exercent cette activité de soins sont réputés titulaires de l'autorisation pour cette activité de soins jusqu'à la date d'expiration de la validité de l'autorisation d'installations susmentionnée.",
+      "valid_from": "2004-12-10"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "A titre transitoire, la compétence du ministre chargé de la santé prévue par les dispositions législatives en vigueur avant la publication de la présente ordonnance, pour délivrer et renouveler certaines autorisations d'activités de soins et d'équipements matériels lourds, est maintenue jusqu'à la publication des dispositions du schéma d'organisation sanitaire applicable à l'activité de soins ou à l'équipement."
+      "content": "A titre transitoire, la compétence du ministre chargé de la santé prévue par les dispositions législatives en vigueur avant la publication de la présente ordonnance, pour délivrer et renouveler certaines autorisations d'activités de soins et d'équipements matériels lourds, est maintenue jusqu'à la publication des dispositions du schéma d'organisation sanitaire applicable à l'activité de soins ou à l'équipement.",
+      "valid_from": "2003-09-06"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "I. - Les dispositions des I à XVI de l'article 24 sont applicables au Département de Mayotte.\n\nII. - Les dispositions des I à IV de l'article 24 sont applicables aux îles Wallis et Futuna.\n\nIII. - Les dispositions des II et III de l'article 24 sont applicables aux Terres australes et antarctiques françaises."
+      "content": "I. - Les dispositions des I à XVI de l'article 24 sont applicables au Département de Mayotte.\n\nII. - Les dispositions des I à IV de l'article 24 sont applicables aux îles Wallis et Futuna.\n\nIII. - Les dispositions des II et III de l'article 24 sont applicables aux Terres australes et antarctiques françaises.",
+      "valid_from": "2011-03-31"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "Le Premier ministre, le ministre des affaires sociales, du travail et de la solidarité, le ministre de la santé, de la famille et des personnes handicapées et la ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des affaires sociales, du travail et de la solidarité, le ministre de la santé, de la famille et des personnes handicapées et la ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2003-09-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

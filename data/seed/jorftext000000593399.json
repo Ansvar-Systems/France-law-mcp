@@ -12,25 +12,35 @@
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "La présente loi n'est pas applicable aux enfants nés avant la date de son entrée en vigueur. Toutefois, dans le délai de dix-huit mois suivant cette date, les parents exerçant l'autorité parentale peuvent demander par déclaration conjointe à l'officier de l'état civil, au bénéfice de l'aîné des enfants communs lorsque celui-ci a moins de treize ans au 1er septembre 2003 ou à la date de la déclaration, l'adjonction en deuxième position du nom du parent qui ne lui a pas transmis le sien, dans la limite d'un seul nom de famille. Le nom ainsi attribué est dévolu à l'ensemble des enfants communs, nés et à naître.Dans le cas où cette faculté est exercée par les parents d'un enfant âgé de plus de treize ans, le consentement de ce dernier est nécessaire.Cette faculté ne peut être exercée qu'une seule fois."
+      "content": "La présente loi n'est pas applicable aux enfants nés avant la date de son entrée en vigueur. Toutefois, dans le délai de dix-huit mois suivant cette date, les parents exerçant l'autorité parentale peuvent demander par déclaration conjointe à l'officier de l'état civil, au bénéfice de l'aîné des enfants communs lorsque celui-ci a moins de treize ans au 1er septembre 2003 ou à la date de la déclaration, l'adjonction en deuxième position du nom du parent qui ne lui a pas transmis le sien, dans la limite d'un seul nom de famille. Le nom ainsi attribué est dévolu à l'ensemble des enfants communs, nés et à naître.Dans le cas où cette faculté est exercée par les parents d'un enfant âgé de plus de treize ans, le consentement de ce dernier est nécessaire.Cette faculté ne peut être exercée qu'une seule fois.",
+      "valid_from": "2005-01-01"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "Les articles 57, 60 à 61-4, 329, 331, 331-2, 332-1, 334-2, 354, 361 et 363 du code civil sont applicables à Mayotte."
+      "content": "Les articles 57, 60 à 61-4, 329, 331, 331-2, 332-1, 334-2, 354, 361 et 363 du code civil sont applicables à Mayotte.",
+      "valid_from": "2005-01-01"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "L'entrée en vigueur de la présente loi est fixée au 1er janvier 2005.Les dispositions de la présente loi sont applicables à Mayotte à compter du premier jour de la sixième année de la promulgation de la présente loi."
+      "content": "L'entrée en vigueur de la présente loi est fixée au 1er janvier 2005.Les dispositions de la présente loi sont applicables à Mayotte à compter du premier jour de la sixième année de la promulgation de la présente loi.",
+      "valid_from": "2005-01-01"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "Les modalités d'application de la présente loi sont fixées par décret en Conseil d'Etat."
+      "content": "Les modalités d'application de la présente loi sont fixées par décret en Conseil d'Etat.",
+      "valid_from": "2003-09-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

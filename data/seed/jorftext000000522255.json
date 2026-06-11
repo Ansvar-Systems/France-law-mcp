@@ -12,13 +12,21 @@
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "La présente loi entrera en vigueur le premier jour du sixième mois qui suivra sa publication au Journal officiel de la République française.\n\nElle est applicable aux indivisions existant au jour de son entrée en vigueur. Toutefois, les conventions tendant au maintien de l'indivision et conclues avant sa promulgation restent régies par les dispositions en vigueur au jour de ladite promulgation à moins que les parties ne décident de mettre, pour l'avenir, leurs conventions en conformité des dispositions de la présente loi."
+      "content": "La présente loi entrera en vigueur le premier jour du sixième mois qui suivra sa publication au Journal officiel de la République française.\n\nElle est applicable aux indivisions existant au jour de son entrée en vigueur. Toutefois, les conventions tendant au maintien de l'indivision et conclues avant sa promulgation restent régies par les dispositions en vigueur au jour de ladite promulgation à moins que les parties ne décident de mettre, pour l'avenir, leurs conventions en conformité des dispositions de la présente loi.",
+      "valid_from": "1978-07-01"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "La présente loi est applicable dans les territoires de la Nouvelle-Calédonie, de la Polynésie française, des îles Wallis et Futuna et dans la collectivité territoriale de Mayotte."
+      "content": "La présente loi est applicable dans les territoires de la Nouvelle-Calédonie, de la Polynésie française, des îles Wallis et Futuna et dans la collectivité territoriale de Mayotte.",
+      "valid_from": "1993-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

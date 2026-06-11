@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les salariés en contrat d'apprentissage ou de professionnalisation dont la rémunération est inférieure au salaire minimum interprofessionnel de croissance reçoivent une indemnité horaire d'activité partielle, versée par leur employeur, d'un montant égal au pourcentage du salaire minimum interprofessionnel de croissance qui leur est applicable au titre des dispositions du code du travail et, s'il y a lieu, des dispositions conventionnelles applicables à l'entreprise.Le taux horaire de l'indemnité d'activité partielle versée aux salariés mentionnés au premier alinéa dont la rémunération est supérieure ou égale au salaire minimum interprofessionnel de croissance ne peut être inférieur au taux horaire du salaire minimum interprofessionnel de croissance.L'employeur reçoit une allocation d'activité partielle d'un montant égal à l'indemnité d'activité partielle versée aux salariés en contrat d'apprentissage ou de professionnalisation."
+      "content": "Les salariés en contrat d'apprentissage ou de professionnalisation dont la rémunération est inférieure au salaire minimum interprofessionnel de croissance reçoivent une indemnité horaire d'activité partielle, versée par leur employeur, d'un montant égal au pourcentage du salaire minimum interprofessionnel de croissance qui leur est applicable au titre des dispositions du code du travail et, s'il y a lieu, des dispositions conventionnelles applicables à l'entreprise.Le taux horaire de l'indemnité d'activité partielle versée aux salariés mentionnés au premier alinéa dont la rémunération est supérieure ou égale au salaire minimum interprofessionnel de croissance ne peut être inférieur au taux horaire du salaire minimum interprofessionnel de croissance.L'employeur reçoit une allocation d'activité partielle d'un montant égal à l'indemnité d'activité partielle versée aux salariés en contrat d'apprentissage ou de professionnalisation.",
+      "valid_from": "2020-10-16"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions de l'article 2 s'appliquent au titre des périodes comprises entre le 1er novembre et une date fixée par décret et au plus tard le 31 décembre 2021."
+      "content": "Les dispositions de l'article 2 s'appliquent au titre des périodes comprises entre le 1er novembre et une date fixée par décret et au plus tard le 31 décembre 2021.",
+      "valid_from": "2021-01-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre et la ministre du travail, de l'emploi et de l'insertion sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre du travail, de l'emploi et de l'insertion sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-10-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

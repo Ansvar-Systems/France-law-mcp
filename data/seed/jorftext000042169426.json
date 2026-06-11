@@ -12,247 +12,294 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les salariés des entreprises exploitant les installations de production d'électricité mentionnées au II de l'article L. 311-5-3 du code de l'énergie dont l'employeur envisage, en raison de la fermeture de ces installations résultant du même II, de rompre le contrat de travail dans le cadre du plan défini à l'article L. 1233-61 du code du travail, bénéficient de mesures d'accompagnement social dans les conditions prévues au présent titre."
+      "content": "Les salariés des entreprises exploitant les installations de production d'électricité mentionnées au II de l'article L. 311-5-3 du code de l'énergie dont l'employeur envisage, en raison de la fermeture de ces installations résultant du même II, de rompre le contrat de travail dans le cadre du plan défini à l'article L. 1233-61 du code du travail, bénéficient de mesures d'accompagnement social dans les conditions prévues au présent titre.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La mise en œuvre des mesures définies au présent titre est subordonnée à la validation ou à l'homologation du plan mentionné à l'article 1er, dans les conditions définies à l'article L. 1233-57-1 du code du travail."
+      "content": "La mise en œuvre des mesures définies au présent titre est subordonnée à la validation ou à l'homologation du plan mentionné à l'article 1er, dans les conditions définies à l'article L. 1233-57-1 du code du travail.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "L'ensemble des mesures définies au présent titre s'inscrivent en complément et sans préjudice de celles mises en œuvre par l'employeur en application des dispositions législatives ou des stipulations conventionnelles en vigueur."
+      "content": "L'ensemble des mesures définies au présent titre s'inscrivent en complément et sans préjudice de celles mises en œuvre par l'employeur en application des dispositions législatives ou des stipulations conventionnelles en vigueur.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "L'allocation versée par l'employeur, pour la période qui excède le préavis, au titre du congé de reclassement défini à l'article L. 1233-71 du code du travail est complétée par une allocation complémentaire, à la charge de l'Etat, dans la limite d'un pourcentage, fixé par décret, de la rémunération mensuelle brute perçue au cours des douze derniers mois.\n\nLes III, IV et V de l'article 11 sont applicables aux salariés bénéficiaires du congé prévu au premier alinéa du présent article, pendant la durée de ce congé."
+      "content": "L'allocation versée par l'employeur, pour la période qui excède le préavis, au titre du congé de reclassement défini à l'article L. 1233-71 du code du travail est complétée par une allocation complémentaire, à la charge de l'Etat, dans la limite d'un pourcentage, fixé par décret, de la rémunération mensuelle brute perçue au cours des douze derniers mois.\n\nLes III, IV et V de l'article 11 sont applicables aux salariés bénéficiaires du congé prévu au premier alinéa du présent article, pendant la durée de ce congé.",
+      "valid_from": "2021-08-25"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Avant le terme du congé de reclassement, les salariés qui n'ont pas retrouvé d'emploi bénéficient d'un bilan individualisé réalisé par la cellule d'accompagnement des démarches de recherche d'emploi mentionnée à l'article L. 1233-71 du code du travail."
+      "content": "Avant le terme du congé de reclassement, les salariés qui n'ont pas retrouvé d'emploi bénéficient d'un bilan individualisé réalisé par la cellule d'accompagnement des démarches de recherche d'emploi mentionnée à l'article L. 1233-71 du code du travail.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les salariés mentionnés à l'article 1er qui n'ont pas retrouvé d'emploi à l'expiration du congé de reclassement défini à l'article L. 1233-71 du code du travail bénéficient, à compter de cette date, d'un congé d'accompagnement spécifique pour le maintien dans l'emploi dans les conditions prévues au présent chapitre.Dans ce cas, le terme du préavis reporté en application du deuxième alinéa de l'article L. 1233-72 du même code fait l'objet d'un nouveau report jusqu'à la fin du congé d'accompagnement spécifique et le contrat de travail demeure suspendu pendant la durée de ce congé."
+      "content": "Les salariés mentionnés à l'article 1er qui n'ont pas retrouvé d'emploi à l'expiration du congé de reclassement défini à l'article L. 1233-71 du code du travail bénéficient, à compter de cette date, d'un congé d'accompagnement spécifique pour le maintien dans l'emploi dans les conditions prévues au présent chapitre.Dans ce cas, le terme du préavis reporté en application du deuxième alinéa de l'article L. 1233-72 du même code fait l'objet d'un nouveau report jusqu'à la fin du congé d'accompagnement spécifique et le contrat de travail demeure suspendu pendant la durée de ce congé.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. - La durée maximale du congé d'accompagnement spécifique est égale à douze mois. Toutefois, cette durée est portée à dix-huit mois :\n\n1° Lorsque la durée séparant le début du congé de reclassement et l'âge d'ouverture du droit à pension de retraite applicable au salarié est inférieure ou égale à soixante mois ;\n\n2° Lorsque, au début du congé de reclassement, le salarié a atteint l'âge d'ouverture du droit à pension de retraite sans remplir les conditions d'une liquidation au taux plein.\n\nII. - Le congé d'accompagnement spécifique peut être prolongé lorsque, avant le terme initialement prévu, le salarié n'a pas retrouvé d'emploi. La durée maximale de cette période complémentaire est de vingt-huit mois.\n\nL'article 18 n'est pas applicable au titre de cette période complémentaire."
+      "content": "I. - La durée maximale du congé d'accompagnement spécifique est égale à douze mois. Toutefois, cette durée est portée à dix-huit mois :\n\n1° Lorsque la durée séparant le début du congé de reclassement et l'âge d'ouverture du droit à pension de retraite applicable au salarié est inférieure ou égale à soixante mois ;\n\n2° Lorsque, au début du congé de reclassement, le salarié a atteint l'âge d'ouverture du droit à pension de retraite sans remplir les conditions d'une liquidation au taux plein.\n\nII. - Le congé d'accompagnement spécifique peut être prolongé lorsque, avant le terme initialement prévu, le salarié n'a pas retrouvé d'emploi. La durée maximale de cette période complémentaire est de vingt-huit mois.\n\nL'article 18 n'est pas applicable au titre de cette période complémentaire.",
+      "valid_from": "2023-12-31"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le salarié bénéficiaire du congé d'accompagnement spécifique s'engage à suivre les actions de formation et de validation des acquis de l'expérience définies conjointement avec l'employeur selon des modalités fixées par décret.Il bénéficie, dans ce cadre, des prestations de la cellule d'accompagnement des démarches de recherche d'emploi mentionnée à l'article L. 1233-71 du code du travail, qui est maintenue pour la durée des congés d'accompagnement spécifique octroyés en application du présent chapitre."
+      "content": "Le salarié bénéficiaire du congé d'accompagnement spécifique s'engage à suivre les actions de formation et de validation des acquis de l'expérience définies conjointement avec l'employeur selon des modalités fixées par décret.Il bénéficie, dans ce cadre, des prestations de la cellule d'accompagnement des démarches de recherche d'emploi mentionnée à l'article L. 1233-71 du code du travail, qui est maintenue pour la durée des congés d'accompagnement spécifique octroyés en application du présent chapitre.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "I. - Pendant la durée du congé d'accompagnement spécifique, le salarié bénéficie d'une allocation mensuelle, versée par l'employeur et prise en charge par l'Etat, égale à un pourcentage de sa rémunération mensuelle brute moyenne perçue au cours des douze derniers mois précédant le congé de reclassement. Ce pourcentage est égal à :1° 70 % au titre des six premiers mois de ce congé ;2° 65 % à compter du septième mois de ce congé.II. - Le montant de l'allocation est revalorisé en fonction de l'évolution annuelle moyenne des salaires de l'entreprise, selon des modalités fixées par décret.III. - L'allocation est cessible et saisissable dans les mêmes conditions et limites que les salaires.IV. - L'allocation n'est pas assujettie à la taxe sur les salaires, aux cotisations et aux contributions de sécurité sociale, à l'exception de la contribution sociale généralisée sur les revenus de remplacement et de la contribution au remboursement de la dette sociale."
+      "content": "I. - Pendant la durée du congé d'accompagnement spécifique, le salarié bénéficie d'une allocation mensuelle, versée par l'employeur et prise en charge par l'Etat, égale à un pourcentage de sa rémunération mensuelle brute moyenne perçue au cours des douze derniers mois précédant le congé de reclassement. Ce pourcentage est égal à :1° 70 % au titre des six premiers mois de ce congé ;2° 65 % à compter du septième mois de ce congé.II. - Le montant de l'allocation est revalorisé en fonction de l'évolution annuelle moyenne des salaires de l'entreprise, selon des modalités fixées par décret.III. - L'allocation est cessible et saisissable dans les mêmes conditions et limites que les salaires.IV. - L'allocation n'est pas assujettie à la taxe sur les salaires, aux cotisations et aux contributions de sécurité sociale, à l'exception de la contribution sociale généralisée sur les revenus de remplacement et de la contribution au remboursement de la dette sociale.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "I. - Le congé d'accompagnement spécifique peut comporter des périodes de travail durant lesquelles le congé, ainsi que le versement de l'allocation, sont suspendus. Ces périodes de travail sont effectuées pour le compte de tout employeur, à l'exception des particuliers, dans le cadre des contrats de travail à durée déterminée tels que prévus à l'article L. 1242-3 du code du travail, renouvelables une fois par dérogation aux articles L. 1243-13 et L. 1243-13-1 du même code, ou de contrats de travail temporaire tels que prévus à l'article L. 1251-7 du même code. Au terme de ces périodes, le congé d'accompagnement spécifique reprend. L'employeur peut prévoir un report du terme initial du congé à due concurrence des périodes de travail effectuées.II. - Le salarié peut bénéficier pendant le congé d'accompagnement spécifique d'une période de mise en situation en milieu professionnel dans les conditions mentionnées aux articles L. 5135-1 à L. 5135-8 du code du travail. Pendant le congé d'accompagnement spécifique, la durée de chaque période de mise en situation prévue à l'article L. 5135-5 du même code ne peut excéder trois mois.III. - Pour la durée du congé d'accompagnement spécifique, les salariés mentionnés à l'article 1er peuvent bénéficier du dispositif de reconversion ou promotion par alternance défini aux articles L. 6324-1 à L. 6324-10 du code du travail, dans les conditions suivantes :1° Par dérogation à l'article L. 6324-3 du même code, les salariés ont accès, en l'absence d'accord collectif de branche étendu, à l'ensemble des formations inscrites au répertoire national des certifications professionnelles prévu à l'article L. 6113-1 de ce code ;2° Par dérogation à l'article L. 6324-6 du même code, la durée et l'objet de la reconversion ou de la promotion par alternance sont définis conjointement avec l'employeur dans le cadre des engagements mentionnés à l'article 8."
+      "content": "I. - Le congé d'accompagnement spécifique peut comporter des périodes de travail durant lesquelles le congé, ainsi que le versement de l'allocation, sont suspendus. Ces périodes de travail sont effectuées pour le compte de tout employeur, à l'exception des particuliers, dans le cadre des contrats de travail à durée déterminée tels que prévus à l'article L. 1242-3 du code du travail, renouvelables une fois par dérogation aux articles L. 1243-13 et L. 1243-13-1 du même code, ou de contrats de travail temporaire tels que prévus à l'article L. 1251-7 du même code. Au terme de ces périodes, le congé d'accompagnement spécifique reprend. L'employeur peut prévoir un report du terme initial du congé à due concurrence des périodes de travail effectuées.II. - Le salarié peut bénéficier pendant le congé d'accompagnement spécifique d'une période de mise en situation en milieu professionnel dans les conditions mentionnées aux articles L. 5135-1 à L. 5135-8 du code du travail. Pendant le congé d'accompagnement spécifique, la durée de chaque période de mise en situation prévue à l'article L. 5135-5 du même code ne peut excéder trois mois.III. - Pour la durée du congé d'accompagnement spécifique, les salariés mentionnés à l'article 1er peuvent bénéficier du dispositif de reconversion ou promotion par alternance défini aux articles L. 6324-1 à L. 6324-10 du code du travail, dans les conditions suivantes :1° Par dérogation à l'article L. 6324-3 du même code, les salariés ont accès, en l'absence d'accord collectif de branche étendu, à l'ensemble des formations inscrites au répertoire national des certifications professionnelles prévu à l'article L. 6113-1 de ce code ;2° Par dérogation à l'article L. 6324-6 du même code, la durée et l'objet de la reconversion ou de la promotion par alternance sont définis conjointement avec l'employeur dans le cadre des engagements mentionnés à l'article 8.",
+      "valid_from": "2021-08-25"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "I. - Le congé d'accompagnement spécifique ne crée pas de droit à congés payés. Il n'est pas pris en compte dans la détermination de l'ancienneté servant de base au calcul des indemnités de rupture de contrat de travail.II. - Le salarié bénéficie durant la période du congé des dispositifs d'intéressement et de participation selon les conditions applicables à l'entreprise.III. - Les bénéficiaires du congé d'accompagnement spécifique sont regardés, pour la durée du congé, comme étant en position d'activité, au sens et pour l'application du statut défini mentionné à l'article 47 de la loi du 8 avril 1946 sur la nationalisation de l'électricité et du gaz susvisée.IV. - Le congé d'accompagnement spécifique est suspendu en cas de congé maternité, de congé paternité ou de congé d'adoption.V. - Le versement de l'allocation est maintenu en cas de maladie pour la durée du congé d'accompagnement spécifique restant à courir.VI. - Un décret précise :1° Les conditions dans lesquelles le salarié peut être autorisé à s'absenter au cours du congé spécifique ;2° Les dates et modalités de versement des indemnités de rupture et de l'indemnité compensatrice au titre du reliquat des congés payés non pris."
+      "content": "I. - Le congé d'accompagnement spécifique ne crée pas de droit à congés payés. Il n'est pas pris en compte dans la détermination de l'ancienneté servant de base au calcul des indemnités de rupture de contrat de travail.II. - Le salarié bénéficie durant la période du congé des dispositifs d'intéressement et de participation selon les conditions applicables à l'entreprise.III. - Les bénéficiaires du congé d'accompagnement spécifique sont regardés, pour la durée du congé, comme étant en position d'activité, au sens et pour l'application du statut défini mentionné à l'article 47 de la loi du 8 avril 1946 sur la nationalisation de l'électricité et du gaz susvisée.IV. - Le congé d'accompagnement spécifique est suspendu en cas de congé maternité, de congé paternité ou de congé d'adoption.V. - Le versement de l'allocation est maintenu en cas de maladie pour la durée du congé d'accompagnement spécifique restant à courir.VI. - Un décret précise :1° Les conditions dans lesquelles le salarié peut être autorisé à s'absenter au cours du congé spécifique ;2° Les dates et modalités de versement des indemnités de rupture et de l'indemnité compensatrice au titre du reliquat des congés payés non pris.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "L'employeur met fin au congé d'accompagnement spécifique pour le maintien dans l'emploi :1° A la demande du bénéficiaire ;2° Lorsque le salarié remplit les conditions pour bénéficier d'une pension de retraite à taux plein ;3° Lorsque le bénéficiaire trouve un emploi dans les conditions prévues à l'article 21, sous réserve des dispositions prévues au chapitre IV ;4° En cas de manquement du bénéficiaire, sans motif légitime, aux engagements mentionnés au premier alinéa de l'article 8 ;5° Lorsque le bénéficiaire refuse à deux reprises un emploi similaire à son précédent emploi, dans le même bassin d'emploi, assorti d'une qualification et d'une rémunération au moins équivalentes."
+      "content": "L'employeur met fin au congé d'accompagnement spécifique pour le maintien dans l'emploi :1° A la demande du bénéficiaire ;2° Lorsque le salarié remplit les conditions pour bénéficier d'une pension de retraite à taux plein ;3° Lorsque le bénéficiaire trouve un emploi dans les conditions prévues à l'article 21, sous réserve des dispositions prévues au chapitre IV ;4° En cas de manquement du bénéficiaire, sans motif légitime, aux engagements mentionnés au premier alinéa de l'article 8 ;5° Lorsque le bénéficiaire refuse à deux reprises un emploi similaire à son précédent emploi, dans le même bassin d'emploi, assorti d'une qualification et d'une rémunération au moins équivalentes.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Lorsque le salarié envisage de conclure, avant le terme du congé d'accompagnement spécifique, un contrat de travail avec un nouvel employeur, ce dernier peut lui proposer de poursuivre le congé pour la durée restant à courir à compter de la date d'effet du licenciement.Dans ce cas, l'exécution du nouveau contrat de travail est suspendue dès sa conclusion pour la durée du congé restant à courir et le salarié ne peut faire l'objet, pour cette même durée, d'un licenciement pour motif économique.Les dispositions du chapitre III du présent titre demeurent applicables sous réserve des dispositions des articles 14 à 17."
+      "content": "Lorsque le salarié envisage de conclure, avant le terme du congé d'accompagnement spécifique, un contrat de travail avec un nouvel employeur, ce dernier peut lui proposer de poursuivre le congé pour la durée restant à courir à compter de la date d'effet du licenciement.Dans ce cas, l'exécution du nouveau contrat de travail est suspendue dès sa conclusion pour la durée du congé restant à courir et le salarié ne peut faire l'objet, pour cette même durée, d'un licenciement pour motif économique.Les dispositions du chapitre III du présent titre demeurent applicables sous réserve des dispositions des articles 14 à 17.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Les engagements mentionnés à l'article 8 peuvent être modifiés à l'initiative du nouvel employeur dans des conditions fixées par décret, dans le respect des objectifs fixés pour les actions déjà engagées."
+      "content": "Les engagements mentionnés à l'article 8 peuvent être modifiés à l'initiative du nouvel employeur dans des conditions fixées par décret, dans le respect des objectifs fixés pour les actions déjà engagées.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Pour la durée du congé restant à courir en application de l'article 13, l'allocation mensuelle est servie par le nouvel employeur dans les conditions fixées à l'article 9 et financée par l'Etat, à l'exception d'une part restant à la charge du nouvel employeur et égale à :1° 10 % au titre des six premiers mois de la poursuite du congé ;2° 20 % à compter du septième mois."
+      "content": "Pour la durée du congé restant à courir en application de l'article 13, l'allocation mensuelle est servie par le nouvel employeur dans les conditions fixées à l'article 9 et financée par l'Etat, à l'exception d'une part restant à la charge du nouvel employeur et égale à :1° 10 % au titre des six premiers mois de la poursuite du congé ;2° 20 % à compter du septième mois.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Pendant la durée du congé restant à courir en application de l'article 13 :1° Les dispositions des I, II, IV et du 1° du VI de l'article 11 sont applicables au titre du nouveau contrat de travail ;2° Le versement de l'allocation de congé spécifique est maintenu en cas de maladie pour la durée du congé restant à courir, déduction faite, le cas échéant, des indemnités journalières versées par le régime de sécurité sociale dont relève le salarié."
+      "content": "Pendant la durée du congé restant à courir en application de l'article 13 :1° Les dispositions des I, II, IV et du 1° du VI de l'article 11 sont applicables au titre du nouveau contrat de travail ;2° Le versement de l'allocation de congé spécifique est maintenu en cas de maladie pour la durée du congé restant à courir, déduction faite, le cas échéant, des indemnités journalières versées par le régime de sécurité sociale dont relève le salarié.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Le nouvel employeur met fin au congé d'accompagnement spécifique pour le maintien dans l'emploi :1° Lorsque le salarié remplit les conditions pour bénéficier d'une pension de retraite à taux plein ;2° En cas de début d'exécution du nouveau contrat de travail ;3° En cas de manquement du bénéficiaire, sans motif légitime, aux engagements mentionnés au premier alinéa de l'article 8 tels que modifiés, le cas échéant, en application de l'article 14 ;4° En cas de rupture du nouveau contrat de travail dans les conditions prévues par le code du travail, à l'exception du licenciement pour motif économique."
+      "content": "Le nouvel employeur met fin au congé d'accompagnement spécifique pour le maintien dans l'emploi :1° Lorsque le salarié remplit les conditions pour bénéficier d'une pension de retraite à taux plein ;2° En cas de début d'exécution du nouveau contrat de travail ;3° En cas de manquement du bénéficiaire, sans motif légitime, aux engagements mentionnés au premier alinéa de l'article 8 tels que modifiés, le cas échéant, en application de l'article 14 ;4° En cas de rupture du nouveau contrat de travail dans les conditions prévues par le code du travail, à l'exception du licenciement pour motif économique.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "I. - Lorsque le bénéficiaire du congé de reclassement mentionné à l'article L. 1233-71 du code du travail ou du congé d'accompagnement spécifique pour le maintien dans l'emploi trouve un emploi avant la fin de l'un ou l'autre de ces deux congés sans demander à bénéficier des dispositions mentionnées au chapitre IV, l'employeur lui verse une indemnité, prise en charge par l'Etat, et correspondant à un pourcentage du montant maximal des allocations de congé d'accompagnement spécifique auxquelles il aurait pu prétendre jusqu'au terme de ce congé.Ce pourcentage est égal à :1° 80 % lorsque la reprise d'emploi intervient dans les six mois suivant le début du congé de reclassement ;2° 70 % lorsque la reprise d'emploi intervient entre le septième et le douzième mois suivant le début du congé de reclassement ;3° 60 % lorsque la reprise d'emploi intervient entre le treizième et le dix-huitième mois suivant le début du congé de reclassement ;4° 50 % lorsque la reprise d'emploi intervient au-delà du dix-huitième mois suivant le début du congé de reclassement.II. - L'indemnité définie au I est regardée comme une indemnité de licenciement au sens et pour l'application du 2° du 1 de l'article 80 duodecies du code général des impôts et pour l'application du 7° de l'article L. 242-1 du code de la sécurité sociale."
+      "content": "I. - Lorsque le bénéficiaire du congé de reclassement mentionné à l'article L. 1233-71 du code du travail ou du congé d'accompagnement spécifique pour le maintien dans l'emploi trouve un emploi avant la fin de l'un ou l'autre de ces deux congés sans demander à bénéficier des dispositions mentionnées au chapitre IV, l'employeur lui verse une indemnité, prise en charge par l'Etat, et correspondant à un pourcentage du montant maximal des allocations de congé d'accompagnement spécifique auxquelles il aurait pu prétendre jusqu'au terme de ce congé.Ce pourcentage est égal à :1° 80 % lorsque la reprise d'emploi intervient dans les six mois suivant le début du congé de reclassement ;2° 70 % lorsque la reprise d'emploi intervient entre le septième et le douzième mois suivant le début du congé de reclassement ;3° 60 % lorsque la reprise d'emploi intervient entre le treizième et le dix-huitième mois suivant le début du congé de reclassement ;4° 50 % lorsque la reprise d'emploi intervient au-delà du dix-huitième mois suivant le début du congé de reclassement.II. - L'indemnité définie au I est regardée comme une indemnité de licenciement au sens et pour l'application du 2° du 1 de l'article 80 duodecies du code général des impôts et pour l'application du 7° de l'article L. 242-1 du code de la sécurité sociale.",
+      "valid_from": "2021-08-25"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Une convention est signée entre l'Etat et l'employeur mentionné à l'article 1er ou le nouvel employeur mentionné à l'article 13, afin de préciser notamment :1° Les modalités de remboursement par l'Etat des montants correspondant aux allocations et à l'indemnité versées en application du présent titre ;2° Les modalités de participation de l'employeur et de l'Etat au financement du bilan mentionné à l'article 5 et, pour la durée du congé d'accompagnement spécifique, au financement de la cellule d'accompagnement des démarches de recherche d'emploi ainsi que des actions mises en œuvre par cette cellule."
+      "content": "Une convention est signée entre l'Etat et l'employeur mentionné à l'article 1er ou le nouvel employeur mentionné à l'article 13, afin de préciser notamment :1° Les modalités de remboursement par l'Etat des montants correspondant aux allocations et à l'indemnité versées en application du présent titre ;2° Les modalités de participation de l'employeur et de l'Etat au financement du bilan mentionné à l'article 5 et, pour la durée du congé d'accompagnement spécifique, au financement de la cellule d'accompagnement des démarches de recherche d'emploi ainsi que des actions mises en œuvre par cette cellule.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Un décret détermine les conditions d'application du présent titre, notamment :1° Les délais et modalités selon lesquels le congé ou la poursuite du congé auprès d'un nouvel employeur sont proposés à l'ensemble des salariés éligibles ;2° Les modalités de calcul des allocations et de l'indemnité définies au présent titre ;3° Les conditions dans lesquelles s'apprécie la reprise d'emploi pour l'application des articles 12 et 18 ;4° Les modalités selon lesquelles l'employeur transmet aux salariés, à l'administration ainsi qu'aux représentants du personnel les informations nécessaires pour la mise en œuvre et le suivi du dispositif."
+      "content": "Un décret détermine les conditions d'application du présent titre, notamment :1° Les délais et modalités selon lesquels le congé ou la poursuite du congé auprès d'un nouvel employeur sont proposés à l'ensemble des salariés éligibles ;2° Les modalités de calcul des allocations et de l'indemnité définies au présent titre ;3° Les conditions dans lesquelles s'apprécie la reprise d'emploi pour l'application des articles 12 et 18 ;4° Les modalités selon lesquelles l'employeur transmet aux salariés, à l'administration ainsi qu'aux représentants du personnel les informations nécessaires pour la mise en œuvre et le suivi du dispositif.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art21-1",
       "section": "21-1",
       "title": "Article 21-1",
-      "content": "I.-En cas de reprise temporaire d'activité des installations de production d'électricité mentionnées au II de l'article L. 311-5-3 du code de l'énergie résultant du rehaussement par l'autorité administrative de leur plafond d'émissions de gaz à effet de serre prévu à l'article 36 de la loi n° 2022-1158 du 16 août 2022 portant mesures d'urgence pour la protection du pouvoir d'achat pour faire face à une menace sur la sécurité d'approvisionnement en électricité de tout ou partie du territoire national, les entreprises mentionnées à l'article 1er de la présente ordonnance qui ont mis en œuvre le plan mentionné à l'article 2 peuvent, en sus des cas de recours aux contrats de travail à durée déterminée ou aux contrats de mission mentionnés aux articles L. 1242-2, L. 1242-3, L. 1251-6 et L. 1251-7 du code du travail, conclure de tels contrats lorsqu'ils sont nécessaires à l'exploitation de ces installations. Lorsque des contrats de travail à durée déterminée ou des contrats de mission sont conclus à ce titre, les conditions suivantes leur sont applicables :\n\n1° Le contrat de travail à durée déterminée ou le contrat de mission peut être conclu avec un salarié dont le contrat a été rompu pour les raisons mentionnées à l'article 1er de la présente ordonnance. Le congé de reclassement mentionné à l'article 4 ou le congé d'accompagnement spécifique mentionné à l'article 6 est suspendu pendant la durée du contrat. Le terme initial du congé de reclassement ou, lorsqu'il a débuté, du congé d'accompagnement spécifique est reporté pour une durée égale à celle des périodes de travail effectuées ;\n\n2° Par dérogation aux articles L. 1242-5 et L. 1251-9 du code du travail, le contrat de travail à durée déterminée ou le contrat de mission peut être conclu dans les six mois suivant le licenciement pour motif économique, notamment avec les salariés qui bénéficient des congés mentionnés au 1° du présent I.\n\nII.-Lorsque le contrat de travail à durée déterminée ou le contrat de mission est conclu avec un salarié mentionné au 1° du I du présent article, par dérogation aux articles L. 1242-8-1 et L. 1251-12-1 du code du travail, sa durée totale peut aller jusqu'à trente-six mois, compte tenu, le cas échéant, du ou des renouvellements intervenant dans les conditions prévues aux articles L. 1243-13-1 et L. 1251-35-1 du même code.\n\nIII.-Lorsque le contrat est conclu en application du I du présent article, le délai de carence prévu aux articles L. 1244-3 et L. 1251-36 du code du travail n'est pas applicable, sans que la durée totale des contrats conclus pour pourvoir un même poste puisse excéder trente-six mois.\n\nIV.-Le présent article est applicable aux contrats à durée déterminée et aux contrats de mission conclus à compter du 1er juillet 2022 en vue de permettre la reprise temporaire d'activité mentionnée au I, et jusqu'au 31 décembre 2023."
+      "content": "I.-En cas de reprise temporaire d'activité des installations de production d'électricité mentionnées au II de l'article L. 311-5-3 du code de l'énergie résultant du rehaussement par l'autorité administrative de leur plafond d'émissions de gaz à effet de serre prévu à l'article 36 de la loi n° 2022-1158 du 16 août 2022 portant mesures d'urgence pour la protection du pouvoir d'achat pour faire face à une menace sur la sécurité d'approvisionnement en électricité de tout ou partie du territoire national, les entreprises mentionnées à l'article 1er de la présente ordonnance qui ont mis en œuvre le plan mentionné à l'article 2 peuvent, en sus des cas de recours aux contrats de travail à durée déterminée ou aux contrats de mission mentionnés aux articles L. 1242-2, L. 1242-3, L. 1251-6 et L. 1251-7 du code du travail, conclure de tels contrats lorsqu'ils sont nécessaires à l'exploitation de ces installations. Lorsque des contrats de travail à durée déterminée ou des contrats de mission sont conclus à ce titre, les conditions suivantes leur sont applicables :\n\n1° Le contrat de travail à durée déterminée ou le contrat de mission peut être conclu avec un salarié dont le contrat a été rompu pour les raisons mentionnées à l'article 1er de la présente ordonnance. Le congé de reclassement mentionné à l'article 4 ou le congé d'accompagnement spécifique mentionné à l'article 6 est suspendu pendant la durée du contrat. Le terme initial du congé de reclassement ou, lorsqu'il a débuté, du congé d'accompagnement spécifique est reporté pour une durée égale à celle des périodes de travail effectuées ;\n\n2° Par dérogation aux articles L. 1242-5 et L. 1251-9 du code du travail, le contrat de travail à durée déterminée ou le contrat de mission peut être conclu dans les six mois suivant le licenciement pour motif économique, notamment avec les salariés qui bénéficient des congés mentionnés au 1° du présent I.\n\nII.-Lorsque le contrat de travail à durée déterminée ou le contrat de mission est conclu avec un salarié mentionné au 1° du I du présent article, par dérogation aux articles L. 1242-8-1 et L. 1251-12-1 du code du travail, sa durée totale peut aller jusqu'à trente-six mois, compte tenu, le cas échéant, du ou des renouvellements intervenant dans les conditions prévues aux articles L. 1243-13-1 et L. 1251-35-1 du même code.\n\nIII.-Lorsque le contrat est conclu en application du I du présent article, le délai de carence prévu aux articles L. 1244-3 et L. 1251-36 du code du travail n'est pas applicable, sans que la durée totale des contrats conclus pour pourvoir un même poste puisse excéder trente-six mois.\n\nIV.-Le présent article est applicable aux contrats à durée déterminée et aux contrats de mission conclus à compter du 1er juillet 2022 en vue de permettre la reprise temporaire d'activité mentionnée au I, et jusqu'au 31 décembre 2023.",
+      "valid_from": "2022-08-18"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "I. - L'employeur d'un salarié dont le contrat de travail est régi par la convention collective nationale unifiée ports et manutention peut lui proposer, dans la limite fixée au II, de bénéficier d'un congé d'accompagnement spécifique pour le maintien dans l'emploi dans les conditions prévues au présent titre, lorsque son emploi est susceptible d'être supprimé en raison de la fin d'activité, résultant du II de l'article L. 311-5-3 du code de l'énergie, des installations de production d'électricité mentionnées au même II :1° Lorsque cette suppression résulte de l'anticipation du terme ou du non-renouvellement du contrat liant son employeur à une entreprise exploitant de telles installations ;2° Ou lorsque cette suppression résulte de l'anticipation du terme ou du non-renouvellement du contrat liant son employeur à un employeur relevant de l'alinéa précédent.II. - Le nombre maximal de salariés pouvant bénéficier du congé au titre de chaque employeur est déterminé, selon des modalités fixées par décret, en fonction du volume d'activité prévu ou anticipé par les contrats mentionnés aux I.III. - Le refus par le salarié du bénéfice de ce congé ne constitue ni une faute ni un motif de licenciement."
+      "content": "I. - L'employeur d'un salarié dont le contrat de travail est régi par la convention collective nationale unifiée ports et manutention peut lui proposer, dans la limite fixée au II, de bénéficier d'un congé d'accompagnement spécifique pour le maintien dans l'emploi dans les conditions prévues au présent titre, lorsque son emploi est susceptible d'être supprimé en raison de la fin d'activité, résultant du II de l'article L. 311-5-3 du code de l'énergie, des installations de production d'électricité mentionnées au même II :1° Lorsque cette suppression résulte de l'anticipation du terme ou du non-renouvellement du contrat liant son employeur à une entreprise exploitant de telles installations ;2° Ou lorsque cette suppression résulte de l'anticipation du terme ou du non-renouvellement du contrat liant son employeur à un employeur relevant de l'alinéa précédent.II. - Le nombre maximal de salariés pouvant bénéficier du congé au titre de chaque employeur est déterminé, selon des modalités fixées par décret, en fonction du volume d'activité prévu ou anticipé par les contrats mentionnés aux I.III. - Le refus par le salarié du bénéfice de ce congé ne constitue ni une faute ni un motif de licenciement.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Les mesures définies au présent titre sont mises en œuvre sans préjudice des garanties dont bénéficient les salariés en application des dispositions législatives ou des stipulations conventionnelles en vigueur."
+      "content": "Les mesures définies au présent titre sont mises en œuvre sans préjudice des garanties dont bénéficient les salariés en application des dispositions législatives ou des stipulations conventionnelles en vigueur.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "Pendant la durée du congé d'accompagnement spécifique pour le maintien dans l'emploi, l'exécution du contrat de travail du bénéficiaire est suspendue et le salarié ne peut faire l'objet d'un licenciement pour motif économique."
+      "content": "Pendant la durée du congé d'accompagnement spécifique pour le maintien dans l'emploi, l'exécution du contrat de travail du bénéficiaire est suspendue et le salarié ne peut faire l'objet d'un licenciement pour motif économique.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "La durée maximale du congé d'accompagnement spécifique est égale à vingt-quatre mois.Toutefois, cette durée est portée à trente mois lorsque la durée séparant le début du congé de l'âge d'ouverture du droit à une pension de retraite prévu au premier alinéa de l'article L. 351-1 du code de la sécurité sociale ou de l'âge mentionné à la première phrase du troisième alinéa du II de l'article 41 de la loi de financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998) est inférieure ou égale à quatre-vingt-dix mois."
+      "content": "La durée maximale du congé d'accompagnement spécifique est égale à vingt-quatre mois.Toutefois, cette durée est portée à trente mois lorsque la durée séparant le début du congé de l'âge d'ouverture du droit à une pension de retraite prévu au premier alinéa de l'article L. 351-1 du code de la sécurité sociale ou de l'âge mentionné à la première phrase du troisième alinéa du II de l'article 41 de la loi de financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998) est inférieure ou égale à quatre-vingt-dix mois.",
+      "valid_from": "2021-08-25"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "I. - Le salarié bénéficiaire du congé s'engage à suivre les actions de formation et de validation des acquis de l'expérience définies dans le cadre d'une convention signée par l'employeur et l'Etat selon des modalités fixées par décret.Il bénéficie, à cette fin, de l'appui d'une cellule d'accompagnement renforcé pour ses démarches de formation et de recherche d'emploi.A l'exception des bénéficiaires mentionnés au second alinéa de l'article 25, le congé débute par un bilan qui a pour objet d'aider le salarié à déterminer et approfondir son projet professionnel de reclassement.Les actions de formation mises en œuvre au cours du congé ne constituent pas du temps de travail effectif.II. - Pour la durée du congé d'accompagnement spécifique, les salariés mentionnés à l'article 22 peuvent bénéficier du dispositif de reconversion ou promotion par alternance défini aux articles L. 6324-1 à L. 6324-10 du code du travail, dans les conditions suivantes :1° Par dérogation à l'article L. 6324-3 du même code, les salariés ont accès, en l'absence d'accord collectif de branche étendu, à l'ensemble des formations inscrites au répertoire national des certifications professionnelles prévu à l'article L. 6113-1 de ce code ;2° Par dérogation à l'article L. 6324-6 du même code, la durée et l'objet de la reconversion ou de la promotion par alternance sont définis conjointement avec l'employeur dans les conditions et limites prévues par la convention mentionnée au I.\n\nIII.-Le congé d'accompagnement spécifique peut, notamment dans le cadre d'un processus d'acquisition de compétences nouvelles et dans l'objectif d'obtention d'un emploi pérenne, comporter des périodes de travail durant lesquelles le congé ainsi que le versement de l'allocation sont suspendus. Ces périodes de travail sont effectuées pour le compte de tout employeur, à l'exception des particuliers, dans le cadre des contrats de travail à durée déterminée prévus à l'article L. 1242-3 du code du travail. Au terme de ces périodes, le congé d'accompagnement spécifique reprend. L'employeur peut prévoir un report du terme initial du congé à due concurrence des périodes de travail effectuées.IV.-Le salarié peut bénéficier, pendant le congé d'accompagnement spécifique, des périodes de mise en situation en milieu professionnel dans les conditions mentionnées aux articles L. 5135-1 à L. 5135-8 du code du travail. Pendant le congé d'accompagnement spécifique, la durée de chaque période de mise en situation prévue à l'article L. 5135-5 du même code ne peut excéder trois mois."
+      "content": "I. - Le salarié bénéficiaire du congé s'engage à suivre les actions de formation et de validation des acquis de l'expérience définies dans le cadre d'une convention signée par l'employeur et l'Etat selon des modalités fixées par décret.Il bénéficie, à cette fin, de l'appui d'une cellule d'accompagnement renforcé pour ses démarches de formation et de recherche d'emploi.A l'exception des bénéficiaires mentionnés au second alinéa de l'article 25, le congé débute par un bilan qui a pour objet d'aider le salarié à déterminer et approfondir son projet professionnel de reclassement.Les actions de formation mises en œuvre au cours du congé ne constituent pas du temps de travail effectif.II. - Pour la durée du congé d'accompagnement spécifique, les salariés mentionnés à l'article 22 peuvent bénéficier du dispositif de reconversion ou promotion par alternance défini aux articles L. 6324-1 à L. 6324-10 du code du travail, dans les conditions suivantes :1° Par dérogation à l'article L. 6324-3 du même code, les salariés ont accès, en l'absence d'accord collectif de branche étendu, à l'ensemble des formations inscrites au répertoire national des certifications professionnelles prévu à l'article L. 6113-1 de ce code ;2° Par dérogation à l'article L. 6324-6 du même code, la durée et l'objet de la reconversion ou de la promotion par alternance sont définis conjointement avec l'employeur dans les conditions et limites prévues par la convention mentionnée au I.\n\nIII.-Le congé d'accompagnement spécifique peut, notamment dans le cadre d'un processus d'acquisition de compétences nouvelles et dans l'objectif d'obtention d'un emploi pérenne, comporter des périodes de travail durant lesquelles le congé ainsi que le versement de l'allocation sont suspendus. Ces périodes de travail sont effectuées pour le compte de tout employeur, à l'exception des particuliers, dans le cadre des contrats de travail à durée déterminée prévus à l'article L. 1242-3 du code du travail. Au terme de ces périodes, le congé d'accompagnement spécifique reprend. L'employeur peut prévoir un report du terme initial du congé à due concurrence des périodes de travail effectuées.IV.-Le salarié peut bénéficier, pendant le congé d'accompagnement spécifique, des périodes de mise en situation en milieu professionnel dans les conditions mentionnées aux articles L. 5135-1 à L. 5135-8 du code du travail. Pendant le congé d'accompagnement spécifique, la durée de chaque période de mise en situation prévue à l'article L. 5135-5 du même code ne peut excéder trois mois.",
+      "valid_from": "2021-08-25"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "I. - Pendant la durée du congé, le salarié bénéficie d'une allocation mensuelle, versée par l'employeur, égale à 78 % de sa rémunération mensuelle brute moyenne perçue au titre des douze meilleurs mois parmi les vingt-quatre derniers mois.II. - Le montant de l'allocation est revalorisé en fonction de l'évolution annuelle moyenne des salaires de l'entreprise.III. - L'allocation est cessible et saisissable dans les mêmes conditions et limites que les salaires.IV. - L'allocation n'est pas assujettie à la taxe sur les salaires, aux cotisations et aux contributions de sécurité sociale, à l'exception de la contribution sociale généralisée applicable au revenu de remplacement et de la contribution au remboursement de la dette sociale."
+      "content": "I. - Pendant la durée du congé, le salarié bénéficie d'une allocation mensuelle, versée par l'employeur, égale à 78 % de sa rémunération mensuelle brute moyenne perçue au titre des douze meilleurs mois parmi les vingt-quatre derniers mois.II. - Le montant de l'allocation est revalorisé en fonction de l'évolution annuelle moyenne des salaires de l'entreprise.III. - L'allocation est cessible et saisissable dans les mêmes conditions et limites que les salaires.IV. - L'allocation n'est pas assujettie à la taxe sur les salaires, aux cotisations et aux contributions de sécurité sociale, à l'exception de la contribution sociale généralisée applicable au revenu de remplacement et de la contribution au remboursement de la dette sociale.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "L'Etat prend en charge l'intégralité du montant de l'allocation mentionnée à l'article 27, sous réserve de l'alinéa suivant.Lorsque le salarié appartient à une entreprise ou à un groupe d'entreprises mentionné à l'article L. 2331-1 du code du travail d'au moins mille salariés, ou à une entreprise et groupe d'entreprises de dimension communautaire au sens des articles L. 2341-1 et L. 2341-2 du même code comportant au moins mille salariés, l'employeur prend en charge, dans les conditions précisées par la convention mentionnée à l'article 37, une part du montant de l'allocation au moins égale 65 % de la rémunération mentionnée au I de l'article 27, au titre d'une période minimale de quatre mois."
+      "content": "L'Etat prend en charge l'intégralité du montant de l'allocation mentionnée à l'article 27, sous réserve de l'alinéa suivant.Lorsque le salarié appartient à une entreprise ou à un groupe d'entreprises mentionné à l'article L. 2331-1 du code du travail d'au moins mille salariés, ou à une entreprise et groupe d'entreprises de dimension communautaire au sens des articles L. 2341-1 et L. 2341-2 du même code comportant au moins mille salariés, l'employeur prend en charge, dans les conditions précisées par la convention mentionnée à l'article 37, une part du montant de l'allocation au moins égale 65 % de la rémunération mentionnée au I de l'article 27, au titre d'une période minimale de quatre mois.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "I. - Le congé d'accompagnement spécifique pour le maintien dans l'emploi ne crée pas de droit à congés payés. Il n'est pas pris en compte dans la détermination de l'ancienneté servant de base au calcul des indemnités de rupture de contrat de travail.II. - Le salarié conserve durant la période du congé ses droits à participation et à intéressement selon les conditions applicables dans l'entreprise.III. - Le salarié conserve le bénéfice d'une couverture sociale en cas d'accident du travail survenu dans le cadre des actions du congé mentionné au I.IV. - En cas de maladie, l'allocation mensuelle est servie pour la durée du congé restant à courir, après déduction des indemnités journalières de sécurité sociale.V. - Le congé est suspendu en cas de congé maternité, de congé paternité ou de congé d'adoption.VI. - Un décret précise :1° Les conditions dans lesquelles le salarié peut être autorisé à s'absenter ;2° Les modalités de versement des indemnités de rupture et du reliquat des congés payés non pris."
+      "content": "I. - Le congé d'accompagnement spécifique pour le maintien dans l'emploi ne crée pas de droit à congés payés. Il n'est pas pris en compte dans la détermination de l'ancienneté servant de base au calcul des indemnités de rupture de contrat de travail.II. - Le salarié conserve durant la période du congé ses droits à participation et à intéressement selon les conditions applicables dans l'entreprise.III. - Le salarié conserve le bénéfice d'une couverture sociale en cas d'accident du travail survenu dans le cadre des actions du congé mentionné au I.IV. - En cas de maladie, l'allocation mensuelle est servie pour la durée du congé restant à courir, après déduction des indemnités journalières de sécurité sociale.V. - Le congé est suspendu en cas de congé maternité, de congé paternité ou de congé d'adoption.VI. - Un décret précise :1° Les conditions dans lesquelles le salarié peut être autorisé à s'absenter ;2° Les modalités de versement des indemnités de rupture et du reliquat des congés payés non pris.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "L'employeur met fin au congé d'accompagnement spécifique pour le maintien dans l'emploi :1° A la demande du bénéficiaire ;2° Lorsque le salarié remplit les conditions pour bénéficier d'une pension de retraite à taux plein ;3° Lorsque le bénéficiaire trouve un emploi dans les conditions prévues à l'article 38 et sous réserve des dispositions prévues au chapitre II ;4° En cas de manquement du bénéficiaire, sans motif légitime, aux engagements mentionnés au premier alinéa de l'article 26 ;5° Lorsque le bénéficiaire refuse à deux reprises un emploi similaire à son précédent emploi, dans le même bassin d'emploi, assortie d'une qualification et d'une rémunération au moins équivalentes ainsi que d'une garantie de reprise de l'ancienneté du salarié."
+      "content": "L'employeur met fin au congé d'accompagnement spécifique pour le maintien dans l'emploi :1° A la demande du bénéficiaire ;2° Lorsque le salarié remplit les conditions pour bénéficier d'une pension de retraite à taux plein ;3° Lorsque le bénéficiaire trouve un emploi dans les conditions prévues à l'article 38 et sous réserve des dispositions prévues au chapitre II ;4° En cas de manquement du bénéficiaire, sans motif légitime, aux engagements mentionnés au premier alinéa de l'article 26 ;5° Lorsque le bénéficiaire refuse à deux reprises un emploi similaire à son précédent emploi, dans le même bassin d'emploi, assortie d'une qualification et d'une rémunération au moins équivalentes ainsi que d'une garantie de reprise de l'ancienneté du salarié.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "Au terme de la durée maximale du congé ou dans les cas mentionnés à l'article 30, l'employeur engage une procédure de licenciement. Ce licenciement repose sur un motif spécifique qui constitue une cause réelle et sérieuse. Il est soumis aux seules modalités et conditions définies aux articles L. 1232-2 à L. 1232-14, L. 1234-1 à L. 1234-11, L. 1234-18, L. 1234-19 et L. 1234-20 du code du travail. Par dérogation à l'article L. 1234-5 du même code, le salarié n'exécute pas son préavis.Par dérogation au premier alinéa du présent article :\n\n1° Si le salarié demande à faire valoir ses droits à la retraite, l'article L. 1237-9 du code du travail lui est applicable ;\n\n2° Si le salarié demande à être admis au bénéfice de l'allocation de cessation anticipée d'activité des travailleurs de l'amiante, le V de l'article 41 de la loi de financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998) lui est applicable ;\n\n3° Si le salarié demande à bénéficier du dispositif conventionnel de cessation anticipée d'activité, l'article 9 de l'accord du 15 avril 2011 relatif à la pénibilité lui est applicable."
+      "content": "Au terme de la durée maximale du congé ou dans les cas mentionnés à l'article 30, l'employeur engage une procédure de licenciement. Ce licenciement repose sur un motif spécifique qui constitue une cause réelle et sérieuse. Il est soumis aux seules modalités et conditions définies aux articles L. 1232-2 à L. 1232-14, L. 1234-1 à L. 1234-11, L. 1234-18, L. 1234-19 et L. 1234-20 du code du travail. Par dérogation à l'article L. 1234-5 du même code, le salarié n'exécute pas son préavis.Par dérogation au premier alinéa du présent article :\n\n1° Si le salarié demande à faire valoir ses droits à la retraite, l'article L. 1237-9 du code du travail lui est applicable ;\n\n2° Si le salarié demande à être admis au bénéfice de l'allocation de cessation anticipée d'activité des travailleurs de l'amiante, le V de l'article 41 de la loi de financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998) lui est applicable ;\n\n3° Si le salarié demande à bénéficier du dispositif conventionnel de cessation anticipée d'activité, l'article 9 de l'accord du 15 avril 2011 relatif à la pénibilité lui est applicable.",
+      "valid_from": "2021-08-25"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "Lorsque le salarié envisage de conclure, avant le terme du congé d'accompagnement spécifique, un contrat de travail avec un nouvel employeur, ce dernier peut lui proposer de poursuivre le congé pour la durée restant à courir à compter de la rupture du contrat de travail intervenue dans les conditions mentionnées à l'article 31.Dans ce cas, l'exécution du nouveau contrat de travail est suspendue dès sa conclusion, pour la durée du congé restant à courir.Les dispositions du chapitre Ier du présent titre demeurent applicables, sous réserve des dispositions des articles 33 à 36."
+      "content": "Lorsque le salarié envisage de conclure, avant le terme du congé d'accompagnement spécifique, un contrat de travail avec un nouvel employeur, ce dernier peut lui proposer de poursuivre le congé pour la durée restant à courir à compter de la rupture du contrat de travail intervenue dans les conditions mentionnées à l'article 31.Dans ce cas, l'exécution du nouveau contrat de travail est suspendue dès sa conclusion, pour la durée du congé restant à courir.Les dispositions du chapitre Ier du présent titre demeurent applicables, sous réserve des dispositions des articles 33 à 36.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art33",
       "section": "33",
       "title": "Article 33",
-      "content": "Les engagements mentionnés au premier alinéa de l'article 26 peuvent être modifiés à l'initiative du nouvel employeur dans des conditions fixées par décret, dans le respect des objectifs fixés pour les actions déjà engagées."
+      "content": "Les engagements mentionnés au premier alinéa de l'article 26 peuvent être modifiés à l'initiative du nouvel employeur dans des conditions fixées par décret, dans le respect des objectifs fixés pour les actions déjà engagées.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "Pendant la durée du congé restant à courir en application de l'article 32, le nouvel employeur verse au salarié une allocation mensuelle déterminée dans les conditions prévues à l'article 27 et financée par l'Etat à l'exception d'une participation restant à la charge du nouvel employeur égale à :1° 5 % au titre des douze premiers mois de la poursuite du congé ;2° 10 % à compter du treizième mois."
+      "content": "Pendant la durée du congé restant à courir en application de l'article 32, le nouvel employeur verse au salarié une allocation mensuelle déterminée dans les conditions prévues à l'article 27 et financée par l'Etat à l'exception d'une participation restant à la charge du nouvel employeur égale à :1° 5 % au titre des douze premiers mois de la poursuite du congé ;2° 10 % à compter du treizième mois.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "Pendant la durée du congé restant à courir en application de l'article 32, les dispositions de l'article 29 s'appliquent au titre du nouveau contrat de travail."
+      "content": "Pendant la durée du congé restant à courir en application de l'article 32, les dispositions de l'article 29 s'appliquent au titre du nouveau contrat de travail.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "Le nouvel employeur met fin au congé d'accompagnement spécifique pour le maintien dans l'emploi :1° Lorsque le salarié remplit les conditions pour bénéficier d'une pension de retraite à taux plein ;2° En cas de début d'exécution du contrat de travail ;3° En cas de manquement du bénéficiaire, sans motif légitime, aux engagements mentionnés au premier alinéa de l'article 26 tels que modifiés, le cas échéant, en application de l'article 33 ;4° En cas de rupture du contrat de travail, à l'exception du licenciement pour motif économique, dans les conditions prévues par le code du travail."
+      "content": "Le nouvel employeur met fin au congé d'accompagnement spécifique pour le maintien dans l'emploi :1° Lorsque le salarié remplit les conditions pour bénéficier d'une pension de retraite à taux plein ;2° En cas de début d'exécution du contrat de travail ;3° En cas de manquement du bénéficiaire, sans motif légitime, aux engagements mentionnés au premier alinéa de l'article 26 tels que modifiés, le cas échéant, en application de l'article 33 ;4° En cas de rupture du contrat de travail, à l'exception du licenciement pour motif économique, dans les conditions prévues par le code du travail.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "Une convention est signée entre l'Etat et l'employeur mentionné à l'article 22 ou le nouvel employeur mentionné à l'article 32, afin de préciser notamment :1° Les modalités de remboursement par l'Etat des montants correspondant aux allocations versées en application du présent titre ;2° Les modalités de participation de l'employeur au financement de la cellule d'accompagnement des démarches de recherche d'emploi ainsi que des actions mises en œuvre par cette cellule et, le cas échéant, au financement de l'allocation dans les conditions prévues à l'article 28."
+      "content": "Une convention est signée entre l'Etat et l'employeur mentionné à l'article 22 ou le nouvel employeur mentionné à l'article 32, afin de préciser notamment :1° Les modalités de remboursement par l'Etat des montants correspondant aux allocations versées en application du présent titre ;2° Les modalités de participation de l'employeur au financement de la cellule d'accompagnement des démarches de recherche d'emploi ainsi que des actions mises en œuvre par cette cellule et, le cas échéant, au financement de l'allocation dans les conditions prévues à l'article 28.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art37bis",
       "section": "37bis",
       "title": "Article 37bis",
-      "content": "En cas de défaillance d'un employeur mentionné au I de l'article 22 ou au premier alinéa de l'article 32, la caisse de compensation des congés payés à laquelle est affilié l'employeur en application de l'article L. 5343-22-1 du code des transports se substitue à lui pour le paiement des allocations dues en application de l'article 27 de la présente ordonnance pour la durée du congé restant à courir."
+      "content": "En cas de défaillance d'un employeur mentionné au I de l'article 22 ou au premier alinéa de l'article 32, la caisse de compensation des congés payés à laquelle est affilié l'employeur en application de l'article L. 5343-22-1 du code des transports se substitue à lui pour le paiement des allocations dues en application de l'article 27 de la présente ordonnance pour la durée du congé restant à courir.",
+      "valid_from": "2021-08-25"
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "Un décret détermine les conditions d'application du présent titre, notamment :1° Les délais et modalités selon lesquels le congé ou la poursuite du congé auprès d'un nouvel employeur sont proposés aux salariés ;2° Les modalités de calcul des allocations définies au présent titre ;3° Les conditions dans lesquelles s'apprécie l'existence d'une solution d'emploi pour l'application de l'article 30 ;4° Les modalités selon lesquelles l'employeur transmet aux salariés, à l'administration ainsi qu'aux représentants du personnel les informations nécessaires pour la mise en œuvre et le suivi du dispositif."
+      "content": "Un décret détermine les conditions d'application du présent titre, notamment :1° Les délais et modalités selon lesquels le congé ou la poursuite du congé auprès d'un nouvel employeur sont proposés aux salariés ;2° Les modalités de calcul des allocations définies au présent titre ;3° Les conditions dans lesquelles s'apprécie l'existence d'une solution d'emploi pour l'application de l'article 30 ;4° Les modalités selon lesquelles l'employeur transmet aux salariés, à l'administration ainsi qu'aux représentants du personnel les informations nécessaires pour la mise en œuvre et le suivi du dispositif.",
+      "valid_from": "2021-08-25"
     },
     {
       "provision_ref": "art39",
       "section": "39",
       "title": "Article 39",
-      "content": "Les salariés des entreprises appartenant à la chaîne de sous-traitance des entreprises exploitant les installations de production d'électricité mentionnées au II de l'article L. 311-5-3 du code de l'énergie et dont l'emploi est susceptible d'être supprimé en raison de la fin d'activité de ces installations résultant du même II, peuvent bénéficier, sur leur demande et dans un cadre défini par une convention conclue entre l'Etat et leur employeur, des actions d'une cellule d'accompagnement des démarches de recherche d'emploi par anticipation.Un décret précise les modalités de détermination des entreprises et des salariés éligibles, la durée d'application du dispositif, les modalités de participation de l'Etat au financement de la cellule et des actions qu'elle met en œuvre ainsi que, le cas échéant, les modalités d'articulation de cette cellule avec celle mise en œuvre en application de l'article L. 1233-71 du code du travail."
+      "content": "Les salariés des entreprises appartenant à la chaîne de sous-traitance des entreprises exploitant les installations de production d'électricité mentionnées au II de l'article L. 311-5-3 du code de l'énergie et dont l'emploi est susceptible d'être supprimé en raison de la fin d'activité de ces installations résultant du même II, peuvent bénéficier, sur leur demande et dans un cadre défini par une convention conclue entre l'Etat et leur employeur, des actions d'une cellule d'accompagnement des démarches de recherche d'emploi par anticipation.Un décret précise les modalités de détermination des entreprises et des salariés éligibles, la durée d'application du dispositif, les modalités de participation de l'Etat au financement de la cellule et des actions qu'elle met en œuvre ainsi que, le cas échéant, les modalités d'articulation de cette cellule avec celle mise en œuvre en application de l'article L. 1233-71 du code du travail.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art41",
       "section": "41",
       "title": "Article 41",
-      "content": "Le Premier ministre, la ministre de la transition écologique et la ministre du travail, de l'emploi et de l'insertion sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la transition écologique et la ministre du travail, de l'emploi et de l'insertion sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-07-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

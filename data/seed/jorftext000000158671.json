@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "Est autorisée l'approbation de l'accord international sur l'utilisation des stations terriennes Inmarsat de navires dans les limites de la mer territoriale et des ports, adopté à Londres le 16 octobre 1985 et dont le texte est annexé à la présente loi (2).(2) Il sera publié au Journal officiel de la République française."
+      "content": "Est autorisée l'approbation de l'accord international sur l'utilisation des stations terriennes Inmarsat de navires dans les limites de la mer territoriale et des ports, adopté à Londres le 16 octobre 1985 et dont le texte est annexé à la présente loi (2).(2) Il sera publié au Journal officiel de la République française.",
+      "valid_from": "1990-01-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

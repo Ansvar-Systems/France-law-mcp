@@ -12,91 +12,112 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Il est émis un emprunt obligatoire d'une durée de trois ans, au taux actuariel brut de 11 p. 100 l'an, à la charge des contribuables à l'impôt sur le revenu dû au titre de 1981 et des redevables de l'impôt sur les grandes fortunes en 1983."
+      "content": "Il est émis un emprunt obligatoire d'une durée de trois ans, au taux actuariel brut de 11 p. 100 l'an, à la charge des contribuables à l'impôt sur le revenu dû au titre de 1981 et des redevables de l'impôt sur les grandes fortunes en 1983.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les contribuables dont la cotisation d'impôt sur le revenu dû au titre de 1981 est supérieure à 5.000 francs souscrivent à l'emprunt à concurrence de 10 p. 100 de la même cotisation.\n\nLa cotisation s'entend après application de la majoration exceptionnelle de l'impôt sur le revenu dû au titre de 1981 instituée par l'article 14-I de la loi de finances pour 1982 susvisée.\n\nPour les contribuables qui ont bénéficié de l'avoir fiscal, du crédit d'impôt, des prélèvements ou retenues non libératoires, la cotisation s'entend avant imputation des sommes correspondantes."
+      "content": "Les contribuables dont la cotisation d'impôt sur le revenu dû au titre de 1981 est supérieure à 5.000 francs souscrivent à l'emprunt à concurrence de 10 p. 100 de la même cotisation.\n\nLa cotisation s'entend après application de la majoration exceptionnelle de l'impôt sur le revenu dû au titre de 1981 instituée par l'article 14-I de la loi de finances pour 1982 susvisée.\n\nPour les contribuables qui ont bénéficié de l'avoir fiscal, du crédit d'impôt, des prélèvements ou retenues non libératoires, la cotisation s'entend avant imputation des sommes correspondantes.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La souscription doit intervenir le 22 juin 1983 au plus tard.Toutefois, les contribuables dont l'impôt sur le revenu dû au titre de 1981 est mis en recouvrement ou fait l'objet d'un rôle supplémentaire après le 15 avril 1983 doivent souscrire à l'emprunt au plus tard à la date limite de paiement de cette imposition.Un avis est adressé au contribuable indiquant le montant de la somme à souscrire."
+      "content": "La souscription doit intervenir le 22 juin 1983 au plus tard.Toutefois, les contribuables dont l'impôt sur le revenu dû au titre de 1981 est mis en recouvrement ou fait l'objet d'un rôle supplémentaire après le 15 avril 1983 doivent souscrire à l'emprunt au plus tard à la date limite de paiement de cette imposition.Un avis est adressé au contribuable indiquant le montant de la somme à souscrire.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Sont dispensés de la souscription les contribuables qui n'ont pas été soumis à la majoration exceptionnelle de l'impôt sur le revenu dû au titre de 1981 instituée par l'article 14-I de la loi de finances pour 1982 susvisée :1° Lorsqu'ils ont obtenu le bénéfice d'une pension prenant effet entre le 1er juillet 1982 et la date limite de souscription pour une invalidité les rendant incapables d'exercer une profession quelconque ou lorsqu'ils ont été atteints au cours de la même période d'une invalidité ouvrant droit à la carte d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale ;2° Lorsqu'ils ont cessé au cours de la même période leur activité professionnelle par suite de départ en retraite ou en préretraite ;3° Lorsqu'ils ont perçu pendant six mois au moins, du fait de la perte de leur emploi au cours de la même période, un revenu de remplacement prévu à l'article L. 351-1 du code du travail ;4° Lorsqu'ils ont cessé, au cours de la même période, de percevoir un revenu de remplacement et sont demeurés demandeurs d'emploi non indemnisés. Ils doivent justifier dans ce cas avoir perçu un revenu de remplacement pendant six mois au moins.Sont dispensés de la souscription les contribuables qui n'ont pas été soumis à la majoration exceptionnelle de l'impôt sur le revenu dû au titre de 1981 instituée par l'article 14-I de la loi de finances pour 1982 susvisée, lorsque leur conjoint se trouve dans l'une des situations mentionnées ci-dessus."
+      "content": "Sont dispensés de la souscription les contribuables qui n'ont pas été soumis à la majoration exceptionnelle de l'impôt sur le revenu dû au titre de 1981 instituée par l'article 14-I de la loi de finances pour 1982 susvisée :1° Lorsqu'ils ont obtenu le bénéfice d'une pension prenant effet entre le 1er juillet 1982 et la date limite de souscription pour une invalidité les rendant incapables d'exercer une profession quelconque ou lorsqu'ils ont été atteints au cours de la même période d'une invalidité ouvrant droit à la carte d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale ;2° Lorsqu'ils ont cessé au cours de la même période leur activité professionnelle par suite de départ en retraite ou en préretraite ;3° Lorsqu'ils ont perçu pendant six mois au moins, du fait de la perte de leur emploi au cours de la même période, un revenu de remplacement prévu à l'article L. 351-1 du code du travail ;4° Lorsqu'ils ont cessé, au cours de la même période, de percevoir un revenu de remplacement et sont demeurés demandeurs d'emploi non indemnisés. Ils doivent justifier dans ce cas avoir perçu un revenu de remplacement pendant six mois au moins.Sont dispensés de la souscription les contribuables qui n'ont pas été soumis à la majoration exceptionnelle de l'impôt sur le revenu dû au titre de 1981 instituée par l'article 14-I de la loi de finances pour 1982 susvisée, lorsque leur conjoint se trouve dans l'une des situations mentionnées ci-dessus.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Lorsqu'ils n'ont pas été soumis à la majoration exceptionnelle de l'impôt sur le revenu dû au titre de 1981 instituée par l'article 14-I de la loi de finances pour 1982 susvisée, les contribuables dont le conjoint est décédé au cours de la période prévue à l'article précédent sont dispensés de la souscription.\n\nLes ayants droit d'un contribuable décédé au cours de la même période et remplissant la même condition de revenu sont dispensés de la souscription pour la somme que celui-ci aurait dû souscrire."
+      "content": "Lorsqu'ils n'ont pas été soumis à la majoration exceptionnelle de l'impôt sur le revenu dû au titre de 1981 instituée par l'article 14-I de la loi de finances pour 1982 susvisée, les contribuables dont le conjoint est décédé au cours de la période prévue à l'article précédent sont dispensés de la souscription.\n\nLes ayants droit d'un contribuable décédé au cours de la même période et remplissant la même condition de revenu sont dispensés de la souscription pour la somme que celui-ci aurait dû souscrire.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le défaut de souscription à l'échéance entraîne, sans préjudice du recouvrement forcé du principal de l'emprunt, la déchéance du droit à remboursement du capital et des intérêts. Le recouvrement forcé de l'emprunt est effectué comme en matière d'impôt sur le revenu. Sauf dans le cas où l'impôt sur le revenu de 1981 est mis en recouvrement ou fait l'objet d'un rôle supplémentaire après le 15 avril 1983, la majoration de 10 p. 100 prévue à l'article 1761 du code général des impôts n'est appliquée aux sommes non réglées qu'un mois après la date limite de souscription."
+      "content": "Le défaut de souscription à l'échéance entraîne, sans préjudice du recouvrement forcé du principal de l'emprunt, la déchéance du droit à remboursement du capital et des intérêts. Le recouvrement forcé de l'emprunt est effectué comme en matière d'impôt sur le revenu. Sauf dans le cas où l'impôt sur le revenu de 1981 est mis en recouvrement ou fait l'objet d'un rôle supplémentaire après le 15 avril 1983, la majoration de 10 p. 100 prévue à l'article 1761 du code général des impôts n'est appliquée aux sommes non réglées qu'un mois après la date limite de souscription.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Pour l'application des articles 4 et 5 ci-dessus, le contribuable ou ses ayants droit adresse au service chargé du recouvrement une attestation sur l'honneur certifiant qu'il remplit les conditions prévues aux mêmes articles. L'administration demandera, en tant que de besoin, toutes pièces justificatives, en vue d'un contrôle dans les conditions prévues à l'article L. 10 du livre des procédures fiscales du code général des impôts.\n\nEn cas d'inexactitude, les dispositions de l'article 6 ci-dessus sont applicables, sans préjudice des sanctions prévues par l'article 22-II de la loi du 31 juillet 1968 susvisée."
+      "content": "Pour l'application des articles 4 et 5 ci-dessus, le contribuable ou ses ayants droit adresse au service chargé du recouvrement une attestation sur l'honneur certifiant qu'il remplit les conditions prévues aux mêmes articles. L'administration demandera, en tant que de besoin, toutes pièces justificatives, en vue d'un contrôle dans les conditions prévues à l'article L. 10 du livre des procédures fiscales du code général des impôts.\n\nEn cas d'inexactitude, les dispositions de l'article 6 ci-dessus sont applicables, sans préjudice des sanctions prévues par l'article 22-II de la loi du 31 juillet 1968 susvisée.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les contribuables en retraite ou en préretraite qui ont continué ou repris une activité professionnelle perdent le bénéfice de la dispense de souscription à l'emprunt prévue au 2° de l'article 4."
+      "content": "Les contribuables en retraite ou en préretraite qui ont continué ou repris une activité professionnelle perdent le bénéfice de la dispense de souscription à l'emprunt prévue au 2° de l'article 4.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les redevables de l'impôt sur les grandes fortunes souscrivent en outre à l'emprunt à concurrence de 10 p. 100 de l'impôt sur les grandes fortunes dû en 1983. La souscription doit être jointe au paiement de cet impôt et intervenir le 15 juin 1983 au plus tard.Le défaut de souscription à l'échéance entraîne, sans préjudice du recouvrement forcé du principal de l'emprunt, la déchéance du droit à remboursement du capital et des intérêts   . Le recouvrement forcé de l'emprunt est effectué comme en matière d'impôt sur les grandes fortunes.La souscription est égale à 100 francs lorsque son montant, calculé dans les conditions prévues au 1er alinéa, est inférieur à cette somme.Les dispositions des articles 4,5 et 6 ne sont pas applicables à la souscription à l'emprunt prévue au présent article."
+      "content": "Les redevables de l'impôt sur les grandes fortunes souscrivent en outre à l'emprunt à concurrence de 10 p. 100 de l'impôt sur les grandes fortunes dû en 1983. La souscription doit être jointe au paiement de cet impôt et intervenir le 15 juin 1983 au plus tard.Le défaut de souscription à l'échéance entraîne, sans préjudice du recouvrement forcé du principal de l'emprunt, la déchéance du droit à remboursement du capital et des intérêts   . Le recouvrement forcé de l'emprunt est effectué comme en matière d'impôt sur les grandes fortunes.La souscription est égale à 100 francs lorsque son montant, calculé dans les conditions prévues au 1er alinéa, est inférieur à cette somme.Les dispositions des articles 4,5 et 6 ne sont pas applicables à la souscription à l'emprunt prévue au présent article.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Il est adressé à chaque souscripteur à l'emprunt un certificat correspondant au montant de la somme versée. Ce certificat est incessible."
+      "content": "Il est adressé à chaque souscripteur à l'emprunt un certificat correspondant au montant de la somme versée. Ce certificat est incessible.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Les sommes souscrites sont remboursables, sur présentation du certificat de souscription, au terme de trois ans à compter de la date limite de souscription.\n\nElles portent intérêt à compter de cette date et jusqu'au jour où elles sont remboursables. Les intérêts sont versés en une fois lors du remboursement.\n\nCes intérêts sont soumis à l'imposition de droit commun ou au prélèvement libératoire au taux de 45 p. 100, dans les conditions prévues à l'article 125-A-II du code général des impôts.\n\nLe montant des intérêts versés au souscripteur est arrondi au franc supérieur."
+      "content": "Les sommes souscrites sont remboursables, sur présentation du certificat de souscription, au terme de trois ans à compter de la date limite de souscription.\n\nElles portent intérêt à compter de cette date et jusqu'au jour où elles sont remboursables. Les intérêts sont versés en une fois lors du remboursement.\n\nCes intérêts sont soumis à l'imposition de droit commun ou au prélèvement libératoire au taux de 45 p. 100, dans les conditions prévues à l'article 125-A-II du code général des impôts.\n\nLe montant des intérêts versés au souscripteur est arrondi au franc supérieur.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "L'Etat se réserve la faculté de procéder à tout moment au remboursement anticipé de l'emprunt."
+      "content": "L'Etat se réserve la faculté de procéder à tout moment au remboursement anticipé de l'emprunt.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "En cas de dégrèvement total ou partiel conduisant à une réduction d'au moins 100 francs du montant de la souscription, le contribuable peut demander le remboursement de la fraction correspondante de la souscription. Celui-ci est majoré des intérêts acquis au jour de la demande selon un barème fixé par arrêté du ministre de l'économie, des finances et du budget."
+      "content": "En cas de dégrèvement total ou partiel conduisant à une réduction d'au moins 100 francs du montant de la souscription, le contribuable peut demander le remboursement de la fraction correspondante de la souscription. Celui-ci est majoré des intérêts acquis au jour de la demande selon un barème fixé par arrêté du ministre de l'économie, des finances et du budget.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "En cas de dépossession pour quelque cause que ce soit du certificat de souscription, le remboursement de la somme correspondante pourra être autorisé à l'expiration du délai d'un an compté à la date d'échéance de ladite souscription."
+      "content": "En cas de dépossession pour quelque cause que ce soit du certificat de souscription, le remboursement de la somme correspondante pourra être autorisé à l'expiration du délai d'un an compté à la date d'échéance de ladite souscription.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les certificats de souscription qui sont présentés pour remboursement plus d'un an après leur échéance terminale ne peuvent être remboursés qu'après autorisation du ministre de l'économie, des finances et du budget."
+      "content": "Les certificats de souscription qui sont présentés pour remboursement plus d'un an après leur échéance terminale ne peuvent être remboursés qu'après autorisation du ministre de l'économie, des finances et du budget.",
+      "valid_from": "1983-05-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

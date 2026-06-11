@@ -1,0 +1,32 @@
+{
+  "id": "jorftext000054049788",
+  "type": "statute",
+  "title": "LOI n°2026-351 du 9 mai 2026",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000054049788",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "I.- A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nII. - Dans un délai d'un mois à compter de leur réception, le Gouvernement informe les commissions permanentes chargées de la culture et des affaires étrangères de l'Assemblée nationale et du Sénat des demandes de restitution de biens culturels appartenant au domaine public adressées par des Etats étrangers qui sont portées à sa connaissance.III. - Chaque année, le Gouvernement remet au Parlement un rapport présentant :1° Les demandes de restitution de biens culturels adressées par des Etats étrangers et l'état d'avancement de leur traitement ;2° Les décisions de sortie du domaine public prises au cours de l'année écoulée en application de la section 4 du chapitre V du titre Idu livre Idu code du patrimoine, assorties des rapports et des avis correspondants mentionnés aux articles L. 115-13 et L. 115-14 du même code ainsi que de tout élément permettant d'informer le Parlement du périmètre de la restitution résultant de la décision de sortie du domaine public prononcée en application du même article L. 115-14, dans les cas où il diffère du périmètre des biens culturels retenu par le comité scientifique et la commission nationale de restitution de biens culturels mentionnés aux articles L. 115-13 et L. 430-1-1 dudit code ;3° Les restitutions de biens culturels intervenues en application de la section 4 du chapitre V du titre Idu livre Idu même code ;4° Les demandes de restitution n'ayant pas abouti à une décision de sortie du domaine public.IV. - Le Gouvernement favorise, préalablement ou consécutivement à la restitution mentionnée à l'article L. 115-10 du code du patrimoine, le développement d'une coopération culturelle, scientifique et muséographique renforcée entre la France et les Etats demandeurs.\n\n- Code du patrimoine\n\n- Code du patrimoine\n\n- Code du patrimoine\n\n- Code du patrimoine",
+      "valid_from": "2026-05-11"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente loi s'applique aux demandes de restitutions en cours d'examen à la date de sa publication.",
+      "valid_from": "2026-05-11"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

@@ -12,73 +12,91 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'Etat peut prendre en charge, dans les conditions définies aux articles suivants, certaines cotisations de sécurité sociale incombant obligatoirement à l'employeur et afférentes à l'emploi de nouveaux salariés embauchés en conséquence de la mise en oeuvre d'un programme de réduction de la durée du travail concernant les salariés à temps plein."
+      "content": "L'Etat peut prendre en charge, dans les conditions définies aux articles suivants, certaines cotisations de sécurité sociale incombant obligatoirement à l'employeur et afférentes à l'emploi de nouveaux salariés embauchés en conséquence de la mise en oeuvre d'un programme de réduction de la durée du travail concernant les salariés à temps plein.",
+      "valid_from": "1982-01-17"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions du présent titre s'appliquent aux employeurs définis aux articles L. 351-3, L. 351-16 et L. 351-17 du code du travail ainsi qu'aux employeurs des entreprises de pêche maritime non couverts par lesdits articles, à l'exception :\n\nDe l'Etat et de ses établissements publics administratifs ;\n\nDes collectivités locales, de leurs groupements et de leurs établissements publics administratifs ;\n\nDes entrepreneurs de travail temporaire ;\n\nDes employeurs des salariés définis aux articles L. 771-1, L. 772-1, et L. 773-1 de ce code."
+      "content": "Les dispositions du présent titre s'appliquent aux employeurs définis aux articles L. 351-3, L. 351-16 et L. 351-17 du code du travail ainsi qu'aux employeurs des entreprises de pêche maritime non couverts par lesdits articles, à l'exception :\n\nDe l'Etat et de ses établissements publics administratifs ;\n\nDes collectivités locales, de leurs groupements et de leurs établissements publics administratifs ;\n\nDes entrepreneurs de travail temporaire ;\n\nDes employeurs des salariés définis aux articles L. 771-1, L. 772-1, et L. 773-1 de ce code.",
+      "valid_from": "1982-01-17"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La demande de prise en charge est appréciée en tenant compte de l'état du marché de l'emploi, de la situation économique de l'entreprise intéressée, ainsi que de la nature et de la portée économique et sociale du programme de réduction de la durée du travail et d'embauche corrélative présenté par l'entreprise.La décision portant refus de prise en charge doit être motivée."
+      "content": "La demande de prise en charge est appréciée en tenant compte de l'état du marché de l'emploi, de la situation économique de l'entreprise intéressée, ainsi que de la nature et de la portée économique et sociale du programme de réduction de la durée du travail et d'embauche corrélative présenté par l'entreprise.La décision portant refus de prise en charge doit être motivée.",
+      "valid_from": "1982-01-17"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Pour l'appréciation prévue à l'article 3 il n'est tenu compte que des mesures de réduction de la durée du travail qui ont pris ou prennent effet entre le 15 septembre 1981 et le 1er septembre 1983 et à la condition que ces mesures, qui peuvent concerner la totalité ou une partie seulement du personnel de l'entreprise, réduisent fortement, au plus tard à la dernière de ces dates, la durée hebdomadaire effective moyenne du travail pour atteindre un niveau sensiblement inférieur à la durée légale du travail. Un décret fixe l'objectif minimal à atteindre."
+      "content": "Pour l'appréciation prévue à l'article 3 il n'est tenu compte que des mesures de réduction de la durée du travail qui ont pris ou prennent effet entre le 15 septembre 1981 et le 1er septembre 1983 et à la condition que ces mesures, qui peuvent concerner la totalité ou une partie seulement du personnel de l'entreprise, réduisent fortement, au plus tard à la dernière de ces dates, la durée hebdomadaire effective moyenne du travail pour atteindre un niveau sensiblement inférieur à la durée légale du travail. Un décret fixe l'objectif minimal à atteindre.",
+      "valid_from": "1982-01-17"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La date des embauches corrélatives aux mesures de réduction de la durée du travail doit se placer à l'intérieur de la période définie à l'article précédent.\n\nCes embauches ne sont prises en considération que dans la limite de l'accroissement net qui en résulte sur l'effectif total des salariés de l'entreprise."
+      "content": "La date des embauches corrélatives aux mesures de réduction de la durée du travail doit se placer à l'intérieur de la période définie à l'article précédent.\n\nCes embauches ne sont prises en considération que dans la limite de l'accroissement net qui en résulte sur l'effectif total des salariés de l'entreprise.",
+      "valid_from": "1982-01-17"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les cotisations mentionnées à l'article 1er sont les cotisations dues au titre des assurances sociales, des accidents du travail et des allocations familiales, à l'exclusion des cotisations supplémentaires dues au titre des accidents du travail.\n\nLa prise en charge des cotisations peut être totale ou partielle en fonction de l'importance de la réduction hebdomadaire de travail des salariés intéressés qui a été opérée. Elle peut être dégressive en fonction de sa durée, qui ne peut excéder vingt-cinq mois.\n\nLes cotisations prises en charge sont calculées sur la base des taux applicables à l'entreprise considérée."
+      "content": "Les cotisations mentionnées à l'article 1er sont les cotisations dues au titre des assurances sociales, des accidents du travail et des allocations familiales, à l'exclusion des cotisations supplémentaires dues au titre des accidents du travail.\n\nLa prise en charge des cotisations peut être totale ou partielle en fonction de l'importance de la réduction hebdomadaire de travail des salariés intéressés qui a été opérée. Elle peut être dégressive en fonction de sa durée, qui ne peut excéder vingt-cinq mois.\n\nLes cotisations prises en charge sont calculées sur la base des taux applicables à l'entreprise considérée.",
+      "valid_from": "1982-01-17"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La prise en charge est subordonnée à la conclusion préalable d'un contrat entre l'Etat et l'employeur. Ce contrat peut également être conclu avec un groupement d'employeurs répondant tous aux conditions posées par le présent titre.\n\nLe contrat détermine notamment, compte tenu du programme prévu à l'article 1er ci-dessus, le nombre des embauches donnant lieu au bénéfice de la présente ordonnance, la date de prise en charge des cotisations résultant de ces embauches ainsi que les modalités de contrôle."
+      "content": "La prise en charge est subordonnée à la conclusion préalable d'un contrat entre l'Etat et l'employeur. Ce contrat peut également être conclu avec un groupement d'employeurs répondant tous aux conditions posées par le présent titre.\n\nLe contrat détermine notamment, compte tenu du programme prévu à l'article 1er ci-dessus, le nombre des embauches donnant lieu au bénéfice de la présente ordonnance, la date de prise en charge des cotisations résultant de ces embauches ainsi que les modalités de contrôle.",
+      "valid_from": "1982-01-17"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les contrats ci-dessus prévus obéissent, en ce qui concerne la procédure consultative préalable à leur conclusion et la détermination de l'autorité compétente pour les signer au nom de l'Etat, aux règles applicables aux conventions prévues à l'article L. 322-2 du code du travail."
+      "content": "Les contrats ci-dessus prévus obéissent, en ce qui concerne la procédure consultative préalable à leur conclusion et la détermination de l'autorité compétente pour les signer au nom de l'Etat, aux règles applicables aux conventions prévues à l'article L. 322-2 du code du travail.",
+      "valid_from": "1982-01-17"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Un même emploi ne peut donner lieu au bénéfice cumulé des dispositions du présent titre et de celles des autres textes qui ont prévu une prise en charge par l'Etat des cotisations définies plus haut ou d'une partie de la rémunération des personnels recrutés en application des dispositions ci-dessus."
+      "content": "Un même emploi ne peut donner lieu au bénéfice cumulé des dispositions du présent titre et de celles des autres textes qui ont prévu une prise en charge par l'Etat des cotisations définies plus haut ou d'une partie de la rémunération des personnels recrutés en application des dispositions ci-dessus.",
+      "valid_from": "1982-01-17"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "La prise en charge prévue à l'article 1er n'est définitivement acquise à l'employeur que si celui-ci a satisfait aux conditions posées par le présent titre, par les textes pris pour son application et aux stipulations du contrat.Lorsqu'en application de l'alinéa ci-dessus, le bénéfice de la prise en charge par l'Etat est retiré à l'employeur pour un ou plusieurs salariés, l'employeur n'est passible de majorations de retard pour les cotisations non payées entre la date d'embauche du salarié et celle de la notification du redressement que si sa mauvaise foi est établie."
+      "content": "La prise en charge prévue à l'article 1er n'est définitivement acquise à l'employeur que si celui-ci a satisfait aux conditions posées par le présent titre, par les textes pris pour son application et aux stipulations du contrat.Lorsqu'en application de l'alinéa ci-dessus, le bénéfice de la prise en charge par l'Etat est retiré à l'employeur pour un ou plusieurs salariés, l'employeur n'est passible de majorations de retard pour les cotisations non payées entre la date d'embauche du salarié et celle de la notification du redressement que si sa mauvaise foi est établie.",
+      "valid_from": "1982-01-17"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les modalités d'application de la présente ordonnance seront précisées par décret."
+      "content": "Les modalités d'application de la présente ordonnance seront précisées par décret.",
+      "valid_from": "1982-01-17"
     },
     {
       "provision_ref": "artexécution",
       "section": "exécution",
       "title": "Article exécution",
-      "content": "RAPPORT AU PRESIDENT DE LA REPUBLIQUE      Monsieur le Président,    La présente ordonnance a pour objet de permettre à l'Etat de conclure des contrats de solidarité avec les entreprises qui s'engageront avec le Gouvernement dans la lutte pour l'emploi. Dans le cas d'entreprises appartenant à un groupe, une convention-cadre pourra être négociée entre l'Etat et le groupe.Ces contrats de solidarité peuvent prendre différentes formes :départ en préretraite avec embauche équivalente, réduction importante de la durée du travail entraînant une augmentation des effectifs .... La présente ordonnance vient donc compléter les outils à la disposition de l'Etat pour conclure les contrats de solidarité permettant l'embauche prioritaire de jeunes et de chômeurs.Le titre Ier de l'ordonnance autorise l'Etat à prendre en charge une partie des cotisations sociales à la charge des employeurs du secteur privé lorsqu'ils procèdent à une forte réduction de la durée du travail.Pour bénéficier de l'aide de l'Etat, les entreprises devront avoir programmé une baisse de la durée du travail la rendant inférieure ou égale à trente-sept heures au 1er janvier 1983 ou à trente-six heures au 1er septembre 1983. Cette programmation pourra avoir été entreprise à compter du 15 septembre 1981 et concerner tout ou partie du personnel.Le contrat passé entre l'Etat et l'employeur devra faire mention de la négociation entre ce dernier et les représentants des salariés et précisera le nombre d'embauches pouvant ouvrir droit au bénéfice de l'aide de l'Etat. Ce nombre ne pourra excéder la valeur de l'accroissement net de l'effectif.L'aide de l'Etat sera accordée pour chaque emploi supplémentaire résultant de la réduction du temps de travail, sous forme d'une exonération des cotisations patronales de sécurité sociale.L'importance de l'aide de l'Etat accordée pour chaque embauche tiendra compte de l'effort réel de baisse de la durée du travail consenti :Si la baisse est comprise entre deux et trois heures, chaque embauche ouvrira droit à une exonération des cotisations patronales de sécurité sociale de 75 p. 100 pendant un an, puis de 50 p. 100 pendant un an ;Si la baisse est supérieure ou égale à trois heures, chaque embauche ouvrira droit à une exonération de 100 p. 100 pendant un an, puis de 75 p. 100 pendant un an.Cette prise en charge des cotisations ne pourra être cumulée, sur le même salarié, avec celle de la loi du 10 juillet 1979 (plan avenir jeunes) ni avec l'aide prévue pour la création d'emplois d'initiative locale.Le titre II de l'ordonnance a pour objet, après l'accord intervenu entre les partenaires sociaux au sein de l'U.N.E.D.I.C., de permettre le versement d'un revenu de remplacement aux salariés âgés qui cesseront volontairement d'occuper un emploi à temps complet.Tel est l'objet de la présente ordonnance que nous avons l'honneur de soumettre à votre approbation.Veuillez agréer, Monsieur le Président, l'assurance de notre profond respect."
+      "content": "RAPPORT AU PRESIDENT DE LA REPUBLIQUE      Monsieur le Président,    La présente ordonnance a pour objet de permettre à l'Etat de conclure des contrats de solidarité avec les entreprises qui s'engageront avec le Gouvernement dans la lutte pour l'emploi. Dans le cas d'entreprises appartenant à un groupe, une convention-cadre pourra être négociée entre l'Etat et le groupe.Ces contrats de solidarité peuvent prendre différentes formes :départ en préretraite avec embauche équivalente, réduction importante de la durée du travail entraînant une augmentation des effectifs .... La présente ordonnance vient donc compléter les outils à la disposition de l'Etat pour conclure les contrats de solidarité permettant l'embauche prioritaire de jeunes et de chômeurs.Le titre Ier de l'ordonnance autorise l'Etat à prendre en charge une partie des cotisations sociales à la charge des employeurs du secteur privé lorsqu'ils procèdent à une forte réduction de la durée du travail.Pour bénéficier de l'aide de l'Etat, les entreprises devront avoir programmé une baisse de la durée du travail la rendant inférieure ou égale à trente-sept heures au 1er janvier 1983 ou à trente-six heures au 1er septembre 1983. Cette programmation pourra avoir été entreprise à compter du 15 septembre 1981 et concerner tout ou partie du personnel.Le contrat passé entre l'Etat et l'employeur devra faire mention de la négociation entre ce dernier et les représentants des salariés et précisera le nombre d'embauches pouvant ouvrir droit au bénéfice de l'aide de l'Etat. Ce nombre ne pourra excéder la valeur de l'accroissement net de l'effectif.L'aide de l'Etat sera accordée pour chaque emploi supplémentaire résultant de la réduction du temps de travail, sous forme d'une exonération des cotisations patronales de sécurité sociale.L'importance de l'aide de l'Etat accordée pour chaque embauche tiendra compte de l'effort réel de baisse de la durée du travail consenti :Si la baisse est comprise entre deux et trois heures, chaque embauche ouvrira droit à une exonération des cotisations patronales de sécurité sociale de 75 p. 100 pendant un an, puis de 50 p. 100 pendant un an ;Si la baisse est supérieure ou égale à trois heures, chaque embauche ouvrira droit à une exonération de 100 p. 100 pendant un an, puis de 75 p. 100 pendant un an.Cette prise en charge des cotisations ne pourra être cumulée, sur le même salarié, avec celle de la loi du 10 juillet 1979 (plan avenir jeunes) ni avec l'aide prévue pour la création d'emplois d'initiative locale.Le titre II de l'ordonnance a pour objet, après l'accord intervenu entre les partenaires sociaux au sein de l'U.N.E.D.I.C., de permettre le versement d'un revenu de remplacement aux salariés âgés qui cesseront volontairement d'occuper un emploi à temps complet.Tel est l'objet de la présente ordonnance que nous avons l'honneur de soumettre à votre approbation.Veuillez agréer, Monsieur le Président, l'assurance de notre profond respect.",
+      "valid_from": "1982-01-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

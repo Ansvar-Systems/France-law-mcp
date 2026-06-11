@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 82-297 du 31 mars 1982 modifiant le code des pensions civiles et militaires de retraite et relative à la cessation d'activité des fonctionnaires et agents de l'Etat et de ses établissements publics à caractère administratif est ratifiée sous réserve de la modification ci-après."
+      "content": "L'ordonnance n° 82-297 du 31 mars 1982 modifiant le code des pensions civiles et militaires de retraite et relative à la cessation d'activité des fonctionnaires et agents de l'Etat et de ses établissements publics à caractère administratif est ratifiée sous réserve de la modification ci-après.",
+      "valid_from": "1984-01-04"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les fonctionnaires et les agents non titulaires de l'Etat et de ses établissements publics à caractère administratif, qui, jusqu'au 31 décembre 1983, remplissaient les conditions d'admission au bénéfice de la cessation anticipée définie au titre III de l'ordonnance mentionnée à l'article 1er, peuvent déposer, jusqu'au 30 avril 1984, une demande de cessation anticipée d'activité. Cette cessation anticipée d'activité doit prendre effet, au plus tard, le 1er juin 1984."
+      "content": "Les fonctionnaires et les agents non titulaires de l'Etat et de ses établissements publics à caractère administratif, qui, jusqu'au 31 décembre 1983, remplissaient les conditions d'admission au bénéfice de la cessation anticipée définie au titre III de l'ordonnance mentionnée à l'article 1er, peuvent déposer, jusqu'au 30 avril 1984, une demande de cessation anticipée d'activité. Cette cessation anticipée d'activité doit prendre effet, au plus tard, le 1er juin 1984.",
+      "valid_from": "1984-01-04"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "L'ordonnance n° 82-298 du 31 mars 1982 relative à la cessation progressive d'activité des agents titulaires des collectivités locales et de leurs établissements publics administratifs est ratifiée sous réserve des modifications ci-après."
+      "content": "L'ordonnance n° 82-298 du 31 mars 1982 relative à la cessation progressive d'activité des agents titulaires des collectivités locales et de leurs établissements publics administratifs est ratifiée sous réserve des modifications ci-après.",
+      "valid_from": "1984-01-04"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les personnels titulaires et non titulaires des collectivités territoriales et de leurs établissements publics administratifs qui réunissent au 31 décembre 1983 les conditions exigées par les articles 13 ou 14 de l'ordonnance n° 82-108 du 30 janvier 1982 relative aux contrats de solidarité des collectivités locales, modifiée par la loi n° 83-431 du 31 mai 1983, peuvent déposer jusqu'au 30 avril 1984 une demande de cessation anticipée d'activité. Les collectivités ou établissements qui les emploient peuvent, même s'ils n'ont pas souscrit avec l'Etat de contrat de solidarité, les autoriser à bénéficier de cet avantage, sous réserve de l'intérêt du service. Cette cessation anticipée d'activité doit prendre effet, au plus tard, au 1er juin 1984.\n\nLes bénéficiaires des dispositions du premier alinéa du présent article perçoivent le revenu de remplacement mentionné à l'article 15 de l'ordonnance précitée du 30 janvier 1982, dont la prise en charge est assurée conformément à l'article 16 de la même ordonnance. Les articles 18, 19, 20 et 21 de ladite ordonnance leur sont applicables."
+      "content": "Les personnels titulaires et non titulaires des collectivités territoriales et de leurs établissements publics administratifs qui réunissent au 31 décembre 1983 les conditions exigées par les articles 13 ou 14 de l'ordonnance n° 82-108 du 30 janvier 1982 relative aux contrats de solidarité des collectivités locales, modifiée par la loi n° 83-431 du 31 mai 1983, peuvent déposer jusqu'au 30 avril 1984 une demande de cessation anticipée d'activité. Les collectivités ou établissements qui les emploient peuvent, même s'ils n'ont pas souscrit avec l'Etat de contrat de solidarité, les autoriser à bénéficier de cet avantage, sous réserve de l'intérêt du service. Cette cessation anticipée d'activité doit prendre effet, au plus tard, au 1er juin 1984.\n\nLes bénéficiaires des dispositions du premier alinéa du présent article perçoivent le revenu de remplacement mentionné à l'article 15 de l'ordonnance précitée du 30 janvier 1982, dont la prise en charge est assurée conformément à l'article 16 de la même ordonnance. Les articles 18, 19, 20 et 21 de ladite ordonnance leur sont applicables.",
+      "valid_from": "1984-01-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

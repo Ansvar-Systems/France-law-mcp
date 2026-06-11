@@ -12,31 +12,42 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision n° 2021-818 DC du 21 mai 2021.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision n° 2021-818 DC du 21 mai 2021.]",
+      "valid_from": "2021-05-24"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les services publics peuvent assurer sur tout ou partie de leur territoire l'affichage de traductions de la langue française dans la ou les langues régionales en usage sur les inscriptions et les signalétiques apposées sur les bâtiments publics, sur les voies publiques de circulation, sur les voies navigables, dans les infrastructures de transport ainsi que dans les principaux supports de communication institutionnelle, à l'occasion de leur installation ou de leur renouvellement."
+      "content": "Les services publics peuvent assurer sur tout ou partie de leur territoire l'affichage de traductions de la langue française dans la ou les langues régionales en usage sur les inscriptions et les signalétiques apposées sur les bâtiments publics, sur les voies publiques de circulation, sur les voies navigables, dans les infrastructures de transport ainsi que dans les principaux supports de communication institutionnelle, à l'occasion de leur installation ou de leur renouvellement.",
+      "valid_from": "2021-05-24"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision n° 2021-818 DC du 21 mai 2021.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision n° 2021-818 DC du 21 mai 2021.]",
+      "valid_from": "2021-05-24"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Le Gouvernement remet annuellement au Parlement un rapport relatif à l'accueil, dans les académies concernées, des enfants dont les familles ont fait la demande d'un accueil au plus près possible de leur domicile dans les écoles maternelles ou classes enfantines en langue régionale."
+      "content": "Le Gouvernement remet annuellement au Parlement un rapport relatif à l'accueil, dans les académies concernées, des enfants dont les familles ont fait la demande d'un accueil au plus près possible de leur domicile dans les écoles maternelles ou classes enfantines en langue régionale.",
+      "valid_from": "2021-05-24"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Le Gouvernement remet annuellement au Parlement un rapport sur les conventions spécifiques conclues entre l'Etat, des collectivités territoriales et des associations de promotion des langues régionales relatives aux établissements d'enseignement de ces langues créés selon un statut de droit public ou de droit privé et sur l'opportunité de bénéficier, pour les établissements scolaires associatifs développant une pédagogie fondée sur l'usage immersif de la langue régionale, de contrats simples ou d'association avec l'Etat.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Le Gouvernement remet annuellement au Parlement un rapport sur les conventions spécifiques conclues entre l'Etat, des collectivités territoriales et des associations de promotion des langues régionales relatives aux établissements d'enseignement de ces langues créés selon un statut de droit public ou de droit privé et sur l'opportunité de bénéficier, pour les établissements scolaires associatifs développant une pédagogie fondée sur l'usage immersif de la langue régionale, de contrats simples ou d'association avec l'Etat.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2021-05-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

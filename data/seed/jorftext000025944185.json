@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code de l'urbanisme (partie législative) est applicable à Mayotte, sous réserve des dispositions particulières prévues par la présente ordonnance."
+      "content": "Le code de l'urbanisme (partie législative) est applicable à Mayotte, sous réserve des dispositions particulières prévues par la présente ordonnance.",
+      "valid_from": "2013-01-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "II.-Les dispositions du plan d'aménagement et de développement durable de Mayotte qui précisent les modalités d'application du chapitre Ier du titre II du livre Ier  du code de l'urbanisme sont applicables à toute personne publique ou privée pour l'exécution de tous travaux, constructions, installations, clôtures, défrichements, plantations, la création de lotissements, l'ouverture de terrains de camping ou de stationnement de caravanes, l'ouverture de carrières, la recherche et l'exploitation de minerais. Elles sont également applicables aux installations classées pour la protection de l'environnement."
+      "content": "II.-Les dispositions du plan d'aménagement et de développement durable de Mayotte qui précisent les modalités d'application du chapitre Ier du titre II du livre Ier  du code de l'urbanisme sont applicables à toute personne publique ou privée pour l'exécution de tous travaux, constructions, installations, clôtures, défrichements, plantations, la création de lotissements, l'ouverture de terrains de camping ou de stationnement de caravanes, l'ouverture de carrières, la recherche et l'exploitation de minerais. Elles sont également applicables aux installations classées pour la protection de l'environnement.",
+      "valid_from": "2016-01-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "La présente ordonnance entre en vigueur à une date déterminée par décret et au plus tard le 1er janvier 2013."
+      "content": "La présente ordonnance entre en vigueur à une date déterminée par décret et au plus tard le 1er janvier 2013.",
+      "valid_from": "2013-01-01"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le Premier ministre, la ministre de l'égalité des territoires et du logement et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'égalité des territoires et du logement et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2013-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

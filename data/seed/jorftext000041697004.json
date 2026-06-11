@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "A modifié les dispositions suivantes :\n\nII.-Le Gouvernement remet au Parlement un rapport sur la mise en œuvre du décret mentionné au deuxième alinéa de l'article L. 146-5 du code de l'action sociale et des familles, dans un délai de dix-huit mois à compter de l'entrée en vigueur de ce décret. Ce rapport traite notamment de l'évolution du reste à charge des personnes ayant déposé au moins une demande auprès d'un fonds départemental de compensation du handicap.\n\n- Code de l'action sociale et des familles"
+      "content": "A modifié les dispositions suivantes :\n\nII.-Le Gouvernement remet au Parlement un rapport sur la mise en œuvre du décret mentionné au deuxième alinéa de l'article L. 146-5 du code de l'action sociale et des familles, dans un délai de dix-huit mois à compter de l'entrée en vigueur de ce décret. Ce rapport traite notamment de l'évolution du reste à charge des personnes ayant déposé au moins une demande auprès d'un fonds départemental de compensation du handicap.\n\n- Code de l'action sociale et des familles",
+      "valid_from": "2020-03-08"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Un comité stratégique, dont la composition et les missions sont précisées par décret, est créé auprès du ministre chargé des personnes handicapées. Ce comité est chargé d'élaborer et de proposer, d'une part, des adaptations du droit à la compensation du handicap répondant aux spécificités des besoins des enfants et, d'autre part, des évolutions des modes de transport des personnes handicapées, intégrant tous les types de mobilités et assurant une gestion logistique et financière intégrée.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Un comité stratégique, dont la composition et les missions sont précisées par décret, est créé auprès du ministre chargé des personnes handicapées. Ce comité est chargé d'élaborer et de proposer, d'une part, des adaptations du droit à la compensation du handicap répondant aux spécificités des besoins des enfants et, d'autre part, des évolutions des modes de transport des personnes handicapées, intégrant tous les types de mobilités et assurant une gestion logistique et financière intégrée.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2020-03-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

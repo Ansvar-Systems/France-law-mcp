@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les articles 2 et 3, l'article 4 à l'exception de son II, les articles 5 à 8, 11, 12, 14, 17 à 22, 25 à 29, l'article 30 à l'exception de son III, les articles 31 à 36, 38 à 41, 43, 45 et 53 de la loi n° 2011-814 du 7 juillet 2011 relative à la bioéthique sont applicables à Wallis-et-Futuna."
+      "content": "Les articles 2 et 3, l'article 4 à l'exception de son II, les articles 5 à 8, 11, 12, 14, 17 à 22, 25 à 29, l'article 30 à l'exception de son III, les articles 31 à 36, 38 à 41, 43, 45 et 53 de la loi n° 2011-814 du 7 juillet 2011 relative à la bioéthique sont applicables à Wallis-et-Futuna.",
+      "valid_from": "2012-04-21"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "L'article 2, le 1° du III de l'article 4, les articles 6, 7, 11, 14, le I et les 1° à 3° du II de l'article 17, l'article 18, les II et III de l'article 19, l'article 20, le 1° du I de l'article 21 et le II du même article en tant qu'il modifie le deuxième alinéa de l'article L. 2131-4, les articles 22, 25, 26, 27, le II de l'article 29, le 1° de l'article 31, les articles 32 à 36, 38 à 41, 43, le I de l'article 45 et l'article 53 de la loi n° 2011-814 du 7 juillet 2011 relative à la bioéthique sont applicables en Nouvelle-Calédonie et en Polynésie française."
+      "content": "L'article 2, le 1° du III de l'article 4, les articles 6, 7, 11, 14, le I et les 1° à 3° du II de l'article 17, l'article 18, les II et III de l'article 19, l'article 20, le 1° du I de l'article 21 et le II du même article en tant qu'il modifie le deuxième alinéa de l'article L. 2131-4, les articles 22, 25, 26, 27, le II de l'article 29, le 1° de l'article 31, les articles 32 à 36, 38 à 41, 43, le I de l'article 45 et l'article 53 de la loi n° 2011-814 du 7 juillet 2011 relative à la bioéthique sont applicables en Nouvelle-Calédonie et en Polynésie française.",
+      "valid_from": "2012-04-21"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, le ministre du travail, de l'emploi et de la santé et la ministre auprès du ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, chargée de l'outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, le ministre du travail, de l'emploi et de la santé et la ministre auprès du ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, chargée de l'outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2012-04-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

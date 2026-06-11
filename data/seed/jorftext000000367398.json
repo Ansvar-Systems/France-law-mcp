@@ -12,151 +12,182 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. - La perception des impôts, produits et revenus affectés à l'Etat, aux collectivités territoriales, aux établissements publics et organismes divers habilités à les percevoir continue d'être effectuée pendant l'année 1995 conformément aux lois et règlements et aux dispositions de la présente loi de finances.II. - Sous réserve de dispositions contraires, la loi de finances s'applique :1° A l'impôt sur le revenu dû au titre de 1994 et des années suivantes ;2° A l'impôt dû par les sociétés sur leurs résultats des exercices clos à compter du 31 décembre 1994 ;3° A compter du 1er janvier 1995 pour les autres dispositions fiscales."
+      "content": "I. - La perception des impôts, produits et revenus affectés à l'Etat, aux collectivités territoriales, aux établissements publics et organismes divers habilités à les percevoir continue d'être effectuée pendant l'année 1995 conformément aux lois et règlements et aux dispositions de la présente loi de finances.II. - Sous réserve de dispositions contraires, la loi de finances s'applique :1° A l'impôt sur le revenu dû au titre de 1994 et des années suivantes ;2° A l'impôt dû par les sociétés sur leurs résultats des exercices clos à compter du 31 décembre 1994 ;3° A compter du 1er janvier 1995 pour les autres dispositions fiscales.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. Paragraphe modificateurII. Les dispositions du I s'appliquent pour les rémunérations versées à compter du 1er janvier 1995."
+      "content": "I. Paragraphe modificateurII. Les dispositions du I s'appliquent pour les rémunérations versées à compter du 1er janvier 1995.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. Paragraphe modificateurII. - Les dispositions du I s'appliquent pour les sinistres ou expropriations intervenus au cours des exercices clos à compter du 31 décembre 1994."
+      "content": "I. Paragraphe modificateurII. - Les dispositions du I s'appliquent pour les sinistres ou expropriations intervenus au cours des exercices clos à compter du 31 décembre 1994.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "I. Paragraphe modificateurII. - Les dispositions du I s'appliquent aux dépenses payées à compter du 1er octobre 1994."
+      "content": "I. Paragraphe modificateurII. - Les dispositions du I s'appliquent aux dépenses payées à compter du 1er octobre 1994.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "I. Paragraphe modificateurII. - Les dispositions du I s'appliquent aux dépenses payées à compter du 1er janvier 1994."
+      "content": "I. Paragraphe modificateurII. - Les dispositions du I s'appliquent aux dépenses payées à compter du 1er janvier 1994.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Le Gouvernement présentera au Parlement, avant le dépôt du projet de loi de finances pour 1996, un rapport sur l'application des dispositions de l'article 1647 B sexies du code général des impôts et sur une simulation des dispositions ci-après pour les années 1996 et suivantes et pour les entreprises dont le chiffre d'affaires est supérieur à 50, 100 ou 140 millions de francs.1. Un dégrèvement est accordé à chaque entreprise pour un montant égal à la différence entre ce que serait sa cotisation de taxe professionnelle calculée aux taux votés par les collectivités locales en 1994 et un plafond égal à 3,5 p. 100 de la valeur ajoutée.2. Chaque entreprise acquitte une cotisation minimale de taxe professionnelle correspondant à 0,5 p. 100, 1 p. 100, 1,5 p. 100 ou 2 p. 100 de la valeur ajoutée qu'elle produit.3. L'abattement de 16 p. 100 des bases de taxe professionnelle mentionné à l'article 1472 A bis du code général des impôts est supprimé ou modulé en fonction du rapport entre la cotisation de taxe professionnelle de l'entreprise et le montant de la valeur ajoutée qu'elle produit."
+      "content": "Le Gouvernement présentera au Parlement, avant le dépôt du projet de loi de finances pour 1996, un rapport sur l'application des dispositions de l'article 1647 B sexies du code général des impôts et sur une simulation des dispositions ci-après pour les années 1996 et suivantes et pour les entreprises dont le chiffre d'affaires est supérieur à 50, 100 ou 140 millions de francs.1. Un dégrèvement est accordé à chaque entreprise pour un montant égal à la différence entre ce que serait sa cotisation de taxe professionnelle calculée aux taux votés par les collectivités locales en 1994 et un plafond égal à 3,5 p. 100 de la valeur ajoutée.2. Chaque entreprise acquitte une cotisation minimale de taxe professionnelle correspondant à 0,5 p. 100, 1 p. 100, 1,5 p. 100 ou 2 p. 100 de la valeur ajoutée qu'elle produit.3. L'abattement de 16 p. 100 des bases de taxe professionnelle mentionné à l'article 1472 A bis du code général des impôts est supprimé ou modulé en fonction du rapport entre la cotisation de taxe professionnelle de l'entreprise et le montant de la valeur ajoutée qu'elle produit.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Les dispositions de l'article 59 de la loi n° 90-669 du 30 juillet 1990 relative à la révision générale des évaluations des immeubles retenus pour la détermination des bases des impôts directs locaux sont maintenues pour les impositions établies au titre de 1995."
+      "content": "Les dispositions de l'article 59 de la loi n° 90-669 du 30 juillet 1990 relative à la révision générale des évaluations des immeubles retenus pour la détermination des bases des impôts directs locaux sont maintenues pour les impositions établies au titre de 1995.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "I. Paragraphe modificateurII. - Ces dispositions s'appliquent aux moins-values résultant de cessions réalisées à compter du 16 novembre 1994."
+      "content": "I. Paragraphe modificateurII. - Ces dispositions s'appliquent aux moins-values résultant de cessions réalisées à compter du 16 novembre 1994.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "I. et II. Paragraphes modificateursIII. - L'amende prévue à l'article 1734 ter du code général des impôts est appliquée sur le montant des valeurs ou provisions omis sur l'état mentionné au a ter du I de l'article 219 du même code."
+      "content": "I. et II. Paragraphes modificateursIII. - L'amende prévue à l'article 1734 ter du code général des impôts est appliquée sur le montant des valeurs ou provisions omis sur l'état mentionné au a ter du I de l'article 219 du même code.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "I. à IV. Paragraphes modificateursV. - Les dispositions du présent article sont applicables à compter du 1er janvier 1995."
+      "content": "I. à IV. Paragraphes modificateursV. - Les dispositions du présent article sont applicables à compter du 1er janvier 1995.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 94-351 DC du 29 décembre 1994."
+      "content": "Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 94-351 DC du 29 décembre 1994.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art43",
       "section": "43",
       "title": "Article 43",
-      "content": "I. - Le budget annexe de l'Imprimerie nationale est supprimé à compter du 1er janvier 1995.II. - Les modalités d'application du présent article seront fixées, en tant que de besoin, par décret en Conseil d'Etat."
+      "content": "I. - Le budget annexe de l'Imprimerie nationale est supprimé à compter du 1er janvier 1995.II. - Les modalités d'application du présent article seront fixées, en tant que de besoin, par décret en Conseil d'Etat.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art59",
       "section": "59",
       "title": "Article 59",
-      "content": "I. Paragraphe modificateur.II. - Ces dispositions s'appliquent à compter de l'imposition des revenus de 1995."
+      "content": "I. Paragraphe modificateur.II. - Ces dispositions s'appliquent à compter de l'imposition des revenus de 1995.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art61",
       "section": "61",
       "title": "Article 61",
-      "content": "I. Paragraphe modificateurII. - Les dispositions du I s'appliquent pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1995."
+      "content": "I. Paragraphe modificateurII. - Les dispositions du I s'appliquent pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1995.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art63",
       "section": "63",
       "title": "Article 63",
-      "content": "I. Paragraphe modificateurII. - Les dispositions du I sont applicables à compter du 1er janvier 1995."
+      "content": "I. Paragraphe modificateurII. - Les dispositions du I sont applicables à compter du 1er janvier 1995.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art64",
       "section": "64",
       "title": "Article 64",
-      "content": "I. Paragraphe modificateur.II. - Les dispositions du I s'appliquent aux dépenses payées à compter du 1er janvier 1995."
+      "content": "I. Paragraphe modificateur.II. - Les dispositions du I s'appliquent aux dépenses payées à compter du 1er janvier 1995.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art74",
       "section": "74",
       "title": "Article 74",
-      "content": "Un protocole national fixe les modalités d'une évaluation des difficultés de fonctionnement du dispositif du revenu minimum d'insertion institué par la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion.Cette évaluation doit permettre de formuler des propositions d'aménagement de ce dispositif susceptibles d'accroître la maîtrise de la dépense publique, de favoriser l'insertion des bénéficiaires et de mieux définir le rôle des acteurs du système de protection sociale.Ces propositions sont expérimentées localement par voie conventionnelle.Un comité national, dont la composition est fixée par décret, est consulté sur le contenu du protocole national et sur sa mise en oeuvre. En outre, il assure le suivi des expérimentations locales."
+      "content": "Un protocole national fixe les modalités d'une évaluation des difficultés de fonctionnement du dispositif du revenu minimum d'insertion institué par la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion.Cette évaluation doit permettre de formuler des propositions d'aménagement de ce dispositif susceptibles d'accroître la maîtrise de la dépense publique, de favoriser l'insertion des bénéficiaires et de mieux définir le rôle des acteurs du système de protection sociale.Ces propositions sont expérimentées localement par voie conventionnelle.Un comité national, dont la composition est fixée par décret, est consulté sur le contenu du protocole national et sur sa mise en oeuvre. En outre, il assure le suivi des expérimentations locales.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art76",
       "section": "76",
       "title": "Article 76",
-      "content": "Le bénéfice du Fonds national pour le développement des adductions d'eau dans les communes rurales institué par le décret n° 54-982 du 1er octobre 1954 est étendu à la collectivité territoriale de Saint-Pierre-et-Miquelon."
+      "content": "Le bénéfice du Fonds national pour le développement des adductions d'eau dans les communes rurales institué par le décret n° 54-982 du 1er octobre 1954 est étendu à la collectivité territoriale de Saint-Pierre-et-Miquelon.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art77",
       "section": "77",
       "title": "Article 77",
-      "content": "Les dispositions régissant le compte de soutien financier de l'industrie cinématographique et de l'industrie des programmes audiovisuels sont celles résultant de l'article 12 de la loi de finances rectificative pour 1994 (n° 94-1163 du 29 décembre 1994)."
+      "content": "Les dispositions régissant le compte de soutien financier de l'industrie cinématographique et de l'industrie des programmes audiovisuels sont celles résultant de l'article 12 de la loi de finances rectificative pour 1994 (n° 94-1163 du 29 décembre 1994).",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art79",
       "section": "79",
       "title": "Article 79",
-      "content": "I. Paragraphe modificateurII. - L'âge requis pour bénéficier du fonds de solidarité institué par l'article 125 de la loi de finances pour 1992 précitée est fixé à cinquante-cinq ans."
+      "content": "I. Paragraphe modificateurII. - L'âge requis pour bénéficier du fonds de solidarité institué par l'article 125 de la loi de finances pour 1992 précitée est fixé à cinquante-cinq ans.",
+      "valid_from": "1996-01-01"
     },
     {
       "provision_ref": "art81",
       "section": "81",
       "title": "Article 81",
-      "content": "I. à V. Paragraphes modificateursVI. - Les dispositions de la loi n° 49-420 du 25 mars 1949 précitée sont applicables aux rentes perpétuelles constituées entre particuliers antérieurement au 1er janvier 1994.Le capital correspondant à la rente en perpétuel dont le rachat aura été demandé postérieurement au 30 septembre 1994 sera calculé, nonobstant toutes clauses ou conventions contraires, en tenant compte de la majoration dont cette rente a bénéficié ou aurait dû bénéficier en vertu de la présente loi.VII. - Les actions ouvertes par la loi n° 49-420 du 25 mars 1949 précitée, complétée par la loi n° 52-870 du 22 juillet 1952 et modifiée par la loi de finances pour 1994 précitée, pourront à nouveau être intentées pendant un délai de deux ans à dater de la publication de la présente loi.VIII. - Les taux de majoration fixés au IV ci-dessus sont applicables, sous les mêmes conditions de date, aux rentes viagères visées par la loi n° 48-957 du 9 juin 1948 portant majoration des rentes viagères constituées au profit des anciens combattants auprès des caisses autonomes mutualistes et par l'article 1er de la loi n° 51-695 du 24 mai 1951 précitée ainsi qu'aux rentes constituées par l'intermédiaire des sociétés mutualistes au profit des bénéficiaires de la majoration attribuée en application de l'article L. 321-9 du code de la mutualité."
+      "content": "I. à V. Paragraphes modificateursVI. - Les dispositions de la loi n° 49-420 du 25 mars 1949 précitée sont applicables aux rentes perpétuelles constituées entre particuliers antérieurement au 1er janvier 1994.Le capital correspondant à la rente en perpétuel dont le rachat aura été demandé postérieurement au 30 septembre 1994 sera calculé, nonobstant toutes clauses ou conventions contraires, en tenant compte de la majoration dont cette rente a bénéficié ou aurait dû bénéficier en vertu de la présente loi.VII. - Les actions ouvertes par la loi n° 49-420 du 25 mars 1949 précitée, complétée par la loi n° 52-870 du 22 juillet 1952 et modifiée par la loi de finances pour 1994 précitée, pourront à nouveau être intentées pendant un délai de deux ans à dater de la publication de la présente loi.VIII. - Les taux de majoration fixés au IV ci-dessus sont applicables, sous les mêmes conditions de date, aux rentes viagères visées par la loi n° 48-957 du 9 juin 1948 portant majoration des rentes viagères constituées au profit des anciens combattants auprès des caisses autonomes mutualistes et par l'article 1er de la loi n° 51-695 du 24 mai 1951 précitée ainsi qu'aux rentes constituées par l'intermédiaire des sociétés mutualistes au profit des bénéficiaires de la majoration attribuée en application de l'article L. 321-9 du code de la mutualité.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art84",
       "section": "84",
       "title": "Article 84",
-      "content": "En annexe au projet de loi de finances initiale, le Gouvernement dépose un rapport retraçant, pour les deux dernières années et le premier semestre de l'année en cours :- les dotations en capital, avances d'actionnaire et autres apports aux entreprises publiques ;- les achats et ventes par l'Etat de titres, parts ou droits de sociétés.Il en précise la nature juridique et l'imputation budgétaire."
+      "content": "En annexe au projet de loi de finances initiale, le Gouvernement dépose un rapport retraçant, pour les deux dernières années et le premier semestre de l'année en cours :- les dotations en capital, avances d'actionnaire et autres apports aux entreprises publiques ;- les achats et ventes par l'Etat de titres, parts ou droits de sociétés.Il en précise la nature juridique et l'imputation budgétaire.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art87",
       "section": "87",
       "title": "Article 87",
-      "content": "(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 94-351 DC du 29 décembre 1994)."
+      "content": "(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 94-351 DC du 29 décembre 1994).",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art88",
       "section": "88",
       "title": "Article 88",
-      "content": "A compter de la création de l'Etablissement public chargé de la gestion du musée et du domaine national de Versailles, les personnels de la Réunion des musées nationaux et de la Caisse nationale des monuments historiques recrutés sur des contrats à durée indéterminée, exerçant les fonctions de gardien, de caissier-contrôleur, de préposé aux vestiaires, ou d'hôte d'accueil, et affectés au musée et domaine national de Versailles au 31 décembre 1994 pourront, à leur demande, être nommés et titularisés avec effet à la date de création de l'Etablissement public chargé de la gestion du musée et du domaine national de Versailles dans les corps de fonctionnaires relevant du ministre chargé de la culture, dans la limite des emplois créés à cet effet par la présente loi de finances.Un décret en Conseil d'Etat fixera les conditions d'intégration et de reclassement des intéressés."
+      "content": "A compter de la création de l'Etablissement public chargé de la gestion du musée et du domaine national de Versailles, les personnels de la Réunion des musées nationaux et de la Caisse nationale des monuments historiques recrutés sur des contrats à durée indéterminée, exerçant les fonctions de gardien, de caissier-contrôleur, de préposé aux vestiaires, ou d'hôte d'accueil, et affectés au musée et domaine national de Versailles au 31 décembre 1994 pourront, à leur demande, être nommés et titularisés avec effet à la date de création de l'Etablissement public chargé de la gestion du musée et du domaine national de Versailles dans les corps de fonctionnaires relevant du ministre chargé de la culture, dans la limite des emplois créés à cet effet par la présente loi de finances.Un décret en Conseil d'Etat fixera les conditions d'intégration et de reclassement des intéressés.",
+      "valid_from": "1995-01-01"
     },
     {
       "provision_ref": "art93",
       "section": "93",
       "title": "Article 93",
-      "content": "I. à III. Paragraphes modificateursIV. - Les dispositions du présent article entrent en vigueur à compter du 1er février 1995."
+      "content": "I. à III. Paragraphes modificateursIV. - Les dispositions du présent article entrent en vigueur à compter du 1er février 1995.",
+      "valid_from": "1995-02-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

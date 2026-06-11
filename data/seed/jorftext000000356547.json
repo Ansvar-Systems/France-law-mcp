@@ -12,13 +12,21 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les services départementaux des inspections du travail ainsi que les autres services qui ont compétence pour constater les infractions relatives au travail clandestin reçoivent les moyens nécessaires à l'exercice de leurs missions."
+      "content": "Les services départementaux des inspections du travail ainsi que les autres services qui ont compétence pour constater les infractions relatives au travail clandestin reçoivent les moyens nécessaires à l'exercice de leurs missions.",
+      "valid_from": "1992-01-01"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Pour l'exercice de ses attributions, le ministre chargé du travail collecte les documents des services de contrôle constatant les faits susceptibles de constituer les infractions de travail clandestin et trafics de main-d'oeuvre en vue de réaliser des statistiques et des études sur ces matières.A cette fin, il fait procéder à leur traitement automatisé sans enregistrer aucune donnée à caractère directement nominatif."
+      "content": "Pour l'exercice de ses attributions, le ministre chargé du travail collecte les documents des services de contrôle constatant les faits susceptibles de constituer les infractions de travail clandestin et trafics de main-d'oeuvre en vue de réaliser des statistiques et des études sur ces matières.A cette fin, il fait procéder à leur traitement automatisé sans enregistrer aucune donnée à caractère directement nominatif.",
+      "valid_from": "1992-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

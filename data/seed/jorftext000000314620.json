@@ -12,55 +12,70 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "2° A l'allocation de subventions aux communes qui, cadastrées depuis trente ans au moins, demanderont le renouvellement ou la révision de leur cadastre et s'engageront à en assurer la conservation."
+      "content": "2° A l'allocation de subventions aux communes qui, cadastrées depuis trente ans au moins, demanderont le renouvellement ou la révision de leur cadastre et s'engageront à en assurer la conservation.",
+      "valid_from": "1898-03-20"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La part de l'Etat dans la dépense d'établissement et de conservation du nouveau cadastre d'une commune, fixée en tenant compte de la situation financière de la commune, ne pourra dépasser quarante pour cent (40 %) de son montant total ; le département contribuera à la dépense au moins dans la même proportion que l'Etat, et le surplus sera fourni par la commune ou les particuliers intéressés.\n\nA cet effet, des centimes additionnels à la contribution foncière des propriétés non bâties pourront être votés par les conseils généraux jusqu'à concurrence d'un centime (0 fr. 01) et par les conseils municipaux jusqu'à concurrence de cinq centimes (0 fr. 05)."
+      "content": "La part de l'Etat dans la dépense d'établissement et de conservation du nouveau cadastre d'une commune, fixée en tenant compte de la situation financière de la commune, ne pourra dépasser quarante pour cent (40 %) de son montant total ; le département contribuera à la dépense au moins dans la même proportion que l'Etat, et le surplus sera fourni par la commune ou les particuliers intéressés.\n\nA cet effet, des centimes additionnels à la contribution foncière des propriétés non bâties pourront être votés par les conseils généraux jusqu'à concurrence d'un centime (0 fr. 01) et par les conseils municipaux jusqu'à concurrence de cinq centimes (0 fr. 05).",
+      "valid_from": "1898-03-20"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Toute commune, pour être admise à profiter des avantages prévus par l'article précédent, devra instituer, préalablement à l'ouverture des opérations cadastrales et dans les conditions ci-après déterminées, soit une commission, soit un syndicat de délimitation ou de bornage.\n\nLes opérations cadastrales comprendront obligatoirement la délimitation des immeubles, le bornage restant facultatif."
+      "content": "Toute commune, pour être admise à profiter des avantages prévus par l'article précédent, devra instituer, préalablement à l'ouverture des opérations cadastrales et dans les conditions ci-après déterminées, soit une commission, soit un syndicat de délimitation ou de bornage.\n\nLes opérations cadastrales comprendront obligatoirement la délimitation des immeubles, le bornage restant facultatif.",
+      "valid_from": "1898-03-20"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La commission de délimitation ou de bornage comprendra :\n\n1° Le maire ou son délégué pris dans le conseil municipal, président ;\n\n2° Huit propriétaires de la commune, dont au moins deux forains, nommés à la majorité relative par les suffrages des contribuables inscrits à la matrice cadastrale ou de leurs mandataires, l'élection restant, en ce qui concerne le mode de scrutin et les réclamations, soumise aux règles fixées par la loi du 5 avril 1884 sur l'organisation municipale ;\n\n3° Un suppléant du juge de paix ou un notaire de canton désigné par le préfet ;\n\n4° Un agent de l'administration des contributions directes et du cadastre, désigné par le directeur local, secrétaire.\n\nLa commission pourra s'adjoindre un géomètre avec voix délibérative."
+      "content": "La commission de délimitation ou de bornage comprendra :\n\n1° Le maire ou son délégué pris dans le conseil municipal, président ;\n\n2° Huit propriétaires de la commune, dont au moins deux forains, nommés à la majorité relative par les suffrages des contribuables inscrits à la matrice cadastrale ou de leurs mandataires, l'élection restant, en ce qui concerne le mode de scrutin et les réclamations, soumise aux règles fixées par la loi du 5 avril 1884 sur l'organisation municipale ;\n\n3° Un suppléant du juge de paix ou un notaire de canton désigné par le préfet ;\n\n4° Un agent de l'administration des contributions directes et du cadastre, désigné par le directeur local, secrétaire.\n\nLa commission pourra s'adjoindre un géomètre avec voix délibérative.",
+      "valid_from": "1898-03-20"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La commission dressera un procès-verbal détaillé des ses opérations. Ses décisions seront prises à la majorité des voix, la moitié au moins des membres étant présents."
+      "content": "La commission dressera un procès-verbal détaillé des ses opérations. Ses décisions seront prises à la majorité des voix, la moitié au moins des membres étant présents.",
+      "valid_from": "1898-03-20"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le syndicat de délimitation et de bornage sera libre ou autorisé et pourra être fermé soit pour la commune entière, soit seulement pour une portion du territoire communal.\n\nL'association syndicale autorisée sera établie, soit sur la demande d'un ou plusieurs propriétaires intéressés, soit sur l'initiative du maire ou du préfet. Elle sera soumise, pour le surplus, aux dispositions qui régissent les associations constituées pour l'exécution de travaux d'amélioration agricole d'intérêt collectif, à l'exclusion des alinéas 3 et 4 de l'article 9 de la loi du 21 juin 1865, modifié par l'article 3 de la loi du 22 décembre 1888.\n\nAu cas de formation d'un syndicat libre, il sera loisible aux parties contractantes de convenir que la délimitation sera accompagnée du bornage des immeubles et qu'il sera procédé à des remembrements.\n\nLe comité directeur du syndicat libre ou autorisé sera substitué à la commission de délimitation ou de bornage pour les terrains compris dans l'association et il aura les mêmes attributions que cette commission, sans préjudice des pouvoirs particuliers qui pourront lui être conférés en cas d'association libre."
+      "content": "Le syndicat de délimitation et de bornage sera libre ou autorisé et pourra être fermé soit pour la commune entière, soit seulement pour une portion du territoire communal.\n\nL'association syndicale autorisée sera établie, soit sur la demande d'un ou plusieurs propriétaires intéressés, soit sur l'initiative du maire ou du préfet. Elle sera soumise, pour le surplus, aux dispositions qui régissent les associations constituées pour l'exécution de travaux d'amélioration agricole d'intérêt collectif, à l'exclusion des alinéas 3 et 4 de l'article 9 de la loi du 21 juin 1865, modifié par l'article 3 de la loi du 22 décembre 1888.\n\nAu cas de formation d'un syndicat libre, il sera loisible aux parties contractantes de convenir que la délimitation sera accompagnée du bornage des immeubles et qu'il sera procédé à des remembrements.\n\nLe comité directeur du syndicat libre ou autorisé sera substitué à la commission de délimitation ou de bornage pour les terrains compris dans l'association et il aura les mêmes attributions que cette commission, sans préjudice des pouvoirs particuliers qui pourront lui être conférés en cas d'association libre.",
+      "valid_from": "1898-03-20"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La délimitation provisoire prévue au paragraphe 4 de l'article 5 sera portée à la connaissance des intéressés qui auront un délai d'un an pour s'entendre sur leurs limites ou pour introduire une action devant la juridiction compétente.\n\nPassé ce délai, les limites déterminées provisoirement deviendront définitives, sauf les droits du propriétaire réel, lorsqu'il viendra à se révéler, et dont la réclamation ne pourra avoir d'effet qu'entre lui et ses voisins immédiats."
+      "content": "La délimitation provisoire prévue au paragraphe 4 de l'article 5 sera portée à la connaissance des intéressés qui auront un délai d'un an pour s'entendre sur leurs limites ou pour introduire une action devant la juridiction compétente.\n\nPassé ce délai, les limites déterminées provisoirement deviendront définitives, sauf les droits du propriétaire réel, lorsqu'il viendra à se révéler, et dont la réclamation ne pourra avoir d'effet qu'entre lui et ses voisins immédiats.",
+      "valid_from": "1898-03-20"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Après l'achèvement des travaux techniques, le plan cadastral sera déposé pendant trois mois à la mairie de la commune, où les intéressés seront admis à en prendre connaissance.\n\nA défaut de réclamation dans ledit délai, les résultats de l'arpentage seront réputés conformes à la délimitation, sous réserve de la tolérance qui sera fixée par les règlements.\n\nToutefois, en cas d'erreur matérielle, les réclamations seront toujours recevables."
+      "content": "Après l'achèvement des travaux techniques, le plan cadastral sera déposé pendant trois mois à la mairie de la commune, où les intéressés seront admis à en prendre connaissance.\n\nA défaut de réclamation dans ledit délai, les résultats de l'arpentage seront réputés conformes à la délimitation, sous réserve de la tolérance qui sera fixée par les règlements.\n\nToutefois, en cas d'erreur matérielle, les réclamations seront toujours recevables.",
+      "valid_from": "1898-03-20"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "La présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l'Etat."
+      "content": "La présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l'Etat.",
+      "valid_from": "1898-03-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

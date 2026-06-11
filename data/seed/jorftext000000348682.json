@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est autorisée la ratification de la convention internationale n° 139 concernant la prévention et le contrôle des risques professionnels causés par les substances et agents cancérogènes, adoptée à Genève le 24 juin 1974 et dont le texte est annexé à la présente loi (2).La présente loi sera exécutée comme loi de l'Etat.(2) Il sera publié ultérieurement au Journal officiel de la République française."
+      "content": "Est autorisée la ratification de la convention internationale n° 139 concernant la prévention et le contrôle des risques professionnels causés par les substances et agents cancérogènes, adoptée à Genève le 24 juin 1974 et dont le texte est annexé à la présente loi (2).La présente loi sera exécutée comme loi de l'Etat.(2) Il sera publié ultérieurement au Journal officiel de la République française.",
+      "valid_from": "1993-07-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

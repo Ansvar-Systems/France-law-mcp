@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le chapitre V du titre II du livre IV du code du sport est modifié conformément aux dispositions des articles 2 à 12 ci-après."
+      "content": "Le chapitre V du titre II du livre IV du code du sport est modifié conformément aux dispositions des articles 2 à 12 ci-après.",
+      "valid_from": "2011-07-10"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice et des libertés, le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, la ministre des sports et la ministre auprès du ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, chargée de l'outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice et des libertés, le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, la ministre des sports et la ministre auprès du ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, chargée de l'outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2011-07-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

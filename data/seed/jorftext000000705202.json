@@ -12,97 +12,119 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les orientations définies à l'article 1 nécessitent :I. - Une politique d'enseignement, de formation permanente, de recherche et de développement ayant pour objectifs prioritaires :- l'accroissement de la productivité et de la compétitivité de l'agriculture, des industries agro-alimentaires et agro-énergétiques ;- une plus grande indépendance, par la réduction des coûts des facteurs intermédiaires de production et des matières premières importées ;- la prévision et l'analyse des évolutions technologiques, économiques et structurelles et la définition des conditions d'adaptation aux données nouvelles.II. - Une politique de l'économie agricole alimentaire comportant :- une action d'orientation des productions, pour adapter celles-ci, en qualité et en quantité, aux besoins des consommateurs et à ceux des industries agricoles et alimentaires ;- un renforcement de l'organisation économique des producteurs s'exprimant notamment par un encouragement à la coopération agricole et aux industries de transformation, tant coopératives que privés ;- la promotion sur les marchés intérieur et extérieur des produits agricoles de qualité fabriqués dans une zone délimitée et bénéficiant d'une appellation d'origine contrôlée ;- une politique active d'exportations ;- une amélioration de la valorisation industrielle des produits du sol ;- une politique d'économie d'énergie et de matières premières dans le secteur agricole, de production d'énergie d'origine agricole, de récupération et de valorisation des sous-produits de l'exploitation ;- une politique de la concurrence dans les activités de production, de transformation et de distribution.III. - Une politique de protection sociale devant assurer la parité entre les agriculteurs et les autres catégories sociales.IV. - Une politique foncière contribuant à améliorer les conditions de la mise en valeur des terres et tendant :- à maîtriser l'évolution du prix des terres, à alléger les charges successorales et à maintenir le plus grand nombre d'exploitations familiales viables à responsabilité personnelle ;- à orienter l'affectation des sols en fonction des besoins de la collectivité tout en privilégiant l'activité agricole ;- à accroître le potentiel agronomique des terres agricoles.Cette politique sera adaptée aux données régionales du problème foncier. Sa mise en oeuvre sera décentralisée afin de prendre en compte les initiatives locales, notamment celles qui associent les procédures de remembrement et de zonage.V. - Une politique de la montagne et des zones défavorisées ou en difficulté en vue d'y maintenir ou d'y développer une agriculture viable et de leur permettre de participer ainsi pleinement à l'effort demandé à l'agriculture. En tant que de besoin, les dispositions législatives ou réglementaires seront adaptées aux situations particulières de ces régions. Cette politique aura notamment pur objet l'encouragement des productions agricoles de qualité, la compensation des handicaps naturels et la recherche de la complémentarité entre l'agriculture et les autres activités économiques qui s'exprime en particulier par la pluriactivité. Une valorisation des potentialités de ces régions sera obtenue par un effort particulier dans les domaines des équipements, de la recherche et du développement.VI. - Une politique d'aménagement rural et d'action régionale ayant pour objet :- de promouvoir un développement économique des campagnes grâce à la mise en oeuvre de programmes globaux et coordonnés d'aménagement des zones rurales ;- de développer l'emploi dans ces zones et d'y maintenir la population ;- d'encourager la participation des agriculteurs à l'entretien du patrimoine, au maintien des équilibres naturels et à la préservation des espèces végétales et des races animales domestiques."
+      "content": "Les orientations définies à l'article 1 nécessitent :I. - Une politique d'enseignement, de formation permanente, de recherche et de développement ayant pour objectifs prioritaires :- l'accroissement de la productivité et de la compétitivité de l'agriculture, des industries agro-alimentaires et agro-énergétiques ;- une plus grande indépendance, par la réduction des coûts des facteurs intermédiaires de production et des matières premières importées ;- la prévision et l'analyse des évolutions technologiques, économiques et structurelles et la définition des conditions d'adaptation aux données nouvelles.II. - Une politique de l'économie agricole alimentaire comportant :- une action d'orientation des productions, pour adapter celles-ci, en qualité et en quantité, aux besoins des consommateurs et à ceux des industries agricoles et alimentaires ;- un renforcement de l'organisation économique des producteurs s'exprimant notamment par un encouragement à la coopération agricole et aux industries de transformation, tant coopératives que privés ;- la promotion sur les marchés intérieur et extérieur des produits agricoles de qualité fabriqués dans une zone délimitée et bénéficiant d'une appellation d'origine contrôlée ;- une politique active d'exportations ;- une amélioration de la valorisation industrielle des produits du sol ;- une politique d'économie d'énergie et de matières premières dans le secteur agricole, de production d'énergie d'origine agricole, de récupération et de valorisation des sous-produits de l'exploitation ;- une politique de la concurrence dans les activités de production, de transformation et de distribution.III. - Une politique de protection sociale devant assurer la parité entre les agriculteurs et les autres catégories sociales.IV. - Une politique foncière contribuant à améliorer les conditions de la mise en valeur des terres et tendant :- à maîtriser l'évolution du prix des terres, à alléger les charges successorales et à maintenir le plus grand nombre d'exploitations familiales viables à responsabilité personnelle ;- à orienter l'affectation des sols en fonction des besoins de la collectivité tout en privilégiant l'activité agricole ;- à accroître le potentiel agronomique des terres agricoles.Cette politique sera adaptée aux données régionales du problème foncier. Sa mise en oeuvre sera décentralisée afin de prendre en compte les initiatives locales, notamment celles qui associent les procédures de remembrement et de zonage.V. - Une politique de la montagne et des zones défavorisées ou en difficulté en vue d'y maintenir ou d'y développer une agriculture viable et de leur permettre de participer ainsi pleinement à l'effort demandé à l'agriculture. En tant que de besoin, les dispositions législatives ou réglementaires seront adaptées aux situations particulières de ces régions. Cette politique aura notamment pur objet l'encouragement des productions agricoles de qualité, la compensation des handicaps naturels et la recherche de la complémentarité entre l'agriculture et les autres activités économiques qui s'exprime en particulier par la pluriactivité. Une valorisation des potentialités de ces régions sera obtenue par un effort particulier dans les domaines des équipements, de la recherche et du développement.VI. - Une politique d'aménagement rural et d'action régionale ayant pour objet :- de promouvoir un développement économique des campagnes grâce à la mise en oeuvre de programmes globaux et coordonnés d'aménagement des zones rurales ;- de développer l'emploi dans ces zones et d'y maintenir la population ;- d'encourager la participation des agriculteurs à l'entretien du patrimoine, au maintien des équilibres naturels et à la préservation des espèces végétales et des races animales domestiques.",
+      "valid_from": "1980-07-05"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Gouvernement s'attachera à obtenir de la Communauté économique européenne la prise en compte des objectifs de la présente loi dans les décisions de politique agricole et d'action régionale, notamment lors de la fixation des prix agricoles et des négociations portant sur les relations commerciales multilatérales et les conditions d'adhésion ou d'association de nouveaux Etats."
+      "content": "Le Gouvernement s'attachera à obtenir de la Communauté économique européenne la prise en compte des objectifs de la présente loi dans les décisions de politique agricole et d'action régionale, notamment lors de la fixation des prix agricoles et des négociations portant sur les relations commerciales multilatérales et les conditions d'adhésion ou d'association de nouveaux Etats.",
+      "valid_from": "1980-07-05"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les aides de l'Etat affectées à l'orientation des productions sont progressivement réservées aux producteurs ayant souscrit à titre collectif des contrats de production, de collecte ou de mise en marché conformes à des contrats types définis par l'autorité administrative compétente après avis du conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire.Les aides de l'Etat affectées à l'orientation des productions sont accordées au bénéficiaire dans la limite d'un plafond. Elles peuvent être différenciées par région."
+      "content": "Les aides de l'Etat affectées à l'orientation des productions sont progressivement réservées aux producteurs ayant souscrit à titre collectif des contrats de production, de collecte ou de mise en marché conformes à des contrats types définis par l'autorité administrative compétente après avis du conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire.Les aides de l'Etat affectées à l'orientation des productions sont accordées au bénéficiaire dans la limite d'un plafond. Elles peuvent être différenciées par région.",
+      "valid_from": "1986-12-31"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Nonobstant mute disposition législative contraire, les terres incultes récupérables, telles que définies au chapitre V du titre Ier du livre Ier du code rural, sont prises en considération pour la détermination de l'assiette des cotisations sociales que doivent acquitter les personnes relevant du régime agricole de protection sociale au titre de l'article 1003-7-1 du même code. Les cotisations sont dues par l'exploitant ou, à défaut, par le propriétaire. Elles sont calculées sur la base du revenu cadastrai des terres de première catégorie de la zone concernée. Toutefois, les cotisations ne sont dues par le propriétaire qu'à compter de la date à laquelle il a été informé par le préfet, en application du I de l'article 40 du code rural, des demandes d'attribution formulées conformément audit article.Les modalités d'application de cet article seront fixés par décret."
+      "content": "Nonobstant mute disposition législative contraire, les terres incultes récupérables, telles que définies au chapitre V du titre Ier du livre Ier du code rural, sont prises en considération pour la détermination de l'assiette des cotisations sociales que doivent acquitter les personnes relevant du régime agricole de protection sociale au titre de l'article 1003-7-1 du même code. Les cotisations sont dues par l'exploitant ou, à défaut, par le propriétaire. Elles sont calculées sur la base du revenu cadastrai des terres de première catégorie de la zone concernée. Toutefois, les cotisations ne sont dues par le propriétaire qu'à compter de la date à laquelle il a été informé par le préfet, en application du I de l'article 40 du code rural, des demandes d'attribution formulées conformément audit article.Les modalités d'application de cet article seront fixés par décret.",
+      "valid_from": "1980-07-05"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "I. - (paragraphe modificateur).II. - Les dispositions du 1° du I de l'article 1106-7 du code rural sont abrogées.III. (paragraphe  modificateur).IV. - La dernière phrase du cinquième alinéa de l'article 1110 du code rural est abrogée."
+      "content": "I. - (paragraphe modificateur).II. - Les dispositions du 1° du I de l'article 1106-7 du code rural sont abrogées.III. (paragraphe  modificateur).IV. - La dernière phrase du cinquième alinéa de l'article 1110 du code rural est abrogée.",
+      "valid_from": "1980-07-05"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "I. - Les retraites des exploitants agricoles sont progressivement revalorisées et adaptées en vue de garantir, à durée et effort de cotisation comparables, des prestations de même niveau que celles qui sont servies par le régime général de la sécurité sociale ou par les régimes de base des professions artisanales ou des professions industrielles et commerciales.Cette revalorisation sera fonction de l'effort contributif demandé aux assujettis. La parité sera également recherchée pour le secteur de l'action sociale en direction des familles et des personnes âgées dépendant du régime des prestations sociales agricoles.II., III., IV., V., VI. - (paragraphes modificateurs).VII. - La proratisation de la retraite forfaitaire prévue au III s'applique aux personnes visées à l'article 1121-1 du code rural ayant cotisé pour cette prestation avant l'entrée en vigueur de la présente loi.VIII., IX. - (paragraphes modificateurs)."
+      "content": "I. - Les retraites des exploitants agricoles sont progressivement revalorisées et adaptées en vue de garantir, à durée et effort de cotisation comparables, des prestations de même niveau que celles qui sont servies par le régime général de la sécurité sociale ou par les régimes de base des professions artisanales ou des professions industrielles et commerciales.Cette revalorisation sera fonction de l'effort contributif demandé aux assujettis. La parité sera également recherchée pour le secteur de l'action sociale en direction des familles et des personnes âgées dépendant du régime des prestations sociales agricoles.II., III., IV., V., VI. - (paragraphes modificateurs).VII. - La proratisation de la retraite forfaitaire prévue au III s'applique aux personnes visées à l'article 1121-1 du code rural ayant cotisé pour cette prestation avant l'entrée en vigueur de la présente loi.VIII., IX. - (paragraphes modificateurs).",
+      "valid_from": "1980-07-05"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Les règles concernant l'emploi, la formation, les conditions de travail et de rémunération des salafiés agricoles sont harmonisées avec celles applicables aux salariés du commerce et de l'industrie de manière a leur assurer une protection équivalente, en tenant compte, en ce qui concerne en particulier les dispositions relatives su temps de travail, de spécificité du secteur agricole."
+      "content": "Les règles concernant l'emploi, la formation, les conditions de travail et de rémunération des salafiés agricoles sont harmonisées avec celles applicables aux salariés du commerce et de l'industrie de manière a leur assurer une protection équivalente, en tenant compte, en ce qui concerne en particulier les dispositions relatives su temps de travail, de spécificité du secteur agricole.",
+      "valid_from": "1980-07-05"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "I. - La commission communale de réorganisation foncière et de remembrement et la commission départementale de réorganisation foncière et de remembrement prévues au chapitre Ier bis du titre Ier du livre Ier du code rural prennent respectivement la dénomination de commission communale d'aménagement foncier et de commission départementale d'aménagement foncier.II., III., IV., V., VI. - (paragraphes modificateurs)."
+      "content": "I. - La commission communale de réorganisation foncière et de remembrement et la commission départementale de réorganisation foncière et de remembrement prévues au chapitre Ier bis du titre Ier du livre Ier du code rural prennent respectivement la dénomination de commission communale d'aménagement foncier et de commission départementale d'aménagement foncier.II., III., IV., V., VI. - (paragraphes modificateurs).",
+      "valid_from": "1980-07-05"
     },
     {
       "provision_ref": "art44",
       "section": "44",
       "title": "Article 44",
-      "content": "Les articles 49, 50, 51 et 52 du code du vin sont abrogés."
+      "content": "Les articles 49, 50, 51 et 52 du code du vin sont abrogés.",
+      "valid_from": "1980-07-05"
     },
     {
       "provision_ref": "art58",
       "section": "58",
       "title": "Article 58",
-      "content": "I. - (paragraphe modificateur).II. - Les dispositions du présent article ont un caractère interprétatif."
+      "content": "I. - (paragraphe modificateur).II. - Les dispositions du présent article ont un caractère interprétatif.",
+      "valid_from": "1980-07-05"
     },
     {
       "provision_ref": "art69",
       "section": "69",
       "title": "Article 69",
-      "content": "Le fonds d'action sociale pour l'aménagement des structures agricoles créé par l'article 26 de la loi précitée n° 62-933 du 8 août 1962 est prorogé jusqu'au 31 décembre 1985."
+      "content": "Le fonds d'action sociale pour l'aménagement des structures agricoles créé par l'article 26 de la loi précitée n° 62-933 du 8 août 1962 est prorogé jusqu'au 31 décembre 1985.",
+      "valid_from": "1980-07-05"
     },
     {
       "provision_ref": "art75",
       "section": "75",
       "title": "Article 75",
-      "content": "I. - (paragraphe modificateur).II. - En conséquence, l'article L. 421-9 du code de l'urbanisme est supprimé."
+      "content": "I. - (paragraphe modificateur).II. - En conséquence, l'article L. 421-9 du code de l'urbanisme est supprimé.",
+      "valid_from": "1980-07-05"
     },
     {
       "provision_ref": "art80",
       "section": "80",
       "title": "Article 80",
-      "content": "Les lois de finances déterminent les moyens financiers nécessaires à l'application de la présente loi."
+      "content": "Les lois de finances déterminent les moyens financiers nécessaires à l'application de la présente loi.",
+      "valid_from": "1980-07-05"
     },
     {
       "provision_ref": "art81",
       "section": "81",
       "title": "Article 81",
-      "content": "Le Gouvernement déposera tous les trois ans un rapport sur l'exécution de la présente loi et sur la prise en compte de ses objectifs dans les décisions de la Communauté économique européenne en matière de politique agricole et d'action régionale. Ce rapport fera paraître, notamment par département et par région, chaque fois que l'objet le permettra, le montant des crédits affectés par l'Etat et par les établissements Publics concernés aux différentes actions poursuivies et les résultats obtenus.Pour les régions de montagne et défavorisée, ce rapport précisera l'évaluation retenue pour les surcoûts de production liés à des handicaps naturels et le montant des compensations versées, les mesures de décentralisation prises pour adapter les réglementations nationales et les résultats de ces adaptations, En tant que l'évolution des crédits d'équipement, de recherche et de développement qui leur auront été affectés."
+      "content": "Le Gouvernement déposera tous les trois ans un rapport sur l'exécution de la présente loi et sur la prise en compte de ses objectifs dans les décisions de la Communauté économique européenne en matière de politique agricole et d'action régionale. Ce rapport fera paraître, notamment par département et par région, chaque fois que l'objet le permettra, le montant des crédits affectés par l'Etat et par les établissements Publics concernés aux différentes actions poursuivies et les résultats obtenus.Pour les régions de montagne et défavorisée, ce rapport précisera l'évaluation retenue pour les surcoûts de production liés à des handicaps naturels et le montant des compensations versées, les mesures de décentralisation prises pour adapter les réglementations nationales et les résultats de ces adaptations, En tant que l'évolution des crédits d'équipement, de recherche et de développement qui leur auront été affectés.",
+      "valid_from": "1980-07-05"
     },
     {
       "provision_ref": "art82",
       "section": "82",
       "title": "Article 82",
-      "content": "Des décrets en Conseil d'Etat fixeront les modalités d'application de la présente loi."
+      "content": "Des décrets en Conseil d'Etat fixeront les modalités d'application de la présente loi.",
+      "valid_from": "1980-07-05"
     },
     {
       "provision_ref": "art83",
       "section": "83",
       "title": "Article 83",
-      "content": "En tant que de besoin, les modalités d'application de la présente loi dans les départements d'outre-mer seront fixées par des décrets en Conseil d'Etat dont la publication devra intervenir au plus tard six mois après la date de publication des décrets prévus à l'article précédent."
+      "content": "En tant que de besoin, les modalités d'application de la présente loi dans les départements d'outre-mer seront fixées par des décrets en Conseil d'Etat dont la publication devra intervenir au plus tard six mois après la date de publication des décrets prévus à l'article précédent.",
+      "valid_from": "1980-07-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

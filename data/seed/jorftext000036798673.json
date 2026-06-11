@@ -12,7 +12,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Les personnes investies d'une fonction de direction au sein d'un établissement d'enseignement privé ou qui y exercent des fonctions d'enseignement à la date d'entrée en vigueur de la présente loi peuvent continuer à exercer leurs fonctions au sein de cet établissement sans que puissent leur être opposées les dispositions des articles L. 914-3 à L. 914-5 du code de l'éducation dans leur rédaction résultant du I du présent article.\n\n- Code de l'éducation"
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Les personnes investies d'une fonction de direction au sein d'un établissement d'enseignement privé ou qui y exercent des fonctions d'enseignement à la date d'entrée en vigueur de la présente loi peuvent continuer à exercer leurs fonctions au sein de cet établissement sans que puissent leur être opposées les dispositions des articles L. 914-3 à L. 914-5 du code de l'éducation dans leur rédaction résultant du I du présent article.\n\n- Code de l'éducation",
+      "valid_from": "2018-04-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. - Il est créé au sein de la Caisse nationale de l'assurance maladie des travailleurs salariés un Fonds national de prévention. Ce fonds est destiné à financer toute action de prévention, d'éducation et d'information sanitaires propre à améliorer l'état de santé général de la population ; il peut apporter son concours à la mise en oeuvre d'actions expérimentales dans le domaine de la prévention, de l'éducation et de l'information sanitaire, conduites par des associations ou organismes privés ou non."
+      "content": "I. - Il est créé au sein de la Caisse nationale de l'assurance maladie des travailleurs salariés un Fonds national de prévention. Ce fonds est destiné à financer toute action de prévention, d'éducation et d'information sanitaires propre à améliorer l'état de santé général de la population ; il peut apporter son concours à la mise en oeuvre d'actions expérimentales dans le domaine de la prévention, de l'éducation et de l'information sanitaire, conduites par des associations ou organismes privés ou non.",
+      "valid_from": "1988-01-06"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les prestations et les salaires servant de base à leur calcul mentionnés aux articles L. 341-6 et L. 351-11 du code de la sécurité sociale, ainsi que les prestations, salaires et revenus dont les modalités de revalorisation et de majoration sont identiques, sont revalorisés de 2,6 % au 1er janvier 1988 et de 1,3 % au 1er juillet 1988."
+      "content": "Les prestations et les salaires servant de base à leur calcul mentionnés aux articles L. 341-6 et L. 351-11 du code de la sécurité sociale, ainsi que les prestations, salaires et revenus dont les modalités de revalorisation et de majoration sont identiques, sont revalorisés de 2,6 % au 1er janvier 1988 et de 1,3 % au 1er juillet 1988.",
+      "valid_from": "1988-01-06"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "L'Institut national de la statistique et des études économiques a pour obligation de publier, chaque mois, un indice représentatif des prix à la consommation d'où est exclue toute référence au prix du tabac et des boissons alcooliques."
+      "content": "L'Institut national de la statistique et des études économiques a pour obligation de publier, chaque mois, un indice représentatif des prix à la consommation d'où est exclue toute référence au prix du tabac et des boissons alcooliques.",
+      "valid_from": "1988-01-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,43 +12,56 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "A compter du 1er janvier 1979, les clauses contractuelles de révision des prix des loyers, redevances et indemnités d'occupation des locaux à usage d'habitation ou à usage mixte d'habitation et professionnel reprennent normalement effet aux dates et conditions prévues dans le contrat.Toutefois, pour l'application de ces clauses et au cas où la révision est prévue à l'issue d'une période égale ou inférieure à un an, le montant du loyer, de la redevance ou de l'indemnité d'occupation servant de référence est celui qui était autorisé par l'article 8 de la loi de finances rectificative pour 1976, n° 76-978 du 29 octobre 1976, ainsi que par les articles 1er à 6 de la loi n° 77-1457 du 29 décembre 1977 relative à diverses dispositions en matière de prix.Lorsque pour un local entrant dans le champ d'application de l'alinéa 1er du présent article et soumis aux dispositions de la loi n° 77-1457 du 29 décembre 1977, le contrat a été conclu en 1978 et qu'une révision doit intervenir en 1979, le montant du loyer auquel s'applique cette révision est celui qui était autorisé pour la première année par l'article 3 de la loi n° 77-1457 du 29 décembre 1977."
+      "content": "A compter du 1er janvier 1979, les clauses contractuelles de révision des prix des loyers, redevances et indemnités d'occupation des locaux à usage d'habitation ou à usage mixte d'habitation et professionnel reprennent normalement effet aux dates et conditions prévues dans le contrat.Toutefois, pour l'application de ces clauses et au cas où la révision est prévue à l'issue d'une période égale ou inférieure à un an, le montant du loyer, de la redevance ou de l'indemnité d'occupation servant de référence est celui qui était autorisé par l'article 8 de la loi de finances rectificative pour 1976, n° 76-978 du 29 octobre 1976, ainsi que par les articles 1er à 6 de la loi n° 77-1457 du 29 décembre 1977 relative à diverses dispositions en matière de prix.Lorsque pour un local entrant dans le champ d'application de l'alinéa 1er du présent article et soumis aux dispositions de la loi n° 77-1457 du 29 décembre 1977, le contrat a été conclu en 1978 et qu'une révision doit intervenir en 1979, le montant du loyer auquel s'applique cette révision est celui qui était autorisé pour la première année par l'article 3 de la loi n° 77-1457 du 29 décembre 1977.",
+      "valid_from": "1979-01-04"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Si le contrat prévoit la révision du prix sans en déterminer les éléments de calcul, l'augmentation du loyer, de la redevance ou de l'indemnité d'occupation ne pourra excéder, au cours de l'année 1979, celle qui aurait résulté de la variation de l'indice national du coût de la construction publié par l'Institut national de la statistique et des études économiques. Cette variation se calcule par comparaison entre les derniers indices correspondant, d'une part, à la date de la révision, d'autre part, à la date de la conclusion du contrat ou à celle de la révision précédente."
+      "content": "Si le contrat prévoit la révision du prix sans en déterminer les éléments de calcul, l'augmentation du loyer, de la redevance ou de l'indemnité d'occupation ne pourra excéder, au cours de l'année 1979, celle qui aurait résulté de la variation de l'indice national du coût de la construction publié par l'Institut national de la statistique et des études économiques. Cette variation se calcule par comparaison entre les derniers indices correspondant, d'une part, à la date de la révision, d'autre part, à la date de la conclusion du contrat ou à celle de la révision précédente.",
+      "valid_from": "1979-01-04"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Au cours du premier semestre 1979, aucun immeuble ou aucun local à usage d'habitation ou à usage mixte d'habitation et professionnel dont le dernier bail ou la dernière convention de location a pris fin depuis moins d'un an   ne peut être loué à un prix supérieur au prix qui résulterait de l'ancien bail ou de l'ancienne convention de location et de l'application des articles 1er et 2 ci-dessus.Le prix ainsi fixé est applicable pour une durée d'un an à compter de la date de location en cas de nouvelle location ou de reconduction tacite ou expresse du bail ou de la convention de location.Les mêmes dispositions sont applicables aux baux conclus en 1978 et qui entrent en vigueur au cours du premier semestre 1979.Elles ne sont pas applicables lorsque la vacance des immeubles ou locaux mentionnés à l'alinéa 1er résulte soit de la volonté du preneur seul, soit d'une décision de justice fondée sur l'inexécution des obligations du preneur."
+      "content": "Au cours du premier semestre 1979, aucun immeuble ou aucun local à usage d'habitation ou à usage mixte d'habitation et professionnel dont le dernier bail ou la dernière convention de location a pris fin depuis moins d'un an   ne peut être loué à un prix supérieur au prix qui résulterait de l'ancien bail ou de l'ancienne convention de location et de l'application des articles 1er et 2 ci-dessus.Le prix ainsi fixé est applicable pour une durée d'un an à compter de la date de location en cas de nouvelle location ou de reconduction tacite ou expresse du bail ou de la convention de location.Les mêmes dispositions sont applicables aux baux conclus en 1978 et qui entrent en vigueur au cours du premier semestre 1979.Elles ne sont pas applicables lorsque la vacance des immeubles ou locaux mentionnés à l'alinéa 1er résulte soit de la volonté du preneur seul, soit d'une décision de justice fondée sur l'inexécution des obligations du preneur.",
+      "valid_from": "1979-01-04"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions des articles 1er à 3 s'appliquent aux garages, places de stationnement, jardins ou locaux accessoires lorsqu'ils constituent des dépendances du local principal mentionné à l'article 1er."
+      "content": "Les dispositions des articles 1er à 3 s'appliquent aux garages, places de stationnement, jardins ou locaux accessoires lorsqu'ils constituent des dépendances du local principal mentionné à l'article 1er.",
+      "valid_from": "1979-01-04"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les infractions aux dispositions des articles 1er à 4 ci-dessus constituent des pratiques de prix illicites constatées, poursuivies et réprimées dans les conditions prévues par l'ordonnance n° 45-1484 du 30 juin 1945."
+      "content": "Les infractions aux dispositions des articles 1er à 4 ci-dessus constituent des pratiques de prix illicites constatées, poursuivies et réprimées dans les conditions prévues par l'ordonnance n° 45-1484 du 30 juin 1945.",
+      "valid_from": "1979-01-04"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les dispositions des articles 1er à 4 ci-dessus ne s'appliquent pas :a) Aux loyers des logements conventionnés ouvrant droit à l'aide personnalisée en application des articles L. 351-2 et L. 353-1 à L. 353-17 du code de la construction et de l'habitation ;b) Aux loyers et indemnités d'occupation calculés conformément aux dispositions de la loi n° 48-1360 du 1er septembre 1948 portant modification et codification de la législation relative aux rapports des bailleurs et locataires ou occupants de locaux d'habitation ou à usage professionnel et instituant des allocations de logement ;c) Au loyer initial des nouvelles locations consenties en application de l'article 3 bis (1° et 2°), 3 quater et 3 quinquies de la loi n° 48-1360 du 1er septembre 1948 ;d) Au loyer initial des nouvelles locations consenties en application de l'article 3 sexies de la loi n° 48-1360 du 1er septembre 1948 et faisant suite à un bail passé dans les conditions prévues à l'article 3 ter de la même loi ;e) Aux loyers, redevances et indemnités concernant les logements H.L.M. calculés en application de l'article L. 442-1 du code de la construction et de l'habitation.f) Aux loyers réglementés dans le cadre des contrats de prêts conclus entre les sociétés d'économie mixte et le Crédit foncier de France ou la caisse centrale de coopération économique."
+      "content": "Les dispositions des articles 1er à 4 ci-dessus ne s'appliquent pas :a) Aux loyers des logements conventionnés ouvrant droit à l'aide personnalisée en application des articles L. 351-2 et L. 353-1 à L. 353-17 du code de la construction et de l'habitation ;b) Aux loyers et indemnités d'occupation calculés conformément aux dispositions de la loi n° 48-1360 du 1er septembre 1948 portant modification et codification de la législation relative aux rapports des bailleurs et locataires ou occupants de locaux d'habitation ou à usage professionnel et instituant des allocations de logement ;c) Au loyer initial des nouvelles locations consenties en application de l'article 3 bis (1° et 2°), 3 quater et 3 quinquies de la loi n° 48-1360 du 1er septembre 1948 ;d) Au loyer initial des nouvelles locations consenties en application de l'article 3 sexies de la loi n° 48-1360 du 1er septembre 1948 et faisant suite à un bail passé dans les conditions prévues à l'article 3 ter de la même loi ;e) Aux loyers, redevances et indemnités concernant les logements H.L.M. calculés en application de l'article L. 442-1 du code de la construction et de l'habitation.f) Aux loyers réglementés dans le cadre des contrats de prêts conclus entre les sociétés d'économie mixte et le Crédit foncier de France ou la caisse centrale de coopération économique.",
+      "valid_from": "1979-01-04"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "En cas de renouvellement, en 1979, du bail d'un local ou d'un immeuble à usage commercial, industriel ou artisanal ainsi que d'un local mentionné à l'article 2 du décret n° 53-960 du 30 septembre 1953, le coefficient prévu à l'article 23-6 dudit décret est, par dérogation aux dispositions des alinéas 2 à 5 dudit article, fixé à 2,35."
+      "content": "En cas de renouvellement, en 1979, du bail d'un local ou d'un immeuble à usage commercial, industriel ou artisanal ainsi que d'un local mentionné à l'article 2 du décret n° 53-960 du 30 septembre 1953, le coefficient prévu à l'article 23-6 dudit décret est, par dérogation aux dispositions des alinéas 2 à 5 dudit article, fixé à 2,35.",
+      "valid_from": "1979-01-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

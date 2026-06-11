@@ -12,19 +12,28 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "I. - *Paragraphe modificateur*\n\nII. - Lorsque les recours en récupération concernant la prestation spécifique dépendance sont portés devant le tribunal de grande instance ou la cour d'appel, le ministère d'avocat n'est pas obligatoire."
+      "content": "I. - *Paragraphe modificateur*\n\nII. - Lorsque les recours en récupération concernant la prestation spécifique dépendance sont portés devant le tribunal de grande instance ou la cour d'appel, le ministère d'avocat n'est pas obligatoire.",
+      "valid_from": "2012-01-01"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "Les prestations attribuées avant la date d'application de la présente loi, en vertu des conventions mentionnées à l'article 38 de la loi n° 94-637 du 25 juillet 1994 relative à la sécurité sociale, continuent d'être servies à leurs bénéficiaires et sont prises en charge dans les conditions fixées par lesdites conventions."
+      "content": "Les prestations attribuées avant la date d'application de la présente loi, en vertu des conventions mentionnées à l'article 38 de la loi n° 94-637 du 25 juillet 1994 relative à la sécurité sociale, continuent d'être servies à leurs bénéficiaires et sont prises en charge dans les conditions fixées par lesdites conventions.",
+      "valid_from": "1997-01-01"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "Les dispositions de la présente loi entreront en vigueur le 1er janvier 1997 et seront applicables jusqu'à l'intervention d'une loi instituant une prestation d'autonomie pour les personnes âgées dépendantes."
+      "content": "Les dispositions de la présente loi entreront en vigueur le 1er janvier 1997 et seront applicables jusqu'à l'intervention d'une loi instituant une prestation d'autonomie pour les personnes âgées dépendantes.",
+      "valid_from": "1997-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

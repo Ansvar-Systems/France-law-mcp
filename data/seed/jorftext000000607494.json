@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 2005-136 du 17 février 2005 relative à la garantie de la conformité du bien au contrat due par le vendeur au consommateur est ratifiée."
+      "content": "L'ordonnance n° 2005-136 du 17 février 2005 relative à la garantie de la conformité du bien au contrat due par le vendeur au consommateur est ratifiée.",
+      "valid_from": "2006-04-06"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - Paragraphe modificateur.II. - Le premier alinéa de l'article 1386-7 du code civil est applicable en Nouvelle-Calédonie, dans les îles Wallis et Futuna, à Mayotte et dans les Terres australes et antarctiques françaises."
+      "content": "I. - Paragraphe modificateur.II. - Le premier alinéa de l'article 1386-7 du code civil est applicable en Nouvelle-Calédonie, dans les îles Wallis et Futuna, à Mayotte et dans les Terres australes et antarctiques françaises.",
+      "valid_from": "2006-04-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

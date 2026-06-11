@@ -12,7 +12,14 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Un règlement d’administration publique déterminera en tant que de besoin les conditions d’application de la présente loi.\n\nLa présente loi sera exécutée comme loi de l’Etat."
+      "content": "Un règlement d’administration publique déterminera en tant que de besoin les conditions d’application de la présente loi.\n\nLa présente loi sera exécutée comme loi de l’Etat.",
+      "valid_from": "1951-05-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

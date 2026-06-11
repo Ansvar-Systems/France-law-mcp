@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions de la loi n° 263 du 17 mai 1943 réglementant l'organisation des études en vue de l'obtention du diplôme de sage-femme, modifiée par la loi n° 191 du 24 avril 1944, sont abrogées."
+      "content": "Les dispositions de la loi n° 263 du 17 mai 1943 réglementant l'organisation des études en vue de l'obtention du diplôme de sage-femme, modifiée par la loi n° 191 du 24 avril 1944, sont abrogées.",
+      "valid_from": "2000-06-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

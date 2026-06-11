@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "Est autorisée la ratification de l'accord se rapportant à la convention des Nations unies sur le droit de la mer et portant sur la conservation et l'utilisation durable de la diversité biologique marine des zones ne relevant pas de la juridiction nationale, adopté au siège des Nations unies le 19 juin 2023 et signé à New York le 20 septembre 2023, dont le texte est annexé à la présente loi (2).La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Est autorisée la ratification de l'accord se rapportant à la convention des Nations unies sur le droit de la mer et portant sur la conservation et l'utilisation durable de la diversité biologique marine des zones ne relevant pas de la juridiction nationale, adopté au siège des Nations unies le 19 juin 2023 et signé à New York le 20 septembre 2023, dont le texte est annexé à la présente loi (2).",
+      "valid_from": "2024-11-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

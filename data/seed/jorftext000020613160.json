@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code des communes de la Nouvelle-Calédonie (partie législative) est modifié conformément aux articles 2 à 41 de la présente ordonnance."
+      "content": "Le code des communes de la Nouvelle-Calédonie (partie législative) est modifié conformément aux articles 2 à 41 de la présente ordonnance.",
+      "valid_from": "2009-05-16"
     },
     {
       "provision_ref": "art47",
       "section": "47",
       "title": "Article 47",
-      "content": "Les dispositions de la présente ordonnance relatives aux comptes, à la présentation, au contenu et à l'exécution du budget des communes, de leurs établissements publics et des groupements de communes entrent en vigueur à compter de l'exercice 2009."
+      "content": "Les dispositions de la présente ordonnance relatives aux comptes, à la présentation, au contenu et à l'exécution du budget des communes, de leurs établissements publics et des groupements de communes entrent en vigueur à compter de l'exercice 2009.",
+      "valid_from": "2009-05-16"
     },
     {
       "provision_ref": "art48",
       "section": "48",
       "title": "Article 48",
-      "content": "Les dispositions de l'article 12 sont applicables aux procédures de passation des marchés engagées postérieurement à la date de publication de la présente ordonnance au Journal officiel de la Nouvelle-Calédonie."
+      "content": "Les dispositions de l'article 12 sont applicables aux procédures de passation des marchés engagées postérieurement à la date de publication de la présente ordonnance au Journal officiel de la Nouvelle-Calédonie.",
+      "valid_from": "2009-05-16"
     },
     {
       "provision_ref": "art50",
       "section": "50",
       "title": "Article 50",
-      "content": "Dans le code des communes de la Nouvelle-Calédonie, les mots : « décret en Conseil d'Etat » sont remplacés par le mot : « décret »."
+      "content": "Dans le code des communes de la Nouvelle-Calédonie, les mots : « décret en Conseil d'Etat » sont remplacés par le mot : « décret ».",
+      "valid_from": "2009-05-16"
     },
     {
       "provision_ref": "art51",
       "section": "51",
       "title": "Article 51",
-      "content": "A modifié les dispositions suivantes :\n\nloi n° 82-213 du 2 mars 1982\n\nart. 6 et art. 11\n\nA modifié les dispositions suivantes :\n\nLoi n° 69-5 du 3 janvier 1969\n\nart. 7 et art. 8\n\nA modifié les dispositions suivantes :\n\nLoi n° 90-1247 du 29 décembre 1990\n\nart. 5"
+      "content": "A modifié les dispositions suivantes :\n\nloi n° 82-213 du 2 mars 1982\n\nart. 6 et art. 11\n\nA modifié les dispositions suivantes :\n\nLoi n° 69-5 du 3 janvier 1969\n\nart. 7 et art. 8\n\nA modifié les dispositions suivantes :\n\nLoi n° 90-1247 du 29 décembre 1990\n\nart. 5",
+      "valid_from": "2009-05-16"
     },
     {
       "provision_ref": "art52",
       "section": "52",
       "title": "Article 52",
-      "content": "Le Premier ministre, la ministre de l'intérieur, de l'outre-mer et des collectivités territoriales et le secrétaire d'Etat chargé de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'intérieur, de l'outre-mer et des collectivités territoriales et le secrétaire d'Etat chargé de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2009-05-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

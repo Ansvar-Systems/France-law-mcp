@@ -12,13 +12,21 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les dispositions prévues aux 1° et 2° du II de l'article L. 212-1 du code de l'environnement doivent avoir été mises en oeuvre pour chaque comité de bassin pour la première fois le 22 décembre 2004 au plus tard.Les dispositions prévues au III de l'article L. 212-1 du même code doivent être respectées au plus tard le 22 décembre 2009.Les schémas directeurs d'aménagement et de gestion des eaux approuvés à la date de publication de la présente loi doivent être mis à jour, au plus tard le 22 décembre 2009, conformément aux dispositions des articles L. 212-1 et L. 212-2 du même code."
+      "content": "Les dispositions prévues aux 1° et 2° du II de l'article L. 212-1 du code de l'environnement doivent avoir été mises en oeuvre pour chaque comité de bassin pour la première fois le 22 décembre 2004 au plus tard.Les dispositions prévues au III de l'article L. 212-1 du même code doivent être respectées au plus tard le 22 décembre 2009.Les schémas directeurs d'aménagement et de gestion des eaux approuvés à la date de publication de la présente loi doivent être mis à jour, au plus tard le 22 décembre 2009, conformément aux dispositions des articles L. 212-1 et L. 212-2 du même code.",
+      "valid_from": "2004-04-22"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "I. - Les dispositions des articles 1er à 6 sont applicables à Mayotte.II. Paragraphe modificateur"
+      "content": "I. - Les dispositions des articles 1er à 6 sont applicables à Mayotte.II. Paragraphe modificateur",
+      "valid_from": "2004-04-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

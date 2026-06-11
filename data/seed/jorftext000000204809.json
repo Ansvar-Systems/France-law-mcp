@@ -12,19 +12,28 @@
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "I. et II. (Paragraphes modificateurs).    III. - Les dispositions des I et II s'appliquent aux jugements de divorce prononcés à compter de l'entrée en vigueur de la présente loi et aux versements en capital se substituant à des rentes en application des articles 20 et 21."
+      "content": "I. et II. (Paragraphes modificateurs).    III. - Les dispositions des I et II s'appliquent aux jugements de divorce prononcés à compter de l'entrée en vigueur de la présente loi et aux versements en capital se substituant à des rentes en application des articles 20 et 21.",
+      "valid_from": "2000-07-01"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "I. etII (Paragraphes modificateurs).    III.    Les dispositions des I et II s'appliquent aux jugements de divorce prononcés à compter de l'entrée en vigueur de la présente loi."
+      "content": "I. etII (Paragraphes modificateurs).    III.    Les dispositions des I et II s'appliquent aux jugements de divorce prononcés à compter de l'entrée en vigueur de la présente loi.",
+      "valid_from": "2000-07-01"
     },
     {
       "provision_ref": "art19-1",
       "section": "19-1",
       "title": "Article 19-1",
-      "content": "Les dispositions des articles 1er à 16 et 20 à 23 de la présente loi sont applicables à Mayotte."
+      "content": "Les dispositions des articles 1er à 16 et 20 à 23 de la présente loi sont applicables à Mayotte.",
+      "valid_from": "2002-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

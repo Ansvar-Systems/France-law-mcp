@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "Est autorisée la ratification de la convention n° 184 de l'Organisation internationale du travail relative à la sécurité et la santé dans l'agriculture, adoptée à Genève le 21 juin 2001, et dont le texte est annexé à la présente loi (2).La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Est autorisée la ratification de la convention n° 184 de l'Organisation internationale du travail relative à la sécurité et la santé dans l'agriculture, adoptée à Genève le 21 juin 2001, et dont le texte est annexé à la présente loi (2).La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2019-04-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

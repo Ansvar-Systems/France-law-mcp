@@ -12,55 +12,70 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le bénéfice d'une assurance sociale volontaire couvrant le risque maladie et les charges de la maternité est ouvert aux personnes résidant en France qui, soit à titre personnel, soit en qualité d'ayants droit, ne relèvent pas d'un régime d'assurance maladie obligatoire."
+      "content": "Le bénéfice d'une assurance sociale volontaire couvrant le risque maladie et les charges de la maternité est ouvert aux personnes résidant en France qui, soit à titre personnel, soit en qualité d'ayants droit, ne relèvent pas d'un régime d'assurance maladie obligatoire.",
+      "valid_from": "1967-08-22"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La gestion de l'assurance volontaire prévue à l'article 1er est assurée    :-soit par le régime général d'assurance maladie, maternité des salariés ou assimilés des professions non-agricoles ou par le régime de mutualité sociale agricole des salariés des professions agricoles ;-soit par le régime d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles ;-soit par le régime de l'assurance maladie, invalidité et maternité des exploitants agricoles.Le rattachement des intéressés à l'un des régimes ci-dessus est opéré dans les conditions suivantes :a) Les personnes qui ont relevé, soit à titre personnel, soit en qualité d'ayants droit, d'un régime d'assurances sociales sont rattachées au dernier régime auquel elles ont appartenu. Toutefois, si le régime dont il s'agit est l'un de ceux visés à l'article L. 3 du Code de la sécurité sociale, les intéressés sont rattachés au régime général des salariés. Les personnes visées à l'article 2 de la loi n° 66-509 du 12 juillet 1966 modifiée sont rattachées au régime des non-salariés des professions non-agricoles.b) Les personnes qui n'ont relevé d'aucun régime sont rattachées au régime dont elles auraient relevé au titre de leur dernière activité professionnelle ou dont elles auraient été susceptibles de bénéficier en qualité d'ayants droit, si ledit régime avait existé à l'époque ;c) Les personnes qui, à aucun moment, n'ont relevé ou n'auraient été susceptibles de relever d'un régime d'assurance maladie, en application de l'alinéa b, sont rattachées au régime général des salariés ou assimilés."
+      "content": "La gestion de l'assurance volontaire prévue à l'article 1er est assurée    :-soit par le régime général d'assurance maladie, maternité des salariés ou assimilés des professions non-agricoles ou par le régime de mutualité sociale agricole des salariés des professions agricoles ;-soit par le régime d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles ;-soit par le régime de l'assurance maladie, invalidité et maternité des exploitants agricoles.Le rattachement des intéressés à l'un des régimes ci-dessus est opéré dans les conditions suivantes :a) Les personnes qui ont relevé, soit à titre personnel, soit en qualité d'ayants droit, d'un régime d'assurances sociales sont rattachées au dernier régime auquel elles ont appartenu. Toutefois, si le régime dont il s'agit est l'un de ceux visés à l'article L. 3 du Code de la sécurité sociale, les intéressés sont rattachés au régime général des salariés. Les personnes visées à l'article 2 de la loi n° 66-509 du 12 juillet 1966 modifiée sont rattachées au régime des non-salariés des professions non-agricoles.b) Les personnes qui n'ont relevé d'aucun régime sont rattachées au régime dont elles auraient relevé au titre de leur dernière activité professionnelle ou dont elles auraient été susceptibles de bénéficier en qualité d'ayants droit, si ledit régime avait existé à l'époque ;c) Les personnes qui, à aucun moment, n'ont relevé ou n'auraient été susceptibles de relever d'un régime d'assurance maladie, en application de l'alinéa b, sont rattachées au régime général des salariés ou assimilés.",
+      "valid_from": "1967-08-22"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les personnes visées par la présente ordonnance bénéficient pour elles-mêmes et leur famille au sens des dispositions applicables dans le régime auquel elles sont rattachées, des prestations en nature de l'assurance maladie et maternité, à l'exclusion des frais d'hébergement afférents à des séjours continus ou successifs d'une durée supérieure à trois ans dans des établissements de soins de quelque nature que ce soit.\n\nCes prestations sont calculées suivant les tarifs et conformément aux modalités particulières à chacun des régimes auxquels les intéressés sont rattachés."
+      "content": "Les personnes visées par la présente ordonnance bénéficient pour elles-mêmes et leur famille au sens des dispositions applicables dans le régime auquel elles sont rattachées, des prestations en nature de l'assurance maladie et maternité, à l'exclusion des frais d'hébergement afférents à des séjours continus ou successifs d'une durée supérieure à trois ans dans des établissements de soins de quelque nature que ce soit.\n\nCes prestations sont calculées suivant les tarifs et conformément aux modalités particulières à chacun des régimes auxquels les intéressés sont rattachés.",
+      "valid_from": "1967-08-22"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La couverture des prestations en nature de l'assurance maladie et maternité visées à l'article 3 ci-dessus est assurée par des cotisations calculées sur des bases forfaitaires tenant compte, notamment, des ressources des intéressés       . Le montant desdites cotisations est fixé pour chacun des régimes d'assurance mentionnés à l'article 2 ci-dessus par arrêté du ministre des Affaires sociales, du ministre de l'Economie et des Finances et, le cas échéant, du ministre de l'Agriculture."
+      "content": "La couverture des prestations en nature de l'assurance maladie et maternité visées à l'article 3 ci-dessus est assurée par des cotisations calculées sur des bases forfaitaires tenant compte, notamment, des ressources des intéressés       . Le montant desdites cotisations est fixé pour chacun des régimes d'assurance mentionnés à l'article 2 ci-dessus par arrêté du ministre des Affaires sociales, du ministre de l'Economie et des Finances et, le cas échéant, du ministre de l'Agriculture.",
+      "valid_from": "1967-08-22"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La cotisation est à la charge exclusive des assurés volontaires. Toutefois, en cas d'insuffisance des ressources, tenant notamment à l'incapacité dûment constatée de se livrer à une activité professionnelle rémunératrice, la cotisation des intéressés peut être prise en charge, en totalité ou partiellement, par le service départemental d'aide sociale, conformément aux règles fixées par le titre III du Code de la famille et de l'aide sociale."
+      "content": "La cotisation est à la charge exclusive des assurés volontaires. Toutefois, en cas d'insuffisance des ressources, tenant notamment à l'incapacité dûment constatée de se livrer à une activité professionnelle rémunératrice, la cotisation des intéressés peut être prise en charge, en totalité ou partiellement, par le service départemental d'aide sociale, conformément aux règles fixées par le titre III du Code de la famille et de l'aide sociale.",
+      "valid_from": "1967-08-22"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "La demande d'adhésion à l'assurance sociale volontaire instituée par la présente ordonnance doit être formulée dans le délai d'un an à compter, selon les cas, soit, initialement, à partir d'une date fixée par décret, soit de la date à laquelle les intéressés cesseront de bénéficier, en qualité d'assuré ou d'ayants droit, d'un régime d'assurance maladie et maternité, soit de la date à laquelle ils se trouveront dans une situation leur ouvrant droit au bénéfice de l'assurance volontaire.\n\nToutefois, les demandes présentées après l'expiration du délai imparti à l'alinéa précédent pourront être satisfaites sous la condition que le demandeur acquitte les cotisations afférentes à la période écoulée depuis la date d'ouverture du droit au bénéfice de l'assurance volontaire, dans la limite des cinq dernières années précédant la demande."
+      "content": "La demande d'adhésion à l'assurance sociale volontaire instituée par la présente ordonnance doit être formulée dans le délai d'un an à compter, selon les cas, soit, initialement, à partir d'une date fixée par décret, soit de la date à laquelle les intéressés cesseront de bénéficier, en qualité d'assuré ou d'ayants droit, d'un régime d'assurance maladie et maternité, soit de la date à laquelle ils se trouveront dans une situation leur ouvrant droit au bénéfice de l'assurance volontaire.\n\nToutefois, les demandes présentées après l'expiration du délai imparti à l'alinéa précédent pourront être satisfaites sous la condition que le demandeur acquitte les cotisations afférentes à la période écoulée depuis la date d'ouverture du droit au bénéfice de l'assurance volontaire, dans la limite des cinq dernières années précédant la demande.",
+      "valid_from": "1967-08-22"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les travailleurs salariés qui, tout en continuant à relever en cette qualité d'un régime obligatoire d'assurance maladie et maternité, cessent de travailler un nombre d'heures suffisant pour recevoir les prestations en nature de cette assurance, peuvent invoquer le bénéfice de la présente ordonnance.\n\nDans ce cas les cotisations d'assurances sociales versées pour le compte de l'assuré, au titre de l'assurance obligatoire, sont déduites du montant des cotisations dues par lui au titre de l'assurance sociale volontaire."
+      "content": "Les travailleurs salariés qui, tout en continuant à relever en cette qualité d'un régime obligatoire d'assurance maladie et maternité, cessent de travailler un nombre d'heures suffisant pour recevoir les prestations en nature de cette assurance, peuvent invoquer le bénéfice de la présente ordonnance.\n\nDans ce cas les cotisations d'assurances sociales versées pour le compte de l'assuré, au titre de l'assurance obligatoire, sont déduites du montant des cotisations dues par lui au titre de l'assurance sociale volontaire.",
+      "valid_from": "1967-08-22"
     },
     {
       "provision_ref": "art7-2",
       "section": "7-2",
       "title": "Article 7-2",
-      "content": "Les personnes qui, avant la date de promulgation de la loi n° 68-698 du 31 juillet 1968 ont adhéré, pour l'ouverture des risques maladie et des charges de la maternité, à l'assurance volontaire instituée par l'article L. 244 du Code de la sécurité sociale, bénéficieront du régime institué par la présente ordonnance à moins qu'elles n'optent pour le maintien de la législation qui leur était antérieurement applicable.\n\nUn décret fixera le délai dans lequel ce droit d'option devra être exercé.\n\nToutefois, les dispositions ci-dessus ne font pas obstacle à l'exercice du droit d'option ouvert aux bénéficiaires de l'article 3-II de la loi n° 66-509 du 12 juillet 1966 modifiée."
+      "content": "Les personnes qui, avant la date de promulgation de la loi n° 68-698 du 31 juillet 1968 ont adhéré, pour l'ouverture des risques maladie et des charges de la maternité, à l'assurance volontaire instituée par l'article L. 244 du Code de la sécurité sociale, bénéficieront du régime institué par la présente ordonnance à moins qu'elles n'optent pour le maintien de la législation qui leur était antérieurement applicable.\n\nUn décret fixera le délai dans lequel ce droit d'option devra être exercé.\n\nToutefois, les dispositions ci-dessus ne font pas obstacle à l'exercice du droit d'option ouvert aux bénéficiaires de l'article 3-II de la loi n° 66-509 du 12 juillet 1966 modifiée.",
+      "valid_from": "1968-08-02"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Un décret en Conseil d'Etat déterminera les modalités d'application de la présente ordonnance."
+      "content": "Un décret en Conseil d'Etat déterminera les modalités d'application de la présente ordonnance.",
+      "valid_from": "1967-08-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

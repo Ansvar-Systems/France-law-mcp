@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les livres II et VIII du code de commerce sont modifiés conformément aux articles 2 à 36."
+      "content": "Les livres II et VIII du code de commerce sont modifiés conformément aux articles 2 à 36.",
+      "valid_from": "2014-08-03"
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "I. - Le conseil d'administration ou, selon le cas, le conseil de surveillance d'une société anonyme peut décider de ne pas appliquer les articles L. 225-40-1 et L. 225-88-1 du code de commerce aux conventions autorisées avant la date de publication de la présente ordonnance et qui entrent dans le champ d'application des articles L. 225-39 et L. 225-87 du même code dans leur rédaction issue de l'ordonnance.II. - Les dispositions de l'article 12 entrent en vigueur le 6 octobre 2014.III. - Les dispositions de l'article 13 entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er octobre 2016.IV. - Les dispositions des articles 14, 15 et 16 entrent en vigueur le 1er avril 2015.V. - Les dispositions du chapitre V sont applicables aux obligations émises à compter de la date d'entrée en vigueur de celui-ci."
+      "content": "I. - Le conseil d'administration ou, selon le cas, le conseil de surveillance d'une société anonyme peut décider de ne pas appliquer les articles L. 225-40-1 et L. 225-88-1 du code de commerce aux conventions autorisées avant la date de publication de la présente ordonnance et qui entrent dans le champ d'application des articles L. 225-39 et L. 225-87 du même code dans leur rédaction issue de l'ordonnance.II. - Les dispositions de l'article 12 entrent en vigueur le 6 octobre 2014.III. - Les dispositions de l'article 13 entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er octobre 2016.IV. - Les dispositions des articles 14, 15 et 16 entrent en vigueur le 1er avril 2015.V. - Les dispositions du chapitre V sont applicables aux obligations émises à compter de la date d'entrée en vigueur de celui-ci.",
+      "valid_from": "2014-08-03"
     },
     {
       "provision_ref": "art39",
       "section": "39",
       "title": "Article 39",
-      "content": "La présente ordonnance, à l'exception du II de l'article 3, est applicable dans les îles Wallis et Futuna."
+      "content": "La présente ordonnance, à l'exception du II de l'article 3, est applicable dans les îles Wallis et Futuna.",
+      "valid_from": "2014-08-03"
     },
     {
       "provision_ref": "art40",
       "section": "40",
       "title": "Article 40",
-      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'économie, du redressement productif et du numérique et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'économie, du redressement productif et du numérique et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2014-08-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

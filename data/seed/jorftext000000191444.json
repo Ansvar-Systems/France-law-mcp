@@ -12,13 +12,21 @@
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les dispositions de la présente loi entrent en vigueur le 1er janvier 1999.Toutefois, les dispositions du troisième alinéa de l'article 1er de la loi n° 93-980 du 4 août 1993 précitée, dans sa rédaction résultant de la présente loi, entrent en vigueur, aux fins de la mise en place du Système européen de banques centrales, dès la date à laquelle les membres du directoire de la Banque centrale européenne sont nommés, dans les conditions prévues à l'article 109 L, paragraphe 1, du traité instituant la Communauté européenne. Il en va de même du deuxième alinéa de l'article 19 de ladite loi dans sa rédaction résultant de la présente loi."
+      "content": "Les dispositions de la présente loi entrent en vigueur le 1er janvier 1999.Toutefois, les dispositions du troisième alinéa de l'article 1er de la loi n° 93-980 du 4 août 1993 précitée, dans sa rédaction résultant de la présente loi, entrent en vigueur, aux fins de la mise en place du Système européen de banques centrales, dès la date à laquelle les membres du directoire de la Banque centrale européenne sont nommés, dans les conditions prévues à l'article 109 L, paragraphe 1, du traité instituant la Communauté européenne. Il en va de même du deuxième alinéa de l'article 19 de ladite loi dans sa rédaction résultant de la présente loi.",
+      "valid_from": "1998-05-13"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "La loi n° 93-944 du 23 juillet 1993 approuvant une convention conclue entre le ministre de l'économie et le gouverneur de la Banque de France et la convention ainsi approuvée cessent d'avoir effet à la date de la publication au Journal officiel de la convention conclue en application du troisième alinéa de l'article 2 de la loi n° 93-980 du 4 août 1993 précitée dans sa rédaction résultant de la présente loi."
+      "content": "La loi n° 93-944 du 23 juillet 1993 approuvant une convention conclue entre le ministre de l'économie et le gouverneur de la Banque de France et la convention ainsi approuvée cessent d'avoir effet à la date de la publication au Journal officiel de la convention conclue en application du troisième alinéa de l'article 2 de la loi n° 93-980 du 4 août 1993 précitée dans sa rédaction résultant de la présente loi.",
+      "valid_from": "1999-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

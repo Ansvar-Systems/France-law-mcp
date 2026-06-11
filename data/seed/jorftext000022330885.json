@@ -12,31 +12,42 @@
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "3° Sont abrogés les articles Ier, IV, XII, XIII et XIV de la loi du 21 ventôse an VII."
+      "content": "3° Sont abrogés les articles Ier, IV, XII, XIII et XIV de la loi du 21 ventôse an VII.",
+      "valid_from": "2013-01-01"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Les I, III, V, VIII, les 1° et 2° du XI, le 1° du XIII de l'article 13, les I et II de l'article 14, les 1° et 3° de l'article 15 et le I de l'article 18 de la présente ordonnance sont applicables à Mayotte."
+      "content": "Les I, III, V, VIII, les 1° et 2° du XI, le 1° du XIII de l'article 13, les I et II de l'article 14, les 1° et 3° de l'article 15 et le I de l'article 18 de la présente ordonnance sont applicables à Mayotte.",
+      "valid_from": "2013-01-01"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Les dispositions de la présente ordonnance ne sont pas applicables au conservateur des registres du cinéma et de l'audiovisuel mentionné aux articles L. 121-2, L. 122-1, L. 122-2, L. 123-4 et L. 125-1 du code du cinéma et de l'image animée."
+      "content": "Les dispositions de la présente ordonnance ne sont pas applicables au conservateur des registres du cinéma et de l'audiovisuel mentionné aux articles L. 121-2, L. 122-1, L. 122-2, L. 123-4 et L. 125-1 du code du cinéma et de l'image animée.",
+      "valid_from": "2013-01-01"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "I. ― Les dispositions de la présente ordonnance entrent en vigueur à compter du 1er janvier 2013.La responsabilité de l'Etat est substituée, à cette date, à celle incombant aux conservateurs des hypothèques, au titre des préjudices résultant de l'exécution des missions civiles effectuées par ces derniers jusqu'au 31 décembre 2012. L'Etat est, corrélativement, substitué aux conservateurs des hypothèques dans les droits et biens qui garantissent cette responsabilité en application du chapitre IV du titre Ier de la loi du 21 ventôse an VII.II. ― Les salaires des conservateurs des hypothèques dus en application de l'article 881 du code général des impôts, dans sa rédaction en vigueur au 31 décembre 2012, sont acquittés au profit du Trésor à compter du 1er janvier 2013.Le paiement des salaires des conservateurs des hypothèques, exigé sur le fondement d'avis de mise en recouvrement prévus à l'article L. 256 du livre des procédures fiscales, est effectué au profit du Trésor à compter du 1er janvier 2013."
+      "content": "I. ― Les dispositions de la présente ordonnance entrent en vigueur à compter du 1er janvier 2013.La responsabilité de l'Etat est substituée, à cette date, à celle incombant aux conservateurs des hypothèques, au titre des préjudices résultant de l'exécution des missions civiles effectuées par ces derniers jusqu'au 31 décembre 2012. L'Etat est, corrélativement, substitué aux conservateurs des hypothèques dans les droits et biens qui garantissent cette responsabilité en application du chapitre IV du titre Ier de la loi du 21 ventôse an VII.II. ― Les salaires des conservateurs des hypothèques dus en application de l'article 881 du code général des impôts, dans sa rédaction en vigueur au 31 décembre 2012, sont acquittés au profit du Trésor à compter du 1er janvier 2013.Le paiement des salaires des conservateurs des hypothèques, exigé sur le fondement d'avis de mise en recouvrement prévus à l'article L. 256 du livre des procédures fiscales, est effectué au profit du Trésor à compter du 1er janvier 2013.",
+      "valid_from": "2013-01-01"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Le Premier ministre, la ministre de l'économie, de l'industrie et de l'emploi et le ministre du budget, des comptes publics et de la réforme de l'Etat sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'économie, de l'industrie et de l'emploi et le ministre du budget, des comptes publics et de la réforme de l'Etat sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2013-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

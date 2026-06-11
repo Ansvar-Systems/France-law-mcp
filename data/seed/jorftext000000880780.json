@@ -12,43 +12,56 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les biens immobiliers sous séquestre définis à l'article 2 ci-dessous sont restitués, dans les conditions prévues par la présente loi, aux ressortissants allemands qui en étaient propriétaires à la date du 2 septembre 1939, ou à leurs ayants droit.Les ressortissants allemands qui ont recueilli de ressortissants non allemands de tels biens immobiliers par voie de succession entre le 2 septembre 1939 et le 1er juin 1946, bénéficient également de cette restitution."
+      "content": "Les biens immobiliers sous séquestre définis à l'article 2 ci-dessous sont restitués, dans les conditions prévues par la présente loi, aux ressortissants allemands qui en étaient propriétaires à la date du 2 septembre 1939, ou à leurs ayants droit.Les ressortissants allemands qui ont recueilli de ressortissants non allemands de tels biens immobiliers par voie de succession entre le 2 septembre 1939 et le 1er juin 1946, bénéficient également de cette restitution.",
+      "valid_from": "1984-01-04"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les biens immobiliers visés à l'article 1er sont ceux qui, étant situés sur le territoire français, ont été placés sous séquestre en application de l'ordonnance du 5 octobre 1944, n'ont pas fait l'objet depuis le 2 septembre 1939 d'une cession par les propriétaires allemands à des personnes physiques ou morales autres qu'allemandes et n'ont pas été liquidés ou expropriés pour cause d'utilité publique par les autorités françaises."
+      "content": "Les biens immobiliers visés à l'article 1er sont ceux qui, étant situés sur le territoire français, ont été placés sous séquestre en application de l'ordonnance du 5 octobre 1944, n'ont pas fait l'objet depuis le 2 septembre 1939 d'une cession par les propriétaires allemands à des personnes physiques ou morales autres qu'allemandes et n'ont pas été liquidés ou expropriés pour cause d'utilité publique par les autorités françaises.",
+      "valid_from": "1984-01-04"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les biens immobiliers définis à l'article 2, qui ont fait l'objet d'un contrat d'exploitation au profit de personnes physiques ou morales, seront restitués selon les procédures et dans les conditions fixées par la présente loi, à charge pour l'ayant droit de respecter les droits de l'exploitant."
+      "content": "Les biens immobiliers définis à l'article 2, qui ont fait l'objet d'un contrat d'exploitation au profit de personnes physiques ou morales, seront restitués selon les procédures et dans les conditions fixées par la présente loi, à charge pour l'ayant droit de respecter les droits de l'exploitant.",
+      "valid_from": "1984-01-04"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Pour bénéficier de la restitution, les personnes visées à l'article 1er doivent adresser une demande aux autorités françaises compétentes dans les trois années suivant l'entrée en vigueur de la présente loi."
+      "content": "Pour bénéficier de la restitution, les personnes visées à l'article 1er doivent adresser une demande aux autorités françaises compétentes dans les trois années suivant l'entrée en vigueur de la présente loi.",
+      "valid_from": "1984-01-04"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La restitution est constatée par un procès-verbal établi contradictoirement entre les autorités françaises compétentes et les ayants droit. Elle prend effet à la date de ce procès-verbal.En cas de procédure judiciaire en cours, le bénéficiaire est substitué à l'administration."
+      "content": "La restitution est constatée par un procès-verbal établi contradictoirement entre les autorités françaises compétentes et les ayants droit. Elle prend effet à la date de ce procès-verbal.En cas de procédure judiciaire en cours, le bénéficiaire est substitué à l'administration.",
+      "valid_from": "1984-01-04"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "La propriété de l'immeuble situé à Paris, 25, rue Blanche, est attribuée, sur sa demande, à l'association cultuelle dite \"Eglise évangélique allemande en France\", dont le siège est à Paris.Cette attribution ne donne lieu à la perception d'aucun droit, impôt ou taxe."
+      "content": "La propriété de l'immeuble situé à Paris, 25, rue Blanche, est attribuée, sur sa demande, à l'association cultuelle dite \"Eglise évangélique allemande en France\", dont le siège est à Paris.Cette attribution ne donne lieu à la perception d'aucun droit, impôt ou taxe.",
+      "valid_from": "1984-01-04"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les biens visés par la présente loi sont remis dans l'état où ils se trouvent, soit à la date du procès-verbal prévu à l'article 5, soit à la date de l'attribution de propriété résultant de l'article 6, sans que le bénéficiaire puisse prétendre aux fruits et produits perçus antérieurement ni faire valoir un droit à indemnisation pour quelque cause que ce soit et à l'encontre de qui que ce soit."
+      "content": "Les biens visés par la présente loi sont remis dans l'état où ils se trouvent, soit à la date du procès-verbal prévu à l'article 5, soit à la date de l'attribution de propriété résultant de l'article 6, sans que le bénéficiaire puisse prétendre aux fruits et produits perçus antérieurement ni faire valoir un droit à indemnisation pour quelque cause que ce soit et à l'encontre de qui que ce soit.",
+      "valid_from": "1984-01-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

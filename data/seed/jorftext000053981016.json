@@ -1,0 +1,25 @@
+{
+  "id": "jorftext000053981016",
+  "type": "statute",
+  "title": "Ordonnance n°2026-326 du 29 avril 2026",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053981016",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le Premier ministre et la ministre de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2026-05-01"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

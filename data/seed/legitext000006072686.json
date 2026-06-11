@@ -1,0 +1,53 @@
+{
+  "id": "legitext000006072686",
+  "type": "statute",
+  "title": "Loi n° 45-15 du 2 décembre 1945",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072686/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "A compter du 1er janvier 1946, la Banque de France est nationalisée.\n\nElle continue à assurer seule l'émission des billets de banque sur l'ensemble du territoire métropolitain.\n\nLes actions de la Banque sont transférées à l'Etat, qui les détient en propriété. Les conseillers et censeurs désignés par les actionnaires cessent d'exercer leurs fonctions le 31 décembre 1945.",
+      "valid_from": "1945-12-03"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La composition du Conseil général, les statuts de la Banque de France et le régime des impôts et redevances qui lui sont applicables doivent être modifiés et complétés par une loi avant le 28 février 1946.La banque continue à être régie par les dispositions de la législation commerciale dans la mesure où il n'y est pas dérogé par les lois et statuts qui lui sont propres.",
+      "valid_from": "1945-12-03"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Sont nationalisées dans les conditions fixées par les articles 7 à 10 ci-après, le Crédit lyonnais, la Société générale pour favoriser le développement du commerce et de l'industrie en France, le Comptoir national d'escompte de Paris, la Banque nationale pour le commerce et l'industrie.",
+      "valid_from": "1945-12-03"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "A compter du 1er janvier 1946, les entreprises de banques visées à l'article 6 de la présente loi sont transférées en toute propriété avec l'ensemble de leur patrimoine à l'Etat, qui se libère, à l'égard des actionnaires, dans les conditions fixées à l'article 8 ci-après.\n\nA la même date, les pouvoirs des conseils d'administration prennent fin et les administrateurs nouveaux, désignés conformément à l'article 9 de la présente loi, entrent en fonctions.\n\nPour la période comprise entre la date de promulgation de la présente loi et le 1er janvier 1946, le ministre de l'économie et des finances désigne auprès de chacune des banques nationalisées un commissaire du Gouvernement qui assiste à toutes les séances du conseil d'administration et des comités constitués dans son sein, ainsi qu'aux séances éventuelles de l'assemblée générale d'actionnaires. Il a un droit de veto absolu sur toutes les décisions du conseil d'administration ou des comités constitués dans son sein.",
+      "valid_from": "1945-12-03"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "A la date du 1er janvier 1946, les actions des établissements nationalisés sont transférées à l'Etat.\n\nLes banques visées à l'article 6 de la présente loi remettent aux actionnaires, en échange de leurs actions, des parts bénéficiaires nominatives qui reçoivent, à partir de l'année 1946, une répartition fixée chaque année par le conseil d'administration et qui ne pourra être inférieure au dividende distribué aux actions pour l'exercice 1944 ou à 3 % de la valeur de rachat fixée à l'alinéa suivant. Ce minimum sera considéré comme une charge d'exploitation et garanti par l'Etat.\n\nContrairement aux dispositions des articles 2 et 8 de la loi du 2 décembre 1945, il ne sera pas tenu compte de la date d'acquisition pour le calcul du prix de rachat des actions de la Banque de France et des autres banques nationalisées en vertu de la loi du 2 décembre 1945.\n\nL'Etat rachète chaque année, à partir du 1er janvier 1947, un cinquantième au moins des parts bénéficiaires en circulation à cette date. Le prix de rachat est égal au cours moyen de l'action en Bourse de Paris pendant la période du 1er septembre 1944 au 31 octobre 1945. Toutefois, les actions acquises en Bourse entre le 1er septembre 1945 et la date de la promulgation de la présente loi ne peuvent être échangées contre des parts représentant un prix de remboursement supérieur au prix d'acquisition desdites actions.\n\nLes actionnaires des banques nationalisées contre lesquels est ouverte une instruction et ceux qui sont cités devant une cour de justice, une chambre civique, un tribunal militaire, un comité de confiscation des profits illicites, ne peuvent recevoir l'indemnité de rachat prévue au présent article, ni disposer de leurs titres avant décision de l'autorité judiciaire ou administrative compétente.",
+      "valid_from": "1945-12-03"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

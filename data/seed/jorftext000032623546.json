@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code de commerce est modifié conformément aux articles 2 à 19 de la présente ordonnance."
+      "content": "Le code de commerce est modifié conformément aux articles 2 à 19 de la présente ordonnance.",
+      "valid_from": "2017-01-01"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "Les articles 19 et 25 sont applicables dans les îles Wallis et Futuna."
+      "content": "Les articles 19 et 25 sont applicables dans les îles Wallis et Futuna.",
+      "valid_from": "2017-01-01"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "La présente ordonnance entre en vigueur le 1er janvier 2017, à l'exception des dispositions du 3° du I et du III de l'article 19 qui entrent en vigueur le 18 juin 2016.Elle est applicable aux procédures ouvertes après son entrée en vigueur."
+      "content": "La présente ordonnance entre en vigueur le 1er janvier 2017, à l'exception des dispositions du 3° du I et du III de l'article 19 qui entrent en vigueur le 18 juin 2016.Elle est applicable aux procédures ouvertes après son entrée en vigueur.",
+      "valid_from": "2017-01-01"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

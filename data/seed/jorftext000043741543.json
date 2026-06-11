@@ -12,25 +12,35 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "A modifié les dispositions suivantes :\n\n-Code monétaire et financier\n\n-LOI n° 2014-617 du 13 juin 2014\n\n-Code général des impôts, CGI.\n\n-Code monétaire et financier"
+      "content": "A modifié les dispositions suivantes :\n\n-Code monétaire et financier\n\n-LOI n° 2014-617 du 13 juin 2014\n\n-Code général des impôts, CGI.\n\n-Code monétaire et financier",
+      "valid_from": "2021-07-03"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- LOI n° 2018-699 du 3 août 2018\n\nII. - Le I s'applique à compter du 1er janvier suivant la publication de la présente loi."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- LOI n° 2018-699 du 3 août 2018\n\nII. - Le I s'applique à compter du 1er janvier suivant la publication de la présente loi.",
+      "valid_from": "2021-07-03"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport visant, d'une part, à établir un état des lieux de la fiscalité liée aux dons et des autres voies et moyens de développement et de promotion de la philanthropie et, d'autre part, à déterminer les conséquences des mesures fiscales des cinq dernières années sur le montant des dons aux associations et aux fondations."
+      "content": "Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport visant, d'une part, à établir un état des lieux de la fiscalité liée aux dons et des autres voies et moyens de développement et de promotion de la philanthropie et, d'autre part, à déterminer les conséquences des mesures fiscales des cinq dernières années sur le montant des dons aux associations et aux fondations.",
+      "valid_from": "2021-07-03"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "A modifié les dispositions suivantes :\n\n- Code de la route.\n\nLa présente loi sera exécutée comme loi de l'Etat."
+      "content": "A modifié les dispositions suivantes :\n\n- Code de la route.\n\nLa présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2021-07-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

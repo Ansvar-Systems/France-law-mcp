@@ -12,7 +12,14 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I.-L'article L. 5211-12 du code général des collectivités territoriales, dans sa rédaction résultant de l'article 42 de la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République, est applicable à compter du 1er janvier 2020.II.-Le même article L. 5211-12, dans sa rédaction antérieure à l'article 42 de la loi n° 2015-991 du 7 août 2015 précitée, est applicable du 9 août 2015 au 31 décembre 2019.\n\nIII.-A modifié les dispositions suivantes :\n\nIV.-Le III du présent article entre en vigueur le 1er janvier 2020.V.-L'article L. 5721-8 du code général des collectivités territoriales, dans sa rédaction antérieure à l'article 42 de la loi n° 2015-991 du 7 août 2015 précitée, est applicable du 9 août 2015 au 31 décembre 2019.\n\nVI.-Le présent article est applicable en Polynésie française.\n\n-Code général des collectivités territoriales"
+      "content": "I.-L'article L. 5211-12 du code général des collectivités territoriales, dans sa rédaction résultant de l'article 42 de la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République, est applicable à compter du 1er janvier 2020.II.-Le même article L. 5211-12, dans sa rédaction antérieure à l'article 42 de la loi n° 2015-991 du 7 août 2015 précitée, est applicable du 9 août 2015 au 31 décembre 2019.\n\nIII.-A modifié les dispositions suivantes :\n\nIV.-Le III du présent article entre en vigueur le 1er janvier 2020.V.-L'article L. 5721-8 du code général des collectivités territoriales, dans sa rédaction antérieure à l'article 42 de la loi n° 2015-991 du 7 août 2015 précitée, est applicable du 9 août 2015 au 31 décembre 2019.\n\nVI.-Le présent article est applicable en Polynésie française.\n\n-Code général des collectivités territoriales",
+      "valid_from": "2016-12-07"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

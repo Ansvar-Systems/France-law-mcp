@@ -12,7 +12,14 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les dispositions de la présente loi sont applicables dans les territoires d'outre-mer et à Mayotte, en tant qu'elles modifient le code des tribunaux administratifs et des cours administratives d'appel et la loi n° 87-1127 du 31 décembre 1987 précitée."
+      "content": "Les dispositions de la présente loi sont applicables dans les territoires d'outre-mer et à Mayotte, en tant qu'elles modifient le code des tribunaux administratifs et des cours administratives d'appel et la loi n° 87-1127 du 31 décembre 1987 précitée.",
+      "valid_from": "2001-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

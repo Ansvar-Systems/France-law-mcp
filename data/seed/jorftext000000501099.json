@@ -1,0 +1,58 @@
+{
+  "id": "jorftext000000501099",
+  "type": "statute",
+  "title": "Loi n° 84-16 du 11 janvier 1984",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000501099",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Article 19",
+      "content": "Dans les cas prévus aux a et b, la compétence des ministres en matière d'organisation des concours et, le cas échéant, de nomination subséquente peut être déléguée, par arrêté conjoint du ministre intéressé et du ministre chargé de la fonction publique, après consultation des comités sociaux d'administration, au représentant de l'Etat dans la région, dans le département, dans les collectivités mentionnées à l'article 72 de la Constitution ou en Nouvelle-Calédonie, pour le recrutement des personnels placés sous son autorité.",
+      "valid_from": "2022-03-01",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Article 28",
+      "content": "Les décisions portant nominations, promotions de grades et mises à la retraite doivent faire l'objet d'une publication suivant des modalités fixées par décret en Conseil d'Etat.",
+      "valid_from": "1984-01-12",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Article 40",
+      "content": "Les fonctionnaires autorisés à travailler à temps partiel perçoivent une fraction du traitement, de l'indemnité de résidence et des primes et indemnités de toutes natures afférentes soit au grade de l'agent et à l'échelon auquel il est parvenu, soit à l'emploi auquel il a été nommé. Cette fraction est égale au rapport entre la durée hebdomadaire du service effectué et la durée résultant des obligations hebdomadaires de service réglementairement fixées pour les agents de même grade exerçant à temps plein les mêmes fonctions dans l'administration ou le service concerné.\n\nToutefois, dans le cas de services représentant 80 ou 90 % du temps plein, cette fraction est égale respectivement aux six septièmes ou aux trente-deux trente-cinquièmes du traitement, des primes et indemnités mentionnés à l'alinéa précédent.\n\nLe supplément familial de traitement ne peut être inférieur au montant minimum versé aux fonctionnaires travaillant à temps plein ayant le même nombre d'enfants à charge.",
+      "valid_from": "2022-03-01",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art40ter",
+      "section": "40ter",
+      "title": "Article 40ter",
+      "content": "Des aménagements d'horaires propres à faciliter son exercice professionnel ou son maintien dans l'emploi sont accordés à sa demande au fonctionnaire handicapé relevant de l'une des catégories mentionnées aux 1°, 2°, 3°, 4°, 9°, 10° et 11° de l'article L. 5212-13 du code du travail, dans toute la mesure compatible avec les nécessités du fonctionnement du service.\n\nDes aménagements d'horaires sont également accordés à sa demande à tout fonctionnaire, dans toute la mesure compatible avec les nécessités du fonctionnement du service, pour lui permettre d'accompagner une personne handicapée, qui est son conjoint, son concubin, la personne avec laquelle il a conclu un pacte civil de solidarité, un enfant à charge, un ascendant ou une personne accueillie à son domicile et nécessite la présence d'une tierce personne.",
+      "valid_from": "2016-04-22",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Article 91",
+      "content": "Demeurent applicables les dispositions du décret n° 47-1457 du 4 août 1947 portant règlement d'administration publique pour l'application de l'article 52 du statut général des fonctionnaires prévoyant l'attribution d'une indemnité compensatrice aux fonctionnaires et aux agents de certains services qui sont l'objet d'une promotion ou d'une nomination, dans un cadre normal de fonctionnaires de l'Etat, à un grade comportant un traitement inférieur à celui qu'ils percevaient antérieurement, modifié par les décrets n° 64-781 du 28 juillet 1964 et n° 66-63 du 18 janvier 1966, du décret n° 48-1108 du 10 juillet 1948 modifié portant classement hiérarchique des grades et emplois des personnels civils et militaires de l'Etat relevant du régime général des retraites, et du décret n° 50-1348 du 27 octobre 1950 portant règlement d'administration publique pour l'application de la loi n° 46-2294 du 19 octobre 1946 aux fonctionnaires de certains cadres civils exerçant normalement leur activité dans les territoires relevant du ministère de la France d'outre-mer, complété par les décrets n° 56-244 du 9 mars 1956 et n° 57-979 du 26 août 1957.",
+      "valid_from": "1984-01-12",
+      "valid_to": "2222-02-22"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

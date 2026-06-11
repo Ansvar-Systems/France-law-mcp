@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sauf lorsqu'elles en disposent autrement, les dispositions de la présente ordonnance sont applicables à l'ensemble des juridictions de l'ordre administratif jusqu'à la cessation de l'état d'urgence sanitaire déclaré par le décret du 14 octobre 2020 susvisé, prorogé dans les conditions prévues par l'article L. 3131-13 du code de la santé publique.\n\nPar dérogation au premier alinéa du présent article, les articles 2 et 4 sont applicables jusqu'au 30 septembre 2021."
+      "content": "Sauf lorsqu'elles en disposent autrement, les dispositions de la présente ordonnance sont applicables à l'ensemble des juridictions de l'ordre administratif jusqu'à la cessation de l'état d'urgence sanitaire déclaré par le décret du 14 octobre 2020 susvisé, prorogé dans les conditions prévues par l'article L. 3131-13 du code de la santé publique.\n\nPar dérogation au premier alinéa du présent article, les articles 2 et 4 sont applicables jusqu'au 30 septembre 2021.",
+      "valid_from": "2021-06-02"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - Sur décision du président de la formation de jugement insusceptible de recours, les audiences des juridictions de l'ordre administratif peuvent se tenir en utilisant un moyen de télécommunication audiovisuelle permettant de s'assurer de l'identité des parties et garantissant la qualité de la transmission et la confidentialité des échanges entre les parties et leurs avocats.En cas d'impossibilité technique ou matérielle de recourir à un tel moyen, le juge peut, à leur demande, décider d'entendre les parties et leurs avocats par tout moyen de communication électronique, y compris téléphonique, permettant de s'assurer de leur identité et de garantir la qualité de la transmission et la confidentialité des échanges entre les parties et leurs avocats. Lorsqu'une partie est assistée d'un conseil ou d'un interprète, il n'est pas requis que ce dernier soit physiquement présent auprès d'elle.II. - Dans les cas prévus au présent article, avec l'autorisation du président de la formation de jugement, les membres de la juridiction peuvent participer à l'audience depuis un lieu distinct de la salle d'audience en utilisant un moyen de télécommunication audiovisuelle permettant de s'assurer de leur identité et garantissant la qualité de la transmission.Le président de la juridiction peut tenir lui-même ou autoriser un magistrat statuant seul à tenir l'audience par un moyen de télécommunication audiovisuelle depuis un lieu distinct de la salle d'audience.Le président de la formation de jugement, présent dans la salle d'audience, organise et conduit la procédure. Il s'assure du bon déroulement des échanges entre les parties et veille au respect des droits de la défense et au caractère contradictoire des débats. Il s'assure également, le cas échéant, du caractère satisfaisant de la retransmission dans la salle d'audience des conclusions du rapporteur public ainsi que des prises de parole des parties ou de leurs conseils.Le greffe dresse le procès-verbal des opérations.Les moyens de télécommunication utilisés par les membres de la formation de jugement garantissent le secret du délibéré.III. - Le rôle des audiences peut être publié sur le site internet de la juridiction."
+      "content": "I. - Sur décision du président de la formation de jugement insusceptible de recours, les audiences des juridictions de l'ordre administratif peuvent se tenir en utilisant un moyen de télécommunication audiovisuelle permettant de s'assurer de l'identité des parties et garantissant la qualité de la transmission et la confidentialité des échanges entre les parties et leurs avocats.En cas d'impossibilité technique ou matérielle de recourir à un tel moyen, le juge peut, à leur demande, décider d'entendre les parties et leurs avocats par tout moyen de communication électronique, y compris téléphonique, permettant de s'assurer de leur identité et de garantir la qualité de la transmission et la confidentialité des échanges entre les parties et leurs avocats. Lorsqu'une partie est assistée d'un conseil ou d'un interprète, il n'est pas requis que ce dernier soit physiquement présent auprès d'elle.II. - Dans les cas prévus au présent article, avec l'autorisation du président de la formation de jugement, les membres de la juridiction peuvent participer à l'audience depuis un lieu distinct de la salle d'audience en utilisant un moyen de télécommunication audiovisuelle permettant de s'assurer de leur identité et garantissant la qualité de la transmission.Le président de la juridiction peut tenir lui-même ou autoriser un magistrat statuant seul à tenir l'audience par un moyen de télécommunication audiovisuelle depuis un lieu distinct de la salle d'audience.Le président de la formation de jugement, présent dans la salle d'audience, organise et conduit la procédure. Il s'assure du bon déroulement des échanges entre les parties et veille au respect des droits de la défense et au caractère contradictoire des débats. Il s'assure également, le cas échéant, du caractère satisfaisant de la retransmission dans la salle d'audience des conclusions du rapporteur public ainsi que des prises de parole des parties ou de leurs conseils.Le greffe dresse le procès-verbal des opérations.Les moyens de télécommunication utilisés par les membres de la formation de jugement garantissent le secret du délibéré.III. - Le rôle des audiences peut être publié sur le site internet de la juridiction.",
+      "valid_from": "2020-11-20"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Outre les cas prévus à l'article L. 522-3 du code de justice administrative, il peut être statué sans audience, par ordonnance motivée, sur les requêtes présentées en référé. Le juge des référés informe les parties de l'absence d'audience et fixe la date à partir de laquelle l'instruction sera close.Les décisions prises sans audience, en application du premier alinéa du présent article, par le juge des référés saisi sur le fondement de l'article L. 521-2 du code de justice administrative peuvent, ainsi qu'il est dit à l'article L. 523-1 du même code, faire l'objet d'un appel, lorsqu'elles n'ont pas été rendues en application de l'article L. 522-3 du même code."
+      "content": "Outre les cas prévus à l'article L. 522-3 du code de justice administrative, il peut être statué sans audience, par ordonnance motivée, sur les requêtes présentées en référé. Le juge des référés informe les parties de l'absence d'audience et fixe la date à partir de laquelle l'instruction sera close.Les décisions prises sans audience, en application du premier alinéa du présent article, par le juge des référés saisi sur le fondement de l'article L. 521-2 du code de justice administrative peuvent, ainsi qu'il est dit à l'article L. 523-1 du même code, faire l'objet d'un appel, lorsqu'elles n'ont pas été rendues en application de l'article L. 522-3 du même code.",
+      "valid_from": "2020-11-20"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Lorsque, dans les cas prévus à l'article L. 441-2-3-1 du code de la construction et de l'habitation, le prononcé d'une injonction s'impose avec évidence au vu de la situation du requérant, le président du tribunal administratif ou le magistrat désigné peut y procéder par ordonnance, après avoir mis le représentant de l'Etat en mesure de présenter ses observations en défense et clôturé l'instruction."
+      "content": "Lorsque, dans les cas prévus à l'article L. 441-2-3-1 du code de la construction et de l'habitation, le prononcé d'une injonction s'impose avec évidence au vu de la situation du requérant, le président du tribunal administratif ou le magistrat désigné peut y procéder par ordonnance, après avoir mis le représentant de l'Etat en mesure de présenter ses observations en défense et clôturé l'instruction.",
+      "valid_from": "2020-11-20"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La présente ordonnance est applicable dans les îles Wallis et Futuna, dans sa rédaction résultant de la loi n° 2021-689 du 31 mai 2021 relative à la gestion de la sortie de crise sanitaire."
+      "content": "La présente ordonnance est applicable dans les îles Wallis et Futuna, dans sa rédaction résultant de la loi n° 2021-689 du 31 mai 2021 relative à la gestion de la sortie de crise sanitaire.",
+      "valid_from": "2021-06-02"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française et qui entrera en vigueur au lendemain du jour de sa publication sur tout le territoire de la République."
+      "content": "Le Premier ministre et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française et qui entrera en vigueur au lendemain du jour de sa publication sur tout le territoire de la République.",
+      "valid_from": "2020-11-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

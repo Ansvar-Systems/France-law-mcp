@@ -12,19 +12,28 @@
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Un décret en Conseil d'Etat précise les modalités d'application de la présente loi."
+      "content": "Un décret en Conseil d'Etat précise les modalités d'application de la présente loi.",
+      "valid_from": "2010-07-11"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Les dispositions relatives à l'Agence de gestion et de recouvrement des avoirs saisis et confisqués entrent en vigueur à compter de la publication du décret en Conseil d'État prévu à l'article 706-165 du code de procédure pénale."
+      "content": "Les dispositions relatives à l'Agence de gestion et de recouvrement des avoirs saisis et confisqués entrent en vigueur à compter de la publication du décret en Conseil d'État prévu à l'article 706-165 du code de procédure pénale.",
+      "valid_from": "2010-07-11"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "La présente loi est applicable dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie."
+      "content": "La présente loi est applicable dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.",
+      "valid_from": "2010-07-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

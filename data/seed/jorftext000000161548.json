@@ -12,25 +12,35 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Gouvernement présentera avant le 1er juin 1993, ainsi qu'un an après l'entrée en vigueur de la convention signée à Schengen le 19 juin 1990, un rapport au Parlement sur l'application de l'article 20 bis de l'ordonnance n° 45-2658 du 2 novembre 1945 précitée sur le territoire métropolitain et sur l'application de réglementations similaires dans les Etats signataires de la convention. Ces rapports analyseront les conséquences de l'entrée en vigueur de la présente loi, notamment en ce qui concerne la responsabilité des entreprises de transport, et plus particulièrement celles assurant des liaisons en provenance et à destination des Etats parties à ladite convention."
+      "content": "Le Gouvernement présentera avant le 1er juin 1993, ainsi qu'un an après l'entrée en vigueur de la convention signée à Schengen le 19 juin 1990, un rapport au Parlement sur l'application de l'article 20 bis de l'ordonnance n° 45-2658 du 2 novembre 1945 précitée sur le territoire métropolitain et sur l'application de réglementations similaires dans les Etats signataires de la convention. Ces rapports analyseront les conséquences de l'entrée en vigueur de la présente loi, notamment en ce qui concerne la responsabilité des entreprises de transport, et plus particulièrement celles assurant des liaisons en provenance et à destination des Etats parties à ladite convention.",
+      "valid_from": "1992-02-29"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "I. - [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 92-307 DC du 25 février 1992\n\nII. - [Dispositions déclarées inséparables des articles de la présente loi par décision du Conseil constitutionnel n° 92-307 DC du 25 février 1992"
+      "content": "I. - [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 92-307 DC du 25 février 1992\n\nII. - [Dispositions déclarées inséparables des articles de la présente loi par décision du Conseil constitutionnel n° 92-307 DC du 25 février 1992",
+      "valid_from": "1992-02-29"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Un décret en Conseil d'Etat fixe les conditions d'application de la présente loi."
+      "content": "Un décret en Conseil d'Etat fixe les conditions d'application de la présente loi.",
+      "valid_from": "1992-02-29"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les dispositions de l'article 5-2, du II de l'article 19, du II et du III de l'article 22 et du second alinéa de l'article 26 bis de l'ordonnance n° 45-2658 du 2 novembre 1945 précitée, dans leur rédaction résultant de la présente loi, seront applicables à dater de l'entrée en vigueur de la convention signée à Schengen le 19 juin 1990. Elles ne seront applicables que dans les départements métropolitains de la République."
+      "content": "Les dispositions de l'article 5-2, du II de l'article 19, du II et du III de l'article 22 et du second alinéa de l'article 26 bis de l'ordonnance n° 45-2658 du 2 novembre 1945 précitée, dans leur rédaction résultant de la présente loi, seront applicables à dater de l'entrée en vigueur de la convention signée à Schengen le 19 juin 1990. Elles ne seront applicables que dans les départements métropolitains de la République.",
+      "valid_from": "1992-02-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

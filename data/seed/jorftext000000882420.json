@@ -12,583 +12,686 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les tribunaux civils et criminels de département, et les tribunaux de police correctionnelle, sont supprimés ; néanmoins ils continueront leurs fonctions jusqu'à l'installation des nouveaux tribunaux."
+      "content": "Les tribunaux civils et criminels de département, et les tribunaux de police correctionnelle, sont supprimés ; néanmoins ils continueront leurs fonctions jusqu'à l'installation des nouveaux tribunaux.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Il n'est rien innové d'ailleurs aux lois concernant les juges de paix et les juges de commerce, lesquels continueront à exercer leurs fonctions jusqu'à ce qu'il en ait été autrement ordonné."
+      "content": "Il n'est rien innové d'ailleurs aux lois concernant les juges de paix et les juges de commerce, lesquels continueront à exercer leurs fonctions jusqu'à ce qu'il en ait été autrement ordonné.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Il n'est point dérogé au droit qu'ont les citoyens de faire juger leurs contestations par des arbitres de leur choix ; la décision de ces arbitres ne sera point sujète à appel, s'il n'est expressément réservé."
+      "content": "Il n'est point dérogé au droit qu'ont les citoyens de faire juger leurs contestations par des arbitres de leur choix ; la décision de ces arbitres ne sera point sujète à appel, s'il n'est expressément réservé.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Nul ne pourra être juge, suppléant, commissaire du Gouvernement près les tribunaux, substitut, ni greffier, s'il n'est âgé de trente ans accomplis."
+      "content": "Nul ne pourra être juge, suppléant, commissaire du Gouvernement près les tribunaux, substitut, ni greffier, s'il n'est âgé de trente ans accomplis.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les fonctionnaires désignés dans l'article précédent, ne pourront être requis pour aucun autre service public : ils ne pourront s'absenter plus d'une décade sans congé du tribunal, et plus d'un mois sans congé du Gouvernement, sous peine d'être privés de la totalité de leur traitement pendant la durée de leur absence, et, si elle dure plus de six mois, d'être considérés comme démissionnaires."
+      "content": "Les fonctionnaires désignés dans l'article précédent, ne pourront être requis pour aucun autre service public : ils ne pourront s'absenter plus d'une décade sans congé du tribunal, et plus d'un mois sans congé du Gouvernement, sous peine d'être privés de la totalité de leur traitement pendant la durée de leur absence, et, si elle dure plus de six mois, d'être considérés comme démissionnaires.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Il sera établi un tribunal de première instance par arrondissement communal."
+      "content": "Il sera établi un tribunal de première instance par arrondissement communal.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les tribunaux de première instance connaîtront en premier et dernier ressort, dans les cas déterminés par la loi, des matières civiles ; ils connaîtront également des matières de police correctionnelle ; ils prononceront sur l'appel des jugemens rendus en premier ressort par les juges de paix."
+      "content": "Les tribunaux de première instance connaîtront en premier et dernier ressort, dans les cas déterminés par la loi, des matières civiles ; ils connaîtront également des matières de police correctionnelle ; ils prononceront sur l'appel des jugemens rendus en premier ressort par les juges de paix.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Chaque tribunal de première instance sera composé de trois juges et de deux suppléans, dans les villes ci-après :\n\nVilles.\n\nDépartemens.\n\nNantua\n\nBellay\n\nTrevoux\n\nAin.\n\nChâteau-Thierry\n\nVervins\n\nAisne.\n\nGannat\n\nLa Palisse\n\nAllier.\n\nDigne\n\nBarcelonnette\n\nCastellane\n\nSisteron\n\nForcalquier\n\nAlpes (Basses).\n\nBriançon\n\nEmbrun\n\nAlpes (Hautes).\n\nMonaco\n\nPuget-Theniers\n\nAlpes-Maritimes\n\nPrivas\n\nL'Argentière\n\nArdèche.\n\nRocroi\n\nRethel\n\nVouziers\n\nArdennes.\n\nFoix\n\nPamiers\n\nSaint-Girons\n\nArriège.\n\nArcis-sur-Aube\n\nNogent-sur-Seine\n\nBar-sur-Aube\n\nBar-sur-Seine\n\nAube.\n\nLimoux\n\nAude.\n\nEspalion\n\nSaint-Afrique\n\nAveyron.\n\nMauriac\n\nMurat\n\nCantal.\n\nRuffec\n\nConfolens\n\nBarbezieux\n\nCognac\n\nCharente.\n\nJonsac\n\nCharente-Infér.\n\nSancerre\n\nCher.\n\nUssel\n\nCorrèze.\n\nChâtillon\n\nSemur\n\nCôte-d'Or.\n\nLannion\n\nGuingamp\n\nCôtes-du-Nord.\n\nGuéret\n\nAubusson\n\nBourganeuf\n\nChambon\n\nCreuse.\n\nNontron\n\nRiberac\n\nDordogne.\n\nBeaume\n\nSaint-Hippolyte\n\nPontarlier\n\nDoubs.\n\nDie\n\nNyons\n\nDrôme.\n\nOudenarde\n\nLe Sas-de-Gand\n\nEscaut.\n\nPont-Audemer\n\nLes Andelys\n\nEure.\n\nDreux\n\nEure-et-Loire.\n\nChâteaulin\n\nQuimperlay\n\nFinistère.\n\nNeufchâteau\n\nBitbourg\n\nDiekirch\n\nForêts.\n\nLe Vigan\n\nGard.\n\nVillefranche\n\nMuret\n\nSaint-Gaudens\n\nGaronne (Haute).\n\nLombez\n\nMirande\n\nGers.\n\nBlaye\n\nLa Réole\n\nBazas\n\nLesparre\n\nGironde.\n\nCalvi\n\nCorté\n\nGolo.\n\nSaint-Pons\n\nHérault.\n\nRedon\n\nMontfort\n\nIle-et-Vilaine.\n\nLa Châtre\n\nLe Blanc\n\nIndre.\n\nLoches\n\nIndre-et-Loire.\n\nBourgoing\n\nSaint-Marcellin\n\nIsère.\n\nCharleroi\n\nJemmape.\n\nSaint-Claude\n\nJura\n\nMont-de-Marsan\n\nSaint-Sever\n\nDax\n\nLandes.\n\nThonon\n\nBonneville\n\nLéman.\n\nAjaccio\n\nVico\n\nSartenne\n\nLiamone.\n\nMontbrison\n\nLoire.\n\nBrioude\n\nLoire (Haute).\n\nSavenay\n\nChâteaubriant\n\nAncenis\n\nPaimboeuf\n\nLoire-Inférieure.\n\nPithiviers\n\nGien\n\nLoiret.\n\nGourdon\n\nLot.\n\nMarmande\n\nNérac\n\nVilleneuve-d'Agen\n\nLot-et-Garonne.\n\nMende\n\nMarvejols\n\nFlorac\n\nLozère.\n\nSegré\n\nBaugé\n\nBeaupréau\n\nMaine-et-Loire.\n\nSaint-Lô\n\nMortain\n\nAvranches\n\nManche.\n\nSainte-Menehould\n\nÉpernay\n\nMarne.\n\nVassy\n\nMarne (Haute).\n\nChâteau-Gonthier\n\nMayenne.\n\nVic\n\nSarrebourg\n\nMeurthe.\n\nSaint-Mihiel\n\nMontmédy\n\nMeuse.\n\nRuremonde\n\nMeuse-Inférieure.\n\nAnnecy\n\nMoutiers\n\nSaint-Jean-de-Maurienne\n\nMont-Blanc.\n\nPontivy\n\nMorbihan.\n\nBriey\n\nSarguemines\n\nMoselle.\n\nCosne\n\nClamecy\n\nMoulins-Engilhert\n\nNièvre.\n\nAvesnes\n\nNord.\n\nClermont\n\nSenlis\n\nOise.\n\nDomfront\n\nArgentan\n\nOrne.\n\nMalmédy\n\nOurthe.\n\nSaint-Pol\n\nMontreuil\n\nPas-de-Calais.\n\nIssoire\n\nPuy-de-Dôme.\n\nOléron\n\nSaint-Palais\n\nOrthès\n\nPyrénées (Basses).\n\nBagnères\n\nArgelès\n\nPyrénées (Hautes).\n\nCeret\n\nPrades\n\nPyrénées-Orient.\n\nWeissembourg\n\nSaverne\n\nBarr\n\nRhin (Bas).\n\nAltkirch\n\nDelemont\n\nPorentruy\n\nBéfort\n\nRhin (Haut).\n\nVillefranche\n\nRhône.\n\nDinant\n\nMarche\n\nSaint-Hubert\n\nSambre-et-Meuse.\n\nGray\n\nLure\n\nSaone (Haute).\n\nCharolles\n\nLouhans\n\nSaone-et-Loire.\n\nSaint-Calais\n\nLa Flèche\n\nSarthe.\n\nNeufchâtel\n\nSeine-Inférieure.\n\nCoulommiers\n\nSeine-et-Marne.\n\nMantes\n\nCorbeil\n\nSeine-et-Oise.\n\nBressuire\n\nParthenay\n\nMelle\n\nSèvres (Deux).\n\nDoullens\n\nPéronne\n\nMontdidier\n\nSomme.\n\nLavaur\n\nTarn.\n\nLes Sables-d'Olonne\n\nMontaigu\n\nVendée.\n\nLoudun\n\nMontmorillon\n\nCivray\n\nVienne.\n\nBellac\n\nRochechouart\n\nVienne (Haute).\n\nNeufchâteau\n\nRemiremont\n\nVosges.\n\nJoigny\n\nTonnerre\n\nAvallon\n\nYonne.\n\ncenter\n\n1\n\n1\n\n1"
+      "content": "Chaque tribunal de première instance sera composé de trois juges et de deux suppléans, dans les villes ci-après :\n\nVilles.\n\nDépartemens.\n\nNantua\n\nBellay\n\nTrevoux\n\nAin.\n\nChâteau-Thierry\n\nVervins\n\nAisne.\n\nGannat\n\nLa Palisse\n\nAllier.\n\nDigne\n\nBarcelonnette\n\nCastellane\n\nSisteron\n\nForcalquier\n\nAlpes (Basses).\n\nBriançon\n\nEmbrun\n\nAlpes (Hautes).\n\nMonaco\n\nPuget-Theniers\n\nAlpes-Maritimes\n\nPrivas\n\nL'Argentière\n\nArdèche.\n\nRocroi\n\nRethel\n\nVouziers\n\nArdennes.\n\nFoix\n\nPamiers\n\nSaint-Girons\n\nArriège.\n\nArcis-sur-Aube\n\nNogent-sur-Seine\n\nBar-sur-Aube\n\nBar-sur-Seine\n\nAube.\n\nLimoux\n\nAude.\n\nEspalion\n\nSaint-Afrique\n\nAveyron.\n\nMauriac\n\nMurat\n\nCantal.\n\nRuffec\n\nConfolens\n\nBarbezieux\n\nCognac\n\nCharente.\n\nJonsac\n\nCharente-Infér.\n\nSancerre\n\nCher.\n\nUssel\n\nCorrèze.\n\nChâtillon\n\nSemur\n\nCôte-d'Or.\n\nLannion\n\nGuingamp\n\nCôtes-du-Nord.\n\nGuéret\n\nAubusson\n\nBourganeuf\n\nChambon\n\nCreuse.\n\nNontron\n\nRiberac\n\nDordogne.\n\nBeaume\n\nSaint-Hippolyte\n\nPontarlier\n\nDoubs.\n\nDie\n\nNyons\n\nDrôme.\n\nOudenarde\n\nLe Sas-de-Gand\n\nEscaut.\n\nPont-Audemer\n\nLes Andelys\n\nEure.\n\nDreux\n\nEure-et-Loire.\n\nChâteaulin\n\nQuimperlay\n\nFinistère.\n\nNeufchâteau\n\nBitbourg\n\nDiekirch\n\nForêts.\n\nLe Vigan\n\nGard.\n\nVillefranche\n\nMuret\n\nSaint-Gaudens\n\nGaronne (Haute).\n\nLombez\n\nMirande\n\nGers.\n\nBlaye\n\nLa Réole\n\nBazas\n\nLesparre\n\nGironde.\n\nCalvi\n\nCorté\n\nGolo.\n\nSaint-Pons\n\nHérault.\n\nRedon\n\nMontfort\n\nIle-et-Vilaine.\n\nLa Châtre\n\nLe Blanc\n\nIndre.\n\nLoches\n\nIndre-et-Loire.\n\nBourgoing\n\nSaint-Marcellin\n\nIsère.\n\nCharleroi\n\nJemmape.\n\nSaint-Claude\n\nJura\n\nMont-de-Marsan\n\nSaint-Sever\n\nDax\n\nLandes.\n\nThonon\n\nBonneville\n\nLéman.\n\nAjaccio\n\nVico\n\nSartenne\n\nLiamone.\n\nMontbrison\n\nLoire.\n\nBrioude\n\nLoire (Haute).\n\nSavenay\n\nChâteaubriant\n\nAncenis\n\nPaimboeuf\n\nLoire-Inférieure.\n\nPithiviers\n\nGien\n\nLoiret.\n\nGourdon\n\nLot.\n\nMarmande\n\nNérac\n\nVilleneuve-d'Agen\n\nLot-et-Garonne.\n\nMende\n\nMarvejols\n\nFlorac\n\nLozère.\n\nSegré\n\nBaugé\n\nBeaupréau\n\nMaine-et-Loire.\n\nSaint-Lô\n\nMortain\n\nAvranches\n\nManche.\n\nSainte-Menehould\n\nÉpernay\n\nMarne.\n\nVassy\n\nMarne (Haute).\n\nChâteau-Gonthier\n\nMayenne.\n\nVic\n\nSarrebourg\n\nMeurthe.\n\nSaint-Mihiel\n\nMontmédy\n\nMeuse.\n\nRuremonde\n\nMeuse-Inférieure.\n\nAnnecy\n\nMoutiers\n\nSaint-Jean-de-Maurienne\n\nMont-Blanc.\n\nPontivy\n\nMorbihan.\n\nBriey\n\nSarguemines\n\nMoselle.\n\nCosne\n\nClamecy\n\nMoulins-Engilhert\n\nNièvre.\n\nAvesnes\n\nNord.\n\nClermont\n\nSenlis\n\nOise.\n\nDomfront\n\nArgentan\n\nOrne.\n\nMalmédy\n\nOurthe.\n\nSaint-Pol\n\nMontreuil\n\nPas-de-Calais.\n\nIssoire\n\nPuy-de-Dôme.\n\nOléron\n\nSaint-Palais\n\nOrthès\n\nPyrénées (Basses).\n\nBagnères\n\nArgelès\n\nPyrénées (Hautes).\n\nCeret\n\nPrades\n\nPyrénées-Orient.\n\nWeissembourg\n\nSaverne\n\nBarr\n\nRhin (Bas).\n\nAltkirch\n\nDelemont\n\nPorentruy\n\nBéfort\n\nRhin (Haut).\n\nVillefranche\n\nRhône.\n\nDinant\n\nMarche\n\nSaint-Hubert\n\nSambre-et-Meuse.\n\nGray\n\nLure\n\nSaone (Haute).\n\nCharolles\n\nLouhans\n\nSaone-et-Loire.\n\nSaint-Calais\n\nLa Flèche\n\nSarthe.\n\nNeufchâtel\n\nSeine-Inférieure.\n\nCoulommiers\n\nSeine-et-Marne.\n\nMantes\n\nCorbeil\n\nSeine-et-Oise.\n\nBressuire\n\nParthenay\n\nMelle\n\nSèvres (Deux).\n\nDoullens\n\nPéronne\n\nMontdidier\n\nSomme.\n\nLavaur\n\nTarn.\n\nLes Sables-d'Olonne\n\nMontaigu\n\nVendée.\n\nLoudun\n\nMontmorillon\n\nCivray\n\nVienne.\n\nBellac\n\nRochechouart\n\nVienne (Haute).\n\nNeufchâteau\n\nRemiremont\n\nVosges.\n\nJoigny\n\nTonnerre\n\nAvallon\n\nYonne.\n\ncenter\n\n1\n\n1\n\n1",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Chaque tribunal de première instance sera composé de quatre juges et trois suppléans, dans les villes ci-après :\n\nBourg\n\nAin.\n\nLaon\n\nSoissons\n\nSaint-Quentin\n\nAisne.\n\nMoulins\n\nMontluçon\n\nAllier.\n\nGap\n\nAlpes (Hautes).\n\nNice\n\nAlpes-Maritimes.\n\nTournon\n\nArdèche.\n\nCharleville\n\nSedan\n\nArdennes.\n\nTroyes\n\nAube.\n\nCarcassonne\n\nCastelnaudary\n\nNarbonne\n\nAude.\n\nRodès\n\nMilhau\n\nVillefranche\n\nAveyron.\n\nTarascon\n\nAix\n\nBouches-du-Rhône.\n\nBayeux\n\nPont-l'Evêque\n\nLisieux\n\nFalaise\n\nVire\n\nCalvados.\n\nAurillac\n\nSaint-Flour\n\nCantal.\n\nAngoulême\n\nCharente.\n\nSaintes\n\nSaint-Jean-d'Angely\n\nMarennes\n\nLa Rochelle\n\nRochefort\n\nCharente-Infér.\n\nSaint-Amand\n\nBourges\n\nCher.\n\nTulle\n\nBrives\n\nCorrèze.\n\nBeaune\n\nDijon\n\nCôtes-d'Or.\n\nSaint-Brieux\n\nDinan\n\nLoudéac\n\nCôtes-du-Nord.\n\nPérigueux\n\nSarlat\n\nBergerac\n\nDordogne.\n\nBesançon\n\nDoubs.\n\nValence\n\nMontélimart\n\nDrôme.\n\nNivelle\n\nLouvain\n\nDyle.\n\nDendermonde\n\nEscaut.\n\nÉvreux\n\nLouviers\n\nBernay\n\nEure.\n\nChartres\n\nNogent\n\nChâteaudun\n\nEure-et-Loir.\n\nQuimper\n\nMorlaix\n\nBrest\n\nFinistère.\n\nLuxembourg\n\nForêts.\n\nAlais\n\nUzès\n\nGard.\n\nCastel-Sarrasin\n\nHaute-Garonne.\n\nAuch\n\nCondom\n\nLectoure\n\nGers.\n\nLibourne\n\nGirdonde.\n\nBastia\n\nGolo.\n\nLodeve\n\nBeziers\n\nHérault.\n\nSaint-Malo\n\nFougères\n\nVitré\n\nIle-et-Vilaine.\n\nChâteauroux\n\nIssoudun\n\nIndre.\n\nChinon\n\nTours\n\nIndre-et-Loire.\n\nVienne\n\nGrenoble\n\nIsère.\n\nMons\n\nTournay\n\nJemmape.\n\nLons-le-Saulnier\n\nDôle\n\nArbois\n\nJura.\n\nGenève\n\nLéman.\n\nBlois\n\nVendôme\n\nRomorantin\n\nLoir-et-Cher.\n\nRoanne\n\nSaint-Etienne\n\nLoire.\n\nLe Puy\n\nIssengeaux\n\nHaute-Loire.\n\nMontargis\n\nLoiret.\n\nFigeac\n\nCahors\n\nMontauban\n\nLot.\n\nAgen\n\nLot-et-Garonne.\n\nFurnes\n\nYpres\n\nCourtray\n\nLys.\n\nSaumur\n\nMaine-et-Loire.\n\nValogne\n\nCoutances\n\nManche.\n\nChâlons\n\nVitry-le-Français\n\nMarne.\n\nChaumont\n\nLangres\n\nHaute-Marne.\n\nLaval\n\nMayenne\n\nMayenne.\n\nToul\n\nLunéville\n\nMeurthe.\n\nBar\n\nVerdun\n\nMeuse.\n\nHasselt\n\nMaëstricht\n\nMeuse-Inférieure.\n\nChambéry\n\nMont-Blanc.\n\nVannes\n\nPloërmel\n\nLorient\n\nMorbihan.\n\nThionville\n\nMoselle.\n\nTurnhout\n\nMalines\n\nDeux-Nèthes.\n\nNevers\n\nNièvre.\n\nBergues\n\nHazelbrouck\n\nValenciennes\n\nCambray\n\nNord.\n\nBeauvais\n\nCompiègne\n\nOise.\n\nHuy\n\nOurthe.\n\nBoulogne\n\nBéthune\n\nArras\n\nSaint-Omer\n\nPas-de-Calais.\n\nRiom\n\nThiers\n\nAmbert\n\nClermont\n\nPuy-de-Dôme.\n\nPau\n\nBaïonne\n\nBasses-Pyrénées.\n\nTarbes\n\nHautes-Pyrénées.\n\nPerpignan\n\nPyrénées-Orient.\n\nColmar\n\nHaut-Rhin.\n\nNamur\n\nSambre-et-Meuse.\n\nVesoul\n\nHaute-Saone.\n\nMâcon\n\nAutun\n\nChâlons\n\nSaone-et-Loire.\n\nMamers\n\nLe Mans\n\nSarthe.\n\nYvetot\n\nLe Havre\n\nDieppe\n\nSeine-Inférieure.\n\nMelun\n\nMeaux\n\nFontainebleau\n\nProvins\n\nSeine-et-Marne.\n\nPontoise\n\nÉtampes\n\nSeine-et-Oise.\n\nNiort\n\nDeux-Sèvres.\n\nAbbeville\n\nSomme.\n\nCastres\n\nGaillac\n\nAlby\n\nTarn.\n\nBrignolles\n\nDraguignan\n\nGrasse\n\nToulon\n\nVar.\n\nOrange\n\nCarpentras\n\nApt\n\nAvignon\n\nVaucluse.\n\nFontenay\n\nVendée.\n\nChâtellerault\n\nPoitiers\n\nVienne.\n\nSaint-Yrieix\n\nLimoges\n\nHaute-Vienne.\n\nÉpinal\n\nMirecourt\n\nSaint-Dié\n\nVosges.\n\nAuxerre\n\nSens\n\nYonne.\n\ncenter\n\n1\n\n1\n\n1"
+      "content": "Chaque tribunal de première instance sera composé de quatre juges et trois suppléans, dans les villes ci-après :\n\nBourg\n\nAin.\n\nLaon\n\nSoissons\n\nSaint-Quentin\n\nAisne.\n\nMoulins\n\nMontluçon\n\nAllier.\n\nGap\n\nAlpes (Hautes).\n\nNice\n\nAlpes-Maritimes.\n\nTournon\n\nArdèche.\n\nCharleville\n\nSedan\n\nArdennes.\n\nTroyes\n\nAube.\n\nCarcassonne\n\nCastelnaudary\n\nNarbonne\n\nAude.\n\nRodès\n\nMilhau\n\nVillefranche\n\nAveyron.\n\nTarascon\n\nAix\n\nBouches-du-Rhône.\n\nBayeux\n\nPont-l'Evêque\n\nLisieux\n\nFalaise\n\nVire\n\nCalvados.\n\nAurillac\n\nSaint-Flour\n\nCantal.\n\nAngoulême\n\nCharente.\n\nSaintes\n\nSaint-Jean-d'Angely\n\nMarennes\n\nLa Rochelle\n\nRochefort\n\nCharente-Infér.\n\nSaint-Amand\n\nBourges\n\nCher.\n\nTulle\n\nBrives\n\nCorrèze.\n\nBeaune\n\nDijon\n\nCôtes-d'Or.\n\nSaint-Brieux\n\nDinan\n\nLoudéac\n\nCôtes-du-Nord.\n\nPérigueux\n\nSarlat\n\nBergerac\n\nDordogne.\n\nBesançon\n\nDoubs.\n\nValence\n\nMontélimart\n\nDrôme.\n\nNivelle\n\nLouvain\n\nDyle.\n\nDendermonde\n\nEscaut.\n\nÉvreux\n\nLouviers\n\nBernay\n\nEure.\n\nChartres\n\nNogent\n\nChâteaudun\n\nEure-et-Loir.\n\nQuimper\n\nMorlaix\n\nBrest\n\nFinistère.\n\nLuxembourg\n\nForêts.\n\nAlais\n\nUzès\n\nGard.\n\nCastel-Sarrasin\n\nHaute-Garonne.\n\nAuch\n\nCondom\n\nLectoure\n\nGers.\n\nLibourne\n\nGirdonde.\n\nBastia\n\nGolo.\n\nLodeve\n\nBeziers\n\nHérault.\n\nSaint-Malo\n\nFougères\n\nVitré\n\nIle-et-Vilaine.\n\nChâteauroux\n\nIssoudun\n\nIndre.\n\nChinon\n\nTours\n\nIndre-et-Loire.\n\nVienne\n\nGrenoble\n\nIsère.\n\nMons\n\nTournay\n\nJemmape.\n\nLons-le-Saulnier\n\nDôle\n\nArbois\n\nJura.\n\nGenève\n\nLéman.\n\nBlois\n\nVendôme\n\nRomorantin\n\nLoir-et-Cher.\n\nRoanne\n\nSaint-Etienne\n\nLoire.\n\nLe Puy\n\nIssengeaux\n\nHaute-Loire.\n\nMontargis\n\nLoiret.\n\nFigeac\n\nCahors\n\nMontauban\n\nLot.\n\nAgen\n\nLot-et-Garonne.\n\nFurnes\n\nYpres\n\nCourtray\n\nLys.\n\nSaumur\n\nMaine-et-Loire.\n\nValogne\n\nCoutances\n\nManche.\n\nChâlons\n\nVitry-le-Français\n\nMarne.\n\nChaumont\n\nLangres\n\nHaute-Marne.\n\nLaval\n\nMayenne\n\nMayenne.\n\nToul\n\nLunéville\n\nMeurthe.\n\nBar\n\nVerdun\n\nMeuse.\n\nHasselt\n\nMaëstricht\n\nMeuse-Inférieure.\n\nChambéry\n\nMont-Blanc.\n\nVannes\n\nPloërmel\n\nLorient\n\nMorbihan.\n\nThionville\n\nMoselle.\n\nTurnhout\n\nMalines\n\nDeux-Nèthes.\n\nNevers\n\nNièvre.\n\nBergues\n\nHazelbrouck\n\nValenciennes\n\nCambray\n\nNord.\n\nBeauvais\n\nCompiègne\n\nOise.\n\nHuy\n\nOurthe.\n\nBoulogne\n\nBéthune\n\nArras\n\nSaint-Omer\n\nPas-de-Calais.\n\nRiom\n\nThiers\n\nAmbert\n\nClermont\n\nPuy-de-Dôme.\n\nPau\n\nBaïonne\n\nBasses-Pyrénées.\n\nTarbes\n\nHautes-Pyrénées.\n\nPerpignan\n\nPyrénées-Orient.\n\nColmar\n\nHaut-Rhin.\n\nNamur\n\nSambre-et-Meuse.\n\nVesoul\n\nHaute-Saone.\n\nMâcon\n\nAutun\n\nChâlons\n\nSaone-et-Loire.\n\nMamers\n\nLe Mans\n\nSarthe.\n\nYvetot\n\nLe Havre\n\nDieppe\n\nSeine-Inférieure.\n\nMelun\n\nMeaux\n\nFontainebleau\n\nProvins\n\nSeine-et-Marne.\n\nPontoise\n\nÉtampes\n\nSeine-et-Oise.\n\nNiort\n\nDeux-Sèvres.\n\nAbbeville\n\nSomme.\n\nCastres\n\nGaillac\n\nAlby\n\nTarn.\n\nBrignolles\n\nDraguignan\n\nGrasse\n\nToulon\n\nVar.\n\nOrange\n\nCarpentras\n\nApt\n\nAvignon\n\nVaucluse.\n\nFontenay\n\nVendée.\n\nChâtellerault\n\nPoitiers\n\nVienne.\n\nSaint-Yrieix\n\nLimoges\n\nHaute-Vienne.\n\nÉpinal\n\nMirecourt\n\nSaint-Dié\n\nVosges.\n\nAuxerre\n\nSens\n\nYonne.\n\ncenter\n\n1\n\n1\n\n1",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Chaque tribunal de première instance sera composé de sept juges et quatre suppléans, et se divisera en deux sections, dans les villes ci-après :\n\nAmiens,\n\nAngers,\n\nAnvers,\n\nBruges,\n\nBruxelles,\n\nCaen,\n\nGand,\n\nLiége,\n\nLille,\n\nMetz,\n\nMontpellier,\n\nNanci,\n\nNantes,\n\nNîmes,\n\nOrléans,\n\nReims,\n\nRennes,\n\nRouen,\n\nStrasbourg,\n\nToulouse,\n\nVersailles."
+      "content": "Chaque tribunal de première instance sera composé de sept juges et quatre suppléans, et se divisera en deux sections, dans les villes ci-après :\n\nAmiens,\n\nAngers,\n\nAnvers,\n\nBruges,\n\nBruxelles,\n\nCaen,\n\nGand,\n\nLiége,\n\nLille,\n\nMetz,\n\nMontpellier,\n\nNanci,\n\nNantes,\n\nNîmes,\n\nOrléans,\n\nReims,\n\nRennes,\n\nRouen,\n\nStrasbourg,\n\nToulouse,\n\nVersailles.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Chaque tribunal de première instance sera composé de dix juges, de cinq suppléans, et se diviersa en trois sections, dans les villes ci-après :\n\nMarseille,\n\nBordeaux,\n\nLyon."
+      "content": "Chaque tribunal de première instance sera composé de dix juges, de cinq suppléans, et se diviersa en trois sections, dans les villes ci-après :\n\nMarseille,\n\nBordeaux,\n\nLyon.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les suppléans n'auront point de fonctions habituelles ; ils seront uniquement nommés pour remplacer momentanément, selon l'ordre de leur nomination, soit les juges, soit les commissaires du Gouvernement."
+      "content": "Les suppléans n'auront point de fonctions habituelles ; ils seront uniquement nommés pour remplacer momentanément, selon l'ordre de leur nomination, soit les juges, soit les commissaires du Gouvernement.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Il y aura près de chaque tribunal de première instance, un commissaire du Gouvernement et un greffier.\n\nIl y aura un substitut du commissaire dans les villes mentionnées à l'article 10, et deux substituts dans celles mentionnées à l'article 11."
+      "content": "Il y aura près de chaque tribunal de première instance, un commissaire du Gouvernement et un greffier.\n\nIl y aura un substitut du commissaire dans les villes mentionnées à l'article 10, et deux substituts dans celles mentionnées à l'article 11.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Le premier Consul choisira, tous les trois ans, parmi les juges de chaque tribunal, un président ; il choisira, en outre, un vice-président dans les tribunaux qui se divisent en deux sections, et deux vice-présidens dans les tribunaux qui se divisent en trois sections. Les présidens et vice-présidens seront toujours rééligibles : la première nomination n'en sera faite que pour un an."
+      "content": "Le premier Consul choisira, tous les trois ans, parmi les juges de chaque tribunal, un président ; il choisira, en outre, un vice-président dans les tribunaux qui se divisent en deux sections, et deux vice-présidens dans les tribunaux qui se divisent en trois sections. Les présidens et vice-présidens seront toujours rééligibles : la première nomination n'en sera faite que pour un an.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Dans les tribunaux où il n'y a que trois juges, chacun d'eux fera tour-à-tour, pendant trois mois, les fonctions de directeur de jury.\n\nDans les tribunaux où il y a plus de trois juges, ces fonctions seront successivement remplies, pendant six mois, par chacun des juges autres que les présidens et vice-présidens."
+      "content": "Dans les tribunaux où il n'y a que trois juges, chacun d'eux fera tour-à-tour, pendant trois mois, les fonctions de directeur de jury.\n\nDans les tribunaux où il y a plus de trois juges, ces fonctions seront successivement remplies, pendant six mois, par chacun des juges autres que les présidens et vice-présidens.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Les jugemens de tous tribunaux de première instance ne pourront être rendus par moins de trois juges.\n\nL'odre du service, dans chaque tribunal de première instance, sera établi par un réglement du tribunal, soumis à l'approbation du Gouvernement."
+      "content": "Les jugemens de tous tribunaux de première instance ne pourront être rendus par moins de trois juges.\n\nL'odre du service, dans chaque tribunal de première instance, sera établi par un réglement du tribunal, soumis à l'approbation du Gouvernement.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Jusqu'à la paix générale, le traitement des juges de première instance sera fixé comme il suit :\n\nA 1000 francs, dans les villes comprises aux art. 8 et 9, autres néanmoins que les villes ci-après, où le traitement des juges sera de 1200 francs :\n\nAix,\n\nAbbeville,\n\nArras,\n\nAvignon,\n\nBesançon,\n\nBourges,\n\nBrest,\n\nCambrai,\n\nClermont (Puy-de-Dôme),\n\nCourtrai,\n\nDieppe,\n\nDijon,\n\nGenève,\n\nGrenoble,\n\nHavre (Le),\n\nLa Rochelle,\n\nLimoges,\n\nLorient,\n\nLouvain,\n\nMaëstricht,\n\nMalines,\n\nMans (Le),\n\nMons,\n\nMontauban,\n\nNamur,\n\nNice,\n\nPoitiers,\n\nRochefort,\n\nSaint-Etienne,\n\nSaint-Omer,\n\nToulon,\n\nTournai,\n\nTours,\n\nTroyes,\n\nValenciennes ;\n\nA 1500 francs, dans les villes de\n\nAmiens,\n\nAngers,\n\nBruges,\n\nCaen,\n\nMetz,\n\nMontpellier,\n\nNanci,\n\nNîmes,\n\nOrléans,\n\nReims,\n\nRennes,\n\nStrasbourg,\n\nVersailles ;\n\nA 1800 francs, dans les villes de\n\nAnvers,\n\nBruxelles,\n\nGand,\n\nLiége,\n\nLille,\n\nNantes,\n\nRouen,\n\nToulouse ;\n\nA 2400 francs, dans celles de\n\nBordeaux,\n\nLyon,\n\nMarseille."
+      "content": "Jusqu'à la paix générale, le traitement des juges de première instance sera fixé comme il suit :\n\nA 1000 francs, dans les villes comprises aux art. 8 et 9, autres néanmoins que les villes ci-après, où le traitement des juges sera de 1200 francs :\n\nAix,\n\nAbbeville,\n\nArras,\n\nAvignon,\n\nBesançon,\n\nBourges,\n\nBrest,\n\nCambrai,\n\nClermont (Puy-de-Dôme),\n\nCourtrai,\n\nDieppe,\n\nDijon,\n\nGenève,\n\nGrenoble,\n\nHavre (Le),\n\nLa Rochelle,\n\nLimoges,\n\nLorient,\n\nLouvain,\n\nMaëstricht,\n\nMalines,\n\nMans (Le),\n\nMons,\n\nMontauban,\n\nNamur,\n\nNice,\n\nPoitiers,\n\nRochefort,\n\nSaint-Etienne,\n\nSaint-Omer,\n\nToulon,\n\nTournai,\n\nTours,\n\nTroyes,\n\nValenciennes ;\n\nA 1500 francs, dans les villes de\n\nAmiens,\n\nAngers,\n\nBruges,\n\nCaen,\n\nMetz,\n\nMontpellier,\n\nNanci,\n\nNîmes,\n\nOrléans,\n\nReims,\n\nRennes,\n\nStrasbourg,\n\nVersailles ;\n\nA 1800 francs, dans les villes de\n\nAnvers,\n\nBruxelles,\n\nGand,\n\nLiége,\n\nLille,\n\nNantes,\n\nRouen,\n\nToulouse ;\n\nA 2400 francs, dans celles de\n\nBordeaux,\n\nLyon,\n\nMarseille.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Les présidens auront un supplément de moitié en sus ; les vices-présidens, un supplément du quart en sus.\n\nLes commissaires du Gouvernement auront le même traitement que les présidens, les substituts du commissaire, le même traitement que les juges."
+      "content": "Les présidens auront un supplément de moitié en sus ; les vices-présidens, un supplément du quart en sus.\n\nLes commissaires du Gouvernement auront le même traitement que les présidens, les substituts du commissaire, le même traitement que les juges.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "La moitié du traitement fixe des présidens, vice-présidens et autres juges, sera mise en masse, et distribuée en droits d'assistance : le suppléant qui remplacera le juge, aura son droit d'assistance.\n\nEn cas d'absence des commissaires et de leurs substituts, il leur sera fait une retenue proportionnelle, au profit de leur suppléant."
+      "content": "La moitié du traitement fixe des présidens, vice-présidens et autres juges, sera mise en masse, et distribuée en droits d'assistance : le suppléant qui remplacera le juge, aura son droit d'assistance.\n\nEn cas d'absence des commissaires et de leurs substituts, il leur sera fait une retenue proportionnelle, au profit de leur suppléant.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Les causes qui sont de la compétence des tribunaux de première instance, pendantes dans les tribunaux supprimés, seront portées, sur une simple citation, devant le nouveau tribunal qui doit en connaître."
+      "content": "Les causes qui sont de la compétence des tribunaux de première instance, pendantes dans les tribunaux supprimés, seront portées, sur une simple citation, devant le nouveau tribunal qui doit en connaître.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Il sera établi vingt-neuf tribunaux d'appel, dans les lieux et pour les départemens ci-après :\n\nVilles.\n\nDépartemens.\n\nAgen\n\nGers.\n\nLot-et-Garonne.\n\nLot.\n\nAix\n\nBouches-du-Rhône.\n\nVar.\n\nBasses-alpes.\n\nAlpes-Maritimes.\n\nAjaccio\n\nGolo.\n\nLiamone.\n\nAmiens\n\nAisne.\n\nSomme.\n\nOise.\n\nAngers\n\nMaine-et-Loire.\n\nMayenne.\n\nSarthe.\n\nBesançon\n\nJura.\n\nDoubs.\n\nHaute-Saone.\n\nBordeaux\n\nCharente.\n\nDordogne.\n\nGirdonde.\n\nBourges\n\nNièvre.\n\nCher.\n\nIndre.\n\nBruxelles\n\nDyle.\n\nLys.\n\nEscaut.\n\nDeux-Nèthes.\n\nJemmape.\n\nCaen\n\nOrne.\n\nManche.\n\nCalvados.\n\nColmar\n\nHaut-Rhin.\n\nBas-Rhin.\n\nDijon\n\nCôte-d'Or.\n\nSaone-et-Loire.\n\nHaute-Marne.\n\nDouai\n\nPas-de-Calais.\n\nNord.\n\nGrenoble\n\nDrôme.\n\nHautes-Alpes.\n\nIsère.\n\nMont-Blanc.\n\nLiége\n\nOurthe.\n\nSambre-et-Meuse.\n\nMeuse-Inférieure.\n\nLimoges\n\nCreuse.\n\nCorrèze.\n\nHaute-Vienne.\n\nLyon\n\nLéman.\n\nAin.\n\nLoire.\n\nRhône.\n\nMetz\n\nArdennes.\n\nMoselle.\n\nForêts.\n\nMontpellier\n\nPyrénées-Orient.\n\nAude.\n\nAveyron.\n\nHerault.\n\nNanci\n\nMeurthe.\n\nVosges.\n\nMeuse.\n\nNîmes\n\nLozère.\n\nGard.\n\nArdèche.\n\nVaucluse.\n\nOrléans\n\nLoir-et-Cher.\n\nLoiret.\n\nIndre-et-Loire.\n\nPau\n\nLes Landes.\n\nBasses-Pyrénées.\n\nHautes-Pyrénées.\n\nParis\n\nYonne.\n\nSeine-et-Oise.\n\nSeine.\n\nSeine-et-Marne.\n\nEure-et-Loir.\n\nMarne.\n\nAube.\n\nPoitiers\n\nCharente-Infér.\n\nVendée.\n\nDeux-Sèvres.\n\nVienne.\n\nRennes\n\nLoire-Inférieure.\n\nFinistère.\n\nCôtes-du-Nord.\n\nMorbihan.\n\nIlle-et-Vilaine.\n\nRiom\n\nAllier.\n\nCantal.\n\nPuy-de-Dôme.\n\nHaute-Loire.\n\nRouen\n\nEure.\n\nSeine-Inférieure.\n\nToulouse\n\nArriège.\n\nHaute-Garonne.\n\nTarn.\n\ncenter\n\n1\n\n1\n\n1"
+      "content": "Il sera établi vingt-neuf tribunaux d'appel, dans les lieux et pour les départemens ci-après :\n\nVilles.\n\nDépartemens.\n\nAgen\n\nGers.\n\nLot-et-Garonne.\n\nLot.\n\nAix\n\nBouches-du-Rhône.\n\nVar.\n\nBasses-alpes.\n\nAlpes-Maritimes.\n\nAjaccio\n\nGolo.\n\nLiamone.\n\nAmiens\n\nAisne.\n\nSomme.\n\nOise.\n\nAngers\n\nMaine-et-Loire.\n\nMayenne.\n\nSarthe.\n\nBesançon\n\nJura.\n\nDoubs.\n\nHaute-Saone.\n\nBordeaux\n\nCharente.\n\nDordogne.\n\nGirdonde.\n\nBourges\n\nNièvre.\n\nCher.\n\nIndre.\n\nBruxelles\n\nDyle.\n\nLys.\n\nEscaut.\n\nDeux-Nèthes.\n\nJemmape.\n\nCaen\n\nOrne.\n\nManche.\n\nCalvados.\n\nColmar\n\nHaut-Rhin.\n\nBas-Rhin.\n\nDijon\n\nCôte-d'Or.\n\nSaone-et-Loire.\n\nHaute-Marne.\n\nDouai\n\nPas-de-Calais.\n\nNord.\n\nGrenoble\n\nDrôme.\n\nHautes-Alpes.\n\nIsère.\n\nMont-Blanc.\n\nLiége\n\nOurthe.\n\nSambre-et-Meuse.\n\nMeuse-Inférieure.\n\nLimoges\n\nCreuse.\n\nCorrèze.\n\nHaute-Vienne.\n\nLyon\n\nLéman.\n\nAin.\n\nLoire.\n\nRhône.\n\nMetz\n\nArdennes.\n\nMoselle.\n\nForêts.\n\nMontpellier\n\nPyrénées-Orient.\n\nAude.\n\nAveyron.\n\nHerault.\n\nNanci\n\nMeurthe.\n\nVosges.\n\nMeuse.\n\nNîmes\n\nLozère.\n\nGard.\n\nArdèche.\n\nVaucluse.\n\nOrléans\n\nLoir-et-Cher.\n\nLoiret.\n\nIndre-et-Loire.\n\nPau\n\nLes Landes.\n\nBasses-Pyrénées.\n\nHautes-Pyrénées.\n\nParis\n\nYonne.\n\nSeine-et-Oise.\n\nSeine.\n\nSeine-et-Marne.\n\nEure-et-Loir.\n\nMarne.\n\nAube.\n\nPoitiers\n\nCharente-Infér.\n\nVendée.\n\nDeux-Sèvres.\n\nVienne.\n\nRennes\n\nLoire-Inférieure.\n\nFinistère.\n\nCôtes-du-Nord.\n\nMorbihan.\n\nIlle-et-Vilaine.\n\nRiom\n\nAllier.\n\nCantal.\n\nPuy-de-Dôme.\n\nHaute-Loire.\n\nRouen\n\nEure.\n\nSeine-Inférieure.\n\nToulouse\n\nArriège.\n\nHaute-Garonne.\n\nTarn.\n\ncenter\n\n1\n\n1\n\n1",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Les tribunaux d'appel statueront sur les appels des jugemens de première instance rendus en matière civile par les tribunaux d'arrondissement, et sur les appels des jugemens de première instancerendus par les tribunaux de commerce."
+      "content": "Les tribunaux d'appel statueront sur les appels des jugemens de première instance rendus en matière civile par les tribunaux d'arrondissement, et sur les appels des jugemens de première instancerendus par les tribunaux de commerce.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Le tribunal d'appel sera composé de douze juges, dans les villes de\n\nAjaccio,\n\nColmar ;\n\nDe treize juges, dans celles de\n\nBourges,\n\nLiége,\n\nLimoges,\n\nOrléans,\n\nBesançon,\n\nDijon,\n\nPau,\n\nMetz,\n\nToulouse,\n\nNanci ;\n\nDe quatorze juges, dans celles de\n\nMontpellier,\n\nNîmes,\n\nAix ;\n\nDe vingt juges, dans les villes de\n\nRouen,\n\nDouai ;\n\nDe vingt-et-un juges, dans celles de\n\nAgen,\n\nAngers,\n\nAmiens,\n\nBordeaux,\n\nCaen ;\n\nDe vingt-deux, dans celles de\n\nRiom,\n\nPoitiers,\n\nLyon,\n\nGrenoble ;\n\nDe trente-un, dans les villes de\n\nRennes,\n\nBruxelles.\n\nLes tribunaux d'appel composés de vingt à trente juges, se diviseront en deux sections.\n\nLes tribunaux d'appel composés de trente-un juges, se diviseront en trois sections."
+      "content": "Le tribunal d'appel sera composé de douze juges, dans les villes de\n\nAjaccio,\n\nColmar ;\n\nDe treize juges, dans celles de\n\nBourges,\n\nLiége,\n\nLimoges,\n\nOrléans,\n\nBesançon,\n\nDijon,\n\nPau,\n\nMetz,\n\nToulouse,\n\nNanci ;\n\nDe quatorze juges, dans celles de\n\nMontpellier,\n\nNîmes,\n\nAix ;\n\nDe vingt juges, dans les villes de\n\nRouen,\n\nDouai ;\n\nDe vingt-et-un juges, dans celles de\n\nAgen,\n\nAngers,\n\nAmiens,\n\nBordeaux,\n\nCaen ;\n\nDe vingt-deux, dans celles de\n\nRiom,\n\nPoitiers,\n\nLyon,\n\nGrenoble ;\n\nDe trente-un, dans les villes de\n\nRennes,\n\nBruxelles.\n\nLes tribunaux d'appel composés de vingt à trente juges, se diviseront en deux sections.\n\nLes tribunaux d'appel composés de trente-un juges, se diviseront en trois sections.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "Il y aura près de chaque tribunal d'appel, un commissaire du Gouvernement et un greffier ; il y aura un substitut du commissaire dans les tribunaux qui se divisent en deux sections, deux substituts dans ceux qui se divisent en trois sections."
+      "content": "Il y aura près de chaque tribunal d'appel, un commissaire du Gouvernement et un greffier ; il y aura un substitut du commissaire dans les tribunaux qui se divisent en deux sections, deux substituts dans ceux qui se divisent en trois sections.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Le premier Consul choisira, tous les trois ans, parmi les juges de chaque tribunal d'appel, un président ; il choisira, en outre, un vice-président dans les tribunaux d'appel qui se divisent en deux sections, et deux vice-présidens dans les tribunaux d'appel qui se divisent en trois sections. Ces présidens et vice-présidens seront toujours rééligibles : la première nomination n'en sera faite que pour un an."
+      "content": "Le premier Consul choisira, tous les trois ans, parmi les juges de chaque tribunal d'appel, un président ; il choisira, en outre, un vice-président dans les tribunaux d'appel qui se divisent en deux sections, et deux vice-présidens dans les tribunaux d'appel qui se divisent en trois sections. Ces présidens et vice-présidens seront toujours rééligibles : la première nomination n'en sera faite que pour un an.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "En cas d'empêchement du commissaire du Gouvernement et des substituts près les tribunaux d'appel, les fonctions du ministère public seront momentanément remplies par le dernier nommé des juges."
+      "content": "En cas d'empêchement du commissaire du Gouvernement et des substituts près les tribunaux d'appel, les fonctions du ministère public seront momentanément remplies par le dernier nommé des juges.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Les jugemens des tribunaux d'appel ne pourront être rendus par moins de sept juges. L'ordre du service, dans chaque tribunal d'appel, sera établi par un réglement du tribunal, soumis à l'approbation du Gouvernement."
+      "content": "Les jugemens des tribunaux d'appel ne pourront être rendus par moins de sept juges. L'ordre du service, dans chaque tribunal d'appel, sera établi par un réglement du tribunal, soumis à l'approbation du Gouvernement.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "Jusqu'à la paix générale, le traitement des juges d'appel sera établi comme il suit :\n\nA 2,000 francs, dans les villes de\n\nAjaccio,\n\nAgen,\n\nColmar,\n\nPau,\n\nRiom ;\n\nA 2,400 francs, dans celles de\n\nAix,\n\nBourges,\n\nBesançon,\n\nDouai,\n\nDijon,\n\nGrenoble,\n\nLimoges,\n\nPoitiers ;\n\nA 3,000 francs, dans celles de\n\nAngers,\n\nAmiens,\n\nCaen,\n\nMontpellier,\n\nMetz,\n\nNanci,\n\nNîmes,\n\nOrléans,\n\nRennes ;\n\nA 3,600 francs, dans celles de\n\nBruxelles,\n\nLiége,\n\nRouen,\n\nToulouse ;\n\nA 4,200 francs, dans celles de\n\nBordeaux,\n\nLyon."
+      "content": "Jusqu'à la paix générale, le traitement des juges d'appel sera établi comme il suit :\n\nA 2,000 francs, dans les villes de\n\nAjaccio,\n\nAgen,\n\nColmar,\n\nPau,\n\nRiom ;\n\nA 2,400 francs, dans celles de\n\nAix,\n\nBourges,\n\nBesançon,\n\nDouai,\n\nDijon,\n\nGrenoble,\n\nLimoges,\n\nPoitiers ;\n\nA 3,000 francs, dans celles de\n\nAngers,\n\nAmiens,\n\nCaen,\n\nMontpellier,\n\nMetz,\n\nNanci,\n\nNîmes,\n\nOrléans,\n\nRennes ;\n\nA 3,600 francs, dans celles de\n\nBruxelles,\n\nLiége,\n\nRouen,\n\nToulouse ;\n\nA 4,200 francs, dans celles de\n\nBordeaux,\n\nLyon.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "Les présidens auront un supplément de moitié en sus ; les vice-présidens, un supplément du quart en sus.\n\nLes commissaires du Gouvernement auront le même traitement que les présidens ; les substituts, le même traitement que les juges."
+      "content": "Les présidens auront un supplément de moitié en sus ; les vice-présidens, un supplément du quart en sus.\n\nLes commissaires du Gouvernement auront le même traitement que les présidens ; les substituts, le même traitement que les juges.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "La moitié du traitement fixe des présidens, des vice-présidens, et des autres juges faisant le service au tribunal d'appel, sera mise en masse, et distribuée en droits d'assistance."
+      "content": "La moitié du traitement fixe des présidens, des vice-présidens, et des autres juges faisant le service au tribunal d'appel, sera mise en masse, et distribuée en droits d'assistance.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "Les causes d'appel pendantes dans les tribunaux supprimés, seront portées, dans l'état où elles se trouveront, et par une simple citation, au tribunal d'appel dans le ressort duquel siégeait le tribunal qui a rendu le jugement dont est appel."
+      "content": "Les causes d'appel pendantes dans les tribunaux supprimés, seront portées, dans l'état où elles se trouveront, et par une simple citation, au tribunal d'appel dans le ressort duquel siégeait le tribunal qui a rendu le jugement dont est appel.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "Il y aura un tribunal criminel dans chaque département.\n\nLes nouveaux tribunaux siégeront dans les villes ci-après :\n\nAix,\n\nAuxerre,\n\nAngoulême,\n\nAuch,\n\nAjaccio,\n\nAgen,\n\nAngers,\n\nAnvers,\n\nAlençon,\n\nAmiens,\n\nAlby,\n\nBourg,\n\nBourges,\n\nBesançon,\n\nBruxelles,\n\nBordeaux,\n\nBastia,\n\nBlois,\n\nBruges,\n\nBeauvais,\n\nCharleville,\n\nCarcassonne,\n\nCaen,\n\nCarpentras,\n\nChartres,\n\nChâteauroux,\n\nCahors,\n\nCoutances,\n\nChaumont,\n\nChambéry,\n\nColmar,\n\nChâlons-sur-Saone,\n\nDigne,\n\nDijon,\n\nDax,\n\nDouai,\n\nEmbrun,\n\nÉpinal,\n\nÉvreux,\n\nFoix,\n\nFontenay,\n\nGuéret,\n\nGand,\n\nGrenoble,\n\nGenève,\n\nLaon,\n\nLimoges,\n\nLuxembourg,\n\nLons-le-Saulnier,\n\nLe Puy,\n\nLaval,\n\nLiége,\n\nLe Mans,\n\nLyon,\n\nMoulins,\n\nMontpellier,\n\nMons,\n\nMontbrison,\n\nMende,\n\nMaëstricht,\n\nMetz,\n\nMelun,\n\nNice,\n\nNîmes,\n\nNantes,\n\nNanci,\n\nNevers,\n\nNamur,\n\nNiort,\n\nOrléans,\n\nPrivas,\n\nPoitiers,\n\nPérigueux,\n\nPerpignan,\n\nPau,\n\nQuimper,\n\nRodès,\n\nRiom,\n\nRouen,\n\nRennes,\n\nReims,\n\nSaint-Flour,\n\nSaintes,\n\nSaint-Brieux,\n\nSaint-Mihiel,\n\nSaint-Omer,\n\nStrasbourg,\n\nTroyes,\n\nToulon,\n\nTulle,\n\nTarbes,\n\nToulouse,\n\nTours,\n\nValence,\n\nVannes,\n\nVesoul,\n\nVersailles."
+      "content": "Il y aura un tribunal criminel dans chaque département.\n\nLes nouveaux tribunaux siégeront dans les villes ci-après :\n\nAix,\n\nAuxerre,\n\nAngoulême,\n\nAuch,\n\nAjaccio,\n\nAgen,\n\nAngers,\n\nAnvers,\n\nAlençon,\n\nAmiens,\n\nAlby,\n\nBourg,\n\nBourges,\n\nBesançon,\n\nBruxelles,\n\nBordeaux,\n\nBastia,\n\nBlois,\n\nBruges,\n\nBeauvais,\n\nCharleville,\n\nCarcassonne,\n\nCaen,\n\nCarpentras,\n\nChartres,\n\nChâteauroux,\n\nCahors,\n\nCoutances,\n\nChaumont,\n\nChambéry,\n\nColmar,\n\nChâlons-sur-Saone,\n\nDigne,\n\nDijon,\n\nDax,\n\nDouai,\n\nEmbrun,\n\nÉpinal,\n\nÉvreux,\n\nFoix,\n\nFontenay,\n\nGuéret,\n\nGand,\n\nGrenoble,\n\nGenève,\n\nLaon,\n\nLimoges,\n\nLuxembourg,\n\nLons-le-Saulnier,\n\nLe Puy,\n\nLaval,\n\nLiége,\n\nLe Mans,\n\nLyon,\n\nMoulins,\n\nMontpellier,\n\nMons,\n\nMontbrison,\n\nMende,\n\nMaëstricht,\n\nMetz,\n\nMelun,\n\nNice,\n\nNîmes,\n\nNantes,\n\nNanci,\n\nNevers,\n\nNamur,\n\nNiort,\n\nOrléans,\n\nPrivas,\n\nPoitiers,\n\nPérigueux,\n\nPerpignan,\n\nPau,\n\nQuimper,\n\nRodès,\n\nRiom,\n\nRouen,\n\nRennes,\n\nReims,\n\nSaint-Flour,\n\nSaintes,\n\nSaint-Brieux,\n\nSaint-Mihiel,\n\nSaint-Omer,\n\nStrasbourg,\n\nTroyes,\n\nToulon,\n\nTulle,\n\nTarbes,\n\nToulouse,\n\nTours,\n\nValence,\n\nVannes,\n\nVesoul,\n\nVersailles.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art33",
       "section": "33",
       "title": "Article 33",
-      "content": "Les tribunaux criminels connaîtront, comme par le passé, de toutes les affaires criminelles ; ils statueront sur les appels des jugemens rendus par les tribunaux de première instance en matière de police correctionnelle."
+      "content": "Les tribunaux criminels connaîtront, comme par le passé, de toutes les affaires criminelles ; ils statueront sur les appels des jugemens rendus par les tribunaux de première instance en matière de police correctionnelle.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "Ils seront composés d'un président, de deux juges et de deux suppléans. Le président sera choisi tous les ans par le premier Consul, parmi les juges du tribunal d'appel. Le président sera toujours rééligible."
+      "content": "Ils seront composés d'un président, de deux juges et de deux suppléans. Le président sera choisi tous les ans par le premier Consul, parmi les juges du tribunal d'appel. Le président sera toujours rééligible.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "Il y aura près du tribunal criminel un commissaire du Gouvernement et un greffier. Il sera établi un substitut du commissaire dans les villes où le Gouvernement le croira utile."
+      "content": "Il y aura près du tribunal criminel un commissaire du Gouvernement et un greffier. Il sera établi un substitut du commissaire dans les villes où le Gouvernement le croira utile.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "Les jugemens du tribunal criminel seront rendus par trois juges."
+      "content": "Les jugemens du tribunal criminel seront rendus par trois juges.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "Jusqu'à la paix générale, le traitement des juges des tribunaux criminels sera fixé comme il suit :\n\nA 2,000 francs, dans les villes ci-après ;\n\nAngoulême,\n\nAuch,\n\nAjaccio,\n\nAgen,\n\nAlençon,\n\nAlby,\n\nAuxerre,\n\nBourg,\n\nBastia,\n\nBlois,\n\nBeauvais,\n\nCharleville,\n\nCarcassonne,\n\nChartres,\n\nChâteauroux,\n\nCahors,\n\nCoutances,\n\nChaumont-la-Marne,\n\nChambéry,\n\nColmar,\n\nChâlons-sur-Saone,\n\nCarpentras,\n\nDigne,\n\nDax,\n\nEmbrun,\n\nÉvreux,\n\nÉpinal,\n\nFoix,\n\nFontenay,\n\nGuéret,\n\nLaon,\n\nLuxembourg,\n\nLons-le-Saulnier,\n\nLe Puy,\n\nLaval,\n\nMoulins,\n\nMontbrison,\n\nMende,\n\nMelun,\n\nNevers,\n\nNiort,\n\nPrivas,\n\nPérigueux,\n\nPau,\n\nPerpignan,\n\nQuimper,\n\nRodès,\n\nRiom,\n\nSaint-Flour,\n\nSaintes,\n\nSaint-Brieux,\n\nSaint-Mihiel,\n\nTulle,\n\nTarbes,\n\nValence,\n\nVannes,\n\nVesoul ;\n\nA 2,400 francs, dans celles de\n\nAix,\n\nBourges,\n\nBesançon,\n\nDijon,\n\nDouai,\n\nGrenoble,\n\nGenève,\n\nLe Mans,\n\nLimoges,\n\nMons,\n\nMaëstricht,\n\nNice,\n\nNamur,\n\nPoitiers,\n\nSaint-Omer,\n\nTroyes,\n\nTours,\n\nToulon ;\n\nA 3,000 francs, dans celles de\n\nAngers,\n\nAmiens,\n\nBruges,\n\nCaen,\n\nMontpellier,\n\nMetz,\n\nNîmes,\n\nNanci,\n\nOrléans,\n\nRennes,\n\nReims,\n\nStrasbourg,\n\nVersailles ;\n\nA 3,600 francs, dans celles de\n\nAnvers,\n\nBruxelles,\n\nGand,\n\nLiége,\n\nNantes,\n\nRouen,\n\nToulouse ;\n\nA 4,200 francs, dans celles de\n\nBordeaux,\n\nLyon."
+      "content": "Jusqu'à la paix générale, le traitement des juges des tribunaux criminels sera fixé comme il suit :\n\nA 2,000 francs, dans les villes ci-après ;\n\nAngoulême,\n\nAuch,\n\nAjaccio,\n\nAgen,\n\nAlençon,\n\nAlby,\n\nAuxerre,\n\nBourg,\n\nBastia,\n\nBlois,\n\nBeauvais,\n\nCharleville,\n\nCarcassonne,\n\nChartres,\n\nChâteauroux,\n\nCahors,\n\nCoutances,\n\nChaumont-la-Marne,\n\nChambéry,\n\nColmar,\n\nChâlons-sur-Saone,\n\nCarpentras,\n\nDigne,\n\nDax,\n\nEmbrun,\n\nÉvreux,\n\nÉpinal,\n\nFoix,\n\nFontenay,\n\nGuéret,\n\nLaon,\n\nLuxembourg,\n\nLons-le-Saulnier,\n\nLe Puy,\n\nLaval,\n\nMoulins,\n\nMontbrison,\n\nMende,\n\nMelun,\n\nNevers,\n\nNiort,\n\nPrivas,\n\nPérigueux,\n\nPau,\n\nPerpignan,\n\nQuimper,\n\nRodès,\n\nRiom,\n\nSaint-Flour,\n\nSaintes,\n\nSaint-Brieux,\n\nSaint-Mihiel,\n\nTulle,\n\nTarbes,\n\nValence,\n\nVannes,\n\nVesoul ;\n\nA 2,400 francs, dans celles de\n\nAix,\n\nBourges,\n\nBesançon,\n\nDijon,\n\nDouai,\n\nGrenoble,\n\nGenève,\n\nLe Mans,\n\nLimoges,\n\nMons,\n\nMaëstricht,\n\nNice,\n\nNamur,\n\nPoitiers,\n\nSaint-Omer,\n\nTroyes,\n\nTours,\n\nToulon ;\n\nA 3,000 francs, dans celles de\n\nAngers,\n\nAmiens,\n\nBruges,\n\nCaen,\n\nMontpellier,\n\nMetz,\n\nNîmes,\n\nNanci,\n\nOrléans,\n\nRennes,\n\nReims,\n\nStrasbourg,\n\nVersailles ;\n\nA 3,600 francs, dans celles de\n\nAnvers,\n\nBruxelles,\n\nGand,\n\nLiége,\n\nNantes,\n\nRouen,\n\nToulouse ;\n\nA 4,200 francs, dans celles de\n\nBordeaux,\n\nLyon.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "Le président du tribunal criminel, outre son traitement de juge d'appel, aura pour supplément la moitié du traitement d'un juge du tribunal criminel.\n\nLe traitement des commissaires sera le même que celui des présidens ; le traitement des substituts sera le même que celui des juges."
+      "content": "Le président du tribunal criminel, outre son traitement de juge d'appel, aura pour supplément la moitié du traitement d'un juge du tribunal criminel.\n\nLe traitement des commissaires sera le même que celui des présidens ; le traitement des substituts sera le même que celui des juges.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art39",
       "section": "39",
       "title": "Article 39",
-      "content": "Le supplément accordé au président, et la moitié du traitement de chaque juge, seront mis en masse, et distribués en droits d'assistance. Le suppléant qui remplacera un juge, aura son droit d'assistance. En cas d'absence des commissaires du Gouvernement, il leur sera fait une retenue proportionnelle, au profit du suppléant."
+      "content": "Le supplément accordé au président, et la moitié du traitement de chaque juge, seront mis en masse, et distribués en droits d'assistance. Le suppléant qui remplacera un juge, aura son droit d'assistance. En cas d'absence des commissaires du Gouvernement, il leur sera fait une retenue proportionnelle, au profit du suppléant.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art40",
       "section": "40",
       "title": "Article 40",
-      "content": "Il sera établi à Paris, pour tout le département de la Seine, un tribunal de première instance, qui aura la même compétence que les autres tribunaux de première instance."
+      "content": "Il sera établi à Paris, pour tout le département de la Seine, un tribunal de première instance, qui aura la même compétence que les autres tribunaux de première instance.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art41",
       "section": "41",
       "title": "Article 41",
-      "content": "Il sera composé de vingt-quatre juges, dont six seront chargés des fonctions de directeurs du jury ; et de douze suppléans."
+      "content": "Il sera composé de vingt-quatre juges, dont six seront chargés des fonctions de directeurs du jury ; et de douze suppléans.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art42",
       "section": "42",
       "title": "Article 42",
-      "content": "Il y aura près du tribunal de première instance du département de la Seine, un commissaire du Gouvernement, cinq substituts du commissaire, et un greffier."
+      "content": "Il y aura près du tribunal de première instance du département de la Seine, un commissaire du Gouvernement, cinq substituts du commissaire, et un greffier.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art43",
       "section": "43",
       "title": "Article 43",
-      "content": "Le premier Consul choisira, tous les trois ans, parmi les juges de ce tribunal, un président et cinq vice-présidens, qui seront toujours rééligibles ; les premières nominations n'en seront faites que pour un an."
+      "content": "Le premier Consul choisira, tous les trois ans, parmi les juges de ce tribunal, un président et cinq vice-présidens, qui seront toujours rééligibles ; les premières nominations n'en seront faites que pour un an.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art44",
       "section": "44",
       "title": "Article 44",
-      "content": "Le tribunal du département de la Seine se divisera en six sections. L'odre du service sera établi par un réglement du tribunal, soumis à l'approbation du Gouvernement."
+      "content": "Le tribunal du département de la Seine se divisera en six sections. L'odre du service sera établi par un réglement du tribunal, soumis à l'approbation du Gouvernement.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art45",
       "section": "45",
       "title": "Article 45",
-      "content": "Jusqu'à la paix générale, le traitement des juges de première instance du département de la Seine sera de 3,600 francs ; le président aura la moitié en sus, les vice-présidens le quart en sus. Le traitement du commissaire du Gouvernement sera le même que celui du président ; le traitement des substituts, le même que celui des juges."
+      "content": "Jusqu'à la paix générale, le traitement des juges de première instance du département de la Seine sera de 3,600 francs ; le président aura la moitié en sus, les vice-présidens le quart en sus. Le traitement du commissaire du Gouvernement sera le même que celui du président ; le traitement des substituts, le même que celui des juges.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art46",
       "section": "46",
       "title": "Article 46",
-      "content": "Hors les cas d'exception ci-dessus, le tribunal de première instance du département de la Seine se conformera à toutes les dispositions de la présente loi concernant les autres tribunaux de première instance."
+      "content": "Hors les cas d'exception ci-dessus, le tribunal de première instance du département de la Seine se conformera à toutes les dispositions de la présente loi concernant les autres tribunaux de première instance.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art47",
       "section": "47",
       "title": "Article 47",
-      "content": "Le tribunal d'appel établi à Paris, sera composé de trente-trois juges, parmi lesquels le premier Consul choisira, tous les trois ans, un président et deux vice-présidens, qui seront toujours rééligibles : la première nomination n'en sera faite que pour un an."
+      "content": "Le tribunal d'appel établi à Paris, sera composé de trente-trois juges, parmi lesquels le premier Consul choisira, tous les trois ans, un président et deux vice-présidens, qui seront toujours rééligibles : la première nomination n'en sera faite que pour un an.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art48",
       "section": "48",
       "title": "Article 48",
-      "content": "Il y aura près du tribunal d'appel à Paris, un commissaire du Gouvernement, deux substituts du commissaire, et un greffier."
+      "content": "Il y aura près du tribunal d'appel à Paris, un commissaire du Gouvernement, deux substituts du commissaire, et un greffier.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art49",
       "section": "49",
       "title": "Article 49",
-      "content": "Le tribunal d'appel se divisera en trois sections. L'ordre du service sera établi par un réglement du tribunal, soumis à l'approbation du Gouvernement."
+      "content": "Le tribunal d'appel se divisera en trois sections. L'ordre du service sera établi par un réglement du tribunal, soumis à l'approbation du Gouvernement.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art50",
       "section": "50",
       "title": "Article 50",
-      "content": "Le traitement des juges d'appel à Paris sera de 5,000 francs ; le président aura moitié en sus, les vice-présidens le quart en sus. Le commissaire du Gouvernement aura le même traitement que le président ; les substituts, le même traitement que les juges."
+      "content": "Le traitement des juges d'appel à Paris sera de 5,000 francs ; le président aura moitié en sus, les vice-présidens le quart en sus. Le commissaire du Gouvernement aura le même traitement que le président ; les substituts, le même traitement que les juges.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art51",
       "section": "51",
       "title": "Article 51",
-      "content": "Hors les cas d'exception ci-dessus, les dispositions de la présente loi concernant les tribunaux d'appel, seront communes à celui de Paris."
+      "content": "Hors les cas d'exception ci-dessus, les dispositions de la présente loi concernant les tribunaux d'appel, seront communes à celui de Paris.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art52",
       "section": "52",
       "title": "Article 52",
-      "content": "Le tribunal criminel du département de la Seine sera composé d'un président, d'un vice-président, choisis chaque année par le premier Consul, parmi les juges du tribunal d'appel, et qui seront toujours rééligibles ; de six juges, et de quatre suppléans."
+      "content": "Le tribunal criminel du département de la Seine sera composé d'un président, d'un vice-président, choisis chaque année par le premier Consul, parmi les juges du tribunal d'appel, et qui seront toujours rééligibles ; de six juges, et de quatre suppléans.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art53",
       "section": "53",
       "title": "Article 53",
-      "content": "Il y aura près du tribunal criminel, un commissaire du Gouvernement, deux substituts du commissaire, et un greffier."
+      "content": "Il y aura près du tribunal criminel, un commissaire du Gouvernement, deux substituts du commissaire, et un greffier.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art54",
       "section": "54",
       "title": "Article 54",
-      "content": "Le tribunal criminel du département de la Seine se divisera en deux sections. L'ordre du service sera établi par un réglement du tribunal, soumis à l'approbation du Gouvernement."
+      "content": "Le tribunal criminel du département de la Seine se divisera en deux sections. L'ordre du service sera établi par un réglement du tribunal, soumis à l'approbation du Gouvernement.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art55",
       "section": "55",
       "title": "Article 55",
-      "content": "Le traitement du président, du vice-président et des autres juges du tribunal criminel, celui du commissaire et des substituts, seront les mêmes que ceux des président, vice-présidens, commissaire et substituts du tribunal d'appel du département de la Seine."
+      "content": "Le traitement du président, du vice-président et des autres juges du tribunal criminel, celui du commissaire et des substituts, seront les mêmes que ceux des président, vice-présidens, commissaire et substituts du tribunal d'appel du département de la Seine.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art56",
       "section": "56",
       "title": "Article 56",
-      "content": "Les président, vice-présidens et autres juges du tribunal criminel, contribueront à la masse qui doit être distribuée en droits de présence, chacun d'une somme égale à la moitié du traitement d'un juge. Le suppléant qui remplacera un juge, aura son droit d'assistance."
+      "content": "Les président, vice-présidens et autres juges du tribunal criminel, contribueront à la masse qui doit être distribuée en droits de présence, chacun d'une somme égale à la moitié du traitement d'un juge. Le suppléant qui remplacera un juge, aura son droit d'assistance.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art57",
       "section": "57",
       "title": "Article 57",
-      "content": "Hors les cas d'exception ci-dessus, les dispositions de la présente loi concernant les tribunaux criminels, seront communes à celui du département de la Seine."
+      "content": "Hors les cas d'exception ci-dessus, les dispositions de la présente loi concernant les tribunaux criminels, seront communes à celui du département de la Seine.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art58",
       "section": "58",
       "title": "Article 58",
-      "content": "Le tribunal de cassation siégera à Paris, dans le local déterminé par le Gouvernement.\n\nIl sera composé de quarante-huit juges."
+      "content": "Le tribunal de cassation siégera à Paris, dans le local déterminé par le Gouvernement.\n\nIl sera composé de quarante-huit juges.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art59",
       "section": "59",
       "title": "Article 59",
-      "content": "Lorsqu'il vaquera une place au tribunal de cassation, le commissaire du Gouvernement en instruira les Consuls, qui en donneront connaissance au Sénat conservateur."
+      "content": "Lorsqu'il vaquera une place au tribunal de cassation, le commissaire du Gouvernement en instruira les Consuls, qui en donneront connaissance au Sénat conservateur.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art60",
       "section": "60",
       "title": "Article 60",
-      "content": "Le tribunal se divisera en trois sections, chacune de seize juges.\n\nLa première statuera sur l'admission ou le rejet des requêtes en cassation ou en prise-à-partie, et définitivement sur les demandes soit en réglement de juges, soit en renvoi d'un tribunal à un autre.\n\nLa seconde prononcera définitivement sur les demandes en cassation, ou en prise-à-partie, lorsque les requêtes auront été admises.\n\nLa troisième prononcera sur les demandes en cassation en matière criminelle, correctionnelle et de police, sans qu'il soit besoin de jugement préalable d'admission."
+      "content": "Le tribunal se divisera en trois sections, chacune de seize juges.\n\nLa première statuera sur l'admission ou le rejet des requêtes en cassation ou en prise-à-partie, et définitivement sur les demandes soit en réglement de juges, soit en renvoi d'un tribunal à un autre.\n\nLa seconde prononcera définitivement sur les demandes en cassation, ou en prise-à-partie, lorsque les requêtes auront été admises.\n\nLa troisième prononcera sur les demandes en cassation en matière criminelle, correctionnelle et de police, sans qu'il soit besoin de jugement préalable d'admission.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art61",
       "section": "61",
       "title": "Article 61",
-      "content": "Les sections se formeront d'abord par la voie du sort."
+      "content": "Les sections se formeront d'abord par la voie du sort.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art62",
       "section": "62",
       "title": "Article 62",
-      "content": "Le tribunal entier nommera un président, dont les fonctions, en cette qualité, dureront trois années.\n\nIl peut être réélu à la présidence."
+      "content": "Le tribunal entier nommera un président, dont les fonctions, en cette qualité, dureront trois années.\n\nIl peut être réélu à la présidence.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art63",
       "section": "63",
       "title": "Article 63",
-      "content": "Chaque section ne pourra juger qu'au nombre de onze membres au moins ; et tous les jugemens seront rendus à la majorité absolue des suffrages."
+      "content": "Chaque section ne pourra juger qu'au nombre de onze membres au moins ; et tous les jugemens seront rendus à la majorité absolue des suffrages.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art64",
       "section": "64",
       "title": "Article 64",
-      "content": "En cas de partage d'avis, on appellera cinq juges pour le vider : les cinq juges seront pris d'abord parmi ceux de la section qui n'auraient pas assisté à la discussion de l'affaire sur laquelle il y aura un partage, et subsidiairement tirés au sort parmi les membres des autres sections."
+      "content": "En cas de partage d'avis, on appellera cinq juges pour le vider : les cinq juges seront pris d'abord parmi ceux de la section qui n'auraient pas assisté à la discussion de l'affaire sur laquelle il y aura un partage, et subsidiairement tirés au sort parmi les membres des autres sections.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art65",
       "section": "65",
       "title": "Article 65",
-      "content": "Chaque section élira au scrutin son président pour trois années.\n\nIl pourra être réélu.\n\nLe président du tribunal le sera de plein droit de sa section."
+      "content": "Chaque section élira au scrutin son président pour trois années.\n\nIl pourra être réélu.\n\nLe président du tribunal le sera de plein droit de sa section.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art66",
       "section": "66",
       "title": "Article 66",
-      "content": "Chaque année, il sortira de chaque section quatre membres, lesquels seront également répartis dans les deux autres.\n\nLe sort désignera, pour les trois premières années, les quatre membres qui devront sortir de chaque section : quant à leur distribution dans les deux autres sections, elle sera toujours réglée par le sort."
+      "content": "Chaque année, il sortira de chaque section quatre membres, lesquels seront également répartis dans les deux autres.\n\nLe sort désignera, pour les trois premières années, les quatre membres qui devront sortir de chaque section : quant à leur distribution dans les deux autres sections, elle sera toujours réglée par le sort.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art67",
       "section": "67",
       "title": "Article 67",
-      "content": "Il y aura près du tribunal de cassation, un commissaire, six substituts et un greffier en chef, nommés par le premier Consul, et pris dans la liste nationale."
+      "content": "Il y aura près du tribunal de cassation, un commissaire, six substituts et un greffier en chef, nommés par le premier Consul, et pris dans la liste nationale.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art68",
       "section": "68",
       "title": "Article 68",
-      "content": "Le greffier en chef présentera au tribunal, pour les faire instituer, quatre commis-greffiers, qui pourront néanmoins être révoqués par le greffier en chef, sans le concours du tribunal."
+      "content": "Le greffier en chef présentera au tribunal, pour les faire instituer, quatre commis-greffiers, qui pourront néanmoins être révoqués par le greffier en chef, sans le concours du tribunal.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art69",
       "section": "69",
       "title": "Article 69",
-      "content": "Il y aura un commis de parquet, nommé et révocable par le commissaire du Gouvernement."
+      "content": "Il y aura un commis de parquet, nommé et révocable par le commissaire du Gouvernement.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art70",
       "section": "70",
       "title": "Article 70",
-      "content": "Il y aura près du tribunal de cassation, huit huissiers, qu'il nommera et pourra révoquer.\n\nIls instrumenteront exclusivement pour les affaires de la compétence du tribunal de cassation, dans l'étendue seulement du lieu de sa résidence ; ils pourront instrumenter, concurremment avec les autres huissiers, dans tout le département de la résidence du tribunal de cassation."
+      "content": "Il y aura près du tribunal de cassation, huit huissiers, qu'il nommera et pourra révoquer.\n\nIls instrumenteront exclusivement pour les affaires de la compétence du tribunal de cassation, dans l'étendue seulement du lieu de sa résidence ; ils pourront instrumenter, concurremment avec les autres huissiers, dans tout le département de la résidence du tribunal de cassation.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art71",
       "section": "71",
       "title": "Article 71",
-      "content": "Les membres du tribunal de cassation, le commissaire du Gouvernement et ses substituts, recevront un traitement égal à l'indemnité des membres du Corps législatif."
+      "content": "Les membres du tribunal de cassation, le commissaire du Gouvernement et ses substituts, recevront un traitement égal à l'indemnité des membres du Corps législatif.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art72",
       "section": "72",
       "title": "Article 72",
-      "content": "Le président du tribunal et le commissaire du Gouvernement recevront chacun un supplément annuel de 5,000 francs.\n\nLes présidens de sections, un supplément de 2,000 fr. chacun."
+      "content": "Le président du tribunal et le commissaire du Gouvernement recevront chacun un supplément annuel de 5,000 francs.\n\nLes présidens de sections, un supplément de 2,000 fr. chacun.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art73",
       "section": "73",
       "title": "Article 73",
-      "content": "La moitié du traitement attribué aux juges du tribunal de cassation, au commissaire du Gouvernement et à ses substituts, sera mise en masse chaque mois, et distribuée en droits d'assistance."
+      "content": "La moitié du traitement attribué aux juges du tribunal de cassation, au commissaire du Gouvernement et à ses substituts, sera mise en masse chaque mois, et distribuée en droits d'assistance.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art74",
       "section": "74",
       "title": "Article 74",
-      "content": "Il sera payé par année, au greffier en chef, une somme de 36,000 francs, tant pour son traitement et celui de ses commis et expéditionnaires, que pour toutes les fournitures du greffe."
+      "content": "Il sera payé par année, au greffier en chef, une somme de 36,000 francs, tant pour son traitement et celui de ses commis et expéditionnaires, que pour toutes les fournitures du greffe.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art75",
       "section": "75",
       "title": "Article 75",
-      "content": "Le traitement du commis du parquet sera de 2,400 francs ;\n\nCelui des huissiers, de 1,500 francs ;\n\nCelui du concierge, de 1,000 francs ;\n\nCelui des garçons de bureau, de 800 francs."
+      "content": "Le traitement du commis du parquet sera de 2,400 francs ;\n\nCelui des huissiers, de 1,500 francs ;\n\nCelui du concierge, de 1,000 francs ;\n\nCelui des garçons de bureau, de 800 francs.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art76",
       "section": "76",
       "title": "Article 76",
-      "content": "Outre les fonctions données au tribunal de cassation par l'article 65 de la Constitution, il prononcera sur les réglemens de juges, quand le conflit s'élèvera entre plusieurs tribunaux d'appel, ou entre plusieurs tribunaux de première instance, non ressortissant au même tribunal d'appel."
+      "content": "Outre les fonctions données au tribunal de cassation par l'article 65 de la Constitution, il prononcera sur les réglemens de juges, quand le conflit s'élèvera entre plusieurs tribunaux d'appel, ou entre plusieurs tribunaux de première instance, non ressortissant au même tribunal d'appel.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art77",
       "section": "77",
       "title": "Article 77",
-      "content": "Il n'y a point ouverture à cassation, ni contre les jugemens en dernier ressort des juges de paix, si ce n'est pour cause d'incompétence ou d'excès de pouvoir, ni contre les jugemens des tribunaux militaires de terre et de mer, si ce n'est pareillement pour cause d'incompétence ou d'excès de pouvoir, proposée par un citoyen non militaire, ni assimilé aux militaires par les lois, à raison de ses fonctions."
+      "content": "Il n'y a point ouverture à cassation, ni contre les jugemens en dernier ressort des juges de paix, si ce n'est pour cause d'incompétence ou d'excès de pouvoir, ni contre les jugemens des tribunaux militaires de terre et de mer, si ce n'est pareillement pour cause d'incompétence ou d'excès de pouvoir, proposée par un citoyen non militaire, ni assimilé aux militaires par les lois, à raison de ses fonctions.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art78",
       "section": "78",
       "title": "Article 78",
-      "content": "Lorsqu'après une cassation, le second jugement sur le fond sera attaqué par les mêmes moyens que le premier, la question sera portée devant toutes les sections réunies du tribunal de cassation."
+      "content": "Lorsqu'après une cassation, le second jugement sur le fond sera attaqué par les mêmes moyens que le premier, la question sera portée devant toutes les sections réunies du tribunal de cassation.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art79",
       "section": "79",
       "title": "Article 79",
-      "content": "Lorsqu'il y aura lieu à renvoi d'un tribunal à un autre pour cause de sûreté publique, ce renvoi ne pourra être prononcé que sur la réquisition expresse du commissaire du Gouvernement."
+      "content": "Lorsqu'il y aura lieu à renvoi d'un tribunal à un autre pour cause de sûreté publique, ce renvoi ne pourra être prononcé que sur la réquisition expresse du commissaire du Gouvernement.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art80",
       "section": "80",
       "title": "Article 80",
-      "content": "Le Gouvernement, par la voie de son commissaire, et sans préjudice du droit des parties intéressées, dénoncera au tribunal de cassation, section des requêtes, les actes par lesquels les juges auront excédé leurs pouvoirs, ou les délits par eux commis relativement à leurs fonctions. La section des requêtes annullera ces actes, s'il y a lieu, et dénoncera les juges à la section civile, pour faire à leur égard les fonctions de jury d'accusation : dans ce cas, le président de la section civile remplira toutes celles d'officier de police judiciaire et de directeur de jury ; il ne votera pas.\n\nIl pourra déléguer sur les lieux, à un directeur du jury, l'audition des témoins, les interrogatoires, et autres actes d'instruction seulement."
+      "content": "Le Gouvernement, par la voie de son commissaire, et sans préjudice du droit des parties intéressées, dénoncera au tribunal de cassation, section des requêtes, les actes par lesquels les juges auront excédé leurs pouvoirs, ou les délits par eux commis relativement à leurs fonctions. La section des requêtes annullera ces actes, s'il y a lieu, et dénoncera les juges à la section civile, pour faire à leur égard les fonctions de jury d'accusation : dans ce cas, le président de la section civile remplira toutes celles d'officier de police judiciaire et de directeur de jury ; il ne votera pas.\n\nIl pourra déléguer sur les lieux, à un directeur du jury, l'audition des témoins, les interrogatoires, et autres actes d'instruction seulement.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art81",
       "section": "81",
       "title": "Article 81",
-      "content": "Si la section civile déclare qu'il y a lieu à accusation contre les juges, elle les renverra, pour être jugés sur la déclaration d'un jury de jugement, devant l'un des tribunaux criminels les plus voisins de celui où les accusés exerçaient leurs fonctions. Ces deux tribunaux seront nommés dans l'acte qui prononce qu'il y a lieu à accusation, et le choix en sera laissé aux accusés."
+      "content": "Si la section civile déclare qu'il y a lieu à accusation contre les juges, elle les renverra, pour être jugés sur la déclaration d'un jury de jugement, devant l'un des tribunaux criminels les plus voisins de celui où les accusés exerçaient leurs fonctions. Ces deux tribunaux seront nommés dans l'acte qui prononce qu'il y a lieu à accusation, et le choix en sera laissé aux accusés.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art82",
       "section": "82",
       "title": "Article 82",
-      "content": "Lorsque, dans l'examen d'une demande en cassation, soit la section civile, soit la section criminelle, trouveront des actes emportant forfaiture, ou des délits commis par des juges, relatifs à leurs fonctions, elles dénonceront les juges à la section des requêtes, laquelle remplira à leur égard les fonctions de jury d'accusation, et son président toutes celles d'officier de police judiciaire et de directeur de jury."
+      "content": "Lorsque, dans l'examen d'une demande en cassation, soit la section civile, soit la section criminelle, trouveront des actes emportant forfaiture, ou des délits commis par des juges, relatifs à leurs fonctions, elles dénonceront les juges à la section des requêtes, laquelle remplira à leur égard les fonctions de jury d'accusation, et son président toutes celles d'officier de police judiciaire et de directeur de jury.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art83",
       "section": "83",
       "title": "Article 83",
-      "content": "Si le juge renvoyé devant un tribunal criminel, se pourvoit en cassation contre le jugement définitif qui y interviendra, la demande en sera portée à celle des sections qui n'aura pas connu de l'affaire, pour y être instruite et jugée selon les formes usitées à la section criminelle."
+      "content": "Si le juge renvoyé devant un tribunal criminel, se pourvoit en cassation contre le jugement définitif qui y interviendra, la demande en sera portée à celle des sections qui n'aura pas connu de l'affaire, pour y être instruite et jugée selon les formes usitées à la section criminelle.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art84",
       "section": "84",
       "title": "Article 84",
-      "content": "S'il se trouve, dans la section chargée de prononcer sur le recours, des juges qui aient connu de l'affaire dans l'une des deux autres sections, ils s'abstiendront sur la demande en cassation."
+      "content": "S'il se trouve, dans la section chargée de prononcer sur le recours, des juges qui aient connu de l'affaire dans l'une des deux autres sections, ils s'abstiendront sur la demande en cassation.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art85",
       "section": "85",
       "title": "Article 85",
-      "content": "Les jugemens de cassation seront transcrits sur les registres des tribunaux dont les jugemens auront été cassés ; et la notice ainsi que le dispositif en seront insérés, chaque mois, dans un bulletin.\n\nCette notice, rédigée par le rapporteur dans la quinzaine du jugement, et visée par le président de section, sera par lui remise au commissaire du Gouvernement."
+      "content": "Les jugemens de cassation seront transcrits sur les registres des tribunaux dont les jugemens auront été cassés ; et la notice ainsi que le dispositif en seront insérés, chaque mois, dans un bulletin.\n\nCette notice, rédigée par le rapporteur dans la quinzaine du jugement, et visée par le président de section, sera par lui remise au commissaire du Gouvernement.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art86",
       "section": "86",
       "title": "Article 86",
-      "content": "Le tribunal de cassation enverra, chaque année, au Gouvernement, une députation pour lui indiquer les points sur lesquels l'expérience lui aura fait connaître les vices ou l'insuffisance de la législation."
+      "content": "Le tribunal de cassation enverra, chaque année, au Gouvernement, une députation pour lui indiquer les points sur lesquels l'expérience lui aura fait connaître les vices ou l'insuffisance de la législation.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art87",
       "section": "87",
       "title": "Article 87",
-      "content": "Si les jugemens cassés émanent des tribunaux de première instance lorsqu'ils jugent en premier et dernier ressort, le tribunal renverra devant le tribunal de première instance le plus voisin : s'ils ont été rendus par les tribunaux criminels ou tribunaux d'appel, le renvoi sera fait devant le tribunal criminel ou d'appel le plus voisin."
+      "content": "Si les jugemens cassés émanent des tribunaux de première instance lorsqu'ils jugent en premier et dernier ressort, le tribunal renverra devant le tribunal de première instance le plus voisin : s'ils ont été rendus par les tribunaux criminels ou tribunaux d'appel, le renvoi sera fait devant le tribunal criminel ou d'appel le plus voisin.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art88",
       "section": "88",
       "title": "Article 88",
-      "content": "Si le commissaire du Gouvernement apprend qu'il ait été rendu en dernier ressort un jugement contraire aux lois ou formes de procéder, ou dans lequel un juge ait excédé ses pouvoirs, et contre lequel cependant aucune des parties n'ait réclamé dans le délai fixé, après ce délai expiré il en donnera connaissance au tribunal de cassation ; et si les formes ou les lois ont été violées, le jugement sera cassé, sans que les parties puissent se prévaloir de la cassation pour éluder les dispositions de ce jugement, lequel vaudra transaction pour elles."
+      "content": "Si le commissaire du Gouvernement apprend qu'il ait été rendu en dernier ressort un jugement contraire aux lois ou formes de procéder, ou dans lequel un juge ait excédé ses pouvoirs, et contre lequel cependant aucune des parties n'ait réclamé dans le délai fixé, après ce délai expiré il en donnera connaissance au tribunal de cassation ; et si les formes ou les lois ont été violées, le jugement sera cassé, sans que les parties puissent se prévaloir de la cassation pour éluder les dispositions de ce jugement, lequel vaudra transaction pour elles.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art89",
       "section": "89",
       "title": "Article 89",
-      "content": "Le commissaire du Gouvernement sera entendu dans toutes les affaires ; il est chargé de défendre celles qui intéressent la République, d'après les mémoires qui lui seront fournis par les agens d'administration, régisseurs, préposés, etc."
+      "content": "Le commissaire du Gouvernement sera entendu dans toutes les affaires ; il est chargé de défendre celles qui intéressent la République, d'après les mémoires qui lui seront fournis par les agens d'administration, régisseurs, préposés, etc.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art90",
       "section": "90",
       "title": "Article 90",
-      "content": "Jusqu'à la formation du code judiciaire, les lois et réglemens précédens seront suivis pour la forme de se pourvoir et celle de procéder au tribunal de cassation, pour la consignation d'amende, et autres objets non prévus par la présente loi."
+      "content": "Jusqu'à la formation du code judiciaire, les lois et réglemens précédens seront suivis pour la forme de se pourvoir et celle de procéder au tribunal de cassation, pour la consignation d'amende, et autres objets non prévus par la présente loi.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art91",
       "section": "91",
       "title": "Article 91",
-      "content": "Toutes dispositions des lois antérieures sont abrogées en ce qu'elles auraient de contraire à la présente."
+      "content": "Toutes dispositions des lois antérieures sont abrogées en ce qu'elles auraient de contraire à la présente.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art92",
       "section": "92",
       "title": "Article 92",
-      "content": "Les greffiers de tous les tribunaux seront nommés par le premier Consul, qui pourra les révoquer à volonté. Le Gouvernement pourvoira à leur traitement, au moyen duquel ils seront chargés de payer leurs commis et expéditionnaires, ainsi que toutes les fournitures de leur greffe."
+      "content": "Les greffiers de tous les tribunaux seront nommés par le premier Consul, qui pourra les révoquer à volonté. Le Gouvernement pourvoira à leur traitement, au moyen duquel ils seront chargés de payer leurs commis et expéditionnaires, ainsi que toutes les fournitures de leur greffe.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art93",
       "section": "93",
       "title": "Article 93",
-      "content": "Il sera établi\n\nprès le tribunal de cassation,\n\nprès chaque tribunal d'appel,\n\nprès chaque tribunal criminel,\n\nprès de chacun des tribunaux de première instance,\n\nUn nombre fixe d'avoués, qui sera réglé par le Gouvernement, sur l'avis du tribunal auquel les avoués devront être attachés."
+      "content": "Il sera établi\n\nprès le tribunal de cassation,\n\nprès chaque tribunal d'appel,\n\nprès chaque tribunal criminel,\n\nprès de chacun des tribunaux de première instance,\n\nUn nombre fixe d'avoués, qui sera réglé par le Gouvernement, sur l'avis du tribunal auquel les avoués devront être attachés.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art94",
       "section": "94",
       "title": "Article 94",
-      "content": "Les avoués auront exclusivement le droit de postuler et de prendre des conclusions dans le tribunal pour lequel ils seront établis : néanmoins les parties pourront toujours se défendre elles-mêmes, verbalement et par écrit, ou faire proposer leur défense par qui elles jugeront à propos."
+      "content": "Les avoués auront exclusivement le droit de postuler et de prendre des conclusions dans le tribunal pour lequel ils seront établis : néanmoins les parties pourront toujours se défendre elles-mêmes, verbalement et par écrit, ou faire proposer leur défense par qui elles jugeront à propos.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art95",
       "section": "95",
       "title": "Article 95",
-      "content": "Les avoués seront nommés par le premier Consul, sur la présentation du tribunal dans lequel ils devront exercer leur ministère."
+      "content": "Les avoués seront nommés par le premier Consul, sur la présentation du tribunal dans lequel ils devront exercer leur ministère.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art96",
       "section": "96",
       "title": "Article 96",
-      "content": "Il sera établi\n\nprès de chaque tribunal de première instance,\n\nprès de chaque tribunal d'appel,\n\nprès de chaque tribunal criminel,\n\nUn nombre fixe d'huissiers, qui sera réglé par le Gouvernement, sur l'avis du tribunal près duquel ils devront servir : ils seront nommés par le premier Consul, sur la présentation de ce même tribunal."
+      "content": "Il sera établi\n\nprès de chaque tribunal de première instance,\n\nprès de chaque tribunal d'appel,\n\nprès de chaque tribunal criminel,\n\nUn nombre fixe d'huissiers, qui sera réglé par le Gouvernement, sur l'avis du tribunal près duquel ils devront servir : ils seront nommés par le premier Consul, sur la présentation de ce même tribunal.",
+      "valid_from": "1800-03-18"
     },
     {
       "provision_ref": "art97",
       "section": "97",
       "title": "Article 97",
-      "content": "La loi du 7 de ce mois, concernant les cautionnemens, s'appliquera à tous les greffiers, avoués et huissiers établis en vertu de la présente loi, conformément au tarif ci-après.\n\nTarif des cautionnemens à fournir par les greffiers, avoués et huissiers.\n\ncenter\n\ncenter\n\nHUISSIERS.\n\nAVOUÉS.\n\nGREFFIERS.\n\nTribunaux de première instance.\n\ncenter\n\ncenter\n\n3\n\nOù il n'y a que trois juges\n\n200f\n\n600f\n\n800f\n\nOù il n'y a que quatre juges\n\n300\n\n900\n\n1200\n\nOù il n'y a que deux sections\n\n400\n\n1200\n\n1600\n\nOù il n'y a que trois sections\n\n500\n\n1500\n\n2000\n\nA Paris\n\n900\n\n2700\n\n3600\n\nTribunaux d'appel.\n\ncenter\n\n3\n\nOù il n'y a qu'une section\n\n600\n\n1800\n\n2400\n\nOù il n'y a que deux sections\n\n700\n\n2100\n\n2800\n\nOù il n'y a que trois sections\n\n800\n\n2400\n\n3200\n\nA Paris\n\n1500\n\n4500\n\n6000\n\nTribunal de cassation\n\n1000\n\n3000\n\n4000\n\nTribunaux criminels.\n\ncenter\n\n3\n\n......................................................\n\n300\n\n900\n\n1200\n\nA Paris\n\n500\n\n1500\n\n2000\n\nTribunaux de commerce.\n\ncenter\n\n3\n\n......................................................\n\n250\n\ncenter\n\n1000\n\nA Paris\n\n1000\n\ncenter\n\n4000\n\ncenter\n\n1\n\n1\n\n1"
+      "content": "La loi du 7 de ce mois, concernant les cautionnemens, s'appliquera à tous les greffiers, avoués et huissiers établis en vertu de la présente loi, conformément au tarif ci-après.\n\nTarif des cautionnemens à fournir par les greffiers, avoués et huissiers.\n\ncenter\n\ncenter\n\nHUISSIERS.\n\nAVOUÉS.\n\nGREFFIERS.\n\nTribunaux de première instance.\n\ncenter\n\ncenter\n\n3\n\nOù il n'y a que trois juges\n\n200f\n\n600f\n\n800f\n\nOù il n'y a que quatre juges\n\n300\n\n900\n\n1200\n\nOù il n'y a que deux sections\n\n400\n\n1200\n\n1600\n\nOù il n'y a que trois sections\n\n500\n\n1500\n\n2000\n\nA Paris\n\n900\n\n2700\n\n3600\n\nTribunaux d'appel.\n\ncenter\n\n3\n\nOù il n'y a qu'une section\n\n600\n\n1800\n\n2400\n\nOù il n'y a que deux sections\n\n700\n\n2100\n\n2800\n\nOù il n'y a que trois sections\n\n800\n\n2400\n\n3200\n\nA Paris\n\n1500\n\n4500\n\n6000\n\nTribunal de cassation\n\n1000\n\n3000\n\n4000\n\nTribunaux criminels.\n\ncenter\n\n3\n\n......................................................\n\n300\n\n900\n\n1200\n\nA Paris\n\n500\n\n1500\n\n2000\n\nTribunaux de commerce.\n\ncenter\n\n3\n\n......................................................\n\n250\n\ncenter\n\n1000\n\nA Paris\n\n1000\n\ncenter\n\n4000\n\ncenter\n\n1\n\n1\n\n1",
+      "valid_from": "1800-03-18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

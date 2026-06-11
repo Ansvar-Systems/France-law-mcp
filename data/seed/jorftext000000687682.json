@@ -12,19 +12,28 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le bénéfice des dispositions de l'article précédent peut être demandé par les intéressés dans le délai d'un an suivant la promulgation de la présente loi."
+      "content": "Le bénéfice des dispositions de l'article précédent peut être demandé par les intéressés dans le délai d'un an suivant la promulgation de la présente loi.",
+      "valid_from": "1987-07-09"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le délai prévu à l'article 12 de la loi n° 82-1021 du 3 décembre 1982 précitée est rouvert à compter de la date de promulgation de la présente loi pour une période d'un an."
+      "content": "Le délai prévu à l'article 12 de la loi n° 82-1021 du 3 décembre 1982 précitée est rouvert à compter de la date de promulgation de la présente loi pour une période d'un an.",
+      "valid_from": "1987-07-09"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le délai prévu à l'avant-dernier alinéa de l'article 10 de la loi n° 85-1274 du 4 décembre 1985 précitée est rouvert à compter de la date de promulgation de la présente loi pour une période d'un an."
+      "content": "Le délai prévu à l'avant-dernier alinéa de l'article 10 de la loi n° 85-1274 du 4 décembre 1985 précitée est rouvert à compter de la date de promulgation de la présente loi pour une période d'un an.",
+      "valid_from": "1987-07-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

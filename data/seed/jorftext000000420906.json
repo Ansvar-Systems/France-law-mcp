@@ -12,19 +12,29 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. à XII - A modifié les dispositions suivantes :\n\nXIV. - Les dispositions du présent article entrent en vigueur le 1er janvier 2007 et s'appliquent aux nouvelles demandes déposées à compter de cette date et à celles qui n'ont pas fait l'objet d'une décision à cette même date.\n\nCode de l'action sociale et des familles\n\nArt. L131-2, Art. L111-3, Art. L113-1, Art. L131-1, Art. L131-3, Art. L132-6, Art. L133-3, Art. L133-5, Art. L134-5, Art. L134-7, Art. L134-8 , Art. L131-5, Art. L131-6\n\nXIII - A modifié les dispositions suivantes :\n\nCode général des collectivités territoriales Art. L2512-10,"
+      "content": "I. à XII - A modifié les dispositions suivantes :\n\nXIV. - Les dispositions du présent article entrent en vigueur le 1er janvier 2007 et s'appliquent aux nouvelles demandes déposées à compter de cette date et à celles qui n'ont pas fait l'objet d'une décision à cette même date.\n\nCode de l'action sociale et des familles\n\nArt. L131-2, Art. L111-3, Art. L113-1, Art. L131-1, Art. L131-3, Art. L132-6, Art. L133-3, Art. L133-5, Art. L134-5, Art. L134-7, Art. L134-8 , Art. L131-5, Art. L131-6\n\nXIII - A modifié les dispositions suivantes :\n\nCode général des collectivités territoriales Art. L2512-10,",
+      "valid_from": "2005-12-02"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Les personnes exerçant l'une des activités mentionnées à l'article L. 133-6 du code de l'action sociale et des familles qui, antérieurement à la publication de la présente ordonnance, ont été condamnées pour des faits énoncés à cet article dans sa rédaction issue de la présente ordonnance sont frappées, à compter de la date de publication de celle-ci, d'une incapacité d'exercer.Toutefois, ces personnes peuvent demander à être relevées de cette incapacité d'exercice dans les conditions prévues à l'article 132-21 du code pénal et aux articles 702-1 et 703 du code de procédure pénale. Les personnes qui font usage de ce droit peuvent exercer leur profession ou activité jusqu'à ce qu'il ait été statué sur leur demande, sauf lorsque l'interdiction d'exercer résultait déjà de la mise en oeuvre de dispositions applicables avant la publication de la présente ordonnance.Si la condamnation dont résulte l'interdiction d'exercer résulte de la condamnation d'une juridiction étrangère dans les conditions prévues à l'article L. 133-6, la demande de relèvement de l'incapacité est portée devant la chambre des appels correctionnels de la cour d'appel dans le ressort de laquelle le requérant réside."
+      "content": "Les personnes exerçant l'une des activités mentionnées à l'article L. 133-6 du code de l'action sociale et des familles qui, antérieurement à la publication de la présente ordonnance, ont été condamnées pour des faits énoncés à cet article dans sa rédaction issue de la présente ordonnance sont frappées, à compter de la date de publication de celle-ci, d'une incapacité d'exercer.Toutefois, ces personnes peuvent demander à être relevées de cette incapacité d'exercice dans les conditions prévues à l'article 132-21 du code pénal et aux articles 702-1 et 703 du code de procédure pénale. Les personnes qui font usage de ce droit peuvent exercer leur profession ou activité jusqu'à ce qu'il ait été statué sur leur demande, sauf lorsque l'interdiction d'exercer résultait déjà de la mise en oeuvre de dispositions applicables avant la publication de la présente ordonnance.Si la condamnation dont résulte l'interdiction d'exercer résulte de la condamnation d'une juridiction étrangère dans les conditions prévues à l'article L. 133-6, la demande de relèvement de l'incapacité est portée devant la chambre des appels correctionnels de la cour d'appel dans le ressort de laquelle le requérant réside.",
+      "valid_from": "2005-12-02",
+      "valid_to": "2029-01-01"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, le ministre de l'emploi, de la cohésion sociale et du logement, le garde des sceaux, ministre de la justice, et le ministre de la santé et des solidarités sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, le ministre de l'emploi, de la cohésion sociale et du logement, le garde des sceaux, ministre de la justice, et le ministre de la santé et des solidarités sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2005-12-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les accords passés à l'issue d'une médiation engagée entre le 21 mai 2011 et l'entrée en vigueur de l'ordonnance n° 2011-1540 du 16 novembre 2011 portant transposition de la directive 2008/52/CE du Parlement européen et du Conseil du 21 mai 2008 sur certains aspects de la médiation en matière civile et commerciale et qui répondent aux conditions prévues aux articles 21-2 à 21-4 de la loi du 8 février 1995 susvisée dans leur rédaction issue de cette ordonnance peuvent faire l'objet d'une homologation."
+      "content": "Les accords passés à l'issue d'une médiation engagée entre le 21 mai 2011 et l'entrée en vigueur de l'ordonnance n° 2011-1540 du 16 novembre 2011 portant transposition de la directive 2008/52/CE du Parlement européen et du Conseil du 21 mai 2008 sur certains aspects de la médiation en matière civile et commerciale et qui répondent aux conditions prévues aux articles 21-2 à 21-4 de la loi du 8 février 1995 susvisée dans leur rédaction issue de cette ordonnance peuvent faire l'objet d'une homologation.",
+      "valid_from": "2011-11-18"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre et le garde des sceaux, ministre de la justice et des libertés, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le garde des sceaux, ministre de la justice et des libertés, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2011-11-18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

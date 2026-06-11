@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est expressément constatée la nullité des articles 1er et 2 de l'acte dit loi du 30 septembre 1911 réorganisant les arrondissements de l'inspection générale des ponts et chaussées.Sont validés les articles 3 et 4 dudit acte."
+      "content": "Est expressément constatée la nullité des articles 1er et 2 de l'acte dit loi du 30 septembre 1911 réorganisant les arrondissements de l'inspection générale des ponts et chaussées.Sont validés les articles 3 et 4 dudit acte.",
+      "valid_from": "1945-11-03"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le ministre des travaux publics et des transports fixera par arrêté l'organisation des circonscriptions d'inspection générale des ponts et chaussées."
+      "content": "Le ministre des travaux publics et des transports fixera par arrêté l'organisation des circonscriptions d'inspection générale des ponts et chaussées.",
+      "valid_from": "1945-11-03"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi."
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi.",
+      "valid_from": "1945-11-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

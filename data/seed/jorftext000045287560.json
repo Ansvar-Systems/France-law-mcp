@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I.- A modifié les dispositions suivantes :\n\nII. - Un décret précise les modalités de mise en œuvre de l'extension de la compétence des sages-femmes aux interruptions volontaires de grossesse par voie chirurgicale, notamment les éléments relatifs à l'organisation des établissements de santé, à la formation exigée et aux expériences attendues des sages-femmes ainsi que leurs conditions de rémunération pour l'exercice de cette compétence.III. - Le Gouvernement remet au Parlement, dans un délai d'un an à compter de la promulgation de la présente loi, un rapport sur l'application des dispositions prévoyant l'extension de la compétence des sages-femmes aux interruptions volontaires de grossesse par voie chirurgicale, qui comprend le cas échéant des pistes d'amélioration de ces dispositions et de leur mise en œuvre.\n\n- Code de la santé publique"
+      "content": "I.- A modifié les dispositions suivantes :\n\nII. - Un décret précise les modalités de mise en œuvre de l'extension de la compétence des sages-femmes aux interruptions volontaires de grossesse par voie chirurgicale, notamment les éléments relatifs à l'organisation des établissements de santé, à la formation exigée et aux expériences attendues des sages-femmes ainsi que leurs conditions de rémunération pour l'exercice de cette compétence.III. - Le Gouvernement remet au Parlement, dans un délai d'un an à compter de la promulgation de la présente loi, un rapport sur l'application des dispositions prévoyant l'extension de la compétence des sages-femmes aux interruptions volontaires de grossesse par voie chirurgicale, qui comprend le cas échéant des pistes d'amélioration de ces dispositions et de leur mise en œuvre.\n\n- Code de la santé publique",
+      "valid_from": "2022-03-04"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur l'application de la législation relative au délit d'entrave à l'interruption volontaire de grossesse qui présente, le cas échéant, des propositions visant à améliorer le dispositif en vigueur."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur l'application de la législation relative au délit d'entrave à l'interruption volontaire de grossesse qui présente, le cas échéant, des propositions visant à améliorer le dispositif en vigueur.",
+      "valid_from": "2022-03-04"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport d'évaluation du dispositif d'accès des femmes à l'interruption volontaire de grossesse.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport d'évaluation du dispositif d'accès des femmes à l'interruption volontaire de grossesse.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2022-03-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les circonscriptions des centres régionaux de la propriété forestière restent fixées dans leurs limites territoriales antérieures au 1er janvier 2016 jusqu'au prochain renouvellement général des membres de leurs conseils et au plus tard jusqu'au 1er avril 2017."
+      "content": "Les circonscriptions des centres régionaux de la propriété forestière restent fixées dans leurs limites territoriales antérieures au 1er janvier 2016 jusqu'au prochain renouvellement général des membres de leurs conseils et au plus tard jusqu'au 1er avril 2017.",
+      "valid_from": "2016-03-27"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le Premier ministre et le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-03-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

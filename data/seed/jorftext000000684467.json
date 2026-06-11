@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Il est interdit de fabriquer, exposer, transporter, mettre en vente ou vendre, détenir, importer, exporter, sous le nom de roquefort, avec ou sans addition nominale ou qualificative, un fromage autre que celui qui aura été :\n\na) Préparé et fabriqué exclusivement avec du lait de brebis ;\n\nb) Fabriqué et affiné conformément aux usages locaux, loyaux et constants, en ce qui concerne tant le lieu de cet affinage que la méthode employée."
+      "content": "Il est interdit de fabriquer, exposer, transporter, mettre en vente ou vendre, détenir, importer, exporter, sous le nom de roquefort, avec ou sans addition nominale ou qualificative, un fromage autre que celui qui aura été :\n\na) Préparé et fabriqué exclusivement avec du lait de brebis ;\n\nb) Fabriqué et affiné conformément aux usages locaux, loyaux et constants, en ce qui concerne tant le lieu de cet affinage que la méthode employée.",
+      "valid_from": "1925-07-31"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La zone de production du lait de brebis entrant dans la composition du roquefort est limitée aux zones actuelles françaises de production et aux zones de la France métropolitaine présentant les mêmes caractéristiques de races ovines, d'herbages et de climat."
+      "content": "La zone de production du lait de brebis entrant dans la composition du roquefort est limitée aux zones actuelles françaises de production et aux zones de la France métropolitaine présentant les mêmes caractéristiques de races ovines, d'herbages et de climat.",
+      "valid_from": "1925-07-31"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Tout fabricant qui entend donner à ses produits l'appellation \"roquefort\" est tenu d'en faire la déclaration à la mairie de la commune du lieu d'affinage."
+      "content": "Tout fabricant qui entend donner à ses produits l'appellation \"roquefort\" est tenu d'en faire la déclaration à la mairie de la commune du lieu d'affinage.",
+      "valid_from": "1925-07-31"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Sont interdites :\n\nLa pénétration, réception ou présence de tout lait autre que le lait de brebis, de tout produit fromager provenant d'un autre lait que le lait de brebis, dans les fromageries, les laiteries et locaux d'affinage où est préparé, fabriqué et affiné le fromage de Roquefort."
+      "content": "Sont interdites :\n\nLa pénétration, réception ou présence de tout lait autre que le lait de brebis, de tout produit fromager provenant d'un autre lait que le lait de brebis, dans les fromageries, les laiteries et locaux d'affinage où est préparé, fabriqué et affiné le fromage de Roquefort.",
+      "valid_from": "1925-07-31"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Sauf en ce qui concerne les besoins de la consommation locale, sont interdits sur tout le territoire de la commune du lieu d'affinage, la pénétration, la transformation, l'affinage, la vente de tout produit lactogène ou fromage de lait autre que celui de brebis."
+      "content": "Sauf en ce qui concerne les besoins de la consommation locale, sont interdits sur tout le territoire de la commune du lieu d'affinage, la pénétration, la transformation, l'affinage, la vente de tout produit lactogène ou fromage de lait autre que celui de brebis.",
+      "valid_from": "1925-07-31"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les infractions à la présente loi seront punies des peines prévues par les articles L. 115-16 du code de la consommation et 22 de la loi du 6 mai 1919 sur la protection des appellations d'origine, sans préjudice de l'application aux faits relevés des pénalités des chapitres III à VI du titre Ier du livre II du code de la consommation et de toutes autres dispositions législatives.L'article 463 du code pénal est applicable à ces infractions."
+      "content": "Les infractions à la présente loi seront punies des peines prévues par les articles L. 115-16 du code de la consommation et 22 de la loi du 6 mai 1919 sur la protection des appellations d'origine, sans préjudice de l'application aux faits relevés des pénalités des chapitres III à VI du titre Ier du livre II du code de la consommation et de toutes autres dispositions législatives.L'article 463 du code pénal est applicable à ces infractions.",
+      "valid_from": "1925-07-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

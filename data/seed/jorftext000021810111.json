@@ -12,25 +12,35 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Tout majeur ou mineur émancipé, en état de tester, peut régler les conditions de ses funérailles, notamment en ce qui concerne le caractère civil ou religieux à leur donner et le mode de sa sépulture.\n\nIl peut charger une ou plusieurs personnes de veiller à l'exécution de ses dispositions.\n\nSa volonté, exprimée dans un testament ou dans une déclaration faite en forme testamentaire, soit par devant notaire, soit sous signature privée, a la même force qu'une disposition testamentaire relative aux biens, elle est soumise aux mêmes règles quant aux conditions de la révocation."
+      "content": "Tout majeur ou mineur émancipé, en état de tester, peut régler les conditions de ses funérailles, notamment en ce qui concerne le caractère civil ou religieux à leur donner et le mode de sa sépulture.\n\nIl peut charger une ou plusieurs personnes de veiller à l'exécution de ses dispositions.\n\nSa volonté, exprimée dans un testament ou dans une déclaration faite en forme testamentaire, soit par devant notaire, soit sous signature privée, a la même force qu'une disposition testamentaire relative aux biens, elle est soumise aux mêmes règles quant aux conditions de la révocation.",
+      "valid_from": "1996-02-24"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "En cas de contestation sur les conditions des funérailles, il est statué, dans le jour, sur la citation de la partie la plus diligente, par le juge de paix du lieu du décès, sauf appel devant le président du tribunal civil de l'arrondissement qui devra statuer dans les vingt-quatre heures.La décision est notifiée au maire, qui est chargé d'en assurer l'exécution.Il n'est apporté par la présente loi aucune restriction aux attributions des maires en ce qui concerne les mesures à prendre dans l'intérêt de la salubrité publique."
+      "content": "En cas de contestation sur les conditions des funérailles, il est statué, dans le jour, sur la citation de la partie la plus diligente, par le juge de paix du lieu du décès, sauf appel devant le président du tribunal civil de l'arrondissement qui devra statuer dans les vingt-quatre heures.La décision est notifiée au maire, qui est chargé d'en assurer l'exécution.Il n'est apporté par la présente loi aucune restriction aux attributions des maires en ce qui concerne les mesures à prendre dans l'intérêt de la salubrité publique.",
+      "valid_from": "1887-11-18"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Sera punie des peines portées aux articles 199 et 200 du code pénal, sauf application de l'article 463 dudit code, toute personne qui aura donné aux funérailles un caractère contraire à la volonté du défunt ou à la décision judiciaire, lorsque l'acte constatant la volonté du défunt ou la décision du juge lui aura été dûment notifié."
+      "content": "Sera punie des peines portées aux articles 199 et 200 du code pénal, sauf application de l'article 463 dudit code, toute personne qui aura donné aux funérailles un caractère contraire à la volonté du défunt ou à la décision judiciaire, lorsque l'acte constatant la volonté du défunt ou la décision du juge lui aura été dûment notifié.",
+      "valid_from": "1887-11-18"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "La présente loi est applicable aux collectivités d'outre-mer régies par l'article 74 de la Constitution et à la Nouvelle-Calédonie.\n\nLa présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l'Etat."
+      "content": "La présente loi est applicable aux collectivités d'outre-mer régies par l'article 74 de la Constitution et à la Nouvelle-Calédonie.\n\nLa présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l'Etat.",
+      "valid_from": "2007-02-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

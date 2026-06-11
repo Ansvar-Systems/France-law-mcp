@@ -12,7 +12,14 @@
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "L'allocation pour jeune enfant est applicable  aux enfants dont la date de conception contenue dans la déclaration de grossesse est postérieure au 31 décembre 1984.\n\nLes enfants conçus jusqu'à cette date conservent leurs droits restant à courir aux allocations prénatales et postnatales. L'allocation postnatale ne peut être majorée qu'au titre de naissances ou d'adoptions multiples.\n\nLe complément familial pourra être servi aux familles tant qu'elles garderont à leur charge un enfant de moins de trois ans conçu avant le 1er janvier 1985.\n\nA compter du 1er janvier 1985, le complément familial sera versé autant de fois que la famille comptera d'enfants de moins de trois ans, conçus avant cette date.\n\nL'allocation parentale d'éducation est attribuée au titre des enfants nés à compter du 1er janvier 1985."
+      "content": "L'allocation pour jeune enfant est applicable  aux enfants dont la date de conception contenue dans la déclaration de grossesse est postérieure au 31 décembre 1984.\n\nLes enfants conçus jusqu'à cette date conservent leurs droits restant à courir aux allocations prénatales et postnatales. L'allocation postnatale ne peut être majorée qu'au titre de naissances ou d'adoptions multiples.\n\nLe complément familial pourra être servi aux familles tant qu'elles garderont à leur charge un enfant de moins de trois ans conçu avant le 1er janvier 1985.\n\nA compter du 1er janvier 1985, le complément familial sera versé autant de fois que la famille comptera d'enfants de moins de trois ans, conçus avant cette date.\n\nL'allocation parentale d'éducation est attribuée au titre des enfants nés à compter du 1er janvier 1985.",
+      "valid_from": "1987-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

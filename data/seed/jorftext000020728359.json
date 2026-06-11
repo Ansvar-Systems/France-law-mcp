@@ -12,13 +12,21 @@
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Sauf dispositions contraires expresses d'un plan local d'urbanisme ou d'un document d'urbanisme en tenant lieu, les dispositions de ce document relatives aux installations classées soumises à autorisation approuvées avant la date d'entrée en vigueur de la présente ordonnance sont applicables à celles des installations classées qui étaient soumises avant cette date à autorisation et sont désormais soumises à enregistrement.\n\n- Code de l'urbanisme"
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Sauf dispositions contraires expresses d'un plan local d'urbanisme ou d'un document d'urbanisme en tenant lieu, les dispositions de ce document relatives aux installations classées soumises à autorisation approuvées avant la date d'entrée en vigueur de la présente ordonnance sont applicables à celles des installations classées qui étaient soumises avant cette date à autorisation et sont désormais soumises à enregistrement.\n\n- Code de l'urbanisme",
+      "valid_from": "2009-06-13"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire, et la secrétaire d'Etat chargée de l'écologie sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire, et la secrétaire d'Etat chargée de l'écologie sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2009-06-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

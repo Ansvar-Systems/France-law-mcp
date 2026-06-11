@@ -12,19 +12,28 @@
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "A l'issue d'une période de trois ans à compter de la promulgation de la présente loi, le Gouvernement adressera au Parlement un rapport d'évaluation de la mise en oeuvre des obligations imposées en matière de débroussaillement par le titre II du livre III du code forestier, ainsi que des pouvoirs dévolus à l'Etat et aux collectivités territoriales pour assurer le respect de ces obligations."
+      "content": "A l'issue d'une période de trois ans à compter de la promulgation de la présente loi, le Gouvernement adressera au Parlement un rapport d'évaluation de la mise en oeuvre des obligations imposées en matière de débroussaillement par le titre II du livre III du code forestier, ainsi que des pouvoirs dévolus à l'Etat et aux collectivités territoriales pour assurer le respect de ces obligations.",
+      "valid_from": "1992-07-07"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Sont abrogés le décret n° 62-20 du 8 janvier 1962 relatif au Bureau national interprofessionnel de l'armagnac et le décret du 11 octobre 1966 relatif au Bureau national interprofessionnel des calvados et eaux-de-vie de cidre et de poiré, validés par la loi n° 77-731 du 7 juillet 1977 portant validation de divers décrets instituant des organismes professionnels ou interprofessionnels.L'actif et le passif des organismes interprofessionnels mentionnés à l'alinéa précédent sont transférés sans contrepartie aux organisations interprofessionnelles reconnues en application de la loi n° 75-600 du 10 juillet 1975 relative à l'organisation interprofessionnelle agricole, qui exercent la même activité."
+      "content": "Sont abrogés le décret n° 62-20 du 8 janvier 1962 relatif au Bureau national interprofessionnel de l'armagnac et le décret du 11 octobre 1966 relatif au Bureau national interprofessionnel des calvados et eaux-de-vie de cidre et de poiré, validés par la loi n° 77-731 du 7 juillet 1977 portant validation de divers décrets instituant des organismes professionnels ou interprofessionnels.L'actif et le passif des organismes interprofessionnels mentionnés à l'alinéa précédent sont transférés sans contrepartie aux organisations interprofessionnelles reconnues en application de la loi n° 75-600 du 10 juillet 1975 relative à l'organisation interprofessionnelle agricole, qui exercent la même activité.",
+      "valid_from": "1992-07-07"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "(paragraphes I et II modificateurs).III. - Le Gouvernement déposera, avant le 1er octobre 1993, sur le bureau des assemblées un rapport retraçant le bilan de la réglementation applicable à l'indemnisation des dégâts de gibier. Ce rapport comportera des propositions permettant une meilleure prise en compte des dégâts causés aux peuplements forestiers soit dans le cadre du système d'indemnisation existant, soit dans celui de la mise en place d'un système particulier d'indemnisation."
+      "content": "(paragraphes I et II modificateurs).III. - Le Gouvernement déposera, avant le 1er octobre 1993, sur le bureau des assemblées un rapport retraçant le bilan de la réglementation applicable à l'indemnisation des dégâts de gibier. Ce rapport comportera des propositions permettant une meilleure prise en compte des dégâts causés aux peuplements forestiers soit dans le cadre du système d'indemnisation existant, soit dans celui de la mise en place d'un système particulier d'indemnisation.",
+      "valid_from": "1992-07-07"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

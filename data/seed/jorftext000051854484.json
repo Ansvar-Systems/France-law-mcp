@@ -12,61 +12,77 @@
       "provision_ref": "artII",
       "section": "II",
       "title": "Article II",
-      "content": "Les conventions faites avant le décret du 13 janvier 1791, entre les auteurs & les directeurs des spectacles, seront exécutées."
+      "content": "Les conventions faites avant le décret du 13 janvier 1791, entre les auteurs & les directeurs des spectacles, seront exécutées.",
+      "valid_from": "1792-08-31"
     },
     {
       "provision_ref": "artIII",
       "section": "III",
       "title": "Article III",
-      "content": "Les règlemens & arrêts du conseil qui avaient été faits pour les théâtres de Pairs ayant été abrogés par le décret du 13 janvier, & ayant donné lieu, à cette époque, à divers traités entre les théâtres de Paris & les auteurs, ces traités seront suivis dans toutes l’étendue de leurs dispositions ; en conséquence, nul autre théâtre de Paris, que celui ou ceux auxquels l’auteur ou ses ayant-causes auront permis la représentation de ses pièces, ne pourra les jouer, sous les peines de la loi."
+      "content": "Les règlemens & arrêts du conseil qui avaient été faits pour les théâtres de Pairs ayant été abrogés par le décret du 13 janvier, & ayant donné lieu, à cette époque, à divers traités entre les théâtres de Paris & les auteurs, ces traités seront suivis dans toutes l’étendue de leurs dispositions ; en conséquence, nul autre théâtre de Paris, que celui ou ceux auxquels l’auteur ou ses ayant-causes auront permis la représentation de ses pièces, ne pourra les jouer, sous les peines de la loi.",
+      "valid_from": "1792-08-31"
     },
     {
       "provision_ref": "artIV",
       "section": "IV",
       "title": "Article IV",
-      "content": "Pour prévenir toutes réclamations à l’avenir, les auteurs seront tenus, en vendant leurs pièces aux imprimeurs ou aux graveurs, de stipuler formellement la réserve qu’ils entendront faire de leurs droits de faire représenter lesdites pièces."
+      "content": "Pour prévenir toutes réclamations à l’avenir, les auteurs seront tenus, en vendant leurs pièces aux imprimeurs ou aux graveurs, de stipuler formellement la réserve qu’ils entendront faire de leurs droits de faire représenter lesdites pièces.",
+      "valid_from": "1792-08-31"
     },
     {
       "provision_ref": "artIX",
       "section": "IX",
       "title": "Article IX",
-      "content": "L’assemblée nationale n’entend rien préjuger sur les décrets ou règlemens de police qu’elle pourra donner dans le code de l’instruction publique, sous le rapport de l’influence des théâtres sur les mœurs & les beaux-arts."
+      "content": "L’assemblée nationale n’entend rien préjuger sur les décrets ou règlemens de police qu’elle pourra donner dans le code de l’instruction publique, sous le rapport de l’influence des théâtres sur les mœurs & les beaux-arts.",
+      "valid_from": "1792-08-31"
     },
     {
       "provision_ref": "artPremier",
       "section": "Premier",
       "title": "Article Premier",
-      "content": "Les pièces imprimées ou gravées mises en vente avant le décret du 13 janvier 1791, qui ont été jouées avant cette époque sur les théâtres autres que ceux de Paris, sans convention écrite des auteurs, & cependant sans aucune réclamation légalement constatée de leur part, pourront être jouées sur ces mêmes théâtres sans aucune rétribution pour les auteurs."
+      "content": "Les pièces imprimées ou gravées mises en vente avant le décret du 13 janvier 1791, qui ont été jouées avant cette époque sur les théâtres autres que ceux de Paris, sans convention écrite des auteurs, & cependant sans aucune réclamation légalement constatée de leur part, pourront être jouées sur ces mêmes théâtres sans aucune rétribution pour les auteurs.",
+      "valid_from": "1792-08-31"
     },
     {
       "provision_ref": "artV",
       "section": "V",
       "title": "Article V",
-      "content": "Le traité portant ladite réserve sera déposé chez un notaire, & imprimé à la tête de la pièce."
+      "content": "Le traité portant ladite réserve sera déposé chez un notaire, & imprimé à la tête de la pièce.",
+      "valid_from": "1792-08-31"
     },
     {
       "provision_ref": "artVI",
       "section": "VI",
       "title": "Article VI",
-      "content": "En conséquence de cette réserve, aucun spectacle ne pourra jouer lesdites pièces imprimées ou gravées, qu’en vertu d’un consentement écrit & signé par l’auteur."
+      "content": "En conséquence de cette réserve, aucun spectacle ne pourra jouer lesdites pièces imprimées ou gravées, qu’en vertu d’un consentement écrit & signé par l’auteur.",
+      "valid_from": "1792-08-31"
     },
     {
       "provision_ref": "artVII",
       "section": "VII",
       "title": "Article VII",
-      "content": "Les spectacles qui contreviendront au précédent article, encourront la peine de confiscation du produit total des représentations."
+      "content": "Les spectacles qui contreviendront au précédent article, encourront la peine de confiscation du produit total des représentations.",
+      "valid_from": "1792-08-31"
     },
     {
       "provision_ref": "artVIII",
       "section": "VIII",
       "title": "Article VIII",
-      "content": "La réserve faite en vertu de l’article IV, n’aura d’effet que pour dix ans ; au bout de ce temps, toutes pièces imprimée & gravée seront librement jouées par tous les spectacles."
+      "content": "La réserve faite en vertu de l’article IV, n’aura d’effet que pour dix ans ; au bout de ce temps, toutes pièces imprimée & gravée seront librement jouées par tous les spectacles.",
+      "valid_from": "1792-08-31"
     },
     {
       "provision_ref": "artX",
       "section": "X",
       "title": "Article X",
-      "content": "Elle déroge aux décrets antérieurs, en tout ce qui n’est pas conforme au présent décret."
+      "content": "Elle déroge aux décrets antérieurs, en tout ce qui n’est pas conforme au présent décret.",
+      "valid_from": "1792-08-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

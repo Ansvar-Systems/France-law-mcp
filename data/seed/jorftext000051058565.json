@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - A créé les dispositions suivantes :\n\nIII. - A. - Le I s'applique à compter d'une date fixée par décret, et au plus tard le 31 décembre 2024.\n\nB. - Le II entre en vigueur le 1er janvier 2027.\n\n- Code de la sécurité sociale.\n\n- Code de la santé publique"
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - A créé les dispositions suivantes :\n\nIII. - A. - Le I s'applique à compter d'une date fixée par décret, et au plus tard le 31 décembre 2024.\n\nB. - Le II entre en vigueur le 1er janvier 2027.\n\n- Code de la sécurité sociale.\n\n- Code de la santé publique",
+      "valid_from": "2025-01-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

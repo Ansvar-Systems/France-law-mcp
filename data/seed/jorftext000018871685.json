@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 2005-883 du 2 août 2005 relative à la mise en place au sein des institutions de la défense d'un dispositif d'accompagnement à l'insertion sociale et professionnelle des jeunes en difficulté est ratifiée."
+      "content": "L'ordonnance n° 2005-883 du 2 août 2005 relative à la mise en place au sein des institutions de la défense d'un dispositif d'accompagnement à l'insertion sociale et professionnelle des jeunes en difficulté est ratifiée.",
+      "valid_from": "2008-05-28"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'ordonnance n° 2007-465 du 29 mars 2007 relative au personnel militaire, modifiant et complétant la partie législative du code de la défense et le code civil est ratifiée."
+      "content": "L'ordonnance n° 2007-465 du 29 mars 2007 relative au personnel militaire, modifiant et complétant la partie législative du code de la défense et le code civil est ratifiée.",
+      "valid_from": "2008-05-28"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Sont abrogés :1° Le premier alinéa de l'article 1er de la loi du 8 juin 1893 relative aux actes de procuration, de consentement et d'autorisation dressés aux armées ou dans le cours d'un voyage maritime ;2° La loi du 30 décembre 1921 rapprochant les fonctionnaires qui, étrangers au département, sont unis par le mariage, soit à des fonctionnaires du département, soit à des personnes qui y ont fixé leur résidence ;3° La loi du 21 juillet 1925 modifiant la loi du 30 décembre 1921 sur le rapprochement des fonctionnaires conjoints en ce qui concerne son application aux membres de l'enseignement ;4° Les 9° et 17° de l'article 6 de l'ordonnance n° 2004-1374 du 20 décembre 2004 relative à la partie législative du code de la défense."
+      "content": "Sont abrogés :1° Le premier alinéa de l'article 1er de la loi du 8 juin 1893 relative aux actes de procuration, de consentement et d'autorisation dressés aux armées ou dans le cours d'un voyage maritime ;2° La loi du 30 décembre 1921 rapprochant les fonctionnaires qui, étrangers au département, sont unis par le mariage, soit à des fonctionnaires du département, soit à des personnes qui y ont fixé leur résidence ;3° La loi du 21 juillet 1925 modifiant la loi du 30 décembre 1921 sur le rapprochement des fonctionnaires conjoints en ce qui concerne son application aux membres de l'enseignement ;4° Les 9° et 17° de l'article 6 de l'ordonnance n° 2004-1374 du 20 décembre 2004 relative à la partie législative du code de la défense.",
+      "valid_from": "2008-05-28"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "La présente loi est applicable à Mayotte, dans les îles Wallis et Futuna, en Nouvelle-Calédonie, en Polynésie française et dans les Terres australes et antarctiques françaises.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "La présente loi est applicable à Mayotte, dans les îles Wallis et Futuna, en Nouvelle-Calédonie, en Polynésie française et dans les Terres australes et antarctiques françaises.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2008-05-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

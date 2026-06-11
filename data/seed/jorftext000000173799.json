@@ -12,7 +12,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions contenues dans le code de l'organisation judiciaire (partie Législative) ont force de loi. Les dispositions législatives énumérées aux articles 1er et 2 du décret n° 78-329 du 16 mars 1978 instituant le code de l'organisation judiciaire (première partie : Législative) sont abrogées."
+      "content": "Les dispositions contenues dans le code de l'organisation judiciaire (partie Législative) ont force de loi. Les dispositions législatives énumérées aux articles 1er et 2 du décret n° 78-329 du 16 mars 1978 instituant le code de l'organisation judiciaire (première partie : Législative) sont abrogées.",
+      "valid_from": "1991-12-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

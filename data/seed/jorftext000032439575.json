@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La présente ordonnance entre en vigueur à une date fixée par décret, et au plus tard six mois après la date de sa publication.Les procédures d'institution d'une servitude dont l'arrêté d'ouverture d'enquête publique a été publié avant l'entrée en vigueur de la présente ordonnance demeurent régies par les dispositions applicables antérieurement à cette entrée en vigueur."
+      "content": "La présente ordonnance entre en vigueur à une date fixée par décret, et au plus tard six mois après la date de sa publication.Les procédures d'institution d'une servitude dont l'arrêté d'ouverture d'enquête publique a été publié avant l'entrée en vigueur de la présente ordonnance demeurent régies par les dispositions applicables antérieurement à cette entrée en vigueur.",
+      "valid_from": "2016-10-23"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre et le ministre de l'économie, de l'industrie et du numérique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre de l'économie, de l'industrie et du numérique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-10-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

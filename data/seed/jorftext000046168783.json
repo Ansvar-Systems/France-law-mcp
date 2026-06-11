@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 2021-1605 du 8 décembre 2021 étendant et adaptant à la fonction publique des communes de Polynésie française certaines dispositions statutaires relatives à la fonction publique territoriale est ratifiée."
+      "content": "L'ordonnance n° 2021-1605 du 8 décembre 2021 étendant et adaptant à la fonction publique des communes de Polynésie française certaines dispositions statutaires relatives à la fonction publique territoriale est ratifiée.",
+      "valid_from": "2022-08-12"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "I. et II. - A modifié les dispositions suivantes :\n\n- Ordonnance n° 2005-10 du 4 janvier 2005\n\nIII. - Le II du présent article entre en vigueur le 1er septembre 2026.IV. - Au plus tard le 1er septembre 2025, le Conseil supérieur de la fonction publique des communes de la Polynésie française remet au haut-commissaire de la République en Polynésie française ainsi qu'à l'assemblée de la Polynésie française un rapport d'évaluation de l'exercice des compétences des commissions administratives paritaires."
+      "content": "I. et II. - A modifié les dispositions suivantes :\n\n- Ordonnance n° 2005-10 du 4 janvier 2005\n\nIII. - Le II du présent article entre en vigueur le 1er septembre 2026.IV. - Au plus tard le 1er septembre 2025, le Conseil supérieur de la fonction publique des communes de la Polynésie française remet au haut-commissaire de la République en Polynésie française ainsi qu'à l'assemblée de la Polynésie française un rapport d'évaluation de l'exercice des compétences des commissions administratives paritaires.",
+      "valid_from": "2022-08-12"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- Ordonnance n° 2005-10 du 4 janvier 2005\n\nII. - Au plus tard le 1er juillet 2024, le Conseil supérieur de la fonction publique des communes de la Polynésie française remet au haut-commissaire de la République en Polynésie française ainsi qu'à l'assemblée de la Polynésie française un rapport sur l'évaluation de la mise en œuvre du congé avec traitement mentionné au 12° de l'article 54 de l'ordonnance n° 2005-10 du 4 janvier 2005 portant statut général des fonctionnaires des communes et des groupements de communes de la Polynésie française ainsi que de leurs établissements publics administratifs. Ce rapport présente notamment les conséquences budgétaires et organisationnelles de la mise en œuvre de ce congé pour les communes de la Polynésie française, les groupements de communes ainsi que leurs établissements publics administratifs."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Ordonnance n° 2005-10 du 4 janvier 2005\n\nII. - Au plus tard le 1er juillet 2024, le Conseil supérieur de la fonction publique des communes de la Polynésie française remet au haut-commissaire de la République en Polynésie française ainsi qu'à l'assemblée de la Polynésie française un rapport sur l'évaluation de la mise en œuvre du congé avec traitement mentionné au 12° de l'article 54 de l'ordonnance n° 2005-10 du 4 janvier 2005 portant statut général des fonctionnaires des communes et des groupements de communes de la Polynésie française ainsi que de leurs établissements publics administratifs. Ce rapport présente notamment les conséquences budgétaires et organisationnelles de la mise en œuvre de ce congé pour les communes de la Polynésie française, les groupements de communes ainsi que leurs établissements publics administratifs.",
+      "valid_from": "2022-08-12"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur les contraintes budgétaires pesant sur les communes de la Polynésie française. Ce rapport étudie, au vu de ces contraintes, les possibilités pour les communes de mener à bien certaines politiques, notamment dans le domaine de l'action sociale, du handicap ou du financement des congés avec traitement pour les activités en lien avec l'armée. Ce rapport propose différentes pistes pour lever les obstacles budgétaires auxquels les communes de la Polynésie française font actuellement face.Ce rapport évalue enfin l'opportunité de permettre aux communes, aux groupements de communes et aux établissements publics de la Polynésie française de verser une indemnité de départ volontaire aux agents publics qui quittent définitivement la fonction publique des communes de la Polynésie française.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur les contraintes budgétaires pesant sur les communes de la Polynésie française. Ce rapport étudie, au vu de ces contraintes, les possibilités pour les communes de mener à bien certaines politiques, notamment dans le domaine de l'action sociale, du handicap ou du financement des congés avec traitement pour les activités en lien avec l'armée. Ce rapport propose différentes pistes pour lever les obstacles budgétaires auxquels les communes de la Polynésie française font actuellement face.Ce rapport évalue enfin l'opportunité de permettre aux communes, aux groupements de communes et aux établissements publics de la Polynésie française de verser une indemnité de départ volontaire aux agents publics qui quittent définitivement la fonction publique des communes de la Polynésie française.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2022-08-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

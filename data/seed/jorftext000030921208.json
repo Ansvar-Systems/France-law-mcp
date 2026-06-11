@@ -12,37 +12,49 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le code civil local applicable aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle est ainsi modifié :1° Le premier alinéa de l'article 43, le second alinéa de l'article 61 et l'article 63 sont abrogés ;2° L'article 62 est remplacé par les dispositions suivantes :\n\n« Art. 62. - Si l'association est fondée sur une cause ou en vue d'un objet illicite, contraire aux lois, aux bonnes mœurs ou qui aurait pour but de porter atteinte à l'intégrité du territoire national et à la forme républicaine du Gouvernement, sa dissolution est prononcée par le tribunal de grande instance, sur saisine de l'autorité administrative compétente, sur requête du ministère public ou de tout intéressé. »"
+      "content": "Le code civil local applicable aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle est ainsi modifié :1° Le premier alinéa de l'article 43, le second alinéa de l'article 61 et l'article 63 sont abrogés ;2° L'article 62 est remplacé par les dispositions suivantes :\n\n« Art. 62. - Si l'association est fondée sur une cause ou en vue d'un objet illicite, contraire aux lois, aux bonnes mœurs ou qui aurait pour but de porter atteinte à l'intégrité du territoire national et à la forme républicaine du Gouvernement, sa dissolution est prononcée par le tribunal de grande instance, sur saisine de l'autorité administrative compétente, sur requête du ministère public ou de tout intéressé. »",
+      "valid_from": "2015-07-25"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "I. - A modifié les dispositions suivantes :"
+      "content": "I. - A modifié les dispositions suivantes :",
+      "valid_from": "2015-07-25"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "II. - Les décrets en vigueur à la date de la publication de la présente ordonnance qui ont reconnu les fédérations sportives comme établissements d'utilité publique sont abrogés à compter du lendemain de la publication de la présente ordonnance."
+      "content": "II. - Les décrets en vigueur à la date de la publication de la présente ordonnance qui ont reconnu les fédérations sportives comme établissements d'utilité publique sont abrogés à compter du lendemain de la publication de la présente ordonnance.",
+      "valid_from": "2015-07-25"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "IV. - Les dispositions des 3°, 4° et 5° du I sont respectivement applicables dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie et celles du II sont applicables dans les îles Wallis et Futuna et en Nouvelle-Calédonie."
+      "content": "IV. - Les dispositions des 3°, 4° et 5° du I sont respectivement applicables dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie et celles du II sont applicables dans les îles Wallis et Futuna et en Nouvelle-Calédonie.",
+      "valid_from": "2015-07-25"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "I.-Le 2° de l'article 1er, l'article 3 dans ses dispositions relatives aux associations régies par la loi au 1er juillet 1901 relative au contrat d'association et les articles 4,7,8 et 9 de la présente ordonnance sont applicables dans les collectivités d'outre-mer régies par l'article 74 de la Constitution et en Nouvelle-Calédonie.II.-L'article 6 de la présente ordonnance est applicable dans les îles Wallis et Futuna et en Nouvelle-Calédonie."
+      "content": "I.-Le 2° de l'article 1er, l'article 3 dans ses dispositions relatives aux associations régies par la loi au 1er juillet 1901 relative au contrat d'association et les articles 4,7,8 et 9 de la présente ordonnance sont applicables dans les collectivités d'outre-mer régies par l'article 74 de la Constitution et en Nouvelle-Calédonie.II.-L'article 6 de la présente ordonnance est applicable dans les îles Wallis et Futuna et en Nouvelle-Calédonie.",
+      "valid_from": "2015-07-25"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Le Premier ministre, le ministre de l'intérieur et le ministre de la ville, de la jeunesse et des sports sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'intérieur et le ministre de la ville, de la jeunesse et des sports sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2015-07-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

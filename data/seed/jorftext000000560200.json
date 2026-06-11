@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est approuvé le rapport annexé à la présente loi, qui fixe les orientations relatives à la politique de défense et aux moyens qui lui sont consacrés au cours de la période 1997-2002."
+      "content": "Est approuvé le rapport annexé à la présente loi, qui fixe les orientations relatives à la politique de défense et aux moyens qui lui sont consacrés au cours de la période 1997-2002.",
+      "valid_from": "1996-07-03"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dépenses ordinaires et les dépenses en capital en autorisations de programme et en crédits de paiement, inscrites en loi de finances initiale du ministère de la défense, s'élèveront au cours de chacune des années de la loi de programmation à 185 milliards de francs constants, exprimés en francs 1995, à hauteur de 99 milliards de francs pour le titre III et de 86 milliards de francs pour les titres V et VI.Ces montants seront actualisés chaque année par application de l'indice des prix à la consommation hors tabac retenu par la loi de finances pour chacune des années considérées."
+      "content": "Les dépenses ordinaires et les dépenses en capital en autorisations de programme et en crédits de paiement, inscrites en loi de finances initiale du ministère de la défense, s'élèveront au cours de chacune des années de la loi de programmation à 185 milliards de francs constants, exprimés en francs 1995, à hauteur de 99 milliards de francs pour le titre III et de 86 milliards de francs pour les titres V et VI.Ces montants seront actualisés chaque année par application de l'indice des prix à la consommation hors tabac retenu par la loi de finances pour chacune des années considérées.",
+      "valid_from": "1996-07-03"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les effectifs inscrits au budget du ministère de la défense, hors comptes de commerce, évolueront de la façon suivante de 1997 à 2002 :199719981999200020012002Officiers38 52338 52738 47538 40338 30638 189Sous-officiers213 369211 532208 842205 234202 353199 296Militaires du rang52 21660 05468 64376 60684 23992 527Total des militaires de carrière ou sous contrat304 108310 113315 960320 243324 898330 012Civils74 87576 24177 92979 96481 79683 023Appelés et volontaires169 525137 672103 49674 57747 10727 171Total général548 508524 026497 385474 784453 801440 206Les effectifs des réserves sont fixés à 100 000 hommes à l'échéance de 2002."
+      "content": "Les effectifs inscrits au budget du ministère de la défense, hors comptes de commerce, évolueront de la façon suivante de 1997 à 2002 :199719981999200020012002Officiers38 52338 52738 47538 40338 30638 189Sous-officiers213 369211 532208 842205 234202 353199 296Militaires du rang52 21660 05468 64376 60684 23992 527Total des militaires de carrière ou sous contrat304 108310 113315 960320 243324 898330 012Civils74 87576 24177 92979 96481 79683 023Appelés et volontaires169 525137 672103 49674 57747 10727 171Total général548 508524 026497 385474 784453 801440 206Les effectifs des réserves sont fixés à 100 000 hommes à l'échéance de 2002.",
+      "valid_from": "1996-07-03"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Gouvernement présentera au Parlement, avant la fin de l'année 1996, un rapport sur les mesures d'aide et de soutien à l'exportation des matériels de défense."
+      "content": "Le Gouvernement présentera au Parlement, avant la fin de l'année 1996, un rapport sur les mesures d'aide et de soutien à l'exportation des matériels de défense.",
+      "valid_from": "1996-07-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

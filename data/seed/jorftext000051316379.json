@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le titre Ier du livre II, le titre II du livre VI et le livre VII du code monétaire et financier sont modifiés conformément aux dispositions des articles 2 à 11 et 13 à 20 de la présente ordonnance."
+      "content": "Le titre Ier du livre II, le titre II du livre VI et le livre VII du code monétaire et financier sont modifiés conformément aux dispositions des articles 2 à 11 et 13 à 20 de la présente ordonnance.",
+      "valid_from": "2025-03-14"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Le Premier ministre, le ministre d'État, ministre des outre-mer, et le ministre de l'économie, des finances et de la souveraineté industrielle et numérique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre d'État, ministre des outre-mer, et le ministre de l'économie, des finances et de la souveraineté industrielle et numérique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2025-03-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

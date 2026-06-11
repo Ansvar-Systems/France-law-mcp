@@ -12,19 +12,28 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les décrets prévus aux paragraphes I et II de l'article 39 de la loi du 6 décembre 1976 relative au développement de la prévention des accidents du travail adaptent les dispositions du chapitre VI du titre III du livre II du code du travail aux institutions mentionnées audit article."
+      "content": "Les décrets prévus aux paragraphes I et II de l'article 39 de la loi du 6 décembre 1976 relative au développement de la prévention des accidents du travail adaptent les dispositions du chapitre VI du titre III du livre II du code du travail aux institutions mentionnées audit article.",
+      "valid_from": "1983-07-01"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les dispositions du titre III du livre II du code du travail ne font pas obstacle aux dispositions législatives et réglementaires sur la protection du secret des informations intéressant la défense nationale."
+      "content": "Les dispositions du titre III du livre II du code du travail ne font pas obstacle aux dispositions législatives et réglementaires sur la protection du secret des informations intéressant la défense nationale.",
+      "valid_from": "1983-07-01"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Les dispositions de la présente loi entrent en vigueur le premier jour du septième mois qui suit sa publication au Journal officiel de la République française, à l'exception de celles prévues pour les articles L. 231-8, L. 231-8-1, L. 231-8-2, L. 231-9 et L. 236-11 du code du travail, qui sont immédiatement applicables.Les mandats des membres des institutions visées au 3° de l'article L. 231-2 du code du travail qui viendraient à expiration avant l'entrée en vigueur de la présente loi sont prorogés jusqu'à cette date.Toutefois, dans un délai de deux ans à compter de l'entrée en vigueur de la présente loi, les comités d'hygiène et de sécurité et les commissions d'amélioration des conditions de travail existants pourront, sous réserve de l'accord du comité d'entreprise, continuer de fonctionner dans les conditions fixées aux articles L. 231-2-3°et L. 437-1 à L. 437-4 du code du travail, provisoirement maintenus en vigueur. Dans ce cas, et pendant ce délai, les mandats des membres de ces institutions sont prorogés et les dispositions de l'articleL. 236-11 du même code sont applicables aux représentants du personnel en faisant partie."
+      "content": "Les dispositions de la présente loi entrent en vigueur le premier jour du septième mois qui suit sa publication au Journal officiel de la République française, à l'exception de celles prévues pour les articles L. 231-8, L. 231-8-1, L. 231-8-2, L. 231-9 et L. 236-11 du code du travail, qui sont immédiatement applicables.Les mandats des membres des institutions visées au 3° de l'article L. 231-2 du code du travail qui viendraient à expiration avant l'entrée en vigueur de la présente loi sont prorogés jusqu'à cette date.Toutefois, dans un délai de deux ans à compter de l'entrée en vigueur de la présente loi, les comités d'hygiène et de sécurité et les commissions d'amélioration des conditions de travail existants pourront, sous réserve de l'accord du comité d'entreprise, continuer de fonctionner dans les conditions fixées aux articles L. 231-2-3°et L. 437-1 à L. 437-4 du code du travail, provisoirement maintenus en vigueur. Dans ce cas, et pendant ce délai, les mandats des membres de ces institutions sont prorogés et les dispositions de l'articleL. 236-11 du même code sont applicables aux représentants du personnel en faisant partie.",
+      "valid_from": "1983-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

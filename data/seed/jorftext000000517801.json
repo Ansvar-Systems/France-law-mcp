@@ -12,19 +12,28 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Dans le cas prévu au deuxième alinéa de l' article 6 de la loi du 29 juillet 1881, les dispositions de l'ordonnance du 26 août 1944 qui concernent le directeur de la publication, à l'exception de celles prévues à l'article 7 de ladite ordonnance, sont applicables au codirecteur de la publication.Le recouvrement des amendes et des dommages-intérêts auxquels le codirecteur de la publication peut être condamné en application de l'alinéa précédent peut être poursuivi sur l'actif de l'entreprise."
+      "content": "Dans le cas prévu au deuxième alinéa de l' article 6 de la loi du 29 juillet 1881, les dispositions de l'ordonnance du 26 août 1944 qui concernent le directeur de la publication, à l'exception de celles prévues à l'article 7 de ladite ordonnance, sont applicables au codirecteur de la publication.Le recouvrement des amendes et des dommages-intérêts auxquels le codirecteur de la publication peut être condamné en application de l'alinéa précédent peut être poursuivi sur l'actif de l'entreprise.",
+      "valid_from": "1952-03-26"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "En ce qui concerne les journaux ou écrits périodiques dont le directeur de la publication bénéficie, à la date de la promulgation de la présente loi, de l'immunité prévue par l'article 22 de la Constitution, le codirecteur de la publication devra être nommé dans le délai d'un mois à compter de ladite promulgation. Dans le même délai, une déclaration sera faite au Parquet à l'effet de compléter la déclaration prévue à l'article 7 de la loi du 29 juillet 1881 par la mention du nom et de la demeure du codirecteur de la publication."
+      "content": "En ce qui concerne les journaux ou écrits périodiques dont le directeur de la publication bénéficie, à la date de la promulgation de la présente loi, de l'immunité prévue par l'article 22 de la Constitution, le codirecteur de la publication devra être nommé dans le délai d'un mois à compter de ladite promulgation. Dans le même délai, une déclaration sera faite au Parquet à l'effet de compléter la déclaration prévue à l'article 7 de la loi du 29 juillet 1881 par la mention du nom et de la demeure du codirecteur de la publication.",
+      "valid_from": "1952-03-26"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "La présente loi est applicable aux territoires d'outre-mer."
+      "content": "La présente loi est applicable aux territoires d'outre-mer.",
+      "valid_from": "1952-03-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

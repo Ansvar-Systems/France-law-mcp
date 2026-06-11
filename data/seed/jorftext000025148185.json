@@ -12,49 +12,63 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les réunions publiques sont libres.Elles peuvent avoir lieu sans autorisation préalable, sous les conditions prescrites par les articles suivants."
+      "content": "Les réunions publiques sont libres.Elles peuvent avoir lieu sans autorisation préalable, sous les conditions prescrites par les articles suivants.",
+      "valid_from": "1881-06-30"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La réunion électorale est celle qui a pour but le choix ou l'audition de candidats à des fonctions publiques électives, et à laquelle ne peuvent assister que les électeurs de la circonscription, les candidats, les membres des deux chambres et le mandataire de chacun des candidats."
+      "content": "La réunion électorale est celle qui a pour but le choix ou l'audition de candidats à des fonctions publiques électives, et à laquelle ne peuvent assister que les électeurs de la circonscription, les candidats, les membres des deux chambres et le mandataire de chacun des candidats.",
+      "valid_from": "1881-06-30"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les réunions ne peuvent être tenues sur la voie publique ; elles ne peuvent se prolonger au-delà de onze heures du soir ; cependant, dans les localités où la fermeture des établissements publics a lieu plus tard, elles pourront se prolonger jusqu'à l'heure fixée pour la fermeture de ces établissements."
+      "content": "Les réunions ne peuvent être tenues sur la voie publique ; elles ne peuvent se prolonger au-delà de onze heures du soir ; cependant, dans les localités où la fermeture des établissements publics a lieu plus tard, elles pourront se prolonger jusqu'à l'heure fixée pour la fermeture de ces établissements.",
+      "valid_from": "1881-06-30"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Chaque réunion doit avoir un bureau composé de trois personnes au moins. Le bureau est chargé de maintenir l'ordre, d'empêcher toute infraction aux lois, d'interdire tout discours contraire à l'ordre public et aux bonnes moeurs, ou contenant provocation à un acte qualifié crime ou délit.Les membres du bureau seront élus par l'assemblée.Les membres du bureau sont responsables des infractions aux prescriptions des articles 6 et 8 de la présente loi."
+      "content": "Chaque réunion doit avoir un bureau composé de trois personnes au moins. Le bureau est chargé de maintenir l'ordre, d'empêcher toute infraction aux lois, d'interdire tout discours contraire à l'ordre public et aux bonnes moeurs, ou contenant provocation à un acte qualifié crime ou délit.Les membres du bureau seront élus par l'assemblée.Les membres du bureau sont responsables des infractions aux prescriptions des articles 6 et 8 de la présente loi.",
+      "valid_from": "1881-06-30"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Un fonctionnaire de l'ordre administratif ou judiciaire peut être délégué : à Paris, par le préfet de police, et dans les départements, par le préfet, le sous-préfet ou le maire, pour assister à la réunion.Il choisit sa place.Le droit de dissolution ne devra être exercé par le représentant de l'autorité que s'il en est requis par le bureau, ou s'il se produit des collisions et voies de fait."
+      "content": "Un fonctionnaire de l'ordre administratif ou judiciaire peut être délégué : à Paris, par le préfet de police, et dans les départements, par le préfet, le sous-préfet ou le maire, pour assister à la réunion.Il choisit sa place.Le droit de dissolution ne devra être exercé par le représentant de l'autorité que s'il en est requis par le bureau, ou s'il se produit des collisions et voies de fait.",
+      "valid_from": "1881-06-30"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Toute infraction aux dispositions de la présente loi sera punie des peines de simple police, sans préjudice des poursuites pour crimes et délits qui pourraient être commis dans les réunions."
+      "content": "Toute infraction aux dispositions de la présente loi sera punie des peines de simple police, sans préjudice des poursuites pour crimes et délits qui pourraient être commis dans les réunions.",
+      "valid_from": "1881-06-30"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "L'article 463 du code pénal est applicable aux contraventions prévues par la présente loi. L'action publique et l'action privée se prescrivent par six mois."
+      "content": "L'article 463 du code pénal est applicable aux contraventions prévues par la présente loi. L'action publique et l'action privée se prescrivent par six mois.",
+      "valid_from": "1881-06-30"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les dispositions de la présente loi sont applicables dans les collectivités d'outre-mer régies par l'article 74 de la Constitution et en Nouvelle-Calédonie."
+      "content": "Les dispositions de la présente loi sont applicables dans les collectivités d'outre-mer régies par l'article 74 de la Constitution et en Nouvelle-Calédonie.",
+      "valid_from": "2009-05-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

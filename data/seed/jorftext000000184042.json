@@ -12,7 +12,14 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Le comité des finances locales est consulté pour avis sur les projets de décrets et d'instructions portant réforme de la comptabilité des communes et de leurs groupements pris avant le 31 décembre 1998 en application de la présente loi."
+      "content": "Le comité des finances locales est consulté pour avis sur les projets de décrets et d'instructions portant réforme de la comptabilité des communes et de leurs groupements pris avant le 31 décembre 1998 en application de la présente loi.",
+      "valid_from": "1996-02-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code du sport est modifié conformément aux articles 2 à 26 de la présente ordonnance."
+      "content": "Le code du sport est modifié conformément aux articles 2 à 26 de la présente ordonnance.",
+      "valid_from": "2015-11-01"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Chaque fédération sportive agréée dispose d'un délai de six mois à compter de la publication au Journal officiel de la République française du décret en Conseil d'Etat modifiant, pour assurer le respect des principes du code mondial antidopage, le décret en Conseil d'Etat mentionné au quatrième alinéa de l'article L. 232-21 du code du sport, pour mettre son règlement disciplinaire particulier de lutte contre le dopage en conformité avec ce texte. Elle peut y procéder par décision de l'instance dirigeante convoquée spécialement à cet effet par son président ou par décision de son assemblée générale.Si, à l'expiration du délai de six mois, la mise en conformité n'a pas été réalisée :1° Le ministre chargé des sports peut prononcer par arrêté le retrait de l'agrément de la fédération ;2° Les organes de la fédération compétents pour l'exercice du pouvoir disciplinaire en matière de lutte contre le dopage sont tenus de faire application directe des dispositions du décret en Conseil d'Etat mentionné au quatrième alinéa de l'article L. 232-21 du code du sport, relatives à la lutte contre le dopage, tant que la mise en conformité du règlement disciplinaire particulier de lutte contre le dopage de la fédération n'est pas réalisée."
+      "content": "Chaque fédération sportive agréée dispose d'un délai de six mois à compter de la publication au Journal officiel de la République française du décret en Conseil d'Etat modifiant, pour assurer le respect des principes du code mondial antidopage, le décret en Conseil d'Etat mentionné au quatrième alinéa de l'article L. 232-21 du code du sport, pour mettre son règlement disciplinaire particulier de lutte contre le dopage en conformité avec ce texte. Elle peut y procéder par décision de l'instance dirigeante convoquée spécialement à cet effet par son président ou par décision de son assemblée générale.Si, à l'expiration du délai de six mois, la mise en conformité n'a pas été réalisée :1° Le ministre chargé des sports peut prononcer par arrêté le retrait de l'agrément de la fédération ;2° Les organes de la fédération compétents pour l'exercice du pouvoir disciplinaire en matière de lutte contre le dopage sont tenus de faire application directe des dispositions du décret en Conseil d'Etat mentionné au quatrième alinéa de l'article L. 232-21 du code du sport, relatives à la lutte contre le dopage, tant que la mise en conformité du règlement disciplinaire particulier de lutte contre le dopage de la fédération n'est pas réalisée.",
+      "valid_from": "2015-11-01"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "Pour l'application des dispositions de l'article L. 232-9-1 du code du sport, il est tenu compte des sanctions prononcées pour violation des articles L. 232-9, L. 232-10 ou L. 232-17 de ce code antérieurement à la date d'entrée en vigueur de la présente ordonnance, dès lors que ces sanctions d'interdiction continuent de produire effet à cette date."
+      "content": "Pour l'application des dispositions de l'article L. 232-9-1 du code du sport, il est tenu compte des sanctions prononcées pour violation des articles L. 232-9, L. 232-10 ou L. 232-17 de ce code antérieurement à la date d'entrée en vigueur de la présente ordonnance, dès lors que ces sanctions d'interdiction continuent de produire effet à cette date.",
+      "valid_from": "2015-11-01"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "A l'exception des articles 4, 8, 20, 23 et 26, la présente ordonnance entrera en vigueur le premier jour du premier mois suivant la date de sa publication au Journal officiel de la République française."
+      "content": "A l'exception des articles 4, 8, 20, 23 et 26, la présente ordonnance entrera en vigueur le premier jour du premier mois suivant la date de sa publication au Journal officiel de la République française.",
+      "valid_from": "2015-11-01"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "Le Premier ministre et le ministre de la ville, de la jeunesse et des sports sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre de la ville, de la jeunesse et des sports sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2015-11-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

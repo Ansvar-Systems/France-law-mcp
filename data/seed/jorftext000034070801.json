@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 2016-301 du 14 mars 2016 relative à la partie législative du code de la consommation est ratifiée."
+      "content": "L'ordonnance n° 2016-301 du 14 mars 2016 relative à la partie législative du code de la consommation est ratifiée.",
+      "valid_from": "2017-02-23"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'ordonnance n° 2016-351 du 25 mars 2016 sur les contrats de crédit aux consommateurs relatifs aux biens immobiliers à usage d'habitation est ratifiée."
+      "content": "L'ordonnance n° 2016-351 du 25 mars 2016 sur les contrats de crédit aux consommateurs relatifs aux biens immobiliers à usage d'habitation est ratifiée.",
+      "valid_from": "2017-02-23"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Par exception à l'article 35 de l'ordonnance n° 2016-301 du 14 mars 2016 précitée, l'article L. 123-6 du code de la consommation, dans sa rédaction antérieure à cette même ordonnance, en tant qu'il concerne Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon, est abrogé à compter de la promulgation de la présente loi.\n\n-Code de la consommation"
+      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Par exception à l'article 35 de l'ordonnance n° 2016-301 du 14 mars 2016 précitée, l'article L. 123-6 du code de la consommation, dans sa rédaction antérieure à cette même ordonnance, en tant qu'il concerne Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon, est abrogé à compter de la promulgation de la présente loi.\n\n-Code de la consommation",
+      "valid_from": "2017-02-23"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nII.-Les prêteurs disposent d'un délai de trois mois à compter de la promulgation de la présente loi pour se mettre en conformité avec le 7° de l'article L. 311-1 du code de la consommation, dans sa rédaction résultant du I du présent article. Le même 7°, dans sa rédaction antérieure à la présente loi, leur demeure applicable jusqu'à cette mise en conformité.\n\nIII.-L'article L. 313-39 du code de la consommation s'applique à tout avenant établi à compter de l'entrée en vigueur de la présente loi, quelle que soit la date à laquelle l'offre de crédit du contrat modifié par cet avenant a été émise.\n\n-Code de la consommation\n\n-Code de la consommation"
+      "content": "A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nII.-Les prêteurs disposent d'un délai de trois mois à compter de la promulgation de la présente loi pour se mettre en conformité avec le 7° de l'article L. 311-1 du code de la consommation, dans sa rédaction résultant du I du présent article. Le même 7°, dans sa rédaction antérieure à la présente loi, leur demeure applicable jusqu'à cette mise en conformité.\n\nIII.-L'article L. 313-39 du code de la consommation s'applique à tout avenant établi à compter de l'entrée en vigueur de la présente loi, quelle que soit la date à laquelle l'offre de crédit du contrat modifié par cet avenant a été émise.\n\n-Code de la consommation\n\n-Code de la consommation",
+      "valid_from": "2017-02-23"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "I., II. et III. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIV. - Le présent article est applicable aux offres de prêts émises à compter de la date de publication de la présente loi.\n\nV. - Le présent article est également applicable, à compter du 1er janvier 2018, aux contrats d'assurance en cours d'exécution à cette date.\n\n- Code de la consommation\n\n- Code des assurances\n\n- Code de la mutualité"
+      "content": "I., II. et III. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIV. - Le présent article est applicable aux offres de prêts émises à compter de la date de publication de la présente loi.\n\nV. - Le présent article est également applicable, à compter du 1er janvier 2018, aux contrats d'assurance en cours d'exécution à cette date.\n\n- Code de la consommation\n\n- Code des assurances\n\n- Code de la mutualité",
+      "valid_from": "2017-02-23"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "A modifié les dispositions suivantes :\n\n- Code monétaire et financier"
+      "content": "A modifié les dispositions suivantes :\n\n- Code monétaire et financier",
+      "valid_from": "2017-02-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

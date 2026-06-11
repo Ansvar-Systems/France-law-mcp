@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Toutes décisions prises par les autorités habilitées pour l'attribution des titres prévus par les textes portant statut des forces françaises libres, des forces françaises combattantes, des forces françaises de l'intérieur et de la Résistance intérieure française et reconnues ultérieurement mal fondées peuvent être retirées ou revisées à quelque date que ce soit, après avis motivé d'une commission spéciale. La décision de retrait ou de révision devra être motivée au cas où elle ne serait pas conforme à l'avis de la commission.A la suite du retrait ou de la modification de ces titres, il pourra être procédé nonobstant toute décision juridictionnelle contraire soit par le ministre des armées, soit par décision conjointe du ministre des armées et du ministre des anciens combattants, ou, le cas échéant, du ministre intéressé, au retrait ou à la révision des divers avantages y attachés, suivant une procédure qui sera fixée au décret portant    décret en Conseil d'Etat prévu à l'article 2.En aucun cas, cependant, les sommes indûment perçues ne pourront être répétées."
+      "content": "Toutes décisions prises par les autorités habilitées pour l'attribution des titres prévus par les textes portant statut des forces françaises libres, des forces françaises combattantes, des forces françaises de l'intérieur et de la Résistance intérieure française et reconnues ultérieurement mal fondées peuvent être retirées ou revisées à quelque date que ce soit, après avis motivé d'une commission spéciale. La décision de retrait ou de révision devra être motivée au cas où elle ne serait pas conforme à l'avis de la commission.A la suite du retrait ou de la modification de ces titres, il pourra être procédé nonobstant toute décision juridictionnelle contraire soit par le ministre des armées, soit par décision conjointe du ministre des armées et du ministre des anciens combattants, ou, le cas échéant, du ministre intéressé, au retrait ou à la révision des divers avantages y attachés, suivant une procédure qui sera fixée au décret portant    décret en Conseil d'Etat prévu à l'article 2.En aucun cas, cependant, les sommes indûment perçues ne pourront être répétées.",
+      "valid_from": "1958-12-17"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les conditions et modalités d'application de la présente ordonnance et notamment la composition et le fonctionnement de la commission prévue à l'article 1er seront fixées par un décret portait    décret en Conseil d'Etat."
+      "content": "Les conditions et modalités d'application de la présente ordonnance et notamment la composition et le fonctionnement de la commission prévue à l'article 1er seront fixées par un décret portait    décret en Conseil d'Etat.",
+      "valid_from": "1958-12-17"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente ordonnance Sera publiée au Journal officiel de la République française et exécutée comme loi."
+      "content": "La présente ordonnance Sera publiée au Journal officiel de la République française et exécutée comme loi.",
+      "valid_from": "1958-12-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de l'énergie\n\nII. - Le I entre en vigueur le 1er février 2025."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de l'énergie\n\nII. - Le I entre en vigueur le 1er février 2025.",
+      "valid_from": "2024-04-13"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport qui présente de manière détaillée l'intérêt de nationaliser la société Électricité de Mayotte, dont Électricité de France est actionnaire minoritaire.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport qui présente de manière détaillée l'intérêt de nationaliser la société Électricité de Mayotte, dont Électricité de France est actionnaire minoritaire.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2024-04-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

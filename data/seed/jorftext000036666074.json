@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont ratifiées :1° L'ordonnance n° 2016-1058 du 3 août 2016 relative à la modification des règles applicables à l'évaluation environnementale des projets, plans et programmes ;2° L'ordonnance n° 2016-1060 du 3 août 2016 portant réforme des procédures destinées à assurer l'information et la participation du public à l'élaboration de certaines décisions susceptibles d'avoir une incidence sur l'environnement."
+      "content": "Sont ratifiées :1° L'ordonnance n° 2016-1058 du 3 août 2016 relative à la modification des règles applicables à l'évaluation environnementale des projets, plans et programmes ;2° L'ordonnance n° 2016-1060 du 3 août 2016 portant réforme des procédures destinées à assurer l'information et la participation du public à l'élaboration de certaines décisions susceptibles d'avoir une incidence sur l'environnement.",
+      "valid_from": "2018-03-04"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. et II.-A modifié les dispositions suivantes :\n\nIII.-Le troisième alinéa du e du 6° du I entre en vigueur deux mois après la promulgation de la présente loi.\n\n-Code de l'environnement"
+      "content": "I. et II.-A modifié les dispositions suivantes :\n\nIII.-Le troisième alinéa du e du 6° du I entre en vigueur deux mois après la promulgation de la présente loi.\n\n-Code de l'environnement",
+      "valid_from": "2018-03-04"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I., II., III. et IV. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- Code général des collectivités territoriales\n\n- Code général des collectivités territoriales\n\n- Code de l'environnement"
+      "content": "I., II., III. et IV. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- Code général des collectivités territoriales\n\n- Code général des collectivités territoriales\n\n- Code de l'environnement",
+      "valid_from": "2018-03-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

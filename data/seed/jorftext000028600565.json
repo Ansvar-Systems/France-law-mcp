@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "A modifié les dispositions suivantes :\n\nLoi n° 77-729 du 7 juillet 1977\n\nArt. 6-3"
+      "content": "A modifié les dispositions suivantes :\n\nLoi n° 77-729 du 7 juillet 1977\n\nArt. 6-3",
+      "valid_from": "2014-02-17"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La présente loi est applicable sur l'ensemble du territoire de la République."
+      "content": "La présente loi est applicable sur l'ensemble du territoire de la République.",
+      "valid_from": "2014-02-17"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La présente loi entre en vigueur à compter du premier renouvellement du Parlement européen suivant le 31 mars 2017."
+      "content": "La présente loi entre en vigueur à compter du premier renouvellement du Parlement européen suivant le 31 mars 2017.",
+      "valid_from": "2014-02-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

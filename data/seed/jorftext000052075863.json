@@ -1,0 +1,32 @@
+{
+  "id": "jorftext000052075863",
+  "type": "statute",
+  "title": "LOI n°2025-795 du 11 août 2025",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000052075863",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Les articles 1à 5 s'appliquent à compter du premier renouvellement général des conseils municipaux qui suit la promulgation de la présente loi.",
+      "valid_from": "2025-08-13"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport qui évalue la possibilité de transférer des compétences de la mairie centrale aux mairies d'arrondissement à Paris, à Lyon et à Marseille.",
+      "valid_from": "2025-08-13"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

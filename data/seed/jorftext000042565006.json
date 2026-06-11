@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La durée de la procédure de conciliation définie par la première phrase du deuxième alinéa de l'article L. 611-6 du code de commerce peut être prorogée, une ou plusieurs fois, à la demande du conciliateur, par décision motivée du président du tribunal, sans que cette durée ne puisse excéder dix mois."
+      "content": "La durée de la procédure de conciliation définie par la première phrase du deuxième alinéa de l'article L. 611-6 du code de commerce peut être prorogée, une ou plusieurs fois, à la demande du conciliateur, par décision motivée du président du tribunal, sans que cette durée ne puisse excéder dix mois.",
+      "valid_from": "2020-11-27"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Dès que le mandataire judiciaire a établi le relevé mentionné à la première phrase de l'article L. 625-1 du code de commerce, il en transmet un exemplaire, sous sa seule signature, à l'association prévue à l'article L. 3253-14 du code du travail.Lorsque cet exemplaire n'est pas conforme au relevé sur lequel est apposé le visa du juge-commissaire, le mandataire judiciaire transmet sans délai ce dernier à l'association prévue à l'article L. 3253-14 du code du travail."
+      "content": "Dès que le mandataire judiciaire a établi le relevé mentionné à la première phrase de l'article L. 625-1 du code de commerce, il en transmet un exemplaire, sous sa seule signature, à l'association prévue à l'article L. 3253-14 du code du travail.Lorsque cet exemplaire n'est pas conforme au relevé sur lequel est apposé le visa du juge-commissaire, le mandataire judiciaire transmet sans délai ce dernier à l'association prévue à l'article L. 3253-14 du code du travail.",
+      "valid_from": "2020-11-27"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les communications effectuées dans le cadre des procédures du livre VI du code de commerce, entre, d'une part, l'administrateur judiciaire, le mandataire judiciaire, le liquidateur, le commissaire à l'exécution du plan, le mandataire ad hoc désigné en application de l'article L. 611-3 du code de commerce ou le conciliateur désigné en application de l'article L. 611-6 du même code, et, d'autre part, le greffe du tribunal ainsi que les organes juridictionnels de la procédure se font par tout moyen. Les dispositions de la phrase précédente ne s'appliquent pas aux documents pour lesquels le livre VI du code de commerce prévoit la faculté d'en prendre connaissance au greffe du tribunal."
+      "content": "Les communications effectuées dans le cadre des procédures du livre VI du code de commerce, entre, d'une part, l'administrateur judiciaire, le mandataire judiciaire, le liquidateur, le commissaire à l'exécution du plan, le mandataire ad hoc désigné en application de l'article L. 611-3 du code de commerce ou le conciliateur désigné en application de l'article L. 611-6 du même code, et, d'autre part, le greffe du tribunal ainsi que les organes juridictionnels de la procédure se font par tout moyen. Les dispositions de la phrase précédente ne s'appliquent pas aux documents pour lesquels le livre VI du code de commerce prévoit la faculté d'en prendre connaissance au greffe du tribunal.",
+      "valid_from": "2020-11-27"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - Les dispositions des articles 1er à 3 s'appliquent jusqu'au 31 décembre 2021 inclus.II. - Les dispositions de l'article 1er s'appliquent aux procédures en cours qui ont été ouvertes à compter du 24 août 2020 ainsi qu'à celles qui sont ouvertes à compter de l'entrée en vigueur de la présente ordonnance.III. - Les dispositions de l'article 2 s'appliquent aux procédures en cours.IV. - Les dispositions de l'article 3 s'appliquent aux communications effectuées à compter de la date d'entrée en vigueur de la présente ordonnance."
+      "content": "I. - Les dispositions des articles 1er à 3 s'appliquent jusqu'au 31 décembre 2021 inclus.II. - Les dispositions de l'article 1er s'appliquent aux procédures en cours qui ont été ouvertes à compter du 24 août 2020 ainsi qu'à celles qui sont ouvertes à compter de l'entrée en vigueur de la présente ordonnance.III. - Les dispositions de l'article 2 s'appliquent aux procédures en cours.IV. - Les dispositions de l'article 3 s'appliquent aux communications effectuées à compter de la date d'entrée en vigueur de la présente ordonnance.",
+      "valid_from": "2020-11-27"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La présente ordonnance est applicable à Wallis-et-Futuna. Pour l'application de l'article 2, la référence au code du travail est remplacée par la référence aux dispositions applicables localement."
+      "content": "La présente ordonnance est applicable à Wallis-et-Futuna. Pour l'application de l'article 2, la référence au code du travail est remplacée par la référence aux dispositions applicables localement.",
+      "valid_from": "2020-11-27"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-11-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

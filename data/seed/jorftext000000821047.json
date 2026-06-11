@@ -12,25 +12,35 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "I.-Les éléments d'actif et de passif transférés dans le cadre de l'opération mentionnée à l'article 2011 du code civil forment un patrimoine d'affectation. Les opérations affectant ce dernier font l'objet d'une comptabilité autonome chez le fiduciaire.II.-Les personnes mentionnées à l'article 2015 du code civil établissent des comptes annuels conformément aux dispositions des articles L. 123-12 à L. 123-15 du code de commerce.III.-Le contrôle de la comptabilité autonome mentionnée au I est exercé par un ou plusieurs commissaires aux comptes nommés par le fiduciaire lorsque le ou les constituants sont eux-mêmes tenus de désigner un commissaire aux comptes. Le rapport du commissaire aux comptes est présenté au fiduciaire. Le commissaire aux comptes est délié du secret professionnel à l'égard des commissaires aux comptes des parties au contrat de fiducie.IV.-Les dispositions des I et II sont précisées par un règlement du comité de la réglementation comptable."
+      "content": "I.-Les éléments d'actif et de passif transférés dans le cadre de l'opération mentionnée à l'article 2011 du code civil forment un patrimoine d'affectation. Les opérations affectant ce dernier font l'objet d'une comptabilité autonome chez le fiduciaire.II.-Les personnes mentionnées à l'article 2015 du code civil établissent des comptes annuels conformément aux dispositions des articles L. 123-12 à L. 123-15 du code de commerce.III.-Le contrôle de la comptabilité autonome mentionnée au I est exercé par un ou plusieurs commissaires aux comptes nommés par le fiduciaire lorsque le ou les constituants sont eux-mêmes tenus de désigner un commissaire aux comptes. Le rapport du commissaire aux comptes est présenté au fiduciaire. Le commissaire aux comptes est délié du secret professionnel à l'égard des commissaires aux comptes des parties au contrat de fiducie.IV.-Les dispositions des I et II sont précisées par un règlement du comité de la réglementation comptable.",
+      "valid_from": "2009-02-01"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Le constituant et le fiduciaire doivent être résidents d'un Etat de la Communauté européenne ou d'un Etat ou territoire ayant conclu avec la France une convention fiscale en vue d'éliminer les doubles impositions qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale."
+      "content": "Le constituant et le fiduciaire doivent être résidents d'un Etat de la Communauté européenne ou d'un Etat ou territoire ayant conclu avec la France une convention fiscale en vue d'éliminer les doubles impositions qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale.",
+      "valid_from": "2007-02-21"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Lorsque le contrat de fiducie a pour objet de couvrir des risques d'assurance ou de réassurance, la présente loi s'applique sous réserve des dispositions du code des assurances."
+      "content": "Lorsque le contrat de fiducie a pour objet de couvrir des risques d'assurance ou de réassurance, la présente loi s'applique sous réserve des dispositions du code des assurances.",
+      "valid_from": "2007-02-21"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les documents relatifs au contrat de fiducie sont transmis, à leur demande et sans que puisse leur être opposé le secret professionnel, au service institué à l'article L. 562-4 du code monétaire et financier, aux services des douanes et aux officiers de police judiciaire, aux autorités de contrôle compétentes en matière de lutte contre le blanchiment de capitaux, à l'administration fiscale et au juge, par le fiduciaire, le constituant, le bénéficiaire ou par toute personne physique ou morale exerçant, de quelque manière que ce soit, un pouvoir de décision direct ou indirect sur la fiducie.Ces documents sont exigibles pendant une durée de dix ans après la fin du contrat de fiducie."
+      "content": "Les documents relatifs au contrat de fiducie sont transmis, à leur demande et sans que puisse leur être opposé le secret professionnel, au service institué à l'article L. 562-4 du code monétaire et financier, aux services des douanes et aux officiers de police judiciaire, aux autorités de contrôle compétentes en matière de lutte contre le blanchiment de capitaux, à l'administration fiscale et au juge, par le fiduciaire, le constituant, le bénéficiaire ou par toute personne physique ou morale exerçant, de quelque manière que ce soit, un pouvoir de décision direct ou indirect sur la fiducie.Ces documents sont exigibles pendant une durée de dix ans après la fin du contrat de fiducie.",
+      "valid_from": "2007-02-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

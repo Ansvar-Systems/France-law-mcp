@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- Code du travail\n\nII. - Le I entre en vigueur le 1er janvier 2024. Les conditions et les modalités d'éligibilité au compte personnel de formation de la préparation aux épreuves théoriques et pratiques de toutes les catégories de permis de conduire d'un véhicule terrestre à moteur sont précisées par décret, après consultation des partenaires sociaux."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Code du travail\n\nII. - Le I entre en vigueur le 1er janvier 2024. Les conditions et les modalités d'éligibilité au compte personnel de formation de la préparation aux épreuves théoriques et pratiques de toutes les catégories de permis de conduire d'un véhicule terrestre à moteur sont précisées par décret, après consultation des partenaires sociaux.",
+      "valid_from": "2023-06-23"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur la possibilité d'abaisser l'âge d'obtention du permis de conduire. Ce rapport aborde les conséquences d'un changement de la législation en la matière et les modalités de sa mise en pratique.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur la possibilité d'abaisser l'âge d'obtention du permis de conduire. Ce rapport aborde les conséquences d'un changement de la législation en la matière et les modalités de sa mise en pratique.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2023-06-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

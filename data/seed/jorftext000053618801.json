@@ -1,0 +1,25 @@
+{
+  "id": "jorftext000053618801",
+  "type": "statute",
+  "title": "Ordonnance n°2026-154 du 4 mars 2026",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053618801",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Le Premier ministre, la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2026-03-06"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

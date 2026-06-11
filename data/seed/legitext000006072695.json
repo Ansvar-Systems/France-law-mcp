@@ -1,0 +1,53 @@
+{
+  "id": "legitext000006072695",
+  "type": "statute",
+  "title": "Loi du 28 avril 1816",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072695/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Article 91",
+      "content": "Les avocats à la Cour de cassation, notaires, greffiers, les prestataires de service d'investissement, courtiers, commissaires de justice pourront présenter à l'agrément du garde des sceaux, ministre de la justice des successeurs, pourvu qu'ils réunissent les qualités exigées par les lois. Cette faculté n'aura pas lieu pour les titulaires destitués. Les successeurs présentés à l'agrément, en application du présent alinéa, peuvent être des personnes physiques ou des sociétés civiles professionnelles.\n\nIl sera statué, par une loi particulière, sur l'exécution de cette disposition, et sur les moyens d'en faire jouir les héritiers ou ayants-cause desdits officiers.\n\nCette faculté de présenter des successeurs ne déroge point, au surplus, au droit du garde des sceaux, ministre de la justice de réduire le nombre desdits fonctionnaires, notamment celui des notaires, dans les cas prévus par la loi du 25 ventôse an XI sur le notariat.",
+      "valid_from": "2022-07-01"
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Article 96",
+      "content": "Nul ne sera admis à prêter serment et à être installé dans les fonctions auxquelles il aura été nommé, s'il ne justifie préalablement de la quittance de son cautionnement.",
+      "valid_from": "1963-02-24"
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "Article 97",
+      "content": "La faculté conservée à des fonctionnaires de l'ordre judiciaire, employés des administrations civiles, receveurs des communes et comptables des deniers publics, de fournir tout ou partie de leur cautionnement en immeubles ou en rentes sur l'Etat, ne sera pas accordée à ceux qui seront nommés à partir de la publication de la présente loi. Ces cautionnements devront, en conséquence, être fournis à l'avenir en numéraire pour la totalité.",
+      "valid_from": "1963-02-24"
+    },
+    {
+      "provision_ref": "art110",
+      "section": "110",
+      "title": "Article 110",
+      "content": "La Caisse d'amortissement ne pourra recevoir aucun dépôt ni consignation, de quelque espèce que ce soit.Les dépôts, les consignations, les services relatifs à la Légion d'honneur, à la Compagnie des canaux, aux Fonds de retraite, et les autres attributions (l'amortissement excepté) confiées à la caisse actuellement existante, seront administrés par un établissement spécial sous le nom de Caisse des dépôts et consignations.",
+      "valid_from": "1816-07-24"
+    },
+    {
+      "provision_ref": "art114",
+      "section": "114",
+      "title": "Article 114",
+      "content": "Le rapport de la commission de surveillance sur la direction morale et sur la situation matérielle de l'établissement au cours de l'année expirée est adressé au Parlement avant la fin de la session ordinaire.Ce rapport comprend notamment, pour l'année considérée, les procès verbaux des séances de la commission, auxquels sont annexés les avis, les motions ou résolutions qu'elle a votés, ainsi que le tableau des ressources et des emplois prévisionnels de la section générale et des sections d'épargne qui est présenté à la commission au cours du premier trimestre.",
+      "valid_from": "1996-01-30"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

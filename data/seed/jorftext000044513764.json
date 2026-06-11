@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I à II. - A modifié les dispositions suivantes :\n\n- Code du travail\n\n- LOI n° 83-634 du 13 juillet 1983\n\nIII. - Un décret précise la liste des pathologies chroniques mentionnées au 5° de l'article L. 3142-1 et au 6° de l'article L. 3142-4 du code du travail ainsi qu'au II de l'article 21 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires."
+      "content": "I à II. - A modifié les dispositions suivantes :\n\n- Code du travail\n\n- LOI n° 83-634 du 13 juillet 1983\n\nIII. - Un décret précise la liste des pathologies chroniques mentionnées au 5° de l'article L. 3142-1 et au 6° de l'article L. 3142-4 du code du travail ainsi qu'au II de l'article 21 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires.",
+      "valid_from": "2021-12-19"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Lorsqu'un enfant atteint d'une pathologie chronique ou d'un cancer connaît une hospitalisation ou une absence prolongée du milieu scolaire, les parents peuvent demander qu'un intervenant du secteur médical ou associatif organise, conjointement avec le professeur et avant le retour de l'enfant, un temps d'échange au sein de l'établissement. Cette rencontre vise à faciliter la transition et le retour de l'enfant au sein de sa classe afin de garantir son inclusion. Lors de l'échange, sont présents l'intervenant, l'enseignant, les élèves de la classe et, si l'enfant en fait la demande, les parents."
+      "content": "Lorsqu'un enfant atteint d'une pathologie chronique ou d'un cancer connaît une hospitalisation ou une absence prolongée du milieu scolaire, les parents peuvent demander qu'un intervenant du secteur médical ou associatif organise, conjointement avec le professeur et avant le retour de l'enfant, un temps d'échange au sein de l'établissement. Cette rencontre vise à faciliter la transition et le retour de l'enfant au sein de sa classe afin de garantir son inclusion. Lors de l'échange, sont présents l'intervenant, l'enseignant, les élèves de la classe et, si l'enfant en fait la demande, les parents.",
+      "valid_from": "2021-12-19"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur les conditions de vie des parents qui doivent interrompre leur travail ou se mettre en congé pour accompagner leur enfant atteint d'un cancer ou d'une maladie chronique grave. Ce rapport fait état de toutes les difficultés socio-économiques que peuvent avoir les parents et propose des recommandations à inscrire dans la loi pour protéger les emplois, permettre aux parents de financer les soins ou éviter qu'ils aient à le faire et les aider dans les démarches administratives complexes.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur les conditions de vie des parents qui doivent interrompre leur travail ou se mettre en congé pour accompagner leur enfant atteint d'un cancer ou d'une maladie chronique grave. Ce rapport fait état de toutes les difficultés socio-économiques que peuvent avoir les parents et propose des recommandations à inscrire dans la loi pour protéger les emplois, permettre aux parents de financer les soins ou éviter qu'ils aient à le faire et les aider dans les démarches administratives complexes.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2021-12-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

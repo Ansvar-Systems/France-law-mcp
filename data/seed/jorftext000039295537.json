@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La loi du 10 juillet 1965 susvisée est modifiée conformément aux articles 2 à 40 de la présente ordonnance."
+      "content": "La loi du 10 juillet 1965 susvisée est modifiée conformément aux articles 2 à 40 de la présente ordonnance.",
+      "valid_from": "2020-06-01"
     },
     {
       "provision_ref": "art41",
       "section": "41",
       "title": "Article 41",
-      "content": "I. - Pour l'application de l'article 13 de la présente ordonnance modifiant l'article 16-1 de la loi du 10 juillet 1965 susvisée, les sommes exigibles par le syndicat des copropriétaires seront déduites sur la part du prix revenant à chaque copropriétaire pour les ventes conclues postérieurement à l'entrée en vigueur de la présente ordonnance.II. − Les dispositions du 2° de l'article 15 de la présente ordonnance entrent en vigueur le 31 décembre 2020.III. − Pour les syndicats de copropriétaires ayant été dispensés de l'obligation d'ouvrir un compte séparé au nom du syndicat par décision de l'assemblée générale, les dispositions de l'article 17 de la présente ordonnance entrent en vigueur le 31 décembre 2020.IV. - Les dispositions de l'article 15 de la présente ordonnance créant les VI à VIII de l'article 18 de la loi du 10 juillet 1965 susvisée s'appliquent aux contrats de syndics conclus postérieurement à l'entrée en vigueur de la présente ordonnance, y compris pour leurs effets légaux.V. - Les dispositions de la présente ordonnance entrent en vigueur le 1er juin 2020."
+      "content": "I. - Pour l'application de l'article 13 de la présente ordonnance modifiant l'article 16-1 de la loi du 10 juillet 1965 susvisée, les sommes exigibles par le syndicat des copropriétaires seront déduites sur la part du prix revenant à chaque copropriétaire pour les ventes conclues postérieurement à l'entrée en vigueur de la présente ordonnance.II. − Les dispositions du 2° de l'article 15 de la présente ordonnance entrent en vigueur le 31 décembre 2020.III. − Pour les syndicats de copropriétaires ayant été dispensés de l'obligation d'ouvrir un compte séparé au nom du syndicat par décision de l'assemblée générale, les dispositions de l'article 17 de la présente ordonnance entrent en vigueur le 31 décembre 2020.IV. - Les dispositions de l'article 15 de la présente ordonnance créant les VI à VIII de l'article 18 de la loi du 10 juillet 1965 susvisée s'appliquent aux contrats de syndics conclus postérieurement à l'entrée en vigueur de la présente ordonnance, y compris pour leurs effets légaux.V. - Les dispositions de la présente ordonnance entrent en vigueur le 1er juin 2020.",
+      "valid_from": "2020-06-01"
     },
     {
       "provision_ref": "art42",
       "section": "42",
       "title": "Article 42",
-      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales et le ministre auprès de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la ville et du logement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales et le ministre auprès de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la ville et du logement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-06-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

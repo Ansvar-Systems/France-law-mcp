@@ -12,19 +12,28 @@
       "provision_ref": "art93",
       "section": "93",
       "title": "Article 93",
-      "content": "Les frais énumérés au paragraphe 9 de l'article 14 de la loi du 22 janvier 1851, modifié par la loi du 19 juillet 1901, sur l'assistance judiciaire, sont taxés et liquidés d'après le tarif et suivant les règles de chaque juridiction compétente.Ceux de ces frais qui sont exposés dans les instances portées devant les juridictions administratives sont admis en dépense par le garde des sceaux.Les règles de déchéance et le mode de paiement sont ceux établis par le décret du 18 juin 1811 et l'article 5 de l'ordonnance du 28 novembre 1838.Les frais exposés devant les tribunaux administratifs doivent, en outre, être soumis au contrôle du ministre de l'intérieur qui en arrêté le montant sur les états taxés, avant de les transmettre au département de la justice.Les indemnités des témoins régulièrement taxées pourront être acquittées provisoirement à un compte d'avances."
+      "content": "Les frais énumérés au paragraphe 9 de l'article 14 de la loi du 22 janvier 1851, modifié par la loi du 19 juillet 1901, sur l'assistance judiciaire, sont taxés et liquidés d'après le tarif et suivant les règles de chaque juridiction compétente.Ceux de ces frais qui sont exposés dans les instances portées devant les juridictions administratives sont admis en dépense par le garde des sceaux.Les règles de déchéance et le mode de paiement sont ceux établis par le décret du 18 juin 1811 et l'article 5 de l'ordonnance du 28 novembre 1838.Les frais exposés devant les tribunaux administratifs doivent, en outre, être soumis au contrôle du ministre de l'intérieur qui en arrêté le montant sur les états taxés, avant de les transmettre au département de la justice.Les indemnités des témoins régulièrement taxées pourront être acquittées provisoirement à un compte d'avances.",
+      "valid_from": "1911-07-14"
     },
     {
       "provision_ref": "art96",
       "section": "96",
       "title": "Article 96",
-      "content": "Les avocats régulièrement inscrits à un barreau sont dispensés de présenter une procuration devant les juridictions commerciales."
+      "content": "Les avocats régulièrement inscrits à un barreau sont dispensés de présenter une procuration devant les juridictions commerciales.",
+      "valid_from": "1911-07-14"
     },
     {
       "provision_ref": "art146",
       "section": "146",
       "title": "Article 146",
-      "content": "A partir de 1912, aucune dépense pour indemnités, ordinaires ou extraordinaires, gratifications, secours ou allocations de quelque nature que ce soit, ne pourra être imputée sur les chapitres affectés aux traitements, remises ou salaires des diverses catégories du personnel rémunérées sur le budget de l'Etat. Cette disposition n'est pas applicable aux allocations et indemnités payées sur les chapitres de solde qui sont prévues par des règlements pour des situations déterminées et dont le montant résulte de tarifs approuvés par le ministre des finances."
+      "content": "A partir de 1912, aucune dépense pour indemnités, ordinaires ou extraordinaires, gratifications, secours ou allocations de quelque nature que ce soit, ne pourra être imputée sur les chapitres affectés aux traitements, remises ou salaires des diverses catégories du personnel rémunérées sur le budget de l'Etat. Cette disposition n'est pas applicable aux allocations et indemnités payées sur les chapitres de solde qui sont prévues par des règlements pour des situations déterminées et dont le montant résulte de tarifs approuvés par le ministre des finances.",
+      "valid_from": "1911-07-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

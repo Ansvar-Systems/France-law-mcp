@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "Les magistrats et futurs magistrats d'Etats étrangers régulièrement admis à faire un stage auprès d'une juridiction de l'ordre judiciaire peuvent être autorisés à assister aux actes et aux délibérés de la juridiction Ils sont astreints au secret.Préalablement à toute activité, ils prêtent serment devant la cour d'appel en ces termes :\"Je jure de conserver le secret des travaux et actes du parquet, des juridictions d'instruction et de jugement dont j'aurai eu connaissance au cours de mon stage."
+      "content": "Les magistrats et futurs magistrats d'Etats étrangers régulièrement admis à faire un stage auprès d'une juridiction de l'ordre judiciaire peuvent être autorisés à assister aux actes et aux délibérés de la juridiction Ils sont astreints au secret.Préalablement à toute activité, ils prêtent serment devant la cour d'appel en ces termes :\"Je jure de conserver le secret des travaux et actes du parquet, des juridictions d'instruction et de jugement dont j'aurai eu connaissance au cours de mon stage.",
+      "valid_from": "1975-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

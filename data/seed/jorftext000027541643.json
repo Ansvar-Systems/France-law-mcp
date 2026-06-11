@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "Le mandat des membres de l'Assemblée des Français de l'étranger élus, au titre du premier alinéa de l'article 1er de la loi n° 82-471 du 7 juin 1982 relative à l'Assemblée des Français de l'étranger, au sein de la série B (Europe, Asie et Levant) dont le renouvellement est prévu en juin 2013 prend fin, au plus tard, en juin 2014.Le mandat des membres de l'Assemblée des Français de l'étranger nommés en application du dernier alinéa du même article dont le renouvellement est prévu en juin 2013 prend fin, au plus tard, en juin 2014."
+      "content": "Le mandat des membres de l'Assemblée des Français de l'étranger élus, au titre du premier alinéa de l'article 1er de la loi n° 82-471 du 7 juin 1982 relative à l'Assemblée des Français de l'étranger, au sein de la série B (Europe, Asie et Levant) dont le renouvellement est prévu en juin 2013 prend fin, au plus tard, en juin 2014.Le mandat des membres de l'Assemblée des Français de l'étranger nommés en application du dernier alinéa du même article dont le renouvellement est prévu en juin 2013 prend fin, au plus tard, en juin 2014.",
+      "valid_from": "2013-06-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

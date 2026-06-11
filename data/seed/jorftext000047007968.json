@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les articles 515-11 et 515-13 du code civil sont applicables en Polynésie française et dans les îles Wallis et Futuna dans leur rédaction résultant de la loi n° 2022-52 du 24 janvier 2022."
+      "content": "Les articles 515-11 et 515-13 du code civil sont applicables en Polynésie française et dans les îles Wallis et Futuna dans leur rédaction résultant de la loi n° 2022-52 du 24 janvier 2022.",
+      "valid_from": "2023-01-20"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La Première ministre, le ministre de l'intérieur et des outre-mer, le garde des sceaux, ministre de la justice, et le ministre délégué auprès du ministre de l'intérieur et des outre-mer, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance qui sera publiée au Journal officiel de la République française."
+      "content": "La Première ministre, le ministre de l'intérieur et des outre-mer, le garde des sceaux, ministre de la justice, et le ministre délégué auprès du ministre de l'intérieur et des outre-mer, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2023-01-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

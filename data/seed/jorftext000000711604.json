@@ -12,121 +12,147 @@
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Les articles 10 et 12 de la présente loi ne sont pas applicables à la campagne en vue des prochaines élections à l'Assemblée nationale."
+      "content": "Les articles 10 et 12 de la présente loi ne sont pas applicables à la campagne en vue des prochaines élections à l'Assemblée nationale.",
+      "valid_from": "1993-01-30"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Tout achat d'espace publicitaire, sur quelque support que ce soit, ou de prestation ayant pour objet l'édition ou la distribution d'imprimés publicitaires ne peut être réalisé par un intermédiaire que pour le compte d'un annonceur et dans le cadre d'un contrat écrit de mandat.\n\nCe contrat fixe les conditions de la rémunération du mandataire en détaillant, s'il y a lieu, les diverses prestations qui seront effectuées dans le cadre de ce contrat de mandat et le montant de leur rémunération respective. Il mentionne également les autres prestations rendues par l'intermédiaire en dehors du contrat de mandat et le montant global de leur rémunération. Tout rabais ou avantage tarifaire de quelque nature que ce soit accordé par le vendeur doit figurer sur la facture délivrée à l'annonceur et ne peut être conservé en tout ou partie par l'intermédiaire qu'en vertu d'une stipulation expresse du contrat de mandat.\n\nMême si les achats mentionnés au premier alinéa ne sont pas payés directement par l'annonceur au vendeur, la facture est communiquée directement par ce dernier à l'annonceur."
+      "content": "Tout achat d'espace publicitaire, sur quelque support que ce soit, ou de prestation ayant pour objet l'édition ou la distribution d'imprimés publicitaires ne peut être réalisé par un intermédiaire que pour le compte d'un annonceur et dans le cadre d'un contrat écrit de mandat.\n\nCe contrat fixe les conditions de la rémunération du mandataire en détaillant, s'il y a lieu, les diverses prestations qui seront effectuées dans le cadre de ce contrat de mandat et le montant de leur rémunération respective. Il mentionne également les autres prestations rendues par l'intermédiaire en dehors du contrat de mandat et le montant global de leur rémunération. Tout rabais ou avantage tarifaire de quelque nature que ce soit accordé par le vendeur doit figurer sur la facture délivrée à l'annonceur et ne peut être conservé en tout ou partie par l'intermédiaire qu'en vertu d'une stipulation expresse du contrat de mandat.\n\nMême si les achats mentionnés au premier alinéa ne sont pas payés directement par l'annonceur au vendeur, la facture est communiquée directement par ce dernier à l'annonceur.",
+      "valid_from": "2015-08-08"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Le mandataire mentionné au premier alinéa de l'article 20 ne peut ni recevoir d'autre paiement que celui qui lui est versé par son mandant pour la rémunération de l'exercice de son mandat ni aucune rémunération ou avantage quelconque de la part du vendeur."
+      "content": "Le mandataire mentionné au premier alinéa de l'article 20 ne peut ni recevoir d'autre paiement que celui qui lui est versé par son mandant pour la rémunération de l'exercice de son mandat ni aucune rémunération ou avantage quelconque de la part du vendeur.",
+      "valid_from": "1993-01-30"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Le prestataire qui fournit des services de conseil en plan média ou de préconisation de support d'espace publicitaire ne peut recevoir aucune rémunération ni avantage quelconque de la part du vendeur d'espace."
+      "content": "Le prestataire qui fournit des services de conseil en plan média ou de préconisation de support d'espace publicitaire ne peut recevoir aucune rémunération ni avantage quelconque de la part du vendeur d'espace.",
+      "valid_from": "1993-01-30"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Le vendeur d'espace publicitaire en qualité de support ou de régie rend compte directement à l'annonceur dans le mois qui suit la diffusion du message publicitaire des conditions dans lesquelles les prestations ont été effectuées.\n\nEn cas de modification devant intervenir dans les conditions de diffusion du message publicitaire, le vendeur d'espace publicitaire avertit l'annonceur et recueille son accord sur les changements prévus. Il lui rend compte des modifications intervenues.\n\nDans le cas où l'achat d'espace publicitaire est effectué par l'intermédiaire d'un mandataire, les obligations prévues à l'alinéa précédent incombent tant au vendeur à l'égard du mandataire qu'au mandataire à l'égard de l'annonceur.\n\nDans le secteur de la publicité digitale, les modalités d'application des obligations de compte rendu définies aux premier et troisième alinéas du présent article sont précisées par décret en Conseil d'Etat."
+      "content": "Le vendeur d'espace publicitaire en qualité de support ou de régie rend compte directement à l'annonceur dans le mois qui suit la diffusion du message publicitaire des conditions dans lesquelles les prestations ont été effectuées.\n\nEn cas de modification devant intervenir dans les conditions de diffusion du message publicitaire, le vendeur d'espace publicitaire avertit l'annonceur et recueille son accord sur les changements prévus. Il lui rend compte des modifications intervenues.\n\nDans le cas où l'achat d'espace publicitaire est effectué par l'intermédiaire d'un mandataire, les obligations prévues à l'alinéa précédent incombent tant au vendeur à l'égard du mandataire qu'au mandataire à l'égard de l'annonceur.\n\nDans le secteur de la publicité digitale, les modalités d'application des obligations de compte rendu définies aux premier et troisième alinéas du présent article sont précisées par décret en Conseil d'Etat.",
+      "valid_from": "2015-08-08"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "Toute personne qui fournit des services de conseil en plan média ou de préconisation de support d'espace publicitaire doit indiquer dans ses conditions générales de vente les liens financiers qu'elle entretient ou que son groupe entretient avec des vendeurs mentionnés à l'article 20, en précisant le montant de ces participations."
+      "content": "Toute personne qui fournit des services de conseil en plan média ou de préconisation de support d'espace publicitaire doit indiquer dans ses conditions générales de vente les liens financiers qu'elle entretient ou que son groupe entretient avec des vendeurs mentionnés à l'article 20, en précisant le montant de ces participations.",
+      "valid_from": "1993-01-30"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "1° Est puni d'une amende de 30 000 euros le fait :\n\na) Pour tout annonceur ou tout intermédiaire de ne pas rédiger de contrat écrit conforme aux dispositions des deux premiers alinéas de l'article 20 ;\n\nb) Pour la personne qui fournit des services de conseil en plan média ou de préconisation de support d'espace publicitaire, de ne pas indiquer dans ses conditions générales de vente les informations prévues à l'article 24.\n\n2° Est puni des sanctions prévues à l'article L. 441-9 du code de commerce, le fait pour un vendeur de ne pas communiquer directement la facture à l'annonceur conformément aux dispositions du troisième alinéa de l'article 20.\n\n3° Est puni d'une amende de 300 000 euros le fait :\n\na) Pour toute personne qui fournit des services de conseil en plan média ou de préconisation de support d'espace publicitaire, de préconiser ou de réaliser un achat d'espace publicitaire, pour le compte d'un annonceur, auprès d'un vendeur d'espace publicitaire avec lequel elle entretient ou avec lequel son groupe entretient des liens financiers, en donnant sciemment à cet annonceur des informations fausses ou trompeuses sur les caractéristiques ou sur le prix de vente de l'espace publicitaire du support préconisé ou des supports qui lui sont substituables ;\n\nb) Pour tout mandataire mentionné à l'article 20, de recevoir une rémunération ou un avantage quelconque d'autres personnes que son mandant ;\n\nc) Pour tout vendeur mentionné à l'article 20, d'accorder une rémunération ou un avantage quelconque au mandataire ou au prestataire de l'annonceur ;\n\nd) Pour toute personne qui fournit des services de conseil en plan média ou de préconisation de support d'espace publicitaire, de recevoir une rémunération ou un avantage quelconque de la part du vendeur d'espace publicitaire.\n\nPour les infractions prévues aux 1°, 2° et 3° ci-dessus, les personnes morales peuvent être déclarées responsables, conformément à l'article 121-2 du code pénal. Elles encourent également la peine d'exclusion des marchés publics, pour une durée de cinq ans au plus, en application du 5° de l'article 131-39 du code pénal.\n\nLes fonctionnaires désignés à l'article L. 450-1 du code de commerce peuvent procéder aux enquêtes nécessaires à l'application du présent chapitre selon les modalités prévues aux articles L. 450-2 à L. 450-4, \nL. 450-7 et L. 450-8 du même code."
+      "content": "1° Est puni d'une amende de 30 000 euros le fait :\n\na) Pour tout annonceur ou tout intermédiaire de ne pas rédiger de contrat écrit conforme aux dispositions des deux premiers alinéas de l'article 20 ;\n\nb) Pour la personne qui fournit des services de conseil en plan média ou de préconisation de support d'espace publicitaire, de ne pas indiquer dans ses conditions générales de vente les informations prévues à l'article 24.\n\n2° Est puni des sanctions prévues à l'article L. 441-9 du code de commerce, le fait pour un vendeur de ne pas communiquer directement la facture à l'annonceur conformément aux dispositions du troisième alinéa de l'article 20.\n\n3° Est puni d'une amende de 300 000 euros le fait :\n\na) Pour toute personne qui fournit des services de conseil en plan média ou de préconisation de support d'espace publicitaire, de préconiser ou de réaliser un achat d'espace publicitaire, pour le compte d'un annonceur, auprès d'un vendeur d'espace publicitaire avec lequel elle entretient ou avec lequel son groupe entretient des liens financiers, en donnant sciemment à cet annonceur des informations fausses ou trompeuses sur les caractéristiques ou sur le prix de vente de l'espace publicitaire du support préconisé ou des supports qui lui sont substituables ;\n\nb) Pour tout mandataire mentionné à l'article 20, de recevoir une rémunération ou un avantage quelconque d'autres personnes que son mandant ;\n\nc) Pour tout vendeur mentionné à l'article 20, d'accorder une rémunération ou un avantage quelconque au mandataire ou au prestataire de l'annonceur ;\n\nd) Pour toute personne qui fournit des services de conseil en plan média ou de préconisation de support d'espace publicitaire, de recevoir une rémunération ou un avantage quelconque de la part du vendeur d'espace publicitaire.\n\nPour les infractions prévues aux 1°, 2° et 3° ci-dessus, les personnes morales peuvent être déclarées responsables, conformément à l'article 121-2 du code pénal. Elles encourent également la peine d'exclusion des marchés publics, pour une durée de cinq ans au plus, en application du 5° de l'article 131-39 du code pénal.\n\nLes fonctionnaires désignés à l'article L. 450-1 du code de commerce peuvent procéder aux enquêtes nécessaires à l'application du présent chapitre selon les modalités prévues aux articles L. 450-2 à L. 450-4, \nL. 450-7 et L. 450-8 du même code.",
+      "valid_from": "2019-07-05"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "Pour l'application des articles 20 à 25 de la présente loi, la régie publicitaire est considérée comme vendeur d'espace.Le mandataire mentionné à l'article 20 n'est pas considéré comme agent commercial au sens de l'article 1er de la loi n° 91-593 du 25 juin 1991 relative aux rapports entre les agents commerciaux et leurs mandants.L'expression \" achat d'espace publicitaire \" n'a pas pour effet de limiter la responsabilité du directeur de publication établie par la loi du 29 juillet 1881 sur la liberté de la presse."
+      "content": "Pour l'application des articles 20 à 25 de la présente loi, la régie publicitaire est considérée comme vendeur d'espace.Le mandataire mentionné à l'article 20 n'est pas considéré comme agent commercial au sens de l'article 1er de la loi n° 91-593 du 25 juin 1991 relative aux rapports entre les agents commerciaux et leurs mandants.L'expression \" achat d'espace publicitaire \" n'a pas pour effet de limiter la responsabilité du directeur de publication établie par la loi du 29 juillet 1881 sur la liberté de la presse.",
+      "valid_from": "1993-01-30"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Les dispositions du présent chapitre s'appliquent quel que soit le lieu d'établissement de l'intermédiaire, dès lors que le message publicitaire est réalisé au bénéfice d'une entreprise française et qu'il est principalement reçu sur le territoire français."
+      "content": "Les dispositions du présent chapitre s'appliquent quel que soit le lieu d'établissement de l'intermédiaire, dès lors que le message publicitaire est réalisé au bénéfice d'une entreprise française et qu'il est principalement reçu sur le territoire français.",
+      "valid_from": "1993-01-30"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "Les dispositions des deux premiers chapitres du présent titre prendront effet à compter du 31 mars 1993, à l'exception des dispositions du III de l'article 18, des trois derniers alinéas de l'article 19 et du deuxième alinéa du d du 3° de l'article 25 qui prendront effet à compter du 1er septembre 1993."
+      "content": "Les dispositions des deux premiers chapitres du présent titre prendront effet à compter du 31 mars 1993, à l'exception des dispositions du III de l'article 18, des trois derniers alinéas de l'article 19 et du deuxième alinéa du d du 3° de l'article 25 qui prendront effet à compter du 1er septembre 1993.",
+      "valid_from": "1993-01-30"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "A l'issue d'un délai de trois ans après l'entrée en vigueur des dispositions du présent chapitre, le Gouvernement présentera au Parlement un rapport sur ses conditions d'application."
+      "content": "A l'issue d'un délai de trois ans après l'entrée en vigueur des dispositions du présent chapitre, le Gouvernement présentera au Parlement un rapport sur ses conditions d'application.",
+      "valid_from": "1993-01-30"
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "Les demandes d'autorisation enregistrées avant la date de publication de la présente loi, sur lesquelles la commission départementale d'urbanisme commercial n'a pas statué, font l'objet d'un nouvel enregistrement. Le délai de trois mois prévu au premier alinéa de l'article 32 de la loi n° 73-1193 précitée court à compter de la date de la publication de l'arrêté préfectoral portant constitution de la commission départementale d'équipement commercial pour les demandes enregistrées avant la publication de cet arrêté.\n\nPour les décisions prises par les commissions départementales d'urbanisme commercial avant l'entrée en vigueur de la présente loi, le préfet, le demandeur et le tiers des membres de la commission peuvent exercer, dans les conditions prévues par les lois et règlements en vigueur à la date où la commission départementale a pris sa décision, un recours devant la commission nationale d'équipement commercial dans le délai de deux mois suivant la notification de la décision pour le demandeur et la date de la réunion de la commission pour les membres et le préfet ou suivant l'intervention implicite de la décision.\n\nLa commission nationale d'équipement commercial statue sur les recours formés avant la date d'entrée en vigueur de la présente loi et sur lesquels la commission nationale d'urbanisme commercial n'a pas, avant cette date, délivré son avis. Le ministre chargé du commerce statue sur les recours examinés par la commission avant l'entrée en vigueur de la présente loi.\n\nLe délai de quatre mois prévu au deuxième alinéa de l'article 32 de la loi n° 73-1193 précitée court à compter de la publication du décret portant nomination des membres de la commission.\n\nLorsque la commission nationale d'équipement commercial statue sur un recours formé contre une décision prise par une commission départementale d'urbanisme commercial, elle fait application des dispositions relatives à la recevabilité des demandes et aux critères de délivrance des autorisations contenues dans les lois et règlements en vigueur à la date où la commission départementale d'urbanisme commercial a pris sa décision."
+      "content": "Les demandes d'autorisation enregistrées avant la date de publication de la présente loi, sur lesquelles la commission départementale d'urbanisme commercial n'a pas statué, font l'objet d'un nouvel enregistrement. Le délai de trois mois prévu au premier alinéa de l'article 32 de la loi n° 73-1193 précitée court à compter de la date de la publication de l'arrêté préfectoral portant constitution de la commission départementale d'équipement commercial pour les demandes enregistrées avant la publication de cet arrêté.\n\nPour les décisions prises par les commissions départementales d'urbanisme commercial avant l'entrée en vigueur de la présente loi, le préfet, le demandeur et le tiers des membres de la commission peuvent exercer, dans les conditions prévues par les lois et règlements en vigueur à la date où la commission départementale a pris sa décision, un recours devant la commission nationale d'équipement commercial dans le délai de deux mois suivant la notification de la décision pour le demandeur et la date de la réunion de la commission pour les membres et le préfet ou suivant l'intervention implicite de la décision.\n\nLa commission nationale d'équipement commercial statue sur les recours formés avant la date d'entrée en vigueur de la présente loi et sur lesquels la commission nationale d'urbanisme commercial n'a pas, avant cette date, délivré son avis. Le ministre chargé du commerce statue sur les recours examinés par la commission avant l'entrée en vigueur de la présente loi.\n\nLe délai de quatre mois prévu au deuxième alinéa de l'article 32 de la loi n° 73-1193 précitée court à compter de la publication du décret portant nomination des membres de la commission.\n\nLorsque la commission nationale d'équipement commercial statue sur un recours formé contre une décision prise par une commission départementale d'urbanisme commercial, elle fait application des dispositions relatives à la recevabilité des demandes et aux critères de délivrance des autorisations contenues dans les lois et règlements en vigueur à la date où la commission départementale d'urbanisme commercial a pris sa décision.",
+      "valid_from": "1993-01-30"
     },
     {
       "provision_ref": "art52",
       "section": "52",
       "title": "Article 52",
-      "content": "Est frappée d'une nullité d'ordre public toute cession à titre onéreux des droits conférés par une promesse de vente portant sur un immeuble lorsque cette cession est consentie par un professionnel de l'immobilier."
+      "content": "Est frappée d'une nullité d'ordre public toute cession à titre onéreux des droits conférés par une promesse de vente portant sur un immeuble lorsque cette cession est consentie par un professionnel de l'immobilier.",
+      "valid_from": "1993-01-30"
     },
     {
       "provision_ref": "art53",
       "section": "53",
       "title": "Article 53",
-      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 92-316 DC du 20 janvier 1993.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 92-316 DC du 20 janvier 1993.]",
+      "valid_from": "1993-01-30"
     },
     {
       "provision_ref": "art54",
       "section": "54",
       "title": "Article 54",
-      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 92-316 DC du 20 janvier 1993.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 92-316 DC du 20 janvier 1993.]",
+      "valid_from": "1993-01-30"
     },
     {
       "provision_ref": "art59",
       "section": "59",
       "title": "Article 59",
-      "content": "Les articles L. 423-1-1, L. 423-1-2, L. 423-1-3 et L. 423-1-4 du code de la construction et de l'habitation sont abrogés."
+      "content": "Les articles L. 423-1-1, L. 423-1-2, L. 423-1-3 et L. 423-1-4 du code de la construction et de l'habitation sont abrogés.",
+      "valid_from": "1993-01-30"
     },
     {
       "provision_ref": "art73-1",
       "section": "73-1",
       "title": "Article 73-1",
-      "content": "Les dispositions du présent chapitre sont applicables aux territoires d'outre-mer et à Mayotte."
+      "content": "Les dispositions du présent chapitre sont applicables aux territoires d'outre-mer et à Mayotte.",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art83",
       "section": "83",
       "title": "Article 83",
-      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 92-316 DC du 20 janvier 1993.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 92-316 DC du 20 janvier 1993.]",
+      "valid_from": "1993-01-30"
     },
     {
       "provision_ref": "art86",
       "section": "86",
       "title": "Article 86",
-      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 92-316 DC du 20 janvier 1993.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 92-316 DC du 20 janvier 1993.]",
+      "valid_from": "1993-01-30"
     },
     {
       "provision_ref": "art88",
       "section": "88",
       "title": "Article 88",
-      "content": "Les dispositions des chapitres IV, V et VI du titre II de la présente loi sont applicables dans la collectivité territoriale de Mayotte.Pour leur application dans les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, les II et III de l'article 48 sont ainsi rédigés :\"II. - Les contrats conclus par les organismes privés d'habitations à loyer modéré sont soumis aux principes de publicité, de mise en concurrence et d'exécution prévus par les livres Ier à IV du code des marchés publics dans des conditions fixées par décret en Conseil d'Etat.\"\"III. - Les contrats conclus par les sociétés d'économie mixte exerçant une activité de construction ou de gestion de logements sociaux sont soumis aux principes de publicité, de mise en concurrence et d'exécution prévus par les livres Ier à IV du code des marchés publics dans des conditions fixées par décret en Conseil d'Etat\"."
+      "content": "Les dispositions des chapitres IV, V et VI du titre II de la présente loi sont applicables dans la collectivité territoriale de Mayotte.Pour leur application dans les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, les II et III de l'article 48 sont ainsi rédigés :\"II. - Les contrats conclus par les organismes privés d'habitations à loyer modéré sont soumis aux principes de publicité, de mise en concurrence et d'exécution prévus par les livres Ier à IV du code des marchés publics dans des conditions fixées par décret en Conseil d'Etat.\"\"III. - Les contrats conclus par les sociétés d'économie mixte exerçant une activité de construction ou de gestion de logements sociaux sont soumis aux principes de publicité, de mise en concurrence et d'exécution prévus par les livres Ier à IV du code des marchés publics dans des conditions fixées par décret en Conseil d'Etat\".",
+      "valid_from": "1996-07-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

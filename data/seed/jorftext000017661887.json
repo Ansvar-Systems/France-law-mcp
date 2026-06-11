@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont validés, sous réserve des décisions de justice passées en force de chose jugée, les actes pris par le syndicat mixte de gestion du parc naturel régional de Camargue créé par l'arrêté du préfet des Bouches-du-Rhône du 1er décembre 2004, en tant qu'ils seraient contestés par les moyens tirés de l'irrégularité de la création de ce syndicat ou de son incompétence pour gérer le parc naturel régional de Camargue."
+      "content": "Sont validés, sous réserve des décisions de justice passées en force de chose jugée, les actes pris par le syndicat mixte de gestion du parc naturel régional de Camargue créé par l'arrêté du préfet des Bouches-du-Rhône du 1er décembre 2004, en tant qu'ils seraient contestés par les moyens tirés de l'irrégularité de la création de ce syndicat ou de son incompétence pour gérer le parc naturel régional de Camargue.",
+      "valid_from": "2007-12-19"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Nonobstant toute mention contraire, le syndicat mixte dénommé « Syndicat mixte de gestion du parc naturel régional de Camargue » assure l'aménagement et la gestion du parc naturel régional de Camargue ainsi que l'ensemble des missions qui s'y rattachent, à l'exclusion de tout autre organisme de gestion.Sont membres de ce syndicat la commune d'Arles, la commune des Saintes-Maries-de-la-Mer, la région de Provence-Alpes-Côte d'Azur, le département des Bouches-du-Rhône, la chambre de commerce et d'industrie du Pays d'Arles, la chambre d'agriculture des Bouches-du-Rhône, la chambre des métiers et de l'artisanat des Bouches-du-Rhône ainsi que, par dérogation à l'article L. 5721-2 du code général des collectivités territoriales, le syndicat mixte de gestion des associations syndicales du Pays d'Arles.Le syndicat mixte de gestion des associations syndicales du Pays d'Arles est représenté au comité syndical du syndicat mixte de gestion du parc naturel régional de Camargue par trois délégués, détenteurs chacun d'une voix, et au bureau du même syndicat par un représentant.Le syndicat mixte de gestion du parc naturel régional de Camargue est autorisé et ses statuts, qui reprennent les dispositions annexées à l'arrêté du 1er décembre 2004 modifiées en application des deuxième et troisième alinéas du présent article, sont approuvés par la présente loi."
+      "content": "Nonobstant toute mention contraire, le syndicat mixte dénommé « Syndicat mixte de gestion du parc naturel régional de Camargue » assure l'aménagement et la gestion du parc naturel régional de Camargue ainsi que l'ensemble des missions qui s'y rattachent, à l'exclusion de tout autre organisme de gestion.Sont membres de ce syndicat la commune d'Arles, la commune des Saintes-Maries-de-la-Mer, la région de Provence-Alpes-Côte d'Azur, le département des Bouches-du-Rhône, la chambre de commerce et d'industrie du Pays d'Arles, la chambre d'agriculture des Bouches-du-Rhône, la chambre des métiers et de l'artisanat des Bouches-du-Rhône ainsi que, par dérogation à l'article L. 5721-2 du code général des collectivités territoriales, le syndicat mixte de gestion des associations syndicales du Pays d'Arles.Le syndicat mixte de gestion des associations syndicales du Pays d'Arles est représenté au comité syndical du syndicat mixte de gestion du parc naturel régional de Camargue par trois délégués, détenteurs chacun d'une voix, et au bureau du même syndicat par un représentant.Le syndicat mixte de gestion du parc naturel régional de Camargue est autorisé et ses statuts, qui reprennent les dispositions annexées à l'arrêté du 1er décembre 2004 modifiées en application des deuxième et troisième alinéas du présent article, sont approuvés par la présente loi.",
+      "valid_from": "2007-12-19"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le retrait de l'autorisation du syndicat et la dissolution de celui-ci sont décidés selon les règles de droit commun. L'adhésion et le retrait de ses membres ainsi que la modification de ses statuts s'effectuent dans les conditions prévues par lesdits statuts ou, à défaut, dans les conditions du droit commun."
+      "content": "Le retrait de l'autorisation du syndicat et la dissolution de celui-ci sont décidés selon les règles de droit commun. L'adhésion et le retrait de ses membres ainsi que la modification de ses statuts s'effectuent dans les conditions prévues par lesdits statuts ou, à défaut, dans les conditions du droit commun.",
+      "valid_from": "2007-12-19"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Par dérogation à l'article L. 333-1 du code de l'environnement, la durée de validité du classement du parc naturel régional de Camargue est prolongée jusqu'au 18 février 2011.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Par dérogation à l'article L. 333-1 du code de l'environnement, la durée de validité du classement du parc naturel régional de Camargue est prolongée jusqu'au 18 février 2011.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2007-12-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code de l'énergie (partie législative) est modifié conformément aux articles 2 à 17 de la présente ordonnance."
+      "content": "Le code de l'énergie (partie législative) est modifié conformément aux articles 2 à 17 de la présente ordonnance.",
+      "valid_from": "2020-07-24"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Les dispositions de la présente ordonnance sont applicables aux procédures de règlement de différends et de sanctions enregistrées à la date de son entrée en vigueur."
+      "content": "Les dispositions de la présente ordonnance sont applicables aux procédures de règlement de différends et de sanctions enregistrées à la date de son entrée en vigueur.",
+      "valid_from": "2020-07-24"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Le Premier ministre et la ministre de la transition écologique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre de la transition écologique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-07-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

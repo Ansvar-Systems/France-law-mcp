@@ -12,79 +12,98 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les personnes physiques sont assujetties, sur leurs revenus de 1982, à une contribution dont le produit est versé à la Caisse nationale des allocations familiales."
+      "content": "Les personnes physiques sont assujetties, sur leurs revenus de 1982, à une contribution dont le produit est versé à la Caisse nationale des allocations familiales.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La contribution est égale à 1 p. 100 du revenu net global de 1982 après déduction, le cas échéant, des abattements forfaitaires prévus aux articles 157 bis et 196 B du code général des impôts. Il n'est pas tenu compte des plus-values visées au 2° de l'article 150 A du code général des impôts modifié par l'article 7-II de la loi de finances pour 1983 susvisée."
+      "content": "La contribution est égale à 1 p. 100 du revenu net global de 1982 après déduction, le cas échéant, des abattements forfaitaires prévus aux articles 157 bis et 196 B du code général des impôts. Il n'est pas tenu compte des plus-values visées au 2° de l'article 150 A du code général des impôts modifié par l'article 7-II de la loi de finances pour 1983 susvisée.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les contribuables qui ne sont pas soumis à l'impôt sur le revenu dû au titre de 1982 ou dont la cotisation d'impôt sur les revenus de la même année est inférieure au montant fixé par le 1 bis de l'article 1657 du code général des impôts ne sont pas assujettis à la contribution."
+      "content": "Les contribuables qui ne sont pas soumis à l'impôt sur le revenu dû au titre de 1982 ou dont la cotisation d'impôt sur les revenus de la même année est inférieure au montant fixé par le 1 bis de l'article 1657 du code général des impôts ne sont pas assujettis à la contribution.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les contribuables dont le revenu de 1982 déterminé en application de l'article 2 n'excède pas 90 000 F ne sont pas assujettis à la contribution :1° Lorsqu'ils ont obtenu le bénéfice d'une pension prenant effet entre le 1er juillet 1982 et la date limite de paiement de la contribution pour une invalidité les rendant incapables d'exercer une profession quelconque ou lorsqu'ils ont été atteints au cours de la même période d'une invalidité ouvrant droit à la carte d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale ;2° Lorsqu'ils ont cessé au cours de la même période leur activité professionnelle par suite de départ en retraite ou en préretraite ;3° Lorsqu'ils ont perçu pendant six mois au moins du fait de la perte de leur emploi au cours de la période précitée un revenu de remplacement prévu à l'article L. 351-1 du code du travail ;4° Lorsqu'ils ont cessé au cours de la même période de percevoir un revenu de remplacement et sont demeurés demandeurs d'emploi non indemnisés. Ils doivent justifier dans ce cas avoir perçu un revenu de remplacement pendant six mois au moins.Ne sont pas assujettis à la contribution les contribuables dont le revenu de 1982 déterminé en application de l'article 2 n'excède pas 90 000 F lorsque leur conjoint se trouve dans l'une des situations mentionnées ci-dessus."
+      "content": "Les contribuables dont le revenu de 1982 déterminé en application de l'article 2 n'excède pas 90 000 F ne sont pas assujettis à la contribution :1° Lorsqu'ils ont obtenu le bénéfice d'une pension prenant effet entre le 1er juillet 1982 et la date limite de paiement de la contribution pour une invalidité les rendant incapables d'exercer une profession quelconque ou lorsqu'ils ont été atteints au cours de la même période d'une invalidité ouvrant droit à la carte d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale ;2° Lorsqu'ils ont cessé au cours de la même période leur activité professionnelle par suite de départ en retraite ou en préretraite ;3° Lorsqu'ils ont perçu pendant six mois au moins du fait de la perte de leur emploi au cours de la période précitée un revenu de remplacement prévu à l'article L. 351-1 du code du travail ;4° Lorsqu'ils ont cessé au cours de la même période de percevoir un revenu de remplacement et sont demeurés demandeurs d'emploi non indemnisés. Ils doivent justifier dans ce cas avoir perçu un revenu de remplacement pendant six mois au moins.Ne sont pas assujettis à la contribution les contribuables dont le revenu de 1982 déterminé en application de l'article 2 n'excède pas 90 000 F lorsque leur conjoint se trouve dans l'une des situations mentionnées ci-dessus.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les contribuables dont le revenu de 1982 déterminé en application de l'article 2 n'excède pas 90.000 F sont exonérés de la contribution si leur conjoint est décédé au cours de la période prévue à l'article précédent.\n\nLes ayants droit d'un contribuable décédé au cours de la même période sont exonérés de la contribution due au titre de leur auteur lorsque les revenus de 1982 de celui-ci, déterminés en application de l'article 2, n'excèdent pas 90.000 F."
+      "content": "Les contribuables dont le revenu de 1982 déterminé en application de l'article 2 n'excède pas 90.000 F sont exonérés de la contribution si leur conjoint est décédé au cours de la période prévue à l'article précédent.\n\nLes ayants droit d'un contribuable décédé au cours de la même période sont exonérés de la contribution due au titre de leur auteur lorsque les revenus de 1982 de celui-ci, déterminés en application de l'article 2, n'excèdent pas 90.000 F.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Pour l'application des articles 4 et 5 ci-dessus, le contribuable ou ses ayants droit adresse au service chargé du recouvrement une attestation sur l'honneur certifiant qu'il remplit les conditions prévues aux mêmes articles. L'administration demandera en tant que de besoin toutes pièces justificatives dans les conditions prévues à l'article 9 ci-dessous. En cas d'inexactitude, les sanctions prévues par l'article 22-II de la loi du 31 juillet 1968 susvisée sont applicables."
+      "content": "Pour l'application des articles 4 et 5 ci-dessus, le contribuable ou ses ayants droit adresse au service chargé du recouvrement une attestation sur l'honneur certifiant qu'il remplit les conditions prévues aux mêmes articles. L'administration demandera en tant que de besoin toutes pièces justificatives dans les conditions prévues à l'article 9 ci-dessous. En cas d'inexactitude, les sanctions prévues par l'article 22-II de la loi du 31 juillet 1968 susvisée sont applicables.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les contribuables en retraite ou en préretraite qui ont continué ou repris une activité professionnelle perdent le bénéfice de l'exonération prévue au 2° de l'article 4."
+      "content": "Les contribuables en retraite ou en préretraite qui ont continué ou repris une activité professionnelle perdent le bénéfice de l'exonération prévue au 2° de l'article 4.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Lorsque la contribution n'excède pas la somme de 350 F plus 300 F par enfant à charge, cette contribution est réduite, dans la limite de son montant, d'une décote. Celle-ci est égale à la différence entre la somme de 350 F plus 300 F par enfant à charge et le montant de la contribution qui aurait résulté de l'application de l'article 2.\n\nLes enfants à charge sont ceux visés aux articles 196 et 196 B, 1er alinéa, du code général des impôts."
+      "content": "Lorsque la contribution n'excède pas la somme de 350 F plus 300 F par enfant à charge, cette contribution est réduite, dans la limite de son montant, d'une décote. Celle-ci est égale à la différence entre la somme de 350 F plus 300 F par enfant à charge et le montant de la contribution qui aurait résulté de l'application de l'article 2.\n\nLes enfants à charge sont ceux visés aux articles 196 et 196 B, 1er alinéa, du code général des impôts.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "La contribution est assise, contrôlée et recouvrée selon les mêmes règles et conditions et sous les mêmes garanties et sanctions qu'en matière d'impôt sur le revenu. Les dispositions du 1 bis de l'article 1657 du code général des impôts ne sont pas applicables. Les dispositions de l'avant-dernier alinéa du I de l'article 197 du même code sont applicables.La partie de l'avoir fiscal, du crédit d'impôt et des prélèvements non libératoires de l'impôt sur le revenu non imputée sur l'impôt sur les revenus de 1982 peut être imputée sur le montant de la contribution instituée par la présente ordonnance."
+      "content": "La contribution est assise, contrôlée et recouvrée selon les mêmes règles et conditions et sous les mêmes garanties et sanctions qu'en matière d'impôt sur le revenu. Les dispositions du 1 bis de l'article 1657 du code général des impôts ne sont pas applicables. Les dispositions de l'avant-dernier alinéa du I de l'article 197 du même code sont applicables.La partie de l'avoir fiscal, du crédit d'impôt et des prélèvements non libératoires de l'impôt sur le revenu non imputée sur l'impôt sur les revenus de 1982 peut être imputée sur le montant de la contribution instituée par la présente ordonnance.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Pour le recouvrement de l'impôt sur le revenu dû au titre de 1982 et de la contribution instituée par l'article 1er :\n\n1° Les cotisations sont exigibles le dernier jour du mois de la mise en recouvrement du rôle, par dérogation au 1 de l'article 1663 du code général des impôts ;\n\n2° La majoration de 10 p. 100 prévue au premier alinéa du 1 de l'article 1761 du code général des impôts est appliquée aux sommes qui n'ont pas été réglées le 15 du mois suivant celui de la mise en recouvrement du rôle ;\n\n3° La date du 1er novembre 1983 est substituée à celle du 30 septembre au deuxième alinéa de l'article 1681 C du code général des Impôts."
+      "content": "Pour le recouvrement de l'impôt sur le revenu dû au titre de 1982 et de la contribution instituée par l'article 1er :\n\n1° Les cotisations sont exigibles le dernier jour du mois de la mise en recouvrement du rôle, par dérogation au 1 de l'article 1663 du code général des impôts ;\n\n2° La majoration de 10 p. 100 prévue au premier alinéa du 1 de l'article 1761 du code général des impôts est appliquée aux sommes qui n'ont pas été réglées le 15 du mois suivant celui de la mise en recouvrement du rôle ;\n\n3° La date du 1er novembre 1983 est substituée à celle du 30 septembre au deuxième alinéa de l'article 1681 C du code général des Impôts.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Pour le versement en 1983 du deuxième acompte provisionnel à valoir sur l'impôt sur les revenus de 1982 :1° La date du 16 mai 1983 est substituée à celle du 30 avril au premier alinéa du 1 de l'article 1664 du code général des impôts ;2° Au deuxième alinéa du 1 de l'article 1664 du code général des impôts, le mot \"tiers\" est remplacé par \"38,33 p. 100\" ;3° La date du 31 mai 1983 est substituée à celle du \"15 du mois suivant au cours duquel il est devenu exigible\" au 1 de l'article 1762 du code général des impôts."
+      "content": "Pour le versement en 1983 du deuxième acompte provisionnel à valoir sur l'impôt sur les revenus de 1982 :1° La date du 16 mai 1983 est substituée à celle du 30 avril au premier alinéa du 1 de l'article 1664 du code général des impôts ;2° Au deuxième alinéa du 1 de l'article 1664 du code général des impôts, le mot \"tiers\" est remplacé par \"38,33 p. 100\" ;3° La date du 31 mai 1983 est substituée à celle du \"15 du mois suivant au cours duquel il est devenu exigible\" au 1 de l'article 1762 du code général des impôts.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Pour le versement en 1983 de l'acompte provisionnel prévu au troisième alinéa du 1 de l'article 1664 du code général des impôts, le chiffre de 65 p. 100 et la date du 31 mai 1983 sont substitués au chiffre de 60 p. 100 et à la date du 15 mai prévus au même article. La date d'exigibilité de ce versement est fixée au 16 mai 1983."
+      "content": "Pour le versement en 1983 de l'acompte provisionnel prévu au troisième alinéa du 1 de l'article 1664 du code général des impôts, le chiffre de 65 p. 100 et la date du 31 mai 1983 sont substitués au chiffre de 60 p. 100 et à la date du 15 mai prévus au même article. La date d'exigibilité de ce versement est fixée au 16 mai 1983.",
+      "valid_from": "1983-05-03"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Pour les contribuables ayant opté pour le paiement mensuel de l'impôt sur le revenu, les prélèvements effectués aux mois de juin et de juillet 1983 sont fixés à 12,5 p. 100, au lieu du dixième du montant prévu à l'article 1681 B du code général des impôts. Cette disposition n'est pas applicable lorsque l'impôt visé au même article est inférieur à 1.000 francs."
+      "content": "Pour les contribuables ayant opté pour le paiement mensuel de l'impôt sur le revenu, les prélèvements effectués aux mois de juin et de juillet 1983 sont fixés à 12,5 p. 100, au lieu du dixième du montant prévu à l'article 1681 B du code général des impôts. Cette disposition n'est pas applicable lorsque l'impôt visé au même article est inférieur à 1.000 francs.",
+      "valid_from": "1983-05-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

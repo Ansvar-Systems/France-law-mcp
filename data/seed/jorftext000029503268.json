@@ -12,19 +12,28 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "L'acquisition de connaissances dans les domaines de l'accueil et de l'accompagnement des personnes handicapées est obligatoire dans la formation des professionnels appelés à être en contact avec les usagers et les clients dans les établissements recevant du public.\n\nLes formations qui préparent aux métiers dont les fonctions relèvent de l'accueil et de l'accompagnement des usagers ou clients dans les établissements recevant du public comportent un enseignement permettant l'acquisition de connaissances sur les différentes situations de handicap.\n\nLa liste des diplômes, titres et certifications à finalité professionnelle acquis conformément aux dispositions des articles L. 335-5 et L. 335-6 du code de l'éducation et inscrits au répertoire national des certifications professionnelles qui prévoient l'acquisition de compétences portant sur l'accueil et l'accompagnement des personnes handicapées et les références communes des contenus devant figurer dans les formations conduisant à l'obtention de ces diplômes, titres, et certifications sont fixées par décret.\n\nLes employeurs des professionnels mentionnés au premier alinéa du présent article leur proposent des formations à l'accueil et à l'accompagnement des personnes handicapées. Dans les établissements recevant du public dont la capacité d'accueil est supérieure à deux cents personnes, ces formations sont mises en œuvre dans les conditions définies à l'article L. 4142-3-1 du code du travail."
+      "content": "L'acquisition de connaissances dans les domaines de l'accueil et de l'accompagnement des personnes handicapées est obligatoire dans la formation des professionnels appelés à être en contact avec les usagers et les clients dans les établissements recevant du public.\n\nLes formations qui préparent aux métiers dont les fonctions relèvent de l'accueil et de l'accompagnement des usagers ou clients dans les établissements recevant du public comportent un enseignement permettant l'acquisition de connaissances sur les différentes situations de handicap.\n\nLa liste des diplômes, titres et certifications à finalité professionnelle acquis conformément aux dispositions des articles L. 335-5 et L. 335-6 du code de l'éducation et inscrits au répertoire national des certifications professionnelles qui prévoient l'acquisition de compétences portant sur l'accueil et l'accompagnement des personnes handicapées et les références communes des contenus devant figurer dans les formations conduisant à l'obtention de ces diplômes, titres, et certifications sont fixées par décret.\n\nLes employeurs des professionnels mentionnés au premier alinéa du présent article leur proposent des formations à l'accueil et à l'accompagnement des personnes handicapées. Dans les établissements recevant du public dont la capacité d'accueil est supérieure à deux cents personnes, ces formations sont mises en œuvre dans les conditions définies à l'article L. 4142-3-1 du code du travail.",
+      "valid_from": "2015-08-07"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Le I de l'article 1er est applicable aux copropriétés des immeubles bâtis dont la demande de permis de construire est déposée à compter du 1er janvier 2015."
+      "content": "Le I de l'article 1er est applicable aux copropriétés des immeubles bâtis dont la demande de permis de construire est déposée à compter du 1er janvier 2015.",
+      "valid_from": "2015-08-07"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable et de l'énergie, la ministre des affaires sociales, de la santé et des droits des femmes, la ministre du logement, de l'égalité des territoires et de la ruralité, la ministre des outre-mer et la secrétaire d'Etat chargée des personnes handicapées et de la lutte contre l'exclusion sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable et de l'énergie, la ministre des affaires sociales, de la santé et des droits des femmes, la ministre du logement, de l'égalité des territoires et de la ruralité, la ministre des outre-mer et la secrétaire d'Etat chargée des personnes handicapées et de la lutte contre l'exclusion sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2014-09-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

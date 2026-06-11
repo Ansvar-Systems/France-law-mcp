@@ -12,13 +12,21 @@
       "provision_ref": "art59",
       "section": "59",
       "title": "Article 59",
-      "content": "La présente ordonnance entre en vigueur le lendemain de sa publication, à l'exception du g du 1° de son article 3, qui entre en vigueur le 21 juin 2022."
+      "content": "La présente ordonnance entre en vigueur le lendemain de sa publication, à l'exception du g du 1° de son article 3, qui entre en vigueur le 21 juin 2022.",
+      "valid_from": "2021-05-28"
     },
     {
       "provision_ref": "art60",
       "section": "60",
       "title": "Article 60",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance, le ministre de l'outre-mer et le secrétaire d'État auprès du ministre de l'économie, des finances et de la relance et de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la transition numérique et des communications électroniques, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance, le ministre de l'outre-mer et le secrétaire d'État auprès du ministre de l'économie, des finances et de la relance et de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la transition numérique et des communications électroniques, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-05-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

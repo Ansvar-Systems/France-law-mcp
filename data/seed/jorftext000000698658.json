@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Il sera procédé à la codification des textes législatifs concernant le service des postes, télégraphes et téléphones par décret en Conseil d'Etat pris sur le rapport du ministre des postes, télégraphes et téléphones et du ministre chargé de la réforme administrative, après avis de la commission supérieure chargée d'étudier la codification et la simplification des textes législatifs et réglementaires."
+      "content": "Il sera procédé à la codification des textes législatifs concernant le service des postes, télégraphes et téléphones par décret en Conseil d'Etat pris sur le rapport du ministre des postes, télégraphes et téléphones et du ministre chargé de la réforme administrative, après avis de la commission supérieure chargée d'étudier la codification et la simplification des textes législatifs et réglementaires.",
+      "valid_from": "1952-03-04"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Ce décret apportera aux textes en vigueur les adaptations de forme rendues nécessaires par le travail de codification à l'exclusion de toute modification de fond."
+      "content": "Ce décret apportera aux textes en vigueur les adaptations de forme rendues nécessaires par le travail de codification à l'exclusion de toute modification de fond.",
+      "valid_from": "1952-03-04"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Il sera procédé tous les ans et dans les mêmes conditions à l'incorporation dans le code des postes, télégraphes et téléphones des textes législatifs modifiant certaines dispositions de ce code sans s'y référer expressément."
+      "content": "Il sera procédé tous les ans et dans les mêmes conditions à l'incorporation dans le code des postes, télégraphes et téléphones des textes législatifs modifiant certaines dispositions de ce code sans s'y référer expressément.",
+      "valid_from": "1952-03-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

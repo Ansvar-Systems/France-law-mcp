@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 2021-659 du 26 mai 2021 relative aux modalités d'instauration d'une taxe sur le transport routier de marchandises recourant à certaines voies du domaine public routier de la Collectivité européenne d'Alsace est ratifiée."
+      "content": "L'ordonnance n° 2021-659 du 26 mai 2021 relative aux modalités d'instauration d'une taxe sur le transport routier de marchandises recourant à certaines voies du domaine public routier de la Collectivité européenne d'Alsace est ratifiée.",
+      "valid_from": "2022-03-02"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Un comité facilite la concertation des collectivités territoriales en matière de taxation des poids lourds.Sont membres de ce comité :1° Le président de la Collectivité européenne d'Alsace ;2° Le président de l'Eurométropole de Strasbourg ;3° Les présidents des conseils départementaux des départements limitrophes de la Collectivité européenne d'Alsace ;4° Le président du conseil régional de la région Grand Est.Les représentants de l'Etat dans la région et dans les départements concernés ainsi que les représentants des services déconcentrés de l'Etat participent aux séances du comité à leur demande. Le comité peut associer à ses travaux des représentants de toute autre collectivité territoriale concernée ou de tout groupement de collectivités territoriales concerné. Il peut consulter toute personne ou tout organisme qualifié.Le comité est présidé par le président de la Collectivité européenne d'Alsace.Il organise librement ses travaux et leur publicité, les modalités de réunion et les règles de représentation de ses membres, dans le cadre de son règlement intérieur.Il est convoqué par son président, au moins une fois par an jusqu'à la mise en œuvre de la taxe."
+      "content": "Un comité facilite la concertation des collectivités territoriales en matière de taxation des poids lourds.Sont membres de ce comité :1° Le président de la Collectivité européenne d'Alsace ;2° Le président de l'Eurométropole de Strasbourg ;3° Les présidents des conseils départementaux des départements limitrophes de la Collectivité européenne d'Alsace ;4° Le président du conseil régional de la région Grand Est.Les représentants de l'Etat dans la région et dans les départements concernés ainsi que les représentants des services déconcentrés de l'Etat participent aux séances du comité à leur demande. Le comité peut associer à ses travaux des représentants de toute autre collectivité territoriale concernée ou de tout groupement de collectivités territoriales concerné. Il peut consulter toute personne ou tout organisme qualifié.Le comité est présidé par le président de la Collectivité européenne d'Alsace.Il organise librement ses travaux et leur publicité, les modalités de réunion et les règles de représentation de ses membres, dans le cadre de son règlement intérieur.Il est convoqué par son président, au moins une fois par an jusqu'à la mise en œuvre de la taxe.",
+      "valid_from": "2022-03-02"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "L'ordonnance n° 2021-615 du 19 mai 2021 soumettant à l'avis du représentant de l'Etat les projets de modification substantielle des caractéristiques techniques des autoroutes relevant de la Collectivité européenne d'Alsace est ratifiée."
+      "content": "L'ordonnance n° 2021-615 du 19 mai 2021 soumettant à l'avis du représentant de l'Etat les projets de modification substantielle des caractéristiques techniques des autoroutes relevant de la Collectivité européenne d'Alsace est ratifiée.",
+      "valid_from": "2022-03-02"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "L'ordonnance n° 2021-616 du 19 mai 2021 relative aux conditions dans lesquelles l'Eurométropole de Strasbourg assure l'engagement pris par l'Etat dans le cadre de la convention financière annexée à la convention passée entre l'Etat et la société ARCOS relative à l'autoroute A 355 est ratifiée."
+      "content": "L'ordonnance n° 2021-616 du 19 mai 2021 relative aux conditions dans lesquelles l'Eurométropole de Strasbourg assure l'engagement pris par l'Etat dans le cadre de la convention financière annexée à la convention passée entre l'Etat et la société ARCOS relative à l'autoroute A 355 est ratifiée.",
+      "valid_from": "2022-03-02"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n- Ordonnance n°2021-616 du 19 mai 2021\n\n- Ordonnance n°2021-616 du 19 mai 2021\n\nLa présente loi sera exécutée comme loi de l'Etat."
+      "content": "A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n- Ordonnance n°2021-616 du 19 mai 2021\n\n- Ordonnance n°2021-616 du 19 mai 2021\n\nLa présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2022-03-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

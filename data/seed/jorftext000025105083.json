@@ -12,13 +12,21 @@
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "La présente ordonnance entre en vigueur à une date déterminée par décret en Conseil d'Etat et au plus tard le 1er janvier 2013.Toutefois, les dispositions en vigueur antérieurement à l'entrée en vigueur de l'ordonnance demeurent applicables :― aux procédures d'élaboration et de révision des schémas de cohérence territoriale et des plans locaux d'urbanisme prescrites à cette même date ;― aux procédures de modification des schémas de cohérence territoriale et des plans locaux d'urbanisme lorsque le projet de modification a été notifié aux personnes publiques associées à la date d'entrée en vigueur de l'ordonnance ;― s'appliquent, cependant, à ces procédures le I et le 2° du VI de l'article 3 de l'ordonnance."
+      "content": "La présente ordonnance entre en vigueur à une date déterminée par décret en Conseil d'Etat et au plus tard le 1er janvier 2013.Toutefois, les dispositions en vigueur antérieurement à l'entrée en vigueur de l'ordonnance demeurent applicables :― aux procédures d'élaboration et de révision des schémas de cohérence territoriale et des plans locaux d'urbanisme prescrites à cette même date ;― aux procédures de modification des schémas de cohérence territoriale et des plans locaux d'urbanisme lorsque le projet de modification a été notifié aux personnes publiques associées à la date d'entrée en vigueur de l'ordonnance ;― s'appliquent, cependant, à ces procédures le I et le 2° du VI de l'article 3 de l'ordonnance.",
+      "valid_from": "2013-01-01"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Le Premier ministre et la ministre de l'écologie, du développement durable, des transports et du logement sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre de l'écologie, du développement durable, des transports et du logement sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2013-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

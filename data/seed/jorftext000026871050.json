@@ -12,7 +12,14 @@
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Les projets d'investissements civils financés par l'Etat, ses établissements publics, les établissements publics de santé ou les structures de coopération sanitaire font l'objet d'une évaluation socio-économique préalable. Lorsque le montant total du projet et la part de financement apportée par ces personnes excèdent des seuils fixés par décret, cette évaluation est soumise à une contre-expertise indépendante préalable.Le Gouvernement transmet au Parlement les évaluations et les contre-expertises mentionnées au premier alinéa.Les conditions d'application du présent article sont prévues par décret."
+      "content": "Les projets d'investissements civils financés par l'Etat, ses établissements publics, les établissements publics de santé ou les structures de coopération sanitaire font l'objet d'une évaluation socio-économique préalable. Lorsque le montant total du projet et la part de financement apportée par ces personnes excèdent des seuils fixés par décret, cette évaluation est soumise à une contre-expertise indépendante préalable.Le Gouvernement transmet au Parlement les évaluations et les contre-expertises mentionnées au premier alinéa.Les conditions d'application du présent article sont prévues par décret.",
+      "valid_from": "2013-01-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

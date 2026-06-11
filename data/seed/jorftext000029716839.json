@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance du 8 décembre 2005 susvisée est modifiée conformément aux articles 2 à 5 ci-après."
+      "content": "L'ordonnance du 8 décembre 2005 susvisée est modifiée conformément aux articles 2 à 5 ci-après.",
+      "valid_from": "2014-11-08"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "La présente ordonnance est applicable dans les îles Wallis et Futuna."
+      "content": "La présente ordonnance est applicable dans les îles Wallis et Futuna.",
+      "valid_from": "2014-11-08"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La présente ordonnance entrera en vigueur pour l'Etat et ses établissements publics un an après sa publication au Journal officiel de la République française et deux ans après cette publication pour les autres autorités administratives mentionnées à l'article 1er de l'ordonnance du 8 décembre 2005 susvisée."
+      "content": "La présente ordonnance entrera en vigueur pour l'Etat et ses établissements publics un an après sa publication au Journal officiel de la République française et deux ans après cette publication pour les autres autorités administratives mentionnées à l'article 1er de l'ordonnance du 8 décembre 2005 susvisée.",
+      "valid_from": "2014-11-08"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le Premier ministre, le ministre de l'économie, de l'industrie et du numérique, la ministre des outre-mer et le secrétaire d'Etat chargé de la réforme de l'Etat et de la simplification sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, de l'industrie et du numérique, la ministre des outre-mer et le secrétaire d'Etat chargé de la réforme de l'Etat et de la simplification sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2014-11-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

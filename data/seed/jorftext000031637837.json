@@ -12,19 +12,28 @@
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "I. - Le 3° de l'article 8 et l'article 18 sont applicables en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna.II. - Les 1° et 3° de l'article 12 sont applicables à Wallis-et-Futuna. Le b du 7° de l'article 12 n'est pas applicable à Saint-Pierre-et-Miquelon."
+      "content": "I. - Le 3° de l'article 8 et l'article 18 sont applicables en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna.II. - Les 1° et 3° de l'article 12 sont applicables à Wallis-et-Futuna. Le b du 7° de l'article 12 n'est pas applicable à Saint-Pierre-et-Miquelon.",
+      "valid_from": "2016-01-01"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "I. - Les dispositions de la présente ordonnance entrent en vigueur le 1er janvier 2016.Toutefois, les titulaires d'une licence de photographe navigant professionnel de l'aéronautique civile en cours de validité à la date du 1er janvier 2016 conservent la qualité de navigant professionnel de l'aéronautique civile lorsqu'ils exercent dans les conditions mentionnées au premier alinéa de l'article L. 6521-1 du code des transports.II. - Les licences de 2e catégorie au sens du 2° de l'article L. 3331-1 du code de la santé publique existant au jour d'entrée en vigueur de la présente ordonnance deviennent de plein droit des licences de 3e catégorie au sens du 3° du même article."
+      "content": "I. - Les dispositions de la présente ordonnance entrent en vigueur le 1er janvier 2016.Toutefois, les titulaires d'une licence de photographe navigant professionnel de l'aéronautique civile en cours de validité à la date du 1er janvier 2016 conservent la qualité de navigant professionnel de l'aéronautique civile lorsqu'ils exercent dans les conditions mentionnées au premier alinéa de l'article L. 6521-1 du code des transports.II. - Les licences de 2e catégorie au sens du 2° de l'article L. 3331-1 du code de la santé publique existant au jour d'entrée en vigueur de la présente ordonnance deviennent de plein droit des licences de 3e catégorie au sens du 3° du même article.",
+      "valid_from": "2016-01-01"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable et de l'énergie, la garde des sceaux, ministre de la justice, le ministre des finances et des comptes publics, la ministre des affaires sociales, de la santé et des droits des femmes, le ministre de l'intérieur, le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement, le ministre de l'économie, de l'industrie et du numérique, la ministre de la culture et de la communication, le ministre de la ville, de la jeunesse et des sports et la secrétaire d'Etat chargée de la réforme de l'Etat et de la simplification sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable et de l'énergie, la garde des sceaux, ministre de la justice, le ministre des finances et des comptes publics, la ministre des affaires sociales, de la santé et des droits des femmes, le ministre de l'intérieur, le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement, le ministre de l'économie, de l'industrie et du numérique, la ministre de la culture et de la communication, le ministre de la ville, de la jeunesse et des sports et la secrétaire d'Etat chargée de la réforme de l'Etat et de la simplification sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

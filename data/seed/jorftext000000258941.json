@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. - Il est créé un service public permettant à toute personne qui le demande de faire connaître son changement d'adresse, en une seule opération gratuite, à des personnes morales choisies par elle parmi celles mentionnées aux II et III.Ce service est exploité, sous la responsabilité de l'Etat, dans le respect des dispositions de la loi du 6 janvier 1978 susvisée.II. - Participent au service public du changement d'adresse :1° Les administrations de l'Etat ;2° Les collectivités territoriales ;3° Les établissements publics nationaux à caractère administratif ;4° Les organismes gérant des régimes de protection sociale relevant du code de la sécurité sociale et du code rural ou mentionnés aux articles L. 223-16 et L. 351-21 du code du travail ;5° Les personnes morales, non mentionnées aux alinéas précédents, chargées du service public de la fourniture de services postaux, de communications électroniques au sens du a de l'article L. 35 du code des postes et des communications électroniques, d'électricité, de gaz ou d'eau.III. - Peuvent en outre participer, sur leur demande, au service public du changement d'adresse :1° Les personnes morales, non mentionnées au II, chargées d'une mission de service public ;2° Les personnes morales, non mentionnées au 5° du II, qui assurent la fourniture de services postaux, de communications électroniques, d'électricité, de gaz ou d'eau ;3° Les personnes morales qui délivrent des prestations rendues obligatoires par des dispositions législatives ou réglementaires.IV. - Les personnes morales mentionnées aux 2° à 5° du II et au III passent avec l'Etat une convention qui détermine les modalités techniques et financières de leur participation au service public du changement d'adresse."
+      "content": "I. - Il est créé un service public permettant à toute personne qui le demande de faire connaître son changement d'adresse, en une seule opération gratuite, à des personnes morales choisies par elle parmi celles mentionnées aux II et III.Ce service est exploité, sous la responsabilité de l'Etat, dans le respect des dispositions de la loi du 6 janvier 1978 susvisée.II. - Participent au service public du changement d'adresse :1° Les administrations de l'Etat ;2° Les collectivités territoriales ;3° Les établissements publics nationaux à caractère administratif ;4° Les organismes gérant des régimes de protection sociale relevant du code de la sécurité sociale et du code rural ou mentionnés aux articles L. 223-16 et L. 351-21 du code du travail ;5° Les personnes morales, non mentionnées aux alinéas précédents, chargées du service public de la fourniture de services postaux, de communications électroniques au sens du a de l'article L. 35 du code des postes et des communications électroniques, d'électricité, de gaz ou d'eau.III. - Peuvent en outre participer, sur leur demande, au service public du changement d'adresse :1° Les personnes morales, non mentionnées au II, chargées d'une mission de service public ;2° Les personnes morales, non mentionnées au 5° du II, qui assurent la fourniture de services postaux, de communications électroniques, d'électricité, de gaz ou d'eau ;3° Les personnes morales qui délivrent des prestations rendues obligatoires par des dispositions législatives ou réglementaires.IV. - Les personnes morales mentionnées aux 2° à 5° du II et au III passent avec l'Etat une convention qui détermine les modalités techniques et financières de leur participation au service public du changement d'adresse.",
+      "valid_from": "2005-04-29"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les modalités d'application de la présente ordonnance sont fixées par décret en Conseil d'Etat, notamment :1° L'organisation du service public du changement d'adresse créé au I de l'article 1er ;2° Les catégories d'informations, demandées à l'usager du service et nécessaires à son identification et aux besoins des personnes morales choisies par lui parmi celles mentionnées aux II et III de l'article 1er, et la durée de leur conservation, qui ne saurait excéder le temps nécessaire à leur prise en compte par ces personnes morales ;3° Les modalités de choix, par l'usager, des personnes morales mentionnées aux II et III de l'article 1er et qui seront destinataires des informations mentionnées au 2° ;4° Le contenu de la convention mentionnée au IV de l'article 1er."
+      "content": "Les modalités d'application de la présente ordonnance sont fixées par décret en Conseil d'Etat, notamment :1° L'organisation du service public du changement d'adresse créé au I de l'article 1er ;2° Les catégories d'informations, demandées à l'usager du service et nécessaires à son identification et aux besoins des personnes morales choisies par lui parmi celles mentionnées aux II et III de l'article 1er, et la durée de leur conservation, qui ne saurait excéder le temps nécessaire à leur prise en compte par ces personnes morales ;3° Les modalités de choix, par l'usager, des personnes morales mentionnées aux II et III de l'article 1er et qui seront destinataires des informations mentionnées au 2° ;4° Le contenu de la convention mentionnée au IV de l'article 1er.",
+      "valid_from": "2005-04-29"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente ordonnance est applicable à Mayotte, aux îles Wallis et Futuna, en Polynésie française, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie."
+      "content": "La présente ordonnance est applicable à Mayotte, aux îles Wallis et Futuna, en Polynésie française, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie.",
+      "valid_from": "2005-04-29"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, le ministre de la fonction publique et de la réforme de l'Etat, la ministre de l'outre-mer et le secrétaire d'Etat à la réforme de l'Etat sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de la fonction publique et de la réforme de l'Etat, la ministre de l'outre-mer et le secrétaire d'Etat à la réforme de l'Etat sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2005-04-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -1,0 +1,32 @@
+{
+  "id": "legitext000006071210",
+  "type": "statute",
+  "title": "Loi n° 48-1416 du 15 septembre 1948",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071210/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les personnes non visées à l'article 1er de l'ordonnance du 28 août 1944 qui sont personnellement coauteurs ou complices de crimes commis par les individus visés audit article ou de crimes connexes, seront renvoyées devant le tribunal militaire.Il leur sera fait application des dispositions du code pénal et notamment des articles visés au second alinéa de l'article 1er de la susdite ordonnance.Elles ne pourront être comprises dans les poursuites engagées contre lesdits individus.Toutefois, en ce qui concerne les procès dont les débats seraient commencés, la division de la procédure résultant des dispositions ci-dessus aura lieu aussitôt après la clôture de l'instruction publique à l'audience.",
+      "valid_from": "1953-01-31"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Nonobstant toutes dispositions contraires, le magistrat chargé de l'information sur un crime de guerre peut autoriser les représentants qualifiés des nations alliées qui pratiquent un régime de réciprocité, à prendre communication ou à recevoir copie de toutes les pièces, documents et procès-verbaux compris dans le dossier de l'instruction ou à recueillir en sa présence, suivant les formes prévues par leur loi nationale, les déclarations des témoins et des accusés.",
+      "valid_from": "1948-09-16"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

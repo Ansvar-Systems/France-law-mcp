@@ -12,25 +12,35 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les attestations de détachement adressées, avant la date d'entrée en vigueur de la présente ordonnance, par les entreprises mentionnées au I de l'article L. 1331-1 du code des transports, dans sa rédaction antérieure à cette ordonnance, ainsi que par les entreprises mentionnées à l'article L. 1332-1 du même code établies hors de l'Union européenne dans les conditions et selon les modalités prévues par les dispositions prises en application de l'article L. 1331-1, sont regardées comme valant déclaration préalable de détachement au sens du I de l'article L. 1262-2-1 du code du travail jusqu'à la date de leur fin de validité."
+      "content": "Les attestations de détachement adressées, avant la date d'entrée en vigueur de la présente ordonnance, par les entreprises mentionnées au I de l'article L. 1331-1 du code des transports, dans sa rédaction antérieure à cette ordonnance, ainsi que par les entreprises mentionnées à l'article L. 1332-1 du même code établies hors de l'Union européenne dans les conditions et selon les modalités prévues par les dispositions prises en application de l'article L. 1331-1, sont regardées comme valant déclaration préalable de détachement au sens du I de l'article L. 1262-2-1 du code du travail jusqu'à la date de leur fin de validité.",
+      "valid_from": "2023-01-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Par dérogation au second alinéa de l'article L. 1332-4 du code des transports, dans sa rédaction issue de la présente ordonnance, et jusqu'à la mise à leur disposition, constatée par arrêté conjoint du ministre chargé des transports et du ministre chargé du travail, de la possibilité de déposer un formulaire standard multilingue au moyen du système d'information du marché intérieur « IMI » institué par le règlement du 25 octobre 2012 susvisé, les entreprises de transport routier mentionnées à l'article L. 1332-1 du même code établies hors de l'Union européenne restent régies par les dispositions du II de l'article L. 1262-2-1 du code du travail."
+      "content": "Par dérogation au second alinéa de l'article L. 1332-4 du code des transports, dans sa rédaction issue de la présente ordonnance, et jusqu'à la mise à leur disposition, constatée par arrêté conjoint du ministre chargé des transports et du ministre chargé du travail, de la possibilité de déposer un formulaire standard multilingue au moyen du système d'information du marché intérieur « IMI » institué par le règlement du 25 octobre 2012 susvisé, les entreprises de transport routier mentionnées à l'article L. 1332-1 du même code établies hors de l'Union européenne restent régies par les dispositions du II de l'article L. 1262-2-1 du code du travail.",
+      "valid_from": "2023-01-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La présente ordonnance entre en vigueur le 1er janvier 2023."
+      "content": "La présente ordonnance entre en vigueur le 1er janvier 2023.",
+      "valid_from": "2023-01-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "La Première ministre, le ministre du travail, du plein emploi et de l'insertion et le ministre de la transition écologique et de la cohésion des territoires sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "La Première ministre, le ministre du travail, du plein emploi et de l'insertion et le ministre de la transition écologique et de la cohésion des territoires sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2023-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

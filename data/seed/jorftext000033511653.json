@@ -12,19 +12,28 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 22 mai 2017.Les demandes d'entraide reçues avant le 22 mai 2017 demeurent régies par les instruments antérieurs relatifs à l'entraide en matière pénale et par les dispositions du code de procédure pénale dans leur rédaction applicable antérieurement à l'entrée en vigueur de la présente ordonnance.Les décisions de gel d'éléments de preuve prises en vertu de la décision-cadre 2003/577/JAI et reçues avant le 22 mai 2017 sont également régies par cette décision-cadre et par les dispositions du code de procédure pénale dans leur rédaction applicable antérieurement à l'entrée en vigueur de la présente ordonnance.A compter du 22 mai 2017, les demandes d'entraide sont adressées aux Etats membres selon le formalisme prévu pour les décisions d'enquête européenne, même aux Etats n'ayant pas à cette date transposé la directive 2014/41/UE du 3 avril 2014 concernant la décision d'enquête européenne en matière pénale. Les demandes d'entraide émanant de ces Etats sont assimilées à des demandes effectuées sur le fondement des dispositions de la directive et examinées conformément aux dispositions du code de procédure pénale résultant de l'article 1er de la présente ordonnance."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 22 mai 2017.Les demandes d'entraide reçues avant le 22 mai 2017 demeurent régies par les instruments antérieurs relatifs à l'entraide en matière pénale et par les dispositions du code de procédure pénale dans leur rédaction applicable antérieurement à l'entrée en vigueur de la présente ordonnance.Les décisions de gel d'éléments de preuve prises en vertu de la décision-cadre 2003/577/JAI et reçues avant le 22 mai 2017 sont également régies par cette décision-cadre et par les dispositions du code de procédure pénale dans leur rédaction applicable antérieurement à l'entrée en vigueur de la présente ordonnance.A compter du 22 mai 2017, les demandes d'entraide sont adressées aux Etats membres selon le formalisme prévu pour les décisions d'enquête européenne, même aux Etats n'ayant pas à cette date transposé la directive 2014/41/UE du 3 avril 2014 concernant la décision d'enquête européenne en matière pénale. Les demandes d'entraide émanant de ces Etats sont assimilées à des demandes effectuées sur le fondement des dispositions de la directive et examinées conformément aux dispositions du code de procédure pénale résultant de l'article 1er de la présente ordonnance.",
+      "valid_from": "2017-05-22"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - L'article 5 est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.\n\n- Code de procédure pénale"
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - L'article 5 est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.\n\n- Code de procédure pénale",
+      "valid_from": "2016-12-03"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, le ministre de la défense et le ministre de l'intérieur sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, le ministre de la défense et le ministre de l'intérieur sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-05-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

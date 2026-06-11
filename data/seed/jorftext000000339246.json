@@ -12,19 +12,28 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les dispositions du premier alinéa de l'article L. 342 du code de la sécurité sociale telles qu'elles résultent de l'article 6 ci-dessus ne s'appliquent qu'aux périodes de chômage involontaire postérieures à la date d'entrée en vigueur de la présente loi."
+      "content": "Les dispositions du premier alinéa de l'article L. 342 du code de la sécurité sociale telles qu'elles résultent de l'article 6 ci-dessus ne s'appliquent qu'aux périodes de chômage involontaire postérieures à la date d'entrée en vigueur de la présente loi.",
+      "valid_from": "1979-12-29"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Sont abrogés :\n\nA l'article L. 285, 2°, du code de la sécurité sociale, la phrase :\n\n\" Ceux de moins de dix-sept ans à la recherche d'une première activité professionnelle et inscrits comme demandeurs d'emploi à\n\nl'institution mentionnée à l'article L. 311-7 du code du travail \" ;\n\nL'article 3 de la loi n° 75-551 du 2 juillet 1975 relative à la situation des détenus et de leur famille au regard des assurances maladie et maternité ;\n\nLe deuxiéme alinéa de l'article 3 de la loi n° 75-574 du 4 juillet 1975 tendant à la généralisation de la sécurité sociale ;\n\nL'article 2 bis de la loi n° 75-574 du 4 juillet 1975."
+      "content": "Sont abrogés :\n\nA l'article L. 285, 2°, du code de la sécurité sociale, la phrase :\n\n\" Ceux de moins de dix-sept ans à la recherche d'une première activité professionnelle et inscrits comme demandeurs d'emploi à\n\nl'institution mentionnée à l'article L. 311-7 du code du travail \" ;\n\nL'article 3 de la loi n° 75-551 du 2 juillet 1975 relative à la situation des détenus et de leur famille au regard des assurances maladie et maternité ;\n\nLe deuxiéme alinéa de l'article 3 de la loi n° 75-574 du 4 juillet 1975 tendant à la généralisation de la sécurité sociale ;\n\nL'article 2 bis de la loi n° 75-574 du 4 juillet 1975.",
+      "valid_from": "2008-02-15"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les indemnités journalières de chômage versées aux personnes non couvertes par la loi du 16 janvier 1979 relative à l'aide aux travailleurs privés d'emploi, sont insaisissables et incessibles dans les conditions fixées aux articles L. 3252-2 à L. 3252-3 du code du travail."
+      "content": "Les indemnités journalières de chômage versées aux personnes non couvertes par la loi du 16 janvier 1979 relative à l'aide aux travailleurs privés d'emploi, sont insaisissables et incessibles dans les conditions fixées aux articles L. 3252-2 à L. 3252-3 du code du travail.",
+      "valid_from": "1979-12-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

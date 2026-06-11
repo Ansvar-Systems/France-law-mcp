@@ -12,13 +12,21 @@
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "I. ― Les dispositions modifiées ou nouvelles des articles L. 623-4, à l'exception de celles relatives aux variétés essentiellement dérivées définies au III, et des articles L. 623-22-3, L. 623-22-4 et L. 623-25 du code de la propriété intellectuelle sont applicables aux certificats d'obtention délivrés avant l'entrée en vigueur de la présente loi. Ces dispositions s'appliquent également aux certificats d'obtention délivrés pour les demandes de certificat enregistrées avant l'entrée en vigueur de la présente loi.II. ― La section 2 bis du chapitre III du titre II du livre VI du même code est applicable aux certificats d'obtention végétale délivrés avant l'entrée en vigueur de la présente loi.III. ― Le IV de l'article L. 623-4 du même code ne s'applique pas aux variétés essentiellement dérivées dont l'obtenteur a, avant l'entrée en vigueur de la présente loi, fait des préparatifs effectifs et sérieux en vue de leur exploitation ou que l'obtenteur a exploitées avant cette date."
+      "content": "I. ― Les dispositions modifiées ou nouvelles des articles L. 623-4, à l'exception de celles relatives aux variétés essentiellement dérivées définies au III, et des articles L. 623-22-3, L. 623-22-4 et L. 623-25 du code de la propriété intellectuelle sont applicables aux certificats d'obtention délivrés avant l'entrée en vigueur de la présente loi. Ces dispositions s'appliquent également aux certificats d'obtention délivrés pour les demandes de certificat enregistrées avant l'entrée en vigueur de la présente loi.II. ― La section 2 bis du chapitre III du titre II du livre VI du même code est applicable aux certificats d'obtention végétale délivrés avant l'entrée en vigueur de la présente loi.III. ― Le IV de l'article L. 623-4 du même code ne s'applique pas aux variétés essentiellement dérivées dont l'obtenteur a, avant l'entrée en vigueur de la présente loi, fait des préparatifs effectifs et sérieux en vue de leur exploitation ou que l'obtenteur a exploitées avant cette date.",
+      "valid_from": "2011-12-11"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "La présente loi est applicable en Nouvelle-Calédonie, dans les Terres australes et antarctiques françaises et dans les îles Wallis et Futuna.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "La présente loi est applicable en Nouvelle-Calédonie, dans les Terres australes et antarctiques françaises et dans les îles Wallis et Futuna.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2011-12-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les magistrats de la Cour des comptes et les membres du corps de l'inspection générale des finances, lorsqu'ils atteignent la limite d'âge résultant du 1° de l'article L. 556-1 du code général de la fonction publique ou de l'article 1er de la loi n° 84-834 du 13 septembre 1984 relative à la limite d'âge dans la fonction publique et le secteur public et, le cas échéant, à l'issue des reculs de limite d'âge et des prolongations d'activité mentionnés aux articles L. 556-2 à L. 556-5 du code général de la fonction publique, sont, sur leur demande, maintenus en activité, en surnombre, jusqu'à ce qu'ils atteignent l'âge mentionné au cinquième alinéa de l'article L. 556-1 du même code sans radiation des cadres préalable pour exercer respectivement les fonctions de conseiller maître à la Cour des comptes ou, s'ils n'ont pas atteint ce dernier grade, celles de conseiller référendaire et d'inspecteur général des finances.\n\nLe maintien en activité, y compris dans des fonctions exercées par la voie du détachement ou de la mise à disposition, jusqu'à l'âge mentionné au même cinquième alinéa est accordé sur demande, en considération de l'intérêt du service et de l'aptitude de l'intéressé."
+      "content": "Les magistrats de la Cour des comptes et les membres du corps de l'inspection générale des finances, lorsqu'ils atteignent la limite d'âge résultant du 1° de l'article L. 556-1 du code général de la fonction publique ou de l'article 1er de la loi n° 84-834 du 13 septembre 1984 relative à la limite d'âge dans la fonction publique et le secteur public et, le cas échéant, à l'issue des reculs de limite d'âge et des prolongations d'activité mentionnés aux articles L. 556-2 à L. 556-5 du code général de la fonction publique, sont, sur leur demande, maintenus en activité, en surnombre, jusqu'à ce qu'ils atteignent l'âge mentionné au cinquième alinéa de l'article L. 556-1 du même code sans radiation des cadres préalable pour exercer respectivement les fonctions de conseiller maître à la Cour des comptes ou, s'ils n'ont pas atteint ce dernier grade, celles de conseiller référendaire et d'inspecteur général des finances.\n\nLe maintien en activité, y compris dans des fonctions exercées par la voie du détachement ou de la mise à disposition, jusqu'à l'âge mentionné au même cinquième alinéa est accordé sur demande, en considération de l'intérêt du service et de l'aptitude de l'intéressé.",
+      "valid_from": "2023-06-14"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "I. - L'article 3 de la loi n° 83-26 du 19 janvier 1983 modifiant l'ordonnance du 4 février 1959 relative au statut général des fonctionnaires et l'article 23 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat sont abrogés.\n\nII. - Toutefois, ces dispositions demeurent applicables aux candidats déclarés admis, avant le 1er janvier 1987, au concours de sélection sur épreuves qu'elles prévoient."
+      "content": "I. - L'article 3 de la loi n° 83-26 du 19 janvier 1983 modifiant l'ordonnance du 4 février 1959 relative au statut général des fonctionnaires et l'article 23 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat sont abrogés.\n\nII. - Toutefois, ces dispositions demeurent applicables aux candidats déclarés admis, avant le 1er janvier 1987, au concours de sélection sur épreuves qu'elles prévoient.",
+      "valid_from": "1986-12-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

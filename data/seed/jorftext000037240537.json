@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 2017-157 du 9 février 2017 étendant et adaptant à la Polynésie française certaines dispositions du livre IV du code de commerce relatives aux contrôles et aux sanctions en matière de concurrence est ratifiée."
+      "content": "L'ordonnance n° 2017-157 du 9 février 2017 étendant et adaptant à la Polynésie française certaines dispositions du livre IV du code de commerce relatives aux contrôles et aux sanctions en matière de concurrence est ratifiée.",
+      "valid_from": "2018-07-25"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- LOI n° 2013-907 du 11 octobre 2013\n\nII. - Les personnes qui, à la date de publication de la présente loi, occupent l'une des fonctions mentionnées au 6° bis A du I de l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, dans sa rédaction résultant du I du présent article, établissent une déclaration de situation patrimoniale et une déclaration d'intérêts, suivant les modalités prévues au même article 11, dans les six mois suivant la date de publication de la présente loi."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- LOI n° 2013-907 du 11 octobre 2013\n\nII. - Les personnes qui, à la date de publication de la présente loi, occupent l'une des fonctions mentionnées au 6° bis A du I de l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, dans sa rédaction résultant du I du présent article, établissent une déclaration de situation patrimoniale et une déclaration d'intérêts, suivant les modalités prévues au même article 11, dans les six mois suivant la date de publication de la présente loi.",
+      "valid_from": "2018-07-25"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - Sont applicables en Nouvelle-Calédonie :1° L'article L. 450-3 du code de commerce dans sa rédaction résultant de la loi n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques ;2° Les articles L. 450-3-1 et L. 450-3-2 du même code dans leur rédaction résultant de la loi n° 2014-344 du 17 mars 2014 relative à la consommation ;3° L'article L. 450-4 dudit code dans sa rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale ;4° L'article L. 450-8 du même code dans sa rédaction résultant de la loi n° 2014-344 du 17 mars 2014 précitée.\n\nII. - A modifié les dispositions suivantes :\n\n- Code de commerce"
+      "content": "I. - Sont applicables en Nouvelle-Calédonie :1° L'article L. 450-3 du code de commerce dans sa rédaction résultant de la loi n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques ;2° Les articles L. 450-3-1 et L. 450-3-2 du même code dans leur rédaction résultant de la loi n° 2014-344 du 17 mars 2014 relative à la consommation ;3° L'article L. 450-4 dudit code dans sa rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale ;4° L'article L. 450-8 du même code dans sa rédaction résultant de la loi n° 2014-344 du 17 mars 2014 précitée.\n\nII. - A modifié les dispositions suivantes :\n\n- Code de commerce",
+      "valid_from": "2018-07-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

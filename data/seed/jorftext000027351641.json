@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "II. - La présente loi entre en vigueur à une date fixée par décret et au plus tard un an après sa promulgation."
+      "content": "II. - La présente loi entre en vigueur à une date fixée par décret et au plus tard un an après sa promulgation.",
+      "valid_from": "2013-10-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

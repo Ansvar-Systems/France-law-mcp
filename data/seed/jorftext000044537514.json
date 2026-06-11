@@ -12,13 +12,21 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "I. - A créé les dispositions suivantes :\n\n- Code général des collectivités territoriales\n\nII. - Le I entre en vigueur le 1er janvier 2023."
+      "content": "I. - A créé les dispositions suivantes :\n\n- Code général des collectivités territoriales\n\nII. - Le I entre en vigueur le 1er janvier 2023.",
+      "valid_from": "2021-12-23"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "A créé les dispositions suivantes :\n\n- Code général de la propriété des personnes publiques.\n\nLa présente loi sera exécutée comme loi de l'Etat."
+      "content": "A créé les dispositions suivantes :\n\n- Code général de la propriété des personnes publiques.\n\nLa présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2021-12-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

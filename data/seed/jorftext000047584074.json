@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le chapitre VI du titre III du livre II du code de commerce est modifié conformément aux articles du présent titre."
+      "content": "Le chapitre VI du titre III du livre II du code de commerce est modifié conformément aux articles du présent titre.",
+      "valid_from": "2023-05-26"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nCes dispositions sont applicables dans les îles Wallis et Futuna.\n\n- Code des assurances\n\n- Code de commerce\n\n- Code monétaire et financier\n\n- Code rural et de la pêche maritime\n\n- Loi du 1er juillet 1901"
+      "content": "A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nCes dispositions sont applicables dans les îles Wallis et Futuna.\n\n- Code des assurances\n\n- Code de commerce\n\n- Code monétaire et financier\n\n- Code rural et de la pêche maritime\n\n- Loi du 1er juillet 1901",
+      "valid_from": "2023-05-26"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les dispositions de la présente ordonnance s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023."
+      "content": "Les dispositions de la présente ordonnance s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.",
+      "valid_from": "2023-05-26"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "La Première ministre, le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, le ministre de l'intérieur et des outre-mer, le garde des sceaux, ministre de la justice, et le ministre délégué auprès du ministre de l'intérieur et des outre-mer, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "La Première ministre, le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, le ministre de l'intérieur et des outre-mer, le garde des sceaux, ministre de la justice, et le ministre délégué auprès du ministre de l'intérieur et des outre-mer, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2023-05-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

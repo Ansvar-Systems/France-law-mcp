@@ -12,13 +12,21 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les salariés involontairement privés d'emploi, qui bénéficient d'un revenu de remplacement et qui sont engagés par contrat à durée déterminée, retrouvent, à l'expiration du contrat, l'intégralité des droits auxquels ils auraient pu prétendre, sans préjudice des droits nouveaux que le contrat leur a fait acquérir.Les dispositions des articles L. 122-1 et L. 122-3 du code du travail ne peuvent avoir pour effet de supprimer ou de réduire les avantages conventionnels, en particulier en matière d'aide aux travailleurs involontairement privés d'emploi."
+      "content": "Les salariés involontairement privés d'emploi, qui bénéficient d'un revenu de remplacement et qui sont engagés par contrat à durée déterminée, retrouvent, à l'expiration du contrat, l'intégralité des droits auxquels ils auraient pu prétendre, sans préjudice des droits nouveaux que le contrat leur a fait acquérir.Les dispositions des articles L. 122-1 et L. 122-3 du code du travail ne peuvent avoir pour effet de supprimer ou de réduire les avantages conventionnels, en particulier en matière d'aide aux travailleurs involontairement privés d'emploi.",
+      "valid_from": "1979-01-04"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les dispositions des articles 1er à 7 sont applicables aux contrats conclus après la date de promulgation de la présente loi.Les dispositions de l'article 8 sont applicables aux contrats venant à expiration après cette date."
+      "content": "Les dispositions des articles 1er à 7 sont applicables aux contrats conclus après la date de promulgation de la présente loi.Les dispositions de l'article 8 sont applicables aux contrats venant à expiration après cette date.",
+      "valid_from": "1979-01-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

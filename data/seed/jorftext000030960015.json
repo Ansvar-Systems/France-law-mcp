@@ -12,19 +12,28 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "I. - Les articles 1er, 2, 8 et 9 sont applicables à Wallis-et-Futuna.II. - Les articles 8 et 9 sont applicables en Nouvelle-Calédonie et en Polynésie française."
+      "content": "I. - Les articles 1er, 2, 8 et 9 sont applicables à Wallis-et-Futuna.II. - Les articles 8 et 9 sont applicables en Nouvelle-Calédonie et en Polynésie française.",
+      "valid_from": "2015-08-03"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "I. - Pour les articles 1er à 6, les dispositions de la présente ordonnance s'appliquent au fur et à mesure des élections, même partielles, postérieures au 1er janvier 2017.\n\nII. - La présente ordonnance s'applique au titre des renouvellements des conseils ordinaux intervenant à compter du 1er janvier 2016, pour les conseils mentionnés aux articles 7 à 11."
+      "content": "I. - Pour les articles 1er à 6, les dispositions de la présente ordonnance s'appliquent au fur et à mesure des élections, même partielles, postérieures au 1er janvier 2017.\n\nII. - La présente ordonnance s'applique au titre des renouvellements des conseils ordinaux intervenant à compter du 1er janvier 2016, pour les conseils mentionnés aux articles 7 à 11.",
+      "valid_from": "2017-04-29"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Le Premier ministre, la ministre des affaires sociales, de la santé et des droits des femmes et la secrétaire d'Etat chargée des droits des femmes sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre des affaires sociales, de la santé et des droits des femmes et la secrétaire d'Etat chargée des droits des femmes sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2015-08-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

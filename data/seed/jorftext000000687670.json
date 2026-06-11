@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les paiements des acomptes sur la valeur définitive des marchés de travaux privés visés à l'article 1779-3° du code civil peuvent être amputés d'une retenue égale au plus à 5 p. 100 de leur montant et garantissant contractuellement l'exécution des travaux, pour satisfaire, le cas échéant, aux réserves faites à la réception par le maître de l'ouvrage.Le maître de l'ouvrage doit consigner entre les mains d'un consignataire, accepté par les deux parties ou à défaut désigné par le président du   tribunal judiciaire ou du tribunal de commerce, une somme égale à la retenue effectuée.Dans le cas où les sommes ayant fait l'objet de la retenue de garantie dépassent la consignation visée à l'alinéa précédent, le maître de l'ouvrage devra compléter celle-ci jusqu'au montant des sommes ainsi retenues.Toutefois, la retenue de garantie stipulée contractuellement n'est pas pratiquée si l'entrepreneur fournit pour un montant égal une caution personnelle et solidaire émanant d'un établissement financier figurant sur une liste fixée par décret."
+      "content": "Les paiements des acomptes sur la valeur définitive des marchés de travaux privés visés à l'article 1779-3° du code civil peuvent être amputés d'une retenue égale au plus à 5 p. 100 de leur montant et garantissant contractuellement l'exécution des travaux, pour satisfaire, le cas échéant, aux réserves faites à la réception par le maître de l'ouvrage.Le maître de l'ouvrage doit consigner entre les mains d'un consignataire, accepté par les deux parties ou à défaut désigné par le président du   tribunal judiciaire ou du tribunal de commerce, une somme égale à la retenue effectuée.Dans le cas où les sommes ayant fait l'objet de la retenue de garantie dépassent la consignation visée à l'alinéa précédent, le maître de l'ouvrage devra compléter celle-ci jusqu'au montant des sommes ainsi retenues.Toutefois, la retenue de garantie stipulée contractuellement n'est pas pratiquée si l'entrepreneur fournit pour un montant égal une caution personnelle et solidaire émanant d'un établissement financier figurant sur une liste fixée par décret.",
+      "valid_from": "2020-01-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "A l'expiration du délai d'une année à compter de la date de réception, faite avec ou sans réserve, des travaux visés à l'article précédent, la caution est libérée ou les sommes consignées sont versées à l'entrepreneur, même en l'absence de mainlevée, si le maître de l'ouvrage n'a pas notifié à la caution ou au consignataire, par lettre recommandée, son opposition motivée par l'inexécution des obligations de l'entrepreneur. L'opposition abusive entraîne la condamnation de l'opposant à des dommages-intérêts."
+      "content": "A l'expiration du délai d'une année à compter de la date de réception, faite avec ou sans réserve, des travaux visés à l'article précédent, la caution est libérée ou les sommes consignées sont versées à l'entrepreneur, même en l'absence de mainlevée, si le maître de l'ouvrage n'a pas notifié à la caution ou au consignataire, par lettre recommandée, son opposition motivée par l'inexécution des obligations de l'entrepreneur. L'opposition abusive entraîne la condamnation de l'opposant à des dommages-intérêts.",
+      "valid_from": "1971-07-17"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Sont nuls et de nul effet, quelle qu'en soit la forme, les clauses, stipulations et arrangements, qui auraient pour effet de faire échec aux dispositions des articles 1er et 2 de la présente loi."
+      "content": "Sont nuls et de nul effet, quelle qu'en soit la forme, les clauses, stipulations et arrangements, qui auraient pour effet de faire échec aux dispositions des articles 1er et 2 de la présente loi.",
+      "valid_from": "1971-07-17"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La présente loi est applicable aux conventions de sous-traitance."
+      "content": "La présente loi est applicable aux conventions de sous-traitance.",
+      "valid_from": "1972-12-28"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La présente loi est applicable dans les territoires de la Nouvelle-Calédonie et de la Polynésie française sous réserve des adaptations suivantes :I. - A l'article 1er, il y a lieu de lire :a) Au premier alinéa : \"des architectes, entrepreneurs d'ouvrages et techniciens par suite d'études, devis ou marchés\" au lieu de :\"visés à l'article 1779 (3°) du code civil\" ;b) Au deuxième alinéa : \"désigné par le président du tribunal de première instance ou du tribunal mixte de commerce\" au lieu de :\"désigné par le président du tribunal de grande instance ou du tribunal de commerce\" ;c) Au dernier alinéa : \"fixée par arrêté du haut-commissaire de la République\", au lieu de : \"fixée par décret\".II. - La présente loi entre en vigueur dans ces territoires le 1er janvier 1997."
+      "content": "La présente loi est applicable dans les territoires de la Nouvelle-Calédonie et de la Polynésie française sous réserve des adaptations suivantes :I. - A l'article 1er, il y a lieu de lire :a) Au premier alinéa : \"des architectes, entrepreneurs d'ouvrages et techniciens par suite d'études, devis ou marchés\" au lieu de :\"visés à l'article 1779 (3°) du code civil\" ;b) Au deuxième alinéa : \"désigné par le président du tribunal de première instance ou du tribunal mixte de commerce\" au lieu de :\"désigné par le président du tribunal de grande instance ou du tribunal de commerce\" ;c) Au dernier alinéa : \"fixée par arrêté du haut-commissaire de la République\", au lieu de : \"fixée par décret\".II. - La présente loi entre en vigueur dans ces territoires le 1er janvier 1997.",
+      "valid_from": "1997-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les articles 15, 17, 19, 20, 21, 23 à 28 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle sont abrogés."
+      "content": "Les articles 15, 17, 19, 20, 21, 23 à 28 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle sont abrogés.",
+      "valid_from": "1991-01-03"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions particulières relatives aux placements autorisés applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle sont considérées comme non avenues à l'égard des mineurs ou des majeurs protégés."
+      "content": "Les dispositions particulières relatives aux placements autorisés applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle sont considérées comme non avenues à l'égard des mineurs ou des majeurs protégés.",
+      "valid_from": "1991-01-03"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les tutelles et les curatelles ouvertes selon les dispositions abrogées par la présente loi demeurent régies par ces dispositions jusqu'à la cessation des fonctions des tuteurs ou des curateurs désignés."
+      "content": "Les tutelles et les curatelles ouvertes selon les dispositions abrogées par la présente loi demeurent régies par ces dispositions jusqu'à la cessation des fonctions des tuteurs ou des curateurs désignés.",
+      "valid_from": "1991-01-03"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les articles 29 à 34 de la loi du 1er juin 1924 précitée relatifs au registre matrimonial sont abrogés.L'omission des formalités de publicité précédemment prévues ne pourra plus donner lieu à aucune sanction."
+      "content": "Les articles 29 à 34 de la loi du 1er juin 1924 précitée relatifs au registre matrimonial sont abrogés.L'omission des formalités de publicité précédemment prévues ne pourra plus donner lieu à aucune sanction.",
+      "valid_from": "1991-01-03"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "L'article 44 du décret du 18 novembre 1924 relatif à la tenue du livre foncier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle est abrogé."
+      "content": "L'article 44 du décret du 18 novembre 1924 relatif à la tenue du livre foncier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle est abrogé.",
+      "valid_from": "1991-01-03"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les inscriptions hypothécaires prises avant la promulgation de la présente loi restent soumises au régime qui leur était applicable antérieurement.Toutefois, leur renouvellement est soumis aux dispositions résultant de l'article 8 de la présente loi modifiant l'article 63 de la loi du 1er juin 1924 précitée."
+      "content": "Les inscriptions hypothécaires prises avant la promulgation de la présente loi restent soumises au régime qui leur était applicable antérieurement.Toutefois, leur renouvellement est soumis aux dispositions résultant de l'article 8 de la présente loi modifiant l'article 63 de la loi du 1er juin 1924 précitée.",
+      "valid_from": "1991-01-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

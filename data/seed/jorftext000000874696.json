@@ -12,19 +12,28 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "La loi du 15 janvier 1943 relative à la dévolution successorale des exploitations agricoles est abrogée.\n\nToutefois, jusqu'à l'entrée en vigueur des textes d'application prévus par l'article 832-1 du code civil, les limites de superficie et de valeur vénale de l'exploitation agricole susceptible de faire l'objet de l'attribution de plein droit instituée par ledit article sont celles résultant des arrêtés ministériels pris pour l'application de l'article 3 de la loi du 15 janvier 1943. Pour l'application de l'alinéa qui précède, les conditions de superficie et de valeur vénale doivent être remplies cumulativement."
+      "content": "La loi du 15 janvier 1943 relative à la dévolution successorale des exploitations agricoles est abrogée.\n\nToutefois, jusqu'à l'entrée en vigueur des textes d'application prévus par l'article 832-1 du code civil, les limites de superficie et de valeur vénale de l'exploitation agricole susceptible de faire l'objet de l'attribution de plein droit instituée par ledit article sont celles résultant des arrêtés ministériels pris pour l'application de l'article 3 de la loi du 15 janvier 1943. Pour l'application de l'alinéa qui précède, les conditions de superficie et de valeur vénale doivent être remplies cumulativement.",
+      "valid_from": "1961-12-20"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Sous réserve des accords amiables déjà intervenus et des décisions judiciaires passées en force de chose jugée, les dispositions de la présente loi sont applicables aux successions ouvertes et non encore liquidées à la date de son entrée en vigueur, ainsi qu'aux communautés dissoutes et non encore liquidées à la même date.\n\nToutefois, pour ces successions et ces communautés, les conditions de superficie et de valeur vénale prévues à l'article 832-1 du code civil doivent être remplies cumulativement, la condition de valeur étant appréciée à la date de la publication de la présente loi ; les critères applicables sont ceux résultant des arrêtés ministériels pris pour l'application de l'article 3 de la loi du 15 janvier 1943 et en vigueur à la date de cette publication. En outre, par dérogation aux dispositions des alinéas premier et 2 de l'article 832-1 du code civil, le tribunal peut, en ce qui concerne les successions ouvertes et les communautés dissoutes par décès avant l'entrée en vigueur du décret-loi du 17 juin 1938, décider exceptionnellement qu'il n'y a pas lieu à attribution préférentielle  ou que la totalité de la soulte éventuellement due sera payable comptant.\n\nLes dispositions de l'alinéa précédent sont également applicables en ce qui concerne les communautés dissoutes par divorce, séparation de corps ou séparation de biens, quelle que soit la date de la dissolution de la communauté.\n\nL'application aux successions déjà ouvertes des dispositions contenues à l'article 866 nouveau du code civil ne peut avoir pour conséquence de priver le bénéficiaire de la libéralité d'avantages qui lui étaient reconnus par la législation antérieure."
+      "content": "Sous réserve des accords amiables déjà intervenus et des décisions judiciaires passées en force de chose jugée, les dispositions de la présente loi sont applicables aux successions ouvertes et non encore liquidées à la date de son entrée en vigueur, ainsi qu'aux communautés dissoutes et non encore liquidées à la même date.\n\nToutefois, pour ces successions et ces communautés, les conditions de superficie et de valeur vénale prévues à l'article 832-1 du code civil doivent être remplies cumulativement, la condition de valeur étant appréciée à la date de la publication de la présente loi ; les critères applicables sont ceux résultant des arrêtés ministériels pris pour l'application de l'article 3 de la loi du 15 janvier 1943 et en vigueur à la date de cette publication. En outre, par dérogation aux dispositions des alinéas premier et 2 de l'article 832-1 du code civil, le tribunal peut, en ce qui concerne les successions ouvertes et les communautés dissoutes par décès avant l'entrée en vigueur du décret-loi du 17 juin 1938, décider exceptionnellement qu'il n'y a pas lieu à attribution préférentielle  ou que la totalité de la soulte éventuellement due sera payable comptant.\n\nLes dispositions de l'alinéa précédent sont également applicables en ce qui concerne les communautés dissoutes par divorce, séparation de corps ou séparation de biens, quelle que soit la date de la dissolution de la communauté.\n\nL'application aux successions déjà ouvertes des dispositions contenues à l'article 866 nouveau du code civil ne peut avoir pour conséquence de priver le bénéficiaire de la libéralité d'avantages qui lui étaient reconnus par la législation antérieure.",
+      "valid_from": "1961-12-20"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Pour l'interprétation des articles 820, 821-1, 831-2, 831-3 et 924 du code civil, les dispositions relatives à la propriété d'un local d'habitation ou à usage professionnel doivent être considérées comme applicables lorsqu'il s'agit de droits sociaux donnant vocation à l'attribution de ce local en propriété ou en jouissance."
+      "content": "Pour l'interprétation des articles 820, 821-1, 831-2, 831-3 et 924 du code civil, les dispositions relatives à la propriété d'un local d'habitation ou à usage professionnel doivent être considérées comme applicables lorsqu'il s'agit de droits sociaux donnant vocation à l'attribution de ce local en propriété ou en jouissance.",
+      "valid_from": "2007-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

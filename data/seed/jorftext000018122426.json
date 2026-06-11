@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les manèges, machines et installations pour fêtes foraines ou parcs d'attractions ou tout autre lieu d'installation ou d'exploitation doivent être conçus, construits, installés, exploités et entretenus de façon à présenter, dans des conditions normales d'utilisation ou dans d'autres conditions raisonnablement prévisibles par le professionnel, la sécurité à laquelle on peut légitimement s'attendre et ne pas porter atteinte à la santé des personnes."
+      "content": "Les manèges, machines et installations pour fêtes foraines ou parcs d'attractions ou tout autre lieu d'installation ou d'exploitation doivent être conçus, construits, installés, exploités et entretenus de façon à présenter, dans des conditions normales d'utilisation ou dans d'autres conditions raisonnablement prévisibles par le professionnel, la sécurité à laquelle on peut légitimement s'attendre et ne pas porter atteinte à la santé des personnes.",
+      "valid_from": "2008-02-16"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les manèges, machines et installations pour fêtes foraines ou parcs d'attractions ou tout autre lieu d'installation ou d'exploitation sont soumis à un contrôle technique initial et périodique portant sur leur état de fonctionnement et sur leur aptitude à assurer la sécurité des personnes. Ce contrôle technique, effectué ou vérifié par des organismes agréés par l'Etat, est à la charge des exploitants."
+      "content": "Les manèges, machines et installations pour fêtes foraines ou parcs d'attractions ou tout autre lieu d'installation ou d'exploitation sont soumis à un contrôle technique initial et périodique portant sur leur état de fonctionnement et sur leur aptitude à assurer la sécurité des personnes. Ce contrôle technique, effectué ou vérifié par des organismes agréés par l'Etat, est à la charge des exploitants.",
+      "valid_from": "2008-02-16"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Tout exploitant de manèges, machines et installations pour fêtes foraines ou parcs d'attractions ou tout autre lieu d'installation ou d'exploitation est tenu de faire connaître au public, par voie d'affichage, le nom de l'organisme de contrôle technique et la date de la dernière visite de contrôle de l'équipement."
+      "content": "Tout exploitant de manèges, machines et installations pour fêtes foraines ou parcs d'attractions ou tout autre lieu d'installation ou d'exploitation est tenu de faire connaître au public, par voie d'affichage, le nom de l'organisme de contrôle technique et la date de la dernière visite de contrôle de l'équipement.",
+      "valid_from": "2008-02-16"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Un rapport du Gouvernement est remis chaque année au Parlement sur l'accidentologie survenue lors des fêtes foraines et dans les parcs d'attractions."
+      "content": "Un rapport du Gouvernement est remis chaque année au Parlement sur l'accidentologie survenue lors des fêtes foraines et dans les parcs d'attractions.",
+      "valid_from": "2008-02-16"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Un décret en Conseil d'Etat définit les exigences de sécurité auxquelles doivent satisfaire les manèges, machines et installations visés à l'article 1er, le contenu et les modalités du contrôle technique ainsi que les conditions et les modalités d'agrément des organismes de contrôle technique.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Un décret en Conseil d'Etat définit les exigences de sécurité auxquelles doivent satisfaire les manèges, machines et installations visés à l'article 1er, le contenu et les modalités du contrôle technique ainsi que les conditions et les modalités d'agrément des organismes de contrôle technique.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2008-02-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. - Les dispositions du troisième alinéa de l'article L. 6122-9 du code de la santé publique, dans sa rédaction issue du a du 4° de l'article 1er de la présente ordonnance, entrent en vigueur après la publication du décret prévu par l'article L. 6122-20 du même code, et au plus tard le 1er mai 2018.II. - Les dispositions du a du 1° de l'article 1er de la présente ordonnance sont applicables aux autorisations ou renouvellements accordés à compter d'une date, fixée par décret, qui ne peut être postérieure au 1er janvier 2019."
+      "content": "I. - Les dispositions du troisième alinéa de l'article L. 6122-9 du code de la santé publique, dans sa rédaction issue du a du 4° de l'article 1er de la présente ordonnance, entrent en vigueur après la publication du décret prévu par l'article L. 6122-20 du même code, et au plus tard le 1er mai 2018.II. - Les dispositions du a du 1° de l'article 1er de la présente ordonnance sont applicables aux autorisations ou renouvellements accordés à compter d'une date, fixée par décret, qui ne peut être postérieure au 1er janvier 2019.",
+      "valid_from": "2018-01-05"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre et la ministre des solidarités et de la santé sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre des solidarités et de la santé sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2018-01-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

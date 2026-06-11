@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont ratifiées, telles que modifiées par les dispositions de la présente loi, les ordonnances suivantes, prises en application de la loi n° 98-145 du 6 mars 1998 portant habilitation du Gouvernement à prendre, par ordonnances, les mesures législatives nécessaires à l'actualisation et à l'adaptation du droit applicable outre-mer :\n\n- ordonnance n° 98-520 du 24 juin 1998 relative à l'action foncière, aux offices d'intervention économique dans le secteur de l'agriculture et de la pêche et à l'aide au logement dans la collectivité territoriale de Mayotte ;\n\n- ordonnance n° 98-521 du 24 juin 1998 portant extension et adaptation de règles acoustiques et thermiques en matière de construction dans les départements d'outre-mer, de règles de sécurité et d'accessibilité des bâtiments dans la collectivité territoriale de Saint-Pierre-et-Miquelon et du régime de l'épargne-logement en Nouvelle-Calédonie et en Polynésie française et modifiant le code de la construction et de l'habitation ;\n\n- ordonnance n° 98-523 du 24 juin 1998 relative au régime de la pêche maritime dans le territoire des Terres australes et antarctiques françaises ;\n\n- ordonnance n° 98-526 du 24 juin 1998 réglementant l'urbanisme commercial dans la collectivité territoriale de Mayotte ;\n\n- ordonnance n° 98-776 du 2 septembre 1998 relative à l'adhésion des chambres d'agriculture de Nouvelle-Calédonie et de Polynésie française à Chambres d'agriculture France et modifiant le code rural ;\n\n- ordonnance n° 98-777 du 2 septembre 1998 portant dispositions particulières aux cessions à titre gratuit des terres appartenant au domaine privé de l'Etat en Guyane et modifiant le code du domaine de l'Etat (partie législative)."
+      "content": "Sont ratifiées, telles que modifiées par les dispositions de la présente loi, les ordonnances suivantes, prises en application de la loi n° 98-145 du 6 mars 1998 portant habilitation du Gouvernement à prendre, par ordonnances, les mesures législatives nécessaires à l'actualisation et à l'adaptation du droit applicable outre-mer :\n\n- ordonnance n° 98-520 du 24 juin 1998 relative à l'action foncière, aux offices d'intervention économique dans le secteur de l'agriculture et de la pêche et à l'aide au logement dans la collectivité territoriale de Mayotte ;\n\n- ordonnance n° 98-521 du 24 juin 1998 portant extension et adaptation de règles acoustiques et thermiques en matière de construction dans les départements d'outre-mer, de règles de sécurité et d'accessibilité des bâtiments dans la collectivité territoriale de Saint-Pierre-et-Miquelon et du régime de l'épargne-logement en Nouvelle-Calédonie et en Polynésie française et modifiant le code de la construction et de l'habitation ;\n\n- ordonnance n° 98-523 du 24 juin 1998 relative au régime de la pêche maritime dans le territoire des Terres australes et antarctiques françaises ;\n\n- ordonnance n° 98-526 du 24 juin 1998 réglementant l'urbanisme commercial dans la collectivité territoriale de Mayotte ;\n\n- ordonnance n° 98-776 du 2 septembre 1998 relative à l'adhésion des chambres d'agriculture de Nouvelle-Calédonie et de Polynésie française à Chambres d'agriculture France et modifiant le code rural ;\n\n- ordonnance n° 98-777 du 2 septembre 1998 portant dispositions particulières aux cessions à titre gratuit des terres appartenant au domaine privé de l'Etat en Guyane et modifiant le code du domaine de l'Etat (partie législative).",
+      "valid_from": "2022-04-22"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'article 2 de l'ordonnance n° 98-520 du 24 juin 1998 précitée est abrogé."
+      "content": "L'article 2 de l'ordonnance n° 98-520 du 24 juin 1998 précitée est abrogé.",
+      "valid_from": "1999-12-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Tout possesseur d'une installation industrielle de froid exploitant cette installation soit pour son propre compte, soit pour le compte d'autrui, et dont l'installation comporte des chambres froides pouvant être utilisées pour la conservation des denrées alimentaires, devra, dans les deux mois de la promulgation de la présente loi, en faire la déclaration dans les conditions fixées par arrêté du ministre de l'agriculture.Tous les entrepôts frigorifiques établis dans le même but, postérieurement à la promulgation de la présente loi, devront faire l'objet d'une déclaration analogue avant la mise en marche de l'installation."
+      "content": "Tout possesseur d'une installation industrielle de froid exploitant cette installation soit pour son propre compte, soit pour le compte d'autrui, et dont l'installation comporte des chambres froides pouvant être utilisées pour la conservation des denrées alimentaires, devra, dans les deux mois de la promulgation de la présente loi, en faire la déclaration dans les conditions fixées par arrêté du ministre de l'agriculture.Tous les entrepôts frigorifiques établis dans le même but, postérieurement à la promulgation de la présente loi, devront faire l'objet d'une déclaration analogue avant la mise en marche de l'installation.",
+      "valid_from": "1934-07-06"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Des décrets rendus sur la proposition du ministre de l'agriculture pourront, pour chacun des produits visés à l'article 1er :1° Prescrire la déclaration temporaire ou permanente de tous les stocks existants, la déclaration, par nature de marchandises, des entrées et des sorties pendant une période déterminée ainsi que du stock restant à la fin de chacune de ces périodes ;2° Fixer les délais dans lesquels ces déclarations devront être adressées et désigner le service qui sera appelé à les enregistrer et à les vérifier ;3° Déterminer les registres que le déclarant sera obligé de tenir en vue d'un contrôle éventuel.Les fonctionnaires habilités à cet effet par le ministre de l'agriculture ont entrée dans tous les entrepôts frigorifiques visés par la présente loi. Les exploitants devront fournir, sur la demande et sans déplacement, tous renseignements utiles pour vérifier les déclarations faites."
+      "content": "Des décrets rendus sur la proposition du ministre de l'agriculture pourront, pour chacun des produits visés à l'article 1er :1° Prescrire la déclaration temporaire ou permanente de tous les stocks existants, la déclaration, par nature de marchandises, des entrées et des sorties pendant une période déterminée ainsi que du stock restant à la fin de chacune de ces périodes ;2° Fixer les délais dans lesquels ces déclarations devront être adressées et désigner le service qui sera appelé à les enregistrer et à les vérifier ;3° Déterminer les registres que le déclarant sera obligé de tenir en vue d'un contrôle éventuel.Les fonctionnaires habilités à cet effet par le ministre de l'agriculture ont entrée dans tous les entrepôts frigorifiques visés par la présente loi. Les exploitants devront fournir, sur la demande et sans déplacement, tous renseignements utiles pour vérifier les déclarations faites.",
+      "valid_from": "1934-07-06"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Toute infraction aux prescriptions de la présente loi et des décrets sera punie d'une amende de 6000 euros.\n\nEn cas de récidive, l'infraction sera punie d'une amende de 18 000 euros et d'une peine d'emprisonnement de deux ans.\n\nS'il n'a pas été procédé à la déclaration prévue au premier alinéa de l'article 1er de la présente loi, le ministre de l'agriculture pourra ordonner, par arrêté, la fermeture de l'entrepôt frigorifique."
+      "content": "Toute infraction aux prescriptions de la présente loi et des décrets sera punie d'une amende de 6000 euros.\n\nEn cas de récidive, l'infraction sera punie d'une amende de 18 000 euros et d'une peine d'emprisonnement de deux ans.\n\nS'il n'a pas été procédé à la déclaration prévue au premier alinéa de l'article 1er de la présente loi, le ministre de l'agriculture pourra ordonner, par arrêté, la fermeture de l'entrepôt frigorifique.",
+      "valid_from": "2002-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

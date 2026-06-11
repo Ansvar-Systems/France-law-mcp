@@ -12,49 +12,63 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. - La présente ordonnance s'applique aux autorités administratives régies par la loi du 12 avril 2000 susvisée, à l'exception des organes délibérants des collectivités territoriales et de leurs groupements. Elle s'applique, sauf disposition particulière les régissant, aux organismes privés chargés de la gestion d'un service public administratif.II. - Les autorités publiques et administratives indépendantes peuvent décider de recourir aux formes de délibérations collégiales à distance prévues par la présente ordonnance, dans des conditions et selon des modalités précisées par ces autorités et conformément aux règles qui les régissent.III. - Constitue un collège au sens de la présente ordonnance tout organe à caractère administratif composé de trois personnes au moins et ayant vocation à adopter des avis ou des décisions."
+      "content": "I. - La présente ordonnance s'applique aux autorités administratives régies par la loi du 12 avril 2000 susvisée, à l'exception des organes délibérants des collectivités territoriales et de leurs groupements. Elle s'applique, sauf disposition particulière les régissant, aux organismes privés chargés de la gestion d'un service public administratif.II. - Les autorités publiques et administratives indépendantes peuvent décider de recourir aux formes de délibérations collégiales à distance prévues par la présente ordonnance, dans des conditions et selon des modalités précisées par ces autorités et conformément aux règles qui les régissent.III. - Constitue un collège au sens de la présente ordonnance tout organe à caractère administratif composé de trois personnes au moins et ayant vocation à adopter des avis ou des décisions.",
+      "valid_from": "2015-01-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Sous réserve de la préservation, le cas échéant, du secret du vote, le président du collège d'une autorité mentionnée à l'article 1er peut décider qu'une délibération sera organisée au moyen d'une conférence téléphonique ou audiovisuelle."
+      "content": "Sous réserve de la préservation, le cas échéant, du secret du vote, le président du collège d'une autorité mentionnée à l'article 1er peut décider qu'une délibération sera organisée au moyen d'une conférence téléphonique ou audiovisuelle.",
+      "valid_from": "2015-01-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Sous réserve de la préservation, le cas échéant, du secret du vote, le président du collège d'une autorité mentionnée à l'article 1er peut décider qu'une délibération sera organisée par tout procédé assurant l'échange d'écrits transmis par voie électronique permettant un dialogue en ligne ou par messagerie. Les observations émises par chacun des membres sont immédiatement communiquées à l'ensemble des autres membres participants ou leur sont accessibles, de façon qu'ils puissent y répondre pendant le délai prévu pour la délibération, afin d'assurer le caractère collégial de celle-ci.Les modalités d'application de cet article sont fixées par décret en Conseil d'Etat."
+      "content": "Sous réserve de la préservation, le cas échéant, du secret du vote, le président du collège d'une autorité mentionnée à l'article 1er peut décider qu'une délibération sera organisée par tout procédé assurant l'échange d'écrits transmis par voie électronique permettant un dialogue en ligne ou par messagerie. Les observations émises par chacun des membres sont immédiatement communiquées à l'ensemble des autres membres participants ou leur sont accessibles, de façon qu'ils puissent y répondre pendant le délai prévu pour la délibération, afin d'assurer le caractère collégial de celle-ci.Les modalités d'application de cet article sont fixées par décret en Conseil d'Etat.",
+      "valid_from": "2015-01-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - La validité des délibérations organisées selon les modalités prévues aux articles 2 et 3 est subordonnée à la mise en œuvre d'un dispositif permettant l'identification des participants et au respect de la confidentialité des débats vis-à-vis des tiers.Les modalités d'enregistrement et de conservation des débats ou des échanges ainsi que les modalités selon lesquelles des tiers peuvent être entendus par le collège sont fixées par l'organe délibérant de l'autorité mentionnée à l'article 1er ou, à défaut, par le collège.II. - Sans préjudice des règles particulières de quorum applicables au collège, une délibération organisée selon les modalités prévues à l'article 3 n'est valable que si la moitié au moins des membres du collège y ont effectivement participé."
+      "content": "I. - La validité des délibérations organisées selon les modalités prévues aux articles 2 et 3 est subordonnée à la mise en œuvre d'un dispositif permettant l'identification des participants et au respect de la confidentialité des débats vis-à-vis des tiers.Les modalités d'enregistrement et de conservation des débats ou des échanges ainsi que les modalités selon lesquelles des tiers peuvent être entendus par le collège sont fixées par l'organe délibérant de l'autorité mentionnée à l'article 1er ou, à défaut, par le collège.II. - Sans préjudice des règles particulières de quorum applicables au collège, une délibération organisée selon les modalités prévues à l'article 3 n'est valable que si la moitié au moins des membres du collège y ont effectivement participé.",
+      "valid_from": "2015-01-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Une délibération ne peut pas être organisée selon les modalités prévues à l'article 3 lorsque le collège est saisi dans le cadre d'une procédure de sanction."
+      "content": "Une délibération ne peut pas être organisée selon les modalités prévues à l'article 3 lorsque le collège est saisi dans le cadre d'une procédure de sanction.",
+      "valid_from": "2015-01-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Des décrets peuvent, aux fins de bonne administration, prévoir que l'article 3 ne s'applique pas à certaines procédures ou aux collèges des autorités de l'Etat mentionnées au I de l'article 1er."
+      "content": "Des décrets peuvent, aux fins de bonne administration, prévoir que l'article 3 ne s'applique pas à certaines procédures ou aux collèges des autorités de l'Etat mentionnées au I de l'article 1er.",
+      "valid_from": "2015-01-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La présente ordonnance entre en vigueur le 1er janvier 2015.Elle est applicable aux administrations de l'Etat et aux établissements publics relevant des collectivités territoriales autres que la Nouvelle-Calédonie et les collectivités de l'article 74 de la Constitution, sur l'ensemble du territoire de la République."
+      "content": "La présente ordonnance entre en vigueur le 1er janvier 2015.Elle est applicable aux administrations de l'Etat et aux établissements publics relevant des collectivités territoriales autres que la Nouvelle-Calédonie et les collectivités de l'article 74 de la Constitution, sur l'ensemble du territoire de la République.",
+      "valid_from": "2015-01-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le Premier ministre, la ministre des outre-mer et le secrétaire d'Etat chargé de la réforme de l'Etat et de la simplification sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre des outre-mer et le secrétaire d'Etat chargé de la réforme de l'Etat et de la simplification sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2015-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

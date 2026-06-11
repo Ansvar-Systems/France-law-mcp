@@ -12,25 +12,35 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. et II. - (paragraphes modificateurs).III. - Les dispositions prévues aux I et II du présent article s'appliquent aux terrains pour lesquels la réussite de l'opération de régénération naturelle ou l'état de futaie irrégulière en équilibre de régénération sont déclarés à compter de la date de publication de la présente ordonnance."
+      "content": "I. et II. - (paragraphes modificateurs).III. - Les dispositions prévues aux I et II du présent article s'appliquent aux terrains pour lesquels la réussite de l'opération de régénération naturelle ou l'état de futaie irrégulière en équilibre de régénération sont déclarés à compter de la date de publication de la présente ordonnance.",
+      "valid_from": "2005-05-27"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "L'article 17 de la loi n° 2001-6 du 4 janvier 2001 portant diverses dispositions d'adaptation au droit communautaire en matière de santé des animaux et de qualité sanitaire des denrées d'origine animale et modifiant le code rural est abrogé."
+      "content": "L'article 17 de la loi n° 2001-6 du 4 janvier 2001 portant diverses dispositions d'adaptation au droit communautaire en matière de santé des animaux et de qualité sanitaire des denrées d'origine animale et modifiant le code rural est abrogé.",
+      "valid_from": "2005-05-27"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "I. - Le comité interprofessionnel des vins doux naturels créé par la loi du 2 avril 1943 susvisée, le conseil interprofessionnel des vins d'Anjou et de Saumur créé par la loi du 16 juillet 1952 susvisée, le comité interprofessionnel des vins des Côtes de Provence créé par la loi du 28 juin 1956 susvisée, ainsi que le comité interprofessionnel des vins de Gaillac créé par le décret du 25 septembre 1959 susvisé validé par la loi du 7 juillet 1977 susvisée sont dissous et liquidés selon des modalités fixées par un arrêté conjoint des ministres chargés de l'agriculture, de l'économie et du budget.\n\nII. - Les boni issus de la liquidation du patrimoine des comités et du conseil susmentionnés, y compris ceux acquis au moyen de taxes parafiscales, peuvent être dévolus à un organisme tiers du secteur vitivinicole par arrêté conjoint des ministres chargés de l'agriculture, de l'économie et du budget.\n\nIII. - Sont abrogés à l'issue de la dissolution et de la liquidation des comités et du conseil qu'ils créent :\n\n- la loi n° 200 du 12 avril 1943 portant création du comité interprofessionnel des vins doux naturels ;\n\n- la loi n° 52-826 du 16 juillet 1952 portant création du conseil interprofessionnel des vins d'Anjou et de Saumur ;\n\n- la loi n° 56-627 du 28 juin 1956 créant un comité interprofessionnel des vins des Côtes de Provence ;\n\n- le décret du 25 septembre 1959 créant un comité interprofessionnel des vins de Gaillac validé par la loi n° 77-731 du 7 juillet 1977 portant validation de divers décrets instituant des organismes professionnels ou interprofessionnels."
+      "content": "I. - Le comité interprofessionnel des vins doux naturels créé par la loi du 2 avril 1943 susvisée, le conseil interprofessionnel des vins d'Anjou et de Saumur créé par la loi du 16 juillet 1952 susvisée, le comité interprofessionnel des vins des Côtes de Provence créé par la loi du 28 juin 1956 susvisée, ainsi que le comité interprofessionnel des vins de Gaillac créé par le décret du 25 septembre 1959 susvisé validé par la loi du 7 juillet 1977 susvisée sont dissous et liquidés selon des modalités fixées par un arrêté conjoint des ministres chargés de l'agriculture, de l'économie et du budget.\n\nII. - Les boni issus de la liquidation du patrimoine des comités et du conseil susmentionnés, y compris ceux acquis au moyen de taxes parafiscales, peuvent être dévolus à un organisme tiers du secteur vitivinicole par arrêté conjoint des ministres chargés de l'agriculture, de l'économie et du budget.\n\nIII. - Sont abrogés à l'issue de la dissolution et de la liquidation des comités et du conseil qu'ils créent :\n\n- la loi n° 200 du 12 avril 1943 portant création du comité interprofessionnel des vins doux naturels ;\n\n- la loi n° 52-826 du 16 juillet 1952 portant création du conseil interprofessionnel des vins d'Anjou et de Saumur ;\n\n- la loi n° 56-627 du 28 juin 1956 créant un comité interprofessionnel des vins des Côtes de Provence ;\n\n- le décret du 25 septembre 1959 créant un comité interprofessionnel des vins de Gaillac validé par la loi n° 77-731 du 7 juillet 1977 portant validation de divers décrets instituant des organismes professionnels ou interprofessionnels.",
+      "valid_from": "2009-05-14"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie, le ministre de l'agriculture, de l'alimentation, de la pêche et de la ruralité et la ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie, le ministre de l'agriculture, de l'alimentation, de la pêche et de la ruralité et la ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2005-05-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

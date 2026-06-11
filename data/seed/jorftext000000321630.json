@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions du titre Ier du livre IV et du livre V du Code de la santé publique sont modifiées conformément aux dispositions des articles suivants."
+      "content": "Les dispositions du titre Ier du livre IV et du livre V du Code de la santé publique sont modifiées conformément aux dispositions des articles suivants.",
+      "valid_from": "1971-12-25"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Par dérogation aux dispositions de l'article L. 356 du Code de la santé publique, les personnes titulaires du diplôme d'État de chirurgien-dentiste à la date de promulgation de la présente loi et celles qui obtiennent ce diplôme jusqu'à une date qui sera fixée par voie réglementaire pourront exercer l'art dentaire au même titre que les docteurs en chirurgie dentaire.Les dispositions du premier alinéa de l'article L. 378 du même code sont applicables à l'usurpation du titre de chirurgien-dentiste.Un décret fixera les conditions selon lesquelles les personnes titulaires du diplôme d'Etat de chirurgien-dentiste pourront postuler le diplôme d'Etat de docteur en chirurgie dentaire."
+      "content": "Par dérogation aux dispositions de l'article L. 356 du Code de la santé publique, les personnes titulaires du diplôme d'État de chirurgien-dentiste à la date de promulgation de la présente loi et celles qui obtiennent ce diplôme jusqu'à une date qui sera fixée par voie réglementaire pourront exercer l'art dentaire au même titre que les docteurs en chirurgie dentaire.Les dispositions du premier alinéa de l'article L. 378 du même code sont applicables à l'usurpation du titre de chirurgien-dentiste.Un décret fixera les conditions selon lesquelles les personnes titulaires du diplôme d'Etat de chirurgien-dentiste pourront postuler le diplôme d'Etat de docteur en chirurgie dentaire.",
+      "valid_from": "1971-12-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

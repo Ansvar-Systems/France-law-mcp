@@ -12,13 +12,21 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La présente ordonnance entre en vigueur le premier jour du mois suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif immobilier."
+      "content": "La présente ordonnance entre en vigueur le premier jour du mois suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif immobilier.",
+      "valid_from": "2007-06-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2007-06-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

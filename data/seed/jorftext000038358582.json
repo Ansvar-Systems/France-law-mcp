@@ -12,19 +12,28 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2019-780 DC du 4 avril 2019.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2019-780 DC du 4 avril 2019.]",
+      "valid_from": "2019-04-12"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le présent chapitre est soumis à évaluation annuelle de ses résultats par le Parlement.L'Assemblée nationale et le Sénat peuvent requérir toute information dans le cadre du contrôle et de l'évaluation de ces mesures.Le Gouvernement adresse chaque année au Parlement un rapport détaillé sur l'application des dispositions."
+      "content": "Le présent chapitre est soumis à évaluation annuelle de ses résultats par le Parlement.L'Assemblée nationale et le Sénat peuvent requérir toute information dans le cadre du contrôle et de l'évaluation de ces mesures.Le Gouvernement adresse chaque année au Parlement un rapport détaillé sur l'application des dispositions.",
+      "valid_from": "2019-04-12"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "I., II. et IV.-A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIII.-Au premier alinéa des articles L. 285-1, L. 286-1 et L. 287-1 du code de la sécurité intérieure, la référence : \" n° 2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre le terrorisme \" est remplacée par la référence : \" n° 2019-290 du 10 avril 2019 visant à renforcer et garantir le maintien de l'ordre public lors des manifestations \".La présente loi sera exécutée comme loi de l'Etat.\n\n-Code pénal\n\n-Code de procédure pénale\n\n-Code de la sécurité intérieure"
+      "content": "I., II. et IV.-A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nIII.-Au premier alinéa des articles L. 285-1, L. 286-1 et L. 287-1 du code de la sécurité intérieure, la référence : \" n° 2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre le terrorisme \" est remplacée par la référence : \" n° 2019-290 du 10 avril 2019 visant à renforcer et garantir le maintien de l'ordre public lors des manifestations \".La présente loi sera exécutée comme loi de l'Etat.\n\n-Code pénal\n\n-Code de procédure pénale\n\n-Code de la sécurité intérieure",
+      "valid_from": "2019-04-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

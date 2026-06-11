@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les écoles de ski réunissant des moniteurs de ski exerçant à titre indépendant peuvent instituer un dispositif de réduction d'activité des moniteurs ayant atteint l'âge d'ouverture du droit à une pension de retraite en application de l'article L. 161-17-2 du code de la sécurité sociale, afin de favoriser l'insertion professionnelle des jeunes moniteurs de ski diplômés.La redistribution d'activité résultant de la mise en œuvre de ce dispositif bénéficie exclusivement aux moniteurs âgés de moins de trente ans exerçant en continuité sur la saison."
+      "content": "Les écoles de ski réunissant des moniteurs de ski exerçant à titre indépendant peuvent instituer un dispositif de réduction d'activité des moniteurs ayant atteint l'âge d'ouverture du droit à une pension de retraite en application de l'article L. 161-17-2 du code de la sécurité sociale, afin de favoriser l'insertion professionnelle des jeunes moniteurs de ski diplômés.La redistribution d'activité résultant de la mise en œuvre de ce dispositif bénéficie exclusivement aux moniteurs âgés de moins de trente ans exerçant en continuité sur la saison.",
+      "valid_from": "2014-05-28"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. ― Le dispositif mentionné à l'article 1er doit respecter les règles suivantes :1° Pour les moniteurs ayant atteint l'âge d'ouverture du droit à une pension de retraite souhaitant poursuivre leur activité, la réduction ne peut excéder, pendant une période initiale de trois années, 30 % de l'activité à laquelle ils pourraient normalement prétendre en fonction des règles de répartition établies par l'école de ski ;2° Pour les moniteurs ayant exercé leur activité durant trois années au-delà de l'âge d'ouverture du droit à une pension de retraite souhaitant poursuivre leur activité, la réduction ne peut excéder, pendant les deux années suivantes, 50 % de l'activité à laquelle ils pourraient normalement prétendre ;3° Le dispositif de réduction d'activité garantit aux moniteurs mentionnés aux 1° et 2° un nombre d'heures d'activité qui leur permette de valider au moins deux trimestres d'assurance vieillesse par an dans leur régime de retraite de base ;4° La redistribution d'activité garantit aux moniteurs âgés de moins de trente ans un nombre d'heures d'activité qui leur permette de valider au moins deux trimestres d'assurance vieillesse par an dans leur régime de retraite de base ;5° En tant que de besoin, il peut être fait appel aux moniteurs ayant exercé leur activité durant cinq années au-delà de l'âge d'ouverture du droit à une pension de retraite souhaitant poursuivre leur activité.II. ― Aucune réduction ne s'applique à l'activité des moniteurs de ski faisant suite à une sollicitation à titre personnel par la clientèle soit directement, soit par l'intermédiaire de l'école de ski à laquelle ils appartiennent."
+      "content": "I. ― Le dispositif mentionné à l'article 1er doit respecter les règles suivantes :1° Pour les moniteurs ayant atteint l'âge d'ouverture du droit à une pension de retraite souhaitant poursuivre leur activité, la réduction ne peut excéder, pendant une période initiale de trois années, 30 % de l'activité à laquelle ils pourraient normalement prétendre en fonction des règles de répartition établies par l'école de ski ;2° Pour les moniteurs ayant exercé leur activité durant trois années au-delà de l'âge d'ouverture du droit à une pension de retraite souhaitant poursuivre leur activité, la réduction ne peut excéder, pendant les deux années suivantes, 50 % de l'activité à laquelle ils pourraient normalement prétendre ;3° Le dispositif de réduction d'activité garantit aux moniteurs mentionnés aux 1° et 2° un nombre d'heures d'activité qui leur permette de valider au moins deux trimestres d'assurance vieillesse par an dans leur régime de retraite de base ;4° La redistribution d'activité garantit aux moniteurs âgés de moins de trente ans un nombre d'heures d'activité qui leur permette de valider au moins deux trimestres d'assurance vieillesse par an dans leur régime de retraite de base ;5° En tant que de besoin, il peut être fait appel aux moniteurs ayant exercé leur activité durant cinq années au-delà de l'âge d'ouverture du droit à une pension de retraite souhaitant poursuivre leur activité.II. ― Aucune réduction ne s'applique à l'activité des moniteurs de ski faisant suite à une sollicitation à titre personnel par la clientèle soit directement, soit par l'intermédiaire de l'école de ski à laquelle ils appartiennent.",
+      "valid_from": "2014-05-28"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Jusqu'au 1er janvier 2017 :\n\n1° Pour l'application du premier alinéa de l'article 1er, les mots :  d'ouverture du droit à une pension de retraite en application de l'article L. 161-17-2 du code de la sécurité sociale    sont remplacés par  les mots :  de 62 ans  ;\n\n2° Pour l'application des 1°, 2° et 5° du I de l'article 2, les mots :  d'ouverture du droit à une pension de retraite   sont remplacés par les mots :  de 62 ans ."
+      "content": "Jusqu'au 1er janvier 2017 :\n\n1° Pour l'application du premier alinéa de l'article 1er, les mots :  d'ouverture du droit à une pension de retraite en application de l'article L. 161-17-2 du code de la sécurité sociale    sont remplacés par  les mots :  de 62 ans  ;\n\n2° Pour l'application des 1°, 2° et 5° du I de l'article 2, les mots :  d'ouverture du droit à une pension de retraite   sont remplacés par les mots :  de 62 ans .",
+      "valid_from": "2014-05-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -9,10 +9,41 @@
   "description": null,
   "provisions": [
     {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14",
+      "content": "VI. ―  Un décret en Conseil d'Etat fixe les conditions d'application du  présent article, en particulier les seuils mentionnés au I, le contenu,  la nature et la quote-part maximale allouée aux programmes  d'information, de formation et d'innovation, les conditions et les  modalités de fixation des obligations d'économies d'énergie, en fonction  du type d'énergie considéré, des catégories de clients et du volume de  l'activité.",
+      "valid_from": "2010-07-14",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Article 90",
+      "content": "Le ministre chargé de l'énergie fixe les conditions selon lesquelles toute personne physique ou morale qui produit, transporte, distribue, importe, stocke, exporte ou fournit de l'énergie lui adresse les données relatives à son activité qui sont nécessaires :\n\n-à l'application de la présente loi ;\n\n-à l'établissement de statistiques aux fins d'élaboration de la politique énergétique ;\n\n-à l'information des organismes spécialisés, dans le cadre des engagements internationaux de la France.\n\nLes agents chargés de recueillir et d'exploiter ces données sont tenus au secret professionnel.\n\nLes informations sont recueillies sans préjudice des dispositions des articles L. 311-5 à L. 311-8 du code des relations entre le public et l'administration.",
+      "valid_from": "2016-01-01",
+      "valid_to": "2222-02-22"
+    },
+    {
       "provision_ref": "art92",
       "section": "92",
       "title": "Article 92",
-      "content": "Est passible des sanctions prévues aux articles 322-1 et 322-2 du code pénal le fait de porter atteinte volontairement au bon fonctionnement des ouvrages et installations de distribution ou de transport de gaz naturel, aux installations de stockage souterrain de gaz, aux installations de gaz naturel liquéfié ou aux ouvrages et installations de distribution ou de transport d'hydrocarbures liquides et liquéfiés ou de produits chimiques."
+      "content": "Est passible des sanctions prévues aux articles 322-1 et 322-2 du code pénal le fait de porter atteinte volontairement au bon fonctionnement des ouvrages et installations de distribution ou de transport de gaz naturel, aux installations de stockage souterrain de gaz, aux installations de gaz naturel liquéfié ou aux ouvrages et installations de distribution ou de transport d'hydrocarbures liquides et liquéfiés ou de produits chimiques.",
+      "valid_from": "2005-07-14"
+    },
+    {
+      "provision_ref": "art93",
+      "section": "93",
+      "title": "Article 93",
+      "content": "Le ministre chargé de l'énergie peut interdire l'exploitation ou exiger le remplacement ou le retrait de réseaux ou éléments de réseaux de transport ou de distribution du gaz qui ne présenteraient pas de garanties suffisantes en matière de sécurité pour les personnes et les biens dans les conditions normales d'exploitation ou d'utilisation.En cas de non-respect de ces mesures, les dispositions prévues à l'article 23 et au II de l'article 31 de la loi n° 2003-8 du 3 janvier 2003 précitée sont applicables.",
+      "valid_from": "2005-07-14",
+      "valid_to": "2222-02-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, la vente forcée des immeubles compris dans le patrimoine d'un débiteur dont la liquidation des biens a été prononcée par décision de justice a lieu suivant les formes prescrites dans ces départements pour les ventes de biens de mineurs."
+      "content": "Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, la vente forcée des immeubles compris dans le patrimoine d'un débiteur dont la liquidation des biens a été prononcée par décision de justice a lieu suivant les formes prescrites dans ces départements pour les ventes de biens de mineurs.",
+      "valid_from": "1975-12-30"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les ventes forcées d'immeubles mentionnées à l'article 1er et effectuées dans ces mêmes départements depuis le 1er janvier 1968 sont réputées l'avoir été conformément aux dispositions de l'article 84 de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes."
+      "content": "Les ventes forcées d'immeubles mentionnées à l'article 1er et effectuées dans ces mêmes départements depuis le 1er janvier 1968 sont réputées l'avoir été conformément aux dispositions de l'article 84 de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes.",
+      "valid_from": "1975-12-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

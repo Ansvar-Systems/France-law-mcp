@@ -12,13 +12,21 @@
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "La présente ordonnance entre en vigueur à une date fixée par décret et au plus tard le 1er juillet 2018.\n\nElle s'applique aux contrats d'assurance prévus à l'article L. 211-1 du code des assurances qui sont conclus ou renouvelés à compter de sa date d'entrée en vigueur.\n\nElle s'applique aux contrats d'assurance prévus à l'article L. 242-1 du code des assurances en cours à sa date d'entrée en vigueur et à ceux conclus à compter de cette même date, pour tout dommage ayant pour effet d'entraîner la garantie de ces contrats et non encore réglé par la société en liquidation."
+      "content": "La présente ordonnance entre en vigueur à une date fixée par décret et au plus tard le 1er juillet 2018.\n\nElle s'applique aux contrats d'assurance prévus à l'article L. 211-1 du code des assurances qui sont conclus ou renouvelés à compter de sa date d'entrée en vigueur.\n\nElle s'applique aux contrats d'assurance prévus à l'article L. 242-1 du code des assurances en cours à sa date d'entrée en vigueur et à ceux conclus à compter de cette même date, pour tout dommage ayant pour effet d'entraîner la garantie de ces contrats et non encore réglé par la société en liquidation.",
+      "valid_from": "2022-01-01"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Le Premier ministre, la ministre des solidarités et de la santé et le ministre de l'économie et des finances sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre des solidarités et de la santé et le ministre de l'économie et des finances sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2018-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,25 +12,35 @@
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "Restent à la charge de l'Etat les prestations de toute nature qu'il fournit actuellement au fonctionnement des services mis à la disposition de la collectivité territoriale en tant que de besoin, ainsi qu'aux agents de ces services. Dans les mêmes conditions, restent à la charge de la collectivité territoriale les prestations de toute nature, y compris celles relatives à l'entretien et à l'acquisition des matériels, qu'elle fournit actuellement au fonctionnement des services extérieurs de l'Etat ainsi qu'à leurs agents.Lorsque ces participations entraînent l'inscription de crédits au budget de l'Etat, titres III et IV, et à la section de fonctionnement du budget de la collectivité territoriale, le montant de ceux-ci doit être, pour la première année, au moins égal à la moyenne des crédits engagés sur les budgets des trois dernières années à l'exclusion de toutes dépenses engagées à titre exceptionnel. Pour les années ultérieures, la progression annuelle de ces crédits ne peut être inférieure au taux de progression de la dotation globale de fonctionnement des départements.Pour l'application du premier alinéa du présent article, les biens de l'Etat affectés à la date d'entrée en vigueur de la présente loi au fonctionnement des services de la collectivité territoriale et les biens de la collectivité territoriale affectés à la même date au fonctionnement des services de l'Etat conservent leur affectation, sauf accord contraire du représentant de l'Etat et du président du conseil général."
+      "content": "Restent à la charge de l'Etat les prestations de toute nature qu'il fournit actuellement au fonctionnement des services mis à la disposition de la collectivité territoriale en tant que de besoin, ainsi qu'aux agents de ces services. Dans les mêmes conditions, restent à la charge de la collectivité territoriale les prestations de toute nature, y compris celles relatives à l'entretien et à l'acquisition des matériels, qu'elle fournit actuellement au fonctionnement des services extérieurs de l'Etat ainsi qu'à leurs agents.Lorsque ces participations entraînent l'inscription de crédits au budget de l'Etat, titres III et IV, et à la section de fonctionnement du budget de la collectivité territoriale, le montant de ceux-ci doit être, pour la première année, au moins égal à la moyenne des crédits engagés sur les budgets des trois dernières années à l'exclusion de toutes dépenses engagées à titre exceptionnel. Pour les années ultérieures, la progression annuelle de ces crédits ne peut être inférieure au taux de progression de la dotation globale de fonctionnement des départements.Pour l'application du premier alinéa du présent article, les biens de l'Etat affectés à la date d'entrée en vigueur de la présente loi au fonctionnement des services de la collectivité territoriale et les biens de la collectivité territoriale affectés à la même date au fonctionnement des services de l'Etat conservent leur affectation, sauf accord contraire du représentant de l'Etat et du président du conseil général.",
+      "valid_from": "1992-02-08"
     },
     {
       "provision_ref": "art40",
       "section": "40",
       "title": "Article 40",
-      "content": "Les fonctionnaires des corps de fonctionnaires de l'Etat créés pour l'administration de Saint-Pierre-et-Miquelon, en application de la loi n° 74-640 du 12 juillet 1974 relative à la création de corps de fonctionnaires de l'Etat pour l'administration de Saint-Pierre-et-Miquelon, sont intégrés dans les corps métropolitains correspondants de l'Etat, dans les conditions fixées par des décrets en Conseil d'Etat. Sauf option contraire des intéressés dans un délai d'un an à compter de la publication des décrets précités, ces intégrations prennent effet à l'entrée en vigueur de la présente loi.    Sous réserve des dispositions de l'alinéa précédent, les fonctionnaires de l'Etat conservent leur statut."
+      "content": "Les fonctionnaires des corps de fonctionnaires de l'Etat créés pour l'administration de Saint-Pierre-et-Miquelon, en application de la loi n° 74-640 du 12 juillet 1974 relative à la création de corps de fonctionnaires de l'Etat pour l'administration de Saint-Pierre-et-Miquelon, sont intégrés dans les corps métropolitains correspondants de l'Etat, dans les conditions fixées par des décrets en Conseil d'Etat. Sauf option contraire des intéressés dans un délai d'un an à compter de la publication des décrets précités, ces intégrations prennent effet à l'entrée en vigueur de la présente loi.    Sous réserve des dispositions de l'alinéa précédent, les fonctionnaires de l'Etat conservent leur statut.",
+      "valid_from": "1985-06-14"
     },
     {
       "provision_ref": "art43",
       "section": "43",
       "title": "Article 43",
-      "content": "L'ensemble des biens, droits et obligations du département est transféré à la nouvelle collectivité territoriale."
+      "content": "L'ensemble des biens, droits et obligations du département est transféré à la nouvelle collectivité territoriale.",
+      "valid_from": "1985-06-14"
     },
     {
       "provision_ref": "art51",
       "section": "51",
       "title": "Article 51",
-      "content": "La loi n° 76-664 du 19 juillet 1976 relative à l'organisation de Saint-Pierre-et-Miquelon est abrogée."
+      "content": "La loi n° 76-664 du 19 juillet 1976 relative à l'organisation de Saint-Pierre-et-Miquelon est abrogée.",
+      "valid_from": "1985-06-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

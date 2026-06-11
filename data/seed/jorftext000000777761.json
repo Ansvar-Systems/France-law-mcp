@@ -12,19 +12,28 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "A compter au plus tard de la date du transfert au secteur privé de la majorité du capital de la société Air France, des négociations sont engagées par celle-ci avec les organisations syndicales représentatives des salariés à l'effet de conclure la convention ou les accords d'entreprise devant se substituer aux dispositions portant statut du personnel prises en vertu des dispositions du code de l'aviation civile.Les dispositions portant statut du personnel en vigueur à la date du transfert au secteur privé de la majorité du capital continuent de s'appliquer à la société Air France jusqu'à la date d'entrée en vigueur de la convention ou des accords mentionnés au premier alinéa, et au plus pendant un délai de deux ans à compter du transfert au secteur privé de la majorité du capital. Les dispositions de l'article L. 351-4 du code du travail ne s'appliquent à la société Air France qu'à partir de la même date ou, à défaut de convention ou d'accords, à l'expiration d'un délai de deux ans à compter dudit transfert. Jusqu'alors continuent de s'appliquer les dispositions de l'article L. 351-12 dudit code."
+      "content": "A compter au plus tard de la date du transfert au secteur privé de la majorité du capital de la société Air France, des négociations sont engagées par celle-ci avec les organisations syndicales représentatives des salariés à l'effet de conclure la convention ou les accords d'entreprise devant se substituer aux dispositions portant statut du personnel prises en vertu des dispositions du code de l'aviation civile.Les dispositions portant statut du personnel en vigueur à la date du transfert au secteur privé de la majorité du capital continuent de s'appliquer à la société Air France jusqu'à la date d'entrée en vigueur de la convention ou des accords mentionnés au premier alinéa, et au plus pendant un délai de deux ans à compter du transfert au secteur privé de la majorité du capital. Les dispositions de l'article L. 351-4 du code du travail ne s'appliquent à la société Air France qu'à partir de la même date ou, à défaut de convention ou d'accords, à l'expiration d'un délai de deux ans à compter dudit transfert. Jusqu'alors continuent de s'appliquer les dispositions de l'article L. 351-12 dudit code.",
+      "valid_from": "2003-04-10"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Pour l'application à la société Air France de l'article 8-1 de la loi n° 86-912 du 6 août 1986 relative aux modalités des privatisations, les statuts de cette société peuvent prévoir que la représentation des salariés et des salariés actionnaires au conseil d'administration ou, selon le cas, au conseil de surveillance est celle prévue par l'article L. 342-3 du code de l'aviation civile dans sa rédaction issue de l'article 2 de la présente loi.Lors du transfert au secteur privé de la majorité du capital de la société Air France, les membres ainsi que le président du conseil d'administration de cette société restent en fonction jusqu'à l'issue de la réunion de la première assemblée générale des actionnaires postérieure à ce transfert. L'assemblée générale des actionnaires est convoquée dans les deux mois suivant le transfert.Toutefois, les administrateurs de la société Air France élus par les salariés et les administrateurs représentant les salariés actionnaires restent en fonction jusqu'à l'élection ou la désignation, selon le cas, des nouveaux administrateurs, conformément aux dispositions de l'article L. 342-3 du code de l'aviation civile dans sa rédaction issue de l'article 2 de la présente loi. Cette élection et cette désignation interviennent dans un délai maximum de six mois suivant le transfert au secteur privé de la majorité du capital de la société."
+      "content": "Pour l'application à la société Air France de l'article 8-1 de la loi n° 86-912 du 6 août 1986 relative aux modalités des privatisations, les statuts de cette société peuvent prévoir que la représentation des salariés et des salariés actionnaires au conseil d'administration ou, selon le cas, au conseil de surveillance est celle prévue par l'article L. 342-3 du code de l'aviation civile dans sa rédaction issue de l'article 2 de la présente loi.Lors du transfert au secteur privé de la majorité du capital de la société Air France, les membres ainsi que le président du conseil d'administration de cette société restent en fonction jusqu'à l'issue de la réunion de la première assemblée générale des actionnaires postérieure à ce transfert. L'assemblée générale des actionnaires est convoquée dans les deux mois suivant le transfert.Toutefois, les administrateurs de la société Air France élus par les salariés et les administrateurs représentant les salariés actionnaires restent en fonction jusqu'à l'élection ou la désignation, selon le cas, des nouveaux administrateurs, conformément aux dispositions de l'article L. 342-3 du code de l'aviation civile dans sa rédaction issue de l'article 2 de la présente loi. Cette élection et cette désignation interviennent dans un délai maximum de six mois suivant le transfert au secteur privé de la majorité du capital de la société.",
+      "valid_from": "2003-04-10"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "I. (Paragraphe modificateur)II. - Les dispositions de l'article 2 de la présente loi entrent en vigueur à la date du transfert au secteur privé de la majorité du capital de la société Air France.Les articles L. 341-1, L. 342-1 et L. 342-2 du code de l'aviation civile sont abrogés à cette même date."
+      "content": "I. (Paragraphe modificateur)II. - Les dispositions de l'article 2 de la présente loi entrent en vigueur à la date du transfert au secteur privé de la majorité du capital de la société Air France.Les articles L. 341-1, L. 342-1 et L. 342-2 du code de l'aviation civile sont abrogés à cette même date.",
+      "valid_from": "2003-04-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

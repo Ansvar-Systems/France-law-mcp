@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les 1° et 4° de l'article 1er entrent en vigueur le 1er janvier 2025."
+      "content": "Les 1° et 4° de l'article 1er entrent en vigueur le 1er janvier 2025.",
+      "valid_from": "2024-05-23"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le 5° de l'article 1er ne s'applique pas au mandat de président du conseil d'administration de la société Orano en cours à la date de publication de la présente loi.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Le 5° de l'article 1er ne s'applique pas au mandat de président du conseil d'administration de la société Orano en cours à la date de publication de la présente loi.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2024-05-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

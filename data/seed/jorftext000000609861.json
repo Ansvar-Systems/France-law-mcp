@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le titre Ier et le titre VI du livre IV du code rural sont modifiés conformément aux articles 2 à 14 de la présente ordonnance."
+      "content": "Le titre Ier et le titre VI du livre IV du code rural sont modifiés conformément aux articles 2 à 14 de la présente ordonnance.",
+      "valid_from": "2006-07-14"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Les dispositions de la présente ordonnance sont applicables aux baux en cours à la date de sa publication à l'exception du III de l'article 11 complétant l'article L. 416-3 du code rural qui n'est applicable qu'aux baux conclus ou renouvelés à compter de sa publication."
+      "content": "Les dispositions de la présente ordonnance sont applicables aux baux en cours à la date de sa publication à l'exception du III de l'article 11 complétant l'article L. 416-3 du code rural qui n'est applicable qu'aux baux conclus ou renouvelés à compter de sa publication.",
+      "valid_from": "2006-07-14"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, et le ministre de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, et le ministre de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2006-07-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

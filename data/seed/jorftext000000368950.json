@@ -12,25 +12,35 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978.Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de recensement.Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont considérés comme dispensés de leurs obligations du service national."
+      "content": "Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978.Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de recensement.Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont considérés comme dispensés de leurs obligations du service national.",
+      "valid_from": "2003-06-07"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "VII. 3° Les articles L. 12 et L. 13 sont abrogés ;VIII. - L'article L. 30 est abrogé.XII. - 1° L'article L. 66 est abrogé ;"
+      "content": "VII. 3° Les articles L. 12 et L. 13 sont abrogés ;VIII. - L'article L. 30 est abrogé.XII. - 1° L'article L. 66 est abrogé ;",
+      "valid_from": "1997-11-08"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Une loi ultérieure définira les conditions d'exécution des volontariats civils mentionnés à l'article L. 111-3 du code du service national."
+      "content": "Une loi ultérieure définira les conditions d'exécution des volontariats civils mentionnés à l'article L. 111-3 du code du service national.",
+      "valid_from": "1997-11-08"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les dispositions de la présente loi, à l'exception de son article 4, sont applicables aux territoires d'outre-mer et à Mayotte."
+      "content": "Les dispositions de la présente loi, à l'exception de son article 4, sont applicables aux territoires d'outre-mer et à Mayotte.",
+      "valid_from": "2001-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

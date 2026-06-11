@@ -12,19 +12,28 @@
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "Dans un délai d'un an à compter de la publication de la présente loi, la Commission nationale de l'informatique et des libertés remettra un rapport au Parlement sur les différents dispositifs mis en place concernant les échanges d'informations relatifs à la situation des personnes bénéficiant de prestations versées sous condition de ressources ou délivrées par les organismes d'indemnisation du chômage, les abus éventuellement constatés et les mesures propres à sauvegarder la vie privée des intéressés."
+      "content": "Dans un délai d'un an à compter de la publication de la présente loi, la Commission nationale de l'informatique et des libertés remettra un rapport au Parlement sur les différents dispositifs mis en place concernant les échanges d'informations relatifs à la situation des personnes bénéficiant de prestations versées sous condition de ressources ou délivrées par les organismes d'indemnisation du chômage, les abus éventuellement constatés et les mesures propres à sauvegarder la vie privée des intéressés.",
+      "valid_from": "1992-07-30"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "I. - (Modificateur)\n\nII. - Les dispositions du présent article sont applicables aux ruptures de contrat de travail notifiées à partir du 10 juin 1992 et jusqu'au 31 juillet 1992."
+      "content": "I. - (Modificateur)\n\nII. - Les dispositions du présent article sont applicables aux ruptures de contrat de travail notifiées à partir du 10 juin 1992 et jusqu'au 31 juillet 1992.",
+      "valid_from": "1992-07-30"
     },
     {
       "provision_ref": "art33",
       "section": "33",
       "title": "Article 33",
-      "content": "Les dispositions de la présente loi, à l'exception de celles des articles 20, 21, 22, 24, 25, 26, 27, 28, 29, 30 et 31 entreront en vigueur le 1er janvier 1993."
+      "content": "Les dispositions de la présente loi, à l'exception de celles des articles 20, 21, 22, 24, 25, 26, 27, 28, 29, 30 et 31 entreront en vigueur le 1er janvier 1993.",
+      "valid_from": "1993-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

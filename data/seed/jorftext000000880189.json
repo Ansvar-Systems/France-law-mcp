@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le régime des autoroutes, institué par la présente loi, s'applique aux voies routières à la destination spéciale, sans croisements, accessibles seulement en des points aménagés à cet effet et essentiellement réservées aux véhicules à propulsions mécaniques."
+      "content": "Le régime des autoroutes, institué par la présente loi, s'applique aux voies routières à la destination spéciale, sans croisements, accessibles seulement en des points aménagés à cet effet et essentiellement réservées aux véhicules à propulsions mécaniques.",
+      "valid_from": "1973-10-24"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les autoroutes font partie du domaine public de l'Etat.Les lois et règlements sur la grande voirie qui ont pour objet d'assurer la conservation du domaine public national leur sont applicables."
+      "content": "Les autoroutes font partie du domaine public de l'Etat.Les lois et règlements sur la grande voirie qui ont pour objet d'assurer la conservation du domaine public national leur sont applicables.",
+      "valid_from": "1955-04-20"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les propriétés limitrophes des autoroutes ne jouissent pas du droit d'accès. Elles ne possèdent les autres droits reconnus aux riverains des voies publiques que dans les conditions fixées par les règlements d'administration publique prévus à l'article 6 ci-après.Elles sont soumises au régime des servitudes applicables aux propriétés riveraines des routes nationales.En outre, des servitudes particulières destinées à éviter les abus de la publicité peuvent être imposées aux propriétés limitrophes ou voisines dans les conditions fixées par les règlements d'administration publique prévus à l'article 6 de la présente loi."
+      "content": "Les propriétés limitrophes des autoroutes ne jouissent pas du droit d'accès. Elles ne possèdent les autres droits reconnus aux riverains des voies publiques que dans les conditions fixées par les règlements d'administration publique prévus à l'article 6 ci-après.Elles sont soumises au régime des servitudes applicables aux propriétés riveraines des routes nationales.En outre, des servitudes particulières destinées à éviter les abus de la publicité peuvent être imposées aux propriétés limitrophes ou voisines dans les conditions fixées par les règlements d'administration publique prévus à l'article 6 de la présente loi.",
+      "valid_from": "1955-04-20"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "L'usage des autoroutes est en principe gratuit.Toutefois peuvent être concédées par l'Etat, soit la construction et l'exploitation d'une autoroute, soit l'exploitation d'une autoroute, ainsi que la construction et l'exploitation de ses installations annexes telles qu'elles sont définies au cahier des charges.La convention de concession et le cahier des charges sont approuvés par décret pris en Conseil d'Etat.Ces actes peuvent autoriser le concessionnaire à percevoir des péages en vue d'assurer le remboursement des avances et dépenses de toute nature faites par l'Etat et les collectivités ou établissements publics, l'exploitation et, éventuellement l'entretien et l'extension de l'autoroute, la rémunération et l'amortissement des capitaux investis par le concessionnaire.Les emprunts émis en vue de financer les opérations de construction d'autoroutes inscrites aux plans d'amélioration du réseau routier national pourront bénéficier de la garantie de l'Etat.Des avances imputées sur la tranche nationale du fonds spécial d'investissement routier pourront en outre être consenties, pendant les premiers exercices, pour assurer l'équilibre de l'exploitation des sociétés d'économie mixte dans lesquelles les intérêts publics sont majoritaires."
+      "content": "L'usage des autoroutes est en principe gratuit.Toutefois peuvent être concédées par l'Etat, soit la construction et l'exploitation d'une autoroute, soit l'exploitation d'une autoroute, ainsi que la construction et l'exploitation de ses installations annexes telles qu'elles sont définies au cahier des charges.La convention de concession et le cahier des charges sont approuvés par décret pris en Conseil d'Etat.Ces actes peuvent autoriser le concessionnaire à percevoir des péages en vue d'assurer le remboursement des avances et dépenses de toute nature faites par l'Etat et les collectivités ou établissements publics, l'exploitation et, éventuellement l'entretien et l'extension de l'autoroute, la rémunération et l'amortissement des capitaux investis par le concessionnaire.Les emprunts émis en vue de financer les opérations de construction d'autoroutes inscrites aux plans d'amélioration du réseau routier national pourront bénéficier de la garantie de l'Etat.Des avances imputées sur la tranche nationale du fonds spécial d'investissement routier pourront en outre être consenties, pendant les premiers exercices, pour assurer l'équilibre de l'exploitation des sociétés d'économie mixte dans lesquelles les intérêts publics sont majoritaires.",
+      "valid_from": "1970-05-13"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les infractions aux obligations découlant de la présente loi et des règlements pris pour son application pour son application seront constatées et punies conformément à la législation en vigueur concernant la conservation du domaine public et la circulation routière."
+      "content": "Les infractions aux obligations découlant de la présente loi et des règlements pris pour son application pour son application seront constatées et punies conformément à la législation en vigueur concernant la conservation du domaine public et la circulation routière.",
+      "valid_from": "1955-04-20"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Des règlements d'administration publique détermineront les mesures d'application de la présente loi, notamment les conditions d'accès et d'utilisation des autoroutes, ainsi que les prescriptions à observer en cas de pose de canalisations ou de lignes aériennes."
+      "content": "Des règlements d'administration publique détermineront les mesures d'application de la présente loi, notamment les conditions d'accès et d'utilisation des autoroutes, ainsi que les prescriptions à observer en cas de pose de canalisations ou de lignes aériennes.",
+      "valid_from": "1955-04-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

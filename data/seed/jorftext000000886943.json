@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'Etat, les collectivités territoriales et les établissements publics administratifs disposent de l'action subrogatoire prévue par les dispositions des articles L. 825-1 à L. 825-8 du code général de la fonction publique lorsqu'un décès, une infirmité ou une maladie imputable à un tiers affecte un de leurs agents autres que ceux mentionnés aux articles L. 1 et L. 2 du même code."
+      "content": "L'Etat, les collectivités territoriales et les établissements publics administratifs disposent de l'action subrogatoire prévue par les dispositions des articles L. 825-1 à L. 825-8 du code général de la fonction publique lorsqu'un décès, une infirmité ou une maladie imputable à un tiers affecte un de leurs agents autres que ceux mentionnés aux articles L. 1 et L. 2 du même code.",
+      "valid_from": "2022-03-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Ces dispositions sont également applicables aux recours exercés par la caisse des dépôts et consignations agissant tant pour son propre compte que comme gérante du fonds spécial de retraite des ouvriers des établissements industriels de l'Etat et comme gérante de la caisse nationale de retraite des collectivités locales."
+      "content": "Ces dispositions sont également applicables aux recours exercés par la caisse des dépôts et consignations agissant tant pour son propre compte que comme gérante du fonds spécial de retraite des ouvriers des établissements industriels de l'Etat et comme gérante de la caisse nationale de retraite des collectivités locales.",
+      "valid_from": "2022-03-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "L'article 44 du Code des pensions civiles et militaires de retraite et l'article 10, paragraphe 7, de la loi n° 49-1097 du 2 août 1949 sont abrogés."
+      "content": "L'article 44 du Code des pensions civiles et militaires de retraite et l'article 10, paragraphe 7, de la loi n° 49-1097 du 2 août 1949 sont abrogés.",
+      "valid_from": "1968-01-03"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "La présente ordonnance sera publiée au Journal Officiel de la République française et exécutée comme loi."
+      "content": "La présente ordonnance sera publiée au Journal Officiel de la République française et exécutée comme loi.",
+      "valid_from": "1968-01-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

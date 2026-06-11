@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La protection des espaces naturels et des paysages, la préservation des espèces animales et végétales, le maintien des équilibres biologiques auxquels ils participent et la protection des ressources naturelles contre toutes les causes de dégradation qui les menacent sont d'intérêt général.Il est du devoir de chacun de veiller à la sauvegarde du patrimoine naturel dans lequel il vit. Les activités publiques ou privées d'aménagement, d'équipement et de production doivent se conformer aux mêmes exigences.La réalisation de ces objectifs doit également assurer l'équilibre harmonieux de la population résidant dans les milieux urbains et ruraux."
+      "content": "La protection des espaces naturels et des paysages, la préservation des espèces animales et végétales, le maintien des équilibres biologiques auxquels ils participent et la protection des ressources naturelles contre toutes les causes de dégradation qui les menacent sont d'intérêt général.Il est du devoir de chacun de veiller à la sauvegarde du patrimoine naturel dans lequel il vit. Les activités publiques ou privées d'aménagement, d'équipement et de production doivent se conformer aux mêmes exigences.La réalisation de ces objectifs doit également assurer l'équilibre harmonieux de la population résidant dans les milieux urbains et ruraux.",
+      "valid_from": "1976-07-13"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "L'article 3 de la loi n° 63-1143 du 19 novembre 1963 relative à la protection des animaux est abrogé."
+      "content": "L'article 3 de la loi n° 63-1143 du 19 novembre 1963 relative à la protection des animaux est abrogé.",
+      "valid_from": "1976-07-13"
     },
     {
       "provision_ref": "art42",
       "section": "42",
       "title": "Article 42",
-      "content": "Des décrets en Conseil d'Etat déterminent en tant que de besoin les modalités d'application de la présente loi."
+      "content": "Des décrets en Conseil d'Etat déterminent en tant que de besoin les modalités d'application de la présente loi.",
+      "valid_from": "1976-07-13"
     },
     {
       "provision_ref": "art43",
       "section": "43",
       "title": "Article 43",
-      "content": "Les dispositions de la présente loi sont applicables aux Terres australes et antarctiques françaises."
+      "content": "Les dispositions de la présente loi sont applicables aux Terres australes et antarctiques françaises.",
+      "valid_from": "1976-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

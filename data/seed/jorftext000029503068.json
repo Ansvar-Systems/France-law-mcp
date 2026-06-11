@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le livre VI du code de commerce est modifié conformément aux articles 2 à 11."
+      "content": "Le livre VI du code de commerce est modifié conformément aux articles 2 à 11.",
+      "valid_from": "2014-09-28"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "La présente ordonnance est applicable dans les îles Wallis et Futuna."
+      "content": "La présente ordonnance est applicable dans les îles Wallis et Futuna.",
+      "valid_from": "2014-09-28"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "La présente ordonnance entre en vigueur le lendemain du jour de sa publication au Journal officiel de la République française.Elle s'applique aux procédures de sauvegarde, de redressement judiciaire ou de liquidation judiciaire en cours au jour de son entrée en vigueur, à l'exception des articles 3, 4, 8 et 10 qui ne s'appliquent qu'aux procédures ouvertes à compter du 1er juillet 2014 et de l'article 11 qui ne s'applique pas aux procédures en cours."
+      "content": "La présente ordonnance entre en vigueur le lendemain du jour de sa publication au Journal officiel de la République française.Elle s'applique aux procédures de sauvegarde, de redressement judiciaire ou de liquidation judiciaire en cours au jour de son entrée en vigueur, à l'exception des articles 3, 4, 8 et 10 qui ne s'appliquent qu'aux procédures ouvertes à compter du 1er juillet 2014 et de l'article 11 qui ne s'applique pas aux procédures en cours.",
+      "valid_from": "2014-09-28"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'économie, de l'industrie et du numérique et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'économie, de l'industrie et du numérique et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2014-09-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

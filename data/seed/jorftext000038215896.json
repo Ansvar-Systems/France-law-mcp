@@ -12,25 +12,35 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Gouvernement remet au Parlement, au plus tard douze mois après la promulgation de la présente loi, un rapport relatif à la prise en charge de la douleur, en particulier par les centres d'oncologie pédiatrique.Ce rapport précise notamment les moyens mis en œuvre pour le dépistage et le traitement de la douleur des enfants dans le cadre des soins qu'ils reçoivent. Il dresse un état des lieux de la formation spécifique, initiale et continue, des professionnels de santé qui interviennent en oncologie pédiatrique ainsi que des centres dédiés à la douleur dans notre pays et des effectifs qui s'y consacrent. Il étudie l'accès des enfants et des adolescents atteints de cancer à des médicaments et des traitements adaptés et la mise à disposition de formules pédiatriques spécifiques. Enfin, il étudie l'opportunité de mettre en place un quatrième « plan douleur »."
+      "content": "Le Gouvernement remet au Parlement, au plus tard douze mois après la promulgation de la présente loi, un rapport relatif à la prise en charge de la douleur, en particulier par les centres d'oncologie pédiatrique.Ce rapport précise notamment les moyens mis en œuvre pour le dépistage et le traitement de la douleur des enfants dans le cadre des soins qu'ils reçoivent. Il dresse un état des lieux de la formation spécifique, initiale et continue, des professionnels de santé qui interviennent en oncologie pédiatrique ainsi que des centres dédiés à la douleur dans notre pays et des effectifs qui s'y consacrent. Il étudie l'accès des enfants et des adolescents atteints de cancer à des médicaments et des traitements adaptés et la mise à disposition de formules pédiatriques spécifiques. Enfin, il étudie l'opportunité de mettre en place un quatrième « plan douleur ».",
+      "valid_from": "2019-03-11"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les signataires de la convention nationale mentionnée à l'article L. 1141-2 du code de la santé publique engagent au plus tard dans un délai de six mois à compter de la publication de la présente loi une négociation sur la possibilité d'appliquer à l'ensemble des pathologies cancéreuses le délai de cinq ans prévu au quatrième alinéa de l'article L. 1141-5 du même code pour les pathologies cancéreuses survenues avant l'âge de dix-huit ans.En cas de carence des signataires de la convention, l'âge et les délais mentionnés au même article L. 1141-5 peuvent être fixés par décret en Conseil d'Etat. L'âge ne peut être inférieur ni les délais supérieurs à ceux fixés au quatrième alinéa dudit article L. 1141-5."
+      "content": "Les signataires de la convention nationale mentionnée à l'article L. 1141-2 du code de la santé publique engagent au plus tard dans un délai de six mois à compter de la publication de la présente loi une négociation sur la possibilité d'appliquer à l'ensemble des pathologies cancéreuses le délai de cinq ans prévu au quatrième alinéa de l'article L. 1141-5 du même code pour les pathologies cancéreuses survenues avant l'âge de dix-huit ans.En cas de carence des signataires de la convention, l'âge et les délais mentionnés au même article L. 1141-5 peuvent être fixés par décret en Conseil d'Etat. L'âge ne peut être inférieur ni les délais supérieurs à ceux fixés au quatrième alinéa dudit article L. 1141-5.",
+      "valid_from": "2019-03-11"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le Gouvernement remet au Parlement, au plus tard douze mois après la promulgation de la présente loi, un rapport relatif à l'application de la convention dite « AERAS » (« s'Assurer et Emprunter avec un Risque Aggravé de Santé ») et à l'accès au crédit des personnes présentant un problème grave de santé, notamment celles ayant souffert d'un cancer pédiatrique.Ce rapport précise notamment les possibilités d'évolution du dispositif pour une prise en compte des pathologies cancéreuses survenues avant l'âge de vingt et un ans, un accroissement des sanctions en cas de manquements à la convention et une définition d'indicateurs pérennes de résultats."
+      "content": "Le Gouvernement remet au Parlement, au plus tard douze mois après la promulgation de la présente loi, un rapport relatif à l'application de la convention dite « AERAS » (« s'Assurer et Emprunter avec un Risque Aggravé de Santé ») et à l'accès au crédit des personnes présentant un problème grave de santé, notamment celles ayant souffert d'un cancer pédiatrique.Ce rapport précise notamment les possibilités d'évolution du dispositif pour une prise en compte des pathologies cancéreuses survenues avant l'âge de vingt et un ans, un accroissement des sanctions en cas de manquements à la convention et une définition d'indicateurs pérennes de résultats.",
+      "valid_from": "2019-03-11"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le Gouvernement remet au Parlement, chaque année, un rapport relatif à l'ensemble des financements publics alloués à la recherche sur les cancers pédiatriques. Ce rapport précise les volumes financiers annuels et pluriannuels dédiés aux programmes de recherche sur les cancers de l'enfant et de l'adolescent. Ce rapport précise les avancées obtenues ainsi que les projets scientifiques engagés en la matière.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Le Gouvernement remet au Parlement, chaque année, un rapport relatif à l'ensemble des financements publics alloués à la recherche sur les cancers pédiatriques. Ce rapport précise les volumes financiers annuels et pluriannuels dédiés aux programmes de recherche sur les cancers de l'enfant et de l'adolescent. Ce rapport précise les avancées obtenues ainsi que les projets scientifiques engagés en la matière.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2019-03-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

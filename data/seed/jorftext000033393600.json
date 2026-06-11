@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 2015-1682 du 17 décembre 2015 portant simplification de certains régimes d'autorisation préalable et de déclaration des entreprises et des professionnels est ratifiée."
+      "content": "L'ordonnance n° 2015-1682 du 17 décembre 2015 portant simplification de certains régimes d'autorisation préalable et de déclaration des entreprises et des professionnels est ratifiée.",
+      "valid_from": "2016-11-18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

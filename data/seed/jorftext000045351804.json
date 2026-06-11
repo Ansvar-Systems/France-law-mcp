@@ -12,7 +12,14 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "I. - Les articles 1er à 3 entrent en vigueur le 1er septembre 2022.II. - Par dérogation au I du présent article, les cinq premiers alinéas et le A du I ainsi que le VIII de l'article LO 111-3, le II, les 2° et 8° du III et le V de l'article LO 111-4 ainsi que le I et le premier alinéa du III de l'article LO 111-7-1 du code de la sécurité sociale, dans leur rédaction antérieure à la présente loi, sont applicables à la loi de financement de la sécurité sociale pour l'année 2023.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "I. - Les articles 1er à 3 entrent en vigueur le 1er septembre 2022.II. - Par dérogation au I du présent article, les cinq premiers alinéas et le A du I ainsi que le VIII de l'article LO 111-3, le II, les 2° et 8° du III et le V de l'article LO 111-4 ainsi que le I et le premier alinéa du III de l'article LO 111-7-1 du code de la sécurité sociale, dans leur rédaction antérieure à la présente loi, sont applicables à la loi de financement de la sécurité sociale pour l'année 2023.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2022-03-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Il est créé un Centre national du livre, doté de la personnalité civile et de l'autonomie financière, placé sous l'autorité du ministre chargé de la culture."
+      "content": "Il est créé un Centre national du livre, doté de la personnalité civile et de l'autonomie financière, placé sous l'autorité du ministre chargé de la culture.",
+      "valid_from": "1993-03-21"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Ce centre a pour but :1° De soutenir et d'encourager l'activité littéraire des écrivains de langue française par des bourses de travail et des bourses d'études, des prêts d'honneur, des subventions, des acquisitions de livres ou tous autres moyens permettant de récompenser la réalisation ou de faciliter l'élaboration d'une oeuvre littéraire écrite ;2° De favoriser par des subventions, avances de fonds ou tous autres moyens, l'édition ou la réédition d'oeuvres littéraires en langue française dont il importe d'assurer la publication ;3° D'allouer des pensions et secours à des écrivains vivants, aux conjoints ou aux enfants d'écrivains décédés et de contribuer au financement d'oeuvres ou d'organismes de solidarité professionnelle ;4° D'assurer le respect des oeuvres littéraires, quel que soit leur pays d'origine, après la mort de l'auteur et même après leur chute dans le domaine public."
+      "content": "Ce centre a pour but :1° De soutenir et d'encourager l'activité littéraire des écrivains de langue française par des bourses de travail et des bourses d'études, des prêts d'honneur, des subventions, des acquisitions de livres ou tous autres moyens permettant de récompenser la réalisation ou de faciliter l'élaboration d'une oeuvre littéraire écrite ;2° De favoriser par des subventions, avances de fonds ou tous autres moyens, l'édition ou la réédition d'oeuvres littéraires en langue française dont il importe d'assurer la publication ;3° D'allouer des pensions et secours à des écrivains vivants, aux conjoints ou aux enfants d'écrivains décédés et de contribuer au financement d'oeuvres ou d'organismes de solidarité professionnelle ;4° D'assurer le respect des oeuvres littéraires, quel que soit leur pays d'origine, après la mort de l'auteur et même après leur chute dans le domaine public.",
+      "valid_from": "1993-03-21"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le conseil d'administration du Centre national du livre comprend parmi ses membres un député et un sénateur."
+      "content": "Le conseil d'administration du Centre national du livre comprend parmi ses membres un député et un sénateur.",
+      "valid_from": "2018-08-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

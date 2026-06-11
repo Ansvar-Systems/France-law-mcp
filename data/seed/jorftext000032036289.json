@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "II.-Le II des articles L. 541-15-5 et L. 541-15-6 du code de l'environnement, dans leur rédaction résultant du I du présent article, entre en vigueur un an après la promulgation de la présente loi."
+      "content": "II.-Le II des articles L. 541-15-5 et L. 541-15-6 du code de l'environnement, dans leur rédaction résultant du I du présent article, entre en vigueur un an après la promulgation de la présente loi.",
+      "valid_from": "2016-02-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

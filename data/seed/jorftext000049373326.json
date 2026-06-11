@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Dans un délai de trois ans à compter de la publication du décret prévu au V de l'article L. 1113-2 du code des transports, le Gouvernement remet au Parlement un rapport d'évaluation du dispositif prévu au même article L. 1113-2. Ce rapport comporte notamment des éléments relatifs :1° Au nombre d'autorités organisatrices de la mobilité, d'associations reconnues d'utilité publique ou d'intérêt général, de concessionnaires automobiles et de centres de traitement de véhicules hors d'usage agréés ayant pris part au dispositif ;2° Au nombre de véhicules mis en location ;3° Au nombre et aux catégories de personnes ayant bénéficié du dispositif.Il évalue l'impact environnemental et sanitaire du dispositif. Il évalue également la pertinence des critères d'éligibilité définis pour les véhicules et pour les bénéficiaires et l'opportunité d'une évolution de ces critères et des modalités de mise en œuvre du dispositif."
+      "content": "Dans un délai de trois ans à compter de la publication du décret prévu au V de l'article L. 1113-2 du code des transports, le Gouvernement remet au Parlement un rapport d'évaluation du dispositif prévu au même article L. 1113-2. Ce rapport comporte notamment des éléments relatifs :1° Au nombre d'autorités organisatrices de la mobilité, d'associations reconnues d'utilité publique ou d'intérêt général, de concessionnaires automobiles et de centres de traitement de véhicules hors d'usage agréés ayant pris part au dispositif ;2° Au nombre de véhicules mis en location ;3° Au nombre et aux catégories de personnes ayant bénéficié du dispositif.Il évalue l'impact environnemental et sanitaire du dispositif. Il évalue également la pertinence des critères d'éligibilité définis pour les véhicules et pour les bénéficiaires et l'opportunité d'une évolution de ces critères et des modalités de mise en œuvre du dispositif.",
+      "valid_from": "2024-04-07"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur les mesures permettant de soutenir et de favoriser le développement du rétrofit en faveur du déploiement de services de mobilités solidaires, notamment de la location de véhicules à destination de personnes en situation de précarité sociale par des associations reconnues d'utilité publique ou d'intérêt général mentionnées aux articles 200 et 238 bis du code général des impôts agissant pour les mobilités solidaires.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur les mesures permettant de soutenir et de favoriser le développement du rétrofit en faveur du déploiement de services de mobilités solidaires, notamment de la location de véhicules à destination de personnes en situation de précarité sociale par des associations reconnues d'utilité publique ou d'intérêt général mentionnées aux articles 200 et 238 bis du code général des impôts agissant pour les mobilités solidaires.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2024-04-07"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

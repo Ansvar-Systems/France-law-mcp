@@ -12,7 +12,14 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Un décret déterminera les droits à pensions des médecins psychiatres et des médecins phtisiologues intégrés dans les cadres de médecins à plein temps des hôpitaux généraux en application de l'article 25 de la loi n° 68-590 du 31 juillet 1968 ainsi que ceux de leurs ayants cause."
+      "content": "Un décret déterminera les droits à pensions des médecins psychiatres et des médecins phtisiologues intégrés dans les cadres de médecins à plein temps des hôpitaux généraux en application de l'article 25 de la loi n° 68-590 du 31 juillet 1968 ainsi que ceux de leurs ayants cause.",
+      "valid_from": "1971-01-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

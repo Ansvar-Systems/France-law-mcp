@@ -12,13 +12,21 @@
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "I. - (paragraphe abrogé).II. - (alinéas 1, 2 et 3 abrogés).Les décisions relatives à l'ouverture et à l'exploitation de carrières, intervenues antérieurement à l'entrée en vigueur de la présente loi, ne peuvent être déférées à la juridiction administrative que dans le délai de deux mois à compter de leur notification ou de leur publication dans les conditions définies au titre des dispositions du code minier."
+      "content": "I. - (paragraphe abrogé).II. - (alinéas 1, 2 et 3 abrogés).Les décisions relatives à l'ouverture et à l'exploitation de carrières, intervenues antérieurement à l'entrée en vigueur de la présente loi, ne peuvent être déférées à la juridiction administrative que dans le délai de deux mois à compter de leur notification ou de leur publication dans les conditions définies au titre des dispositions du code minier.",
+      "valid_from": "2000-09-21"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "Les dispositions de la présente loi entrent en vigueur au plus tard six mois après sa publication au Journal officiel."
+      "content": "Les dispositions de la présente loi entrent en vigueur au plus tard six mois après sa publication au Journal officiel.",
+      "valid_from": "1993-07-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

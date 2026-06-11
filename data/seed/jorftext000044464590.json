@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance du 4 janvier 2005 susvisée est modifiée conformément aux articles 2 à 41 de la présente ordonnance."
+      "content": "L'ordonnance du 4 janvier 2005 susvisée est modifiée conformément aux articles 2 à 41 de la présente ordonnance.",
+      "valid_from": "2021-12-11"
     },
     {
       "provision_ref": "art42",
       "section": "42",
       "title": "Article 42",
-      "content": "Le droit d'option dont chaque agent disposait en application de l'article 75 de l'ordonnance du 4 janvier 2005 susvisée est rétabli au profit des agents qui n'en ont pas alors fait usage et peut être exercé par ceux-ci jusqu'au 31 décembre 2023. Un arrêté du Haut-commissaire précise les modalités du rétablissement de ce droit d'option."
+      "content": "Le droit d'option dont chaque agent disposait en application de l'article 75 de l'ordonnance du 4 janvier 2005 susvisée est rétabli au profit des agents qui n'en ont pas alors fait usage et peut être exercé par ceux-ci jusqu'au 31 décembre 2023. Un arrêté du Haut-commissaire précise les modalités du rétablissement de ce droit d'option.",
+      "valid_from": "2021-12-11"
     },
     {
       "provision_ref": "art43",
       "section": "43",
       "title": "Article 43",
-      "content": "Les communes, leurs groupements et leurs établissements publics administratifs délibèrent au plus tard le 31 décembre 2023 pour fixer le régime indemnitaire des fonctionnaires et des agents contractuels conformément à l'article 62 de l'ordonnance du 4 janvier 2005 susvisée dans sa rédaction issue de la présente ordonnance."
+      "content": "Les communes, leurs groupements et leurs établissements publics administratifs délibèrent au plus tard le 31 décembre 2023 pour fixer le régime indemnitaire des fonctionnaires et des agents contractuels conformément à l'article 62 de l'ordonnance du 4 janvier 2005 susvisée dans sa rédaction issue de la présente ordonnance.",
+      "valid_from": "2022-08-12"
     },
     {
       "provision_ref": "art44",
       "section": "44",
       "title": "Article 44",
-      "content": "L'article 48 de l'ordonnance du 4 janvier 2005 dans sa rédaction issue de la présente ordonnance entre en vigueur en vue de la campagne d'évaluation 2022."
+      "content": "L'article 48 de l'ordonnance du 4 janvier 2005 dans sa rédaction issue de la présente ordonnance entre en vigueur en vue de la campagne d'évaluation 2022.",
+      "valid_from": "2021-12-11"
     },
     {
       "provision_ref": "art45",
       "section": "45",
       "title": "Article 45",
-      "content": "Le Premier ministre, le ministre des outre-mer, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales et la ministre de la transformation et de la fonction publiques sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des outre-mer, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales et la ministre de la transformation et de la fonction publiques sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-12-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

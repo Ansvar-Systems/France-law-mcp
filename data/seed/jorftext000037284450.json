@@ -12,19 +12,28 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur les dispositifs locaux d'aide aux victimes d'agressions sexuelles, permettant à ces victimes d'être accompagnées et de réaliser les démarches judiciaires au sein même des centres hospitaliers universitaires."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur les dispositifs locaux d'aide aux victimes d'agressions sexuelles, permettant à ces victimes d'être accompagnées et de réaliser les démarches judiciaires au sein même des centres hospitaliers universitaires.",
+      "valid_from": "2018-08-06"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Le Gouvernement présente, en annexe générale au projet de loi de finances de l'année, un rapport sur la politique publique de lutte contre les violences sexuelles et sexistes dont sont victimes les enfants, les femmes et les hommes. Cette annexe générale :1° Récapitule, par ministère et pour le dernier exercice connu, l'ensemble des crédits affectés à cette politique publique ;2° Evalue, au regard des crédits affectés, la pertinence des dispositifs de prévention et de répression de ces violences ;3° Comporte une présentation stratégique assortie d'objectifs et d'indicateurs de performance, une présentation des actions ainsi que des dépenses et des emplois, avec une justification au premier euro. Elle comporte, pour chaque objectif et indicateur, une analyse entre les résultats attendus et obtenus ainsi qu'une analyse des coûts associés ;4° Prend en compte la poursuite de la mise en œuvre des plans interministériels de lutte contre les violences faites aux femmes et aux enfants et les moyens nécessaires à cet effet."
+      "content": "Le Gouvernement présente, en annexe générale au projet de loi de finances de l'année, un rapport sur la politique publique de lutte contre les violences sexuelles et sexistes dont sont victimes les enfants, les femmes et les hommes. Cette annexe générale :1° Récapitule, par ministère et pour le dernier exercice connu, l'ensemble des crédits affectés à cette politique publique ;2° Evalue, au regard des crédits affectés, la pertinence des dispositifs de prévention et de répression de ces violences ;3° Comporte une présentation stratégique assortie d'objectifs et d'indicateurs de performance, une présentation des actions ainsi que des dépenses et des emplois, avec une justification au premier euro. Elle comporte, pour chaque objectif et indicateur, une analyse entre les résultats attendus et obtenus ainsi qu'une analyse des coûts associés ;4° Prend en compte la poursuite de la mise en œuvre des plans interministériels de lutte contre les violences faites aux femmes et aux enfants et les moyens nécessaires à cet effet.",
+      "valid_from": "2018-08-06"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "A modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- Code de procédure pénale\n\n- Code pénal"
+      "content": "A modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- Code de procédure pénale\n\n- Code pénal",
+      "valid_from": "2018-08-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

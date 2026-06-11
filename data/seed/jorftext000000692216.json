@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "En aucun cas, les salariés ne doivent bénéficier d'une durée totale de congé et d'une indemnité inférieures à celles qui leur étaient garanties par le régime légal antérieurement applicable."
+      "content": "En aucun cas, les salariés ne doivent bénéficier d'une durée totale de congé et d'une indemnité inférieures à celles qui leur étaient garanties par le régime légal antérieurement applicable.",
+      "valid_from": "1956-03-31"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Lorsque la fermeture pour congés payés d'un établissement se prolonge au-delà de trois semaines, l'employeur est tenu, pour chacun des jours ouvrables de fermeture excédant cette durée, de verser à son personnel une indemnité qui ne peut être inférieure à l'indemnité journalière de congés payés. Cette indemnité journalière n'est pas cumulable avec l'indemnité de congés payés."
+      "content": "Lorsque la fermeture pour congés payés d'un établissement se prolonge au-delà de trois semaines, l'employeur est tenu, pour chacun des jours ouvrables de fermeture excédant cette durée, de verser à son personnel une indemnité qui ne peut être inférieure à l'indemnité journalière de congés payés. Cette indemnité journalière n'est pas cumulable avec l'indemnité de congés payés.",
+      "valid_from": "1956-03-31"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les dispositions de la présente loi sont applicables aux congés acquis au cours de la période de référence 1955-1956 telle qu'elle est définie par les alinéas 7 et 8 de l'article g du livre II du code du travail. Il n'est dû toutefois aucun rappel aux salariés qui, antérieurement à la date de promulgation de la loi, ont perçu une indemnité calculée suivant les prescriptions de l'article 54 k du même livre."
+      "content": "Les dispositions de la présente loi sont applicables aux congés acquis au cours de la période de référence 1955-1956 telle qu'elle est définie par les alinéas 7 et 8 de l'article g du livre II du code du travail. Il n'est dû toutefois aucun rappel aux salariés qui, antérieurement à la date de promulgation de la loi, ont perçu une indemnité calculée suivant les prescriptions de l'article 54 k du même livre.",
+      "valid_from": "1956-03-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

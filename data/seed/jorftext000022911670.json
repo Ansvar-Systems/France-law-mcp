@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Nul ne peut, dans l'espace public, porter une tenue destinée à dissimuler son visage."
+      "content": "Nul ne peut, dans l'espace public, porter une tenue destinée à dissimuler son visage.",
+      "valid_from": "2011-04-11"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. ― Pour l'application de l'article 1er, l'espace public est constitué des voies publiques ainsi que des lieux ouverts au public ou affectés à un service public.II. ― L'interdiction prévue à l'article 1er ne s'applique pas si la tenue est prescrite ou autorisée par des dispositions législatives ou réglementaires, si elle est justifiée par des raisons de santé ou des motifs professionnels, ou si elle s'inscrit dans le cadre de pratiques sportives, de fêtes ou de manifestations artistiques ou traditionnelles."
+      "content": "I. ― Pour l'application de l'article 1er, l'espace public est constitué des voies publiques ainsi que des lieux ouverts au public ou affectés à un service public.II. ― L'interdiction prévue à l'article 1er ne s'applique pas si la tenue est prescrite ou autorisée par des dispositions législatives ou réglementaires, si elle est justifiée par des raisons de santé ou des motifs professionnels, ou si elle s'inscrit dans le cadre de pratiques sportives, de fêtes ou de manifestations artistiques ou traditionnelles.",
+      "valid_from": "2011-04-11"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La méconnaissance de l'interdiction édictée à l'article 1er est punie de l'amende prévue pour les contraventions de la deuxième classe.L'obligation d'accomplir le stage mentionné au 1° de l'article 131-35-1 du code pénal peut être prononcée en même temps ou à la place de la peine d'amende."
+      "content": "La méconnaissance de l'interdiction édictée à l'article 1er est punie de l'amende prévue pour les contraventions de la deuxième classe.L'obligation d'accomplir le stage mentionné au 1° de l'article 131-35-1 du code pénal peut être prononcée en même temps ou à la place de la peine d'amende.",
+      "valid_from": "2020-03-24"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les articles 1er à 3 entrent en vigueur à l'expiration d'un délai de six mois à compter de la promulgation de la présente loi."
+      "content": "Les articles 1er à 3 entrent en vigueur à l'expiration d'un délai de six mois à compter de la promulgation de la présente loi.",
+      "valid_from": "2010-10-13"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "La présente loi s'applique sur l'ensemble du territoire de la République."
+      "content": "La présente loi s'applique sur l'ensemble du territoire de la République.",
+      "valid_from": "2010-10-13"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Gouvernement remet au Parlement un rapport sur l'application de la présente loi dix-huit mois après sa promulgation. Ce rapport dresse un bilan de la mise en œuvre de la présente loi, des mesures d'accompagnement élaborées par les pouvoirs publics et des difficultés rencontrées."
+      "content": "Le Gouvernement remet au Parlement un rapport sur l'application de la présente loi dix-huit mois après sa promulgation. Ce rapport dresse un bilan de la mise en œuvre de la présente loi, des mesures d'accompagnement élaborées par les pouvoirs publics et des difficultés rencontrées.",
+      "valid_from": "2010-10-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

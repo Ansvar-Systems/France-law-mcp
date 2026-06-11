@@ -12,13 +12,21 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Dans les deux ans suivant la tenue, pour la première fois, du scrutin prévu aux articles L. 2122-10-1 et suivants du code du travail, le Gouvernement présente au Parlement un rapport établissant un bilan des accords prévus à l'article L. 2234-1 du même code et des résultats de la négociation interprofessionnelle sur la représentation du personnel. Ce rapport peut proposer des adaptations législatives éventuelles découlant de ce bilan."
+      "content": "Dans les deux ans suivant la tenue, pour la première fois, du scrutin prévu aux articles L. 2122-10-1 et suivants du code du travail, le Gouvernement présente au Parlement un rapport établissant un bilan des accords prévus à l'article L. 2234-1 du même code et des résultats de la négociation interprofessionnelle sur la représentation du personnel. Ce rapport peut proposer des adaptations législatives éventuelles découlant de ce bilan.",
+      "valid_from": "2010-10-17"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La date du prochain renouvellement général des conseils de prud'hommes est fixée par décret et, au plus tard, au 31 décembre 2015. Le mandat des conseillers prud'hommes est prorogé jusqu'à cette date.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "La date du prochain renouvellement général des conseils de prud'hommes est fixée par décret et, au plus tard, au 31 décembre 2015. Le mandat des conseillers prud'hommes est prorogé jusqu'à cette date.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2010-10-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

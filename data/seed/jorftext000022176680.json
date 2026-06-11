@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions annexées à la présente ordonnance constituent le livre IX du code rural et de la pêche maritime (partie législative) intitulé : « Pêche maritime et aquaculture marine »."
+      "content": "Les dispositions annexées à la présente ordonnance constituent le livre IX du code rural et de la pêche maritime (partie législative) intitulé : « Pêche maritime et aquaculture marine ».",
+      "valid_from": "2010-05-08"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les références contenues dans les dispositions de nature législative aux dispositions abrogées par les articles 4 et 5 de la présente ordonnance sont remplacées par les références aux dispositions législatives correspondantes du livre IX du code rural et de la pêche maritime et la référence au code rural est remplacée par celle au code rural et de la pêche maritime."
+      "content": "Les références contenues dans les dispositions de nature législative aux dispositions abrogées par les articles 4 et 5 de la présente ordonnance sont remplacées par les références aux dispositions législatives correspondantes du livre IX du code rural et de la pêche maritime et la référence au code rural est remplacée par celle au code rural et de la pêche maritime.",
+      "valid_from": "2010-05-08"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le Premier ministre, le ministre de l'intérieur, de l'outre-mer et des collectivités territoriales et le ministre de l'alimentation, de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'intérieur, de l'outre-mer et des collectivités territoriales et le ministre de l'alimentation, de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2010-05-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

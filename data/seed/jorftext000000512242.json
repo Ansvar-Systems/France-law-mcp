@@ -12,37 +12,49 @@
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "I. - Les opérations à terme sur marchandises réalisées sur le marché à terme mentionné à l'article 5 de la loi du 28 mars 1885 précitée sont imposées dans les conditions prévues aux articles 150 ter à 150 quinquies, au paragraphe I de l'article 35, au 2 de l'article 92 et au 5° du paragraphe I de l'article 156 du code général des impôts.II. - a) Les articles 986 à 990 du code général des impôts sont abrogés.b) Au 4° du 1 de l'article 261 du même code, les mots : \"les opérations assujetties à l'impôt sur les opérations de bourse de commerce prévu par les articles 986 et suivants\" sont remplacés par les mots : \"les opérations à terme sur marchandises réalisées sur le marché mentionné à l'article 5 de la loi du 28 mars 1885 sur les marchés à terme\"."
+      "content": "I. - Les opérations à terme sur marchandises réalisées sur le marché à terme mentionné à l'article 5 de la loi du 28 mars 1885 précitée sont imposées dans les conditions prévues aux articles 150 ter à 150 quinquies, au paragraphe I de l'article 35, au 2 de l'article 92 et au 5° du paragraphe I de l'article 156 du code général des impôts.II. - a) Les articles 986 à 990 du code général des impôts sont abrogés.b) Au 4° du 1 de l'article 261 du même code, les mots : \"les opérations assujetties à l'impôt sur les opérations de bourse de commerce prévu par les articles 986 et suivants\" sont remplacés par les mots : \"les opérations à terme sur marchandises réalisées sur le marché mentionné à l'article 5 de la loi du 28 mars 1885 sur les marchés à terme\".",
+      "valid_from": "1988-02-01"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "I. - La loi n° 83-610 du 8 juillet 1983 relative aux marchés à terme réglementés de marchandises est abrogée.II. - L'article 4 de la loi du 28 mars 1885 précitée est abrogé.    III. - L'article 13 de l'arrêté du 27 prairial an X concernant les bourses de commerce est abrogé."
+      "content": "I. - La loi n° 83-610 du 8 juillet 1983 relative aux marchés à terme réglementés de marchandises est abrogée.II. - L'article 4 de la loi du 28 mars 1885 précitée est abrogé.    III. - L'article 13 de l'arrêté du 27 prairial an X concernant les bourses de commerce est abrogé.",
+      "valid_from": "1988-02-01"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "Il est procédé, au titre V du livre Ier du code de commerce, à la codification de la présente loi et des autres textes de nature législative et réglementaire concernant les marchés à terme d'instruments financiers et de marchandises par des décrets en Conseil d'Etat pris après avis de la Commission supérieure chargée d'étudier la codification et la simplification des textes législatifs et réglementaires.Ces décrets apportent aux textes de nature législative les adaptations rendues nécessaires par le travail de codification, à l'exclusion de toute modification de fond."
+      "content": "Il est procédé, au titre V du livre Ier du code de commerce, à la codification de la présente loi et des autres textes de nature législative et réglementaire concernant les marchés à terme d'instruments financiers et de marchandises par des décrets en Conseil d'Etat pris après avis de la Commission supérieure chargée d'étudier la codification et la simplification des textes législatifs et réglementaires.Ces décrets apportent aux textes de nature législative les adaptations rendues nécessaires par le travail de codification, à l'exclusion de toute modification de fond.",
+      "valid_from": "1988-02-01"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Des lois de finances ultérieures détermineront les ressources nécessaires à l'application de la présente loi."
+      "content": "Des lois de finances ultérieures détermineront les ressources nécessaires à l'application de la présente loi.",
+      "valid_from": "1988-02-01"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "Les décisions de la commission des marchés à terme de marchandises demeurent en vigueur, sous réserve des adaptations nécessaires à l'application de la présente loi, jusqu'à l'adoption de nouvelles décisions par le conseil du marché à terme."
+      "content": "Les décisions de la commission des marchés à terme de marchandises demeurent en vigueur, sous réserve des adaptations nécessaires à l'application de la présente loi, jusqu'à l'adoption de nouvelles décisions par le conseil du marché à terme.",
+      "valid_from": "1988-02-01"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Les dispositions de la présente loi s'appliquent au terme d'un délai d'un mois à compter de sa promulgation."
+      "content": "Les dispositions de la présente loi s'appliquent au terme d'un délai d'un mois à compter de sa promulgation.",
+      "valid_from": "1988-02-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

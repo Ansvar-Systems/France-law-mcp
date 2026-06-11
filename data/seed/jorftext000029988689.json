@@ -12,7 +12,14 @@
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "L'Etat et les organismes relevant de la catégorie des administrations publiques centrales dont la liste est établie par l'arrêté mentionné au I de l'article                     23 de la loi n° 2023-1195 du 18 décembre 2023 de programmation des finances publiques pour les années 2023 à 2027 ne peuvent conclure, en qualité de crédit-preneur, des contrats de crédit-bail, au sens des articles L. 313-7 à L. 313-10 du code monétaire et financier, qui ont pour objet la réalisation, la modification ou la rénovation d'ouvrages, d'équipements ou de biens immatériels répondant à un besoin précisé par la collectivité publique et destinés à être mis à sa disposition ou à devenir sa propriété."
+      "content": "L'Etat et les organismes relevant de la catégorie des administrations publiques centrales dont la liste est établie par l'arrêté mentionné au I de l'article                     23 de la loi n° 2023-1195 du 18 décembre 2023 de programmation des finances publiques pour les années 2023 à 2027 ne peuvent conclure, en qualité de crédit-preneur, des contrats de crédit-bail, au sens des articles L. 313-7 à L. 313-10 du code monétaire et financier, qui ont pour objet la réalisation, la modification ou la rénovation d'ouvrages, d'équipements ou de biens immatériels répondant à un besoin précisé par la collectivité publique et destinés à être mis à sa disposition ou à devenir sa propriété.",
+      "valid_from": "2023-12-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

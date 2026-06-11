@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La personne qui justifie avoir rempli les fonctions et obligations de la tierce personne auprès d'un infirme ou invalide, dans les conditions visées à l'article précédent peut acquérir des droits à l'assurance volontaire, pour la couverture du risque vieillesse, moyennant le versement des cotisations afférentes aux périodes pendant lesquelles elle a rempli ces fonctions."
+      "content": "La personne qui justifie avoir rempli les fonctions et obligations de la tierce personne auprès d'un infirme ou invalide, dans les conditions visées à l'article précédent peut acquérir des droits à l'assurance volontaire, pour la couverture du risque vieillesse, moyennant le versement des cotisations afférentes aux périodes pendant lesquelles elle a rempli ces fonctions.",
+      "valid_from": "1965-10-21"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Un décret déterminera les modalités d'application de la présente loi et précisera, notamment, les délais dans lesquels les intéressés devront demander leur affiliation, le mode de calcul des cotisations et les coefficients de revalorisation qui leur seront applicables."
+      "content": "Un décret déterminera les modalités d'application de la présente loi et précisera, notamment, les délais dans lesquels les intéressés devront demander leur affiliation, le mode de calcul des cotisations et les coefficients de revalorisation qui leur seront applicables.",
+      "valid_from": "1965-10-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

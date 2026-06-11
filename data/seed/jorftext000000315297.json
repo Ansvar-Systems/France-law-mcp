@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Une protection temporaire est accordée aux inventions brevetables, aux dessins et modèles industriels, ainsi qu'aux marques de fabrique ou de commerce pour les produits qui seront régulièrement admis aux expositions étrangères internationales, officielles ou officiellement reconnues.Cette protection, dont la durée est fixée à douze mois à dater de l'ouverture officielle de l'exposition, aura pour effet de conserver aux exposants ou à leurs ayants cause, sous les conditions ci-après, le droit de réclamer, pendant ce délai, la protection dont leurs découvertes, dessins, modèles ou marques seraient légalement susceptibles.La durée de la protection temporaire ne sera augmentée ni des délais de priorité prévus par l'article 4 de la convention internationale du 20 mars 1883, modifiée par l'acte additionnel de Bruxelles du 14 décembre 1900, ni de ceux fixés par l'article 11 de la loi du 5 juillet 1844 modifiée par celle du 7 avril 1902."
+      "content": "Une protection temporaire est accordée aux inventions brevetables, aux dessins et modèles industriels, ainsi qu'aux marques de fabrique ou de commerce pour les produits qui seront régulièrement admis aux expositions étrangères internationales, officielles ou officiellement reconnues.Cette protection, dont la durée est fixée à douze mois à dater de l'ouverture officielle de l'exposition, aura pour effet de conserver aux exposants ou à leurs ayants cause, sous les conditions ci-après, le droit de réclamer, pendant ce délai, la protection dont leurs découvertes, dessins, modèles ou marques seraient légalement susceptibles.La durée de la protection temporaire ne sera augmentée ni des délais de priorité prévus par l'article 4 de la convention internationale du 20 mars 1883, modifiée par l'acte additionnel de Bruxelles du 14 décembre 1900, ni de ceux fixés par l'article 11 de la loi du 5 juillet 1844 modifiée par celle du 7 avril 1902.",
+      "valid_from": "1908-04-15"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les exposants qui voudront jouir de la protection temporaire devront se faire délivrer, par l'autorité chargée de représenter officiellement la France à l'exposition, un certificat de garantie qui constatera que l'objet pour lequel la protection est demandée est réellement exposé.La demande dudit certificat devra être faite au cours de l'exposition et au plus tard dans les trois premiers mois de l'ouverture officielle de l'exposition ; elle sera accompagnée d'une description exacte de l'objet à garantir et, s'il y a lieu, de dessins dudit objet.Les demandes seront inscrites sur un registre spécial qui sera transmis avec lesdites demandes et les pièces jointes au ministère du commerce et de l'industrie aussitôt après la clôture officielle de l'exposition et communiquées sans frais à toute réquisition par les soins de l'office national de la propriété industrielle."
+      "content": "Les exposants qui voudront jouir de la protection temporaire devront se faire délivrer, par l'autorité chargée de représenter officiellement la France à l'exposition, un certificat de garantie qui constatera que l'objet pour lequel la protection est demandée est réellement exposé.La demande dudit certificat devra être faite au cours de l'exposition et au plus tard dans les trois premiers mois de l'ouverture officielle de l'exposition ; elle sera accompagnée d'une description exacte de l'objet à garantir et, s'il y a lieu, de dessins dudit objet.Les demandes seront inscrites sur un registre spécial qui sera transmis avec lesdites demandes et les pièces jointes au ministère du commerce et de l'industrie aussitôt après la clôture officielle de l'exposition et communiquées sans frais à toute réquisition par les soins de l'office national de la propriété industrielle.",
+      "valid_from": "1908-04-15"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Un décret déterminera à l'occasion de chaque exposition, présentant les caractères visés à l'article 1er, les mesures nécessaires pour l'application de la présente loi."
+      "content": "Un décret déterminera à l'occasion de chaque exposition, présentant les caractères visés à l'article 1er, les mesures nécessaires pour l'application de la présente loi.",
+      "valid_from": "1908-04-15"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La même protection est accordée aux inventions brevetables, aux dessins et modèles, ainsi qu'aux marques de fabrique ou de commerce pour les produits qui seront régulièrement admis aux expositions organisées, en France ou dans les territoires d'outre-mer, avec l'autorisation de l'administration ou avec son patronage.Un décret déterminera les mesures nécessaires pour l'application du présent article."
+      "content": "La même protection est accordée aux inventions brevetables, aux dessins et modèles, ainsi qu'aux marques de fabrique ou de commerce pour les produits qui seront régulièrement admis aux expositions organisées, en France ou dans les territoires d'outre-mer, avec l'autorisation de l'administration ou avec son patronage.Un décret déterminera les mesures nécessaires pour l'application du présent article.",
+      "valid_from": "1908-04-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

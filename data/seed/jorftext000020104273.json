@@ -12,7 +12,14 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\n3° La loi du 22 juillet 1922 supprimant dans les actes de naissance des enfants naturels les mentions relatives au père ou à la mère, lorsque ceux-ci sont inconnus ou non dénommés.\n\n- Code de la sécurité sociale.\n\n- Loi du 1er juin 1924\n\n- CODE DE L'ORGANISATION JUDICIAIRE.\n\n- Code de la sécurité sociale.\n\n- Ordonnance n°2002-149 du 7 février 2002\n\n- Ordonnance n°2000-371 du 26 avril 2000\n\n- Ordonnance n°2000-372 du 26 avril 2000\n\n- Ordonnance n°2000-373 du 26 avril 2000\n\n- Ordonnance n°2002-388 du 20 mars 2002\n\n- Code civil"
+      "content": "A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\n3° La loi du 22 juillet 1922 supprimant dans les actes de naissance des enfants naturels les mentions relatives au père ou à la mère, lorsque ceux-ci sont inconnus ou non dénommés.\n\n- Code de la sécurité sociale.\n\n- Loi du 1er juin 1924\n\n- CODE DE L'ORGANISATION JUDICIAIRE.\n\n- Code de la sécurité sociale.\n\n- Ordonnance n°2002-149 du 7 février 2002\n\n- Ordonnance n°2000-371 du 26 avril 2000\n\n- Ordonnance n°2000-372 du 26 avril 2000\n\n- Ordonnance n°2000-373 du 26 avril 2000\n\n- Ordonnance n°2002-388 du 20 mars 2002\n\n- Code civil",
+      "valid_from": "2009-01-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

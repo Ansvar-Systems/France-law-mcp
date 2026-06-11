@@ -1,0 +1,25 @@
+{
+  "id": "legitext000006069457",
+  "type": "statute",
+  "title": "Ordonnance n° 58-1307 du 23 décembre 1958",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069457/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Lorsque la succession s'est ouverte antérieurement à l'entrée en vigueur de la présente ordonnance, la procédure d'envoi en possession du conjoint survivant ne doit pas être engagée ; si elle l'a déjà été, elle ne doit pas être poursuivie. Les frais afférents à des diligences ou formalités déjà accomplies restent dus.Dans le cas prévu à l'alinéa précédent, la suppression de l'envoi en possession ne peut avoir pour effet de modifier l'étendue de l'obligation du conjoint survivant aux dettes et charges de la succession.",
+      "valid_from": "1958-12-25"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

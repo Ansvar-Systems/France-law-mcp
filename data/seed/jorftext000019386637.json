@@ -12,13 +12,21 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "I.-Jusqu'à la nomination des membres de la commission prévue à l'article L. 545-2 du code de l'action sociale et des familles, et au plus tard le 31 décembre 2009, la commission technique fixée à l'article 7 du décret du 27 juin 2003 susvisé continue à délivrer l'allocation pour adulte handicapé prévue à l'article 35 de l'ordonnance du 27 mars 2002 précitée.Jusqu'à la nomination des membres de la commission prévue à l'article L. 545-2 du code de l'action sociale et des familles, l'allocation pour enfant handicapé prévue au règlement territorial d'aide sociale de Mayotte continue à être délivrée dans les conditions prévues par ce règlement.II. ― La présente ordonnance entre en vigueur le 1er janvier 2009.Toutefois, les dispositions du 6° de l'article 7 de la présente ordonnance entrent en vigueur le 1er janvier 2011."
+      "content": "I.-Jusqu'à la nomination des membres de la commission prévue à l'article L. 545-2 du code de l'action sociale et des familles, et au plus tard le 31 décembre 2009, la commission technique fixée à l'article 7 du décret du 27 juin 2003 susvisé continue à délivrer l'allocation pour adulte handicapé prévue à l'article 35 de l'ordonnance du 27 mars 2002 précitée.Jusqu'à la nomination des membres de la commission prévue à l'article L. 545-2 du code de l'action sociale et des familles, l'allocation pour enfant handicapé prévue au règlement territorial d'aide sociale de Mayotte continue à être délivrée dans les conditions prévues par ce règlement.II. ― La présente ordonnance entre en vigueur le 1er janvier 2009.Toutefois, les dispositions du 6° de l'article 7 de la présente ordonnance entrent en vigueur le 1er janvier 2011.",
+      "valid_from": "2008-08-30"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Le Premier ministre, la ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, le ministre du travail, des relations sociales, de la famille et de la solidarité, la ministre de la santé, de la jeunesse, des sports et de la vie associative, la ministre du logement et de la ville, le ministre du budget, des comptes publics et de la fonction publique, la secrétaire d'Etat chargée de la solidarité et le secrétaire d'Etat chargé de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, le ministre du travail, des relations sociales, de la famille et de la solidarité, la ministre de la santé, de la jeunesse, des sports et de la vie associative, la ministre du logement et de la ville, le ministre du budget, des comptes publics et de la fonction publique, la secrétaire d'Etat chargée de la solidarité et le secrétaire d'Etat chargé de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2008-08-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,49 +12,63 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Un décret pris en application de l'article 6 de la loi n° 49-1098 du 2 août 1949 portant révision de certaines rentes viagères constituées par les compagnies d'assurances, par la Caisse nationale des retraites pour la vieillesse ou par des particuliers moyennant l'aliénation de capitaux en espèces fixe la répartition entre l'Etat, les compagnies d'assurance et les assurés des majorations servies par les compagnies d'assurance en application de la même loi."
+      "content": "Un décret pris en application de l'article 6 de la loi n° 49-1098 du 2 août 1949 portant révision de certaines rentes viagères constituées par les compagnies d'assurances, par la Caisse nationale des retraites pour la vieillesse ou par des particuliers moyennant l'aliénation de capitaux en espèces fixe la répartition entre l'Etat, les compagnies d'assurance et les assurés des majorations servies par les compagnies d'assurance en application de la même loi.",
+      "valid_from": "2013-01-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les dispositions de la loi n° 49-420 du 25 mars 1949 modifiée sont applicables aux rentes perpétuelles constituées entre particuliers antérieurement au 1er janvier 1949 *date limite*.Le capital correspondant à la rente en perpétuel postérieurement au 1er janvier 1957 sera calculé, nonobstant toutes clauses ou conventions contraires, en tenant compte de la majoration dont cette rente a bénéficié ou aurait dû bénéficier en vertu du présent article."
+      "content": "Les dispositions de la loi n° 49-420 du 25 mars 1949 modifiée sont applicables aux rentes perpétuelles constituées entre particuliers antérieurement au 1er janvier 1949 *date limite*.Le capital correspondant à la rente en perpétuel postérieurement au 1er janvier 1957 sera calculé, nonobstant toutes clauses ou conventions contraires, en tenant compte de la majoration dont cette rente a bénéficié ou aurait dû bénéficier en vertu du présent article.",
+      "valid_from": "1957-01-01"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les actions ouvertes par les lois susvisées du 25 mars 1949 et du 22 juillet 1952 et qui devaient être formées dans l'année de leur promulgation pourront être intentées pendant un an à dater de la promulgation de la présente loi *durée, point de départ*."
+      "content": "Les actions ouvertes par les lois susvisées du 25 mars 1949 et du 22 juillet 1952 et qui devaient être formées dans l'année de leur promulgation pourront être intentées pendant un an à dater de la promulgation de la présente loi *durée, point de départ*.",
+      "valid_from": "1957-01-01"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les taux de majorations prévues aux articles 8, 9, 11 et 12 de la loi n° 48-777 du 4 mai 1948 modifiée par le décret n° 54-1270 du 23 décembre 1954 sont remplacés, à compter du 1er janvier 1957, *point de départ, date*, par les taux suivants :- article 8 : 288,75 p. 100 ;- article 9 : vingt et une fois ;- article 11 : 344,25 p. 100 ;- article 12 : 288,75 p. 100.compagnies d'assurances, en"
+      "content": "Les taux de majorations prévues aux articles 8, 9, 11 et 12 de la loi n° 48-777 du 4 mai 1948 modifiée par le décret n° 54-1270 du 23 décembre 1954 sont remplacés, à compter du 1er janvier 1957, *point de départ, date*, par les taux suivants :- article 8 : 288,75 p. 100 ;- article 9 : vingt et une fois ;- article 11 : 344,25 p. 100 ;- article 12 : 288,75 p. 100.compagnies d'assurances, en",
+      "valid_from": "1957-01-01"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les retraites d'un montant non variable constituées auprès des caisses de retraite ou de prévoyance créées par des établissements privés ou des sociétés nationales au bénéfice de leurs salariés seront majorées dans les mêmes conditions et selon les mêmes pourcentages que les rentes viagères visées à l'article 7, deuxième alinéa, de la loi n° 49-1008 du 2 août 1949 modifiée par la loi n° 53-300 du 9 avril 1953.La date retenue pour l'application des pourcentages de majoration sera celle du versement des cotisations ou de l'événement pris en considération pour le calcul de la retraite.Ces majorations, dont la charge incombera au budget de l'Etat, ne seront versées par la caisse des dépôts et consignations que dans la mesure où les retraités ne sont pas déjà appelés à bénéficier, en dehors des prestations obligatoires de vieillesse prévues par la législation de la sécurité sociale, d'avantages s'ajoutant aux obligations nominales originelles des caisses de retraite. Celles-ci devront fournir à cet égard à la caisse nationale d'assurance sur la vie tous les éléments nécessaires à la liquidation des majorations.Les dispositions du présent article prendront effet du 1er janvier 1957 pour les retraites transférées à la caisse nationale avant le 1er janvier 1958, à la date de la prise en charge pour les retraites transférées après le 31 décembre 1957.Les statuts des caisses, les conventions passées entre les retraités et les caisses ou établissements employeurs, ne peuvent avoir pour effet de compenser à des taux inférieurs à ceux résultant du présent article la revalorisation globale dont les intéressés sont susceptibles de bénéficier en vertu, tant des dispositions des alinéas ci-dessus, que des conventions susvisées.Un arrêté du secrétaire d'Etat au budget et du secrétaire d'Etat au travail et à la sécurité sociale fixera les conditions d'application du présent article et précisera notamment les modalités selon lesquelles ses dispositions se substitueront à celles prévues par l'article 12 de la loi n° 53-300 du 9 avril 1953."
+      "content": "Les retraites d'un montant non variable constituées auprès des caisses de retraite ou de prévoyance créées par des établissements privés ou des sociétés nationales au bénéfice de leurs salariés seront majorées dans les mêmes conditions et selon les mêmes pourcentages que les rentes viagères visées à l'article 7, deuxième alinéa, de la loi n° 49-1008 du 2 août 1949 modifiée par la loi n° 53-300 du 9 avril 1953.La date retenue pour l'application des pourcentages de majoration sera celle du versement des cotisations ou de l'événement pris en considération pour le calcul de la retraite.Ces majorations, dont la charge incombera au budget de l'Etat, ne seront versées par la caisse des dépôts et consignations que dans la mesure où les retraités ne sont pas déjà appelés à bénéficier, en dehors des prestations obligatoires de vieillesse prévues par la législation de la sécurité sociale, d'avantages s'ajoutant aux obligations nominales originelles des caisses de retraite. Celles-ci devront fournir à cet égard à la caisse nationale d'assurance sur la vie tous les éléments nécessaires à la liquidation des majorations.Les dispositions du présent article prendront effet du 1er janvier 1957 pour les retraites transférées à la caisse nationale avant le 1er janvier 1958, à la date de la prise en charge pour les retraites transférées après le 31 décembre 1957.Les statuts des caisses, les conventions passées entre les retraités et les caisses ou établissements employeurs, ne peuvent avoir pour effet de compenser à des taux inférieurs à ceux résultant du présent article la revalorisation globale dont les intéressés sont susceptibles de bénéficier en vertu, tant des dispositions des alinéas ci-dessus, que des conventions susvisées.Un arrêté du secrétaire d'Etat au budget et du secrétaire d'Etat au travail et à la sécurité sociale fixera les conditions d'application du présent article et précisera notamment les modalités selon lesquelles ses dispositions se substitueront à celles prévues par l'article 12 de la loi n° 53-300 du 9 avril 1953.",
+      "valid_from": "1957-01-01"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Les crédirentiers à qui l'allocation supplémentaire prévue par l'article 685 du code de la sécurité sociale aura été accordée avant la date d'entrée en vigueur de la présente loi ou avec effet antérieur à cette date, pourront demander la suspension des majorations d'arrérages résultant des articles ci-dessus, leur option restant susceptible d'être, par eux, revisée en cas de modification des plafonds de ressources pris en considération pour l'octroi de l'allocation spéciale instituée par la loi du 10 juillet 1952.La suspension devra porter sur la totalité de ces majorations. Le fonds national de solidarité sera, de plein droit, subrogé dans les droits du crédirentier ayant demandé le bénéfice des dispositions de l'alinéa 1er du présent article.La demande de suspension devra être formulée :- dans l'année suivant la notification de la nouvelle majoration ou l'envoi du nouveau titre de majoration pour les rentes servies par la caisse nationale d'assurance sur la vie, les caisses autonomes mutualistes, les compagnies d'assurances ou la caisse autonome d'amortissement ;- dans l'année suivant la promulgation de la présente loi pour les rentes visées à l'article 4 ci-dessus et qui ne sont pas servies par une compagnie d'assurances ;- dans l'année suivant l'expiration du délai prévu par l'article 9 pour les rentes visées aux articles 1er et 4 bis de la loi n° 49-420 du 25 mars 1949 modifiée, lorsque aucune demande de révision de la majoration n'aura été introduite au cours dudit délai ;- dans l'année suivant la date à laquelle la décision judiciaire fixant le taux de la majoration a acquis autorité de chose jugée pour les rentes visées aux articles 3 et 4 ter de la loi du 25 mars 1949 modifiée, ainsi que pour celles visées aux articles 1er et 4 bis lorsqu'une demande de révision aura été introduite dans le délai prévu par l'article 9 de la présente loi."
+      "content": "Les crédirentiers à qui l'allocation supplémentaire prévue par l'article 685 du code de la sécurité sociale aura été accordée avant la date d'entrée en vigueur de la présente loi ou avec effet antérieur à cette date, pourront demander la suspension des majorations d'arrérages résultant des articles ci-dessus, leur option restant susceptible d'être, par eux, revisée en cas de modification des plafonds de ressources pris en considération pour l'octroi de l'allocation spéciale instituée par la loi du 10 juillet 1952.La suspension devra porter sur la totalité de ces majorations. Le fonds national de solidarité sera, de plein droit, subrogé dans les droits du crédirentier ayant demandé le bénéfice des dispositions de l'alinéa 1er du présent article.La demande de suspension devra être formulée :- dans l'année suivant la notification de la nouvelle majoration ou l'envoi du nouveau titre de majoration pour les rentes servies par la caisse nationale d'assurance sur la vie, les caisses autonomes mutualistes, les compagnies d'assurances ou la caisse autonome d'amortissement ;- dans l'année suivant la promulgation de la présente loi pour les rentes visées à l'article 4 ci-dessus et qui ne sont pas servies par une compagnie d'assurances ;- dans l'année suivant l'expiration du délai prévu par l'article 9 pour les rentes visées aux articles 1er et 4 bis de la loi n° 49-420 du 25 mars 1949 modifiée, lorsque aucune demande de révision de la majoration n'aura été introduite au cours dudit délai ;- dans l'année suivant la date à laquelle la décision judiciaire fixant le taux de la majoration a acquis autorité de chose jugée pour les rentes visées aux articles 3 et 4 ter de la loi du 25 mars 1949 modifiée, ainsi que pour celles visées aux articles 1er et 4 bis lorsqu'une demande de révision aura été introduite dans le délai prévu par l'article 9 de la présente loi.",
+      "valid_from": "1957-01-01"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "La couverture des dépenses résultant de l'application de la présente loi sera assurée par une majoration du prix de vente des tabacs.Un décret pris en conseil des ministres fixera le taux de celle-ci.Le montant de la recette à attendre de l'application de la majoration prévue au premier alinéa ne pourra dépasser 4.650 millions."
+      "content": "La couverture des dépenses résultant de l'application de la présente loi sera assurée par une majoration du prix de vente des tabacs.Un décret pris en conseil des ministres fixera le taux de celle-ci.Le montant de la recette à attendre de l'application de la majoration prévue au premier alinéa ne pourra dépasser 4.650 millions.",
+      "valid_from": "1957-01-01"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Les crédits nécessaires à l'application de la présente loi seront ouverts au ministre des affaires économiques et financières, par décret, en addition aux crédits accordés, pour 1957, au budget des affaires économiques et financières (I : charges communes. - Titre IV - Interventions publiques. - Chapitre 46-94 : \"Majoration des rentes viagères\")."
+      "content": "Les crédits nécessaires à l'application de la présente loi seront ouverts au ministre des affaires économiques et financières, par décret, en addition aux crédits accordés, pour 1957, au budget des affaires économiques et financières (I : charges communes. - Titre IV - Interventions publiques. - Chapitre 46-94 : \"Majoration des rentes viagères\").",
+      "valid_from": "1957-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

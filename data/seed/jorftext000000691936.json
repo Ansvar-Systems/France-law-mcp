@@ -12,55 +12,70 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, il est pourvu aux dépenses ordinaires des chambres de métiers, ainsi qu'aux frais de fonctionnement des caisses instituées par elles en application de l'article 2 du décret du 3 juin 1936, relatif à l'assistance aux artisans sans travail, au moyen d'une taxe annuelle, acquittée par les contribuables exerçant au 1er janvier de l'année de l'imposition une profession ressortissant aux chambres de métiers."
+      "content": "Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, il est pourvu aux dépenses ordinaires des chambres de métiers, ainsi qu'aux frais de fonctionnement des caisses instituées par elles en application de l'article 2 du décret du 3 juin 1936, relatif à l'assistance aux artisans sans travail, au moyen d'une taxe annuelle, acquittée par les contribuables exerçant au 1er janvier de l'année de l'imposition une profession ressortissant aux chambres de métiers.",
+      "valid_from": "1948-06-18"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les chambres de métiers arrêtent chaque année, sous réserve de l'approbation préfectorale, lors de l'établissement de leur budget, le montant total des sommes à imposer à l'ensemble des artisans de la circonscription pour subvenir aux dépenses des chambres, en proportion du montant annuel du plafond de la sécurité sociale."
+      "content": "Les chambres de métiers arrêtent chaque année, sous réserve de l'approbation préfectorale, lors de l'établissement de leur budget, le montant total des sommes à imposer à l'ensemble des artisans de la circonscription pour subvenir aux dépenses des chambres, en proportion du montant annuel du plafond de la sécurité sociale.",
+      "valid_from": "2010-07-25"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La taxe pour frais de chambres de métiers comporte : a) un droit fixe ; b) des droits variables.\n\na) Le droit fixe est calculé chaque année de telle sorte qu'il permette de couvrir 40 p. 100 de l'ensemble des contributions requises au titre de la taxe pour frais de chambres de métiers. Le montant ainsi obtenu par entreprise est arrondi aux 10 F les plus voisins. Ce droit est assis au lieu de l'exploitation. Pour les artisans maîtres ayant plusieurs établissements, il est dû un seul droit fixe au lieu de la direction de l'entreprise ou, à défaut, du principal établissement ;\n\nb) Le montant des droits variables dus par l'ensemble des artisans de la circonscription est égal au total des sommes à percevoir au titre de la taxe pour frais de chambres de métiers diminué du montant des droits fixes ; il est réparti entre eux, la cotisation de chacun étant assise sur la base d'imposition définie pour la cotisation foncière des entreprises par les dispositions législatives en vigueur.\n\nToutefois, en ce qui concerne les redevables de la cotisation foncière des entreprises qui exercent plusieurs professions ne rentrant pas toutes dans les catégories ressortissant à la chambre des métiers, il n'est fait état que des bases d'imposition d'après lesquelles ces contribuables seraient passibles de la cotisation foncière des entreprises s'ils n'exerçaient que les professions ressortissant à la chambre de métiers.\n\nSous réserve des dispositions de l'alinéa qui précède, la taxe variable est établie dans chacune des communes où les artisans maîtres sont assujettis à la cotisation foncière des entreprises.\n\nLe produit des émissions de la taxe ainsi obtenu est affecté à chacun des bénéficiaires mentionnés à l'article 1er dans la limite d'un plafond individuel fixé par référence au plafond général annuel au titre de l'article 1601 du code général des impôts.\n\nCe plafond individuel est obtenu pour chaque bénéficiaire, ainsi que pour les bénéficiaires de la taxe prévue au même article 1601, en répartissant le montant du plafond général mentionné au sixième alinéa du présent article au prorata des émissions perçues figurant dans les rôles généraux de l'année précédant l'année de référence.\n\nPar dérogation au II de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, les plafonds individuels portent sur les émissions rattachées aux rôles de l'année de référence sans prise en compte des remboursements et dégrèvements."
+      "content": "La taxe pour frais de chambres de métiers comporte : a) un droit fixe ; b) des droits variables.\n\na) Le droit fixe est calculé chaque année de telle sorte qu'il permette de couvrir 40 p. 100 de l'ensemble des contributions requises au titre de la taxe pour frais de chambres de métiers. Le montant ainsi obtenu par entreprise est arrondi aux 10 F les plus voisins. Ce droit est assis au lieu de l'exploitation. Pour les artisans maîtres ayant plusieurs établissements, il est dû un seul droit fixe au lieu de la direction de l'entreprise ou, à défaut, du principal établissement ;\n\nb) Le montant des droits variables dus par l'ensemble des artisans de la circonscription est égal au total des sommes à percevoir au titre de la taxe pour frais de chambres de métiers diminué du montant des droits fixes ; il est réparti entre eux, la cotisation de chacun étant assise sur la base d'imposition définie pour la cotisation foncière des entreprises par les dispositions législatives en vigueur.\n\nToutefois, en ce qui concerne les redevables de la cotisation foncière des entreprises qui exercent plusieurs professions ne rentrant pas toutes dans les catégories ressortissant à la chambre des métiers, il n'est fait état que des bases d'imposition d'après lesquelles ces contribuables seraient passibles de la cotisation foncière des entreprises s'ils n'exerçaient que les professions ressortissant à la chambre de métiers.\n\nSous réserve des dispositions de l'alinéa qui précède, la taxe variable est établie dans chacune des communes où les artisans maîtres sont assujettis à la cotisation foncière des entreprises.\n\nLe produit des émissions de la taxe ainsi obtenu est affecté à chacun des bénéficiaires mentionnés à l'article 1er dans la limite d'un plafond individuel fixé par référence au plafond général annuel au titre de l'article 1601 du code général des impôts.\n\nCe plafond individuel est obtenu pour chaque bénéficiaire, ainsi que pour les bénéficiaires de la taxe prévue au même article 1601, en répartissant le montant du plafond général mentionné au sixième alinéa du présent article au prorata des émissions perçues figurant dans les rôles généraux de l'année précédant l'année de référence.\n\nPar dérogation au II de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, les plafonds individuels portent sur les émissions rattachées aux rôles de l'année de référence sans prise en compte des remboursements et dégrèvements.",
+      "valid_from": "2023-12-31"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les états matrices de la taxe pour frais de chambres de métiers sont dressés par les contrôleurs des contributions directes."
+      "content": "Les états matrices de la taxe pour frais de chambres de métiers sont dressés par les contrôleurs des contributions directes.",
+      "valid_from": "1948-06-18"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les frais d'assiette et de perception sont supportés par les chambres de métiers conformément à un tarif fixé par arrêté concerté des ministres chargés du commerce et des finances.\n\nLes dégrèvements et non-valeurs sont à la charge de l'Etat, qui prélève, pour y faire face, 5 p. 100 du montant du rôle de la taxe."
+      "content": "Les frais d'assiette et de perception sont supportés par les chambres de métiers conformément à un tarif fixé par arrêté concerté des ministres chargés du commerce et des finances.\n\nLes dégrèvements et non-valeurs sont à la charge de l'Etat, qui prélève, pour y faire face, 5 p. 100 du montant du rôle de la taxe.",
+      "valid_from": "1948-06-18"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les rôles de la taxe sont établis et recouvrés, les réclamations sont présentées, instruites et jugées comme en matière de cotisation foncière des entreprises.\n\nToutefois, les réclamations ne sont pas communiquées pour avis aux maires ; elles le sont aux chambres de métiers lorsque la contestation porte sur le principe, même de l'imposition.\n\nLes réductions de taxes consécutives à des dégrèvements de cotisations foncières des entreprises sont accordées d'office.\n\nSont applicables à la taxe pour frais de chambres de métiers, les dispositions législatives en vigueur ayant trait au transfert des droits de cotisation foncière des entreprises au cas de cession d'établissement et à la décharge des mêmes droits en cas de fermeture des établissements, magasins, boutiques et ateliers par suite de décès, de liquidation judiciaire ou de faillite déclarée, ou pour cause d'expropriation ou d'expulsion."
+      "content": "Les rôles de la taxe sont établis et recouvrés, les réclamations sont présentées, instruites et jugées comme en matière de cotisation foncière des entreprises.\n\nToutefois, les réclamations ne sont pas communiquées pour avis aux maires ; elles le sont aux chambres de métiers lorsque la contestation porte sur le principe, même de l'imposition.\n\nLes réductions de taxes consécutives à des dégrèvements de cotisations foncières des entreprises sont accordées d'office.\n\nSont applicables à la taxe pour frais de chambres de métiers, les dispositions législatives en vigueur ayant trait au transfert des droits de cotisation foncière des entreprises au cas de cession d'établissement et à la décharge des mêmes droits en cas de fermeture des établissements, magasins, boutiques et ateliers par suite de décès, de liquidation judiciaire ou de faillite déclarée, ou pour cause d'expropriation ou d'expulsion.",
+      "valid_from": "2010-01-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les conditions d'application de la présente loi sont fixées par décret. Ce décret fixera notamment les conditions dans lesquelles les artisans maîtres inscrits sur la liste électorale de la chambre de commerce pourront, dans l'année suivant sa publication, demander leur radiation, ainsi que les conditions suivant lesquelles les artisans maîtres passibles de la taxe pour frais de chambres de métiers et immatriculés au registre du commerce pourront, à l'avenir, être inscrits sur les listes électorales de la chambre de commerce."
+      "content": "Les conditions d'application de la présente loi sont fixées par décret. Ce décret fixera notamment les conditions dans lesquelles les artisans maîtres inscrits sur la liste électorale de la chambre de commerce pourront, dans l'année suivant sa publication, demander leur radiation, ainsi que les conditions suivant lesquelles les artisans maîtres passibles de la taxe pour frais de chambres de métiers et immatriculés au registre du commerce pourront, à l'avenir, être inscrits sur les listes électorales de la chambre de commerce.",
+      "valid_from": "1948-06-18"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les articles 237 à 240 du code des impôts directs et taxes assimilées applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle relatifs à la taxe pour chambres de métiers sont abrogés."
+      "content": "Les articles 237 à 240 du code des impôts directs et taxes assimilées applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle relatifs à la taxe pour chambres de métiers sont abrogés.",
+      "valid_from": "1948-06-18"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les dispositions de la présente loi sont applicables aux impositions à établir à partir de l'année 1948.\n\nLa présente loi sera exécutée comme loi de l'Etat."
+      "content": "Les dispositions de la présente loi sont applicables aux impositions à établir à partir de l'année 1948.\n\nLa présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "1948-06-18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

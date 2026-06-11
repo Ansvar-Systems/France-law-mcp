@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Il sera procédé à la codification, sous le nom de code minier, des textes législatifs concernant les mines, minières et carrières par décret en Conseil d'Etat pris sur le rapport du garde des sceaux, ministre de la justice, et du ministre de l'industrie et du commerce, après avis de la commission supérieure chargée d'étudier la codification et la simplification des textes législatifs et réglementaires."
+      "content": "Il sera procédé à la codification, sous le nom de code minier, des textes législatifs concernant les mines, minières et carrières par décret en Conseil d'Etat pris sur le rapport du garde des sceaux, ministre de la justice, et du ministre de l'industrie et du commerce, après avis de la commission supérieure chargée d'étudier la codification et la simplification des textes législatifs et réglementaires.",
+      "valid_from": "1965-05-28"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Ce décret apportera au texte en vigueur les adaptations de forme et les modifications de fond concernant le régime légal de la recherche et de l'exploitation des substances minérales rendues nécessaires par le travail de codification et l'évolution de la situation technique et économique. Il devra être présenté en forme de projet de loi à l'Assemblée nationale six mois après la promulgation de la présente loi, et entrera en vigueur six mois après la date du dépôt dudit projet de loi, sauf modifications apportées par le Parlement."
+      "content": "Ce décret apportera au texte en vigueur les adaptations de forme et les modifications de fond concernant le régime légal de la recherche et de l'exploitation des substances minérales rendues nécessaires par le travail de codification et l'évolution de la situation technique et économique. Il devra être présenté en forme de projet de loi à l'Assemblée nationale six mois après la promulgation de la présente loi, et entrera en vigueur six mois après la date du dépôt dudit projet de loi, sauf modifications apportées par le Parlement.",
+      "valid_from": "1965-05-28"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Il sera procédé tous les ans, et dans les mêmes conditions, à l'incorporation dans le code minier des textes législatifs modifiant certaines dispositions de ce code sans s'y référer expressément."
+      "content": "Il sera procédé tous les ans, et dans les mêmes conditions, à l'incorporation dans le code minier des textes législatifs modifiant certaines dispositions de ce code sans s'y référer expressément.",
+      "valid_from": "1965-05-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

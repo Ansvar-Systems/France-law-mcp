@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions de nature législative de la loi du 10 août 1871 modifiée relative aux conseils généraux sont applicables à la collectivité territoriale de Mayotte, en tant qu'elles ne sont pas contraires aux dispositions de la présente ordonnance."
+      "content": "Les dispositions de nature législative de la loi du 10 août 1871 modifiée relative aux conseils généraux sont applicables à la collectivité territoriale de Mayotte, en tant qu'elles ne sont pas contraires aux dispositions de la présente ordonnance.",
+      "valid_from": "1977-04-30"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Pour l'application à Mayotte des dispositions de la loi du 10 août 1871 les expressions \"collectivité territoriale de Mayotte\" et \"commission restreinte\" sont substituées aux expressions \"département\" et \"commission départementale\".Les pouvoirs dévolus dans les départements au préfet par la loi du 10 août 1871 modifiée sont exercés à Mayotte par le représentant du Gouvernement."
+      "content": "Pour l'application à Mayotte des dispositions de la loi du 10 août 1871 les expressions \"collectivité territoriale de Mayotte\" et \"commission restreinte\" sont substituées aux expressions \"département\" et \"commission départementale\".Les pouvoirs dévolus dans les départements au préfet par la loi du 10 août 1871 modifiée sont exercés à Mayotte par le représentant du Gouvernement.",
+      "valid_from": "1977-04-30"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions des alinéas 2° à 11° de l'article 61, du dernier alinéa de l'article 62 et des articles 87 et 88 de la loi du 10 août 1871 susvisée ne sont pas applicables à Mayotte. \""
+      "content": "Les dispositions des alinéas 2° à 11° de l'article 61, du dernier alinéa de l'article 62 et des articles 87 et 88 de la loi du 10 août 1871 susvisée ne sont pas applicables à Mayotte. \"",
+      "valid_from": "1992-01-01"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Le Premier ministre, le ministre de l'intérieur, le ministre délégué à l'économie et aux finances et le secrétaire d'Etat auprès du ministre de l'intérieur (Départements et territoires d'outre-mer) sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'intérieur, le ministre délégué à l'économie et aux finances et le secrétaire d'Etat auprès du ministre de l'intérieur (Départements et territoires d'outre-mer) sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "1977-04-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

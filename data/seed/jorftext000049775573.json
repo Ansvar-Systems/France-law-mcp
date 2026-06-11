@@ -12,7 +12,14 @@
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "A modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- Code pénal\n\n- Code de procédure pénale\n\n- Code général de la propriété des personnes publiques."
+      "content": "A modifié les dispositions suivantes :\n\n- Code pénal\n\n- Code de procédure pénale\n\n- Code général de la propriété des personnes publiques.",
+      "valid_from": "2024-06-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

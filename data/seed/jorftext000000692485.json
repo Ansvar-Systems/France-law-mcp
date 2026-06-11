@@ -12,367 +12,437 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le code de procédure pénale (dispositions législatives) en vigueur en métropole au 1er février 1982 est applicable dans les territoires d'outre-mer de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna, sous réserve des dispositions prévues par les articles 9 à 66 et 71 à 74 de la présente loi et de celles, postérieures à la date fixée ci-dessus, déclarées applicables dans ces territoires."
+      "content": "Le code de procédure pénale (dispositions législatives) en vigueur en métropole au 1er février 1982 est applicable dans les territoires d'outre-mer de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna, sous réserve des dispositions prévues par les articles 9 à 66 et 71 à 74 de la présente loi et de celles, postérieures à la date fixée ci-dessus, déclarées applicables dans ces territoires.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Pour l'application des articles 22 à 49, les fonctionnaires et agents exerçant dans les territoires d'outre-mer des fonctions correspondant à celles des fonctionnaires et agents métropolitains visés à ces articles sont chargés de certaines fonctions de police judiciaire dans les conditions et dans limites fixées par ces articles."
+      "content": "Pour l'application des articles 22 à 49, les fonctionnaires et agents exerçant dans les territoires d'outre-mer des fonctions correspondant à celles des fonctionnaires et agents métropolitains visés à ces articles sont chargés de certaines fonctions de police judiciaire dans les conditions et dans limites fixées par ces articles.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Pour l'application du deuxième alinéa de l'article 45, les fonctions du ministère public sont remplies par les fonctionnaires et agents mentionnés à l'article 9 de la présente loi, à l'exception des gardes champêtres des communes et des gardes particuliers assermentés."
+      "content": "Pour l'application du deuxième alinéa de l'article 45, les fonctions du ministère public sont remplies par les fonctionnaires et agents mentionnés à l'article 9 de la présente loi, à l'exception des gardes champêtres des communes et des gardes particuliers assermentés.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Pour l'application du premier alinéa de l'article 46 et de l'article 48, les fonctions du ministère public peuvent également être exercées par un officier de police judiciaire appartenant à la gendarmerie.Pour l'application du deuxième alinéa de l'article 46, les fonctions du ministère public peuvent être également exercées par le chef de la circonscription administrative où siège le tribunal de police."
+      "content": "Pour l'application du premier alinéa de l'article 46 et de l'article 48, les fonctions du ministère public peuvent également être exercées par un officier de police judiciaire appartenant à la gendarmerie.Pour l'application du deuxième alinéa de l'article 46, les fonctions du ministère public peuvent être également exercées par le chef de la circonscription administrative où siège le tribunal de police.",
+      "valid_from": "1984-01-01",
+      "valid_to": "2029-01-01"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Pour l'application des articles 63, 77 et 154, lorsque les conditions de transport ne permettent pas de conduire devant le magistrat compétent la personne retenue, l'officier de police judiciaire peut prescrire à cette personne de se présenter à lui périodiquement, à charge d'en informer immédiatement le magistrat. Ce dernier décide de la mainlevée ou du maintien de la mesure pour une durée qu'il fixe et qui ne peut se prolonger au-delà du jour de la première liaison aérienne ou maritime."
+      "content": "Pour l'application des articles 63, 77 et 154, lorsque les conditions de transport ne permettent pas de conduire devant le magistrat compétent la personne retenue, l'officier de police judiciaire peut prescrire à cette personne de se présenter à lui périodiquement, à charge d'en informer immédiatement le magistrat. Ce dernier décide de la mainlevée ou du maintien de la mesure pour une durée qu'il fixe et qui ne peut se prolonger au-delà du jour de la première liaison aérienne ou maritime.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Pour l'application du deuxième alinéa de l'article 102, le greffier peut être désigné comme interprète pour l'une des langues en usage dans le territoire : il est, dans ce cas, dispensé du serment."
+      "content": "Pour l'application du deuxième alinéa de l'article 102, le greffier peut être désigné comme interprète pour l'une des langues en usage dans le territoire : il est, dans ce cas, dispensé du serment.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Pour l'application du troisième alinéa de l'article 114, le magistrat donne avis à l'inculpé de son droit de choisir un conseil parmi les avocats et, à défaut de choix, lui en fait désigner un d'office, si l'inculpé le demande. La désignation est faite par le bâtonnier de l'ordre des avocats, s'il existe un conseil de l'ordre, et, dans le cas contraire, par le président du tribunal.En l'absence d'avocat, l'inculpé peut prendre pour conseil un citoyen qui n'a fait l'objet d'aucune condamnation, incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire. Ne peut être choisie comme conseil une personne qui fait l'objet de poursuites pour les mêmes faits ou pour des faits connexes.Pour l'application du cinquième alinéa de l'article 114, la partie civile a également le droit de se faire assister dans les conditions prévues à l'alinéa ci-dessus."
+      "content": "Pour l'application du troisième alinéa de l'article 114, le magistrat donne avis à l'inculpé de son droit de choisir un conseil parmi les avocats et, à défaut de choix, lui en fait désigner un d'office, si l'inculpé le demande. La désignation est faite par le bâtonnier de l'ordre des avocats, s'il existe un conseil de l'ordre, et, dans le cas contraire, par le président du tribunal.En l'absence d'avocat, l'inculpé peut prendre pour conseil un citoyen qui n'a fait l'objet d'aucune condamnation, incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire. Ne peut être choisie comme conseil une personne qui fait l'objet de poursuites pour les mêmes faits ou pour des faits connexes.Pour l'application du cinquième alinéa de l'article 114, la partie civile a également le droit de se faire assister dans les conditions prévues à l'alinéa ci-dessus.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Pour l'application des articles 127 et 133, si l'inculpé est trouvé sur une île autre que celle où siège un tribunal, la conduite a lieu dès la première liaison aérienne ou maritime. Le délai nécessaire à la conduite de l'inculpé devant le magistrat compétent et celui pendant lequel l'inculpé a été retenu avant son embarquement sont imputés sur la durée de la peine."
+      "content": "Pour l'application des articles 127 et 133, si l'inculpé est trouvé sur une île autre que celle où siège un tribunal, la conduite a lieu dès la première liaison aérienne ou maritime. Le délai nécessaire à la conduite de l'inculpé devant le magistrat compétent et celui pendant lequel l'inculpé a été retenu avant son embarquement sont imputés sur la durée de la peine.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Pour l'application des articles 128 et 132, l'inculpé peut être retenu dans un local autre qu'une maison d'arrêt."
+      "content": "Pour l'application des articles 128 et 132, l'inculpé peut être retenu dans un local autre qu'une maison d'arrêt.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Pour l'application de l'article 191, la chambre de l'instruction de la cour d'appel de Nouméa et celle de la cour d'appel de Papeete sont composées d'un président de chambre ou d'un conseiller, du président du tribunal de première instance et d'un magistrat du siège de ce tribunal. Ces magistrats sont désignés chaque année par le premier président de la cour d'appel. En cas d'empêchement d'un membre de la chambre de l'instruction, celui-ci est remplacé par un magistrat du siège désigné par le premier président.Le magistrat le plus élevé en grade préside la chambre de l'instruction."
+      "content": "Pour l'application de l'article 191, la chambre de l'instruction de la cour d'appel de Nouméa et celle de la cour d'appel de Papeete sont composées d'un président de chambre ou d'un conseiller, du président du tribunal de première instance et d'un magistrat du siège de ce tribunal. Ces magistrats sont désignés chaque année par le premier président de la cour d'appel. En cas d'empêchement d'un membre de la chambre de l'instruction, celui-ci est remplacé par un magistrat du siège désigné par le premier président.Le magistrat le plus élevé en grade préside la chambre de l'instruction.",
+      "valid_from": "2001-01-01",
+      "valid_to": "2029-01-01"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Pour l'application de l'article 230, les dispositions des articles 224 et suivants sont applicables aux fonctionnaires et agents mentionnés à l'article 9 de la présente loi."
+      "content": "Pour l'application de l'article 230, les dispositions des articles 224 et suivants sont applicables aux fonctionnaires et agents mentionnés à l'article 9 de la présente loi.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Pour l'application de l'article 244, la cour d'assises peut également être présidée, indépendamment de l'application des dispositions de l'article 247, par le président du tribunal de première instance ou par le magistrat du siège le plus ancien dans le grade le plus élevé."
+      "content": "Pour l'application de l'article 244, la cour d'assises peut également être présidée, indépendamment de l'application des dispositions de l'article 247, par le président du tribunal de première instance ou par le magistrat du siège le plus ancien dans le grade le plus élevé.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Pour l'application du 8° de l'article 256, sont incapables d'être jurés ceux qui sont placés dans un établissement d'aliénés en vertu des dispositions en vigueur dans le territoire."
+      "content": "Pour l'application du 8° de l'article 256, sont incapables d'être jurés ceux qui sont placés dans un établissement d'aliénés en vertu des dispositions en vigueur dans le territoire.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "Pour l'application du 2° de l'article 257, les fonctions de juré sont également incompatibles avec celles de membre d'un conseil du contentieux administratif, d'assesseur d'un tribunal du travail, d'assesseur du tribunal de première instance de Wallis-et-Futuna et d'assesseur du tribunal de première instance de Nouméa ou de ses sections détachées.Pour l'application du 3° de l'article 257, les fonctions de juré sont également incompatibles avec celles de représentant de l'Etat dans le territoire, de secrétaire général du territoire, de conseiller de Gouvernement, de membre de l'assemblée territoriale et de chef de circonscription ou de subdivision administrative."
+      "content": "Pour l'application du 2° de l'article 257, les fonctions de juré sont également incompatibles avec celles de membre d'un conseil du contentieux administratif, d'assesseur d'un tribunal du travail, d'assesseur du tribunal de première instance de Wallis-et-Futuna et d'assesseur du tribunal de première instance de Nouméa ou de ses sections détachées.Pour l'application du 3° de l'article 257, les fonctions de juré sont également incompatibles avec celles de représentant de l'Etat dans le territoire, de secrétaire général du territoire, de conseiller de Gouvernement, de membre de l'assemblée territoriale et de chef de circonscription ou de subdivision administrative.",
+      "valid_from": "1990-01-01"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Pour l'application de l'article 260, le nombre minimum de jurés requis pour l'établissement de la liste du jury criminel est de cent en Nouvelle-Calédonie et dans le territoire de la Polynésie française et de quarante dans le territoire des îles Wallis et Futuna."
+      "content": "Pour l'application de l'article 260, le nombre minimum de jurés requis pour l'établissement de la liste du jury criminel est de cent en Nouvelle-Calédonie et dans le territoire de la Polynésie française et de quarante dans le territoire des îles Wallis et Futuna.",
+      "valid_from": "1999-03-21"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "Pour l'application des articles 261 et 261-1 à la formation du jury d'assises à Wallis et Futuna, la liste préparatoire de la liste annuelle est dressée par circonscription territoriale et les attributions du maire sont exercées par le chef de circonscription."
+      "content": "Pour l'application des articles 261 et 261-1 à la formation du jury d'assises à Wallis et Futuna, la liste préparatoire de la liste annuelle est dressée par circonscription territoriale et les attributions du maire sont exercées par le chef de circonscription.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Pour l'application de l'article 262, les conseillers généraux sont remplacés par des conseillers territoriaux.Pour l'application du deuxième alinéa de l'article 262 à Wallis et Futuna, la commission visée au premier alinéa dudit article comprend :Le président du tribunal de première instance, président ;Le procureur de la République ou son remplaçant ;Un citoyen désigné dans les conditions définies au deuxième alinéa de l'article 77 de la présente loi ;Deux conseillers territoriaux désignés chaque année par l'assemblée territoriale."
+      "content": "Pour l'application de l'article 262, les conseillers généraux sont remplacés par des conseillers territoriaux.Pour l'application du deuxième alinéa de l'article 262 à Wallis et Futuna, la commission visée au premier alinéa dudit article comprend :Le président du tribunal de première instance, président ;Le procureur de la République ou son remplaçant ;Un citoyen désigné dans les conditions définies au deuxième alinéa de l'article 77 de la présente loi ;Deux conseillers territoriaux désignés chaque année par l'assemblée territoriale.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "Pour l'application du dernier alinéa de l'article 264, dans les sièges de cours d'assises des territoires d'outre-mer et de Nouvelle-Calédonie, la liste spéciale des jurés suppléants comprend vingt-cinq jurés en Nouvelle-Calédonie et dans le territoire de la Polynésie française, et quinze jurés dans le territoire des îles Wallis et Futuna."
+      "content": "Pour l'application du dernier alinéa de l'article 264, dans les sièges de cours d'assises des territoires d'outre-mer et de Nouvelle-Calédonie, la liste spéciale des jurés suppléants comprend vingt-cinq jurés en Nouvelle-Calédonie et dans le territoire de la Polynésie française, et quinze jurés dans le territoire des îles Wallis et Futuna.",
+      "valid_from": "1999-03-21"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "Pour l'application de l'article 269, l'accusé peut être transféré dans un établissement pénitentiaire autre qu'une maison d'arrêt."
+      "content": "Pour l'application de l'article 269, l'accusé peut être transféré dans un établissement pénitentiaire autre qu'une maison d'arrêt.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "Pour l'application du premier alinéa de l'article 275, le conseil est choisi ou désigné parmi les avocats. Toutefois, l'accusé peut demander que sa défense soit assurée par la personne qui l'a assisté au cours de l'instruction. En l'absence d'avocat, l'accusé peut prendre pour conseil un citoyen qui n'a fait l'objet d'aucune condamnation, incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire. Ne peut être choisie comme conseil une personne qui fait l'objet de poursuites pour les mêmes faits ou pour des faits connexes."
+      "content": "Pour l'application du premier alinéa de l'article 275, le conseil est choisi ou désigné parmi les avocats. Toutefois, l'accusé peut demander que sa défense soit assurée par la personne qui l'a assisté au cours de l'instruction. En l'absence d'avocat, l'accusé peut prendre pour conseil un citoyen qui n'a fait l'objet d'aucune condamnation, incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire. Ne peut être choisie comme conseil une personne qui fait l'objet de poursuites pour les mêmes faits ou pour des faits connexes.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "Pour l'application de l'article 407, le greffier peut être désigné comme interprète pour l'une des langues en usage dans le territoire ; il est, dans ce cas, dispensé du serment. S'il existe un interprète officiel permanent, celui-ci ne prête serment qu'à l'occasion de son entrée en fonctions."
+      "content": "Pour l'application de l'article 407, le greffier peut être désigné comme interprète pour l'une des langues en usage dans le territoire ; il est, dans ce cas, dispensé du serment. S'il existe un interprète officiel permanent, celui-ci ne prête serment qu'à l'occasion de son entrée en fonctions.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art33",
       "section": "33",
       "title": "Article 33",
-      "content": "Pour l'application de l'article 411, le prévenu qui réside dans une île où ne siège pas le tribunal ou qui réside à plus de cent-cinquante kilomètres du siège du tribunal peut en demander le bénéfice dans les conditions prévues audit article, lorsque la durée de l'emprisonnement encourue n'excède pas cinq ans."
+      "content": "Pour l'application de l'article 411, le prévenu qui réside dans une île où ne siège pas le tribunal ou qui réside à plus de cent-cinquante kilomètres du siège du tribunal peut en demander le bénéfice dans les conditions prévues audit article, lorsque la durée de l'emprisonnement encourue n'excède pas cinq ans.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "Pour l'application de l'article 417, le défenseur est choisi ou désigné parmi les avocats. En l'absence d'avocat, le prévenu peut prendre pour conseil un citoyen qui n'a fait l'objet d'aucune condamnation, incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire. Ne peut être choisie comme conseil une personne qui fait l'objet de poursuites pour les mêmes faits ou pour des faits connexes."
+      "content": "Pour l'application de l'article 417, le défenseur est choisi ou désigné parmi les avocats. En l'absence d'avocat, le prévenu peut prendre pour conseil un citoyen qui n'a fait l'objet d'aucune condamnation, incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire. Ne peut être choisie comme conseil une personne qui fait l'objet de poursuites pour les mêmes faits ou pour des faits connexes.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "Pour l'application de l'article 491 et du premier alinéa de l'article 492, les délais d'opposition sont de dix jours si le prévenu réside dans l'île où siège le tribunal et de deux mois s'il réside hors de cette île."
+      "content": "Pour l'application de l'article 491 et du premier alinéa de l'article 492, les délais d'opposition sont de dix jours si le prévenu réside dans l'île où siège le tribunal et de deux mois s'il réside hors de cette île.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "Pour l'application de l'alinéa 1er de l'article 496, le délai est de deux mois si l'appelant réside hors de l'île où siège la juridiction permanente qui a rendu la décision attaquée."
+      "content": "Pour l'application de l'alinéa 1er de l'article 496, le délai est de deux mois si l'appelant réside hors de l'île où siège la juridiction permanente qui a rendu la décision attaquée.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "Pour l'application de l'article 500, le délai supplémentaire est porté à un mois pour les parties qui résident hors de l'île où siège la juridiction permanente qui a rendu la décision attaquée."
+      "content": "Pour l'application de l'article 500, le délai supplémentaire est porté à un mois pour les parties qui résident hors de l'île où siège la juridiction permanente qui a rendu la décision attaquée.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "Pour l'application de l'alinéa 1er de l'article 502, la déclaration d'appel pourra être également faite par lettre signée de l'appelant et adressée au greffier de la juridiction permanente qui a rendu la décision attaquée, si l'appelant réside hors de l'île où siège cette juridiction. Dès réception de cette lettre, le greffier dressera l'acte d'appel et y annexera la lettre de l'appelant. Dans le délai prévu par les articles 498 et 500 tels qu'ils sont adaptés par la présente loi, l'appelant est tenu de confirmer son appel à la mairie ou à la gendarmerie la plus proche de sa résidence."
+      "content": "Pour l'application de l'alinéa 1er de l'article 502, la déclaration d'appel pourra être également faite par lettre signée de l'appelant et adressée au greffier de la juridiction permanente qui a rendu la décision attaquée, si l'appelant réside hors de l'île où siège cette juridiction. Dès réception de cette lettre, le greffier dressera l'acte d'appel et y annexera la lettre de l'appelant. Dans le délai prévu par les articles 498 et 500 tels qu'ils sont adaptés par la présente loi, l'appelant est tenu de confirmer son appel à la mairie ou à la gendarmerie la plus proche de sa résidence.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art39",
       "section": "39",
       "title": "Article 39",
-      "content": "Pour l'application de l'article 523 à Nouméa et à Papeete, ainsi qu'à Mata-Utu, le tribunal de police est constitué par un juge du tribunal de première instance, un officier du ministère public ainsi qu'il est dit aux articles 45 et suivants du code de procédure pénale tels qu'ils sont adaptés par la présente loi et un greffier.Dans les sections du tribunal de première instance et lors des audiences foraines, le tribunal est constitué par le juge chargé du service de la section ou le juge forain, un officier du ministère public ainsi qu'il est dit aux articles 45 et suivants du code de procédure pénale tels qu'ils sont adaptés par la présente loi et un greffier."
+      "content": "Pour l'application de l'article 523 à Nouméa et à Papeete, ainsi qu'à Mata-Utu, le tribunal de police est constitué par un juge du tribunal de première instance, un officier du ministère public ainsi qu'il est dit aux articles 45 et suivants du code de procédure pénale tels qu'ils sont adaptés par la présente loi et un greffier.Dans les sections du tribunal de première instance et lors des audiences foraines, le tribunal est constitué par le juge chargé du service de la section ou le juge forain, un officier du ministère public ainsi qu'il est dit aux articles 45 et suivants du code de procédure pénale tels qu'ils sont adaptés par la présente loi et un greffier.",
+      "valid_from": "1984-01-01",
+      "valid_to": "2029-01-01"
     },
     {
       "provision_ref": "art40",
       "section": "40",
       "title": "Article 40",
-      "content": "Pour l'application de l'article 527, le délai prévu au troisième alinéa est de deux mois.Pour l'application du quatrième alinéa de l'article 527, les délais d'opposition sont de deux mois si le prévenu réside hors de l'île où siège la juridiction permanente qui a rendu la décision attaquée."
+      "content": "Pour l'application de l'article 527, le délai prévu au troisième alinéa est de deux mois.Pour l'application du quatrième alinéa de l'article 527, les délais d'opposition sont de deux mois si le prévenu réside hors de l'île où siège la juridiction permanente qui a rendu la décision attaquée.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art41",
       "section": "41",
       "title": "Article 41",
-      "content": "Pour l'application de l'article 529, le délai prévu au quatrième alinéa est d'un mois."
+      "content": "Pour l'application de l'article 529, le délai prévu au quatrième alinéa est d'un mois.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art43",
       "section": "43",
       "title": "Article 43",
-      "content": "Les dispositions de l'alinéa 1er de l'article 530-2 ne font pas obstacle aux compétences du territoire."
+      "content": "Les dispositions de l'alinéa 1er de l'article 530-2 ne font pas obstacle aux compétences du territoire.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art44",
       "section": "44",
       "title": "Article 44",
-      "content": "Pour l'application de l'article 546, les dispositions du quatrième alinéa s'appliquent aux affaires poursuivies à la requête des autorités compétentes en matière d'eaux et forêts."
+      "content": "Pour l'application de l'article 546, les dispositions du quatrième alinéa s'appliquent aux affaires poursuivies à la requête des autorités compétentes en matière d'eaux et forêts.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art45",
       "section": "45",
       "title": "Article 45",
-      "content": "Le délai prévu par l'article 552 entre le jour où la citation est délivrée et le jour fixé pour la comparution devant la juridiction est fixé ainsi qu'il suit :1° En Nouvelle-Calédonie, au moins dix jours si la partie réside dans l'île, un mois si elle réside dans ses dépendances, cinq mois si elle réside en tout autre lieu.2° Dans les îles Wallis et Futuna, au mois dix jours si la partie réside dans l'île où siège le tribunal, deux mois si elle réside dans une autre partie du territoire, cinq mois si elle réside en tout autre lieu.3° En Polynésie française :1. Dans les îles de Tahiti, de Raiatea et de Nukuhiva, un jour par trente kilomètres, sans que ce délai puisse être inférieur à dix jours, lorsque la partie intéressée réside dans l'une de ces îles et qu'elle est citée devant le tribunal de la même île ;2. Dans les îles du Vent, dans les îles Sous-le-Vent et aux Marquises, dix jours lorsque la partie intéressée réside dans une des îles de l'archipel où siège le tribunal devant lequel elle est citée ;3. Entre les îles du Vent et les îles Sous-le-Vent, un mois lorsque la partie intéressée réside dans une des îles d'un archipel où siège un tribunal et qu'elle est citée devant un tribunal qui siège dans l'une des îles d'un autre archipel ;4. Entre le siège d'une juridiction et les îles Tuamotu, deux mois lorsque la partie intéressée réside dans l'une de ces îles et qu'elle est citée devant un tribunal qui siège dans une autre île ;5. Entre le siège d'une juridiction et les îles Australes, trois mois lorsque la partie intéressée réside dans l'une de ces îles et qu'elle est citée devant un tribunal qui siège dans une autre île ;6. Entre le siège d'une juridiction et les îles Marquises, trois mois lorsque la partie intéressée réside dans l'une de ces îles et qu'elle est citée devant un tribunal qui siège dans une autre île ;7. Entre le siège d'une juridiction et les îles Gambier, quatre mois lorsque la partie intéressée réside dans ces îles et qu'elle est citée devant un tribunal qui siège dans une autre île ;8. Le délai est de cinq mois lorsque la partie intéressée réside en tout autre lieu et qu'elle est citée devant un tribunal qui siège dans l'une des îles de la Polynésie française ;9. En audience foraine et lorsque la partie réside dans l'île où cette audience se tient, un jour par 30 kilomètres, sans que ce délai puisse être inférieur à trois jours."
+      "content": "Le délai prévu par l'article 552 entre le jour où la citation est délivrée et le jour fixé pour la comparution devant la juridiction est fixé ainsi qu'il suit :1° En Nouvelle-Calédonie, au moins dix jours si la partie réside dans l'île, un mois si elle réside dans ses dépendances, cinq mois si elle réside en tout autre lieu.2° Dans les îles Wallis et Futuna, au mois dix jours si la partie réside dans l'île où siège le tribunal, deux mois si elle réside dans une autre partie du territoire, cinq mois si elle réside en tout autre lieu.3° En Polynésie française :1. Dans les îles de Tahiti, de Raiatea et de Nukuhiva, un jour par trente kilomètres, sans que ce délai puisse être inférieur à dix jours, lorsque la partie intéressée réside dans l'une de ces îles et qu'elle est citée devant le tribunal de la même île ;2. Dans les îles du Vent, dans les îles Sous-le-Vent et aux Marquises, dix jours lorsque la partie intéressée réside dans une des îles de l'archipel où siège le tribunal devant lequel elle est citée ;3. Entre les îles du Vent et les îles Sous-le-Vent, un mois lorsque la partie intéressée réside dans une des îles d'un archipel où siège un tribunal et qu'elle est citée devant un tribunal qui siège dans l'une des îles d'un autre archipel ;4. Entre le siège d'une juridiction et les îles Tuamotu, deux mois lorsque la partie intéressée réside dans l'une de ces îles et qu'elle est citée devant un tribunal qui siège dans une autre île ;5. Entre le siège d'une juridiction et les îles Australes, trois mois lorsque la partie intéressée réside dans l'une de ces îles et qu'elle est citée devant un tribunal qui siège dans une autre île ;6. Entre le siège d'une juridiction et les îles Marquises, trois mois lorsque la partie intéressée réside dans l'une de ces îles et qu'elle est citée devant un tribunal qui siège dans une autre île ;7. Entre le siège d'une juridiction et les îles Gambier, quatre mois lorsque la partie intéressée réside dans ces îles et qu'elle est citée devant un tribunal qui siège dans une autre île ;8. Le délai est de cinq mois lorsque la partie intéressée réside en tout autre lieu et qu'elle est citée devant un tribunal qui siège dans l'une des îles de la Polynésie française ;9. En audience foraine et lorsque la partie réside dans l'île où cette audience se tient, un jour par 30 kilomètres, sans que ce délai puisse être inférieur à trois jours.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art46",
       "section": "46",
       "title": "Article 46",
-      "content": "Pour l'application du premier alinéa de l'article 568, les délais de pourvoi sont d'un mois si le demandeur en cassation réside hors de l'île où siège la juridiction permanente qui a rendu la décision attaquée."
+      "content": "Pour l'application du premier alinéa de l'article 568, les délais de pourvoi sont d'un mois si le demandeur en cassation réside hors de l'île où siège la juridiction permanente qui a rendu la décision attaquée.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art47",
       "section": "47",
       "title": "Article 47",
-      "content": "Pour l'application de l'alinéa premier de l'article 576, si le demandeur en cassation réside hors de l'île où siège la juridiction permanente qui a rendu la décision attaquée, le pourvoi peut être également fait par lettre signée du demandeur en cassation et adressée au greffier de la juridiction qui a rendu la décision attaquée. Dès réception de cette lettre le greffier dressera l'acte de pourvoi et y annexera la lettre du demandeur en cassation. Dans le délai prévu par l'article 568 tel qu'il est adapté par la présente loi, le demandeur en cassation est tenu de confirmer son pourvoi à la mairie ou à la gendarmerie la plus proche de sa résidence."
+      "content": "Pour l'application de l'alinéa premier de l'article 576, si le demandeur en cassation réside hors de l'île où siège la juridiction permanente qui a rendu la décision attaquée, le pourvoi peut être également fait par lettre signée du demandeur en cassation et adressée au greffier de la juridiction qui a rendu la décision attaquée. Dès réception de cette lettre le greffier dressera l'acte de pourvoi et y annexera la lettre du demandeur en cassation. Dans le délai prévu par l'article 568 tel qu'il est adapté par la présente loi, le demandeur en cassation est tenu de confirmer son pourvoi à la mairie ou à la gendarmerie la plus proche de sa résidence.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art48",
       "section": "48",
       "title": "Article 48",
-      "content": "Pour l'application de l'article 579, les délais d'opposition à l'arrêt rendu par la Cour de cassation sont d'un mois si la partie qui formé opposition réside hors de l'île où siège la juridiction permanente qui a rendu la décision attaquée.Dans ce dernier cas, l'opposition peut être également faite dans les formes prévues à l'article 47 de la présente loi."
+      "content": "Pour l'application de l'article 579, les délais d'opposition à l'arrêt rendu par la Cour de cassation sont d'un mois si la partie qui formé opposition réside hors de l'île où siège la juridiction permanente qui a rendu la décision attaquée.Dans ce dernier cas, l'opposition peut être également faite dans les formes prévues à l'article 47 de la présente loi.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art49",
       "section": "49",
       "title": "Article 49",
-      "content": "Pour l'application de l'article 584, les délais prévus sont de deux mois si le demandeur en cassation réside hors de l'île où siège la juridiction permanente qui a rendu la décision attaquée."
+      "content": "Pour l'application de l'article 584, les délais prévus sont de deux mois si le demandeur en cassation réside hors de l'île où siège la juridiction permanente qui a rendu la décision attaquée.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art50",
       "section": "50",
       "title": "Article 50",
-      "content": "Pour l'application de l'article 589, les délais d'opposition à l'arrêt rendu par la Cour de cassation et les formes de cette opposition sont ceux prévus par les articles 46 et 47 de la présente loi."
+      "content": "Pour l'application de l'article 589, les délais d'opposition à l'arrêt rendu par la Cour de cassation et les formes de cette opposition sont ceux prévus par les articles 46 et 47 de la présente loi.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art51",
       "section": "51",
       "title": "Article 51",
-      "content": "Pour l'application des article 628 et 634, l'ordonnance mentionnée à l'article 627 et l'extrait de condamnation mentionné à l'article 634 sont insérés dans l'un des journaux du territoire et, lorsqu'il n'y a pas de mairie; affichés à la diligence du chef de circonscription."
+      "content": "Pour l'application des article 628 et 634, l'ordonnance mentionnée à l'article 627 et l'extrait de condamnation mentionné à l'article 634 sont insérés dans l'un des journaux du territoire et, lorsqu'il n'y a pas de mairie; affichés à la diligence du chef de circonscription.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art52",
       "section": "52",
       "title": "Article 52",
-      "content": "Pour l'application de l'article 662, le délai prévu au troisième alinéa est de deux mois."
+      "content": "Pour l'application de l'article 662, le délai prévu au troisième alinéa est de deux mois.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art53",
       "section": "53",
       "title": "Article 53",
-      "content": "Pour l'application de l'article 674-2, les dispositions de procédure civile visées au deuxième alinéa sont celles relatives à la récusation en matière civile en vigueur dans chaque territoire."
+      "content": "Pour l'application de l'article 674-2, les dispositions de procédure civile visées au deuxième alinéa sont celles relatives à la récusation en matière civile en vigueur dans chaque territoire.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art54",
       "section": "54",
       "title": "Article 54",
-      "content": "Les dispositions de l'article 679 sont également applicables au représentant de l'Etat dans le territoire, au secrétaire général du territoire, aux conseillers de Gouvernement et aux membres du conseil du contentieux administratif."
+      "content": "Les dispositions de l'article 679 sont également applicables au représentant de l'Etat dans le territoire, au secrétaire général du territoire, aux conseillers de Gouvernement et aux membres du conseil du contentieux administratif.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art55",
       "section": "55",
       "title": "Article 55",
-      "content": "Pour l'application de l'article 706-14, les dispositions de l'alinéa 1er de l'article 2 de la loi n° 72-11 du 3 janvier 1972 instituant l'aide judiciaire sont remplacées par celles en vigueur dans les territoires mentionnés à l'article 1er de la présente loi."
+      "content": "Pour l'application de l'article 706-14, les dispositions de l'alinéa 1er de l'article 2 de la loi n° 72-11 du 3 janvier 1972 instituant l'aide judiciaire sont remplacées par celles en vigueur dans les territoires mentionnés à l'article 1er de la présente loi.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art56",
       "section": "56",
       "title": "Article 56",
-      "content": "Pour l'application de l'article 707, les attributions dévolues au percepteur sont exercées par l'agent chargé du recouvrement des amendes en vertu de la réglementation applicable dans le territoire."
+      "content": "Pour l'application de l'article 707, les attributions dévolues au percepteur sont exercées par l'agent chargé du recouvrement des amendes en vertu de la réglementation applicable dans le territoire.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art57",
       "section": "57",
       "title": "Article 57",
-      "content": "Les personnes visées à l'article 714 peuvent être détenues dans un local autre qu'une maison d'arrêt."
+      "content": "Les personnes visées à l'article 714 peuvent être détenues dans un local autre qu'une maison d'arrêt.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art58",
       "section": "58",
       "title": "Article 58",
-      "content": "Les articles 717 à 719, l'alinéa 1er de l'article 728 et le troisième alinéa de l'article 731 ne sont pas applicables."
+      "content": "Les articles 717 à 719, l'alinéa 1er de l'article 728 et le troisième alinéa de l'article 731 ne sont pas applicables.",
+      "valid_from": "2010-03-12"
     },
     {
       "provision_ref": "art59",
       "section": "59",
       "title": "Article 59",
-      "content": "Pour l'application de l'article 730, deux premiers alinéas de l'article 731 et des articles 732 et 733, les attributions dévolues au ministre de la justice sont exercées par le représentant de l'Etat dans le territoire."
+      "content": "Pour l'application de l'article 730, deux premiers alinéas de l'article 731 et des articles 732 et 733, les attributions dévolues au ministre de la justice sont exercées par le représentant de l'Etat dans le territoire.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art61",
       "section": "61",
       "title": "Article 61",
-      "content": "Pour l'application de l'alinéa 1er de l'article 758, la contrainte judiciaire est subie dans un établissement pénitentiaire."
+      "content": "Pour l'application de l'alinéa 1er de l'article 758, la contrainte judiciaire est subie dans un établissement pénitentiaire.",
+      "valid_from": "2004-03-10"
     },
     {
       "provision_ref": "art62",
       "section": "62",
       "title": "Article 62",
-      "content": "La caution mentionnée à l'article 759 est admise par le receveur des finances ou par l'agent qui exerce les fonctions dévolues à ce dernier par la réglementation applicable au territoire."
+      "content": "La caution mentionnée à l'article 759 est admise par le receveur des finances ou par l'agent qui exerce les fonctions dévolues à ce dernier par la réglementation applicable au territoire.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art63",
       "section": "63",
       "title": "Article 63",
-      "content": "Pour l'application des deuxième et troisième alinéas de l'article 763, le condamné sera soumis à l'interdiction de séjour dans la subdivision administrative ou, pour les îles Wallis et Futuna, dans la circonscription administrative où demeureraient soit celui sur lequel ou contre la propriété duquel le crime aurait été commis, soit ses héritiers directs."
+      "content": "Pour l'application des deuxième et troisième alinéas de l'article 763, le condamné sera soumis à l'interdiction de séjour dans la subdivision administrative ou, pour les îles Wallis et Futuna, dans la circonscription administrative où demeureraient soit celui sur lequel ou contre la propriété duquel le crime aurait été commis, soit ses héritiers directs.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art64",
       "section": "64",
       "title": "Article 64",
-      "content": "Pour l'application de l'article 773, il est adressé une copie de chaque fiche constatant une décision entraînant la privation des droits électoraux à l'autorité administrative compétente du territoire."
+      "content": "Pour l'application de l'article 773, il est adressé une copie de chaque fiche constatant une décision entraînant la privation des droits électoraux à l'autorité administrative compétente du territoire.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art65",
       "section": "65",
       "title": "Article 65",
-      "content": "L'article 800 n'est pas applicable."
+      "content": "L'article 800 n'est pas applicable.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art66",
       "section": "66",
       "title": "Article 66",
-      "content": "Pour l'application du code de procédure pénale, les dispositions auxquelles il est fait référence sont celles qui résultent des adaptations prévues par la présente loi."
+      "content": "Pour l'application du code de procédure pénale, les dispositions auxquelles il est fait référence sont celles qui résultent des adaptations prévues par la présente loi.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art67",
       "section": "67",
       "title": "Article 67",
-      "content": "Sont applicables dans les territoires d'outre-mer et les îles mentionnés aux articles 1er, 6 et 7 de la présente loi, l'article 9 du code civil, la loi du 10 mars 1927 relative à l'extradition des étrangers, l'article 33 de la loi n° 70-643 du 17 juillet 1970 tendant à renforcer la garantie des droits individuels des citoyens, la loi du 29 juillet 1881 sur la liberté de la presse, la loi n° 72-546 du 1er juillet 1972 relative à la lutte contre le racisme et l'article 7 de la loi n° 79-1131 du 28 décembre 1979 modifiant le taux des amendes pénales en matière de contraventions de police, telles qu'elles ont été modifiées.Est également applicable l'article L. 23-1 du code de la route ; toutefois, dans le texte de cet article, la référence au \"code de la route\" est remplacée par la référence au \"code de la route applicable localement\".Les condamnés détenus qui exécutent une peine de relégation sont libérés dès l'entrée en vigueur de la présente loi."
+      "content": "Sont applicables dans les territoires d'outre-mer et les îles mentionnés aux articles 1er, 6 et 7 de la présente loi, l'article 9 du code civil, la loi du 10 mars 1927 relative à l'extradition des étrangers, l'article 33 de la loi n° 70-643 du 17 juillet 1970 tendant à renforcer la garantie des droits individuels des citoyens, la loi du 29 juillet 1881 sur la liberté de la presse, la loi n° 72-546 du 1er juillet 1972 relative à la lutte contre le racisme et l'article 7 de la loi n° 79-1131 du 28 décembre 1979 modifiant le taux des amendes pénales en matière de contraventions de police, telles qu'elles ont été modifiées.Est également applicable l'article L. 23-1 du code de la route ; toutefois, dans le texte de cet article, la référence au \"code de la route\" est remplacée par la référence au \"code de la route applicable localement\".Les condamnés détenus qui exécutent une peine de relégation sont libérés dès l'entrée en vigueur de la présente loi.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art68",
       "section": "68",
       "title": "Article 68",
-      "content": "Sont applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis et Futuna, le premier alinéa de l'article 2 et les deuxième et troisième alinéas de l'article 4 de la loi n° 55-304 du 18 mars 1955 relative à l'interdiction de séjour."
+      "content": "Sont applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis et Futuna, le premier alinéa de l'article 2 et les deuxième et troisième alinéas de l'article 4 de la loi n° 55-304 du 18 mars 1955 relative à l'interdiction de séjour.",
+      "valid_from": "1999-03-21"
     },
     {
       "provision_ref": "art72",
       "section": "72",
       "title": "Article 72",
-      "content": "Les sommes portées dans les textes rendus applicables par la présente loi sont exprimées en francs métropolitains. Toutefois, les condamnations sont prononcées en monnaie locale, compte tenu de la contre valeur dans cette monnaie du franc métropolitain. Pour l'application de l'article 81 de la présente loi, le montant des amendes est également mentionné, à titre indicatif, en monnaie locale compte tenu de la contre-valeur du franc métropolitain."
+      "content": "Les sommes portées dans les textes rendus applicables par la présente loi sont exprimées en francs métropolitains. Toutefois, les condamnations sont prononcées en monnaie locale, compte tenu de la contre valeur dans cette monnaie du franc métropolitain. Pour l'application de l'article 81 de la présente loi, le montant des amendes est également mentionné, à titre indicatif, en monnaie locale compte tenu de la contre-valeur du franc métropolitain.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art73",
       "section": "73",
       "title": "Article 73",
-      "content": "Dans les îles qui ne sont pas desservies par un service régulier des postes, les notifications, citations, significations et avis prévus par la voie postale dans le code de procédure pénale ou d'autres textes de procédure pénale sont faites par l'autorité administrative qui délivre un avis contre émargement. Il en est de même en l'absence d'office d'huissier, lorsque le code de procédure pénale ou d'autres textes de procédure pénale prévoient l'intervention d'un huissier. L'avis administratif est délivré sans délai. Il contient la désignation du requérant ainsi que celle de l'autorité administrative qui effectue la remise, la date de la remise et les nom, prénoms et adresse du destinataire. Lorsqu'il remplace la citation de l'article 551, il contient, en outre, les indications prévues aux deuxième à quatrième alinéas dudit article.Dans le cas où il n'est pas établi que l'avis soit parvenu à son destinataire, il est fait application de l'article 560 du code de procédure pénale."
+      "content": "Dans les îles qui ne sont pas desservies par un service régulier des postes, les notifications, citations, significations et avis prévus par la voie postale dans le code de procédure pénale ou d'autres textes de procédure pénale sont faites par l'autorité administrative qui délivre un avis contre émargement. Il en est de même en l'absence d'office d'huissier, lorsque le code de procédure pénale ou d'autres textes de procédure pénale prévoient l'intervention d'un huissier. L'avis administratif est délivré sans délai. Il contient la désignation du requérant ainsi que celle de l'autorité administrative qui effectue la remise, la date de la remise et les nom, prénoms et adresse du destinataire. Lorsqu'il remplace la citation de l'article 551, il contient, en outre, les indications prévues aux deuxième à quatrième alinéas dudit article.Dans le cas où il n'est pas établi que l'avis soit parvenu à son destinataire, il est fait application de l'article 560 du code de procédure pénale.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art79",
       "section": "79",
       "title": "Article 79",
-      "content": "Sous réserve des dispositions qui ressortissent à la compétence propre des territoires d'outre-mer en vertu des statuts qui les régissent, sont abrogées, dans les territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna et dans les îles mentionnées aux articles 6 et 7 de la présente loi, toutes les dispositions législatives pénales et de procédure pénale contraires à ladite loi.\n\nSont notamment abrogés :\n\n1. Le code d'instruction criminelle.\n\n2. Les lois des 20 mai et 23 juin 1921 sur le flagrant délit.\n\n3. Les lois des 22 juillet 1867 et n° 57-142 du 9 février 1957 sur la contrainte judiciaire.\n\n4. La loi modifiée du 5 août 1889 sur le casier judiciaire et la réhabilitation des condamnés.\n\n5. L'article 10 du décret du 5 mars 1925 sur les pouvoirs des gouverneurs quant à l'administration de la justice.\n\n6. L'article 35 de la loi du 10 mars 1927 relative à l'extradition des étrangers.\n\n7. Les articles 32, troisième, quatrième et cinquième alinéa, 35, 36, 42, troisième alinéa, 44 à 66 et 68 à 72, 133 à 162 et 173 à 177, en tant qu'ils concernent la matière pénale, du décret du 7 avril 1928 modifié portant organisation de l'administration de la justice en Nouvelle-Calédonie et dépendances.\n\nToutefois, les dispositions de l'article 161 de ce décret demeurent applicables en ce qui concerne les procédures qui ont donné lieu à une décision de renvoi devant la juridiction criminelle avant l'entrée en vigueur de la présente loi.\n\n8. Le décret du 28 septembre 1928 réglant les renvois d'un tribunal à un autre dans les colonies.\n\n9. Le décret du 30 novembre 1928 instituant les juridictions et le régime de la liberté surveillée pour les mineurs, à l'exception des articles 22, 24 sauf le septième alinéa, et 26.\n\n10. Les articles 5 à 10 du décret du 8 août 1933 portant organisation de la justice française aux îles Wallis et Futuna, en tant qu'ils concernent la matière pénale.\n\n11. Les articles 3, 4 deuxième alinéa, 52 à 71, 75, deuxième et troisième alinéa, 77, 140 à 186, 215, 219, 221 à 232 du décret modifié du 21 novembre 1933 portant réorganisation judiciaire et règles de procédure en Océanie, en tant que ces articles concernent la matière pénale.\n\nToutefois, les dispositions de l'article 215 de ce décret demeurent applicables en ce qui concerne les procédures qui ont donné lieu à une décision de renvoi devant la juridiction criminelle avant l'entrée en vigueur de la présente loi."
+      "content": "Sous réserve des dispositions qui ressortissent à la compétence propre des territoires d'outre-mer en vertu des statuts qui les régissent, sont abrogées, dans les territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna et dans les îles mentionnées aux articles 6 et 7 de la présente loi, toutes les dispositions législatives pénales et de procédure pénale contraires à ladite loi.\n\nSont notamment abrogés :\n\n1. Le code d'instruction criminelle.\n\n2. Les lois des 20 mai et 23 juin 1921 sur le flagrant délit.\n\n3. Les lois des 22 juillet 1867 et n° 57-142 du 9 février 1957 sur la contrainte judiciaire.\n\n4. La loi modifiée du 5 août 1889 sur le casier judiciaire et la réhabilitation des condamnés.\n\n5. L'article 10 du décret du 5 mars 1925 sur les pouvoirs des gouverneurs quant à l'administration de la justice.\n\n6. L'article 35 de la loi du 10 mars 1927 relative à l'extradition des étrangers.\n\n7. Les articles 32, troisième, quatrième et cinquième alinéa, 35, 36, 42, troisième alinéa, 44 à 66 et 68 à 72, 133 à 162 et 173 à 177, en tant qu'ils concernent la matière pénale, du décret du 7 avril 1928 modifié portant organisation de l'administration de la justice en Nouvelle-Calédonie et dépendances.\n\nToutefois, les dispositions de l'article 161 de ce décret demeurent applicables en ce qui concerne les procédures qui ont donné lieu à une décision de renvoi devant la juridiction criminelle avant l'entrée en vigueur de la présente loi.\n\n8. Le décret du 28 septembre 1928 réglant les renvois d'un tribunal à un autre dans les colonies.\n\n9. Le décret du 30 novembre 1928 instituant les juridictions et le régime de la liberté surveillée pour les mineurs, à l'exception des articles 22, 24 sauf le septième alinéa, et 26.\n\n10. Les articles 5 à 10 du décret du 8 août 1933 portant organisation de la justice française aux îles Wallis et Futuna, en tant qu'ils concernent la matière pénale.\n\n11. Les articles 3, 4 deuxième alinéa, 52 à 71, 75, deuxième et troisième alinéa, 77, 140 à 186, 215, 219, 221 à 232 du décret modifié du 21 novembre 1933 portant réorganisation judiciaire et règles de procédure en Océanie, en tant que ces articles concernent la matière pénale.\n\nToutefois, les dispositions de l'article 215 de ce décret demeurent applicables en ce qui concerne les procédures qui ont donné lieu à une décision de renvoi devant la juridiction criminelle avant l'entrée en vigueur de la présente loi.",
+      "valid_from": "2004-03-10"
     },
     {
       "provision_ref": "art80",
       "section": "80",
       "title": "Article 80",
-      "content": "La présente loi entrera en vigueur le 1er janvier 1984.Toutefois, l'établissement de la liste annuelle du jury d'assises pour l'année 1984 prévue par les articles 259 et suivants du code de procédure pénale, tels qu'ils sont adaptés par la présente loi, sera opéré dès la promulgation de celle-ci et, en tout cas, antérieurement au 31 décembre 1983. Le président de la commission prévue à l'article 262 fixera les délais et les dates d'accomplissement des diverses formalités.Pour l'application des articles 149 et suivants du code de procédure pénale, en ce qui concerne les affaires où la décision de non-lieu, de relaxe ou d'acquittement est devenue définitive entre le 1er janvier 1980 et la date d'entrée en vigueur de la présente loi, la commission pourra être saisie dans le délai d'un an à compter de cette dernière date.Les procédures en cours à la date d'entrée en vigueur de la présente loi devant la cour criminelle siégeant à Papeete et à Nouméa seront déférées de plein droit aux cours d'assises devenues compétentes en vertu de la présente loi. De même, seront déférées de plein droit au tribunal de première instance du territoire de Wallis et Futuna les procédures en cours à la même date pour lesquelles ce tribunal sera devenu compétent.Les actes, formalités et décisions intervenus antérieurement demeureront valables. Les délais prévus par le code de procédure pénale, notamment en matière de détention provisoire, commenceront à courir à compter de la date d'entrée en vigueur de la présente loi.Sous réserve des alinéas qui précèdent, les dispositions des lois qui ont modifié le code pénal ou le code de procédure pénale et ont réglé leur application en fonction de la date de la commission des faits ou de celle de la condamnation sont applicables, s'il y a lieu, aux situations qu'elles concernent."
+      "content": "La présente loi entrera en vigueur le 1er janvier 1984.Toutefois, l'établissement de la liste annuelle du jury d'assises pour l'année 1984 prévue par les articles 259 et suivants du code de procédure pénale, tels qu'ils sont adaptés par la présente loi, sera opéré dès la promulgation de celle-ci et, en tout cas, antérieurement au 31 décembre 1983. Le président de la commission prévue à l'article 262 fixera les délais et les dates d'accomplissement des diverses formalités.Pour l'application des articles 149 et suivants du code de procédure pénale, en ce qui concerne les affaires où la décision de non-lieu, de relaxe ou d'acquittement est devenue définitive entre le 1er janvier 1980 et la date d'entrée en vigueur de la présente loi, la commission pourra être saisie dans le délai d'un an à compter de cette dernière date.Les procédures en cours à la date d'entrée en vigueur de la présente loi devant la cour criminelle siégeant à Papeete et à Nouméa seront déférées de plein droit aux cours d'assises devenues compétentes en vertu de la présente loi. De même, seront déférées de plein droit au tribunal de première instance du territoire de Wallis et Futuna les procédures en cours à la même date pour lesquelles ce tribunal sera devenu compétent.Les actes, formalités et décisions intervenus antérieurement demeureront valables. Les délais prévus par le code de procédure pénale, notamment en matière de détention provisoire, commenceront à courir à compter de la date d'entrée en vigueur de la présente loi.Sous réserve des alinéas qui précèdent, les dispositions des lois qui ont modifié le code pénal ou le code de procédure pénale et ont réglé leur application en fonction de la date de la commission des faits ou de celle de la condamnation sont applicables, s'il y a lieu, aux situations qu'elles concernent.",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art80-1",
       "section": "80-1",
       "title": "Article 80-1",
-      "content": "Les dispositions de l'article 768 du code de procédure pénale, telles qu'elles résultent de la loi n° 80-2 du 4 janvier 1980, entreront en vigueur à des dates qui seront fixées par décret pour chaque tribunal de première instance. Jusqu'à ces dates, l'article 768 du code de procédure pénale sera applicable dans la rédaction suivante :\" Art. 768  - Le greffe de chaque tribunal de première instance reçoit, en ce qui concerne les personnes nées dans la circonscription du tribunal et après vérification de leur identité aux registres de l'état civil, des fiches constatant :...\"(Le reste sans changement.)"
+      "content": "Les dispositions de l'article 768 du code de procédure pénale, telles qu'elles résultent de la loi n° 80-2 du 4 janvier 1980, entreront en vigueur à des dates qui seront fixées par décret pour chaque tribunal de première instance. Jusqu'à ces dates, l'article 768 du code de procédure pénale sera applicable dans la rédaction suivante :\" Art. 768  - Le greffe de chaque tribunal de première instance reçoit, en ce qui concerne les personnes nées dans la circonscription du tribunal et après vérification de leur identité aux registres de l'état civil, des fiches constatant :...\"(Le reste sans changement.)",
+      "valid_from": "1984-01-01"
     },
     {
       "provision_ref": "art81",
       "section": "81",
       "title": "Article 81",
-      "content": "Le texte du code pénal et le texte du code de procédure pénale tels qu'ils résultent des dispositions de la présente loi feront l'objet de décret en Conseil d'Etat publiés au Journal officiel des territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna. Toutefois, l'établissement de la liste annuelle du jury d'assises pour l'année 1984 prévue par les articles 259 et suivants du code de procédure pénale, tels qu'ils sont adaptés par la présente loi, sera opéré dès la promulgation de celle-ci et, en tout cas, antérieurement au 31 décembre 1983. Le président de la commission prévue à l'article 262 fixera les délais et les dates d'accomplissement des diverses formalités.\n\nPour l'application des articles 149 et suivants du code de procédure pénale, en ce qui concerne les affaires où la décision de non-lieu, de relaxe ou d'acquittement est devenue définitive entre le 1er janvier 1980 et la date d'entrée en vigueur de la présente loi, la commission pourra être saisie dans le délai d'un an à compter de cette dernière date.\n\nLes procédures en cours à la date d'entrée en vigueur de la présente loi devant la cour criminelle siégeant à Papeete et à Nouméa seront déférées de plein droit aux cours d'assises devenues compétentes en vertu de la présente loi. De même, seront déférées de plein droit au tribunal de première instance du territoire de Wallis et Futuna les procédures en cours à la même date pour lesquelles ce tribunal sera devenu compétent.\n\nLes actes, formalités et décisions intervenus antérieurement demeureront valables. Les délais prévus par le code de procédure pénale, notamment en matière de détention provisoire, commenceront à courir à compter de la date d'entrée en vigueur de la présente loi.\n\nSous réserve des alinéas qui précèdent, les dispositions des lois qui ont modifié le code pénal ou le code de procédure pénale et ont réglé leur application en fonction de la date de la commission des faits ou de celle de la condamnation sont applicables, s'il y a lieu, aux situations qu'elles concernent."
+      "content": "Le texte du code pénal et le texte du code de procédure pénale tels qu'ils résultent des dispositions de la présente loi feront l'objet de décret en Conseil d'Etat publiés au Journal officiel des territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna. Toutefois, l'établissement de la liste annuelle du jury d'assises pour l'année 1984 prévue par les articles 259 et suivants du code de procédure pénale, tels qu'ils sont adaptés par la présente loi, sera opéré dès la promulgation de celle-ci et, en tout cas, antérieurement au 31 décembre 1983. Le président de la commission prévue à l'article 262 fixera les délais et les dates d'accomplissement des diverses formalités.\n\nPour l'application des articles 149 et suivants du code de procédure pénale, en ce qui concerne les affaires où la décision de non-lieu, de relaxe ou d'acquittement est devenue définitive entre le 1er janvier 1980 et la date d'entrée en vigueur de la présente loi, la commission pourra être saisie dans le délai d'un an à compter de cette dernière date.\n\nLes procédures en cours à la date d'entrée en vigueur de la présente loi devant la cour criminelle siégeant à Papeete et à Nouméa seront déférées de plein droit aux cours d'assises devenues compétentes en vertu de la présente loi. De même, seront déférées de plein droit au tribunal de première instance du territoire de Wallis et Futuna les procédures en cours à la même date pour lesquelles ce tribunal sera devenu compétent.\n\nLes actes, formalités et décisions intervenus antérieurement demeureront valables. Les délais prévus par le code de procédure pénale, notamment en matière de détention provisoire, commenceront à courir à compter de la date d'entrée en vigueur de la présente loi.\n\nSous réserve des alinéas qui précèdent, les dispositions des lois qui ont modifié le code pénal ou le code de procédure pénale et ont réglé leur application en fonction de la date de la commission des faits ou de celle de la condamnation sont applicables, s'il y a lieu, aux situations qu'elles concernent.",
+      "valid_from": "1984-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

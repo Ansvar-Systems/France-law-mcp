@@ -12,25 +12,35 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le présent chapitre est applicable aux opérations de fusion dont le traité est signé après la publication de la présente loi."
+      "content": "Le présent chapitre est applicable aux opérations de fusion dont le traité est signé après la publication de la présente loi.",
+      "valid_from": "2008-07-05"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Pour l'application de l'article 26-11 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, lorsque le contrat d'émission, conclu avant l'entrée en vigueur de la présente loi, ne prévoit aucune modalité de rachat des certificats coopératifs d'investissement ou des certificats coopératifs d'associés, il est fait application des méthodes d'évaluation soit fixées par l'assemblée spéciale dans des conditions assurant l'égalité entre les titulaires de certificats coopératifs d'investissement ou les titulaires de certificats coopératifs d'associés soit, lorsque ces certificats sont admis aux négociations sur un marché réglementé, dans les conditions prévues par les articles L. 212-6-3 et L. 212-6-4 du code monétaire et financier."
+      "content": "Pour l'application de l'article 26-11 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, lorsque le contrat d'émission, conclu avant l'entrée en vigueur de la présente loi, ne prévoit aucune modalité de rachat des certificats coopératifs d'investissement ou des certificats coopératifs d'associés, il est fait application des méthodes d'évaluation soit fixées par l'assemblée spéciale dans des conditions assurant l'égalité entre les titulaires de certificats coopératifs d'investissement ou les titulaires de certificats coopératifs d'associés soit, lorsque ces certificats sont admis aux négociations sur un marché réglementé, dans les conditions prévues par les articles L. 212-6-3 et L. 212-6-4 du code monétaire et financier.",
+      "valid_from": "2008-07-05"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "Dans les conditions prévues par l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance, dans un délai de six mois à compter de la publication de la présente loi, les dispositions législatives nécessaires à la transposition de la directive 2006 / 43 / CE du Parlement européen et du Conseil, du 17 mai 2006, concernant les contrôles légaux des comptes annuels et des comptes consolidés et modifiant les directives 78 / 660 / CEE et 83 / 349 / CEE du Conseil, et abrogeant la directive 84 / 253 / CEE du Conseil.Le projet de loi portant ratification de cette ordonnance est déposé devant le Parlement au plus tard le dernier jour du troisième mois suivant la publication de l'ordonnance."
+      "content": "Dans les conditions prévues par l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance, dans un délai de six mois à compter de la publication de la présente loi, les dispositions législatives nécessaires à la transposition de la directive 2006 / 43 / CE du Parlement européen et du Conseil, du 17 mai 2006, concernant les contrôles légaux des comptes annuels et des comptes consolidés et modifiant les directives 78 / 660 / CEE et 83 / 349 / CEE du Conseil, et abrogeant la directive 84 / 253 / CEE du Conseil.Le projet de loi portant ratification de cette ordonnance est déposé devant le Parlement au plus tard le dernier jour du troisième mois suivant la publication de l'ordonnance.",
+      "valid_from": "2008-07-05"
     },
     {
       "provision_ref": "art33",
       "section": "33",
       "title": "Article 33",
-      "content": "Les articles 8 à 10 et 23 à 30 de la présente loi sont applicables en Nouvelle-Calédonie et dans les îles Wallis et Futuna.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Les articles 8 à 10 et 23 à 30 de la présente loi sont applicables en Nouvelle-Calédonie et dans les îles Wallis et Futuna.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2008-07-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

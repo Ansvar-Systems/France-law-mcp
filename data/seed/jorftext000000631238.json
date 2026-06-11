@@ -12,43 +12,56 @@
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "La présente ordonnance est applicable à Mayotte."
+      "content": "La présente ordonnance est applicable à Mayotte.",
+      "valid_from": "2005-07-19"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "I. - Le chapitre II de la présente ordonnance est applicable en Nouvelle-Calédonie.II., III. - Paragraphes modificateurs"
+      "content": "I. - Le chapitre II de la présente ordonnance est applicable en Nouvelle-Calédonie.II., III. - Paragraphes modificateurs",
+      "valid_from": "2005-07-19"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "I. - Le chapitre II de la présente ordonnance est applicable en Polynésie française.II., III. - Paragraphes modificateurs"
+      "content": "I. - Le chapitre II de la présente ordonnance est applicable en Polynésie française.II., III. - Paragraphes modificateurs",
+      "valid_from": "2005-07-19"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "I. - Le chapitre II de la présente ordonnance est applicable aux îles Wallis et Futuna.II., III. - Paragraphes modificateurs"
+      "content": "I. - Le chapitre II de la présente ordonnance est applicable aux îles Wallis et Futuna.II., III. - Paragraphes modificateurs",
+      "valid_from": "2005-07-19"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "I. - Le chapitre II de la présente ordonnance est applicable dans les Terres australes et antarctiques françaises.II. - Paragraphe modificateur"
+      "content": "I. - Le chapitre II de la présente ordonnance est applicable dans les Terres australes et antarctiques françaises.II. - Paragraphe modificateur",
+      "valid_from": "2005-07-19"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "I. - Un décret relatif à la nomenclature prévue à l'article L. 214-2 du code de l'environnement sera pris dans le délai d'un an à compter de la publication de la présente ordonnance.II. - Les articles L. 432-3 et L. 432-9 du code de l'environnement et la référence faite à l'article L. 431-6 par l'article L. 437-20 du même code sont abrogés à la date de publication du décret prévu au I du présent article et l'article 7 de la présente ordonnance entrera en vigueur à la même date."
+      "content": "I. - Un décret relatif à la nomenclature prévue à l'article L. 214-2 du code de l'environnement sera pris dans le délai d'un an à compter de la publication de la présente ordonnance.II. - Les articles L. 432-3 et L. 432-9 du code de l'environnement et la référence faite à l'article L. 431-6 par l'article L. 437-20 du même code sont abrogés à la date de publication du décret prévu au I du présent article et l'article 7 de la présente ordonnance entrera en vigueur à la même date.",
+      "valid_from": "2005-07-19"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, la ministre de l'écologie et du développement durable et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, la ministre de l'écologie et du développement durable et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2005-07-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

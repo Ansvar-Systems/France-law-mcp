@@ -12,13 +12,21 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les dispositions du 1° de l'article 1er et du b du 7° de l'article 6 de la présente ordonnance entrent en vigueur à compter du 1er septembre 2019."
+      "content": "Les dispositions du 1° de l'article 1er et du b du 7° de l'article 6 de la présente ordonnance entrent en vigueur à compter du 1er septembre 2019.",
+      "valid_from": "2019-06-14"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le Premier ministre, la ministre des solidarités et de la santé et le ministre de l'économie et des finances sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre des solidarités et de la santé et le ministre de l'économie et des finances sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2019-06-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

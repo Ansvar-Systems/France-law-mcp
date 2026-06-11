@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "IV. - Dans les branches couvrant des commerces ou services de détail et dans les commerces ou services de détail, où des dérogations administratives au repos dominical sont applicables, les organisations professionnelles ou l'employeur, d'une part, et les organisations syndicales représentatives, d'autre part, engagent des négociations en vue de la signature d'un accord relatif aux contreparties accordées aux salariés privés de repos dominical lorsque la branche ou l'entreprise n'est pas déjà couverte par un accord."
+      "content": "IV. - Dans les branches couvrant des commerces ou services de détail et dans les commerces ou services de détail, où des dérogations administratives au repos dominical sont applicables, les organisations professionnelles ou l'employeur, d'une part, et les organisations syndicales représentatives, d'autre part, engagent des négociations en vue de la signature d'un accord relatif aux contreparties accordées aux salariés privés de repos dominical lorsque la branche ou l'entreprise n'est pas déjà couverte par un accord.",
+      "valid_from": "2009-08-12"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les articles 1er et 2, à l'exception du I de l'article 2, ne s'appliquent pas dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin."
+      "content": "Les articles 1er et 2, à l'exception du I de l'article 2, ne s'appliquent pas dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin.",
+      "valid_from": "2009-08-12"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Un comité, constitué de trois parlementaires appartenant à la majorité et de trois parlementaires appartenant à l'opposition, est chargé de veiller au respect du principe du repos dominical posé à l'article L. 3132-3 du code du travail.Ce comité présente un rapport au Parlement dans un délai d'un an à compter de la date de publication de la présente loi."
+      "content": "Un comité, constitué de trois parlementaires appartenant à la majorité et de trois parlementaires appartenant à l'opposition, est chargé de veiller au respect du principe du repos dominical posé à l'article L. 3132-3 du code du travail.Ce comité présente un rapport au Parlement dans un délai d'un an à compter de la date de publication de la présente loi.",
+      "valid_from": "2009-08-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

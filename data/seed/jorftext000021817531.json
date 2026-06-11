@@ -12,13 +12,21 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les dispositions de la présente ordonnance sont applicables aux projets de contrats en vue desquels un avis d'appel public à la concurrence est envoyé ou une consultation engagée à compter de sa date d'entrée en vigueur, fixée au premier jour du sixième mois suivant sa publication.Toutefois, les dispositions de l'article 5 s'appliquent aux litiges portés devant le juge à compter de cette date d'entrée en vigueur."
+      "content": "Les dispositions de la présente ordonnance sont applicables aux projets de contrats en vue desquels un avis d'appel public à la concurrence est envoyé ou une consultation engagée à compter de sa date d'entrée en vigueur, fixée au premier jour du sixième mois suivant sa publication.Toutefois, les dispositions de l'article 5 s'appliquent aux litiges portés devant le juge à compter de cette date d'entrée en vigueur.",
+      "valid_from": "2010-02-13"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le Premier ministre, la ministre de l'économie, de l'industrie et de l'emploi et le ministre de l'intérieur, de l'outre-mer et des collectivités territoriales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'économie, de l'industrie et de l'emploi et le ministre de l'intérieur, de l'outre-mer et des collectivités territoriales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2010-02-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

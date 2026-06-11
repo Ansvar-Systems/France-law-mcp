@@ -12,31 +12,43 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les personnes qui dirigent, gèrent, administrent ou sont membres d'un organe collégial de contrôle d'un organisme mentionné au I de l'article L. 500-1 du code monétaire et financier, ou qui exercent une profession mentionnée au même I qui, antérieurement à l'entrée en vigueur de la présente ordonnance, ont été condamnées pour des faits énoncés par les I, II, III et VI de l'article L. 500-1 du code monétaire et financier, sont frappées, à compter de la date de publication de cette dernière, d'une incapacité d'exercer.Toutefois, ces personnes peuvent, dans un délai de trois mois suivant la date de publication de l'ordonnance, demander à la juridiction qui les a condamnées ou, en cas de pluralité de condamnations, à la dernière juridiction qui a statué, soit de les relever de l'incapacité dont elles sont frappées, soit d'en déterminer la durée. Les personnes qui font usage de ce droit peuvent exercer leur profession ou activité jusqu'à ce qu'il ait été statué sur leur demande.Si la juridiction qui a statué n'existe plus ou s'il s'agit d'une juridiction étrangère, la chambre de l'instruction de la cour d'appel dans le ressort de laquelle le requérant a sa résidence est compétente."
+      "content": "Les personnes qui dirigent, gèrent, administrent ou sont membres d'un organe collégial de contrôle d'un organisme mentionné au I de l'article L. 500-1 du code monétaire et financier, ou qui exercent une profession mentionnée au même I qui, antérieurement à l'entrée en vigueur de la présente ordonnance, ont été condamnées pour des faits énoncés par les I, II, III et VI de l'article L. 500-1 du code monétaire et financier, sont frappées, à compter de la date de publication de cette dernière, d'une incapacité d'exercer.Toutefois, ces personnes peuvent, dans un délai de trois mois suivant la date de publication de l'ordonnance, demander à la juridiction qui les a condamnées ou, en cas de pluralité de condamnations, à la dernière juridiction qui a statué, soit de les relever de l'incapacité dont elles sont frappées, soit d'en déterminer la durée. Les personnes qui font usage de ce droit peuvent exercer leur profession ou activité jusqu'à ce qu'il ait été statué sur leur demande.Si la juridiction qui a statué n'existe plus ou s'il s'agit d'une juridiction étrangère, la chambre de l'instruction de la cour d'appel dans le ressort de laquelle le requérant a sa résidence est compétente.",
+      "valid_from": "2005-05-07",
+      "valid_to": "2029-01-01"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Le code monétaire et financier est modifié comme il est dit aux articles 12 à 108 du présent titre."
+      "content": "Le code monétaire et financier est modifié comme il est dit aux articles 12 à 108 du présent titre.",
+      "valid_from": "2005-05-07"
     },
     {
       "provision_ref": "art109",
       "section": "109",
       "title": "Article 109",
-      "content": "Les références contenues dans les dispositions de nature législative à des dispositions codifiées, abrogées ou déplacées par la présente ordonnance sont remplacées par des références aux dispositions correspondantes introduites dans le code monétaire et financier."
+      "content": "Les références contenues dans les dispositions de nature législative à des dispositions codifiées, abrogées ou déplacées par la présente ordonnance sont remplacées par des références aux dispositions correspondantes introduites dans le code monétaire et financier.",
+      "valid_from": "2005-05-07"
     },
     {
       "provision_ref": "art112",
       "section": "112",
       "title": "Article 112",
-      "content": "Les articles 1er, 2, 3, 6, 7, 8, 9, 10, 22, les 1°, 2°, 4° et 8° de l'article 24, les articles 25, 26, 27, 28, 43, 44, 48, 50, 51, 54, 69, 70, 73 à 79 et 81 à 84 sont applicables à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna."
+      "content": "Les articles 1er, 2, 3, 6, 7, 8, 9, 10, 22, les 1°, 2°, 4° et 8° de l'article 24, les articles 25, 26, 27, 28, 43, 44, 48, 50, 51, 54, 69, 70, 73 à 79 et 81 à 84 sont applicables à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.",
+      "valid_from": "2005-05-07"
     },
     {
       "provision_ref": "art113",
       "section": "113",
       "title": "Article 113",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, le ministre de l'économie, des finances et de l'industrie et la ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, le ministre de l'économie, des finances et de l'industrie et la ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2005-05-07"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

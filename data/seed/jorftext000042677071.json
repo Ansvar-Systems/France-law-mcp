@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les licences globales et les licences individuelles de transfert à destination du Royaume-Uni, délivrées sur le fondement des 2° et 3° du I de l'article L. 2335-10 du code de la défense, sont réputées valoir, à compter du 1er janvier 2021 et jusqu'à leur terme, respectivement licences globales et licences individuelles d'exportation délivrées sur le fondement des 2° et 3° du I de l'article L. 2335-3 du même code.Les autorisations préalables de transfert à destination du Royaume-Uni délivrées sur le fondement du I de l'article L. 2335-18 du même code sont réputées valoir, à compter du 1er janvier 2021 et jusqu'à leur terme, selon le cas licences globales ou licences individuelles d'exportation délivrées sur le fondement des 2° ou 3° du I de l'article L. 2335-3 du même code.Les conditions et restrictions dont sont assorties les licences et autorisations préalables de transfert mentionnées au présent article demeurent applicables jusqu'au terme de ces licences et autorisations."
+      "content": "Les licences globales et les licences individuelles de transfert à destination du Royaume-Uni, délivrées sur le fondement des 2° et 3° du I de l'article L. 2335-10 du code de la défense, sont réputées valoir, à compter du 1er janvier 2021 et jusqu'à leur terme, respectivement licences globales et licences individuelles d'exportation délivrées sur le fondement des 2° et 3° du I de l'article L. 2335-3 du même code.Les autorisations préalables de transfert à destination du Royaume-Uni délivrées sur le fondement du I de l'article L. 2335-18 du même code sont réputées valoir, à compter du 1er janvier 2021 et jusqu'à leur terme, selon le cas licences globales ou licences individuelles d'exportation délivrées sur le fondement des 2° ou 3° du I de l'article L. 2335-3 du même code.Les conditions et restrictions dont sont assorties les licences et autorisations préalables de transfert mentionnées au présent article demeurent applicables jusqu'au terme de ces licences et autorisations.",
+      "valid_from": "2020-12-18"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Premier ministre est responsable de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre est responsable de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-12-18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

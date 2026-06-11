@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code du patrimoine (partie législative) est modifié conformément aux dispositions des articles 2 à 6."
+      "content": "Le code du patrimoine (partie législative) est modifié conformément aux dispositions des articles 2 à 6.",
+      "valid_from": "2017-07-07"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "I. - La présente ordonnance entre en vigueur à une date fixée par décret et au plus tard le 1er janvier 2018.Les demandes déposées et les procédures engagées avant cette date demeurent régies par les dispositions antérieures.II. - Le I est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna."
+      "content": "I. - La présente ordonnance entre en vigueur à une date fixée par décret et au plus tard le 1er janvier 2018.Les demandes déposées et les procédures engagées avant cette date demeurent régies par les dispositions antérieures.II. - Le I est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.",
+      "valid_from": "2017-07-07"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Le Premier ministre, la ministre de la culture et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la culture et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-07-07"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

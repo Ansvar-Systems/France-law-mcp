@@ -12,7 +12,14 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "I. - L'article 4 s'applique aux élections se déroulant après le 1er janvier 2018.\n\nII à III. - A modifié les dispositions suivantes :\n\nIV. - Le I du présent article est applicable dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.\n\n- Loi n° 88-227 du 11 mars 1988\n\n- Code électoral"
+      "content": "I. - L'article 4 s'applique aux élections se déroulant après le 1er janvier 2018.\n\nII à III. - A modifié les dispositions suivantes :\n\nIV. - Le I du présent article est applicable dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.\n\n- Loi n° 88-227 du 11 mars 1988\n\n- Code électoral",
+      "valid_from": "2017-09-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

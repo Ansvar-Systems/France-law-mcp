@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Le I entre en vigueur le 1er janvier 2022. Il est applicable aux pensions dues à compter de cette date, y compris aux pensions de retraite ayant pris effet avant cette date.\n\n- Code rural et de la pêche maritime"
+      "content": "I.-A modifié les dispositions suivantes :\n\nII.-Le I entre en vigueur le 1er janvier 2022. Il est applicable aux pensions dues à compter de cette date, y compris aux pensions de retraite ayant pris effet avant cette date.\n\n- Code rural et de la pêche maritime",
+      "valid_from": "2021-12-19"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Le I entre en vigueur le 1er janvier 2022.\n\n- Code de la sécurité sociale."
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Le I entre en vigueur le 1er janvier 2022.\n\n- Code de la sécurité sociale.",
+      "valid_from": "2021-12-19"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Le I entre en vigueur le 1er janvier 2022.III. - Le I s'applique à compter du 1er janvier 2022 aux personnes ayant la qualité de collaborateur d'un chef d'exploitation ou d'une entreprise agricole à cette date.\n\n- Code rural et de la pêche maritime"
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Le I entre en vigueur le 1er janvier 2022.III. - Le I s'applique à compter du 1er janvier 2022 aux personnes ayant la qualité de collaborateur d'un chef d'exploitation ou d'une entreprise agricole à cette date.\n\n- Code rural et de la pêche maritime",
+      "valid_from": "2021-12-19"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "A l'issue d'un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport relatif à l'application de l'article 9 de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises et, en particulier, à la situation des personnes dont la situation professionnelle n'est pas déclarée et qui ne cotisent pas au régime agricole.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "A l'issue d'un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport relatif à l'application de l'article 9 de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises et, en particulier, à la situation des personnes dont la situation professionnelle n'est pas déclarée et qui ne cotisent pas au régime agricole.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2021-12-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

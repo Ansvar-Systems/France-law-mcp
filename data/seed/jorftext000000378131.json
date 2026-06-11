@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les mandats des membres des conseils consultatifs et des conseils d'orientation et de surveillance des caisses d'épargne et de prévoyance en fonctions à la date de promulgation de la présente loi sont prorogés jusqu'au 1er novembre 1999, nonobstant toute disposition relative à la limite d'âge."
+      "content": "Les mandats des membres des conseils consultatifs et des conseils d'orientation et de surveillance des caisses d'épargne et de prévoyance en fonctions à la date de promulgation de la présente loi sont prorogés jusqu'au 1er novembre 1999, nonobstant toute disposition relative à la limite d'âge.",
+      "valid_from": "1999-02-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

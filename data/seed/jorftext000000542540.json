@@ -12,7 +12,62 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "A compter du 1er janvier 1993, le régime fiscal fixé à l'article 1655 quater du code général des impôts est subordonné à la réalisation par la société anonyme de gestion des stocks de sécurité des prestations mentionnées au II de l'article 3, à l'exclusion de toute autre."
+      "content": "A compter du 1er janvier 1993, le régime fiscal fixé à l'article 1655 quater du code général des impôts est subordonné à la réalisation par la société anonyme de gestion des stocks de sécurité des prestations mentionnées au II de l'article 3, à l'exclusion de toute autre.",
+      "valid_from": "1993-01-01"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Tout propriétaire d'une unité de distillation atmosphérique dans une usine exercée de raffinage de pétrole brut en France métropolitaine est tenu de disposer, en propriété ou par affrètement à long terme, d'une capacité de transport maritime sous pavillon français proportionnelle aux quantités de pétrole brut qui entrent dans ladite usine.Ces quantités sont celles qui ont été importées ou introduites sur le territoire national ; elles ne comprennent pas les quantités de pétrole brut qui sont transformées en produits non affectés à la consommation énergétique ; elles ne comprennent pas non plus les quantités de pétrole brut non affectées à la consommation nationale si celles-ci font l'objet d'un contrat de raffinage à façon ou d'un contrat de vente de produits ferme à long terme.Un décret précise les modalités de calcul des quantités de pétrole brut et de la capacité de transport mentionnées à l'alinéa précédent. Cette capacité de transport est calculée dans la limite d'un tonnage de port en lourd qui ne peut excéder 8 p. 100 des quantités de pétrole brut servant d'assiette à l'obligation mentionnée à l'alinéa premier et entrées dans l'usine exercée de raffinage au cours de la dernière année civile.",
+      "valid_from": "1993-01-01",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Les projets d'acquisition ou de construction d'une usine exercée de raffinage de pétrole brut ainsi que les projets d'arrêt définitif ou de démantèlement d'une ou plusieurs installations comprises dans une usine exercée de raffinage de pétrole brut ou de produits pétroliers doivent être notifiés à l'autorité administrative un mois avant leur mise en oeuvre.Après avis de la commission interministérielle des dépôts d'hydrocarbures, l'autorité administrative peut s'opposer dans un délai d'un mois après la notification prévue à l'alinéa précédent aux opérations projetées si celles-ci sont de nature à nuire à l'approvisionnement pétrolier du pays ou perturbent gravement le marché. Les opérations projetées ne peuvent être engagées durant ce délai, sauf si elles font l'objet d'un accord explicite.",
+      "valid_from": "1993-01-01",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12",
+      "content": "I. - En vue de contrôler le niveau des stocks et les modalités selon lesquelles ils sont constitués et conservés en application des articles 2 à 4, les agents désignés par le ministre chargé des douanes et les agents assermentés dans des conditions fixées par décret en Conseil d'Etat et désignés par le ministre chargé des hydrocarbures ont accès aux locaux professionnels des établissements où sont conservés des stocks stratégiques. Ils ne peuvent le faire que pendant les heures d'ouverture de ces établissements. Ils peuvent, à cet effet, demander communication de tout document, quel qu'en soit le support. Le propriétaire de ces stocks ou son représentant est avisé de ces contrôles en temps utile et peut y assister.II. - Dans le cadre du contrôle prévu au paragraphe précédent, les agents concernés dressent des procès-verbaux de constat.III. - En cas de manquement aux obligations prescrites par les articles 2 à 4, un procès-verbal de manquement est dressé par des agents désignés par le ministre chargé des hydrocarbures ou par le ministre chargé des douanes.Une copie de ce procès-verbal est remise à la personne physique ou morale qui en fait l'objet. Cette personne a accès au dossier et est mise à même de présenter, dans un délai d'un mois, ses observations écrites sur les manquements relevés.Le ministre chargé des hydrocarbures peut prendre, sur le vu de ce procès-verbal et des observations susmentionnées, une décision motivée ordonnant le paiement, par la personne qui a commis le manquement, d'une amende au plus égale au quadruple du montant de la rémunération prévue à l'article 3, correspondant au volume des produits pétroliers pour lesquels les stocks stratégiques correspondants n'ont pas été régulièrement constitués.La décision du ministre chargé des hydrocarbures est susceptible d'un recours de pleine juridiction.",
+      "valid_from": "1993-01-01",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13",
+      "content": "En cas de manquement aux obligations prescrites par l'article 6, un procès-verbal de manquement est dressé par les agents assermentés désignés par le ministre chargé des hydrocarbures ou le ministre chargé de la marine marchande.Les agents désignés par le ministre chargé de la marine marchande sont assermentés dans des conditions fixées par décret en Conseil d'Etat.Une copie de ce procès-verbal est remise à la personne physique ou morale qui en fait l'objet. Cette personne a accès au dossier et est mise à même de présenter ses observations écrites dans un délai d'un mois sur les manquements relevés.Le ministre chargé de la marine marchande peut prendre, sur le vu de ce procès-verbal et des observations susmentionnées, une décision ordonnant le paiement, par la personne qui a commis le manquement, d'une amende au plus égale à 1,5 euro par tonne de pétrole brut entrée dans l'usine exercée de raffinage en méconnaissance des dispositions de l'article 6.La décision du ministre chargé de la marine marchande est susceptible d'un recours de pleine juridiction.Le montant maximum de cette amende est réévalué chaque année dans la même proportion que la limite inférieure de la septième tranche de l'impôt sur le revenu.",
+      "valid_from": "2002-01-01",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14",
+      "content": "L'inobservation des obligations prescrites par l'article 7 fait l'objet d'un procès-verbal dressé par les agents assermentés désignés par le ministre chargé des hydrocarbures.Une copie de ce procès-verbal est remise à la personne physique ou morale qui en fait l'objet. Cette personne a accès au dossier et est mise à même de présenter ses observations écrites dans un délai de dix jours au moins sur les manquements relevés.Sur le vu de ce procès-verbal et des observations susmentionnées, le ministre chargé des hydrocarbures peut prendre une décision motivée ordonnant une astreinte journalière d'un maximum de 10000 F. Cette décision, notifiée à la personne contrevenante, lui fixe un délai pour satisfaire aux obligations pour lesquelles le procès-verbal constate un manquement. A l'expiration de ce délai, dont le point de départ se situe au jour de la notification de la décision, la personne précitée devra régler l'astreinte journalière si elle persiste à refuser de communiquer les documents et informations demandés.Le montant maximum de l'astreinte journalière est réévalué chaque année dans la même proportion que la limite inférieure de la septième tranche de l'impôt sur le revenu.La décision du ministre chargé des hydrocarbures est susceptible d'un recours de pleine juridiction.Le ministre chargé des hydrocarbures peut consentir une remise ou un reversement partiel du produit des astreintes lorsque les obligations prescrites ont été exécutées et que le redevable établit qu'il n'a pas pu observer le délai imposé pour l'exécution totale de ses obligations en raison de circonstances indépendantes de sa volonté.",
+      "valid_from": "2001-01-01",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16",
+      "content": "L'inobservation des obligations prescrites par l'article 8 fait l'objet d'un procès-verbal dressé par les agents assermentés désignés par le ministre chargé des hydrocarbures.Une copie de ce procès-verbal est remise à la personne physique ou morale qui en fait l'objet. Cette personne a accès au dossier et est mise à même de présenter ses observations écrites dans un délai d'un mois sur les manquements relevés.Le ministre chargé des hydrocarbures peut prendre, sur le vu de ce procès-verbal et des observations susmentionnées, une décision ordonnant le paiement, par la personne qui a commis le manquement, d'une amende au plus égale à 1500000 euros.La décision du ministre chargé des hydrocarbures est susceptible d'un recours de pleine juridiction.Le montant maximum de cette amende est réévalué chaque année dans la même proportion que la limite inférieure de la septième tranche de l'impôt sur le revenu.",
+      "valid_from": "2002-01-01",
+      "valid_to": "2222-02-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à procéder, par ordonnances à l'adoption de la partie législative des codes suivants :1° Livres VII et IX et mise à jour des livres Ier, II, III, IV, V, VI et VIII du code rural ;2° Code de l'éducation ;3° Code de la santé publique ;4° Code de commerce ;5° Code de l'environnement ;6° Code de justice administrative ;7° Code de la route ;8° Code de l'action sociale ;9° Code monétaire et financier.Chaque code fait l'objet d'une ordonnance. Il regroupe et organise les dispositions législatives relatives à la matière correspondante.Les dispositions codifiées sont celles en vigueur au moment de la publication des ordonnances, sous la seule réserve des modifications qui seraient rendues nécessaires pour assurer le respect de la hiérarchie des normes et la cohérence rédactionnelle des textes ainsi rassemblés et harmoniser l'état du droit. En outre, le Gouvernement peut, le cas échéant, étendre l'application des dispositions codifiées à la Nouvelle-Calédonie, aux territoires d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon et à Mayotte, avec les adaptations nécessaires."
+      "content": "Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à procéder, par ordonnances à l'adoption de la partie législative des codes suivants :1° Livres VII et IX et mise à jour des livres Ier, II, III, IV, V, VI et VIII du code rural ;2° Code de l'éducation ;3° Code de la santé publique ;4° Code de commerce ;5° Code de l'environnement ;6° Code de justice administrative ;7° Code de la route ;8° Code de l'action sociale ;9° Code monétaire et financier.Chaque code fait l'objet d'une ordonnance. Il regroupe et organise les dispositions législatives relatives à la matière correspondante.Les dispositions codifiées sont celles en vigueur au moment de la publication des ordonnances, sous la seule réserve des modifications qui seraient rendues nécessaires pour assurer le respect de la hiérarchie des normes et la cohérence rédactionnelle des textes ainsi rassemblés et harmoniser l'état du droit. En outre, le Gouvernement peut, le cas échéant, étendre l'application des dispositions codifiées à la Nouvelle-Calédonie, aux territoires d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon et à Mayotte, avec les adaptations nécessaires.",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les ordonnances prévues à l'article 1er devront être prises dans les délais suivants :a) Dans les six mois suivant la publication de la présente loi pour les codes mentionnés aux 1°, 2° et 3° de l'article 1er ;b) Dans les neuf mois suivant la publication de la présente loi pour les codes mentionnés aux 4°, 5° et 6° de l'article 1er ;c) Dans les douze mois suivant la publication de la présente loi pour les autres codes.Pour chaque ordonnance, un projet de loi de ratification devra être déposé devant le Parlement dans un délai de deux mois à compter de sa publication et au plus tard le dernier jour du quatorzième mois suivant la publication de la présente loi pour ce qui concerne les codes visés au c."
+      "content": "Les ordonnances prévues à l'article 1er devront être prises dans les délais suivants :a) Dans les six mois suivant la publication de la présente loi pour les codes mentionnés aux 1°, 2° et 3° de l'article 1er ;b) Dans les neuf mois suivant la publication de la présente loi pour les codes mentionnés aux 4°, 5° et 6° de l'article 1er ;c) Dans les douze mois suivant la publication de la présente loi pour les autres codes.Pour chaque ordonnance, un projet de loi de ratification devra être déposé devant le Parlement dans un délai de deux mois à compter de sa publication et au plus tard le dernier jour du quatorzième mois suivant la publication de la présente loi pour ce qui concerne les codes visés au c.",
+      "valid_from": "1999-12-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

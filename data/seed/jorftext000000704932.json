@@ -12,115 +12,140 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La loi n° 76-660 du 19 juillet 1976 portant imposition des plus-values est abrogée dans toutes ses dispositions concernant les valeurs mobilières et les droits sociaux, à l'exception des exonérations prévues en faveur des personnes domiciliées ou ayant leur siège hors de France, ainsi que des organisations internationales des Etats étrangers, de leurs banques centrales et de leurs institutions financières publiques."
+      "content": "La loi n° 76-660 du 19 juillet 1976 portant imposition des plus-values est abrogée dans toutes ses dispositions concernant les valeurs mobilières et les droits sociaux, à l'exception des exonérations prévues en faveur des personnes domiciliées ou ayant leur siège hors de France, ainsi que des organisations internationales des Etats étrangers, de leurs banques centrales et de leurs institutions financières publiques.",
+      "valid_from": "1978-07-06"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les gains nets en capital réalisés à compter du 1er janvier 1979 par les personnes physiques lors de la cession à titre onéreux de valeurs mobilières ou de droits sociaux sont imposés dans les conditions prévues par la présente loi."
+      "content": "Les gains nets en capital réalisés à compter du 1er janvier 1979 par les personnes physiques lors de la cession à titre onéreux de valeurs mobilières ou de droits sociaux sont imposés dans les conditions prévues par la présente loi.",
+      "valid_from": "1978-07-06"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Pour l'application de l'article 92 du code général des impôts, sont considérés comme produits d'opérations de bourse de valeurs effectuées à titre habituel, les gains nets retirés par les contribuables, directement ou par personne interposée, des opérations suivantes :1° Les opérations faisant appel au crédit, telles que les opérations à découvert ou prorogées ou les opérations conditionnelles, telles que les opérations à prime ou à option ;2° Les opérations au comptant ou au comptant différé lorsque le montant annuel de ces opérations excède 1,6 fois la valeur du portefeuille au 31 décembre de l'année précédente. Cette règle n'est toutefois applicable que si les opérations comportent au moins 100 000 F de cessions. Pour l'application de cette disposition, sont seules prises en compte dans le montant du portefeuille, les valeurs mobilières inscrites à la cote officielle d'une bourse de valeurs ou négociées sur le marché hors cote, à l'exception des titres dont les cessions sont exonérées.Les gains nets résultant des opérations mentionnées ci-dessus sont considérés comme des bénéfices non commerciaux."
+      "content": "Pour l'application de l'article 92 du code général des impôts, sont considérés comme produits d'opérations de bourse de valeurs effectuées à titre habituel, les gains nets retirés par les contribuables, directement ou par personne interposée, des opérations suivantes :1° Les opérations faisant appel au crédit, telles que les opérations à découvert ou prorogées ou les opérations conditionnelles, telles que les opérations à prime ou à option ;2° Les opérations au comptant ou au comptant différé lorsque le montant annuel de ces opérations excède 1,6 fois la valeur du portefeuille au 31 décembre de l'année précédente. Cette règle n'est toutefois applicable que si les opérations comportent au moins 100 000 F de cessions. Pour l'application de cette disposition, sont seules prises en compte dans le montant du portefeuille, les valeurs mobilières inscrites à la cote officielle d'une bourse de valeurs ou négociées sur le marché hors cote, à l'exception des titres dont les cessions sont exonérées.Les gains nets résultant des opérations mentionnées ci-dessus sont considérés comme des bénéfices non commerciaux.",
+      "valid_from": "1978-07-06"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Lorsque ces gains nets dépassent l'ensemble des autres revenus imposables du contribuable, ils sont soumis à l'impôt sur le revenu dans les conditions de droit commun."
+      "content": "Lorsque ces gains nets dépassent l'ensemble des autres revenus imposables du contribuable, ils sont soumis à l'impôt sur le revenu dans les conditions de droit commun.",
+      "valid_from": "1978-07-06"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Lorsque les mêmes gains sont égaux ou inférieurs à l'ensemble des autres revenus imposables du contribuable, ils sont soumis à l'impôt sur le revenu au taux forfaitaire de 30 p. 100 ou, sur demande du contribuable, dans les conditions de droit commun."
+      "content": "Lorsque les mêmes gains sont égaux ou inférieurs à l'ensemble des autres revenus imposables du contribuable, ils sont soumis à l'impôt sur le revenu au taux forfaitaire de 30 p. 100 ou, sur demande du contribuable, dans les conditions de droit commun.",
+      "valid_from": "1978-07-06"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Lorsqu'un contribuable ne remplissant pas les conditions de l'article 3 effectue, directement ou par personne interposée, des cessions à titre onéreux de valeurs mobilières inscrites à la cote officielle d'une bourse de valeurs ou négociées sur le marché hors cote, de droits portant sur ces valeurs ou de titres représentatifs de telles valeurs, pour un montant excédant 150 000 F par an, les gains nets retirés de ces cessions sont également considérés comme des bénéfices non commerciaux.Ces dispositions ne sont pas applicables aux échanges de titres résultant d'une opération d'offre publique, de conversion, de division ou de regroupement, réalisée conformément à la réglementation en vigueur. En cas de vente ultérieure des titres reçus à cette occasion, le gain net est calculé à partir du prix ou de la valeur d'acquisition originels.Toutefois, dans des cas et conditions fixés par décret prévu à l'article 18 et correspondant à l'intervention d'un événement exceptionnel dans la situation personnelle, familiale ou professionnelle du contribuable, le franchissement de la limite précitée de 150 000 F est apprécié par référence à la moyenne des cessions de l'année considérée et des deux années précédentes. Les événements exceptionnels mentionnés ci-dessus doivent notamment s'entendre de la mise à la retraite, du chômage, de l'invalidité, du règlement judiciaire ou de la liquidation de biens du contribuable ou de son conjoint, ou du décès de son conjoint."
+      "content": "Lorsqu'un contribuable ne remplissant pas les conditions de l'article 3 effectue, directement ou par personne interposée, des cessions à titre onéreux de valeurs mobilières inscrites à la cote officielle d'une bourse de valeurs ou négociées sur le marché hors cote, de droits portant sur ces valeurs ou de titres représentatifs de telles valeurs, pour un montant excédant 150 000 F par an, les gains nets retirés de ces cessions sont également considérés comme des bénéfices non commerciaux.Ces dispositions ne sont pas applicables aux échanges de titres résultant d'une opération d'offre publique, de conversion, de division ou de regroupement, réalisée conformément à la réglementation en vigueur. En cas de vente ultérieure des titres reçus à cette occasion, le gain net est calculé à partir du prix ou de la valeur d'acquisition originels.Toutefois, dans des cas et conditions fixés par décret prévu à l'article 18 et correspondant à l'intervention d'un événement exceptionnel dans la situation personnelle, familiale ou professionnelle du contribuable, le franchissement de la limite précitée de 150 000 F est apprécié par référence à la moyenne des cessions de l'année considérée et des deux années précédentes. Les événements exceptionnels mentionnés ci-dessus doivent notamment s'entendre de la mise à la retraite, du chômage, de l'invalidité, du règlement judiciaire ou de la liquidation de biens du contribuable ou de son conjoint, ou du décès de son conjoint.",
+      "valid_from": "1978-07-06"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les gains nets mentionnés à l'article 6 sont imposés au taux forfaitaire de 15 p. 100."
+      "content": "Les gains nets mentionnés à l'article 6 sont imposés au taux forfaitaire de 15 p. 100.",
+      "valid_from": "1978-07-06"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les dispositions des articles 3 et 6 ne s'appliquent pas aux cessions mentionnées à l'article 160 du code général des impôts qui demeure en vigueur. Les produits de telles cessions, réalisés par des personnes physiques ou morales ayant leur domicile ou leur siège social hors de France, sont déterminés et imposés selon les modalités prévues au même article ; dans ce cas, l'impôt est acquitté dans les conditions fixées au deuxième alinéa de l'article 244 bis A I du code général des impôts."
+      "content": "Les dispositions des articles 3 et 6 ne s'appliquent pas aux cessions mentionnées à l'article 160 du code général des impôts qui demeure en vigueur. Les produits de telles cessions, réalisés par des personnes physiques ou morales ayant leur domicile ou leur siège social hors de France, sont déterminés et imposés selon les modalités prévues au même article ; dans ce cas, l'impôt est acquitté dans les conditions fixées au deuxième alinéa de l'article 244 bis A I du code général des impôts.",
+      "valid_from": "1978-07-06"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les gains nets mentionnés aux articles 3 et 6 sont constitués par la différence entre le prix effectif de cession des titres ou droits, net des frais et taxes acquittés par le cédant, et leur prix effectif d'acquisition par celui-ci ou, en cas d'acquisition à titre gratuit, leur valeur retenue pour la détermination des droits de mutation. Le prix ou la valeur d'acquisition est augmenté des frais d'acquisition autres que les droits de mutation à titre gratuit. Les frais d'acquisition à titre onéreux peuvent être fixés forfaitairement à 2 p. 100."
+      "content": "Les gains nets mentionnés aux articles 3 et 6 sont constitués par la différence entre le prix effectif de cession des titres ou droits, net des frais et taxes acquittés par le cédant, et leur prix effectif d'acquisition par celui-ci ou, en cas d'acquisition à titre gratuit, leur valeur retenue pour la détermination des droits de mutation. Le prix ou la valeur d'acquisition est augmenté des frais d'acquisition autres que les droits de mutation à titre gratuit. Les frais d'acquisition à titre onéreux peuvent être fixés forfaitairement à 2 p. 100.",
+      "valid_from": "1978-07-06"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "En cas de cession d'un ou plusieurs titres appartenant à une série de titres de même nature acquis pour des prix différents, le prix d'acquisition à retenir est la valeur moyenne pondérée d'acquisition de ces titres.En cas de détachement de droits de souscription ou d'attribution :Le prix d'acquisition des actions ou parts antérieurement détenues et permettant de participer à l'opération ne fait l'objet d'aucune modification ;Le prix d'acquisition des droits détachés est, s'ils font l'objet d'une cession, réputé nul ;Le prix d'acquisition des actions ou parts reçues à l'occasion de l'opération est réputé égal au prix des droits acquis dans ce but à titre onéreux, augmenté, s'il y a lieu, de la somme versée par le souscripteur."
+      "content": "En cas de cession d'un ou plusieurs titres appartenant à une série de titres de même nature acquis pour des prix différents, le prix d'acquisition à retenir est la valeur moyenne pondérée d'acquisition de ces titres.En cas de détachement de droits de souscription ou d'attribution :Le prix d'acquisition des actions ou parts antérieurement détenues et permettant de participer à l'opération ne fait l'objet d'aucune modification ;Le prix d'acquisition des droits détachés est, s'ils font l'objet d'une cession, réputé nul ;Le prix d'acquisition des actions ou parts reçues à l'occasion de l'opération est réputé égal au prix des droits acquis dans ce but à titre onéreux, augmenté, s'il y a lieu, de la somme versée par le souscripteur.",
+      "valid_from": "1978-07-06"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Pour l'ensemble des titres cotés acquis avant le 1er janvier 1979, le contribuable peut retenir, comme prix d'acquisition, le cours au comptant le plus élevé de l'année 1978.Pour l'ensemble des valeurs françaises à revenu variable, il peut également retenir le cours moyen de cotisation au comptant de ces titres pendant l'année 1972.(Abrogé indirectement par la loi 82-1126 art. 7 I ; cf. Instruction 1983-03-09 5G-2-83)."
+      "content": "Pour l'ensemble des titres cotés acquis avant le 1er janvier 1979, le contribuable peut retenir, comme prix d'acquisition, le cours au comptant le plus élevé de l'année 1978.Pour l'ensemble des valeurs françaises à revenu variable, il peut également retenir le cours moyen de cotisation au comptant de ces titres pendant l'année 1972.(Abrogé indirectement par la loi 82-1126 art. 7 I ; cf. Instruction 1983-03-09 5G-2-83).",
+      "valid_from": "1978-07-06"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les pertes subies au cours d'une année sont imputables exclusivement sur les gains de même nature réalisés au cours de la même année ou des cinq années suivantes."
+      "content": "Les pertes subies au cours d'une année sont imputables exclusivement sur les gains de même nature réalisés au cours de la même année ou des cinq années suivantes.",
+      "valid_from": "1978-07-06"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les dispositions de la présente loi ne s'appliquent pas :- aux titres cédés dans le cadre de leur gestion par les fonds communs de placement, constitués en application des législations sur la participation des salariés aux fruits de l'expansion des entreprises et les plans d'épargne d'entreprise ainsi qu'aux rachats de parts de tels fonds ;- aux titres cédés dans le cadre de leur gestion par les autres fonds communs de placement sous réserve qu'aucune personne physique agissant directement ou par personne interposée ne possède plus de 10 p. 100 des parts du fonds ;- à la cession des titres acquis dans le cadre des législations sur la participation des travailleurs aux fruits de l'expansion des entreprises et sur l'actionnariat dans les entreprises, à la condition que ces titres revêtent la forme nominative et comportent la mention d'origine ;- à la cession de titres effectuée dans le cadre d'un engagement d'épargne à long terme ; toutefois, dans le cas où le souscripteur d'un tel engagement ne respecte pas l'une des conditions fixées par l'article 163 bis A du code général des impôts, les gains réalisés sur les cessions effectuées dans le cadre de cet engagement sont soumis à l'impôt sur le revenu au taux forfaitaire de 30 p. 100 au titre de l'année pendant laquelle le souscripteur aura cessé de respecter l'une de ces conditions.Le prix d'acquisition des titres acquis en vertu d'un engagement d'épargne à long terme est réputé égal au dernier cours coté au comptant de ces titres précédant l'expiration de cet engagement."
+      "content": "Les dispositions de la présente loi ne s'appliquent pas :- aux titres cédés dans le cadre de leur gestion par les fonds communs de placement, constitués en application des législations sur la participation des salariés aux fruits de l'expansion des entreprises et les plans d'épargne d'entreprise ainsi qu'aux rachats de parts de tels fonds ;- aux titres cédés dans le cadre de leur gestion par les autres fonds communs de placement sous réserve qu'aucune personne physique agissant directement ou par personne interposée ne possède plus de 10 p. 100 des parts du fonds ;- à la cession des titres acquis dans le cadre des législations sur la participation des travailleurs aux fruits de l'expansion des entreprises et sur l'actionnariat dans les entreprises, à la condition que ces titres revêtent la forme nominative et comportent la mention d'origine ;- à la cession de titres effectuée dans le cadre d'un engagement d'épargne à long terme ; toutefois, dans le cas où le souscripteur d'un tel engagement ne respecte pas l'une des conditions fixées par l'article 163 bis A du code général des impôts, les gains réalisés sur les cessions effectuées dans le cadre de cet engagement sont soumis à l'impôt sur le revenu au taux forfaitaire de 30 p. 100 au titre de l'année pendant laquelle le souscripteur aura cessé de respecter l'une de ces conditions.Le prix d'acquisition des titres acquis en vertu d'un engagement d'épargne à long terme est réputé égal au dernier cours coté au comptant de ces titres précédant l'expiration de cet engagement.",
+      "valid_from": "1978-07-06"
     },
     {
       "provision_ref": "art13BIS",
       "section": "13BIS",
       "title": "Article 13BIS",
-      "content": "Les gains nets résultant des rachats de parts des fonds communs de placement visés au troisième alinéa de l'article 13, ou de leur dissolution, sont soumis à l'impôt dans les conditions prévues à l'article 6 de la présente loi, lorsque le nombre des porteurs de parts est supérieur à 50.Dans le cas contraire, ces gains, déterminés dans les mêmes conditions, sont taxés au taux de 30 p. 100, quelle que soit l'importance des cessions réalisées par le porteur.Si, à la suite d'un rachat de parts, le nombre de porteurs de parts devient égal ou inférieur à 50, le gérant du fonds dispose d'un délai de trois mois pour rétablir les conditions de répartition des avoirs du fonds antérieures aux opérations de rachat."
+      "content": "Les gains nets résultant des rachats de parts des fonds communs de placement visés au troisième alinéa de l'article 13, ou de leur dissolution, sont soumis à l'impôt dans les conditions prévues à l'article 6 de la présente loi, lorsque le nombre des porteurs de parts est supérieur à 50.Dans le cas contraire, ces gains, déterminés dans les mêmes conditions, sont taxés au taux de 30 p. 100, quelle que soit l'importance des cessions réalisées par le porteur.Si, à la suite d'un rachat de parts, le nombre de porteurs de parts devient égal ou inférieur à 50, le gérant du fonds dispose d'un délai de trois mois pour rétablir les conditions de répartition des avoirs du fonds antérieures aux opérations de rachat.",
+      "valid_from": "1979-07-14"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Les chiffres de 100 000 F et de 150 000 F figurant respectivement aux articles 3 et 6 sont révisés, chaque année, dans la même proportion que la septième tranche du barème de l'impôt sur le revenu."
+      "content": "Les chiffres de 100 000 F et de 150 000 F figurant respectivement aux articles 3 et 6 sont révisés, chaque année, dans la même proportion que la septième tranche du barème de l'impôt sur le revenu.",
+      "valid_from": "1978-07-06"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les contribuables qui réalisent des opérations mentionnées aux articles 3 et 6 sont soumis obligatoirement, pour ce qui concerne ces opérations, au régime de la déclaration contrôlée."
+      "content": "Les contribuables qui réalisent des opérations mentionnées aux articles 3 et 6 sont soumis obligatoirement, pour ce qui concerne ces opérations, au régime de la déclaration contrôlée.",
+      "valid_from": "1978-07-06"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Les gains nets retirés de cessions à titre onéreux de valeurs mobilières ou de droits sociaux de sociétés non cotées dont l'actif est principalement constitué d'immeubles ou de droits portant sur ces biens relèvent exclusivement du régime d'imposition prévu pour les biens immeubles. Pour l'application de cette disposition, ne sont pas pris en considération les immeubles affectés par la société à sa propre exploitation industrielle, commerciale, agricole ou à l'exercice d'une profession non commerciale.Toutefois, les titres de sociétés immobilières pour le commerce et l'industrie non cotées sont assimilés à des titres cotés pour l'application de la présente loi."
+      "content": "Les gains nets retirés de cessions à titre onéreux de valeurs mobilières ou de droits sociaux de sociétés non cotées dont l'actif est principalement constitué d'immeubles ou de droits portant sur ces biens relèvent exclusivement du régime d'imposition prévu pour les biens immeubles. Pour l'application de cette disposition, ne sont pas pris en considération les immeubles affectés par la société à sa propre exploitation industrielle, commerciale, agricole ou à l'exercice d'une profession non commerciale.Toutefois, les titres de sociétés immobilières pour le commerce et l'industrie non cotées sont assimilés à des titres cotés pour l'application de la présente loi.",
+      "valid_from": "1978-07-06"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Les profits réalisés par les contribuables qui effectuent des placements en report constituent des revenus de créances soumis à l'impôt dans les conditions prévues aux articles 125 et 125 A du code général des impôts.Corrélativement, les opérations de bourse effectuées par les intéressés dans le cadre de ces placements sont exonérées de l'impôt sur les opérations de bourse prévu à l'article 978 du code général des impôts et ne sont pas prises en compte pour l'application des articles 3 et 6 de la présente loi."
+      "content": "Les profits réalisés par les contribuables qui effectuent des placements en report constituent des revenus de créances soumis à l'impôt dans les conditions prévues aux articles 125 et 125 A du code général des impôts.Corrélativement, les opérations de bourse effectuées par les intéressés dans le cadre de ces placements sont exonérées de l'impôt sur les opérations de bourse prévu à l'article 978 du code général des impôts et ne sont pas prises en compte pour l'application des articles 3 et 6 de la présente loi.",
+      "valid_from": "1978-07-06"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Les conditions d'application de la présente loi, et notamment les obligations incombant aux intermédiaires ainsi qu'aux personnes interposées mentionnées aux articles 3 et 6, sont précisées, en tant que de besoin, par décret en Conseil d'Etat."
+      "content": "Les conditions d'application de la présente loi, et notamment les obligations incombant aux intermédiaires ainsi qu'aux personnes interposées mentionnées aux articles 3 et 6, sont précisées, en tant que de besoin, par décret en Conseil d'Etat.",
+      "valid_from": "1978-07-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Sont abrogés :Les articles 306, 333, 484, 573, 661 et 666 du Code de la sécurité sociale ;L'article 47 de la loi du 10 juillet 1952."
+      "content": "Sont abrogés :Les articles 306, 333, 484, 573, 661 et 666 du Code de la sécurité sociale ;L'article 47 de la loi du 10 juillet 1952.",
+      "valid_from": "1958-12-23"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Un décret en Conseil d'Etat déterminera celles des dispositions de la présente ordonnance et de ses décrets d'application qui seront étendues aux départements d'outre-mer."
+      "content": "Un décret en Conseil d'Etat déterminera celles des dispositions de la présente ordonnance et de ses décrets d'application qui seront étendues aux départements d'outre-mer.",
+      "valid_from": "1958-12-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

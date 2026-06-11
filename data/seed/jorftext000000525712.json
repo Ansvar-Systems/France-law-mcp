@@ -12,7 +12,14 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions de la présente loi sont applicables à compter du 1er août 1990, nonobstant toutes dispositions contraires. Au cas où les contrats visés à l'article 1er ne contiendraient à cette date aucune clause relative à cette extension de garantie, cette dernière sera réputée être accordée aux conditions de la garantie incendie."
+      "content": "Les dispositions de la présente loi sont applicables à compter du 1er août 1990, nonobstant toutes dispositions contraires. Au cas où les contrats visés à l'article 1er ne contiendraient à cette date aucune clause relative à cette extension de garantie, cette dernière sera réputée être accordée aux conditions de la garantie incendie.",
+      "valid_from": "1990-08-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

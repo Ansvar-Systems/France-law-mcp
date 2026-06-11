@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le corps des officiers contrôleurs en chef de la circulation aérienne est chargé, sous l'autorité des ingénieurs de l'aviation civile et des ingénieurs des études et de l'exploitation de l'aviation civile, d'assurer l'encadrement opérationnel des personnels qui participent directement à la fourniture des services de la circulation aérienne, de diriger l'instruction de ces personnels, d'assurer des missions de commandement sur certains aérodromes et d'effectuer dans le domaine de la navigation aérienne des études nécessitant des connaissances et une expérience approfondies du contrôle de la circulation aérienne. Ce corps est régi par un statut spécial fixé par décret en Conseil d'Etat, pris après avis du comité technique paritaire compétent. Ce statut peut déroger aux dispositions de l'article 16 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires et à celles de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat."
+      "content": "Le corps des officiers contrôleurs en chef de la circulation aérienne est chargé, sous l'autorité des ingénieurs de l'aviation civile et des ingénieurs des études et de l'exploitation de l'aviation civile, d'assurer l'encadrement opérationnel des personnels qui participent directement à la fourniture des services de la circulation aérienne, de diriger l'instruction de ces personnels, d'assurer des missions de commandement sur certains aérodromes et d'effectuer dans le domaine de la navigation aérienne des études nécessitant des connaissances et une expérience approfondies du contrôle de la circulation aérienne. Ce corps est régi par un statut spécial fixé par décret en Conseil d'Etat, pris après avis du comité technique paritaire compétent. Ce statut peut déroger aux dispositions de l'article 16 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires et à celles de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat.",
+      "valid_from": "1987-08-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions des articles 2 et 3 de la loi n° 84-1286 du 31 décembre 1984 abrogeant certaines dispositions des lois n° 64-650 du 2 juillet 1964 relative à certains personnels de la navigation aérienne et n° 71-458 du 17 juin 1971 relative à certains personnels de l'aviation civile et relative à l'exercice du droit de grève dans les services de la navigation aérienne sont applicables aux officiers contrôleurs en chef de la circulation aérienne."
+      "content": "Les dispositions des articles 2 et 3 de la loi n° 84-1286 du 31 décembre 1984 abrogeant certaines dispositions des lois n° 64-650 du 2 juillet 1964 relative à certains personnels de la navigation aérienne et n° 71-458 du 17 juin 1971 relative à certains personnels de l'aviation civile et relative à l'exercice du droit de grève dans les services de la navigation aérienne sont applicables aux officiers contrôleurs en chef de la circulation aérienne.",
+      "valid_from": "1987-08-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions des articles 5 à 8 de la loi n° 64-650 du 2 juillet 1964 relative à certains personnels de la navigation aérienne sont applicables aux officiers contrôleurs en chef de la circulation aérienne. La bonification acquise en qualité d'officier contrôleur en chef de la circulation aérienne et celle acquise en qualité d'officier contrôleur de la circulation aérienne ne peuvent excéder un total de cinq ans."
+      "content": "Les dispositions des articles 5 à 8 de la loi n° 64-650 du 2 juillet 1964 relative à certains personnels de la navigation aérienne sont applicables aux officiers contrôleurs en chef de la circulation aérienne. La bonification acquise en qualité d'officier contrôleur en chef de la circulation aérienne et celle acquise en qualité d'officier contrôleur de la circulation aérienne ne peuvent excéder un total de cinq ans.",
+      "valid_from": "1987-08-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions prévues par la présente loi et ses règlements d'application prennent effet à compter du 1er août 1987. Ces règlements prévoient les conditions dans lesquelles les décisions individuelles prises pour leur application peuvent rétroagir à la même date."
+      "content": "Les dispositions prévues par la présente loi et ses règlements d'application prennent effet à compter du 1er août 1987. Ces règlements prévoient les conditions dans lesquelles les décisions individuelles prises pour leur application peuvent rétroagir à la même date.",
+      "valid_from": "1987-08-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

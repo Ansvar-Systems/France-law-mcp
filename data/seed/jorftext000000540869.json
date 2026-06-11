@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I ....II ....III. - Les dispositions du II du présent article prennent effet le premier jour du trimestre civil suivant la publication de la présente loi.IV ...."
+      "content": "I ....II ....III. - Les dispositions du II du présent article prennent effet le premier jour du trimestre civil suivant la publication de la présente loi.IV ....",
+      "valid_from": "1996-01-30"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement adressera au Parlement un rapport recensant les aides dont bénéficient les particuliers et les associations pour les emplois de services aux personnes ; le rapport en évaluera les effets et formulera des hypothèses en vue d'une éventuelle réforme tendant à harmoniser les conditions d'octroi de ces aides afin de supprimer les effets de concurrence non souhaités.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement adressera au Parlement un rapport recensant les aides dont bénéficient les particuliers et les associations pour les emplois de services aux personnes ; le rapport en évaluera les effets et formulera des hypothèses en vue d'une éventuelle réforme tendant à harmoniser les conditions d'octroi de ces aides afin de supprimer les effets de concurrence non souhaités.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "1996-01-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

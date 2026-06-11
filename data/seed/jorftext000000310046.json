@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Par dérogation à l'article 13 de la loi des 16-24 août 1790 sur l'organisation judiciaire, les tribunaux de l'ordre judiciaire sont seuls compétents pour statuer sur toute action en responsabilité tendant à la réparation des dommages de toute nature causés par un véhicule quelconque.Cette action sera jugée conformément aux règles du droit civil, la responsabilité de la personne morale de droit public étant, à l'égard des tiers, substituée à celle de son agent, auteur des dommages causés dans l'exercice de ses fonctions.La présente disposition ne s'applique pas aux dommages occasionnés au domaine public."
+      "content": "Par dérogation à l'article 13 de la loi des 16-24 août 1790 sur l'organisation judiciaire, les tribunaux de l'ordre judiciaire sont seuls compétents pour statuer sur toute action en responsabilité tendant à la réparation des dommages de toute nature causés par un véhicule quelconque.Cette action sera jugée conformément aux règles du droit civil, la responsabilité de la personne morale de droit public étant, à l'égard des tiers, substituée à celle de son agent, auteur des dommages causés dans l'exercice de ses fonctions.La présente disposition ne s'applique pas aux dommages occasionnés au domaine public.",
+      "valid_from": "1958-01-05"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La juridiction administrative reste compétente pour statuer sur les actions dont elle a été saisie, antérieurement à la publication de la présente loi, à l'occasion des dommages visés à l'article 1er ci-dessus."
+      "content": "La juridiction administrative reste compétente pour statuer sur les actions dont elle a été saisie, antérieurement à la publication de la présente loi, à l'occasion des dommages visés à l'article 1er ci-dessus.",
+      "valid_from": "1958-01-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

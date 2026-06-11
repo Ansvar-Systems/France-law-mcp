@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le titre VII du livre Ier du même code est modifié conformément aux articles 3 à 8 de la présente ordonnance."
+      "content": "Le titre VII du livre Ier du même code est modifié conformément aux articles 3 à 8 de la présente ordonnance.",
+      "valid_from": "2012-07-01"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Les dispositions de la présente ordonnance s'appliquent aux contrats conclus ou renouvelés, tacitement ou non, à compter du 1er juillet 2012."
+      "content": "Les dispositions de la présente ordonnance s'appliquent aux contrats conclus ou renouvelés, tacitement ou non, à compter du 1er juillet 2012.",
+      "valid_from": "2012-07-01"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Le Premier ministre et le ministre de l'économie, des finances et de l'industrie sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre de l'économie, des finances et de l'industrie sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2012-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

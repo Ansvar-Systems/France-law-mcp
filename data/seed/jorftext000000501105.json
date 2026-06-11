@@ -9,22 +9,56 @@
   "description": null,
   "provisions": [
     {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Sont soumises aux dispositions de la présente loi les personnes physiques ou morales, publiques ou privées, qui exploitent une installation nucléaire, civile ou militaire, entrant dans le champ d'application de la Convention de Paris et dont le régime a été défini par les décrets pris en application de l'article 8 de la loi n° 61-842 du 2 aôut 1961 relative à la lutte contre les pollutions atmosphériques et les odeurs et portant modification de la loi du 19 décembre 1917.\n\nPour l'application de la présente loi, lorsque plusieurs installations nucléaires ou une installation nucléaire et toute autre installation dans laquelle sont détenues des matières radioactives ont le même exploitant et se trouvent sur un même site, elles sont considérées comme une installation nucléaire unique.\n\nUn décret déterminera les modalités selon lesquelles un transporteur pourra demander à être substitué, en ce qui concerne la responsabilité prévue à l'article 4 de la présente loi, à l'exploitant d'une installation nucléaire avec l'accord de celui-ci, si ce transporteur remplit les conditions exigées par l'article 7.",
+      "valid_from": "1990-06-17",
+      "valid_to": "2222-02-22"
+    },
+    {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le montant maximum de la responsabilité de l'exploitant est fixé à 91 469 410,34 euros pour un même accident nucléaire.Toutefois, le montant ci-dessus est réduit à 22 867 352,59 euros pour un même accident nucléaire lorsque ne sont exploitées sur un site déterminé que des installations à risque réduit. Les caractéristiques de ces installations sont définies par décret pris après avis rendu public de la commission interministérielle des installations nucléaires de base."
+      "content": "Le montant maximum de la responsabilité de l'exploitant est fixé à 700 millions d'euros pour les dommages nucléaires causés par chaque accident nucléaire.Toutefois, le montant ci-dessus est réduit à 70 millions d'euros pour un même accident nucléaire lorsque ne sont exploitées sur un site déterminé que des installations à risque réduit. Les caractéristiques de ces installations sont définies par décret pris après avis rendu public de la commission interministérielle des installations nucléaires de base.Ce montant est également réduit dans les cas où la convention de Paris est applicable à un Etat non contractant conformément aux II et IV du a de son article 2, dans la mesure où cet Etat n'accorde pas un montant équivalent et à due concurrence de ce dernier montant.",
+      "valid_from": "2006-06-14",
+      "valid_to": "2222-02-22"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le ministre de l'économie et des finances, sur proposition du ministre chargé de l'énergie automique, est habilité à donner aux exploitants d'installations nucléaires la garantie de l'Etat, qui se substituera en tout ou en partie à une assurance ou à une autre garantie financière."
+      "content": "Le ministre de l'économie et des finances, sur proposition du ministre chargé de l'énergie automique, est habilité à donner aux exploitants d'installations nucléaires la garantie de l'Etat, qui se substituera en tout ou en partie à une assurance ou à une autre garantie financière.",
+      "valid_from": "2012-01-07"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Si les victime d'un accident nucléaire ne peuvent obtenir de l'assureur, du garant financier ou de l'exploitant, réparation de leurs dommages, la charge de celle-ci est subsidiairement supportée par l'Etat à concurrence du montant fixé à l'article 4 ci-dessus et sans préjudice de l'application de l'article 5."
+      "content": "Si les victime d'un accident nucléaire ne peuvent obtenir de l'assureur, du garant financier ou de l'exploitant, réparation de leurs dommages, la charge de celle-ci est subsidiairement supportée par l'Etat à concurrence du montant fixé à l'article 4 ci-dessus et sans préjudice de l'application de l'article 5.",
+      "valid_from": "1968-10-31"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "En ce qui concerne les dommages corporels, un décret pris sur le rapport du minsitre chargé de l'énergie atomique et du ministre des affaires sociales établira, en fonction de l'irradiation et de la contamination reçues et du délai dans lequel l'affection a été constatée, une liste non limitative des affections qui, sauf preuve contraire, sont présumées avoir pour origine l'accident.",
+      "valid_from": "1968-10-31",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13",
+      "content": "Si, à la suite d'un accident nucléaire, il apparaît que les sommes maximales disponibles en application de la présente loi risquent d'être insuffisantes pour réparer l'ensemble des dommages subis par les victimes, un décret en conseil des ministres, publié dans un délai de six mois à compter du jour de l'accident, constate cette situation exceptionnelle et fixe les modalités de réparation des sommes visées aux articles 4 et 5 ci-dessus.Ce décret peut notamment définir des mesures de contrôle particulières auxquelles devra se soumettre la population pour déterminer les personnes qui ont pu avoir subi un dommage et peut fixer, eu égard à l'insuffisance des sommes mentionnées à l'alinéa précédent et à la priorité inscrite ci-dessous, les règles de calcul des indemnités susceptibles d'être allouées à chaque victime en réparation des dommages corporels ou matériels.Dans ce cas, les sommes disponibles prévues par la présente loi sont réparties selon les règles suivantes :a) Les dommages corporels sont réparés par priorité suivant des modalités déterminées par analogie avec la législation sur les accidents du travail ;b) Les sommes qui restent disponibles, le cas échéant, après cette première indemnisation, sont réparties entre les victimes proportionnellement aux dommages corporels restant à indemniser et aux autres dommages nucléaires subis, évalués selon les règles du droit commun.",
+      "valid_from": "2006-06-14",
+      "valid_to": "2222-02-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

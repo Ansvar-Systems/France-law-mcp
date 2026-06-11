@@ -1,7 +1,7 @@
 {
   "id": "jorftext000000687451",
   "type": "statute",
-  "title": "Loi n° 86-897 du 1 août 1986",
+  "title": "Loi n° 86-897 du 1er août 1986",
   "title_en": null,
   "short_name": null,
   "status": "in_force",
@@ -12,127 +12,154 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Au sens de la présente loi, l'expression \"publication de presse\" désigne tout service utilisant un mode écrit de diffusion de la pensée mis à la disposition du public en général ou de catégories de publics et paraissant à intervalles réguliers.\n\nOn entend par service de presse en ligne tout service de communication au public en ligne édité à titre professionnel par une personne physique ou morale qui a la maîtrise éditoriale de son contenu, consistant en la production et la mise à disposition du public d'un contenu original, d'intérêt général, renouvelé régulièrement, composé d'informations présentant un lien avec l'actualité et ayant fait l'objet d'un traitement à caractère journalistique, qui ne constitue pas un outil de promotion ou un accessoire d'une activité industrielle ou commerciale.\n\nUn décret précise les conditions dans lesquelles un service de presse en ligne peut être reconnu, en vue notamment de bénéficier des avantages qui s'y attachent. Pour les services de presse en ligne présentant un caractère d'information politique et générale, cette reconnaissance implique l'emploi, à titre régulier, d'au moins un journaliste professionnel au sens de l'article L. 7111-3 du code du travail."
+      "content": "Au sens de la présente loi, l'expression \"publication de presse\" désigne tout service utilisant un mode écrit de diffusion de la pensée mis à la disposition du public en général ou de catégories de publics et paraissant à intervalles réguliers.\n\nOn entend par service de presse en ligne tout service de communication au public en ligne édité à titre professionnel par une personne physique ou morale qui a la maîtrise éditoriale de son contenu, consistant en la production et la mise à disposition du public d'un contenu original, d'intérêt général, renouvelé régulièrement, composé d'informations présentant un lien avec l'actualité et ayant fait l'objet d'un traitement à caractère journalistique, qui ne constitue pas un outil de promotion ou un accessoire d'une activité industrielle ou commerciale.\n\nUn décret précise les conditions dans lesquelles un service de presse en ligne peut être reconnu, en vue notamment de bénéficier des avantages qui s'y attachent. Pour les services de presse en ligne présentant un caractère d'information politique et générale, cette reconnaissance implique l'emploi, à titre régulier, d'au moins un journaliste professionnel au sens de l'article L. 7111-3 du code du travail.",
+      "valid_from": "2009-06-14"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions de la présente loi s'appliquent aux entreprises éditrices.\n\nAu sens de la présente loi, l'expression \"entreprise éditrice\" désigne toute personne physique ou morale ou groupement de droit éditant, en tant que propriétaire ou locataire-gérant, une publication de presse  ou un service de presse en ligne."
+      "content": "Les dispositions de la présente loi s'appliquent aux entreprises éditrices.\n\nAu sens de la présente loi, l'expression \"entreprise éditrice\" désigne toute personne physique ou morale ou groupement de droit éditant, en tant que propriétaire ou locataire-gérant, une publication de presse  ou un service de presse en ligne.",
+      "valid_from": "2011-05-19"
     },
     {
       "provision_ref": "art2-1",
       "section": "2-1",
       "title": "Article 2-1",
-      "content": "Une entreprise éditant une ou plusieurs publications de presse ou services de presse en ligne peut adopter le statut d'entreprise solidaire de presse d'information.\n\nDeux conditions sont nécessaires pour se voir reconnaître un tel statut :\n\n1° L'objet social d'une entreprise solidaire de presse d'information est d'éditer une ou plusieurs publications de presse ou services de presse en ligne d'information politique et générale ou consacrés pour une large part à l'information politique et générale ;\n\n2° Pour la gestion de l'entreprise solidaire de presse d'information, une fraction au moins égale à 20 % des bénéfices de l'exercice est affectée à la constitution d'une réserve statutaire obligatoire consacrée au maintien ou au développement de l'activité de l'entreprise et une fraction au moins égale à 50 % des bénéfices de l'exercice est affectée au report bénéficiaire et à la réserve obligatoire."
+      "content": "Une entreprise éditant une ou plusieurs publications de presse ou services de presse en ligne peut adopter le statut d'entreprise solidaire de presse d'information.\n\nDeux conditions sont nécessaires pour se voir reconnaître un tel statut :\n\n1° L'objet social d'une entreprise solidaire de presse d'information est d'éditer une ou plusieurs publications de presse ou services de presse en ligne d'information politique et générale ou consacrés pour une large part à l'information politique et générale ;\n\n2° Pour la gestion de l'entreprise solidaire de presse d'information, une fraction au moins égale à 20 % des bénéfices de l'exercice est affectée à la constitution d'une réserve statutaire obligatoire consacrée au maintien ou au développement de l'activité de l'entreprise et une fraction au moins égale à 50 % des bénéfices de l'exercice est affectée au report bénéficiaire et à la réserve obligatoire.",
+      "valid_from": "2016-11-16"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Il est interdit de prêter son nom à toute entreprise éditrice, en simulant la souscription d'actions ou de parts, l'acquisition ou la location-gérance d'un fonds de commerce ou d'un titre."
+      "content": "Il est interdit de prêter son nom à toute entreprise éditrice, en simulant la souscription d'actions ou de parts, l'acquisition ou la location-gérance d'un fonds de commerce ou d'un titre.",
+      "valid_from": "1986-08-02"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Dans le cas de sociétés par actions, les actions doivent être nominatives. Toute cession est soumise à l'agrément du conseil d'administration ou  du conseil de surveillance."
+      "content": "Dans le cas de sociétés par actions, les actions doivent être nominatives. Toute cession est soumise à l'agrément du conseil d'administration ou  du conseil de surveillance.",
+      "valid_from": "2011-05-19"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Dans toute publication de presse, les informations suivantes sont portées, dans chaque numéro, à la connaissance des lecteurs :1° Si l'entreprise éditrice n'est pas dotée de la personnalité morale, les nom et prénom du propriétaire ou du principal copropriétaire ;2° Si l'entreprise éditrice est une personne morale, sa dénomination ou sa raison sociale, son siège social, sa forme juridique ainsi que le nom de son représentant légal et des personnes physiques ou morales détenant au moins 10 % de son capital ;3° Le nom du directeur de la publication et celui du responsable de la rédaction.Ces informations sont également accessibles sur la page d'accueil de tout service de presse en ligne."
+      "content": "Dans toute publication de presse, les informations suivantes sont portées, dans chaque numéro, à la connaissance des lecteurs :1° Si l'entreprise éditrice n'est pas dotée de la personnalité morale, les nom et prénom du propriétaire ou du principal copropriétaire ;2° Si l'entreprise éditrice est une personne morale, sa dénomination ou sa raison sociale, son siège social, sa forme juridique ainsi que le nom de son représentant légal et des personnes physiques ou morales détenant au moins 10 % de son capital ;3° Le nom du directeur de la publication et celui du responsable de la rédaction.Ces informations sont également accessibles sur la page d'accueil de tout service de presse en ligne.",
+      "valid_from": "2011-05-19"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Toute entreprise éditrice doit porter à la connaissance des lecteurs ou des internautes de la publication ou du service de presse en ligne, dans le délai d'un mois à compter de la date à laquelle elle en acquiert elle-même la connaissance, ou lors de la prochaine parution de la publication :\n\n1° Toute cession ou promesse de cession de droits sociaux ayant pour effet de donner à un cessionnaire au moins un tiers du capital social ou des droits de vote ;\n\n2° Tout transfert ou promesse de transfert de la propriété ou de l'exploitation d'un titre de publication de presse ou d'un service de presse en ligne.\n\nL'obligation d'information portant sur les opérations décrites au 1° et au présent 2° incombe à la partie cédante.\n\n3° Toute modification du statut de l'entreprise éditrice ;4° Tout changement dans les dirigeants ou actionnaires de l'entreprise.Chaque année, l'entreprise éditrice doit porter à la connaissance des lecteurs ou des internautes de la publication ou du service de presse en ligne toutes les informations relatives à la composition de son capital, en cas de détention par toute personne physique ou morale d'une fraction supérieure ou égale à 5 % de celui-ci, et de ses organes dirigeants. Elle mentionne l'identité et la part d'actions de chacun des actionnaires, qu'il soit une personne physique ou morale."
+      "content": "Toute entreprise éditrice doit porter à la connaissance des lecteurs ou des internautes de la publication ou du service de presse en ligne, dans le délai d'un mois à compter de la date à laquelle elle en acquiert elle-même la connaissance, ou lors de la prochaine parution de la publication :\n\n1° Toute cession ou promesse de cession de droits sociaux ayant pour effet de donner à un cessionnaire au moins un tiers du capital social ou des droits de vote ;\n\n2° Tout transfert ou promesse de transfert de la propriété ou de l'exploitation d'un titre de publication de presse ou d'un service de presse en ligne.\n\nL'obligation d'information portant sur les opérations décrites au 1° et au présent 2° incombe à la partie cédante.\n\n3° Toute modification du statut de l'entreprise éditrice ;4° Tout changement dans les dirigeants ou actionnaires de l'entreprise.Chaque année, l'entreprise éditrice doit porter à la connaissance des lecteurs ou des internautes de la publication ou du service de presse en ligne toutes les informations relatives à la composition de son capital, en cas de détention par toute personne physique ou morale d'une fraction supérieure ou égale à 5 % de celui-ci, et de ses organes dirigeants. Elle mentionne l'identité et la part d'actions de chacun des actionnaires, qu'il soit une personne physique ou morale.",
+      "valid_from": "2016-11-16"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Sous réserve des engagements internationaux souscrits par la France et comportant soit une clause d'assimilation au national, soit une clause de réciprocité dans le domaine de la presse, les étrangers ne pourront, à compter de la publication de la présente loi, procéder à une acquisition ayant effet de porter, directement ou indirectement, leur part à plus de vingt pour cent du capital social ou des droits de vote d'une entreprise éditant une publication de langue française.\n\nPour l'application du précédent alinéa, est étrangère toute société dont la majorité du capital social ou des droits de vote est détenue par des étrangers ainsi que toute association dont la majorité des dirigeants est étrangère."
+      "content": "Sous réserve des engagements internationaux souscrits par la France et comportant soit une clause d'assimilation au national, soit une clause de réciprocité dans le domaine de la presse, les étrangers ne pourront, à compter de la publication de la présente loi, procéder à une acquisition ayant effet de porter, directement ou indirectement, leur part à plus de vingt pour cent du capital social ou des droits de vote d'une entreprise éditant une publication de langue française.\n\nPour l'application du précédent alinéa, est étrangère toute société dont la majorité du capital social ou des droits de vote est détenue par des étrangers ainsi que toute association dont la majorité des dirigeants est étrangère.",
+      "valid_from": "1986-08-02"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Il est interdit à toute entreprise éditrice, sous réserve des prestations qu'elle assure, ou à l'un de ses collaborateurs, de recevoir directement ou indirectement des fonds ou avantages d'un gouvernement étranger."
+      "content": "Il est interdit à toute entreprise éditrice, sous réserve des prestations qu'elle assure, ou à l'un de ses collaborateurs, de recevoir directement ou indirectement des fonds ou avantages d'un gouvernement étranger.",
+      "valid_from": "1986-08-02"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Il est interdit à toute entreprise éditrice ou à l'un de ses collaborateurs de recevoir ou de se faire promettre une somme d'argent, ou tout autre avantage, aux fins de travestir en information de la publicité financière.\n\nTout article de publicité à présentation rédactionnelle doit être précédé de la mention \"publicité\" ou \"communiqué\"."
+      "content": "Il est interdit à toute entreprise éditrice ou à l'un de ses collaborateurs de recevoir ou de se faire promettre une somme d'argent, ou tout autre avantage, aux fins de travestir en information de la publicité financière.\n\nTout article de publicité à présentation rédactionnelle doit être précédé de la mention \"publicité\" ou \"communiqué\".",
+      "valid_from": "1986-08-02"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Est interdite, à peine de nullité, l'acquisition, la prise de contrôle ou la prise en location-gérance d'une publication quotidienne imprimée d'information politique et générale lorsque cette opération a pour effet de permettre à une personne physique ou morale ou à un groupement de personnes physiques ou morales de posséder, de contrôler, directement ou indirectement, ou d'éditer en location-gérance des publications quotidiennes imprimées d'information politique et générale dont le total de la diffusion excède 30 % de la diffusion sur le territoire national de toutes les publications quotidiennes imprimées de même nature. Cette diffusion est appréciée sur les douze derniers mois connus précédant la date d'acquisition, de prise de contrôle ou de prise en location-gérance.Le contrôle mentionné à l'alinéa précédent s'apprécie au regard des critères figurant à l'article L. 233-3 du code de commerce ou s'entend de toute situation dans laquelle une personne physique ou morale ou un groupement de personnes physiques ou morales aurait placé une publication sous son autorité ou sa dépendance."
+      "content": "Est interdite, à peine de nullité, l'acquisition, la prise de contrôle ou la prise en location-gérance d'une publication quotidienne imprimée d'information politique et générale lorsque cette opération a pour effet de permettre à une personne physique ou morale ou à un groupement de personnes physiques ou morales de posséder, de contrôler, directement ou indirectement, ou d'éditer en location-gérance des publications quotidiennes imprimées d'information politique et générale dont le total de la diffusion excède 30 % de la diffusion sur le territoire national de toutes les publications quotidiennes imprimées de même nature. Cette diffusion est appréciée sur les douze derniers mois connus précédant la date d'acquisition, de prise de contrôle ou de prise en location-gérance.Le contrôle mentionné à l'alinéa précédent s'apprécie au regard des critères figurant à l'article L. 233-3 du code de commerce ou s'entend de toute situation dans laquelle une personne physique ou morale ou un groupement de personnes physiques ou morales aurait placé une publication sous son autorité ou sa dépendance.",
+      "valid_from": "2000-09-21"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Seront punis d'une peine d'un an de prison et de 30 000 euros d'amende ou de l'une de ces deux peines seulement ceux qui, en leur nom personnel ou comme représentant d'une personne morale, auront :\n\n1° Prêté leur nom ou emprunté le nom d'autrui en violation des dispositions de l'article 3 ;\n\n2° Eté partie à une convention prohibée par les dispositions de l'article 7 ;\n\n3° Accepté de recevoir ou reçu un avantage en violation des dispositions de l'article 8 ;\n\n4° Promis ou versé, accepté de recevoir ou reçu une somme d'argent ou un avantage en violation des dispositions de l'alinéa premier de l'article 10 ;\n\n5° Enfreint l'interdiction édictée par l'article 11."
+      "content": "Seront punis d'une peine d'un an de prison et de 30 000 euros d'amende ou de l'une de ces deux peines seulement ceux qui, en leur nom personnel ou comme représentant d'une personne morale, auront :\n\n1° Prêté leur nom ou emprunté le nom d'autrui en violation des dispositions de l'article 3 ;\n\n2° Eté partie à une convention prohibée par les dispositions de l'article 7 ;\n\n3° Accepté de recevoir ou reçu un avantage en violation des dispositions de l'article 8 ;\n\n4° Promis ou versé, accepté de recevoir ou reçu une somme d'argent ou un avantage en violation des dispositions de l'alinéa premier de l'article 10 ;\n\n5° Enfreint l'interdiction édictée par l'article 11.",
+      "valid_from": "2002-01-01"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Sera puni de 30 000 euros d'amende, quiconque aura manqué à l'obligation d'être le directeur de la publication en application du deuxième alinéa de l'article 6 de la loi du 29 juillet 1881 précitée."
+      "content": "Sera puni de 30 000 euros d'amende, quiconque aura manqué à l'obligation d'être le directeur de la publication en application du deuxième alinéa de l'article 6 de la loi du 29 juillet 1881 précitée.",
+      "valid_from": "2002-01-01"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Seront punis de 6 000 euros d'amende :\n\n1° Les présidents, les directeurs généraux, les administrateurs, les membres de directoires ou de conseils de surveillance, les gérants ou les dirigeants de fait de sociétés qui auront émis des actions au porteur en violation des dispositions de l'article 4 ci-dessus ;\n\n2° Les dirigeants de toute entreprise éditrice qui n'auront pas fait procéder aux publications prévues aux articles 5 et 6 ci-dessus ;\n\n3° Les directeurs de publication qui auront enfreint les dispositions du second alinéa de l'article 10 ci-dessus."
+      "content": "Seront punis de 6 000 euros d'amende :\n\n1° Les présidents, les directeurs généraux, les administrateurs, les membres de directoires ou de conseils de surveillance, les gérants ou les dirigeants de fait de sociétés qui auront émis des actions au porteur en violation des dispositions de l'article 4 ci-dessus ;\n\n2° Les dirigeants de toute entreprise éditrice qui n'auront pas fait procéder aux publications prévues aux articles 5 et 6 ci-dessus ;\n\n3° Les directeurs de publication qui auront enfreint les dispositions du second alinéa de l'article 10 ci-dessus.",
+      "valid_from": "2002-01-01"
     },
     {
       "provision_ref": "art15-1",
       "section": "15-1",
       "title": "Article 15-1",
-      "content": "La violation par une entreprise éditrice, au sens de l'article 2, des articles 5 et 6 de la présente loi ainsi que de l'article 2 bis de la loi du 29 juillet 1881 sur la liberté de la presse entraîne la suspension de tout ou partie des aides publiques, directes et indirectes, dont elle bénéficie."
+      "content": "La violation par une entreprise éditrice, au sens de l'article 2, des articles 5 et 6 de la présente loi ainsi que de l'article 2 bis de la loi du 29 juillet 1881 sur la liberté de la presse entraîne la suspension de tout ou partie des aides publiques, directes et indirectes, dont elle bénéficie.",
+      "valid_from": "2016-11-16"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "En cas de condamnation pour l'une des infractions définies dans la présente loi, le tribunal pourra ordonner que sa décision soit, aux frais du condamné, insérée intégralement ou par extraits dans les publications de presse qu'il désigne et affichée dans les conditions prévues à l'article 131-35 du code pénal."
+      "content": "En cas de condamnation pour l'une des infractions définies dans la présente loi, le tribunal pourra ordonner que sa décision soit, aux frais du condamné, insérée intégralement ou par extraits dans les publications de presse qu'il désigne et affichée dans les conditions prévues à l'article 131-35 du code pénal.",
+      "valid_from": "1994-03-01"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Pour l'application de la loi n° 82-652 du 29 juillet 1982 sur la communication audiovisuelle, la référence aux articles 3, 4 et 9 de la loi n° 84-937 du 23 octobre 1984 visant à limiter la concentration et à assurer la transparence financière et le pluralisme des entreprises de presse est remplacée par la référence aux articles 7 et 3 de la présente loi."
+      "content": "Pour l'application de la loi n° 82-652 du 29 juillet 1982 sur la communication audiovisuelle, la référence aux articles 3, 4 et 9 de la loi n° 84-937 du 23 octobre 1984 visant à limiter la concentration et à assurer la transparence financière et le pluralisme des entreprises de presse est remplacée par la référence aux articles 7 et 3 de la présente loi.",
+      "valid_from": "1986-08-02"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Pour l'application de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales (1), la référence à l'article 2 de l'ordonnance du 26 août 1944 sur l'organisation de la presse française est remplacée par la référence à l'article 2 de la présente loi."
+      "content": "Pour l'application de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales (1), la référence à l'article 2 de l'ordonnance du 26 août 1944 sur l'organisation de la presse française est remplacée par la référence à l'article 2 de la présente loi.",
+      "valid_from": "2000-09-21"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Les sociétés éditrices, dont l'objet principal est la mise à la disposition du public ou de catégories de publics de services définis à l'article 77 de la loi n° 82-652 du 29 juillet 1982 précitée et dont les actions ne sont pas nominatives, sont tenues de publier un mois au plus aprés la promulgation de la présente loi, sur un support habilité à recevoir des annonces légales, un avis aux porteurs d'actions les invitant à mettre leurs titres sous la forme nominative selon les modalités prévues au I de l'article 94 de la loi de finances pour 1982, n° 81-1160 du 30 décembre 1981, modifié par l'article 111 de la loi de finances pour 1984, n° 83-1179 du 29 décembre 1983."
+      "content": "Les sociétés éditrices, dont l'objet principal est la mise à la disposition du public ou de catégories de publics de services définis à l'article 77 de la loi n° 82-652 du 29 juillet 1982 précitée et dont les actions ne sont pas nominatives, sont tenues de publier un mois au plus aprés la promulgation de la présente loi, sur un support habilité à recevoir des annonces légales, un avis aux porteurs d'actions les invitant à mettre leurs titres sous la forme nominative selon les modalités prévues au I de l'article 94 de la loi de finances pour 1982, n° 81-1160 du 30 décembre 1981, modifié par l'article 111 de la loi de finances pour 1984, n° 83-1179 du 29 décembre 1983.",
+      "valid_from": "2019-05-24"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Sont abrogées :1° L'ordonnance du 26 août 1944 sur l'organisation de la presse française;2° La loi n° 84-937 du 23 octobre 1984 précitée."
+      "content": "Sont abrogées :1° L'ordonnance du 26 août 1944 sur l'organisation de la presse française;2° La loi n° 84-937 du 23 octobre 1984 précitée.",
+      "valid_from": "1986-09-28"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "La présente loi est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises, dans sa rédaction résultant de la loi n° 2016-1524 du 14 novembre 2016 visant à renforcer la liberté, l'indépendance et le pluralisme des médias, à l'exception de l'article 17."
+      "content": "La présente loi est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises, dans sa rédaction résultant de la loi n° 2016-1524 du 14 novembre 2016 visant à renforcer la liberté, l'indépendance et le pluralisme des médias, à l'exception de l'article 17.",
+      "valid_from": "2016-11-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

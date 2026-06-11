@@ -1,0 +1,46 @@
+{
+  "id": "jorftext000052982995",
+  "type": "statute",
+  "title": "Ordonnance n°2025-1154 du 2 décembre 2025",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000052982995",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "I. - Au tableau de l'article L. 351-3 du code de la consommation, la ligne :&laquo;\n\n&raquo;est remplacée par la ligne suivante :&laquo;\n\n&raquo;.II.-Au tableau de l'article L. 351-7 du même code, la ligne :&laquo;\n\n&raquo;est remplacée par les trois lignes suivantes :&laquo;\n\nIII. - A modifié les dispositions suivantes :\n\nIV. - A modifié les dispositions suivantes :\n\nL. 312-4\n\nRésultant de l'ordonnance n° 2016-351 du 25 mars 2016\n\n1\n\nL. 312-4\n\nRésultant de l'ordonnance n° 2025-1154 du 2 décembre 2025\n\n1\n\nL. 314-23, à l'exception de son quatrième alinéa et de son dernier alinéa, L. 314-25 à L. 314-26\n\nRésultant de l'ordonnance n° 2016-351 du 25 mars 2016\n\n1\n\nL. 314-23, à l'exception de son quatrième alinéa et de son dernier alinéa\n\nRésultant de l'ordonnance n° 2016-351 du 25 mars 2016\n\nL. 314-25\n\nRésultant de l'ordonnance n° 2025-1154 du 2 décembre 2025\n\nL. 314-26\n\nRésultant de l'ordonnance n° 2025-880 du 3 septembre 2025\n\n1\n\n- Code de la consommation\n\n- Code de la consommation",
+      "valid_from": "2025-12-04"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "I. - Les articles L. 773-2 et L. 774-2 du code monétaire et financier sont ainsi modifiés :1° Au tableau du I, les lignes :«\n\n»sont remplacées par la ligne suivante :«\n\n» ;2° Le II est modifié comme suit :a) Le b du 2° est supprimé ;b) Il est complété par un 3° ainsi rédigé :« 3° Au 1. du I de l'article L. 511-7, les mots : “sous réserve des dispositions du 9 de l'article L. 511-6” sont supprimés. »II. - A l'article L. 775-2 du même code :1° Au tableau du I, les lignes :«\n\n»sont remplacées par la ligne suivante :«\n\n» ;2° Au 2° du II, le b est supprimé.\n\nL. 511-6, à l'exception de ses quatrième à sixième, douzième à quinzième et dix-huitième à vingt-deuxième alinéas\n\nRésultant de l'ordonnance n° 2023-1142 du 6 décembre 2023\n\nL. 511-7 à l'exception de ses troisième et neuvième alinéas\n\nRésultant de l'ordonnance n° 2025-880 du 3 septembre 2025\n\n1\n\ncenter\n\nL. 511-6, à l'exception de ses quatrième à huitième, quatorzième à seizième et vingtième à vingt-septième alinéas et L. 511-7 à l'exception de ses troisième et neuvième alinéas\n\nRésultant de l'ordonnance n° 2025-1154 du 2 décembre 2025\n\n1\n\ncenter\n\nL. 511-6, à l'exception de ses quatrième à sixième, douzième à quinzième et dix-huitième à vingt-deuxième alinéas\n\nRésultant de l'ordonnance n° 2023-1142 du 6 décembre 2023\n\nL. 511-7 à l'exception de ses troisième et neuvième alinéas\n\nRésultant de l'ordonnance n° 2025-880 du 3 septembre 2025\n\n1\n\ncenter\n\nL. 511-6, à l'exception de ses quatrième à huitième, quatorzième à seizième et vingtième à vingt-quatrième alinéas et L. 511-7 à l'exception de ses troisième et neuvième alinéas\n\nRésultant de l'ordonnance n° 2025-1154 du 2 décembre 2025\n\n1\n\ncenter",
+      "valid_from": "2025-12-04"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "I. - La présente ordonnance entre en vigueur le 20 novembre 2026.II. - Les contrats de crédit en cours au 20 novembre 2026 restent régis par les dispositions du code de la consommation et du code monétaire et financier dans leur rédaction antérieure à l'entrée en vigueur de la présente ordonnance.III. - Les fournisseurs de biens et prestataires de services mentionnés au premier alinéa du 9 de l'article L. 511-6 du code monétaire et financier disposent d'un délai de six mois à compter de la mise en place du registre mentionné au deuxième alinéa du 9 de ce même article pour se mettre en conformité avec l'obligation d'immatriculation sur ce registre.",
+      "valid_from": "2025-12-04"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2025-12-04"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

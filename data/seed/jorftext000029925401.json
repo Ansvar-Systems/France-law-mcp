@@ -12,25 +12,35 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "A modifié les dispositions suivantes :\n\nCode électoral\n\nArt. L46-1\n\nNota : Conformément à l'article unique de la loi n° 2015-816 du 6 juillet 2015 (II 2°), l'article 3 de l'ordonnance n° 2014-1539 est abrogé."
+      "content": "A modifié les dispositions suivantes :\n\nCode électoral\n\nArt. L46-1\n\nNota : Conformément à l'article unique de la loi n° 2015-816 du 6 juillet 2015 (II 2°), l'article 3 de l'ordonnance n° 2014-1539 est abrogé.",
+      "valid_from": "2020-03-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "A modifié les dispositions suivantes :\n\nLoi n° 77-729 du 7 juillet 1977\n\nArt. 6-3\n\nNota : Conformément à l'article unique de la loi n° 2015-816 du 6 juillet 2015 (II 2°), l'article 4 de l'ordonnance n° 2014-1539 est abrogé."
+      "content": "A modifié les dispositions suivantes :\n\nLoi n° 77-729 du 7 juillet 1977\n\nArt. 6-3\n\nNota : Conformément à l'article unique de la loi n° 2015-816 du 6 juillet 2015 (II 2°), l'article 4 de l'ordonnance n° 2014-1539 est abrogé.",
+      "valid_from": "2020-03-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La présente ordonnance entre en vigueur à l'occasion du prochain renouvellement général des conseillers municipaux."
+      "content": "La présente ordonnance entre en vigueur à l'occasion du prochain renouvellement général des conseillers municipaux.",
+      "valid_from": "2020-03-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre et le ministre de l'intérieur sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre de l'intérieur sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-03-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

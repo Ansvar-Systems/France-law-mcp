@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Par dérogation aux dispositions des articles L. 389 et L. 390 du code de la santé publique, lorsqu'ils viennent à expiration avant le 1er juillet 1992, les mandats des présidents ainsi que ceux des membres titulaires et suppléants des conseils départementaux de l'ordre des médecins sont prorogés jusqu'au 30 juin 1992."
+      "content": "Par dérogation aux dispositions des articles L. 389 et L. 390 du code de la santé publique, lorsqu'ils viennent à expiration avant le 1er juillet 1992, les mandats des présidents ainsi que ceux des membres titulaires et suppléants des conseils départementaux de l'ordre des médecins sont prorogés jusqu'au 30 juin 1992.",
+      "valid_from": "1991-06-18"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Par dérogation aux dispositions des articles L. 398, L. 400, L. 404 et L. 405 du code de la santé publique, lorsqu'ils viennent à expiration avant le 1er janvier 1993, les mandats des présidents ainsi que ceux des membres titulaires et suppléants du conseil national et des conseils régionaux de l'ordre des médecins sont prorogés jusqu'au 31 décembre 1992."
+      "content": "Par dérogation aux dispositions des articles L. 398, L. 400, L. 404 et L. 405 du code de la santé publique, lorsqu'ils viennent à expiration avant le 1er janvier 1993, les mandats des présidents ainsi que ceux des membres titulaires et suppléants du conseil national et des conseils régionaux de l'ordre des médecins sont prorogés jusqu'au 31 décembre 1992.",
+      "valid_from": "1991-06-18"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "En cas de vacance, pour quelque cause que ce soit, d'un siège de membre du Conseil national de l'ordre des médecins avant le 1er janvier 1993, il est procédé dans les deux mois à l'élection ou à la désignation d'un remplaçant, dans les conditions définies à l'article L. 404 du code de la santé publique."
+      "content": "En cas de vacance, pour quelque cause que ce soit, d'un siège de membre du Conseil national de l'ordre des médecins avant le 1er janvier 1993, il est procédé dans les deux mois à l'élection ou à la désignation d'un remplaçant, dans les conditions définies à l'article L. 404 du code de la santé publique.",
+      "valid_from": "1991-06-18"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Par dérogation aux dispositions de l'article L. 447 du code de la santé publique, lorsqu'ils viennent à expiration avant le 1er juillet 1992, les mandats des présidents ainsi que ceux des membres titulaires et suppléants des conseils départementaux de l'ordre des sages-femmes sont prorogés jusqu'au 30 juin 1992."
+      "content": "Par dérogation aux dispositions de l'article L. 447 du code de la santé publique, lorsqu'ils viennent à expiration avant le 1er juillet 1992, les mandats des présidents ainsi que ceux des membres titulaires et suppléants des conseils départementaux de l'ordre des sages-femmes sont prorogés jusqu'au 30 juin 1992.",
+      "valid_from": "1991-06-18"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Par dérogation aux dispositions des articles L. 454 et L. 455 du code de la santé publique, lorsqu'ils viennent à expiration avant le 1er janvier 1993, les mandats des sages-femmes siégeant en matière disciplinaire aux conseils régionaux et au Conseil national de l'ordre des médecins sont prorogés jusqu'au 31 décembre 1992."
+      "content": "Par dérogation aux dispositions des articles L. 454 et L. 455 du code de la santé publique, lorsqu'ils viennent à expiration avant le 1er janvier 1993, les mandats des sages-femmes siégeant en matière disciplinaire aux conseils régionaux et au Conseil national de l'ordre des médecins sont prorogés jusqu'au 31 décembre 1992.",
+      "valid_from": "1991-06-18"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Par dérogation aux dispositions des articles L. 449, L. 449-1 et L. 451 du code de la santé publique, lorsqu'ils viennent à expiration avant le 1er janvier 1993, les mandats du président et des conseillers du Conseil national de l'ordre des sages-femmes sont prorogés jusqu'au 31 décembre 1992."
+      "content": "Par dérogation aux dispositions des articles L. 449, L. 449-1 et L. 451 du code de la santé publique, lorsqu'ils viennent à expiration avant le 1er janvier 1993, les mandats du président et des conseillers du Conseil national de l'ordre des sages-femmes sont prorogés jusqu'au 31 décembre 1992.",
+      "valid_from": "1991-06-18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont déclarées applicables aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle, sous réserve des modifications et limitations qui font l'objet des articles ci-après, les dispositions législatives et réglementaires contenues :1° Dans les chapitres 1er \"Des immeubles\", III \"De la garde et de la conservation des immeubles historiques\", IV \"Fouilles et découvertes\", V \"Dispositions pénales\", et VI \"Dispositions diverses\", article 37, 3ème alinéa, de la loi du 31 décembre 1913, sur les monuments historiques ;2° Dans les titres 1er \"Des immeubles\", III \"De la garde et de la conservation des monuments historiques\", et IV \"Fouilles et découvertes\", du règlement d'administration publique du 18 mars 1924 rendu en exécution de ladite loi ;3° Dans la loi du 23 juillet 1927, complétant la loi du 31 décembre 1913 sur les monuments historiques."
+      "content": "Sont déclarées applicables aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle, sous réserve des modifications et limitations qui font l'objet des articles ci-après, les dispositions législatives et réglementaires contenues :1° Dans les chapitres 1er \"Des immeubles\", III \"De la garde et de la conservation des immeubles historiques\", IV \"Fouilles et découvertes\", V \"Dispositions pénales\", et VI \"Dispositions diverses\", article 37, 3ème alinéa, de la loi du 31 décembre 1913, sur les monuments historiques ;2° Dans les titres 1er \"Des immeubles\", III \"De la garde et de la conservation des monuments historiques\", et IV \"Fouilles et découvertes\", du règlement d'administration publique du 18 mars 1924 rendu en exécution de ladite loi ;3° Dans la loi du 23 juillet 1927, complétant la loi du 31 décembre 1913 sur les monuments historiques.",
+      "valid_from": "1929-03-22"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les transcriptions au bureau des hypothèques prescrites par les articles 1er, 2 et 13 de la loi du 31 décembre 1913 et 6 du décret du 18 mars 1924 seront remplacées par une mention en marge de la situation de l'immeuble sur le livre foncier. Cette mention sera opérée par les soins de l'administration des beaux-arts."
+      "content": "Les transcriptions au bureau des hypothèques prescrites par les articles 1er, 2 et 13 de la loi du 31 décembre 1913 et 6 du décret du 18 mars 1924 seront remplacées par une mention en marge de la situation de l'immeuble sur le livre foncier. Cette mention sera opérée par les soins de l'administration des beaux-arts.",
+      "valid_from": "1929-03-22"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Est abrogé l'arrêté du commissaire général de la République à Strasbourg en date du 20 juin 1919 rendant applicable en Alsace et en Lorraine la loi du 31 décembre 1913 sur les monuments historiques.Les monuments classés comme monuments historiques en exécution dudit arrêté seront maintenus classés s'ils sont portés sur une liste des monuments historiques classés dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, qui sera publiée au Journal officiel dans un délai de six mois à partir de la promulgation de la présente loi.Les monuments classés comme monuments historiques en exécution d'un arrêté antérieur à la date de la présente loi et qui ne seront pas portés sur ladite liste seront considérés comme déclassés à la date de la publication de cette liste au Journal officiel."
+      "content": "Est abrogé l'arrêté du commissaire général de la République à Strasbourg en date du 20 juin 1919 rendant applicable en Alsace et en Lorraine la loi du 31 décembre 1913 sur les monuments historiques.Les monuments classés comme monuments historiques en exécution dudit arrêté seront maintenus classés s'ils sont portés sur une liste des monuments historiques classés dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, qui sera publiée au Journal officiel dans un délai de six mois à partir de la promulgation de la présente loi.Les monuments classés comme monuments historiques en exécution d'un arrêté antérieur à la date de la présente loi et qui ne seront pas portés sur ladite liste seront considérés comme déclassés à la date de la publication de cette liste au Journal officiel.",
+      "valid_from": "1929-03-22"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les contestations relatives à l'indemnité prévue à l'article 5 de la loi du 31 décembre 1913 et à l'article 8 du décret du 18 mars 1924 seront jugées, en premier ressort, par le juge de bailliage jusqu'au jour où la juridiction des tribunaux d'instance viendrait à être instaurée dans les trois départements en question."
+      "content": "Les contestations relatives à l'indemnité prévue à l'article 5 de la loi du 31 décembre 1913 et à l'article 8 du décret du 18 mars 1924 seront jugées, en premier ressort, par le juge de bailliage jusqu'au jour où la juridiction des tribunaux d'instance viendrait à être instaurée dans les trois départements en question.",
+      "valid_from": "1929-03-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

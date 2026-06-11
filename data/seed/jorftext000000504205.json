@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Il est créé, sous le nom de Fonds spécial de grands travaux, un établissement public national à caractère administratif doté de l'autonomie financière *statut* et placé sous l'autorité du ministre de l'économie et des finances.Cet établissement a pour mission de réaliser ou de contribuer à financer tous travaux d'équipement dans les domaines des infrastructures des transports publics, de la circulation routière et de la maîtrise de l'énergie en milieu urbain et rural *attributions, fonction*."
+      "content": "Il est créé, sous le nom de Fonds spécial de grands travaux, un établissement public national à caractère administratif doté de l'autonomie financière *statut* et placé sous l'autorité du ministre de l'économie et des finances.Cet établissement a pour mission de réaliser ou de contribuer à financer tous travaux d'équipement dans les domaines des infrastructures des transports publics, de la circulation routière et de la maîtrise de l'énergie en milieu urbain et rural *attributions, fonction*.",
+      "valid_from": "1982-08-04"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Dans les conditions définies aux articles ci-après *loi n° 669 du 3 août 1982 art. 3 à art. 7*, les ressources du fonds sont constituées par :1. Une taxe spécifique,2. Des emprunts,3. Des fonds de concours versés par des collectivités publiques,4. Le cas échéant, des subventions d'investissement accordées par l'Etat."
+      "content": "Dans les conditions définies aux articles ci-après *loi n° 669 du 3 août 1982 art. 3 à art. 7*, les ressources du fonds sont constituées par :1. Une taxe spécifique,2. Des emprunts,3. Des fonds de concours versés par des collectivités publiques,4. Le cas échéant, des subventions d'investissement accordées par l'Etat.",
+      "valid_from": "1982-08-04"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le fonds est habilité, avec l'autorisation du ministre de l'économie et des finances, à contracter des emprunts dans la limite de ses capacités de remboursement, constituées par les produits attendus de la taxe instituée à l'article précédent.\n\nCes emprunts peuvent bénéficier de la garantie de l'Etat."
+      "content": "Le fonds est habilité, avec l'autorisation du ministre de l'économie et des finances, à contracter des emprunts dans la limite de ses capacités de remboursement, constituées par les produits attendus de la taxe instituée à l'article précédent.\n\nCes emprunts peuvent bénéficier de la garantie de l'Etat.",
+      "valid_from": "1982-08-04"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Lorsque le fonds apporte sa contribution financière à des travaux d'équipement, il le fait en allouant des subventions à des organismes publics ou à l'agence française pour la maîtrise de l'énergie.Le fonds est subrogé à l'Etat pour recevoir les concours des collectivités publiques pour les opérations qu'il réalise.Les ouvrages destinés à s'intégrer à la voirie nationale sont, dès leur achèvement, remis à l'Etat à titre gratuit."
+      "content": "Lorsque le fonds apporte sa contribution financière à des travaux d'équipement, il le fait en allouant des subventions à des organismes publics ou à l'agence française pour la maîtrise de l'énergie.Le fonds est subrogé à l'Etat pour recevoir les concours des collectivités publiques pour les opérations qu'il réalise.Les ouvrages destinés à s'intégrer à la voirie nationale sont, dès leur achèvement, remis à l'Etat à titre gratuit.",
+      "valid_from": "1982-08-04"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le fonds est administré par un conseil d'administration dont le président est nommé par décret."
+      "content": "Le fonds est administré par un conseil d'administration dont le président est nommé par décret.",
+      "valid_from": "1982-08-04"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Gouvernement présentera chaque année, en annexe au projet de loi de finances, un rapport sur la gestion du fonds, faisant ressortir en particulier la nature et le montant de ses ressources et de ses emplois."
+      "content": "Le Gouvernement présentera chaque année, en annexe au projet de loi de finances, un rapport sur la gestion du fonds, faisant ressortir en particulier la nature et le montant de ses ressources et de ses emplois.",
+      "valid_from": "1982-08-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

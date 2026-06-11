@@ -12,67 +12,84 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "L'établissement public à caractère industriel et commercial dénommé Caisse nationale de prévoyance apportera à une société anonyme, créée à cet effet, relevant du code des assurances et appartenant au secteur public, l'ensemble des droits, biens et obligations attachés à son activité.Ces apports ne donnent lieu ni à indemnité, ni à perception d'impôts, droits ou taxes de quelque nature que ce soit, ni au versement de  la contribution prévue à l'article 879 du code général des impôts ou d'honoraires au profit d'agents de l'Etat."
+      "content": "L'établissement public à caractère industriel et commercial dénommé Caisse nationale de prévoyance apportera à une société anonyme, créée à cet effet, relevant du code des assurances et appartenant au secteur public, l'ensemble des droits, biens et obligations attachés à son activité.Ces apports ne donnent lieu ni à indemnité, ni à perception d'impôts, droits ou taxes de quelque nature que ce soit, ni au versement de  la contribution prévue à l'article 879 du code général des impôts ou d'honoraires au profit d'agents de l'Etat.",
+      "valid_from": "2013-01-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "A la date de réalisation des apports, l'établissement public à caractère industriel et commercial dénommé Caisse nationale de prévoyance est supprimé.Pour les contrats souscrits avant le 1er août 1991, la garantie de l'Etat est maintenue en faveur de la société anonyme nouvelle."
+      "content": "A la date de réalisation des apports, l'établissement public à caractère industriel et commercial dénommé Caisse nationale de prévoyance est supprimé.Pour les contrats souscrits avant le 1er août 1991, la garantie de l'Etat est maintenue en faveur de la société anonyme nouvelle.",
+      "valid_from": "1992-07-17"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les fonctionnaires de l'Etat en service à la Caisse nationale de prévoyance à la date de réalisation des apports sont mis, à compter de cette même date et pour une durée maximale de six ans, à la disposition de la société anonyme qui rembourse les charges correspondantes."
+      "content": "Les fonctionnaires de l'Etat en service à la Caisse nationale de prévoyance à la date de réalisation des apports sont mis, à compter de cette même date et pour une durée maximale de six ans, à la disposition de la société anonyme qui rembourse les charges correspondantes.",
+      "valid_from": "1992-07-17"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les articles L. 433-1 à L. 433-11 du code des assurances sont abrogés.*paragraphes 2 et 3 modificateurs*."
+      "content": "Les articles L. 433-1 à L. 433-11 du code des assurances sont abrogés.*paragraphes 2 et 3 modificateurs*.",
+      "valid_from": "1992-07-17"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les articles 6 à 9 ci-dessus entrent en vigueur à la date de réalisation des apports mentionnée à l'article 4."
+      "content": "Les articles 6 à 9 ci-dessus entrent en vigueur à la date de réalisation des apports mentionnée à l'article 4.",
+      "valid_from": "1992-07-17"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "I.-L'établissement public à caractère industriel et commercial, dénommé Caisse centrale de réassurance, apportera à une société anonyme créée à cet effet, également dénommée Caisse centrale de réassurance, appartenant au secteur public, l'ensemble des droits, biens et obligations attachés à son activité.Cet apport ne donne lieu ni à indemnité, ni à perception d'impôts, droits ou taxes de quelque nature que ce soit, ni au versement de  la contribution prévue à l'article 879 du code général des impôts ou d'honoraires au profit d'agents de l'Etat.II.-A la date de réalisation des apports, l'établissement public à caractère industriel et commercial dénommé Caisse centrale de réassurance est supprimé."
+      "content": "I.-L'établissement public à caractère industriel et commercial, dénommé Caisse centrale de réassurance, apportera à une société anonyme créée à cet effet, également dénommée Caisse centrale de réassurance, appartenant au secteur public, l'ensemble des droits, biens et obligations attachés à son activité.Cet apport ne donne lieu ni à indemnité, ni à perception d'impôts, droits ou taxes de quelque nature que ce soit, ni au versement de  la contribution prévue à l'article 879 du code général des impôts ou d'honoraires au profit d'agents de l'Etat.II.-A la date de réalisation des apports, l'établissement public à caractère industriel et commercial dénommé Caisse centrale de réassurance est supprimé.",
+      "valid_from": "2013-01-01"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Le présent chapitre s'applique dans la collectivité territoriale de Mayotte."
+      "content": "Le présent chapitre s'applique dans la collectivité territoriale de Mayotte.",
+      "valid_from": "1993-05-20"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Les dispositions du présent chapitre entrent en vigueur le 20 mai 1993."
+      "content": "Les dispositions du présent chapitre entrent en vigueur le 20 mai 1993.",
+      "valid_from": "1993-05-20"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "Le présent chapitre s'applique dans la collectivité territoriale de Mayotte."
+      "content": "Le présent chapitre s'applique dans la collectivité territoriale de Mayotte.",
+      "valid_from": "1992-07-17"
     },
     {
       "provision_ref": "art47",
       "section": "47",
       "title": "Article 47",
-      "content": "Le titre II de la présente loi est applicable dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte, à l'exception de son article 38."
+      "content": "Le titre II de la présente loi est applicable dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte, à l'exception de son article 38.",
+      "valid_from": "1992-07-17"
     },
     {
       "provision_ref": "art48",
       "section": "48",
       "title": "Article 48",
-      "content": "L'article 38 de la présente loi entrera en vigueur le 1er janvier 1993."
+      "content": "L'article 38 de la présente loi entrera en vigueur le 1er janvier 1993.",
+      "valid_from": "1992-07-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

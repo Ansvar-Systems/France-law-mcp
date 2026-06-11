@@ -12,31 +12,42 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "(1)  (1)Les dispositions de cet article ont été déclarées non conformes à la Constitution par décision du Conseil constitutionnel en date du 25 juillet 1984."
+      "content": "(1)  (1)Les dispositions de cet article ont été déclarées non conformes à la Constitution par décision du Conseil constitutionnel en date du 25 juillet 1984.",
+      "valid_from": "1984-08-03"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "I - Le quatrième alinéa de l'article 15 de la loi n° 60-808 du 5 août 1960 concernant les sociétés d'aménagement foncier et d'établissement rural est complété par les dispositions suivantes :\"Dans les régions de Guadeloupe, de Guyane, de Martinique et de la Réunion, leurs statuts doivent également prévoir la présence dans leur conseil d'administration de représentants du conseil régional\".    II - Les sociétés déjà agréées doivent mettre leurs statuts en conformité avec cette disposition dans un délai d'un an à compter de la promulgation de la présente loi."
+      "content": "I - Le quatrième alinéa de l'article 15 de la loi n° 60-808 du 5 août 1960 concernant les sociétés d'aménagement foncier et d'établissement rural est complété par les dispositions suivantes :\"Dans les régions de Guadeloupe, de Guyane, de Martinique et de la Réunion, leurs statuts doivent également prévoir la présence dans leur conseil d'administration de représentants du conseil régional\".    II - Les sociétés déjà agréées doivent mettre leurs statuts en conformité avec cette disposition dans un délai d'un an à compter de la promulgation de la présente loi.",
+      "valid_from": "1984-08-03"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "(1)   (1) Les dispositions de cet article ont été déclarées non conformes à la Constitution par décision du Conseil constitutionnel en date du 25 juillet 1984."
+      "content": "(1)   (1) Les dispositions de cet article ont été déclarées non conformes à la Constitution par décision du Conseil constitutionnel en date du 25 juillet 1984.",
+      "valid_from": "1984-08-03"
     },
     {
       "provision_ref": "art42",
       "section": "42",
       "title": "Article 42",
-      "content": "Les dispositions propres à chaque domaine de compétences, faisant l'objet d'un transfert en vertu de la présente loi, prendront effet à une date qui sera fixée par décret, au plus tard un an après la date de publication de la présente loi. Toutefois,dans le domaine de l'éducation, le transfert de compétences prendra effet à la même date que celle fixée pour l'entrée en vigueur, dans ce domaine, du transfert de compétences prévu pa la loi n° 83-8 du 7 janvier 1983."
+      "content": "Les dispositions propres à chaque domaine de compétences, faisant l'objet d'un transfert en vertu de la présente loi, prendront effet à une date qui sera fixée par décret, au plus tard un an après la date de publication de la présente loi. Toutefois,dans le domaine de l'éducation, le transfert de compétences prendra effet à la même date que celle fixée pour l'entrée en vigueur, dans ce domaine, du transfert de compétences prévu pa la loi n° 83-8 du 7 janvier 1983.",
+      "valid_from": "1985-01-26"
     },
     {
       "provision_ref": "art44",
       "section": "44",
       "title": "Article 44",
-      "content": "Les modalités d'application de la présente loi sont fixées par décret en Conseil d'Etat.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Les modalités d'application de la présente loi sont fixées par décret en Conseil d'Etat.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "1984-08-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

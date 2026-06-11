@@ -12,31 +12,42 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. à II. - A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nIII. - Les incidences du présent article sur la dotation globale de fonctionnement des communes sont déterminées par la prochaine loi de finances.IV. - Le présent article entre en vigueur le 1er avril 2020.\n\n- Code général des collectivités territoriales\n\n- Code général des impôts, CGI.\n\n- Code général des collectivités territoriales"
+      "content": "I. à II. - A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nIII. - Les incidences du présent article sur la dotation globale de fonctionnement des communes sont déterminées par la prochaine loi de finances.IV. - Le présent article entre en vigueur le 1er avril 2020.\n\n- Code général des collectivités territoriales\n\n- Code général des impôts, CGI.\n\n- Code général des collectivités territoriales",
+      "valid_from": "2019-08-03"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "I.-A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nII.-Le présent article entre en vigueur le 1er avril 2020.\n\n- Code général des collectivités territoriales\n\n- Code général des collectivités territoriales"
+      "content": "I.-A modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nII.-Le présent article entre en vigueur le 1er avril 2020.\n\n- Code général des collectivités territoriales\n\n- Code général des collectivités territoriales",
+      "valid_from": "2019-08-03"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Dans un délai d'un an suivant la publication de la présente loi, le conseil municipal d'une commune nouvelle créée entre le 17 décembre 2010 et le 8 novembre 2016, par la fusion de plusieurs communes dont l'une au moins était issue d'une fusion de communes en application de la section 3 du chapitre III du titre Ier du livre Ier de la deuxième partie du code général des collectivités territoriales, dans sa rédaction antérieure à la loi n° 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales, peut décider d'instituer des communes déléguées reprenant le nom et les limites territoriales de l'ancienne commune chef-lieu et des anciennes communes associées, en remplacement, le cas échéant, de la commune déléguée reprenant le nom et les limites territoriales de la commune qui avait été créée par leur fusion.Par dérogation à l'article L. 2113-19 du code général des collectivités territoriales, l'institution de communes déléguées en application du premier alinéa du présent article est sans incidence sur le montant cumulé maximal des indemnités des adjoints de la commune nouvelle, des maires délégués et de leurs adjoints."
+      "content": "Dans un délai d'un an suivant la publication de la présente loi, le conseil municipal d'une commune nouvelle créée entre le 17 décembre 2010 et le 8 novembre 2016, par la fusion de plusieurs communes dont l'une au moins était issue d'une fusion de communes en application de la section 3 du chapitre III du titre Ier du livre Ier de la deuxième partie du code général des collectivités territoriales, dans sa rédaction antérieure à la loi n° 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales, peut décider d'instituer des communes déléguées reprenant le nom et les limites territoriales de l'ancienne commune chef-lieu et des anciennes communes associées, en remplacement, le cas échéant, de la commune déléguée reprenant le nom et les limites territoriales de la commune qui avait été créée par leur fusion.Par dérogation à l'article L. 2113-19 du code général des collectivités territoriales, l'institution de communes déléguées en application du premier alinéa du présent article est sans incidence sur le montant cumulé maximal des indemnités des adjoints de la commune nouvelle, des maires délégués et de leurs adjoints.",
+      "valid_from": "2019-08-03"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- Code général des collectivités territoriales\n\nII. - Le présent article entre en vigueur le 1er avril 2020."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Code général des collectivités territoriales\n\nII. - Le présent article entre en vigueur le 1er avril 2020.",
+      "valid_from": "2019-08-03"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Le Gouvernement remet au Parlement, dans un délai de quatre ans à compter de la promulgation de la présente loi, un rapport d'information sur les conséquences de la création d'une commune dans les conditions prévues à l'article L. 2113-9 du code général des collectivités territoriales.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Le Gouvernement remet au Parlement, dans un délai de quatre ans à compter de la promulgation de la présente loi, un rapport d'information sur les conséquences de la création d'une commune dans les conditions prévues à l'article L. 2113-9 du code général des collectivités territoriales.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2019-08-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

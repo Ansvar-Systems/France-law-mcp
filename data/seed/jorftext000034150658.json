@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Lorsqu'un acte notarié de notoriété porte sur un immeuble situé en Corse et constate une possession répondant aux conditions de la prescription acquisitive, il fait foi de la possession, sauf preuve contraire. Il ne peut être contesté que dans un délai de cinq ans à compter de la dernière des publications de cet acte par voie d'affichage, sur un site internet et au service de la publicité foncière.\n\nLe présent article s'applique aux actes de notoriété dressés et publiés avant le 31 décembre 2037. Lesdits actes sont exonérés de la taxe de publicité foncière.\n\nUn décret en Conseil d'Etat fixe les conditions d'application du présent article."
+      "content": "Lorsqu'un acte notarié de notoriété porte sur un immeuble situé en Corse et constate une possession répondant aux conditions de la prescription acquisitive, il fait foi de la possession, sauf preuve contraire. Il ne peut être contesté que dans un délai de cinq ans à compter de la dernière des publications de cet acte par voie d'affichage dans un journal d'annonces légales au lieu de situation du bien, sur un site internet et au service de la publicité foncière.\n\nLe présent article s'applique aux actes de notoriété dressés et publiés avant le 31 décembre 2037. Lesdits actes sont exonérés de la taxe de publicité foncière.\n\nUn décret en Conseil d'Etat fixe les conditions d'application du présent article.",
+      "valid_from": "2026-04-09"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Pour les indivisions constatées par un acte notarié de notoriété établi dans les conditions prévues à l'article 1er de la présente loi à défaut de titre de propriété existant, le ou les indivisaires titulaires de plus de la moitié des droits indivis peuvent effectuer les actes prévus aux 1° à 4° de l'article 815-3 du code civil.\n\nToutefois, le consentement du ou des indivisaires titulaires d'au moins deux tiers des droits indivis est requis pour effectuer tout acte qui ne ressortit pas à l'exploitation normale des biens indivis et pour effectuer tout acte de disposition autre que ceux mentionnés au 3° du même article 815-3.\n\nLe ou les indivisaires sont tenus d'en informer les autres indivisaires."
+      "content": "I. - Pour les indivisions constatées par un acte notarié de notoriété établi dans les conditions prévues à l'article 1er de la présente loi à défaut de titre de propriété existant, le ou les indivisaires titulaires de plus de la moitié des droits indivis peuvent effectuer les actes prévus aux 1° à 4° de l'article 815-3 du code civil.\n\nToutefois, le consentement du ou des indivisaires titulaires d'au moins deux tiers des droits indivis est requis pour effectuer tout acte qui ne ressortit pas à l'exploitation normale des biens indivis et pour effectuer tout acte de disposition autre que ceux mentionnés au 3° du même article 815-3.\n\nLe ou les indivisaires sont tenus d'en informer les autres indivisaires.\n\nII. - Pour l'application du deuxième alinéa du I du présent article, le ou les indivisaires titulaires d'au moins deux tiers des droits indivis expriment devant un notaire, à cette majorité, leur intention de procéder à l'aliénation ou au partage du bien indivis.\n\nDans un délai d'un mois à compter du recueil de cette intention, le notaire fait signifier le projet d'aliénation ou de partage aux autres indivisaires et procède à sa publication dans un journal d'annonces légales au lieu de situation du bien ainsi que par voie d'affichage et sur un site internet.\n\nSi l'un ou plusieurs des indivisaires s'opposent à l'aliénation ou au partage du bien indivis dans un délai de trois mois à compter de la signification du projet, le notaire le constate par procès-verbal.\n\nEn cas d'opposition d'un ou de plusieurs indivisaires, le tribunal judiciaire peut autoriser l'aliénation ou le partage du bien indivis si ceux-ci ne portent pas une atteinte excessive aux droits des autres indivisaires.\n\nL'aliénation ou le partage effectués dans les conditions définies au présent article sont opposables à l'indivisaire dont le consentement a fait défaut, sauf si l'intention d'aliéner ou de partager le bien du ou des indivisaires titulaires d'au moins deux tiers des droits indivis ne lui avait pas été signifiée selon les modalités définies au deuxième alinéa du présent II.",
+      "valid_from": "2026-04-09"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "L'article 24 de la loi du 31 mars 1884 concernant le renouvellement du cadastre, la péréquation de l'impôt foncier et la conservation du cadastre des départements de la Moselle, du Bas-Rhin et du Haut-Rhin est ainsi modifié :\n\n1° Le troisième alinéa est ainsi rédigé :\n\n\" Les deux premiers alinéas ne font pas obstacle à l'application du titre XXI du livre III du code civil. \" ;\n\n2° Le dernier alinéa est supprimé."
+      "content": "L'article 24 de la loi du 31 mars 1884 concernant le renouvellement du cadastre, la péréquation de l'impôt foncier et la conservation du cadastre des départements de la Moselle, du Bas-Rhin et du Haut-Rhin est ainsi modifié :\n\n1° Le troisième alinéa est ainsi rédigé :\n\n\" Les deux premiers alinéas ne font pas obstacle à l'application du titre XXI du livre III du code civil. \" ;\n\n2° Le dernier alinéa est supprimé.",
+      "valid_from": "2017-03-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

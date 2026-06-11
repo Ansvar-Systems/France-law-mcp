@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le détenteur d'un appareil récepteur /A/DECR. 201 1980-03-10 :de radiophonie ou// de télévision doit en faire la déclaration et acquitter une redevance pour droit d'usage, fixée conformément aux dispositions de l'article 10 de la présente ordonnance."
+      "content": "Le détenteur d'un appareil récepteur /A/DECR. 201 1980-03-10 :de radiophonie ou// de télévision doit en faire la déclaration et acquitter une redevance pour droit d'usage, fixée conformément aux dispositions de l'article 10 de la présente ordonnance.",
+      "valid_from": "1959-02-11"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Le taux des redevances pour droit d'usage sur les appareils récepteurs /A/DECR. 201 1980-03-10 : de radiophonie et// de télévision est fixé par décret pris en Conseil d'Etat. Nonobstant le caractère de taxes parafiscales de ces redevances, leur produit en principal est soumis à la taxe sur la valeur ajoutée au taux intermédiaire."
+      "content": "Le taux des redevances pour droit d'usage sur les appareils récepteurs /A/DECR. 201 1980-03-10 : de radiophonie et// de télévision est fixé par décret pris en Conseil d'Etat. Nonobstant le caractère de taxes parafiscales de ces redevances, leur produit en principal est soumis à la taxe sur la valeur ajoutée au taux intermédiaire.",
+      "valid_from": "1959-02-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }
