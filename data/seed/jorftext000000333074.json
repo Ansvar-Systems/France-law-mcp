@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les contributions et cotisations éxigées en application des articles L. 41 à L. 45 du code des pensions de retraite des marins et des articles 6 et 7 du décret-loi du 17 juin 1938 modifié, relatif à la réorganisation et à l'unification du régime d'assurance des marins, au titre des marins embarqués sur un navire immatriculé et armé dans un département d'outre-mer ou dans le territoire d'outre-mer de la Polynésie française peuvent faire l'objet d'une réduction si ce navire est affecté à une des navigations déterminées par voie réglementaire.\n\nLa réduction est de droit pour le marin qui en fait la demande lors de son embarquement sur un des navires mentionnés à l'alinéa précédent ; elle est maintenue pendant toute la période durant laquelle ce marin figure à l'état des services de ce navire."
+      "content": "Les contributions et cotisations éxigées en application des articles L. 41 à L. 45 du code des pensions de retraite des marins et des articles 6 et 7 du décret-loi du 17 juin 1938 modifié, relatif à la réorganisation et à l'unification du régime d'assurance des marins, au titre des marins embarqués sur un navire immatriculé et armé dans un département d'outre-mer ou dans le territoire d'outre-mer de la Polynésie française peuvent faire l'objet d'une réduction si ce navire est affecté à une des navigations déterminées par voie réglementaire.\n\nLa réduction est de droit pour le marin qui en fait la demande lors de son embarquement sur un des navires mentionnés à l'alinéa précédent ; elle est maintenue pendant toute la période durant laquelle ce marin figure à l'état des services de ce navire.",
+      "valid_from": "2016-12-20"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Lorsque, à la date d'entrée en vigueur de la présente loi, le bénéficiaire des dispositions de l'article 1er ne réunit pas, au titre des navigations mentionnées audit article et du service national, une durée de services au moins égale à un minimum fixé par voie réglementaire, la réduction des cotisations et contributions entraîne dans les mêmes proportions une réduction :l° Des pensions et allocations prévues par le code des pensions de retraite des marins ;2° Des prestations en espèces prévues au chapitre II du titre III du décret-loi du 17 juin 1938 modifié ;3° De la pension prévue à l'article 48 du décret-loi du 17 juin 1938 modifié, sauf si elle est accordée en raison d'une maladie qui, par sa nature et compte tenu de la navigation pratiquée, a son origine dans un risque professionnel maritime."
+      "content": "Lorsque, à la date d'entrée en vigueur de la présente loi, le bénéficiaire des dispositions de l'article 1er ne réunit pas, au titre des navigations mentionnées audit article et du service national, une durée de services au moins égale à un minimum fixé par voie réglementaire, la réduction des cotisations et contributions entraîne dans les mêmes proportions une réduction :l° Des pensions et allocations prévues par le code des pensions de retraite des marins ;2° Des prestations en espèces prévues au chapitre II du titre III du décret-loi du 17 juin 1938 modifié ;3° De la pension prévue à l'article 48 du décret-loi du 17 juin 1938 modifié, sauf si elle est accordée en raison d'une maladie qui, par sa nature et compte tenu de la navigation pratiquée, a son origine dans un risque professionnel maritime.",
+      "valid_from": "1977-04-28"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente loi est applicable au département de Saint-Pierre-et-Miquelon."
+      "content": "La présente loi est applicable au département de Saint-Pierre-et-Miquelon.",
+      "valid_from": "1977-04-28"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les mesures d'application de la présente loi sont fixées par décret en Conseil d'Etat."
+      "content": "Les mesures d'application de la présente loi sont fixées par décret en Conseil d'Etat.",
+      "valid_from": "1977-04-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

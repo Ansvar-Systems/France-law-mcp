@@ -12,19 +12,28 @@
       "provision_ref": "art40",
       "section": "40",
       "title": "Article 40",
-      "content": "La présente ordonnance est applicable à Mayotte à compter de son entrée en vigueur, à l'exception des articles 11, 23 à 27, 29, 30, 32, 35 et 39, dans les conditions prévues par le présent article :"
+      "content": "La présente ordonnance est applicable à Mayotte à compter de son entrée en vigueur, à l'exception des articles 11, 23 à 27, 29, 30, 32, 35 et 39, dans les conditions prévues par le présent article :",
+      "valid_from": "2007-10-01"
     },
     {
       "provision_ref": "art41",
       "section": "41",
       "title": "Article 41",
-      "content": "La présente ordonnance entrera en vigueur à des dates fixées par décret en Conseil d'Etat et au plus tard le 1er octobre 2007."
+      "content": "La présente ordonnance entrera en vigueur à des dates fixées par décret en Conseil d'Etat et au plus tard le 1er octobre 2007.",
+      "valid_from": "2007-02-21"
     },
     {
       "provision_ref": "art42",
       "section": "42",
       "title": "Article 42",
-      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, la ministre de la défense, le ministre de l'emploi, de la cohésion sociale et du logement, le ministre de l'économie, des finances et de l'industrie, le garde des sceaux, ministre de la justice, le ministre des transports, de l'équipement, du tourisme et de la mer, le ministre de l'agriculture et de la pêche, le ministre de la culture et de la communication, la ministre de l'écologie et du développement durable et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, la ministre de la défense, le ministre de l'emploi, de la cohésion sociale et du logement, le ministre de l'économie, des finances et de l'industrie, le garde des sceaux, ministre de la justice, le ministre des transports, de l'équipement, du tourisme et de la mer, le ministre de l'agriculture et de la pêche, le ministre de la culture et de la communication, la ministre de l'écologie et du développement durable et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2007-10-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

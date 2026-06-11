@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "Les communes peuvent, quel que soit le chiffre de leur population, soit acquérir, par voie d'expropriation, les terrains et installations nécessaires pour l'éducation physique et les sports, soit en conserver ou en obtenir l'usage par voie d'accord amiable ou, à défaut, par voie de réquisition."
+      "content": "Les communes peuvent, quel que soit le chiffre de leur population, soit acquérir, par voie d'expropriation, les terrains et installations nécessaires pour l'éducation physique et les sports, soit en conserver ou en obtenir l'usage par voie d'accord amiable ou, à défaut, par voie de réquisition.",
+      "valid_from": "1946-10-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

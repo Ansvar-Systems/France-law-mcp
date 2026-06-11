@@ -12,13 +12,21 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. (Paragraphe modificateur)II. - Les modalités d'application du présent article aux zones d'aménagement concerté créées dont le plan d'aménagement de zone est en cours d'élaboration seront fixées par décret en Conseil d'Etat."
+      "content": "I. (Paragraphe modificateur)II. - Les modalités d'application du présent article aux zones d'aménagement concerté créées dont le plan d'aménagement de zone est en cours d'élaboration seront fixées par décret en Conseil d'Etat.",
+      "valid_from": "1993-01-09"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Les biens immobiliers acquis par le fonds national d'aménagement foncier et d'urbanisme peuvent être cédés gratuitement au conservatoire de l'espace littoral et des rivages lacustres en vue de leur incorporation au domaine propre de cet établissement ou incorporés gratuitement dans le domaine forestier privé de l'Etat. La présente disposition prend effet au 1er janvier 1993."
+      "content": "Les biens immobiliers acquis par le fonds national d'aménagement foncier et d'urbanisme peuvent être cédés gratuitement au conservatoire de l'espace littoral et des rivages lacustres en vue de leur incorporation au domaine propre de cet établissement ou incorporés gratuitement dans le domaine forestier privé de l'Etat. La présente disposition prend effet au 1er janvier 1993.",
+      "valid_from": "1993-01-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

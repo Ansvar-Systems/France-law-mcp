@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - La formation initiale et continue des médecins, des pharmaciens, des infirmiers, des aides-soignants, des aides à domicile et des psychologues cliniciens comporte un enseignement sur les soins palliatifs.\n\n- Code de la santé publique"
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Les professionnels de santé, les professionnels du secteur médico-social et les professionnels travaillant dans le champ de la santé mentale mentionnés à l'article L. 3221-2 du code de la santé publique reçoivent, au cours de leur formation initiale et de leur formation continue, un enseignement spécifique sur l'accompagnement et les soins palliatifs.\n\nUn décret précise les modalités d'application du présent II.\n\n- Code de la santé publique",
+      "valid_from": "2026-05-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

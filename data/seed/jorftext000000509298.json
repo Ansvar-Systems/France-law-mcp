@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Par dérogation aux dispositions des deux premiers alinéas de l'article L. 192 du code électoral, le mandat des conseillers généraux soumis à renouvellement en mars 1988 est prorogé jusqu'en octobre 1988.\n\nLe mandat des conseillers généraux de la série renouvelée en 1988 expirera en mars 1994."
+      "content": "Par dérogation aux dispositions des deux premiers alinéas de l'article L. 192 du code électoral, le mandat des conseillers généraux soumis à renouvellement en mars 1988 est prorogé jusqu'en octobre 1988.\n\nLe mandat des conseillers généraux de la série renouvelée en 1988 expirera en mars 1994.",
+      "valid_from": "1988-01-09"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 87-233 DC du 5 janvier 1988.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 87-233 DC du 5 janvier 1988.]",
+      "valid_from": "1988-01-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

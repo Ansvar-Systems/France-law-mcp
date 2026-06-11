@@ -12,31 +12,42 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La réalisation de logements sociaux est d'intérêt national.Les communes ou leurs groupements doivent, par leur intervention en matière d'action foncière, permettre la réalisation de logements sociaux.Les collectivités publiques doivent veiller à ce que les restaurations nécessaires des quartiers anciens des villes ne méconnaissent pas les objectifs mentionnés à l'article 1er.Elles apportent un soin particulier, avec le concours des organismes gestionnaires des logements et de l'Etat, à la réhabilitation et à la valorisation des quartiers récents dégradés, ainsi qu'à la création ou au développement des relations entre ces quartiers et le reste de la ville."
+      "content": "La réalisation de logements sociaux est d'intérêt national.Les communes ou leurs groupements doivent, par leur intervention en matière d'action foncière, permettre la réalisation de logements sociaux.Les collectivités publiques doivent veiller à ce que les restaurations nécessaires des quartiers anciens des villes ne méconnaissent pas les objectifs mentionnés à l'article 1er.Elles apportent un soin particulier, avec le concours des organismes gestionnaires des logements et de l'Etat, à la réhabilitation et à la valorisation des quartiers récents dégradés, ainsi qu'à la création ou au développement des relations entre ces quartiers et le reste de la ville.",
+      "valid_from": "1991-07-19"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "L'article L. 312-5-1 du code de la construction et de l'habitation est abrogé."
+      "content": "L'article L. 312-5-1 du code de la construction et de l'habitation est abrogé.",
+      "valid_from": "1991-07-19"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les programmes locaux de l'habitat, élaborés avant l'entrée en vigueur de la loi n° 91-662 du 13 juillet 1991 d'orientation pour la ville, peuvent être transformés en programmes locaux de l'habitat dans des conditions fixées par décret en Conseil d'Etat.L'établissement public de coopération intercommunale ou la commune procède aux adaptations nécessaires du programme en cours."
+      "content": "Les programmes locaux de l'habitat, élaborés avant l'entrée en vigueur de la loi n° 91-662 du 13 juillet 1991 d'orientation pour la ville, peuvent être transformés en programmes locaux de l'habitat dans des conditions fixées par décret en Conseil d'Etat.L'établissement public de coopération intercommunale ou la commune procède aux adaptations nécessaires du programme en cours.",
+      "valid_from": "1991-07-19"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "I. - Modifie l'article 1042 du code général des impôts.II. - Pour l'application du présent article, les dispositions de l'article 2 de la loi n° 86-29 du 9 janvier 1986 portant dispositions diverses relatives aux collectivités locales ne sont pas applicables."
+      "content": "I. - Modifie l'article 1042 du code général des impôts.II. - Pour l'application du présent article, les dispositions de l'article 2 de la loi n° 86-29 du 9 janvier 1986 portant dispositions diverses relatives aux collectivités locales ne sont pas applicables.",
+      "valid_from": "1991-07-19"
     },
     {
       "provision_ref": "art47",
       "section": "47",
       "title": "Article 47",
-      "content": "Avant l'expiration d'un délai de quatre ans à compter de sa publication, la présente loi fera l'objet d'un rapport d'évaluation par le Gouvernement au Parlement, après avis du Conseil économique et social.Le rapport d'évaluation fera ressortir le bilan économique et social des mesures décidées dans le cadre de la loi, les difficultés rencontrées pour la mise en oeuvre et les adaptations souhaitables."
+      "content": "Avant l'expiration d'un délai de quatre ans à compter de sa publication, la présente loi fera l'objet d'un rapport d'évaluation par le Gouvernement au Parlement, après avis du Conseil économique et social.Le rapport d'évaluation fera ressortir le bilan économique et social des mesures décidées dans le cadre de la loi, les difficultés rencontrées pour la mise en oeuvre et les adaptations souhaitables.",
+      "valid_from": "1991-07-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

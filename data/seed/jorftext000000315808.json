@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Il est ouvert au président du conseil, au titre de l'exercice 1953, des crédits s'élevant à la somme globale 10 920 890 000 F.Ces crédits s'appliquent :A concurrence de 8 865 648 000 F, au titre III : \"Moyens des services\", conformément à la répartition, par service et par chapitre, qui en est donné à l'Etat A annexé à la présente loi (Annexé non reproduite) ;Et, à concurrence de 2 064 242 000 F, au titre IV :\"Interventions publiques\", conformément à la répartition, par service et par chapitre, qui en est donnée à l'Etat B annexé à la présente loi (annexe non reproduite)."
+      "content": "Il est ouvert au président du conseil, au titre de l'exercice 1953, des crédits s'élevant à la somme globale 10 920 890 000 F.Ces crédits s'appliquent :A concurrence de 8 865 648 000 F, au titre III : \"Moyens des services\", conformément à la répartition, par service et par chapitre, qui en est donné à l'Etat A annexé à la présente loi (Annexé non reproduite) ;Et, à concurrence de 2 064 242 000 F, au titre IV :\"Interventions publiques\", conformément à la répartition, par service et par chapitre, qui en est donnée à l'Etat B annexé à la présente loi (annexe non reproduite).",
+      "valid_from": "1953-02-04"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Il est créé, pour les besoins permanents du service de documentation extérieure et de contre-espionnage, des cadres de fonctionnaires titulaires, qui ne sont pas soumis aux dispositions de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires et de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat.\n\nUn décret en Conseil d'Etat, pris en application de la présente loi, déterminera le statut de son personnel."
+      "content": "Il est créé, pour les besoins permanents du service de documentation extérieure et de contre-espionnage, des cadres de fonctionnaires titulaires, qui ne sont pas soumis aux dispositions de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires et de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat.\n\nUn décret en Conseil d'Etat, pris en application de la présente loi, déterminera le statut de son personnel.",
+      "valid_from": "2012-03-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

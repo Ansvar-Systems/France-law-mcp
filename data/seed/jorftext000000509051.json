@@ -12,25 +12,35 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "La redevance annuelle sur les stockages souterrains d'hydrocarbures liquides et liquéfiés ou de gaz instituée par cet article est supprimée à compter du 1er janvier 1976, (L. n° 75-678, 29 juillet 1975, art. 17-III : J.O. 31 juillet 1975)."
+      "content": "La redevance annuelle sur les stockages souterrains d'hydrocarbures liquides et liquéfiés ou de gaz instituée par cet article est supprimée à compter du 1er janvier 1976, (L. n° 75-678, 29 juillet 1975, art. 17-III : J.O. 31 juillet 1975).",
+      "valid_from": "1972-12-27"
     },
     {
       "provision_ref": "art15-I",
       "section": "15-I",
       "title": "Article 15-I",
-      "content": "I. Paragraphe modificateurII. Les attributions conférées aux trésoriers-payeurs généraux par les articles 4 et 5 de la loi n° 54-1306 du 31 décembre 1954 sont exercées par les receveurs particuliers des finances dans leur arrondissement financier, en ce qui concerne les comptes qu'ils sont autorisés à arrêter en vertu du paragraphe I ci-dessus."
+      "content": "I. Paragraphe modificateurII. Les attributions conférées aux trésoriers-payeurs généraux par les articles 4 et 5 de la loi n° 54-1306 du 31 décembre 1954 sont exercées par les receveurs particuliers des finances dans leur arrondissement financier, en ce qui concerne les comptes qu'ils sont autorisés à arrêter en vertu du paragraphe I ci-dessus.",
+      "valid_from": "1972-12-27"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Les modalités selon lesquelles les agents des corps techniques de l'Etat pourront se garantir contre les conséquences de ces actions en responsabilité seront fixées par décret."
+      "content": "Les modalités selon lesquelles les agents des corps techniques de l'Etat pourront se garantir contre les conséquences de ces actions en responsabilité seront fixées par décret.",
+      "valid_from": "1996-02-24"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "I - Il est mis fin, à compter du 31 décembre 1972, aux opérations d'assurance ou de réassurance pratiquées par l'Etat dans le cadre du compte spécial de commerce \"Réassurances et assurances contre des risques exceptionnels\".II et III Paragraphes modificateursIV - Le compte spécial de commerce \"Réassurances et assurances contre les risques exceptionnels\" est définitivement clos à la date du 31 décembre 1972.Le solde de ce compte, ainsi que tous les autres éléments de la situation active et passive du régime dont il retrace les opérations, y compris les contrats et traités en cours, seront transférés, à la caisse centrale de réassurance.V Paragraphe modificateurVI - Sont abrogées, à compter du 1er janvier 1973, les dispositions des paragraphes I, II et III de l'article 13 de la loi n° 63-1293 du 21 décembre 1963 portant loi de finances rectificative pour 1963."
+      "content": "I - Il est mis fin, à compter du 31 décembre 1972, aux opérations d'assurance ou de réassurance pratiquées par l'Etat dans le cadre du compte spécial de commerce \"Réassurances et assurances contre des risques exceptionnels\".II et III Paragraphes modificateursIV - Le compte spécial de commerce \"Réassurances et assurances contre les risques exceptionnels\" est définitivement clos à la date du 31 décembre 1972.Le solde de ce compte, ainsi que tous les autres éléments de la situation active et passive du régime dont il retrace les opérations, y compris les contrats et traités en cours, seront transférés, à la caisse centrale de réassurance.V Paragraphe modificateurVI - Sont abrogées, à compter du 1er janvier 1973, les dispositions des paragraphes I, II et III de l'article 13 de la loi n° 63-1293 du 21 décembre 1963 portant loi de finances rectificative pour 1963.",
+      "valid_from": "1972-12-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les élus locaux peuvent utiliser les droits individuels à la formation comptabilisés en heures qu'ils détiennent à la date de publication de la présente ordonnance sous cette forme dans la limite d'un délai de six mois à compter de l'entrée en vigueur du présent article.\n\nAu terme de ce délai, les droits individuels à la formation comptabilisés en heures détenus par les élus locaux à cette date sont convertis en francs CFP, selon des modalités fixées par décret en Conseil d'Etat. Ces droits convertis n'entrent pas en compte dans le calcul du montant annuel des droits individuels à la formation des élus mentionnés au premier alinéa de l'article L. 121-37-1 du code des communes de la Nouvelle-Calédonie, dans sa rédaction résultant de la présente ordonnance, et font l'objet d'un versement qui augmente le montant des droits précités."
+      "content": "Les élus locaux peuvent utiliser les droits individuels à la formation comptabilisés en heures qu'ils détiennent à la date de publication de la présente ordonnance sous cette forme dans la limite d'un délai de six mois à compter de l'entrée en vigueur du présent article.\n\nAu terme de ce délai, les droits individuels à la formation comptabilisés en heures détenus par les élus locaux à cette date sont convertis en francs CFP, selon des modalités fixées par décret en Conseil d'Etat. Ces droits convertis n'entrent pas en compte dans le calcul du montant annuel des droits individuels à la formation des élus mentionnés au premier alinéa de l'article L. 121-37-1 du code des communes de la Nouvelle-Calédonie, dans sa rédaction résultant de la présente ordonnance, et font l'objet d'un versement qui augmente le montant des droits précités.",
+      "valid_from": "2021-06-19"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les articles 2, 4 et 5 entrent en vigueur le lendemain de la publication de la présente ordonnance.Les autres dispositions entrent en vigueur à compter du 1er janvier 2022."
+      "content": "Les articles 2, 4 et 5 entrent en vigueur le lendemain de la publication de la présente ordonnance.Les autres dispositions entrent en vigueur à compter du 1er janvier 2022.",
+      "valid_from": "2021-01-29"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Premier ministre, le ministre des outre-mer, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales et la ministre de la transformation et de la fonction publiques sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des outre-mer, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales et la ministre de la transformation et de la fonction publiques sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-01-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

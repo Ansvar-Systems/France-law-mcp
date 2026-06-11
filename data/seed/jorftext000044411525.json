@@ -12,55 +12,70 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions annexées à la présente ordonnance constituent la partie législative du code général de la fonction publique."
+      "content": "Les dispositions annexées à la présente ordonnance constituent la partie législative du code général de la fonction publique.",
+      "valid_from": "2022-03-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions de la partie législative du code général de la fonction publique qui mentionnent, sans les reproduire, des dispositions soit d'autres codes, soit de textes législatifs sont de plein droit modifiées par l'effet des modifications ultérieures de ces dispositions."
+      "content": "Les dispositions de la partie législative du code général de la fonction publique qui mentionnent, sans les reproduire, des dispositions soit d'autres codes, soit de textes législatifs sont de plein droit modifiées par l'effet des modifications ultérieures de ces dispositions.",
+      "valid_from": "2022-03-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les références à des dispositions abrogées ou supprimées par la présente ordonnance sont remplacées par les références aux dispositions correspondantes du code général de la fonction publique dans sa rédaction annexée à la présente ordonnance."
+      "content": "Les références à des dispositions abrogées ou supprimées par la présente ordonnance sont remplacées par les références aux dispositions correspondantes du code général de la fonction publique dans sa rédaction annexée à la présente ordonnance.",
+      "valid_from": "2022-03-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. - Les fonctionnaires de l'Etat affectés par voie de détachement dans les communes, les départements et les régions peuvent être considérés, pour les services accomplis depuis le 26 septembre 1986, comme accomplissant leur obligation de mobilité prévue par le statut qui les régit.II. - Pour l'application du code général de la fonction publique à Mayotte, les cadres d'emplois classés hors catégorie au sens de l'article 64-1 de la loi du 11 juillet 2001 susvisée sont assimilés à des cadres d'emplois classés en catégorie C.III. - Les services accomplis, y compris avant le 28 janvier 1984, par les sapeurs-pompiers professionnels mis à disposition auprès de l'Etat ou de ses établissements publics dans le cadre de leurs missions de défense et de sécurité civile sont réputés avoir le caractère de services effectifs réalisés dans leur cadre d'emplois."
+      "content": "I. - Les fonctionnaires de l'Etat affectés par voie de détachement dans les communes, les départements et les régions peuvent être considérés, pour les services accomplis depuis le 26 septembre 1986, comme accomplissant leur obligation de mobilité prévue par le statut qui les régit.II. - Pour l'application du code général de la fonction publique à Mayotte, les cadres d'emplois classés hors catégorie au sens de l'article 64-1 de la loi du 11 juillet 2001 susvisée sont assimilés à des cadres d'emplois classés en catégorie C.III. - Les services accomplis, y compris avant le 28 janvier 1984, par les sapeurs-pompiers professionnels mis à disposition auprès de l'Etat ou de ses établissements publics dans le cadre de leurs missions de défense et de sécurité civile sont réputés avoir le caractère de services effectifs réalisés dans leur cadre d'emplois.",
+      "valid_from": "2022-03-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "I.-La limite d'âge mentionnée à l'article L. 556-1 du code général de la fonction publique évolue dans les conditions fixées par le décret prévu au II de l'article 28 de la loi du 9 novembre 2010 susvisée.II.-Jusqu'à l'entrée en vigueur des dispositions réglementaires prises pour l'application de l'article 1er de l'ordonnance du 25 novembre 2020 susvisée et au plus tard jusqu'au 28 novembre 2022, par dérogation au 5° de l'article L. 321-1, au 4° de l'article L. 321-3 et à l'article L. 352-1 du code général de la fonction publique, sont maintenues en vigueur les conditions d'aptitude physique particulières existantes à la date de publication de cette ordonnance.III.-Jusqu'au 1er janvier 2023 :1° A modifié les dispositions suivantes :\n\n2° Les nominations dans les corps de l'inspection générale des finances, de l'inspection générale de l'administration et de l'inspection générale des affaires sociales ne sont pas soumises à la procédure prévue à l'article L. 326-7 du même code.IV.-L'abrogation du troisième alinéa de l'article 7-1 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale prend effet le 1er janvier 2023.V.-Les agents publics en fonction au sein des offices publics de l'habitat à la date d'entrée en vigueur de la présente ordonnance demeurent régis par les IV à VI de l'article 120 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.\n\n-Code général de la fonction publique"
+      "content": "I.-La limite d'âge mentionnée à l'article L. 556-1 du code général de la fonction publique évolue dans les conditions fixées par le décret prévu au II de l'article 28 de la loi du 9 novembre 2010 susvisée.II.-Jusqu'à l'entrée en vigueur des dispositions réglementaires prises pour l'application de l'article 1er de l'ordonnance du 25 novembre 2020 susvisée et au plus tard jusqu'au 28 novembre 2022, par dérogation au 5° de l'article L. 321-1, au 4° de l'article L. 321-3 et à l'article L. 352-1 du code général de la fonction publique, sont maintenues en vigueur les conditions d'aptitude physique particulières existantes à la date de publication de cette ordonnance.III.-Jusqu'au 1er janvier 2023 :1° A modifié les dispositions suivantes :\n\n2° Les nominations dans les corps de l'inspection générale des finances, de l'inspection générale de l'administration et de l'inspection générale des affaires sociales ne sont pas soumises à la procédure prévue à l'article L. 326-7 du même code.IV.-L'abrogation du troisième alinéa de l'article 7-1 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale prend effet le 1er janvier 2023.V.-Les agents publics en fonction au sein des offices publics de l'habitat à la date d'entrée en vigueur de la présente ordonnance demeurent régis par les IV à VI de l'article 120 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.\n\n-Code général de la fonction publique",
+      "valid_from": "2022-03-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I.-A abrogé les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nII.-Les articles L. 243-1 à L. 243-3, L. 244-1 à L. 244-7, L. 245-1 à L. 245-3, le titre V du livre II et les articles L. 261-1 et L. 262-3 du code général de la fonction publique entrent en vigueur en vue du prochain renouvellement général des instances dans la fonction publique.\n\nIII.-Dans les autres dispositions du code général de la fonction publique et dans les autres dispositions législatives en vigueur, jusqu'au prochain renouvellement général des instances dans la fonction publique :1° Les références aux comités sociaux d'administration, aux comités sociaux territoriaux et aux comités sociaux d'établissement sont remplacées par des références aux comités techniques ;2° Les références aux formations spécialisées en matière d'hygiène, de sécurité et de conditions de travail ou à la formation spécialisée sont remplacées par des références aux comités d'hygiène, de sécurité et des conditions de travail.\n\n-Code de l'action sociale et des familles\n\n-Code de la santé publique\n\n-LOI n° 84-16 du 11 janvier 1984\n\n-LOI n° 84-53 du 26 janvier 1984\n\n-LOI n° 86-33 du 9 janvier 1986"
+      "content": "I.-A abrogé les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nII.-Les articles L. 243-1 à L. 243-3, L. 244-1 à L. 244-7, L. 245-1 à L. 245-3, le titre V du livre II et les articles L. 261-1 et L. 262-3 du code général de la fonction publique entrent en vigueur en vue du prochain renouvellement général des instances dans la fonction publique.\n\nIII.-Dans les autres dispositions du code général de la fonction publique et dans les autres dispositions législatives en vigueur, jusqu'au prochain renouvellement général des instances dans la fonction publique :1° Les références aux comités sociaux d'administration, aux comités sociaux territoriaux et aux comités sociaux d'établissement sont remplacées par des références aux comités techniques ;2° Les références aux formations spécialisées en matière d'hygiène, de sécurité et de conditions de travail ou à la formation spécialisée sont remplacées par des références aux comités d'hygiène, de sécurité et des conditions de travail.\n\n-Code de l'action sociale et des familles\n\n-Code de la santé publique\n\n-LOI n° 84-16 du 11 janvier 1984\n\n-LOI n° 84-53 du 26 janvier 1984\n\n-LOI n° 86-33 du 9 janvier 1986",
+      "valid_from": "2022-03-01"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les dispositions de l'article 3 de la présente ordonnance, en ce qu'elles prévoient l'abrogation des dispositions du troisième alinéa de l'article 20 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, sont applicables en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises à l'égard des agents mentionnées à l'article L. 8 du code général de la fonction publique."
+      "content": "Les dispositions de l'article 3 de la présente ordonnance, en ce qu'elles prévoient l'abrogation des dispositions du troisième alinéa de l'article 20 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, sont applicables en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises à l'égard des agents mentionnées à l'article L. 8 du code général de la fonction publique.",
+      "valid_from": "2022-03-01"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Sous réserve des dispositions des articles 6, 7 et 8, les dispositions de la présente ordonnance entrent en vigueur le 1er mars 2022."
+      "content": "Sous réserve des dispositions des articles 6, 7 et 8, les dispositions de la présente ordonnance entrent en vigueur le 1er mars 2022.",
+      "valid_from": "2022-03-01"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Le Premier ministre, le ministre des outre-mer, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, le ministre des solidarités et de la santé et la ministre de la transformation et de la fonction publiques sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des outre-mer, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, le ministre des solidarités et de la santé et la ministre de la transformation et de la fonction publiques sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2022-03-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

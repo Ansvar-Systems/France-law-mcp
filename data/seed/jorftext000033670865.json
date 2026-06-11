@@ -12,13 +12,21 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "A Wallis-et-Futuna :1° La première déclaration annuelle mentionnée à l'article L. 3512-18 du code de la santé publique porte sur les données à partir du 1er janvier 2015 ;2° Excepté les cigares, les produits non conformes aux dispositions de la présente ordonnance peuvent être commercialisés jusqu'au 1er janvier 2017. Pour les cigares, les produits non conformes aux dispositions du code de la santé publique rendues applicables par la présente ordonnance peuvent être commercialisés jusqu'au 20 mai 2017 ;3° Les articles L. 3512-23 à L. 3512-25 du code de la santé publique sont applicables à partir du 20 mai 2019 pour les cigarettes et le tabac à rouler, et à partir du 20 mai 2024 pour les autres produits du tabac."
+      "content": "A Wallis-et-Futuna :1° La première déclaration annuelle mentionnée à l'article L. 3512-18 du code de la santé publique porte sur les données à partir du 1er janvier 2015 ;2° Excepté les cigares, les produits non conformes aux dispositions de la présente ordonnance peuvent être commercialisés jusqu'au 1er janvier 2017. Pour les cigares, les produits non conformes aux dispositions du code de la santé publique rendues applicables par la présente ordonnance peuvent être commercialisés jusqu'au 20 mai 2017 ;3° Les articles L. 3512-23 à L. 3512-25 du code de la santé publique sont applicables à partir du 20 mai 2019 pour les cigarettes et le tabac à rouler, et à partir du 20 mai 2024 pour les autres produits du tabac.",
+      "valid_from": "2016-12-24"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Le Premier ministre, le ministre de l'économie et des finances, la ministre des affaires sociales et de la santé et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie et des finances, la ministre des affaires sociales et de la santé et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-12-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

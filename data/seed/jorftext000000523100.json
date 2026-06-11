@@ -1,0 +1,34 @@
+{
+  "id": "jorftext000000523100",
+  "type": "statute",
+  "title": "Loi n° 42-427 du 1 avril 1942",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000523100",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Doivent être munis d'une carte de circulation tous bateaux de plaisance n'ayant à bord aucun personnel professionnel maritime salarié.La forme, les conditions d'établissement, de délivrance et de renouvellement des cartes de circulation sont fixées par arrêté ministériel.",
+      "valid_from": "1942-04-04",
+      "valid_to": "2222-02-22"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Les sociétés de navigation de plaisance ou de sport nautique reçoivent une carte de circulation collective pour les bateaux ou engins de sport nautique qu'elles possèdent et qui sont utilisés exclusivement par les membres de la société.Le même titre est délivré aux entreprises qui louent des engins de sport nautique.",
+      "valid_from": "1942-04-04",
+      "valid_to": "2222-02-22"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

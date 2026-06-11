@@ -12,19 +12,28 @@
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Dans des conditions définies par décret en Conseil d'Etat, tout candidat à un contrat ou marché passé par une personne morale de droit public, ainsi que tout sous-traitant d'un titulaire de contrat ou de marché doit attester qu'il n'a pas fait l'objet, au cours des cinq dernières années, d'une condamnation inscrite au bulletin n° 2 du casier judiciaire pour les infractions visées aux articles L. 324-9, L. 324-10, L. 341-6, L. 125-1 et L. 125-3 du code du travail. Ces dispositions s'appliquent à toute personne morale soumise pour la passation de ses contrats et marchés à des règles de publicité et de mise en concurrence."
+      "content": "Dans des conditions définies par décret en Conseil d'Etat, tout candidat à un contrat ou marché passé par une personne morale de droit public, ainsi que tout sous-traitant d'un titulaire de contrat ou de marché doit attester qu'il n'a pas fait l'objet, au cours des cinq dernières années, d'une condamnation inscrite au bulletin n° 2 du casier judiciaire pour les infractions visées aux articles L. 324-9, L. 324-10, L. 341-6, L. 125-1 et L. 125-3 du code du travail. Ces dispositions s'appliquent à toute personne morale soumise pour la passation de ses contrats et marchés à des règles de publicité et de mise en concurrence.",
+      "valid_from": "1997-03-12"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "Le Gouvernement dépose au Parlement, chaque année, au mois de janvier, un rapport qui retrace l'action des pouvoirs publics et des organisations professionnelles et les résultats obtenus dans la lutte contre le travail dissimulé."
+      "content": "Le Gouvernement dépose au Parlement, chaque année, au mois de janvier, un rapport qui retrace l'action des pouvoirs publics et des organisations professionnelles et les résultats obtenus dans la lutte contre le travail dissimulé.",
+      "valid_from": "1997-03-12"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "L'article 27 de la présente loi est applicable à Mayotte sous réserve des adaptations suivantes :\n\nLes références : \" L. 324-9, \nL. 324-10, \nL. 341-6, L. 125-1 et L. 125-3 du code du travail \" sont remplacées par les références :\n\n\" L. 124-1, L. 124-3, L. 312-1, L. 312-2 et L. 330-5 du code du travail applicable à Mayotte \"."
+      "content": "L'article 27 de la présente loi est applicable à Mayotte sous réserve des adaptations suivantes :\n\nLes références : \" L. 324-9, \nL. 324-10, \nL. 341-6, L. 125-1 et L. 125-3 du code du travail \" sont remplacées par les références :\n\n\" L. 124-1, L. 124-3, L. 312-1, L. 312-2 et L. 330-5 du code du travail applicable à Mayotte \".",
+      "valid_from": "2007-02-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,7 +12,14 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le traitement exigible après service fait, conformément à l'article 22 (premier alinéa) de l'ordonnance n° 59-244 du 4 février 1959 relative au statut général des fonctionnaires est liquidé selon les modalités édictées par la réglementation sur la comptabilité publique.\n\nIl n'y a pas service fait :\n\n1°) Lorsque l'agent s'abstient d'effectuer tout ou partie de ses heures de services ;\n\n2°) Lorsque l'agent, bien qu'effectuant ses heures de service, n'exécute pas tout ou partie des obligations de service qui s'attachent à sa fonction telles qu'elles sont définies dans leur nature et leurs modalités par l'autorité compétente dans le cadre des lois et règlements.\n\nLes dispositions qui précèdent sont applicables au personnel de chaque administration ou service doté d'un statut particulier ainsi qu'à tous bénéficiaires d'un traitement qui se liquide par mois."
+      "content": "Le traitement exigible après service fait, conformément à l'article 22 (premier alinéa) de l'ordonnance n° 59-244 du 4 février 1959 relative au statut général des fonctionnaires est liquidé selon les modalités édictées par la réglementation sur la comptabilité publique.\n\nIl n'y a pas service fait :\n\n1°) Lorsque l'agent s'abstient d'effectuer tout ou partie de ses heures de services ;\n\n2°) Lorsque l'agent, bien qu'effectuant ses heures de service, n'exécute pas tout ou partie des obligations de service qui s'attachent à sa fonction telles qu'elles sont définies dans leur nature et leurs modalités par l'autorité compétente dans le cadre des lois et règlements.\n\nLes dispositions qui précèdent sont applicables au personnel de chaque administration ou service doté d'un statut particulier ainsi qu'à tous bénéficiaires d'un traitement qui se liquide par mois.",
+      "valid_from": "2022-03-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

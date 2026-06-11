@@ -12,7 +12,14 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Sous réserve des décisions juridictionnelles passées en force de chose jugée, les actes concernant les membres des corps des inspecteurs d'académie-inspecteurs pédagogiques régionaux et des inspecteurs de l'éducation nationale ne peuvent être contestés par le motif que ces fonctionnaires n'auraient pas fait l'objet d'une notation au titre des années antérieures à l'année 2004."
+      "content": "Sous réserve des décisions juridictionnelles passées en force de chose jugée, les actes concernant les membres des corps des inspecteurs d'académie-inspecteurs pédagogiques régionaux et des inspecteurs de l'éducation nationale ne peuvent être contestés par le motif que ces fonctionnaires n'auraient pas fait l'objet d'une notation au titre des années antérieures à l'année 2004.",
+      "valid_from": "2003-05-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

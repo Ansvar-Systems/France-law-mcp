@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code de commerce est modifié conformément aux articles 2 à 4."
+      "content": "Le code de commerce est modifié conformément aux articles 2 à 4.",
+      "valid_from": "2021-05-28"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - Les V, VI, VII, VIII et le IX de l'article 2 sont applicables en Nouvelle-Calédonie.\n\nII. à IV. - A modifié les dispositions suivantes :\n\n- Code de commerce"
+      "content": "I. - Les V, VI, VII, VIII et le IX de l'article 2 sont applicables en Nouvelle-Calédonie.\n\nII. à IV. - A modifié les dispositions suivantes :\n\n- Code de commerce",
+      "valid_from": "2021-05-28"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les modifications résultant du 1° et des troisième et quatrième alinéas du 4° du XVIII de l'article 2 ne sont pas applicables aux pratiques anticoncurrentielles ayant pris fin avant l'entrée en vigueur de la présente ordonnance. Toutefois, dans les cas où leur application a pour effet de réduire le montant maximal de la sanction encourue par l'association d'entreprises concernée, elles s'appliquent immédiatement aux procédures de sanction en cours.Les modifications résultant du 3° du XVIII de l'article 2 ne sont applicables qu'aux procédures pour lesquelles des griefs sont notifiés, en application de l'article L. 463-2 du code de commerce, après l'entrée en vigueur de la présente ordonnance."
+      "content": "Les modifications résultant du 1° et des troisième et quatrième alinéas du 4° du XVIII de l'article 2 ne sont pas applicables aux pratiques anticoncurrentielles ayant pris fin avant l'entrée en vigueur de la présente ordonnance. Toutefois, dans les cas où leur application a pour effet de réduire le montant maximal de la sanction encourue par l'association d'entreprises concernée, elles s'appliquent immédiatement aux procédures de sanction en cours.Les modifications résultant du 3° du XVIII de l'article 2 ne sont applicables qu'aux procédures pour lesquelles des griefs sont notifiés, en application de l'article L. 463-2 du code de commerce, après l'entrée en vigueur de la présente ordonnance.",
+      "valid_from": "2021-05-28"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance, le ministre des outre-mer et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance, le ministre des outre-mer et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-05-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,49 +12,63 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La Caisse nationale de l'assurance maladie gère un fonds d'aide aux professionnels de santé conventionnés dont l'activité est particulièrement affectée par l'épidémie de covid-19. L'aide vise, afin de garantir le bon fonctionnement du système de soins, à préserver la viabilité de ces professionnels en leur permettant de couvrir leurs charges malgré la baisse de leur activité au cours de la période allant du 12 mars 2020 jusqu'à une date fixée par décret et au plus tard le 31 décembre 2020.Peuvent bénéficier, sur leur demande, de cette aide les professionnels de santé, les centres de santé et les prestataires exerçant leur activité dans le cadre des conventions prévues aux articles L. 162-5, L. 162-9, L. 162-12-2, L. 162-12-9, L. 162-14, L. 162-16-1, L. 162-32-1, L. 165-6, L. 322-5 et L. 322-5-2 du code de la sécurité sociale et dont les revenus d'activité sont financés pour une part majoritaire par l'assurance maladie.Les dispositions de la présente ordonnance ne sont pas applicables aux professions mentionnées à l'alinéa précédent ayant conclu avec l'assurance maladie un accord ayant des effets équivalents à ceux de l'aide prévue au premier alinéa."
+      "content": "La Caisse nationale de l'assurance maladie gère un fonds d'aide aux professionnels de santé conventionnés dont l'activité est particulièrement affectée par l'épidémie de covid-19. L'aide vise, afin de garantir le bon fonctionnement du système de soins, à préserver la viabilité de ces professionnels en leur permettant de couvrir leurs charges malgré la baisse de leur activité au cours de la période allant du 12 mars 2020 jusqu'à une date fixée par décret et au plus tard le 31 décembre 2020.Peuvent bénéficier, sur leur demande, de cette aide les professionnels de santé, les centres de santé et les prestataires exerçant leur activité dans le cadre des conventions prévues aux articles L. 162-5, L. 162-9, L. 162-12-2, L. 162-12-9, L. 162-14, L. 162-16-1, L. 162-32-1, L. 165-6, L. 322-5 et L. 322-5-2 du code de la sécurité sociale et dont les revenus d'activité sont financés pour une part majoritaire par l'assurance maladie.Les dispositions de la présente ordonnance ne sont pas applicables aux professions mentionnées à l'alinéa précédent ayant conclu avec l'assurance maladie un accord ayant des effets équivalents à ceux de l'aide prévue au premier alinéa.",
+      "valid_from": "2020-05-28"
     },
     {
       "provision_ref": "art1bis",
       "section": "1bis",
       "title": "Article 1bis",
-      "content": "Peuvent également bénéficier de l'aide mentionnée à l'article 1er, sur leur demande, les médecins exerçant une activité libérale en établissement de santé et ayant constaté une baisse d'activité, du fait des déprogrammations de soins non urgents, au cours d'une période allant du 15 octobre 2020 jusqu'à une date fixée par décret et au plus tard le 30 juin 2021."
+      "content": "Peuvent également bénéficier de l'aide mentionnée à l'article 1er, sur leur demande, les médecins exerçant une activité libérale en établissement de santé et ayant constaté une baisse d'activité, du fait des déprogrammations de soins non urgents, au cours d'une période allant du 15 octobre 2020 jusqu'à une date fixée par décret et au plus tard le 30 juin 2021.",
+      "valid_from": "2020-12-11"
     },
     {
       "provision_ref": "art1ter",
       "section": "1ter",
       "title": "Article 1ter",
-      "content": "I.-Peuvent également bénéficier de l'aide mentionnée à l'article 1er, sur leur demande, les professionnels de santé libéraux, installés dans l'une des communes mentionnées à l'annexe 3 au décret n° 2020-371 du 30 mars 2020 relatif au fonds de solidarité à destination des entreprises particulièrement touchées par les conséquences économiques, financières et sociales de la propagation de l'épidémie de covid-19 et des mesures prises pour limiter cette propagation, dans sa rédaction résultant du décret n° 2020-1770 du 30 décembre 2020 relatif au fonds de solidarité à destination des entreprises particulièrement touchées par les conséquences économiques, financières et sociales de la propagation de l'épidémie de covid-19 et des mesures prises pour limiter cette propagation, ayant constaté une baisse d'activité au cours d'une période allant du 1er décembre 2020 jusqu'à une date fixée par décret, et au plus tard jusqu'au 30 avril 2021.II.-Une aide versée par la Caisse nationale de l'assurance maladie destinée aux médecins libéraux affectés par la répétition des déprogrammations à partir du 1er juillet 2021 est instituée.Elle vise à garantir le maintien d'un niveau minimal d'honoraires, pour compenser la baisse des revenus d'activité au cours de la période allant du 1er juillet 2021 jusqu'à une date fixée par décret, et au plus tard jusqu'au 30 juin 2022, aux médecins signataires de la convention mentionnée à l'article L. 162-5 du code de la sécurité sociale exerçant une activité libérale dans un établissement de santé privé et répondant sur la période aux conditions cumulatives suivantes :1° Leur activité, en raison de sa nature particulière, a subi une baisse significative par rapport à une activité normale ;2° L'activité de l'établissement dans lequel ils exercent a été significativement impactée à des fins de maîtrise de l'épidémie de covid-19 ;3° La région dans laquelle est situé l'établissement a connu une tension hospitalière soutenue.Les conditions d'application du présent article sont fixées par décret."
+      "content": "I.-Peuvent également bénéficier de l'aide mentionnée à l'article 1er, sur leur demande, les professionnels de santé libéraux, installés dans l'une des communes mentionnées à l'annexe 3 au décret n° 2020-371 du 30 mars 2020 relatif au fonds de solidarité à destination des entreprises particulièrement touchées par les conséquences économiques, financières et sociales de la propagation de l'épidémie de covid-19 et des mesures prises pour limiter cette propagation, dans sa rédaction résultant du décret n° 2020-1770 du 30 décembre 2020 relatif au fonds de solidarité à destination des entreprises particulièrement touchées par les conséquences économiques, financières et sociales de la propagation de l'épidémie de covid-19 et des mesures prises pour limiter cette propagation, ayant constaté une baisse d'activité au cours d'une période allant du 1er décembre 2020 jusqu'à une date fixée par décret, et au plus tard jusqu'au 30 avril 2021.II.-Une aide versée par la Caisse nationale de l'assurance maladie destinée aux médecins libéraux affectés par la répétition des déprogrammations à partir du 1er juillet 2021 est instituée.Elle vise à garantir le maintien d'un niveau minimal d'honoraires, pour compenser la baisse des revenus d'activité au cours de la période allant du 1er juillet 2021 jusqu'à une date fixée par décret, et au plus tard jusqu'au 30 juin 2022, aux médecins signataires de la convention mentionnée à l'article L. 162-5 du code de la sécurité sociale exerçant une activité libérale dans un établissement de santé privé et répondant sur la période aux conditions cumulatives suivantes :1° Leur activité, en raison de sa nature particulière, a subi une baisse significative par rapport à une activité normale ;2° L'activité de l'établissement dans lequel ils exercent a été significativement impactée à des fins de maîtrise de l'épidémie de covid-19 ;3° La région dans laquelle est situé l'établissement a connu une tension hospitalière soutenue.Les conditions d'application du présent article sont fixées par décret.",
+      "valid_from": "2022-01-24"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'aide tient compte du niveau moyen des charges fixes de la profession, en fonction, le cas échéant, de la spécialité médicale et des conditions d'exercice et du niveau de la baisse des revenus d'activité du demandeur financés par l'assurance maladie.Il est également tenu compte :\n\n- des indemnités journalières versées au demandeur par les régimes de sécurité sociale depuis le 12 mars 2020 ;- des allocations d'activité partielle perçues depuis la même date pour ses salariés en application des dispositions de l'article L. 5122-1 du code du travail ;- des aides versées par le fonds de solidarité prévu par l'ordonnance du 25 mars 2020 susvisée.\n\nLe montant total de l'aide perçue par un professionnel de santé, un centre de santé ou un prestataire mentionné à l'article 1er ne peut excéder 800 000 euros."
+      "content": "L'aide tient compte du niveau moyen des charges fixes de la profession, en fonction, le cas échéant, de la spécialité médicale et des conditions d'exercice et du niveau de la baisse des revenus d'activité du demandeur financés par l'assurance maladie.Il est également tenu compte :\n\n- des indemnités journalières versées au demandeur par les régimes de sécurité sociale depuis le 12 mars 2020 ;- des allocations d'activité partielle perçues depuis la même date pour ses salariés en application des dispositions de l'article L. 5122-1 du code du travail ;- des aides versées par le fonds de solidarité prévu par l'ordonnance du 25 mars 2020 susvisée.\n\nLe montant total de l'aide perçue par un professionnel de santé, un centre de santé ou un prestataire mentionné à l'article 1er ne peut excéder 800 000 euros.",
+      "valid_from": "2020-12-11"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "L'aide peut faire l'objet d'acomptes.La Caisse nationale de l'assurance maladie arrête le montant définitif de l'aide au vu de la baisse des revenus d'activité effectivement subie par le demandeur et procède, s'il y a lieu, au versement du solde ou à la récupération du trop-perçu selon la procédure prévue à l'article L. 133-4 du code de la sécurité sociale au plus tard le 1er décembre 2022.\n\nPour le calcul du montant définitif de l'aide, les organismes servant les prestations mentionnées à l'article 2 communiquent à la caisse, sur sa demande, les montants qu'ils ont versés à ce titre aux professionnels ayant demandé l'aide instituée par la présente ordonnance."
+      "content": "L'aide peut faire l'objet d'acomptes.La Caisse nationale de l'assurance maladie arrête le montant définitif de l'aide au vu de la baisse des revenus d'activité effectivement subie par le demandeur et procède, s'il y a lieu, au versement du solde ou à la récupération du trop-perçu selon la procédure prévue à l'article L. 133-4 du code de la sécurité sociale au plus tard le 1er décembre 2022.\n\nPour le calcul du montant définitif de l'aide, les organismes servant les prestations mentionnées à l'article 2 communiquent à la caisse, sur sa demande, les montants qu'ils ont versés à ce titre aux professionnels ayant demandé l'aide instituée par la présente ordonnance.",
+      "valid_from": "2021-12-25"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le fonds d'aide aux professionnels de santé conventionnés dont l'activité est particulièrement affectée par l'épidémie de covid-19 est financé par une participation des régimes obligatoires d'assurance maladie dont le montant est fixé par arrêté des ministres chargés de la sécurité sociale et du budget.Les mutuelles et unions régies par le code de la mutualité, les institutions de prévoyance régies par le livre IX du code de la sécurité sociale et les entreprises régies par le code des assurances peuvent contribuer au financement du fonds. Le montant et les modalités de cette contribution sont définis dans le cadre d'une convention conclue entre la Caisse nationale de l'assurance maladie et les organismes volontaires."
+      "content": "Le fonds d'aide aux professionnels de santé conventionnés dont l'activité est particulièrement affectée par l'épidémie de covid-19 est financé par une participation des régimes obligatoires d'assurance maladie dont le montant est fixé par arrêté des ministres chargés de la sécurité sociale et du budget.Les mutuelles et unions régies par le code de la mutualité, les institutions de prévoyance régies par le livre IX du code de la sécurité sociale et les entreprises régies par le code des assurances peuvent contribuer au financement du fonds. Le montant et les modalités de cette contribution sont définis dans le cadre d'une convention conclue entre la Caisse nationale de l'assurance maladie et les organismes volontaires.",
+      "valid_from": "2020-05-03"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les modalités d'application de la présente ordonnance sont déterminées par décret."
+      "content": "Les modalités d'application de la présente ordonnance sont déterminées par décret.",
+      "valid_from": "2020-05-03"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre, le ministre des solidarités et de la santé et le ministre de l'action et des comptes publics sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française et qui entrera en vigueur immédiatement."
+      "content": "Le Premier ministre, le ministre des solidarités et de la santé et le ministre de l'action et des comptes publics sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française et qui entrera en vigueur immédiatement.",
+      "valid_from": "2020-05-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

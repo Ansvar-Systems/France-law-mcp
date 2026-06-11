@@ -12,7 +12,14 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. ― Les licences attribuées aux personnes morales sont caduques à compter de la publication du décret mentionné à l'article L. 222-22.II. ― Une licence d'agent sportif est délivrée par la fédération délégataire compétente aux personnes physiques ayant passé l'examen d'agent sportif pour le compte d'une personne morale."
+      "content": "I. ― Les licences attribuées aux personnes morales sont caduques à compter de la publication du décret mentionné à l'article L. 222-22.II. ― Une licence d'agent sportif est délivrée par la fédération délégataire compétente aux personnes physiques ayant passé l'examen d'agent sportif pour le compte d'une personne morale.",
+      "valid_from": "2010-06-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

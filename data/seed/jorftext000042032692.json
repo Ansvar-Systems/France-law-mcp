@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur à une date fixée, pour chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles s'appliquent aux véhicules entrés en fourrière à compter de l'entrée en vigueur de l'ordonnance."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur à une date fixée, pour chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles s'appliquent aux véhicules entrés en fourrière à compter de l'entrée en vigueur de l'ordonnance.",
+      "valid_from": "2021-04-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Premier ministre, le ministre de l'action et des comptes publics et le ministre de l'intérieur sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'action et des comptes publics et le ministre de l'intérieur sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-04-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

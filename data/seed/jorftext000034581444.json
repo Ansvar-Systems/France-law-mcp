@@ -12,19 +12,28 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente ordonnance est applicable dans les îles Wallis et Futuna à l'exception de l'article 2."
+      "content": "La présente ordonnance est applicable dans les îles Wallis et Futuna à l'exception de l'article 2.",
+      "valid_from": "2017-10-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er octobre 2017."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er octobre 2017.",
+      "valid_from": "2017-10-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-10-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

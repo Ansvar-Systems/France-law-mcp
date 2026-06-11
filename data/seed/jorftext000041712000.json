@@ -12,19 +12,28 @@
       "provision_ref": "art45",
       "section": "45",
       "title": "Article 45",
-      "content": "La présente ordonnance n'est pas applicable en Nouvelle-Calédonie."
+      "content": "La présente ordonnance n'est pas applicable en Nouvelle-Calédonie.",
+      "valid_from": "2020-03-13"
     },
     {
       "provision_ref": "art46",
       "section": "46",
       "title": "Article 46",
-      "content": "La présente ordonnance entre en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er octobre 2020.Elle est applicable aux mesures de protection juridique en cours au jour de son entrée en vigueur et aux situations dans lesquelles aucune décision n'a été prise au jour de son entrée en vigueur."
+      "content": "La présente ordonnance entre en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er octobre 2020.Elle est applicable aux mesures de protection juridique en cours au jour de son entrée en vigueur et aux situations dans lesquelles aucune décision n'a été prise au jour de son entrée en vigueur.",
+      "valid_from": "2020-12-09"
     },
     {
       "provision_ref": "art47",
       "section": "47",
       "title": "Article 47",
-      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre des solidarités et de la santé et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre des solidarités et de la santé et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-03-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

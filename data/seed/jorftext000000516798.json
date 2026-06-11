@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Pour chaque membre du Gouvernement, les incompatibilités établies à l'article 23 de la Constitution prennent effet à l'expiration d'un délai de un mois à compter de sa nomination. Pendant ce délai, le parlementaire membre du Gouvernement ne peut prendre part à aucun scrutin et ne peut percevoir aucune indemnité en tant que parlementaire. Les incompatibilités ne prennent pas effet si le Gouvernement est démissionnaire avant l'expiration dudit délai.\n\nLes mesures nécessaires pour remplacer un membre du Gouvernement dans son mandat, sa fonction ou son emploi sont prises dans le mois qui suit et comme il est dit aux articles 2, 3 et 4 ci-après."
+      "content": "Pour chaque membre du Gouvernement, les incompatibilités établies à l'article 23 de la Constitution prennent effet à l'expiration d'un délai de un mois à compter de sa nomination. Pendant ce délai, le parlementaire membre du Gouvernement ne peut prendre part à aucun scrutin et ne peut percevoir aucune indemnité en tant que parlementaire. Les incompatibilités ne prennent pas effet si le Gouvernement est démissionnaire avant l'expiration dudit délai.\n\nLes mesures nécessaires pour remplacer un membre du Gouvernement dans son mandat, sa fonction ou son emploi sont prises dans le mois qui suit et comme il est dit aux articles 2,3 et 4 ci-après.",
+      "valid_from": "2013-10-13"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le remplacement d'un membre du Gouvernement dans son mandat parlementaire a lieu dans les conditions prévues par les lois organiques relatives à la composition et à la durée des pouvoirs de l'Assemblée nationale et du Sénat.\n\nQuiconque a été appelé à remplacer, dans les conditions prévues à l'article 5 de chacune desdites lois organiques, un parlementaire nommé membre du Gouvernement ne peut, lors de l'élection suivante, faire acte de candidature contre lui."
+      "content": "Le remplacement d'un membre du Gouvernement dans son mandat parlementaire a lieu dans les conditions prévues par les lois organiques relatives à la composition et à la durée des pouvoirs de l'Assemblée nationale et du Sénat.\n\nQuiconque a été appelé à remplacer, dans les conditions prévues à l'article 5 de chacune desdites lois organiques, un parlementaire nommé membre du Gouvernement ne peut, lors de l'élection suivante, faire acte de candidature contre lui.",
+      "valid_from": "1958-11-18"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le remplacement d'un membre du Gouvernement dans ses fonctions de représentation professionnelle à caractère national a lieu conformément aux statuts de l'organisation professionnelle intéressée."
+      "content": "Le remplacement d'un membre du Gouvernement dans ses fonctions de représentation professionnelle à caractère national a lieu conformément aux statuts de l'organisation professionnelle intéressée.",
+      "valid_from": "1958-11-18"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le membre du Gouvernement titulaire d'un emploi public est remplacé dans ses fonctions et placé d'office, pendant la durée de ses fonctions, en position de disponibilité ou dans la position équivalente prévue par son statut ne lui permettant pas d'acquérir de droits à l'avancement et de droits à pension."
+      "content": "Le membre du Gouvernement titulaire d'un emploi public est remplacé dans ses fonctions et placé d'office, pendant la durée de ses fonctions, en position de disponibilité ou dans la position équivalente prévue par son statut ne lui permettant pas d'acquérir de droits à l'avancement et de droits à pension.",
+      "valid_from": "2014-10-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Lors de la cessation de ses fonctions gouvernementales le membre du Gouvernement auquel il a été fait application des dispositions des articles 2, 3 et 4 ci-dessus perçoit une indemnité d'un montant égal au traitement qui lui était alloué en sa qualité de membre du Gouvernement.\n\nCette indemnité est versée pendant trois mois, à moins que l'intéressé n'ait repris auparavant une activité rémunérée.\n\nCette indemnité ne peut être perçue par l'intéressé s'il a omis de déclarer à la Haute Autorité pour la transparence de la vie publique, au titre de la  loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, tout ou partie de son patrimoine ou de ses intérêts."
+      "content": "Lors de la cessation de ses fonctions gouvernementales le membre du Gouvernement auquel il a été fait application des dispositions des articles 2, 3 et 4 ci-dessus perçoit une indemnité d'un montant égal au traitement qui lui était alloué en sa qualité de membre du Gouvernement.\n\nCette indemnité est versée pendant trois mois, à moins que l'intéressé n'ait repris auparavant une activité rémunérée.\n\nCette indemnité ne peut être perçue par l'intéressé s'il a omis de déclarer à la Haute Autorité pour la transparence de la vie publique, au titre de la  loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, tout ou partie de son patrimoine ou de ses intérêts.",
+      "valid_from": "2013-10-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -1,0 +1,53 @@
+{
+  "id": "jorftext000052184230",
+  "type": "statute",
+  "title": "Ordonnance n°2025-880 du 3 septembre 2025",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000052184230",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les dispositions des livres II, III et VII du code de la consommation sont modifiées conformément aux dispositions des articles 2 à 85 de la présente ordonnance.",
+      "valid_from": "2025-09-05"
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Article 73",
+      "content": "A abrogé les dispositions suivantes :\n\n-Code de la consommation",
+      "valid_from": "2025-09-05"
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Article 76",
+      "content": "L'article L. 341-49 est abrogé.",
+      "valid_from": "2025-09-05"
+    },
+    {
+      "provision_ref": "art99",
+      "section": "99",
+      "title": "Article 99",
+      "content": "I. - La présente ordonnance entre en vigueur le 20 novembre 2026.II. - Les contrats de crédit en cours au 20 novembre 2026 restent régis par les dispositions du code de la consommation et du code monétaire et financier dans leur rédaction antérieure à l'entrée en vigueur de la présente ordonnance.III. - Par dérogation au II, les articles 34, 35, 43 à 45, 59 à 61, 64 et 72 s'appliquent à tous les contrats de crédit à durée indéterminée en cours à la date du 20 novembre 2026.",
+      "valid_from": "2025-09-05"
+    },
+    {
+      "provision_ref": "art100",
+      "section": "100",
+      "title": "Article 100",
+      "content": "Le Premier ministre, le ministre d'État, ministre des outre-mer, et le ministre de l'économie, des finances et de la souveraineté industrielle et numérique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2025-09-05"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

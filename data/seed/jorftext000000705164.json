@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les cantines destinées à fonctionner au profit du personnel d'une ou de plusieurs entreprises, d'une ou plusieurs administrations publiques ou privées pourront se constituer sous la forme de sociétés coopératives de consommation régies par la loi du 7 mai 1917.Les coopératives de consommation fonctionnant comme cantines devront avoir exclusivement pour objet l'acquisition et la préparation de soupes et repas à consommer sur place ou en tout autre lieu affecté à la consommation par les organismes intéressés.Par dérogation aux dispositions du décret du 9 septembre 1939, leur création n'est subordonnée qu'à une autorisation du préfet du département de leur siège, donnée sur avis de l'inspecteur du travail et du directeur départemental du ravitaillement. Cette autorisation n'est pas susceptible de recours."
+      "content": "Les cantines destinées à fonctionner au profit du personnel d'une ou de plusieurs entreprises, d'une ou plusieurs administrations publiques ou privées pourront se constituer sous la forme de sociétés coopératives de consommation régies par la loi du 7 mai 1917.Les coopératives de consommation fonctionnant comme cantines devront avoir exclusivement pour objet l'acquisition et la préparation de soupes et repas à consommer sur place ou en tout autre lieu affecté à la consommation par les organismes intéressés.Par dérogation aux dispositions du décret du 9 septembre 1939, leur création n'est subordonnée qu'à une autorisation du préfet du département de leur siège, donnée sur avis de l'inspecteur du travail et du directeur départemental du ravitaillement. Cette autorisation n'est pas susceptible de recours.",
+      "valid_from": "1942-10-03"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Leur conseil d'administration sera composé de trois groupes égaux de membres correspondant respectivement aux catégories visées à l'article 28 de la loi du 4 octobre 1941."
+      "content": "Leur conseil d'administration sera composé de trois groupes égaux de membres correspondant respectivement aux catégories visées à l'article 28 de la loi du 4 octobre 1941.",
+      "valid_from": "1942-10-03"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Leur fonctionnement et leurs opérations seront soumis au contrôle des agents du secrétaire d'Etat au travail, du ministère de l'agriculture et du ravitaillement et du ministère des finances."
+      "content": "Leur fonctionnement et leurs opérations seront soumis au contrôle des agents du secrétaire d'Etat au travail, du ministère de l'agriculture et du ravitaillement et du ministère des finances.",
+      "valid_from": "1942-10-03"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Faute de pouvoir s'installer par leurs propres moyens, et à défaut de location amiable, elles pourront demander au préfet la réquisition des restaurants nécessaires à leur fonctionnement, matériel compris, pour une durée d'un an.Les modalités de la réquisition et, notamment, le taux de la redevance, qui sera toujours mise à la charge de la coopérative, seront fixées par arrêté préfectoral.La réquisition pourra, dans les mêmes conditions, faire l'objet de prorogations nouvelles ; dans ce cas, un préavis devra être notifié aux intéressés par le préfet au plus tard trois mois avant l'expiration de la réquisition en cours."
+      "content": "Faute de pouvoir s'installer par leurs propres moyens, et à défaut de location amiable, elles pourront demander au préfet la réquisition des restaurants nécessaires à leur fonctionnement, matériel compris, pour une durée d'un an.Les modalités de la réquisition et, notamment, le taux de la redevance, qui sera toujours mise à la charge de la coopérative, seront fixées par arrêté préfectoral.La réquisition pourra, dans les mêmes conditions, faire l'objet de prorogations nouvelles ; dans ce cas, un préavis devra être notifié aux intéressés par le préfet au plus tard trois mois avant l'expiration de la réquisition en cours.",
+      "valid_from": "1942-10-03"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les lois relatives aux réquisitions civiles sont applicables aux réquisitions ordonnées en exécution de l'article ci-dessus, en ce qui concerne le règlement des indemnités et des réclamations y afférentes. A cet effet, les préfets reçoivent délégation permanente du secrétaire d'Etat au travail."
+      "content": "Les lois relatives aux réquisitions civiles sont applicables aux réquisitions ordonnées en exécution de l'article ci-dessus, en ce qui concerne le règlement des indemnités et des réclamations y afférentes. A cet effet, les préfets reçoivent délégation permanente du secrétaire d'Etat au travail.",
+      "valid_from": "1942-10-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

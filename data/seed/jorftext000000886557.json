@@ -12,25 +12,35 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "L'alinéa 3 de l'article 1873-4 du code civil est abrogé."
+      "content": "L'alinéa 3 de l'article 1873-4 du code civil est abrogé.",
+      "valid_from": "1978-06-11"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les dispositions de l'article 1er ci-dessus sont applicables à toute demande de sursis au partage formée après l'entrée en vigueur de la présente loi, quelle que soit la date de la demande en partage."
+      "content": "Les dispositions de l'article 1er ci-dessus sont applicables à toute demande de sursis au partage formée après l'entrée en vigueur de la présente loi, quelle que soit la date de la demande en partage.",
+      "valid_from": "1978-06-11"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "L'article 231 du code de l'urbanisme et de l'habitation est abrogé."
+      "content": "L'article 231 du code de l'urbanisme et de l'habitation est abrogé.",
+      "valid_from": "1978-06-11"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La présente loi est applicable dans les territoires de la Nouvelle-Calédonie, de la Polynésie française, des îles Wallis et Futuna et dans la collectivité territoriale de Mayotte, à l'exception de son article 6."
+      "content": "La présente loi est applicable dans les territoires de la Nouvelle-Calédonie, de la Polynésie française, des îles Wallis et Futuna et dans la collectivité territoriale de Mayotte, à l'exception de son article 6.",
+      "valid_from": "1993-01-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

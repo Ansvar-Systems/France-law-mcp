@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "A modifié les dispositions suivantes :"
+      "content": "A modifié les dispositions suivantes :",
+      "valid_from": "2008-07-20"
     },
     {
       "provision_ref": "art15-1",
       "section": "15-1",
       "title": "Article 15-1",
-      "content": "L'article 2 de la présente ordonnance est applicable à Wallis-et-Futuna."
+      "content": "L'article 2 de la présente ordonnance est applicable à Wallis-et-Futuna.",
+      "valid_from": "2008-12-20"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'agriculture et de la pêche et la ministre de la santé, de la jeunesse, des sports et de la vie associative sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'agriculture et de la pêche et la ministre de la santé, de la jeunesse, des sports et de la vie associative sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2008-07-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

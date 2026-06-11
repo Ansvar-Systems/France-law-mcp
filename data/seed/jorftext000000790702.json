@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le titre IX du livre III de la quatrième partie du code de la santé publique est abrogé."
+      "content": "Le titre IX du livre III de la quatrième partie du code de la santé publique est abrogé.",
+      "valid_from": "2006-12-27"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Dans les deux mois suivant la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport relatif à la proposition de remplacement du Conseil supérieur des professions paramédicales issu du décret n° 73-901 du 14 septembre 1973 par une structure interdisciplinaire destinée à mettre en oeuvre les liens nécessaires entre tous les acteurs du système de santé."
+      "content": "Dans les deux mois suivant la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport relatif à la proposition de remplacement du Conseil supérieur des professions paramédicales issu du décret n° 73-901 du 14 septembre 1973 par une structure interdisciplinaire destinée à mettre en oeuvre les liens nécessaires entre tous les acteurs du système de santé.",
+      "valid_from": "2006-12-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

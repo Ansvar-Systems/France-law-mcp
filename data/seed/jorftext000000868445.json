@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les colonies de la Guadeloupe, de la Martinique, de la Réunion et la Guyane française sont érigées en départements français."
+      "content": "Les colonies de la Guadeloupe, de la Martinique, de la Réunion et la Guyane française sont érigées en départements français.",
+      "valid_from": "1946-03-20"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les lois et décrets actuellement en vigueur dans la France métropolitaine et qui ne sont pas encore appliqués à ces colonies feront, avant le 1er janvier 1947, l'objet de décrets d'application à ces nouveaux départements."
+      "content": "Les lois et décrets actuellement en vigueur dans la France métropolitaine et qui ne sont pas encore appliqués à ces colonies feront, avant le 1er janvier 1947, l'objet de décrets d'application à ces nouveaux départements.",
+      "valid_from": "1946-03-20"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Dès la promulgation de la présente loi, les lois nouvelles applicables à la métropole le seront dans ces départements, sur mention expresse insérée aux textes.La présente loi, délibérée et adoptée par l'Assemblée nationale constituante, sera exécutée comme loi de l'Etat."
+      "content": "Dès la promulgation de la présente loi, les lois nouvelles applicables à la métropole le seront dans ces départements, sur mention expresse insérée aux textes.La présente loi, délibérée et adoptée par l'Assemblée nationale constituante, sera exécutée comme loi de l'Etat.",
+      "valid_from": "1946-03-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

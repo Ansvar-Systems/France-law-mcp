@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Par dérogation au 1° de l'article L. 556-1 du code général de la fonction publique, la limite d'âge du vice-président du Conseil d'Etat, du premier président et du procureur général de la Cour des comptes reste fixée à soixante-huit ans."
+      "content": "Par dérogation au 1° de l'article L. 556-1 du code général de la fonction publique, la limite d'âge du vice-président du Conseil d'Etat, du premier président et du procureur général de la Cour des comptes reste fixée à soixante-huit ans.",
+      "valid_from": "2023-06-14"
     },
     {
       "provision_ref": "art6-2",
       "section": "6-2",
       "title": "Article 6-2",
-      "content": "La limite d'âge définie à l'article 6-1 n'est pas opposable aux personnes qui accomplissent, pour le compte et à la demande des employeurs publics mentionnés au même article, une mission ponctuelle en l'absence de tout lien de subordination juridique.\n\nUn décret en Conseil d'Etat précise les modalités d'application du présent article."
+      "content": "La limite d'âge définie à l'article 6-1 n'est pas opposable aux personnes qui accomplissent, pour le compte et à la demande des employeurs publics mentionnés au même article, une mission ponctuelle en l'absence de tout lien de subordination juridique.\n\nUn décret en Conseil d'Etat précise les modalités d'application du présent article.",
+      "valid_from": "2012-03-14"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "En l'absence de dispositions particulières prévues par les textes législatifs ou réglementaires régissant l'établissement, la limite d'âge des présidents de conseil d'administration, directeurs généraux et directeurs des établissements publics de l'Etat est fixée à soixante-sept ans. Toutefois, les fonctionnaires ou magistrats dont la limite d'âge est fixée à soixante-huit ans en application de l'article 1er continuent à présider, jusqu'à ce qu'ils atteignent cette limite, les établissements publics dont les statuts leur confèrent de droit la présidence.\n\nLes règles relatives à la limite d'âge ne font pas obstacle à ce que les titulaires des fonctions mentionnées à l'alinéa précédent soient maintenus en fonction, au-delà de cette limite, pour continuer à les exercer à titre intérimaire.\n\nPour les agents publics placés hors de leur corps d'origine afin d'occuper les fonctions mentionnées au premier alinéa, les règles fixant une limite d'âge dans leur corps d'origine ne font pas obstacle à ce que ces agents exercent lesdites fonctions jusqu'à ce qu'ils atteignent la limite d'âge fixée pour celles-ci. Dans ce cas, la radiation des cadres et la liquidation de la pension sont différées à la date de cessation des fonctions. Ces dispositions sont également applicables aux agents publics placés hors de leur corps d'origine afin d'occuper les fonctions de président du conseil d'administration, directeur général, directeur général délégué ou membre du directoire d'une société dont l'Etat, d'autres personnes morales de droit public ou des entreprises publiques détiennent conjointement, directement ou indirectement, plus de la moitié du capital."
+      "content": "En l'absence de dispositions particulières prévues par les textes législatifs ou réglementaires régissant l'établissement, la limite d'âge des présidents de conseil d'administration, directeurs généraux et directeurs des établissements publics de l'Etat est fixée à soixante-sept ans. Toutefois, les fonctionnaires ou magistrats dont la limite d'âge est fixée à soixante-huit ans en application de l'article 1er continuent à présider, jusqu'à ce qu'ils atteignent cette limite, les établissements publics dont les statuts leur confèrent de droit la présidence.\n\nLes règles relatives à la limite d'âge ne font pas obstacle à ce que les titulaires des fonctions mentionnées à l'alinéa précédent soient maintenus en fonction, au-delà de cette limite, pour continuer à les exercer à titre intérimaire.\n\nPour les agents publics placés hors de leur corps d'origine afin d'occuper les fonctions mentionnées au premier alinéa, les règles fixant une limite d'âge dans leur corps d'origine ne font pas obstacle à ce que ces agents exercent lesdites fonctions jusqu'à ce qu'ils atteignent la limite d'âge fixée pour celles-ci. Dans ce cas, la radiation des cadres et la liquidation de la pension sont différées à la date de cessation des fonctions. Ces dispositions sont également applicables aux agents publics placés hors de leur corps d'origine afin d'occuper les fonctions de président du conseil d'administration, directeur général, directeur général délégué ou membre du directoire d'une société dont l'Etat, d'autres personnes morales de droit public ou des entreprises publiques détiennent conjointement, directement ou indirectement, plus de la moitié du capital.",
+      "valid_from": "2022-03-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

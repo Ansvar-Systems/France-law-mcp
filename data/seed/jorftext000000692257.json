@@ -1,10 +1,10 @@
 {
   "id": "jorftext000000692257",
   "type": "statute",
-  "title": "Loi n° 83-550 du 30 juin 1983",
+  "title": "Loi n°83-550 du 30 juin 1983",
   "title_en": null,
   "short_name": null,
-  "status": "repealed",
+  "status": "in_force",
   "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000692257",
   "description": null,
   "provisions": [
@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "La commémoration de l'abolition de l'esclavage par la République française et celle de la fin de tous les contrats d'engagement souscrits à la suite de cette abolition font l'objet d'une journée fériée dans les collectivités de Guadeloupe, de Guyane, de Martinique, de La Réunion et de Mayotte.\n\nUn décret fixe la date de la commémoration pour chacune des collectivités territoriales visées ci-dessus ;\n\nLa République française institue la journée du 10 mai comme journée nationale des mémoires de la traite, de l'esclavage et de leurs abolitions, et celle du 23 mai comme journée nationale en hommage aux victimes de l'esclavage."
+      "content": "La commémoration de l'abolition de l'esclavage par la République française et celle de la fin de tous les contrats d'engagement souscrits à la suite de cette abolition font l'objet d'une journée fériée dans les collectivités de Guadeloupe, de Guyane, de Martinique, de La Réunion et de Mayotte.\n\nUn décret fixe la date de la commémoration pour chacune des collectivités territoriales visées ci-dessus ;\n\nLa République française institue la journée du 10 mai comme journée nationale des mémoires de la traite, de l'esclavage et de leurs abolitions, et celle du 23 mai comme journée nationale en hommage aux victimes de l'esclavage.",
+      "valid_from": "2019-11-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les dispositions des articles 93 à 95, 115 de la loi du 19 octobre 1946 et 2 de la loi seront appliquées aux magistrats de l'ordre judiciaire atteints d'une maladie ouvrant droit à congé de longue durée entre le 20 octobre 1946 et la date d'entrée en vigueur de la présente loi, sauf dans la cas où ils auraient cessé définitivement leurs fonctions."
+      "content": "Les dispositions des articles 93 à 95, 115 de la loi du 19 octobre 1946 et 2 de la loi seront appliquées aux magistrats de l'ordre judiciaire atteints d'une maladie ouvrant droit à congé de longue durée entre le 20 octobre 1946 et la date d'entrée en vigueur de la présente loi, sauf dans la cas où ils auraient cessé définitivement leurs fonctions.",
+      "valid_from": "1951-03-22"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les dispositions de l'article 15 (alinéa 5) de la loi du 30 août 1883, modifiée par la loi du 25 juillet 1929 sur la réforme de l'organisation judiciaire, et de la loi du 16 juin 1824 relative à l'admission à la retraite des juges atteints d'infirmités graves et permanents sont abrogées."
+      "content": "Les dispositions de l'article 15 (alinéa 5) de la loi du 30 août 1883, modifiée par la loi du 25 juillet 1929 sur la réforme de l'organisation judiciaire, et de la loi du 16 juin 1824 relative à l'admission à la retraite des juges atteints d'infirmités graves et permanents sont abrogées.",
+      "valid_from": "1951-03-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

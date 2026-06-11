@@ -12,19 +12,28 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les dispositifs médicaux de diagnostic in vitro mis sur le marché avant le 8 décembre 2003 en conformité avec la législation les concernant en vigueur au 7 décembre 1998 peuvent être mis en service jusqu'au 7 décembre 2005."
+      "content": "Les dispositifs médicaux de diagnostic in vitro mis sur le marché avant le 8 décembre 2003 en conformité avec la législation les concernant en vigueur au 7 décembre 1998 peuvent être mis en service jusqu'au 7 décembre 2005.",
+      "valid_from": "2004-12-10"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Jusqu'au 7 décembre 2003, les articles L. 5133-1 à L. 5133-7 et l'article L. 5433-1 du code de la santé publique demeurent en vigueur, concurremment avec les dispositions des articles L. 5221-1 à L. 5221-7, L. 5222-1 à L. 5222-3 et L. 5462-1 à L. 5462-3 de ce code issues des articles 4, 5 et 8."
+      "content": "Jusqu'au 7 décembre 2003, les articles L. 5133-1 à L. 5133-7 et l'article L. 5433-1 du code de la santé publique demeurent en vigueur, concurremment avec les dispositions des articles L. 5221-1 à L. 5221-7, L. 5222-1 à L. 5222-3 et L. 5462-1 à L. 5462-3 de ce code issues des articles 4, 5 et 8.",
+      "valid_from": "2001-03-03"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Le Premier ministre, la ministre de l'emploi et de la solidarité et le ministre délégué à la santé sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'emploi et de la solidarité et le ministre délégué à la santé sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2001-03-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

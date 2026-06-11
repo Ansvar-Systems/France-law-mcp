@@ -1,0 +1,32 @@
+{
+  "id": "legitext000006072672",
+  "type": "statute",
+  "title": "Loi du 4 avril 1941",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072672/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les prescriptions édictées par l'article 1er de la loi du 24 mai 1825, l'article 13 de la loi du 1er juillet 1901 et les articles 22 et suivants du décret en Conseil d'Etat du 16 août 1901, ne sont pas applicables aux religieuses attachées au service des établissements publics hospitaliers ou charitables.\n\nAu vu du contrat intervenu entre la congrégation et la commission administrative desdits établissements en vertu de l'article 8 de la loi du 7 août 1851, ces religieuses seront pourvues d'un agrément administratif par arrêté du ministre secrétaire d'Etat à l'intérieur, pris sur l'avis conforme du secrétaire d'Etat à la famille et à la santé.",
+      "valid_from": "1941-04-10"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Le même agrément sera accordé, sur la proposition du préfet, aux religieuses infirmières, attachées au service des oeuvres privées hospitalières dépendant d'établissements reconnus d'utilité publique.",
+      "valid_from": "1941-04-10"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

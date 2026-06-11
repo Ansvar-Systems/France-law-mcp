@@ -12,7 +12,14 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "V. - Le présent article entre en vigueur le 1er janvier 2012.Toutefois, les deux derniers alinéas de l'article L. 251-3 du code de l'organisation judiciaire et les troisième et quatrième alinéas de l'article 24-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante, dans leur rédaction résultant des I et IV du présent article, entrent en vigueur le 1er janvier 2013."
+      "content": "V. - Le présent article entre en vigueur le 1er janvier 2012.Toutefois, les deux derniers alinéas de l'article L. 251-3 du code de l'organisation judiciaire et les troisième et quatrième alinéas de l'article 24-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante, dans leur rédaction résultant des I et IV du présent article, entrent en vigueur le 1er janvier 2013.",
+      "valid_from": "2012-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

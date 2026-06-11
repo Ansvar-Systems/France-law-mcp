@@ -12,25 +12,35 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Dans toutes les dispositions législatives et réglementaires en vigueur, les références aux dispositions du code de l'éducation modifiées par les articles 1er à 9 de la présente ordonnance sont remplacées par les références à celles du code dans sa rédaction résultant de la présente ordonnance."
+      "content": "Dans toutes les dispositions législatives et réglementaires en vigueur, les références aux dispositions du code de l'éducation modifiées par les articles 1er à 9 de la présente ordonnance sont remplacées par les références à celles du code dans sa rédaction résultant de la présente ordonnance.",
+      "valid_from": "2022-01-01"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Lorsqu'elles ne relèvent pas de la compétence de l'Etat, les dispositions du code de l'éducation rendues applicables en Polynésie française et en Nouvelle-Calédonie par celles du titre VI du livre Ier, du titre VI du livre II, du titre VII du livre III, du titre IX du livre IV, du titre VI du livre V, du titre VIII du livre VI, du titre VII du livre VII, du titre V du livre VIII et du titre VII du livre IX de ce code dans leur rédaction antérieure à l'entrée en vigueur de la présente ordonnance demeurent en vigueur dans ces collectivités, sauf abrogation ou modification par les autorités locales dans l'exercice de leur compétences."
+      "content": "Lorsqu'elles ne relèvent pas de la compétence de l'Etat, les dispositions du code de l'éducation rendues applicables en Polynésie française et en Nouvelle-Calédonie par celles du titre VI du livre Ier, du titre VI du livre II, du titre VII du livre III, du titre IX du livre IV, du titre VI du livre V, du titre VIII du livre VI, du titre VII du livre VII, du titre V du livre VIII et du titre VII du livre IX de ce code dans leur rédaction antérieure à l'entrée en vigueur de la présente ordonnance demeurent en vigueur dans ces collectivités, sauf abrogation ou modification par les autorités locales dans l'exercice de leur compétences.",
+      "valid_from": "2022-01-01"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "La présente ordonnance entre en vigueur à la date d'entrée en vigueur des décrets portant actualisation et adaptation des dispositions réglementaires du code de l'éducation relatives à l'outre-mer et, au plus tard, le 1er janvier 2022."
+      "content": "La présente ordonnance entre en vigueur à la date d'entrée en vigueur des décrets portant actualisation et adaptation des dispositions réglementaires du code de l'éducation relatives à l'outre-mer et, au plus tard, le 1er janvier 2022.",
+      "valid_from": "2022-01-01"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Le Premier ministre, le ministre de l'éducation nationale, de la jeunesse et des sports, le ministre des outre-mer et la ministre de l'enseignement supérieur, de la recherche et de l'innovation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'éducation nationale, de la jeunesse et des sports, le ministre des outre-mer et la ministre de l'enseignement supérieur, de la recherche et de l'innovation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2022-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

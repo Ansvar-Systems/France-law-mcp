@@ -12,55 +12,70 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. - Sont considérés comme autorités administratives au sens de la présente ordonnance les administrations de l'Etat, les collectivités territoriales, les établissements publics à caractère administratif, les organismes gérant des régimes de protection sociale relevant du code de la sécurité sociale et du code rural ou mentionnés aux articles L. 223-16 et L. 351-21 du code du travail et les autres organismes chargés de la gestion d'un service public administratif ainsi que les commissions de coordination des actions de prévention des expulsions locatives prévues à l'article 7-2 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement.\n\nII. - Sont considérés, au sens de la présente ordonnance :\n\n1° Comme système d'information, tout ensemble de moyens destinés à élaborer, traiter, stocker ou transmettre des informations faisant l'objet d'échanges par voie électronique entre autorités administratives et usagers ainsi qu'entre autorités administratives ;\n\n2° Comme prestataire de services de confiance, toute personne offrant des services tendant à la mise en oeuvre de fonctions qui contribuent à la sécurité des informations échangées par voie électronique ;\n\n3° Comme produit de sécurité, tout dispositif, matériel ou logiciel, mettant en oeuvre des fonctions qui contribuent à la sécurité des informations échangées par voie électronique ;\n\n4° Comme téléservice, tout système d'information permettant aux usagers de procéder par voie électronique à des démarches ou formalités administratives."
+      "content": "I. - Sont considérés comme autorités administratives au sens de la présente ordonnance les administrations de l'Etat, les collectivités territoriales, les établissements publics à caractère administratif, les organismes gérant des régimes de protection sociale relevant du code de la sécurité sociale et du code rural ou mentionnés aux articles L. 223-16 et L. 351-21 du code du travail et les autres organismes chargés de la gestion d'un service public administratif ainsi que les commissions de coordination des actions de prévention des expulsions locatives prévues à l'article 7-2 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement.\n\nII. - Sont considérés, au sens de la présente ordonnance :\n\n1° Comme système d'information, tout ensemble de moyens destinés à élaborer, traiter, stocker ou transmettre des informations faisant l'objet d'échanges par voie électronique entre autorités administratives et usagers ainsi qu'entre autorités administratives ;\n\n2° Comme prestataire de services de confiance, toute personne offrant des services tendant à la mise en oeuvre de fonctions qui contribuent à la sécurité des informations échangées par voie électronique ;\n\n3° Comme produit de sécurité, tout dispositif, matériel ou logiciel, mettant en oeuvre des fonctions qui contribuent à la sécurité des informations échangées par voie électronique ;\n\n4° Comme téléservice, tout système d'information permettant aux usagers de procéder par voie électronique à des démarches ou formalités administratives.",
+      "valid_from": "2017-01-29"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Il est créé un service public, exploité sous la responsabilité de l'Etat, consistant en la mise à disposition de l'usager d'un espace de stockage accessible en ligne. Cet espace, placé sous le contrôle de son titulaire, ouvert et clos à sa demande, permet à l'usager de conserver et de communiquer aux autorités administratives des informations et documents utiles à l'accomplissement de ses démarches.Les autorités administratives peuvent, avec l'autorisation du titulaire de l'espace de stockage, y déposer des documents.Lorsqu'en application d'une disposition législative ou réglementaire, une autorité administrative demande à un usager la communication d'une information, ce dernier peut en autoriser la transmission depuis cet espace à cette autorité. Les autorités administratives ne peuvent se voir communiquer par le biais de cet espace que les informations et documents dont elles ont à connaître.Les modalités de mise en oeuvre et d'exploitation de ce service sont fixées par décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés. Ce décret précise notamment la nature des informations stockées, les conditions d'identification du titulaire de l'espace de stockage, ainsi que les garanties de sécurité et de confidentialité qui lui sont offertes. Ce décret précise également les modalités selon lesquelles le titulaire autorise le dépôt d'informations sur son espace de stockage ou leur transmission à partir de celui-ci."
+      "content": "Il est créé un service public, exploité sous la responsabilité de l'Etat, consistant en la mise à disposition de l'usager d'un espace de stockage accessible en ligne. Cet espace, placé sous le contrôle de son titulaire, ouvert et clos à sa demande, permet à l'usager de conserver et de communiquer aux autorités administratives des informations et documents utiles à l'accomplissement de ses démarches.Les autorités administratives peuvent, avec l'autorisation du titulaire de l'espace de stockage, y déposer des documents.Lorsqu'en application d'une disposition législative ou réglementaire, une autorité administrative demande à un usager la communication d'une information, ce dernier peut en autoriser la transmission depuis cet espace à cette autorité. Les autorités administratives ne peuvent se voir communiquer par le biais de cet espace que les informations et documents dont elles ont à connaître.Les modalités de mise en oeuvre et d'exploitation de ce service sont fixées par décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés. Ce décret précise notamment la nature des informations stockées, les conditions d'identification du titulaire de l'espace de stockage, ainsi que les garanties de sécurité et de confidentialité qui lui sont offertes. Ce décret précise également les modalités selon lesquelles le titulaire autorise le dépôt d'informations sur son espace de stockage ou leur transmission à partir de celui-ci.",
+      "valid_from": "2005-12-09"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "I. - Un référentiel général de sécurité fixe les règles que doivent respecter les fonctions des systèmes d'information contribuant à la sécurité des informations échangées par voie électronique telles que les fonctions d'identification, de signature électronique, de confidentialité et d'horodatage. Les conditions d'élaboration, d'approbation, de modification et de publication de ce référentiel sont fixées par décret.II. - Lorsqu'une autorité administrative met en place un système d'information, elle détermine les fonctions de sécurité nécessaires pour protéger ce système. Pour les fonctions de sécurité traitées par le référentiel général de sécurité, elle fixe le niveau de sécurité requis parmi les niveaux prévus et respecte les règles correspondantes. Un décret précise les modalités d'application du présent II.III. - Les produits de sécurité et les prestataires de services de confiance peuvent obtenir une qualification qui atteste de leur conformité à un niveau de sécurité du référentiel général de sécurité. Un décret précise les conditions de délivrance de cette qualification. Cette délivrance peut, s'agissant des prestataires de services de confiance, être confiée à un organisme privé habilité à cet effet."
+      "content": "I. - Un référentiel général de sécurité fixe les règles que doivent respecter les fonctions des systèmes d'information contribuant à la sécurité des informations échangées par voie électronique telles que les fonctions d'identification, de signature électronique, de confidentialité et d'horodatage. Les conditions d'élaboration, d'approbation, de modification et de publication de ce référentiel sont fixées par décret.II. - Lorsqu'une autorité administrative met en place un système d'information, elle détermine les fonctions de sécurité nécessaires pour protéger ce système. Pour les fonctions de sécurité traitées par le référentiel général de sécurité, elle fixe le niveau de sécurité requis parmi les niveaux prévus et respecte les règles correspondantes. Un décret précise les modalités d'application du présent II.III. - Les produits de sécurité et les prestataires de services de confiance peuvent obtenir une qualification qui atteste de leur conformité à un niveau de sécurité du référentiel général de sécurité. Un décret précise les conditions de délivrance de cette qualification. Cette délivrance peut, s'agissant des prestataires de services de confiance, être confiée à un organisme privé habilité à cet effet.",
+      "valid_from": "2005-12-09"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Un référentiel général d'interopérabilité fixe les règles techniques permettant d'assurer l'interopérabilité des systèmes d'information. Il détermine notamment les répertoires de données, les normes et les standards qui doivent être utilisés par les autorités administratives. Les conditions d'élaboration, d'approbation, de modification et de publication de ce référentiel sont fixées par décret."
+      "content": "Un référentiel général d'interopérabilité fixe les règles techniques permettant d'assurer l'interopérabilité des systèmes d'information. Il détermine notamment les répertoires de données, les normes et les standards qui doivent être utilisés par les autorités administratives. Les conditions d'élaboration, d'approbation, de modification et de publication de ce référentiel sont fixées par décret.",
+      "valid_from": "2005-12-09"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les produits de sécurité et les prestataires de services de confiance qualifiés à un niveau de sécurité dans les conditions prévues au III de l'article 9 peuvent faire en outre l'objet d'un référencement par l'Etat. Ils sont alors utilisables par les usagers pour l'ensemble des téléservices pour lesquels ce niveau de sécurité est requis.Les agents des autorités administratives chargés du traitement et de l'exploitation des informations recueillies dans le cadre de systèmes d'information utilisent, pour accéder à ces systèmes, des produits de sécurité référencés.Un décret précise les modalités d'application du présent article, notamment les conditions de délivrance des produits de sécurité aux agents des autorités administratives."
+      "content": "Les produits de sécurité et les prestataires de services de confiance qualifiés à un niveau de sécurité dans les conditions prévues au III de l'article 9 peuvent faire en outre l'objet d'un référencement par l'Etat. Ils sont alors utilisables par les usagers pour l'ensemble des téléservices pour lesquels ce niveau de sécurité est requis.Les agents des autorités administratives chargés du traitement et de l'exploitation des informations recueillies dans le cadre de systèmes d'information utilisent, pour accéder à ces systèmes, des produits de sécurité référencés.Un décret précise les modalités d'application du présent article, notamment les conditions de délivrance des produits de sécurité aux agents des autorités administratives.",
+      "valid_from": "2005-12-09"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "I. - Les systèmes d'information existant à la date de publication du référentiel général de sécurité mentionné au I de l'article 9 sont mis en conformité avec celui-ci dans un délai de trois ans à compter de cette date. Les applications créées dans les six mois suivant la date de publication du référentiel sont mises en conformité avec celui-ci au plus tard douze mois après cette date.II. - Les systèmes d'information existant à la date de publication du référentiel général d'interopérabilité mentionné à l'article 11 sont mis en conformité avec celui-ci dans un délai de trois ans à compter de cette date. Les applications créées dans les six mois suivant la date de publication du référentiel sont mises en conformité avec celui-ci au plus tard douze mois après cette date."
+      "content": "I. - Les systèmes d'information existant à la date de publication du référentiel général de sécurité mentionné au I de l'article 9 sont mis en conformité avec celui-ci dans un délai de trois ans à compter de cette date. Les applications créées dans les six mois suivant la date de publication du référentiel sont mises en conformité avec celui-ci au plus tard douze mois après cette date.II. - Les systèmes d'information existant à la date de publication du référentiel général d'interopérabilité mentionné à l'article 11 sont mis en conformité avec celui-ci dans un délai de trois ans à compter de cette date. Les applications créées dans les six mois suivant la date de publication du référentiel sont mises en conformité avec celui-ci au plus tard douze mois après cette date.",
+      "valid_from": "2005-12-09"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les systèmes d'informations traitant d'informations relevant du secret de la défense nationale n'entrent pas dans le champ d'application de la présente ordonnance."
+      "content": "Les systèmes d'informations traitant d'informations relevant du secret de la défense nationale n'entrent pas dans le champ d'application de la présente ordonnance.",
+      "valid_from": "2005-12-09"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "La présente ordonnance, à l'exception de l'article 13, est applicable aux administrations de l'Etat, aux communes et à leurs établissements publics en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna."
+      "content": "La présente ordonnance, à l'exception de l'article 13, est applicable aux administrations de l'Etat, aux communes et à leurs établissements publics en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.",
+      "valid_from": "2015-10-16"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie, le ministre de l'outre-mer et le ministre délégué au budget et à la réforme de l'Etat, porte-parole du Gouvernement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie, le ministre de l'outre-mer et le ministre délégué au budget et à la réforme de l'Etat, porte-parole du Gouvernement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2005-12-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

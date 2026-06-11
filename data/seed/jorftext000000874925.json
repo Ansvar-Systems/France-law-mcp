@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le temps passé en permission renouvelable ou en congé d'armistice postérieurement au 27 novembre 1942 par les caporaux, quartiers-maîtres, matelots et soldats, liés au service par un contrat d'engagement ou de rengagement, est valable pour la constitution du droit à pension et la liquidation."
+      "content": "Le temps passé en permission renouvelable ou en congé d'armistice postérieurement au 27 novembre 1942 par les caporaux, quartiers-maîtres, matelots et soldats, liés au service par un contrat d'engagement ou de rengagement, est valable pour la constitution du droit à pension et la liquidation.",
+      "valid_from": "1961-12-23"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les mêmes dispositions sont applicables aux militaires autochtones mis d'office en congé à Madagascar au cours de l'année 1942."
+      "content": "Les mêmes dispositions sont applicables aux militaires autochtones mis d'office en congé à Madagascar au cours de l'année 1942.",
+      "valid_from": "1961-12-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

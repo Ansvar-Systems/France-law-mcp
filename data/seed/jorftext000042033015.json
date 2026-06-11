@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Par dérogation à l'article L. 222-2-4 du code du sport et aux stipulations conventionnelles applicables dans l'entreprise, l'établissement ou la branche, le contrat de travail, mentionné à l'article L. 222-2-3 du même code, des sportifs et entraineurs professionnels salariés participant à des compétitions au titre de la saison sportive 2019-2020, et dont le terme est initialement prévu à la date de fin de la saison sportive 2019/2020 fixée par la fédération ou, le cas échéant la ligue professionnelle, peut être prorogé pour une durée maximale de six mois à compter de cette date.Un avenant est conclu entre les parties pour proroger le contrat de travail mentionné à l'alinéa précédent."
+      "content": "Par dérogation à l'article L. 222-2-4 du code du sport et aux stipulations conventionnelles applicables dans l'entreprise, l'établissement ou la branche, le contrat de travail, mentionné à l'article L. 222-2-3 du même code, des sportifs et entraineurs professionnels salariés participant à des compétitions au titre de la saison sportive 2019-2020, et dont le terme est initialement prévu à la date de fin de la saison sportive 2019/2020 fixée par la fédération ou, le cas échéant la ligue professionnelle, peut être prorogé pour une durée maximale de six mois à compter de cette date.Un avenant est conclu entre les parties pour proroger le contrat de travail mentionné à l'alinéa précédent.",
+      "valid_from": "2020-06-25"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le Premier ministre et la ministre des sports sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française, et qui entrera en vigueur immédiatement."
+      "content": "Le Premier ministre et la ministre des sports sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française, et qui entrera en vigueur immédiatement.",
+      "valid_from": "2020-06-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

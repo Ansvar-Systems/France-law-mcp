@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "A titre expérimental, et pour une durée de deux ans après la promulgation de la présente loi, le Gouvernement peut autoriser la création de structures dénommées maisons de naissance , où des sages-femmes réalisent l'accouchement des femmes enceintes dont elles ont assuré le suivi de grossesse, dans les conditions prévues aux articles L. 4151-1 et L. 4151-3 du code de la santé publique. Ces autorisations portent sur une durée maximale de six ans.La maison de naissance doit être contiguë à une structure autorisée pour l'activité de gynécologie-obstétrique avec laquelle elle passe obligatoirement une convention et avec laquelle un accès direct est aménagé, permettant, notamment, un transfert rapide des parturientes en cas de complication. L'activité de la maison de naissance est comptabilisée avec celle de cette structure."
+      "content": "A titre expérimental, et pour une durée de deux ans après la promulgation de la présente loi, le Gouvernement peut autoriser la création de structures dénommées maisons de naissance , où des sages-femmes réalisent l'accouchement des femmes enceintes dont elles ont assuré le suivi de grossesse, dans les conditions prévues aux articles L. 4151-1 et L. 4151-3 du code de la santé publique. Ces autorisations portent sur une durée maximale de six ans.La maison de naissance doit être contiguë à une structure autorisée pour l'activité de gynécologie-obstétrique avec laquelle elle passe obligatoirement une convention et avec laquelle un accès direct est aménagé, permettant, notamment, un transfert rapide des parturientes en cas de complication. L'activité de la maison de naissance est comptabilisée avec celle de cette structure.",
+      "valid_from": "2020-06-19"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Pour la mise en œuvre de l'expérimentation, il est dérogé aux articles L. 1434-2, L. 1434-3 et L. 6122-1 du code de la santé publique.\n\nLes maisons de naissance ne sont pas des établissements de santé au sens de l'article L. 6111-1 du même code et ne sont pas soumises au chapitre II du titre II du livre III de la deuxième partie dudit code.\n\nIl peut être dérogé aux dispositions du code de la sécurité sociale relatives aux modalités d'application de la prise en charge de certains actes inscrits sur la liste prévue à l'article L. 162-1-7 de ce même code.\n\nPar dérogation à l'article L. 162-22-13 dudit code, les dépenses nécessaires au fonctionnement des maisons de naissance peuvent être prises en charge, en tout ou partie, par la dotation annuelle prévue à l'article L. 162-22-14 du même code."
+      "content": "Pour la mise en œuvre de l'expérimentation, il est dérogé aux articles L. 1434-2, L. 1434-3 et L. 6122-1 du code de la santé publique.\n\nLes maisons de naissance ne sont pas des établissements de santé au sens de l'article L. 6111-1 du même code et ne sont pas soumises au chapitre II du titre II du livre III de la deuxième partie dudit code.\n\nIl peut être dérogé aux dispositions du code de la sécurité sociale relatives aux modalités d'application de la prise en charge de certains actes inscrits sur la liste prévue à l'article L. 162-1-7 de ce même code.\n\nPar dérogation à l'article L. 162-22-13 dudit code, les dépenses nécessaires au fonctionnement des maisons de naissance peuvent être prises en charge, en tout ou partie, par la dotation annuelle prévue à l'article L. 162-22-14 du même code.",
+      "valid_from": "2016-01-28"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les ministres chargés de la santé et de la sécurité sociale arrêtent, en conformité avec un cahier des charges adopté par la Haute Autorité de santé et après avis conforme de celle-ci, la liste des maisons de naissance autorisées à fonctionner à titre expérimental.La suspension de fonctionnement d'une maison de naissance inscrite sur la liste peut être prononcée par le directeur général de l'agence régionale de santé pour les motifs et dans les conditions prévus à l'article L. 6122-13 du code de la santé publique. Le retrait d'inscription à la liste est prononcé par les ministres chargés de la santé et de la sécurité sociale en cas de manquement grave et immédiat à la sécurité ou lorsqu'il n'a pas été remédié aux manquements ayant motivé la suspension."
+      "content": "Les ministres chargés de la santé et de la sécurité sociale arrêtent, en conformité avec un cahier des charges adopté par la Haute Autorité de santé et après avis conforme de celle-ci, la liste des maisons de naissance autorisées à fonctionner à titre expérimental.La suspension de fonctionnement d'une maison de naissance inscrite sur la liste peut être prononcée par le directeur général de l'agence régionale de santé pour les motifs et dans les conditions prévus à l'article L. 6122-13 du code de la santé publique. Le retrait d'inscription à la liste est prononcé par les ministres chargés de la santé et de la sécurité sociale en cas de manquement grave et immédiat à la sécurité ou lorsqu'il n'a pas été remédié aux manquements ayant motivé la suspension.",
+      "valid_from": "2013-12-08"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Dix-huit mois avant le terme de la dernière autorisation attribuée à une maison de naissance, le Gouvernement adresse au Parlement une évaluation de l'expérimentation."
+      "content": "Dix-huit mois avant le terme de la dernière autorisation attribuée à une maison de naissance, le Gouvernement adresse au Parlement une évaluation de l'expérimentation.",
+      "valid_from": "2020-06-19"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les conditions de l'expérimentation, et notamment les conditions d'établissement de la liste des maisons de naissance autorisées à fonctionner, les conditions de prise en charge par l'assurance maladie de la rémunération des professionnels et les conditions spécifiques de fonctionnement des maisons de naissance sont fixées par décret en Conseil d'Etat."
+      "content": "Les conditions de l'expérimentation, et notamment les conditions d'établissement de la liste des maisons de naissance autorisées à fonctionner, les conditions de prise en charge par l'assurance maladie de la rémunération des professionnels et les conditions spécifiques de fonctionnement des maisons de naissance sont fixées par décret en Conseil d'Etat.",
+      "valid_from": "2013-12-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

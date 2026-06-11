@@ -12,85 +12,105 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les notaires cessent leurs fonctions lorsqu'ils atteignent l'âge de soixante-dix ans. Sur autorisation du ministre de la justice, ils peuvent continuer d'exercer leurs fonctions jusqu'au jour où leur successeur prête serment, pour une durée qui ne peut excéder douze mois."
+      "content": "Les notaires cessent leurs fonctions lorsqu'ils atteignent l'âge de soixante-dix ans. Sur autorisation du ministre de la justice, ils peuvent continuer d'exercer leurs fonctions jusqu'au jour où leur successeur prête serment, pour une durée qui ne peut excéder douze mois.",
+      "valid_from": "2016-08-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Ils sont tenus de prêter leur ministère lorsqu'ils en sont requis."
+      "content": "Ils sont tenus de prêter leur ministère lorsqu'ils en sont requis.",
+      "valid_from": "1803-03-16"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Toute personne remplissant les conditions de nationalité, d'aptitude, d'honorabilité, d'expérience et d'assurance est nommée par le ministre de la justice en qualité de notaire dans les zones où l'implantation d'offices de notaire apparaît utile pour renforcer la proximité ou l'offre de services.\n\nLa nomination peut toutefois être refusée dans les cas prévus au III de l'article 52 de la loi n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques.\n\nUn appel à manifestation d'intérêt est organisé dans les zones identifiées en application du II du même article 52.\n\nUn décret en Conseil d'Etat fixe les modalités d'application du présent article."
+      "content": "Toute personne remplissant les conditions de nationalité, d'aptitude, d'honorabilité, d'expérience et d'assurance est nommée par le ministre de la justice en qualité de notaire dans les zones où l'implantation d'offices de notaire apparaît utile pour renforcer la proximité ou l'offre de services.\n\nLa nomination peut toutefois être refusée dans les cas prévus au III de l'article 52 de la loi n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques.\n\nUn appel à manifestation d'intérêt est organisé dans les zones identifiées en application du II du même article 52.\n\nUn décret en Conseil d'Etat fixe les modalités d'application du présent article.",
+      "valid_from": "2016-02-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "A la demande de l'intéressé, les agents diplomatiques et consulaires peuvent faire appel à un notaire pour l'exercice de leurs pouvoirs notariaux. Un décret en Conseil d'Etat précise les modalités de rémunération du notaire par l'intéressé."
+      "content": "A la demande de l'intéressé, les agents diplomatiques et consulaires peuvent faire appel à un notaire pour l'exercice de leurs pouvoirs notariaux. Un décret en Conseil d'Etat précise les modalités de rémunération du notaire par l'intéressé.",
+      "valid_from": "2011-03-30"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les notaires contribuent à la diffusion des informations relatives aux mutations d'immeubles à titre onéreux. Ils transmettent au conseil supérieur du notariat les données nécessaires à l'exercice de cette mission de service public dans des conditions précisées par décret en Conseil d'Etat."
+      "content": "Les notaires contribuent à la diffusion des informations relatives aux mutations d'immeubles à titre onéreux. Ils transmettent au conseil supérieur du notariat les données nécessaires à l'exercice de cette mission de service public dans des conditions précisées par décret en Conseil d'Etat.",
+      "valid_from": "2011-03-30"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les fonctions de notaires sont incompatibles avec celles de juges, commissaires du Gouvernement près les tribunaux, leurs substituts, greffiers, huissiers, préposés à la recette des contributions directes et indirectes, juges, greffiers et huissiers des justices de paix (1), commissaires de police et commissaires aux ventes."
+      "content": "Les fonctions de notaires sont incompatibles avec celles de juges, commissaires du Gouvernement près les tribunaux, leurs substituts, greffiers, huissiers, préposés à la recette des contributions directes et indirectes, juges, greffiers et huissiers des justices de paix (1), commissaires de police et commissaires aux ventes.",
+      "valid_from": "2012-01-01"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les actes notariés pourront être reçus par un seul notaire, sauf les exceptions ci-après :1° Les testaments resteront soumis aux règles spéciales du code civil ;2° Les actes contenant révocation de testament et les procurations données pour révocation de testament seront, à peine de nullité, reçus par deux notaires ou par un notaire assisté de deux témoins.La présence du second notaire ou des deux témoins n'est requise qu'au moment de la lecture de l'acte par le notaire et de la signature des parties ou de leur déclaration de ne savoir ou de ne pouvoir signer, et la mention en sera faite dans l'acte, à peine de nullité.3° Les actes dans lesquels les parties ou l'une d'elles ne sauront ou ne pourront signer seront soumis à la signature d'un second notaire ou de deux témoins."
+      "content": "Les actes notariés pourront être reçus par un seul notaire, sauf les exceptions ci-après :1° Les testaments resteront soumis aux règles spéciales du code civil ;2° Les actes contenant révocation de testament et les procurations données pour révocation de testament seront, à peine de nullité, reçus par deux notaires ou par un notaire assisté de deux témoins.La présence du second notaire ou des deux témoins n'est requise qu'au moment de la lecture de l'acte par le notaire et de la signature des parties ou de leur déclaration de ne savoir ou de ne pouvoir signer, et la mention en sera faite dans l'acte, à peine de nullité.3° Les actes dans lesquels les parties ou l'une d'elles ne sauront ou ne pourront signer seront soumis à la signature d'un second notaire ou de deux témoins.",
+      "valid_from": "1971-12-03"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Le second notaire requis par l'article 930 du code civil est désigné par le président de la chambre des notaires."
+      "content": "Le second notaire requis par l'article 930 du code civil est désigné par le président de la chambre des notaires.",
+      "valid_from": "2007-01-01"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Tous actes notariés feront foi en justice, et seront exécutoires dans toute l'étendue de la République.Néanmoins, en cas de plainte en faux principal, l'exécution de l'acte argué de faux sera suspendue par la déclaration du jury d'accusation, prononçant qu'il y a lieu à accusation ; en cas d'inscription de faux faite incidemment, les tribunaux pourront, suivant la gravité des circonstances, suspendre provisoirement l'exécution de l'acte."
+      "content": "Tous actes notariés feront foi en justice, et seront exécutoires dans toute l'étendue de la République.Néanmoins, en cas de plainte en faux principal, l'exécution de l'acte argué de faux sera suspendue par la déclaration du jury d'accusation, prononçant qu'il y a lieu à accusation ; en cas d'inscription de faux faite incidemment, les tribunaux pourront, suivant la gravité des circonstances, suspendre provisoirement l'exécution de l'acte.",
+      "valid_from": "1803-03-16"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Les notaires ne pourront également, sans l'ordonnance du président du   tribunal judiciaire, délivrer expédition ni donner connaissance des actes à d'autres qu'aux personnes intéressées en nom direct, héritiers ou ayants droit, à peine de dommages-intérêts, d'une amende de 15 euros, et d'être en cas de récidive, suspendus de leurs fonctions pendant trois mois, sauf néanmoins l'exécution des lois et règlements sur le droit d'enregistrement et de ceux relatifs aux actes soumis à une publication."
+      "content": "Les notaires ne pourront également, sans l'ordonnance du président du   tribunal judiciaire, délivrer expédition ni donner connaissance des actes à d'autres qu'aux personnes intéressées en nom direct, héritiers ou ayants droit, à peine de dommages-intérêts, d'une amende de 15 euros, et d'être en cas de récidive, suspendus de leurs fonctions pendant trois mois, sauf néanmoins l'exécution des lois et règlements sur le droit d'enregistrement et de ceux relatifs aux actes soumis à une publication.",
+      "valid_from": "2020-01-01"
     },
     {
       "provision_ref": "art52",
       "section": "52",
       "title": "Article 52",
-      "content": "Les notaires des départements du Haut-Rhin, du Bas-Rhin et de la Moselle sont remplacés lorsqu'ils atteignent l'âge de soixante-dix ans. Ils continuent d'exercer provisoirement leurs fonctions jusqu'au jour où leur successeur prête serment, pour une durée qui ne peut excéder douze mois."
+      "content": "Les notaires des départements du Haut-Rhin, du Bas-Rhin et de la Moselle sont remplacés lorsqu'ils atteignent l'âge de soixante-dix ans. Ils continuent d'exercer provisoirement leurs fonctions jusqu'au jour où leur successeur prête serment, pour une durée qui ne peut excéder douze mois.",
+      "valid_from": "2015-08-08"
     },
     {
       "provision_ref": "art67",
       "section": "67",
       "title": "Article 67",
-      "content": "Les modalités d'application de la présente loi sont fixées par décret."
+      "content": "Les modalités d'application de la présente loi sont fixées par décret.",
+      "valid_from": "1955-05-22"
     },
     {
       "provision_ref": "art68",
       "section": "68",
       "title": "Article 68",
-      "content": "Pour l'application de la loi à Saint-Pierre-et-Miquelon, les mots : \"tribunal d'instance\" et : \"tribunal de grande instance\" sont remplacés par les mots : \"tribunal de première instance\". Dans l'article 7, les mots : \"greffiers\" et : \"greffiers et huissiers de justice de paix\" sont supprimés."
+      "content": "Pour l'application de la loi à Saint-Pierre-et-Miquelon, les mots : \"tribunal d'instance\" et : \"tribunal de grande instance\" sont remplacés par les mots : \"tribunal de première instance\". Dans l'article 7, les mots : \"greffiers\" et : \"greffiers et huissiers de justice de paix\" sont supprimés.",
+      "valid_from": "2015-08-08"
     },
     {
       "provision_ref": "art69",
       "section": "69",
       "title": "Article 69",
-      "content": "La loi du 6 octobre 1791 et toutes autres sont abrogées en ce qu'elles ont de contraire à la présente."
+      "content": "La loi du 6 octobre 1791 et toutes autres sont abrogées en ce qu'elles ont de contraire à la présente.",
+      "valid_from": "1803-03-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

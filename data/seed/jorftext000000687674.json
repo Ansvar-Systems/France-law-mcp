@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont amnistiés les délits et contraventions de police commis avant le 1er septembre 1972, à l'occasion de conflits relatifs à des problèmes agricoles, ruraux, artisanaux ou commerciaux ou de conflits du travail."
+      "content": "Sont amnistiés les délits et contraventions de police commis avant le 1er septembre 1972, à l'occasion de conflits relatifs à des problèmes agricoles, ruraux, artisanaux ou commerciaux ou de conflits du travail.",
+      "valid_from": "1972-12-22"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les contestations relatives à l'application des dispositions de l'article 1er sont soumises aux règles de compétence et de procédure prévues à l'article 11 de la loi n° 69-700 du 30 juin 1969 portant amnistie."
+      "content": "Les contestations relatives à l'application des dispositions de l'article 1er sont soumises aux règles de compétence et de procédure prévues à l'article 11 de la loi n° 69-700 du 30 juin 1969 portant amnistie.",
+      "valid_from": "1972-12-22"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Sont amnistiés les faits commis avant le 1er septembre 1972, à l'occasion des conflits mentionnés à l'article 1er en tant qu'ils constituent des fautes passibles de sanctions disciplinaires ou professionnelles.Toutefois, si ces mêmes faits ont donné lieu à une condamnation pénale, l'amnistie des sanctions disciplinaires ou professionnelles est subordonnée à l'amnistie de la condamnation pénale.Sont exclus du bénéfice de l'alinéa premier du présent article les faits constituant des manquements à la probité, aux bonnes moeurs ou à l'honneur.Les contestations sont soumises aux règles précisées à l'article 15 de la loi n° 69-700 du 30 juin 1969 portant amnistie."
+      "content": "Sont amnistiés les faits commis avant le 1er septembre 1972, à l'occasion des conflits mentionnés à l'article 1er en tant qu'ils constituent des fautes passibles de sanctions disciplinaires ou professionnelles.Toutefois, si ces mêmes faits ont donné lieu à une condamnation pénale, l'amnistie des sanctions disciplinaires ou professionnelles est subordonnée à l'amnistie de la condamnation pénale.Sont exclus du bénéfice de l'alinéa premier du présent article les faits constituant des manquements à la probité, aux bonnes moeurs ou à l'honneur.Les contestations sont soumises aux règles précisées à l'article 15 de la loi n° 69-700 du 30 juin 1969 portant amnistie.",
+      "valid_from": "1972-12-22"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les effets de l'amnistie prévue par la présente loi sont ceux que définissent les articles 16 à 23 de la loi n° 69-700 du 30 juin 1969 portant amnistie.Pour l'application du deuxième alinéa de l'article 23, la date du 20 juin 1969 est remplacée par celle du 1er septembre 1972."
+      "content": "Les effets de l'amnistie prévue par la présente loi sont ceux que définissent les articles 16 à 23 de la loi n° 69-700 du 30 juin 1969 portant amnistie.Pour l'application du deuxième alinéa de l'article 23, la date du 20 juin 1969 est remplacée par celle du 1er septembre 1972.",
+      "valid_from": "1972-12-22"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Sont exclues du bénéfice de l'amnistie prévue par la présente loi :1° Les infractions à la législation et à la réglementation en matière fiscale ou douanière ainsi qu'en matière de changes ;2° Les infractions à la législation et à la réglementation du travail ;3° Les infractions prévues par les articles 341 et 342 du code pénal réprimant l'arrestation, la détention ou la séquestration des personnes."
+      "content": "Sont exclues du bénéfice de l'amnistie prévue par la présente loi :1° Les infractions à la législation et à la réglementation en matière fiscale ou douanière ainsi qu'en matière de changes ;2° Les infractions à la législation et à la réglementation du travail ;3° Les infractions prévues par les articles 341 et 342 du code pénal réprimant l'arrestation, la détention ou la séquestration des personnes.",
+      "valid_from": "1972-12-22"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "La présente loi est applicable aux territoires d'outre-mer."
+      "content": "La présente loi est applicable aux territoires d'outre-mer.",
+      "valid_from": "1972-12-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

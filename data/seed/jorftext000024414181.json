@@ -12,19 +12,28 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "III. ― Les conventions pluriannuelles d'objectifs et de moyens prévues à l'article L. 146-4-2 du code de l'action sociale et des familles doivent être signées au plus tard le 1er janvier de la deuxième année suivant la date de promulgation de la présente loi. Elles entrent en vigueur au 1er janvier de cette même année."
+      "content": "III. ― Les conventions pluriannuelles d'objectifs et de moyens prévues à l'article L. 146-4-2 du code de l'action sociale et des familles doivent être signées au plus tard le 1er janvier de la deuxième année suivant la date de promulgation de la présente loi. Elles entrent en vigueur au 1er janvier de cette même année.",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2011-639 DC du 28 juillet 2011.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2011-639 DC du 28 juillet 2011.]",
+      "valid_from": "2011-07-31"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "II. ― Dans les trois ans suivant l'entrée en vigueur de la présente loi, le  Gouvernement remet au Parlement un rapport sur l'application du dispositif visé  au I."
+      "content": "II. ― Dans les trois ans suivant l'entrée en vigueur de la présente loi, le  Gouvernement remet au Parlement un rapport sur l'application du dispositif visé  au I.",
+      "valid_from": "2011-07-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

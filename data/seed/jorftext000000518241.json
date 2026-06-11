@@ -12,91 +12,112 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les personnes physiques peuvent déduire de leur revenu net global, dans les conditions et les limites définies par le présent titre, le montant des achats nets de valeurs françaises qu'elles effectuent entre le 1er juin 1978 et le 31 décembre 1981."
+      "content": "Les personnes physiques peuvent déduire de leur revenu net global, dans les conditions et les limites définies par le présent titre, le montant des achats nets de valeurs françaises qu'elles effectuent entre le 1er juin 1978 et le 31 décembre 1981.",
+      "valid_from": "1978-07-14"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La somme déductible est égale à l'excédent net annuel, apprécié par foyer fiscal, des achats de valeurs mentionnées à l'article 3 sur les cessions à titre onéreux de ces mêmes valeurs, dans la limite annuelle de 5000 F par foyer, augmentée de 500 F pour chacun des deux premiers enfants à charge et de 1000 F par enfant à charge à compter du troisième. Pour l'année 1978, cet excédent est calculé sur la période du 1er juin au 31 décembre.Lorsque, au cours d'une des quatres année suivant celle au titre de laquelle la première déduction a été pratiquée, le montant des cessions est supérieur à celui des achats, la différence doit être ajoutée par le contribuable à son revenu imposable de l'année dans la limite des déductions opérées au titre des quatre années antérieures. Cette différence est diminuée, s'il y a lieu, de la partie de l'excédent net qui a dépassé au cours des quatre années précédentes les limites de déduction autorisées. Si cette différence n'est pas ajoutée au revenu, le supplément d'impôt exigible est assorti des intérêts de retard au taux prévu à l'article 1728 du code général des impôts.Les dispositions de l'alinéa précédent ne s'appliquent pas dans les cas suivants :- licenciement du contribuable ;- invalidité du contribuable ou de son conjoint correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 310 du code de la sécurité sociale ;- décès du contribuable ou de son conjoint."
+      "content": "La somme déductible est égale à l'excédent net annuel, apprécié par foyer fiscal, des achats de valeurs mentionnées à l'article 3 sur les cessions à titre onéreux de ces mêmes valeurs, dans la limite annuelle de 5000 F par foyer, augmentée de 500 F pour chacun des deux premiers enfants à charge et de 1000 F par enfant à charge à compter du troisième. Pour l'année 1978, cet excédent est calculé sur la période du 1er juin au 31 décembre.Lorsque, au cours d'une des quatres année suivant celle au titre de laquelle la première déduction a été pratiquée, le montant des cessions est supérieur à celui des achats, la différence doit être ajoutée par le contribuable à son revenu imposable de l'année dans la limite des déductions opérées au titre des quatre années antérieures. Cette différence est diminuée, s'il y a lieu, de la partie de l'excédent net qui a dépassé au cours des quatre années précédentes les limites de déduction autorisées. Si cette différence n'est pas ajoutée au revenu, le supplément d'impôt exigible est assorti des intérêts de retard au taux prévu à l'article 1728 du code général des impôts.Les dispositions de l'alinéa précédent ne s'appliquent pas dans les cas suivants :- licenciement du contribuable ;- invalidité du contribuable ou de son conjoint correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 310 du code de la sécurité sociale ;- décès du contribuable ou de son conjoint.",
+      "valid_from": "1978-07-14"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les valeurs dont l'achat ouvre droit au bénéfice de la présente loi sont les suivantes :- les actions de sociétés françaises inscrites à la cote officielle ou au compartiment spécial du hors cote des bourses françaises de valeurs ou qui, inscrites au hors cote des bourses françaises de valeurs, font l'objet de transactions d'une importance et d'une fréquence qui seront fixées par décret. Sont toutefois exclues les actions de sociétés d'investissement dont les actifs ne sont pas composés pour 75 p. 100 d'actions de sociétés françaises ;- les actions de sociétés françaises, autres que celles des sociétés d'investissement, ne répondant pas aux conditions prévues à l'alinéa précédent lorsqu'elles sont émises à l'occasion d'une opération de constitution ou d'augmentation de capital en numéraire réalisée après le 1er juin 1978, sous réserve qu'elles soient matériellement créées ;- les parts de sociétés à responsabilité limitée souscrites à l'occasion d'une opération de constitution ou d'augmentation de capital en numéraire réalisée après le 1er juin 1978 ;- les droits ou bons de souscription ou d'attribution attachés à ces actions ;- les actions de sociétés d'investissement à capital variable sous réserve que ces sociétés emploient plus de 60 p. 100 de leurs actifs en valeurs et droits mentionnés aux deuxième, troisième et cinquième alinéas du présent article.- les parts de fonds communs de placements sous réserve que ces fonds emploient plus de 75 p. 100 de leurs actifs en valeurs et droits mentionnés aux alinéas précédents.Jusqu'au 31 décembre 1981, les capitaux recueillis par une SICAV au cours du dernier mois de l'année civile peuvent être intégralement placés en valeurs à court terme émises ou garanties par l'Etat sous condition d'être investis conformément aux normes précisées dans les alinéas précédents avant la fin du premier trimestre de l'année suivante.Les conditions dans lesquelles les SICAV font apparaître ces placements dans leurs situations comptables seront précisées par décret."
+      "content": "Les valeurs dont l'achat ouvre droit au bénéfice de la présente loi sont les suivantes :- les actions de sociétés françaises inscrites à la cote officielle ou au compartiment spécial du hors cote des bourses françaises de valeurs ou qui, inscrites au hors cote des bourses françaises de valeurs, font l'objet de transactions d'une importance et d'une fréquence qui seront fixées par décret. Sont toutefois exclues les actions de sociétés d'investissement dont les actifs ne sont pas composés pour 75 p. 100 d'actions de sociétés françaises ;- les actions de sociétés françaises, autres que celles des sociétés d'investissement, ne répondant pas aux conditions prévues à l'alinéa précédent lorsqu'elles sont émises à l'occasion d'une opération de constitution ou d'augmentation de capital en numéraire réalisée après le 1er juin 1978, sous réserve qu'elles soient matériellement créées ;- les parts de sociétés à responsabilité limitée souscrites à l'occasion d'une opération de constitution ou d'augmentation de capital en numéraire réalisée après le 1er juin 1978 ;- les droits ou bons de souscription ou d'attribution attachés à ces actions ;- les actions de sociétés d'investissement à capital variable sous réserve que ces sociétés emploient plus de 60 p. 100 de leurs actifs en valeurs et droits mentionnés aux deuxième, troisième et cinquième alinéas du présent article.- les parts de fonds communs de placements sous réserve que ces fonds emploient plus de 75 p. 100 de leurs actifs en valeurs et droits mentionnés aux alinéas précédents.Jusqu'au 31 décembre 1981, les capitaux recueillis par une SICAV au cours du dernier mois de l'année civile peuvent être intégralement placés en valeurs à court terme émises ou garanties par l'Etat sous condition d'être investis conformément aux normes précisées dans les alinéas précédents avant la fin du premier trimestre de l'année suivante.Les conditions dans lesquelles les SICAV font apparaître ces placements dans leurs situations comptables seront précisées par décret.",
+      "valid_from": "1979-01-04"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Pour bénéficier de la déduction prévue à l'article 2, le contribuable devra :- déposer au préalable chez un ou plusieurs intermédiaires agréés l'ensemble des valeurs mentionnées à l'article 3 ;- maintenir l'ensemble des valeurs en dépôt pendant les quatre années suivant celle au titre de laquelle la première déduction a été pratiquée ;- joindre à sa déclaration de revenus la liste de ces intermédiaires agréés et l'état faisant apparaître le solde annuel des achats et des ventes que lui adresse chacun de ces intermédiaires."
+      "content": "Pour bénéficier de la déduction prévue à l'article 2, le contribuable devra :- déposer au préalable chez un ou plusieurs intermédiaires agréés l'ensemble des valeurs mentionnées à l'article 3 ;- maintenir l'ensemble des valeurs en dépôt pendant les quatre années suivant celle au titre de laquelle la première déduction a été pratiquée ;- joindre à sa déclaration de revenus la liste de ces intermédiaires agréés et l'état faisant apparaître le solde annuel des achats et des ventes que lui adresse chacun de ces intermédiaires.",
+      "valid_from": "1978-07-14"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Lorsque, depuis le 1er juin 1978, le montant total des cessions a été supérieur à celui des achats, toute déduction est subordonnée à la condition que le contribuable ait préalablement effectué des achats de valeurs pour un montant net équivalent à cette différence. Ces achats ne sont pas pris en compte pour le calcul des droits à déduction."
+      "content": "Lorsque, depuis le 1er juin 1978, le montant total des cessions a été supérieur à celui des achats, toute déduction est subordonnée à la condition que le contribuable ait préalablement effectué des achats de valeurs pour un montant net équivalent à cette différence. Ces achats ne sont pas pris en compte pour le calcul des droits à déduction.",
+      "valid_from": "1978-07-14"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Lorsque le contribuable ou son conjoint a atteint l'âge de cinquante ans au plus tard le 31 décembre 1981 et que la première déduction a été pratiquée dans les délais fixés à l'article 1er, le bénéfice de la présente loi est prolongé jusqu'à la date de départ en retraite de l'un des époux et au maximum pendant quinze ans.A partir de la cinquième année de la déduction, la limite de 5000 F fixée à l'article 2 est portée à 6000 F. En outre, l'obligation de réintégration dans le revenu imposable prévue par le deuxième alinéa de l'article 2 et les dispositions de l'article 5 s'appliquent aux quatre années suivant celle au titre de laquelle une déduction a été pratiquée."
+      "content": "Lorsque le contribuable ou son conjoint a atteint l'âge de cinquante ans au plus tard le 31 décembre 1981 et que la première déduction a été pratiquée dans les délais fixés à l'article 1er, le bénéfice de la présente loi est prolongé jusqu'à la date de départ en retraite de l'un des époux et au maximum pendant quinze ans.A partir de la cinquième année de la déduction, la limite de 5000 F fixée à l'article 2 est portée à 6000 F. En outre, l'obligation de réintégration dans le revenu imposable prévue par le deuxième alinéa de l'article 2 et les dispositions de l'article 5 s'appliquent aux quatre années suivant celle au titre de laquelle une déduction a été pratiquée.",
+      "valid_from": "1978-07-14"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les contribuables qui, au cours d'une année, utilisent les possibilités de déduction ouvertes par la présente loi ne peuvent cumuler le bénéfice de cette déduction avec l'abattement prévu à l'article 57 modifié de la loi de finances pour 1977 que dans la limite d'un total de 3000 F.Les valeurs acquises dans le cadre d'un engagement d'épargne à long terme ne sont pas prises en considération pour l'application du régime de détaxation de l'épargne investie en actions, sauf si le contribuable renonce pour l'année en cours et les années suivantes au bénéfice de l'exonération des produits des placements effectués en vertu de son engagement."
+      "content": "Les contribuables qui, au cours d'une année, utilisent les possibilités de déduction ouvertes par la présente loi ne peuvent cumuler le bénéfice de cette déduction avec l'abattement prévu à l'article 57 modifié de la loi de finances pour 1977 que dans la limite d'un total de 3000 F.Les valeurs acquises dans le cadre d'un engagement d'épargne à long terme ne sont pas prises en considération pour l'application du régime de détaxation de l'épargne investie en actions, sauf si le contribuable renonce pour l'année en cours et les années suivantes au bénéfice de l'exonération des produits des placements effectués en vertu de son engagement.",
+      "valid_from": "1978-07-14"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Un décret en Conseil d'Etat fixe les modalités d'application du présent titre."
+      "content": "Un décret en Conseil d'Etat fixe les modalités d'application du présent titre.",
+      "valid_from": "1978-07-14"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "La date limite du 31 décembre 1980, prévue par le premier alinéa de l'article 60 I de la loi de finances pour 1977, n° 76-1232 du 29 décembre 1976, pour les constitutions de sociétés ou les augmentations de capital ouvrant droit au bénéfice de la déduction des dividendes est reportée au 31 décembre 1981."
+      "content": "La date limite du 31 décembre 1980, prévue par le premier alinéa de l'article 60 I de la loi de finances pour 1977, n° 76-1232 du 29 décembre 1976, pour les constitutions de sociétés ou les augmentations de capital ouvrant droit au bénéfice de la déduction des dividendes est reportée au 31 décembre 1981.",
+      "valid_from": "1978-07-14"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Le délai pendant lequel peut être exercée la faculté de déduction des dividendes mentionné à l'article 9 ci-dessus, fixé aux cinq premiers exercices suivant la constitution de la société ou la réalisation de l'augmentation de capital par le deuxième alinéa de l'article 60 I de la loi de finances pour 1977, n° 76-1232 du 29 décembre 1976, est porté aux sept premiers exercices. Ce délai est étendu aux dix premiers exercices pour les augmentations de capital par émission d'actions à dividende prioritaire sans droit de vote prévues aux articles 14 et suivants."
+      "content": "Le délai pendant lequel peut être exercée la faculté de déduction des dividendes mentionné à l'article 9 ci-dessus, fixé aux cinq premiers exercices suivant la constitution de la société ou la réalisation de l'augmentation de capital par le deuxième alinéa de l'article 60 I de la loi de finances pour 1977, n° 76-1232 du 29 décembre 1976, est porté aux sept premiers exercices. Ce délai est étendu aux dix premiers exercices pour les augmentations de capital par émission d'actions à dividende prioritaire sans droit de vote prévues aux articles 14 et suivants.",
+      "valid_from": "1978-07-14"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Le bénéfice du régime de déduction des dividendes prévu par l'article 60 de la loi de finances pour 1977 susmentionnée est étendu à l'ensemble des sociétés françaises non cotées en Bourse et aux sociétés à responsabilité limitée qui se constituent ou qui procèdent à des augmentations de capital à compter du 1er juin 1978."
+      "content": "Le bénéfice du régime de déduction des dividendes prévu par l'article 60 de la loi de finances pour 1977 susmentionnée est étendu à l'ensemble des sociétés françaises non cotées en Bourse et aux sociétés à responsabilité limitée qui se constituent ou qui procèdent à des augmentations de capital à compter du 1er juin 1978.",
+      "valid_from": "1978-07-14"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Pour les augmentations de capital mentionnées à l'article précédent et dans la même limite, le taux réduit du droit d'enregistrement sur les apports mobiliers prévu à l'article 812 I 2° du code général des impôts est ramené à 2 p. 100 lorsque, conformément aux dispositions de cet article, ces opérations sont accompagnées, précédées ou suivies d'une augmentation de capital en numéraire d'un montant au moins égal et lorsque l'acte qui les constate est enregistré avant le 1er janvier 1982."
+      "content": "Pour les augmentations de capital mentionnées à l'article précédent et dans la même limite, le taux réduit du droit d'enregistrement sur les apports mobiliers prévu à l'article 812 I 2° du code général des impôts est ramené à 2 p. 100 lorsque, conformément aux dispositions de cet article, ces opérations sont accompagnées, précédées ou suivies d'une augmentation de capital en numéraire d'un montant au moins égal et lorsque l'acte qui les constate est enregistré avant le 1er janvier 1982.",
+      "valid_from": "1978-07-14"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Les actions à dividende prioritaire sans droit de vote ne sont pas considérées comme des titres de participation au sens de l'article 145 du code général des impôts.Elles ne sont pas prises en considération pour apprécier si la condition du pourcentage prévue à l'article 209 sexies du code général des impôts est remplie."
+      "content": "Les actions à dividende prioritaire sans droit de vote ne sont pas considérées comme des titres de participation au sens de l'article 145 du code général des impôts.Elles ne sont pas prises en considération pour apprécier si la condition du pourcentage prévue à l'article 209 sexies du code général des impôts est remplie.",
+      "valid_from": "1978-07-14"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "(alinéa abrogé).Lorsque l'entreprise débitrice fait l'objet d'une procédure de suspension provisoire des poursuites et d'apurement collectif du passif, le remboursement des prêts participatifs et le paiement des rémunérations prévues sont suspendus pendant toute la période nécessaire à la réalisation des engagements pris par le débiteur à l'égard de ses créanciers au moment de l'homologation du plan."
+      "content": "(alinéa abrogé).Lorsque l'entreprise débitrice fait l'objet d'une procédure de suspension provisoire des poursuites et d'apurement collectif du passif, le remboursement des prêts participatifs et le paiement des rémunérations prévues sont suspendus pendant toute la période nécessaire à la réalisation des engagements pris par le débiteur à l'égard de ses créanciers au moment de l'homologation du plan.",
+      "valid_from": "2001-01-01"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "Pour la détermination des bénéfices imposables à l'impôt sur le revenu ou à l'impôt sur les sociétés, la déduction des sommes versées en rémunération des prêts participatifs n'est admise que dans la limite fixée par l'article 39 I 3° du code général des impôts."
+      "content": "Pour la détermination des bénéfices imposables à l'impôt sur le revenu ou à l'impôt sur les sociétés, la déduction des sommes versées en rémunération des prêts participatifs n'est admise que dans la limite fixée par l'article 39 I 3° du code général des impôts.",
+      "valid_from": "1978-07-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

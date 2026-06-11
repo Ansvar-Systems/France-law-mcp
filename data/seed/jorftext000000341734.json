@@ -12,67 +12,85 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "I. - Les articles L.O. 163-2 à L.O. 163-4 du code électoral sont abrogés.II. -paragraphe modificateur du code électoralIII. -paragraphe modificateur du code électoralIV. -paragraphe modificateur du code électoral"
+      "content": "I. - Les articles L.O. 163-2 à L.O. 163-4 du code électoral sont abrogés.II. -paragraphe modificateur du code électoralIII. -paragraphe modificateur du code électoralIV. -paragraphe modificateur du code électoral",
+      "valid_from": "1990-09-01"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Dans tous les textes législatifs et réglementaires, la référence à \"l'Assemblée des communautés européennes\" est remplacée par la référence au \"Parlement européen\"."
+      "content": "Dans tous les textes législatifs et réglementaires, la référence à \"l'Assemblée des communautés européennes\" est remplacée par la référence au \"Parlement européen\".",
+      "valid_from": "1990-01-16"
     },
     {
       "provision_ref": "art18bis",
       "section": "18bis",
       "title": "Article 18bis",
-      "content": "I. - La commission nationale des comptes de campagne et des financements politiques, créée à l'article 1er, authentifie sur demande des agents des impôts les justificatifs des dons prévus à l'article L. 52-8 du code électoral dont le contribuable demande la déduction de son imposition et à l'article 11-4 de la loi n° 88-227 du 11 mars 1988.II. - La commission communique à l'administration des impôts les infractions qu'elle relève en ce qui concerne la déductibilité des dons prévus au I. \""
+      "content": "I. - La commission nationale des comptes de campagne et des financements politiques, créée à l'article 1er, authentifie sur demande des agents des impôts les justificatifs des dons prévus à l'article L. 52-8 du code électoral dont le contribuable demande la déduction de son imposition et à l'article 11-4 de la loi n° 88-227 du 11 mars 1988.II. - La commission communique à l'administration des impôts les infractions qu'elle relève en ce qui concerne la déductibilité des dons prévus au I. \"",
+      "valid_from": "1992-12-31"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Sauf en cas d'enrichissement personnel de leurs auteurs, sont amnistiées toutes infractions commises avant le 15 juin 1989 en relation avec le financement direct ou indirect de campagnes électorales ou de partis et de groupements politiques, à l'exclusion des infractions prévues par les articles 132 à 138 et 175 à 179 du code pénal et de celles commises par une personne investie à cette date d'un mandat de parlementaire national.\n\nLes dispositions de la loi n° 88-828 du 20 juillet 1988 portant amnistie sont applicables en ce qui concerne la constatation et les effets de l'amnistie et les contestations relatives à ceux-ci."
+      "content": "Sauf en cas d'enrichissement personnel de leurs auteurs, sont amnistiées toutes infractions commises avant le 15 juin 1989 en relation avec le financement direct ou indirect de campagnes électorales ou de partis et de groupements politiques, à l'exclusion des infractions prévues par les articles 132 à 138 et 175 à 179 du code pénal et de celles commises par une personne investie à cette date d'un mandat de parlementaire national.\n\nLes dispositions de la loi n° 88-828 du 20 juillet 1988 portant amnistie sont applicables en ce qui concerne la constatation et les effets de l'amnistie et les contestations relatives à ceux-ci.",
+      "valid_from": "1990-01-16"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "I. -abrogé par l'article 23 de la loi 95-65 du 19 janvier 1995II. - Paragraphe modificateur"
+      "content": "I. -abrogé par l'article 23 de la loi 95-65 du 19 janvier 1995II. - Paragraphe modificateur",
+      "valid_from": "1995-01-21"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Les tribunaux correctionnels peuvent prononcer l'exclusion des marchés publics pour une durée qui ne peut excéder cinq ans à l'encontre des personnes physiques ou morales ayant versé des dons ou consenti des avantages en violation des dispositions de l'article L. 52-8 du code électoral et de l'article 11-4 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique.L'exclusion des marchés publics comporte l'interdiction de participer directement ou indirectement à tout marché conclu par l'Etat et ses établissements publics, les collectivités territoriales, leurs groupements et leurs établissements publics ainsi que par les entreprises concédées ou par les collectivités territoriales ou leurs groupements."
+      "content": "Les tribunaux correctionnels peuvent prononcer l'exclusion des marchés publics pour une durée qui ne peut excéder cinq ans à l'encontre des personnes physiques ou morales ayant versé des dons ou consenti des avantages en violation des dispositions de l'article L. 52-8 du code électoral et de l'article 11-4 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique.L'exclusion des marchés publics comporte l'interdiction de participer directement ou indirectement à tout marché conclu par l'Etat et ses établissements publics, les collectivités territoriales, leurs groupements et leurs établissements publics ainsi que par les entreprises concédées ou par les collectivités territoriales ou leurs groupements.",
+      "valid_from": "1995-01-21",
+      "valid_to": "2029-01-01"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Jusqu'au prochain renouvellement intégral de l'Assemblée nationale, le montant des crédits prévus à l'article 8 de la loi n° 88-227 du 11 mars 1988 précitée et inscrits dans la loi de finances sera réparti conformément aux seules dispositions du troisième alinéa de l'article 9 de la même loi dans sa rédaction résultant de la présente loi."
+      "content": "Jusqu'au prochain renouvellement intégral de l'Assemblée nationale, le montant des crédits prévus à l'article 8 de la loi n° 88-227 du 11 mars 1988 précitée et inscrits dans la loi de finances sera réparti conformément aux seules dispositions du troisième alinéa de l'article 9 de la même loi dans sa rédaction résultant de la présente loi.",
+      "valid_from": "1990-01-16"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Les dispositions du titre Ier de la présente loi, à l'exception de l'article L. 52-14 du code électoral, entreront en application le 1er septembre 1990."
+      "content": "Les dispositions du titre Ier de la présente loi, à l'exception de l'article L. 52-14 du code électoral, entreront en application le 1er septembre 1990.",
+      "valid_from": "1990-01-16"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, les associations prévues par la présente loi sont créées dans les formes et conditions définies par le code civil local."
+      "content": "Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, les associations prévues par la présente loi sont créées dans les formes et conditions définies par le code civil local.",
+      "valid_from": "1990-01-16"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Un décret en Conseil d'Etat fixera, en tant que de besoin, les modalités d'application de la présente loi."
+      "content": "Un décret en Conseil d'Etat fixera, en tant que de besoin, les modalités d'application de la présente loi.",
+      "valid_from": "1990-01-16"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "Les articles 17 et 19 à 22 de la présente loi sont applicables à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis-et-Futuna."
+      "content": "Les articles 17 et 19 à 22 de la présente loi sont applicables à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis-et-Futuna.",
+      "valid_from": "2000-04-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

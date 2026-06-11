@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est ratifiée, telle qu'elle est modifiée par la présente loi, l'ordonnance n° 2001-273 du 28 mars 2001 transposant certaines dispositions de la directive 1999/62/CE du Parlement et du Conseil du 17 juin 1999 relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures et réformant le régime d'exploitation de certaines sociétés concessionnaires d'autoroutes."
+      "content": "Est ratifiée, telle qu'elle est modifiée par la présente loi, l'ordonnance n° 2001-273 du 28 mars 2001 transposant certaines dispositions de la directive 1999/62/CE du Parlement et du Conseil du 17 juin 1999 relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures et réformant le régime d'exploitation de certaines sociétés concessionnaires d'autoroutes.",
+      "valid_from": "2001-11-07"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

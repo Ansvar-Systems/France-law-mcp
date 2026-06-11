@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Il est créé une \" société nationale d'exploitation industrielle des tabacs et allumettes \".\n\nCette société est substituée de plein droit à la société créée par la loi n° 80-495 du 2 juillet 1980 portant modification du statut du service d'exploitation industrielle des tabacs et allumettes (S.E.I.T.A.) à compter du 1er janvier 1985. L'ensemble des biens, droits et obligations de cette société lui sont transférés à cette même date ; ce transfert ne donne lieu ni à indemnité, ni à perception de droits et taxes, ni à versement de  la contribution prévue à l'article 879 du code général des impôts ou d'honoraires.\n\nLes administrateurs de la société créée par la loi n° 80-495 du 2 juillet 1980 en fonctions à la date du 31 décembre 1984 constituent le conseil d'administration de la société créée par la présente loi jusqu'à la date à laquelle aurait expiré le mandat dont ils étaient titulaires dans l'ancienne société."
+      "content": "Il est créé une \" société nationale d'exploitation industrielle des tabacs et allumettes \".\n\nCette société est substituée de plein droit à la société créée par la loi n° 80-495 du 2 juillet 1980 portant modification du statut du service d'exploitation industrielle des tabacs et allumettes (S.E.I.T.A.) à compter du 1er janvier 1985. L'ensemble des biens, droits et obligations de cette société lui sont transférés à cette même date ; ce transfert ne donne lieu ni à indemnité, ni à perception de droits et taxes, ni à versement de  la contribution prévue à l'article 879 du code général des impôts ou d'honoraires.\n\nLes administrateurs de la société créée par la loi n° 80-495 du 2 juillet 1980 en fonctions à la date du 31 décembre 1984 constituent le conseil d'administration de la société créée par la présente loi jusqu'à la date à laquelle aurait expiré le mandat dont ils étaient titulaires dans l'ancienne société.",
+      "valid_from": "2013-01-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La société est soumise à la législation sur les sociétés anonymes, sous réserve des dispositions de la présente loi."
+      "content": "La société est soumise à la législation sur les sociétés anonymes, sous réserve des dispositions de la présente loi.",
+      "valid_from": "1994-12-28"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "L'Etat veille, par l'intermédiaire de l'office national interprofessionnel des fruits et légumes et de l'horticulture, au maintien et au développement de la production nationale de tabac.\n\nLa société et les représentants des planteurs de tabacs établissent chaque année, en fonction des besoins de la société, des plans d'approvisionnement pluriannuels. Ces plans définissent les mécanismes de fixation des prix payés aux producteurs en tenant compte, notamment, des primes et prix fixés par la Communauté européenne."
+      "content": "L'Etat veille, par l'intermédiaire de l'office national interprofessionnel des fruits et légumes et de l'horticulture, au maintien et au développement de la production nationale de tabac.\n\nLa société et les représentants des planteurs de tabacs établissent chaque année, en fonction des besoins de la société, des plans d'approvisionnement pluriannuels. Ces plans définissent les mécanismes de fixation des prix payés aux producteurs en tenant compte, notamment, des primes et prix fixés par la Communauté européenne.",
+      "valid_from": "1994-01-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le régime de retraite institué en vertu de l'article 3 de l'ordonnance n° 59-80 du 7 janvier 1959 portant réorganisation des monopoles fiscaux des tabacs et allumettes est maintenu pour les personnels titulaires en fonctions à la date d'entrée en vigueur de la loi précitée du 2 juillet 1980.\n\nLes retraites constituées en application de cet article sont garanties par l'Etat en ce qui concerne tant leur versement que leur revalorisation."
+      "content": "Le régime de retraite institué en vertu de l'article 3 de l'ordonnance n° 59-80 du 7 janvier 1959 portant réorganisation des monopoles fiscaux des tabacs et allumettes est maintenu pour les personnels titulaires en fonctions à la date d'entrée en vigueur de la loi précitée du 2 juillet 1980.\n\nLes retraites constituées en application de cet article sont garanties par l'Etat en ce qui concerne tant leur versement que leur revalorisation.",
+      "valid_from": "1984-07-14"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La loi n° 80-495 du 2 juillet 1980 est abrogée à compter du 1er janvier 1985 ; le président du conseil d'administration de la société créée par la présente loi est chargé des opérations de liquidation de la société créée par la loi n° 80-495 du 2 juillet 1980.\n\nLa présente loi sera exécutée comme loi de l'Etat."
+      "content": "La loi n° 80-495 du 2 juillet 1980 est abrogée à compter du 1er janvier 1985 ; le président du conseil d'administration de la société créée par la présente loi est chargé des opérations de liquidation de la société créée par la loi n° 80-495 du 2 juillet 1980.\n\nLa présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "1984-07-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

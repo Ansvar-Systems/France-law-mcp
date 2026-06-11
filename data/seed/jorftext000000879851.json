@@ -12,31 +12,42 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les dispositions de la présente loi s'appliquent aux inscriptions de privilèges ou d'hypothèques et aux saisies non encore périmées ou radiées à la date de son entrée en vigueur, ainsi qu'à tous les droits visés à l'article 6-1 de la loi du 10 juillet 1965 non encore éteints à la même date."
+      "content": "Les dispositions de la présente loi s'appliquent aux inscriptions de privilèges ou d'hypothèques et aux saisies non encore périmées ou radiées à la date de son entrée en vigueur, ainsi qu'à tous les droits visés à l'article 6-1 de la loi du 10 juillet 1965 non encore éteints à la même date.",
+      "valid_from": "1979-07-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Tout créancier inscrit antérieurement à l'entrée en vigueur de la présente loi peut s'opposer à la remise prévue à l'article 16-1, alinéa 2, de la loi du 10 juillet 1965. Cette opposition est notifiée au notaire détenteur de la minute du règlement initial de copropriété antérieurement à la constatation de la cession en la forme authentique. Dans ce cas, la part du copropriétaire intéressé doit être consignée au profit du ou des créanciers opposants pour leur être distribuée, compte tenu du rang de préférence des inscriptions portant sur les parties privatives comprises dans les lots concernés par ces oppositions."
+      "content": "Tout créancier inscrit antérieurement à l'entrée en vigueur de la présente loi peut s'opposer à la remise prévue à l'article 16-1, alinéa 2, de la loi du 10 juillet 1965. Cette opposition est notifiée au notaire détenteur de la minute du règlement initial de copropriété antérieurement à la constatation de la cession en la forme authentique. Dans ce cas, la part du copropriétaire intéressé doit être consignée au profit du ou des créanciers opposants pour leur être distribuée, compte tenu du rang de préférence des inscriptions portant sur les parties privatives comprises dans les lots concernés par ces oppositions.",
+      "valid_from": "1979-07-01"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les conditions et modalités d'application de la présente loi et, notamment, les cas de refus du dépôt ou de rejet de la formalité seront fixés par décret."
+      "content": "Les conditions et modalités d'application de la présente loi et, notamment, les cas de refus du dépôt ou de rejet de la formalité seront fixés par décret.",
+      "valid_from": "1979-07-01"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "La présente loi entrera en vigueur le premier jour du deuxième mois suivant la publication du décret pris pour son application et au plus tard le premier jour du septième mois suivant sa propre publication."
+      "content": "La présente loi entrera en vigueur le premier jour du deuxième mois suivant la publication du décret pris pour son application et au plus tard le premier jour du septième mois suivant sa propre publication.",
+      "valid_from": "1979-07-01"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "La présente loi, à l'exception des articles 5 et 6, est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte."
+      "content": "La présente loi, à l'exception des articles 5 et 6, est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte.",
+      "valid_from": "1979-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

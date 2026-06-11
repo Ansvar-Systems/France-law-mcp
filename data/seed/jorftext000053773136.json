@@ -1,0 +1,25 @@
+{
+  "id": "jorftext000053773136",
+  "type": "statute",
+  "title": "LOI n°2026-247 du 7 avril 2026",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053773136",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente loi est applicable aux personnels de santé civils de la brigade de sapeurs-pompiers de Paris et du bataillon de marins-pompiers de Marseille.",
+      "valid_from": "2026-04-09"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

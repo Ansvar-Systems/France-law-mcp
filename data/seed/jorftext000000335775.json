@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Il est ouvert au ministre de l'éducation nationale, au titre des dépenses de fonctionnement des services civils pour l'exercice 1932, des crédits s'élevant à la somme de 203,280,575,000 F et répartis, par service et par chapitre, conformément à l'état A annexé (annexe non reproduite) à la présente loi."
+      "content": "Il est ouvert au ministre de l'éducation nationale, au titre des dépenses de fonctionnement des services civils pour l'exercice 1932, des crédits s'élevant à la somme de 203,280,575,000 F et répartis, par service et par chapitre, conformément à l'état A annexé (annexe non reproduite) à la présente loi.",
+      "valid_from": "1952-01-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le ministre de l'éducation nationale est autorisé à engager en 1952, par anticipation, sur les crédits qui lui seront alloués pour l'exercice 1953, des dépenses s'élevant à la somme totale de 1,331,000,000 de francs et répartis, par service et par chapitre, conformément à l'état B annexé (annexe non reproduite) à la présente loi."
+      "content": "Le ministre de l'éducation nationale est autorisé à engager en 1952, par anticipation, sur les crédits qui lui seront alloués pour l'exercice 1953, des dépenses s'élevant à la somme totale de 1,331,000,000 de francs et répartis, par service et par chapitre, conformément à l'état B annexé (annexe non reproduite) à la présente loi.",
+      "valid_from": "1952-01-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les crédits demeurés disponibles à la clôture de l'exercice 1951 sur l'article 1er du chapitre 4010 : \"Bourses nationales\" du budget de l'éducation nationale pourront, par décret contresigné par le ministre des finances et des affaires économiques, le ministre du budget et le ministre de l'éducation nationale, être reportés sur le chapitre correspondant du budget de l'exercice 1932."
+      "content": "Les crédits demeurés disponibles à la clôture de l'exercice 1951 sur l'article 1er du chapitre 4010 : \"Bourses nationales\" du budget de l'éducation nationale pourront, par décret contresigné par le ministre des finances et des affaires économiques, le ministre du budget et le ministre de l'éducation nationale, être reportés sur le chapitre correspondant du budget de l'exercice 1932.",
+      "valid_from": "1952-01-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les écoles nationales de perfectionnement sont des établissements publics de l'Etat datés de la personnalité civile et de l'autonomie financière.Ces établissements sont créés ou supprimés par décret, pris sur le rapport du ministre des finances et des affaires économiques, du ministre du budget et du ministre de l'éducation nationale."
+      "content": "Les écoles nationales de perfectionnement sont des établissements publics de l'Etat datés de la personnalité civile et de l'autonomie financière.Ces établissements sont créés ou supprimés par décret, pris sur le rapport du ministre des finances et des affaires économiques, du ministre du budget et du ministre de l'éducation nationale.",
+      "valid_from": "1952-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

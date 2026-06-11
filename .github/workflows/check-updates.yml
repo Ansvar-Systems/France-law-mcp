@@ -201,6 +201,9 @@ jobs:
       - run: npm ci --ignore-scripts
       - run: npm run build
 
+      - name: Census against the current corpus (issue #97 — ingest verifies the census/extraction source stamp)
+        run: npm run census
+
       - name: Ingest latest LEGI archive
         run: npm run ingest:legi
 

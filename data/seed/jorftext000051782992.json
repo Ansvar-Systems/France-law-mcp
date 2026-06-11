@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "Est autorisée la ratification de la résolution LP.3(4) portant amendement de l'article 6 du Protocole de Londres de 1996 à la Convention de 1972 sur la prévention de la pollution des mers résultant de l'immersion de déchets et autres matières, adoptée le 30 octobre 2009, et dont le texte est annexé à la présente loi (2)."
+      "content": "Est autorisée la ratification de la résolution LP.3(4) portant amendement de l'article 6 du Protocole de Londres de 1996 à la Convention de 1972 sur la prévention de la pollution des mers résultant de l'immersion de déchets et autres matières, adoptée le 30 octobre 2009, et dont le texte est annexé à la présente loi (2).",
+      "valid_from": "2025-06-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

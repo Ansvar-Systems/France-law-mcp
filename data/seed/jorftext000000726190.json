@@ -12,25 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La garantie de l'Etat peut être accordée aux établissements publics nationaux pour la responsabilité qu'ils encourent à l'égard des personnes qui leur prêtent des oeuvres d'art, pour des expositions temporaires, lorsque ces expositions sont organisées, en France, par ces établissements, qu'elles ont reçu un agrément de l'autorité administrative et que le total des valeurs d'assurance des oeuvres n'appartenant pas à l'Etat dépasse trois cents millions de francs.La garantie couvre la fraction des dommages supérieurs à un seuil d'un minimum de trois cents millions de francs et résultant du vol, de la perte, de la détérioration ou de la dépréciation après sinistre des oeuvres prêtées n'appartenant pas à l'Etat, au cours des transports et pendant toute la durée du prêt.La garantie ne couvre pas les risques couverts par une assurance souscrite par le propriétaire ou par toute personne agissant pour le compte de celui-ci."
-    },
-    {
-      "provision_ref": "art2",
-      "section": "2",
-      "title": "Article 2",
-      "content": "L'agrément mentionné à l'article 1er est accordé après avis d'une commission comprenant des représentants de l'Etat et des personnalités qualifiées en matière culturelle et dans le domaine de l'assurance.Cet avis porte notamment sur les conditions propres à garantir la sécurité du transport et de l'exposition des oeuvres faisant l'objet de la garantie de l'Etat ainsi que sur l'adéquation des valeurs d'assurance agréées par le propriétaire et les bénéficiaires de la garantie."
+      "content": "La garantie de l'Etat peut être accordée aux établissements publics nationaux pour la responsabilité qu'ils encourent à l'égard des personnes qui leur prêtent des oeuvres d'art, pour des expositions temporaires, lorsque ces expositions sont organisées, en France, par ces établissements, qu'elles ont reçu un agrément de l'autorité administrative et que le total des valeurs d'assurance des oeuvres n'appartenant pas à l'Etat dépasse trois cents millions de francs.La garantie couvre la fraction des dommages supérieurs à un seuil d'un minimum de trois cents millions de francs et résultant du vol, de la perte, de la détérioration ou de la dépréciation après sinistre des oeuvres prêtées n'appartenant pas à l'Etat, au cours des transports et pendant toute la durée du prêt.La garantie ne couvre pas les risques couverts par une assurance souscrite par le propriétaire ou par toute personne agissant pour le compte de celui-ci.",
+      "valid_from": "1993-01-08"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Un décret en Conseil d'Etat fixe les conditions d'application de la présente loi et notamment les conditions d'octroi de l'agrément mentionné à l'article 1er ainsi que la composition et les modalités de fonctionnement de la commission prévue à l'article 2."
+      "content": "Un décret en Conseil d'Etat fixe les conditions d'application de la présente loi et notamment les conditions d'octroi de l'agrément mentionné à l'article 1er.",
+      "valid_from": "2026-05-28"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Avant l'expiration d'un délai de trois ans à compter de l'entrée en vigueur de la présente loi, un rapport d'évaluation sera adressé par le Gouvernement au Parlement.Au vu des conclusions de ce rapport, le Gouvernement déposera, le cas échéant, un projet de loi visant à procéder aux adaptations qui lui paraîtraient nécessaires."
+      "content": "Avant l'expiration d'un délai de trois ans à compter de l'entrée en vigueur de la présente loi, un rapport d'évaluation sera adressé par le Gouvernement au Parlement.Au vu des conclusions de ce rapport, le Gouvernement déposera, le cas échéant, un projet de loi visant à procéder aux adaptations qui lui paraîtraient nécessaires.",
+      "valid_from": "1993-01-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

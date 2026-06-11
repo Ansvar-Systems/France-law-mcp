@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. - Sont applicables au 1er juillet 2021 :1° A Wallis-et-Futuna, l'article 1er de la présente ordonnance, à l'exception des dispositions du III de l'article L. 5546-1-1 du code des transports mentionné au i du 1° et au g du 2° ;2° Dans les Terres australes et antarctiques françaises, l'article 2 de la présente ordonnance, à l'exception des dispositions du III de l'article L. 5546-1-1 du code des transports mentionné au g du 1° et au f du 2°.II. - Les dispositions du III du même article L. 5546-1-1, dans leur rédaction résultant du i du 1°, du g du 2° de l'article 1er et du g du 1° et du f du 2° de l'article 2 de la présente ordonnance, entrent en vigueur le 1er janvier 2022."
+      "content": "I. - Sont applicables au 1er juillet 2021 :1° A Wallis-et-Futuna, l'article 1er de la présente ordonnance, à l'exception des dispositions du III de l'article L. 5546-1-1 du code des transports mentionné au i du 1° et au g du 2° ;2° Dans les Terres australes et antarctiques françaises, l'article 2 de la présente ordonnance, à l'exception des dispositions du III de l'article L. 5546-1-1 du code des transports mentionné au g du 1° et au f du 2°.II. - Les dispositions du III du même article L. 5546-1-1, dans leur rédaction résultant du i du 1°, du g du 2° de l'article 1er et du g du 1° et du f du 2° de l'article 2 de la présente ordonnance, entrent en vigueur le 1er janvier 2022.",
+      "valid_from": "2021-04-02"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, le ministre des outre-mer et la ministre de la mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des outre-mer et la ministre de la mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-04-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

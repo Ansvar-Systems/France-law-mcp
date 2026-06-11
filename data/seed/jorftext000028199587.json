@@ -12,49 +12,63 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "II. - A partir de la promulgation de la présente loi, le Conseil  supérieur de l'audiovisuel peut mettre fin au mandat en cours des  présidents de la société France Télévisions, de la société Radio France  et de la société en charge de l'audiovisuel extérieur de la France, en  application de l'article 47-5 de la loi n° 86-1067 du 30 septembre 1986  relative à la liberté de communication, dans sa rédaction issue de la  présente loi."
+      "content": "II. - A partir de la promulgation de la présente loi, le Conseil  supérieur de l'audiovisuel peut mettre fin au mandat en cours des  présidents de la société France Télévisions, de la société Radio France  et de la société en charge de l'audiovisuel extérieur de la France, en  application de l'article 47-5 de la loi n° 86-1067 du 30 septembre 1986  relative à la liberté de communication, dans sa rédaction issue de la  présente loi.",
+      "valid_from": "2013-11-17"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "A modifié les dispositions suivantes :"
+      "content": "A modifié les dispositions suivantes :",
+      "valid_from": "2013-11-17"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "A modifié les dispositions suivantes :"
+      "content": "A modifié les dispositions suivantes :",
+      "valid_from": "2013-11-17"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "Les mandats des membres du Conseil supérieur de l'audiovisuel ne sont pas interrompus du fait de l'entrée en vigueur de la présente loi. Les membres qui ont été désignés par le Président de la République, autres que le président du conseil, ne sont pas remplacés en cas de vacance.Le 3° de l'article 2 de la présente loi entre en vigueur à l'échéance du mandat du membre du Conseil supérieur de l'audiovisuel désigné par le Président de la République en 2011."
+      "content": "Les mandats des membres du Conseil supérieur de l'audiovisuel ne sont pas interrompus du fait de l'entrée en vigueur de la présente loi. Les membres qui ont été désignés par le Président de la République, autres que le président du conseil, ne sont pas remplacés en cas de vacance.Le 3° de l'article 2 de la présente loi entre en vigueur à l'échéance du mandat du membre du Conseil supérieur de l'audiovisuel désigné par le Président de la République en 2011.",
+      "valid_from": "2013-11-17"
     },
     {
       "provision_ref": "art33",
       "section": "33",
       "title": "Article 33",
-      "content": "A compter du 1er janvier 2014, le Conseil supérieur de l'audiovisuel succède en tant qu'autorité publique indépendante dotée de la personnalité morale dans les droits et obligations de l'Etat au titre des activités du conseil en tant qu'autorité administrative indépendante. Ces dispositions s'appliquent également aux contrats de travail.L'ensemble des biens mobiliers de l'Etat attachés aux services relevant du Conseil supérieur de l'audiovisuel sont transférés de plein droit et en pleine propriété au Conseil supérieur de l'audiovisuel en tant qu'autorité publique indépendante dotée de la personnalité morale.L'ensemble des opérations liées à ces transferts de droits et obligations ou pouvant intervenir en application de la présente loi sont effectuées à titre gratuit et ne donnent lieu, directement ou indirectement, à aucune perception de droits, impôts ou taxes de quelque nature que ce soit."
+      "content": "A compter du 1er janvier 2014, le Conseil supérieur de l'audiovisuel succède en tant qu'autorité publique indépendante dotée de la personnalité morale dans les droits et obligations de l'Etat au titre des activités du conseil en tant qu'autorité administrative indépendante. Ces dispositions s'appliquent également aux contrats de travail.L'ensemble des biens mobiliers de l'Etat attachés aux services relevant du Conseil supérieur de l'audiovisuel sont transférés de plein droit et en pleine propriété au Conseil supérieur de l'audiovisuel en tant qu'autorité publique indépendante dotée de la personnalité morale.L'ensemble des opérations liées à ces transferts de droits et obligations ou pouvant intervenir en application de la présente loi sont effectuées à titre gratuit et ne donnent lieu, directement ou indirectement, à aucune perception de droits, impôts ou taxes de quelque nature que ce soit.",
+      "valid_from": "2013-11-17"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "Dans un délai d'un an après la publication de la présente loi, les nominations mentionnées au troisième alinéa de l'article 47-4 de la loi n° 86-1067 du 30 septembre 1986 précitée peuvent intervenir entre deux et quatre mois avant la fin du mandat en cours."
+      "content": "Dans un délai d'un an après la publication de la présente loi, les nominations mentionnées au troisième alinéa de l'article 47-4 de la loi n° 86-1067 du 30 septembre 1986 précitée peuvent intervenir entre deux et quatre mois avant la fin du mandat en cours.",
+      "valid_from": "2013-11-17"
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "L'article 6 de la présente loi est applicable aux procédures de sanction ouvertes à compter du lendemain de la publication de cette même loi."
+      "content": "L'article 6 de la présente loi est applicable aux procédures de sanction ouvertes à compter du lendemain de la publication de cette même loi.",
+      "valid_from": "2013-11-17"
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "La présente loi est applicable sur tout le territoire de la République.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "La présente loi est applicable sur tout le territoire de la République.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2013-11-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

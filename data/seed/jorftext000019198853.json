@@ -12,19 +12,28 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les mandats de l'ensemble des membres de la chambre d'agriculture, de commerce, d'industrie, de métiers et de l'artisanat de Saint-Pierre-et-Miquelon seront tous soumis à renouvellement à l'occasion du prochain renouvellement général des mandats des membres des      chambres de commerce et d'industrie territoriales."
+      "content": "Les mandats de l'ensemble des membres de la chambre d'agriculture, de commerce, d'industrie, de métiers et de l'artisanat de Saint-Pierre-et-Miquelon seront tous soumis à renouvellement à l'occasion du prochain renouvellement général des mandats des membres des      chambres de commerce et d'industrie territoriales.",
+      "valid_from": "2011-01-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Un décret en Conseil d'Etat fixe les modalités d'application de la présente ordonnance."
+      "content": "Un décret en Conseil d'Etat fixe les modalités d'application de la présente ordonnance.",
+      "valid_from": "2008-07-17"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Premier ministre, la ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, la ministre de l'économie, de l'industrie et de l'emploi et le ministre de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, la ministre de l'économie, de l'industrie et de l'emploi et le ministre de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2008-07-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

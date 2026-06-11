@@ -12,13 +12,21 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. - Les dispositions de la présente ordonnance sont applicables à la date de publication des décrets pris pour leur application, et au plus tard le 31 juillet 2018, sous réserve des dispositions prévues au II.II. - Les demandes d'autorisation de création, transfert ou regroupement d'officines déposées auprès des agences régionales de santé et dont la complétude a été constatée avant l'entrée en vigueur de la présente ordonnance demeurent soumises aux dispositions du code de la santé publique dans leur rédaction antérieure à la date de publication des décrets pris pour l'application de la présente ordonnance."
+      "content": "I. - Les dispositions de la présente ordonnance sont applicables à la date de publication des décrets pris pour leur application, et au plus tard le 31 juillet 2018, sous réserve des dispositions prévues au II.II. - Les demandes d'autorisation de création, transfert ou regroupement d'officines déposées auprès des agences régionales de santé et dont la complétude a été constatée avant l'entrée en vigueur de la présente ordonnance demeurent soumises aux dispositions du code de la santé publique dans leur rédaction antérieure à la date de publication des décrets pris pour l'application de la présente ordonnance.",
+      "valid_from": "2018-01-05"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre, la ministre des solidarités et de la santé et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre des solidarités et de la santé et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2018-01-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

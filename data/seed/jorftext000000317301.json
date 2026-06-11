@@ -12,7 +12,14 @@
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Les mineurs étrangers entrés en France avant le 7 décembre 1984, alors qu'ils n'avaient pas atteint l'âge de seize ans, et justifiant d'une scolarité régulière en France depuis cette date, reçoivent de plein droit un titre de séjour de même nature que celui de leur père ou mère autorisé à séjourner en France."
+      "content": "Les mineurs étrangers entrés en France avant le 7 décembre 1984, alors qu'ils n'avaient pas atteint l'âge de seize ans, et justifiant d'une scolarité régulière en France depuis cette date, reçoivent de plein droit un titre de séjour de même nature que celui de leur père ou mère autorisé à séjourner en France.",
+      "valid_from": "1986-09-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

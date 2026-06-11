@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I.-A modifié les dispositions suivantes :\n\nII.-(Abrogé) ;\n\nIII.-(Abrogé).\n\n-Code des transports"
+      "content": "I.-A modifié les dispositions suivantes :\n\nII.-(Abrogé) ;\n\nIII.-(Abrogé).\n\n-Code des transports",
+      "valid_from": "2021-05-27"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Le Gouvernement remet au Parlement, avant le 31 décembre 2017, un rapport sur l'évaluation du coût de la sûreté dans les transports collectifs de voyageurs et sur ses modalités de financement."
+      "content": "Le Gouvernement remet au Parlement, avant le 31 décembre 2017, un rapport sur l'évaluation du coût de la sûreté dans les transports collectifs de voyageurs et sur ses modalités de financement.",
+      "valid_from": "2016-03-23"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "I. - Le 2° du I de l'article 1er et les articles 5, 9 et 17 sont applicables dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.II. - Le II de l'article 1er, en ce qu'il modifie l'article L. 511-1 du code de la sécurité intérieure, est applicable en Polynésie française et en Nouvelle-Calédonie.III. - L'article 20 est applicable en Polynésie française.La présente loi entrera en vigueur immédiatement et sera exécutée comme loi de l'Etat."
+      "content": "I. - Le 2° du I de l'article 1er et les articles 5, 9 et 17 sont applicables dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.II. - Le II de l'article 1er, en ce qu'il modifie l'article L. 511-1 du code de la sécurité intérieure, est applicable en Polynésie française et en Nouvelle-Calédonie.III. - L'article 20 est applicable en Polynésie française.La présente loi entrera en vigueur immédiatement et sera exécutée comme loi de l'Etat.",
+      "valid_from": "2016-03-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Par dérogation aux dispositions de l'article L. 1615-6 du code général des collectivités territoriales, les dépenses éligibles en application de l'article L. 1615-1 du même code réalisées par les bénéficiaires du Fonds de compensation pour la taxe sur la valeur ajoutée des collectivités territoriales pour réparer les dommages directement causés par les actes de dégradation et de destruction liés aux troubles à l'ordre et à la sécurité publics survenus du 27 juin 2023 au 5 juillet 2023 ouvrent droit à des attributions du fonds, l'année au cours de laquelle le règlement de ces dépenses est intervenu."
+      "content": "Par dérogation aux dispositions de l'article L. 1615-6 du code général des collectivités territoriales, les dépenses éligibles en application de l'article L. 1615-1 du même code réalisées par les bénéficiaires du Fonds de compensation pour la taxe sur la valeur ajoutée des collectivités territoriales pour réparer les dommages directement causés par les actes de dégradation et de destruction liés aux troubles à l'ordre et à la sécurité publics survenus du 27 juin 2023 au 5 juillet 2023 ouvrent droit à des attributions du fonds, l'année au cours de laquelle le règlement de ces dépenses est intervenu.",
+      "valid_from": "2023-09-15"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'obligation de participation minimale prévue au 2° du I de l'article L. 1111-9 et au III de l'article L. 1111-10 du code général des collectivités territoriales n'est pas applicable au financement des projets d'investissement visant à réparer les dommages directement causés par les actes de dégradation et de destruction liés aux troubles à l'ordre et à la sécurité publics survenus du 27 juin 2023 au 5 juillet 2023."
+      "content": "L'obligation de participation minimale prévue au 2° du I de l'article L. 1111-9 et au III de l'article L. 1111-10 du code général des collectivités territoriales n'est pas applicable au financement des projets d'investissement visant à réparer les dommages directement causés par les actes de dégradation et de destruction liés aux troubles à l'ordre et à la sécurité publics survenus du 27 juin 2023 au 5 juillet 2023.",
+      "valid_from": "2023-09-15"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Pour réparer les dommages directement causés par les actes de dégradation et de destruction liés aux troubles à l'ordre et à la sécurité publics survenus du 27 juin 2023 au 5 juillet 2023, le montant total des fonds de concours définis au V de l'article L. 5214-16, à l'article L. 5215-26 et au VI de l'article L. 5216-5 du code général des collectivités territoriales, peut excéder la part du financement assurée, hors subventions, par le bénéficiaire du fonds de concours. Cette part peut être nulle."
+      "content": "Pour réparer les dommages directement causés par les actes de dégradation et de destruction liés aux troubles à l'ordre et à la sécurité publics survenus du 27 juin 2023 au 5 juillet 2023, le montant total des fonds de concours définis au V de l'article L. 5214-16, à l'article L. 5215-26 et au VI de l'article L. 5216-5 du code général des collectivités territoriales, peut excéder la part du financement assurée, hors subventions, par le bénéficiaire du fonds de concours. Cette part peut être nulle.",
+      "valid_from": "2023-09-15"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La Première ministre et le ministre de la transition écologique et de la cohésion des territoires sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "La Première ministre et le ministre de la transition écologique et de la cohésion des territoires sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2023-09-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

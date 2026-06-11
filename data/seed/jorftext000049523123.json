@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2024-865 DC du 7 mai 2024.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2024-865 DC du 7 mai 2024.]",
+      "valid_from": "2024-05-12"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Le Gouvernement remet au Parlement un rapport portant sur la mise en œuvre de la présente loi dans le domaine de la santé mentale, dans un délai d'un an à compter de sa promulgation."
+      "content": "Le Gouvernement remet au Parlement un rapport portant sur la mise en œuvre de la présente loi dans le domaine de la santé mentale, dans un délai d'un an à compter de sa promulgation.",
+      "valid_from": "2024-05-12"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Le Gouvernement remet au Parlement, dans un délai d'un an à compter de la promulgation de la présente loi, un rapport portant sur l'utilisation des titres professionnels par des personnes exerçant des pratiques de santé non réglementées. Ce rapport examine l'effet de l'utilisation de ces titres sur les dérives thérapeutiques à caractère sectaire, sur la protection des patients et sur l'intégrité des professions médicales, recense les cas d'usurpation de titre et évalue l'efficacité du cadre législatif dans la prévention de telles pratiques.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Le Gouvernement remet au Parlement, dans un délai d'un an à compter de la promulgation de la présente loi, un rapport portant sur l'utilisation des titres professionnels par des personnes exerçant des pratiques de santé non réglementées. Ce rapport examine l'effet de l'utilisation de ces titres sur les dérives thérapeutiques à caractère sectaire, sur la protection des patients et sur l'intégrité des professions médicales, recense les cas d'usurpation de titre et évalue l'efficacité du cadre législatif dans la prévention de telles pratiques.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2024-05-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

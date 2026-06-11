@@ -12,121 +12,147 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La situation des prisonniers de guerre de l'armée française et des Français transférés par l'ennemi hors du territoire national soit pour un motif d'ordre politique, soit en qualité de travailleurs non volontaires, est réglée dans les conditions déterminées ci-après."
+      "content": "La situation des prisonniers de guerre de l'armée française et des Français transférés par l'ennemi hors du territoire national soit pour un motif d'ordre politique, soit en qualité de travailleurs non volontaires, est réglée dans les conditions déterminées ci-après.",
+      "valid_from": "1945-05-13"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Tous les rapatriés visés par l'article 1er perçoivent lors de leur entrée sur le territoire français, une allocation dite \"d'accueil\" d'un montant de 1 000 francs. Cette allocation leur est versée sur justification de leur identité et de leur qualité dans les centres déterminés par le ministère des prisonniers, déportés et réfugiés.\n\nLes dépenses résultant de l'exécution de ces dispositions ne sont pas soumises à la procédure de l'ordonnancement préalable."
+      "content": "Tous les rapatriés visés par l'article 1er perçoivent lors de leur entrée sur le territoire français, une allocation dite \"d'accueil\" d'un montant de 1 000 francs. Cette allocation leur est versée sur justification de leur identité et de leur qualité dans les centres déterminés par le ministère des prisonniers, déportés et réfugiés.\n\nLes dépenses résultant de l'exécution de ces dispositions ne sont pas soumises à la procédure de l'ordonnancement préalable.",
+      "valid_from": "1945-05-13"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Tous les rapatriés visés à l'article 1er à l'exception toutefois des officiers et sous-officiers à solde mensuelle de l'active et de la réserve, des hommes de troupe maintenus sous les drapeaux et des personnes possédant la qualité d'agents des services publics telle qu'elle est définie à l'article 16 de la présente ordonnance, percevront, sur leur demande, une indemnité dite de \"congé de libération\".\n\nCette indemnité est à la charge de l'Etat.\n\nElle est fixée :\n\na) Pour les prisonniers de guerre et les déportés tels qu'ils sont définis à l'article 9, au montant du salaire moyen mensuel départemental en vigueur dans la localité où ils se retirent ;\n\nb) Pour les travailleurs non volontaires à la moitié de ce même salaire moyen départemental.\n\nLe bénéfice de cette indemnité pourra être exceptionnellement, une fois renouvelé aux prisonniers et aux déportés qui en feront la demande, lorsque leur état de santé, constaté, au cours des trente jours suivant leur retour dans la localité où ils se retirent par les commissions médicales prévues par l'ordonnance du 22 avril 1945 s'opposera à la reprise de leur travail.\n\nCette indemnité supplémentaire ne pourra se cumuler avec les allocations journalières prévues par la réglementation en vigueur sur les assurances sociales."
+      "content": "Tous les rapatriés visés à l'article 1er à l'exception toutefois des officiers et sous-officiers à solde mensuelle de l'active et de la réserve, des hommes de troupe maintenus sous les drapeaux et des personnes possédant la qualité d'agents des services publics telle qu'elle est définie à l'article 16 de la présente ordonnance, percevront, sur leur demande, une indemnité dite de \"congé de libération\".\n\nCette indemnité est à la charge de l'Etat.\n\nElle est fixée :\n\na) Pour les prisonniers de guerre et les déportés tels qu'ils sont définis à l'article 9, au montant du salaire moyen mensuel départemental en vigueur dans la localité où ils se retirent ;\n\nb) Pour les travailleurs non volontaires à la moitié de ce même salaire moyen départemental.\n\nLe bénéfice de cette indemnité pourra être exceptionnellement, une fois renouvelé aux prisonniers et aux déportés qui en feront la demande, lorsque leur état de santé, constaté, au cours des trente jours suivant leur retour dans la localité où ils se retirent par les commissions médicales prévues par l'ordonnance du 22 avril 1945 s'opposera à la reprise de leur travail.\n\nCette indemnité supplémentaire ne pourra se cumuler avec les allocations journalières prévues par la réglementation en vigueur sur les assurances sociales.",
+      "valid_from": "1945-05-13"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Tout conjoint de rapatrié, non séparé de corps, bénéficiera de droit, s'il est salarié et à l'occasion du retour de son conjoint, même si ce retour se place en dehors de la période des congés payés, d'un congé fixé, quelle que soit la durée de ses services chez son employeur à quatre semaines pour les conjoints de prisonniers et de déportés et à deux semaines pour les conjoints de travailleurs non volontaires.\n\nCe congé à la charge de l'employeur sera accordé par priorité sur les congés de tous les autres membres du personnel.\n\nIl ne se cumulera pas avec les droits auxquels les intéressés pourraient prétendre au titre de la législation en vigueur sur les congés payés.\n\nPendant la durée de ce congé, le bénéficiaire recevra par jour ouvrable une indemnité égale, à celle qu'il aurait pu recevoir au titre de la législation en vigueur pour chaque jour ouvrable."
+      "content": "Tout conjoint de rapatrié, non séparé de corps, bénéficiera de droit, s'il est salarié et à l'occasion du retour de son conjoint, même si ce retour se place en dehors de la période des congés payés, d'un congé fixé, quelle que soit la durée de ses services chez son employeur à quatre semaines pour les conjoints de prisonniers et de déportés et à deux semaines pour les conjoints de travailleurs non volontaires.\n\nCe congé à la charge de l'employeur sera accordé par priorité sur les congés de tous les autres membres du personnel.\n\nIl ne se cumulera pas avec les droits auxquels les intéressés pourraient prétendre au titre de la législation en vigueur sur les congés payés.\n\nPendant la durée de ce congé, le bénéficiaire recevra par jour ouvrable une indemnité égale, à celle qu'il aurait pu recevoir au titre de la législation en vigueur pour chaque jour ouvrable.",
+      "valid_from": "1945-05-13"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les militaires à solde mensuelle, de la réserve, prisonniers de guerre, démobilisés à la suite de leur rapatriement, percevront à titre de congé une somme égale à un mois de solde nette.\n\nCette allocation ne sera pas accordée aux personnes possédant la qualité d'agent des services publics telle qu'elle est définie à l'article 16 de la présente ordonnance.\n\nLes militaires de l'active, et les militaires de la réserve maintenus sous les drapeaux, bénéficieront dès leur retour d'une permission exceptionnelle de trente jours avec solde de présence."
+      "content": "Les militaires à solde mensuelle, de la réserve, prisonniers de guerre, démobilisés à la suite de leur rapatriement, percevront à titre de congé une somme égale à un mois de solde nette.\n\nCette allocation ne sera pas accordée aux personnes possédant la qualité d'agent des services publics telle qu'elle est définie à l'article 16 de la présente ordonnance.\n\nLes militaires de l'active, et les militaires de la réserve maintenus sous les drapeaux, bénéficieront dès leur retour d'une permission exceptionnelle de trente jours avec solde de présence.",
+      "valid_from": "1945-05-13"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les agents des services publics bénéficieront dès leur retour dans leur administration d'un congé exceptionnel d'un mois à plein traitement.\n\nA l'expiration de celui-ci, et en cas de maladie dûment constatée par un médecin assermenté, ils pourront bénéficier d'un congé exceptionnel de maladie à plein traitement d'une durée d'un mois au maximum.\n\nEn outre, les intéressés conserveront le cas échéant leurs droits au congé réglementaire de maladie prévu par la réglementation qui leur est applicable.\n\nTout conjoint de rapatrié, non séparé de corps, s'il a la qualité d'agent des services publics, a droit à l'occasion du retour de son conjoint, à un congé à plein traitement d'une durée égale à celle des congés visés à l'article 4.\n\nCe congé exceptionnel ne se cumulera pas avec le congé normal de l'intéressé."
+      "content": "Les agents des services publics bénéficieront dès leur retour dans leur administration d'un congé exceptionnel d'un mois à plein traitement.\n\nA l'expiration de celui-ci, et en cas de maladie dûment constatée par un médecin assermenté, ils pourront bénéficier d'un congé exceptionnel de maladie à plein traitement d'une durée d'un mois au maximum.\n\nEn outre, les intéressés conserveront le cas échéant leurs droits au congé réglementaire de maladie prévu par la réglementation qui leur est applicable.\n\nTout conjoint de rapatrié, non séparé de corps, s'il a la qualité d'agent des services publics, a droit à l'occasion du retour de son conjoint, à un congé à plein traitement d'une durée égale à celle des congés visés à l'article 4.\n\nCe congé exceptionnel ne se cumulera pas avec le congé normal de l'intéressé.",
+      "valid_from": "1945-05-13"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les familles nécessiteuses qui, pendant l'absence de leur soutien percevaient les allocations déterminées par l'ordonnance du 25 octobre 1944 continueront à bénéficier de celles-ci pendant les deux quinzaines suivant celle en cours à la date du passage du rapatrié au centre d'accueil départemental."
+      "content": "Les familles nécessiteuses qui, pendant l'absence de leur soutien percevaient les allocations déterminées par l'ordonnance du 25 octobre 1944 continueront à bénéficier de celles-ci pendant les deux quinzaines suivant celle en cours à la date du passage du rapatrié au centre d'accueil départemental.",
+      "valid_from": "1945-05-13"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Tout rapatrié est tenu de déposer au centre de rapatriement la totalité des monnaies allemandes, y compris les monnaies de camp, dont il est détenteur.\n\nIl recevra la contre-valeur de 100 reichs-marks au maximum au taux de 20 fr.\n\nLes reçus des monnaies allemandes ainsi déposées, ainsi que les reçus des monnaies de camps seront centralisés par l'office des biens et intérêts privés.\n\nUn arrêté déterminera les conditions dans lesquelles les intéressés devront faire parvenir lesdits reçus à l'office des biens et intérêts privés."
+      "content": "Tout rapatrié est tenu de déposer au centre de rapatriement la totalité des monnaies allemandes, y compris les monnaies de camp, dont il est détenteur.\n\nIl recevra la contre-valeur de 100 reichs-marks au maximum au taux de 20 fr.\n\nLes reçus des monnaies allemandes ainsi déposées, ainsi que les reçus des monnaies de camps seront centralisés par l'office des biens et intérêts privés.\n\nUn arrêté déterminera les conditions dans lesquelles les intéressés devront faire parvenir lesdits reçus à l'office des biens et intérêts privés.",
+      "valid_from": "1945-05-13"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Sont considérés comme déportés politiques les français transférés par l'ennemi hors du territoire national, puis incarcérés ou internés, pour tout autre motif, qu'une infraction au droit commun.\n\nSont exclus du bénéfice des dispositions qui précèdent les individus tombant sous le coup de l'ordonnance du 28 novembre 1944 et des textes subséquents, relatifs à la répression des faits de collaboration, ainsi que les individus frappés d'indignité nationale."
+      "content": "Sont considérés comme déportés politiques les français transférés par l'ennemi hors du territoire national, puis incarcérés ou internés, pour tout autre motif, qu'une infraction au droit commun.\n\nSont exclus du bénéfice des dispositions qui précèdent les individus tombant sous le coup de l'ordonnance du 28 novembre 1944 et des textes subséquents, relatifs à la répression des faits de collaboration, ainsi que les individus frappés d'indignité nationale.",
+      "valid_from": "1945-05-13"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les personnes visées à l'article précédent perçoivent en sus des allocations énumérées aux titres I, II et III une indemnité spéciale dite de \"déportation\" dont le montant est fixé à 5.000 fr.\n\nElles peuvent en outre recevoir des effets d'habillement ou un bon leur permettant d'acquérir gratuitement ces effets, dans la limite d'un maximum de 3.000 fr."
+      "content": "Les personnes visées à l'article précédent perçoivent en sus des allocations énumérées aux titres I, II et III une indemnité spéciale dite de \"déportation\" dont le montant est fixé à 5.000 fr.\n\nElles peuvent en outre recevoir des effets d'habillement ou un bon leur permettant d'acquérir gratuitement ces effets, dans la limite d'un maximum de 3.000 fr.",
+      "valid_from": "1945-05-13"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Les militaires des réserves des armées de terre, de mer et de l'air, prisonniers de guerre, régulièrement démobilisés perçoivent une prime de démobilisation de 1.000 fr.\n\nCette prime ne sera pas versée aux personnes possédant la qualité d'agent des services publics telle qu'elle est définie à l'article 16 de la présente ordonnance."
+      "content": "Les militaires des réserves des armées de terre, de mer et de l'air, prisonniers de guerre, régulièrement démobilisés perçoivent une prime de démobilisation de 1.000 fr.\n\nCette prime ne sera pas versée aux personnes possédant la qualité d'agent des services publics telle qu'elle est définie à l'article 16 de la présente ordonnance.",
+      "valid_from": "1945-05-13"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Toutes les sommes versées pendant la période de captivité à titre de délégation volontaire ou d'office, tant en ce qui concerne la solde que l'indemnité différentielle des agents mobilisés des services publics, restent acquises aux ayants droit des rapatriés.\n\nLes délégations en cours au 1er mars 1945 cesseront d'être payées à compter du premier jour du mois qui suivra la date du passage du prisonnier au centre d'accueil départemental. De nouvelles délégations volontaires pourront être souscrites par ceux des intéressés qui seraient maintenus sous les drapeaux."
+      "content": "Toutes les sommes versées pendant la période de captivité à titre de délégation volontaire ou d'office, tant en ce qui concerne la solde que l'indemnité différentielle des agents mobilisés des services publics, restent acquises aux ayants droit des rapatriés.\n\nLes délégations en cours au 1er mars 1945 cesseront d'être payées à compter du premier jour du mois qui suivra la date du passage du prisonnier au centre d'accueil départemental. De nouvelles délégations volontaires pourront être souscrites par ceux des intéressés qui seraient maintenus sous les drapeaux.",
+      "valid_from": "1945-05-13"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les officiers, sous-officiers et gradés à solde mensuelle des armées de terre, de mer et de l'air, prisonniers de guerre, percevront à leur retour de captivité, pour la liquidation de leurs droits à solde :\n\n1° Une avance, dans la limite maxima des chiffres ci-dessous fixés par année de captivité :\n\nCaporaux-chefs : 1.500 fr.\n\nSergents, sergents-chefs et sergents-majors : 2.500 fr.\n\nAdjudants, adjudants-chefs, aspirants : 3.000 fr.\n\nSous-lieutenants et lieutenants : 3.000 fr.\n\nCapitaines : 3.500 fr.\n\nOfficiers supérieurs et généraux : 4.000 fr.\n\nLorsque la durée de la captivité sera supérieure à un nombre entier d'années, toute fraction supplémentaire supérieure à  trois mois sera comptée pour une année pour le calcul de cette avance.\n\n2° Ultérieurement, un complément, dont la limite et les modalités de payement seront fixées par un décret contresigné par le ministre des prisonniers, déportés et réfugiés, le ministre de la guerre, le ministre de la marine, le ministre de l'air, le ministre des colonies et le ministre des finances.\n\nLe cas échéant le montant des sommes perçues par les intéressés en contre-partie du dépôt de Reichsmarks qu'ils détenaient conformément aux dispositions du titre III de la présente ordonnance sera déduit des liquidations de soldes effectuées en application des dispositions qui précèdent."
+      "content": "Les officiers, sous-officiers et gradés à solde mensuelle des armées de terre, de mer et de l'air, prisonniers de guerre, percevront à leur retour de captivité, pour la liquidation de leurs droits à solde :\n\n1° Une avance, dans la limite maxima des chiffres ci-dessous fixés par année de captivité :\n\nCaporaux-chefs : 1.500 fr.\n\nSergents, sergents-chefs et sergents-majors : 2.500 fr.\n\nAdjudants, adjudants-chefs, aspirants : 3.000 fr.\n\nSous-lieutenants et lieutenants : 3.000 fr.\n\nCapitaines : 3.500 fr.\n\nOfficiers supérieurs et généraux : 4.000 fr.\n\nLorsque la durée de la captivité sera supérieure à un nombre entier d'années, toute fraction supplémentaire supérieure à  trois mois sera comptée pour une année pour le calcul de cette avance.\n\n2° Ultérieurement, un complément, dont la limite et les modalités de payement seront fixées par un décret contresigné par le ministre des prisonniers, déportés et réfugiés, le ministre de la guerre, le ministre de la marine, le ministre de l'air, le ministre des colonies et le ministre des finances.\n\nLe cas échéant le montant des sommes perçues par les intéressés en contre-partie du dépôt de Reichsmarks qu'ils détenaient conformément aux dispositions du titre III de la présente ordonnance sera déduit des liquidations de soldes effectuées en application des dispositions qui précèdent.",
+      "valid_from": "1945-05-13"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Pour le calcul de la solde devant servir de base, le cas échéant, à la liquidation des pensions des prisonniers de guerre, ainsi que de leurs ayants cause, et sans qu'il soit exigé d'eux aucun reversement de retenues, il sera tenu compte de la solde à laquelle les intéressés auraient pu normalement prétendre s'il ne leur avait pas été fait application des dispositions de l'article 13 ci-dessus."
+      "content": "Pour le calcul de la solde devant servir de base, le cas échéant, à la liquidation des pensions des prisonniers de guerre, ainsi que de leurs ayants cause, et sans qu'il soit exigé d'eux aucun reversement de retenues, il sera tenu compte de la solde à laquelle les intéressés auraient pu normalement prétendre s'il ne leur avait pas été fait application des dispositions de l'article 13 ci-dessus.",
+      "valid_from": "1945-05-13"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Sont considérés comme agents des services publics au sens de la présente ordonnance, les personnels civils des administrations de l'Etat, des départements, des communes, de l'Algérie, des services locaux des territoires relevant de l'autorité du ministre des colonies et des cadres français du personnel local des territoires relevant du ministre des affaires étrangères ainsi que des établissements publics relevant des collectivités visées ci-dessus des services exploités en régie, concédés ou affermés de ces mêmes collectivités, ainsi que des entreprises ou établissements, titulaires de privilèges ou de monopoles concédés par celles-ci.\n\nPour bénéficier des avantages prévus aux articles 3, 5 et 11 de la présente ordonnance, les rapatriés devront souscrire une déclaration certifiant, sous leur responsabilité, qu'ils ne possèdent pas la qualité définie ci-dessus.\n\nToute déclaration inexacte sera punie des peines correctionnelles visées à l'article 146 du code des contributions directes."
+      "content": "Sont considérés comme agents des services publics au sens de la présente ordonnance, les personnels civils des administrations de l'Etat, des départements, des communes, de l'Algérie, des services locaux des territoires relevant de l'autorité du ministre des colonies et des cadres français du personnel local des territoires relevant du ministre des affaires étrangères ainsi que des établissements publics relevant des collectivités visées ci-dessus des services exploités en régie, concédés ou affermés de ces mêmes collectivités, ainsi que des entreprises ou établissements, titulaires de privilèges ou de monopoles concédés par celles-ci.\n\nPour bénéficier des avantages prévus aux articles 3, 5 et 11 de la présente ordonnance, les rapatriés devront souscrire une déclaration certifiant, sous leur responsabilité, qu'ils ne possèdent pas la qualité définie ci-dessus.\n\nToute déclaration inexacte sera punie des peines correctionnelles visées à l'article 146 du code des contributions directes.",
+      "valid_from": "1945-05-13"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Les primes d'accueil, les indemnités dites de \"congé de libération\", les indemnités de déportation, ainsi que les payements de soldes effectués en application de l'article 13 ci-dessus, seront exonérés de tous impôts et n'entreront pas en compte pour le calcul de l'impôt général sur le revenu.\n\nAucun rappel d'impôt ne sera effectué à raison des soldes et indemnités servies pendant la captivité du rapatrié, à l'intéressé lui-même ou à ses délégataires."
+      "content": "Les primes d'accueil, les indemnités dites de \"congé de libération\", les indemnités de déportation, ainsi que les payements de soldes effectués en application de l'article 13 ci-dessus, seront exonérés de tous impôts et n'entreront pas en compte pour le calcul de l'impôt général sur le revenu.\n\nAucun rappel d'impôt ne sera effectué à raison des soldes et indemnités servies pendant la captivité du rapatrié, à l'intéressé lui-même ou à ses délégataires.",
+      "valid_from": "1945-05-13"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Les dispositions de la présente ordonnance s'appliquent aux rapatriés qui se sont présentés ou se présenteront aux autorités françaises postérieurement au 1er mars 1945.\n\nLes sommes que les prisonniers, déportés et travailleurs non volontaires, rapatriés entre le 1er mars 1945 et la date de publication de la présente ordonnance, auraient pû percevoir au titre de leur rapatriement, conformément à la réglementation en vigueur à l'époque, ne pourront en aucun cas donner lieu à reversement."
+      "content": "Les dispositions de la présente ordonnance s'appliquent aux rapatriés qui se sont présentés ou se présenteront aux autorités françaises postérieurement au 1er mars 1945.\n\nLes sommes que les prisonniers, déportés et travailleurs non volontaires, rapatriés entre le 1er mars 1945 et la date de publication de la présente ordonnance, auraient pû percevoir au titre de leur rapatriement, conformément à la réglementation en vigueur à l'époque, ne pourront en aucun cas donner lieu à reversement.",
+      "valid_from": "1945-05-13"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Sont abrogées toutes dispositions contraires à celles de la présente ordonnance, notamment l'ordonnance du 5 avril 1945 portant institution d'une prime d'accueil. Est constatée la nullité de l'acte dit loi du 19 août 1942 créant une indemnité dite de congé de libération en faveur des prisonniers de guerre rapatriés, du décret du 5 juillet 1940 portant création d'une prime de démobilisation en faveur des militaires français, et l'acte du décret du 12 août 1940 portant attribution d'une prime de démobilisation aux militaires étrangers servant à titre français et aux militaires indigènes Nord-Africains."
+      "content": "Sont abrogées toutes dispositions contraires à celles de la présente ordonnance, notamment l'ordonnance du 5 avril 1945 portant institution d'une prime d'accueil. Est constatée la nullité de l'acte dit loi du 19 août 1942 créant une indemnité dite de congé de libération en faveur des prisonniers de guerre rapatriés, du décret du 5 juillet 1940 portant création d'une prime de démobilisation en faveur des militaires français, et l'acte du décret du 12 août 1940 portant attribution d'une prime de démobilisation aux militaires étrangers servant à titre français et aux militaires indigènes Nord-Africains.",
+      "valid_from": "1945-05-13"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Des décrets ultérieurs préciseront les conditions d'application de la présente ordonnance."
+      "content": "Des décrets ultérieurs préciseront les conditions d'application de la présente ordonnance.",
+      "valid_from": "1945-05-13"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi."
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi.",
+      "valid_from": "1945-05-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

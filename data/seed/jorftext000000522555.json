@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Par dérogation aux dispositions qui les assujettissent au secret professionnel, les agents des organismes chargés de gérer dans les territoires d'outre-mer les régimes législatifs ou réglementaires de sécurité sociale sont tenus de signaler les dettes de cotisations exigibles aux instituts d'émission agissant pour le compte du Comité consultatif du secteur financier en vue de l'accomplissement de la mission confiée à ce dernier conformément à l'article 13 de la loi n° 45-015 du 2 décembre 1945 et du décret n° 62-434 du 9 avril 1962 étendant la compétence du Comité consultatif du secteur financier aux territoires d'outre-mer."
+      "content": "Par dérogation aux dispositions qui les assujettissent au secret professionnel, les agents des organismes chargés de gérer dans les territoires d'outre-mer les régimes législatifs ou réglementaires de sécurité sociale sont tenus de signaler les dettes de cotisations exigibles aux instituts d'émission agissant pour le compte du Comité consultatif du secteur financier en vue de l'accomplissement de la mission confiée à ce dernier conformément à l'article 13 de la loi n° 45-015 du 2 décembre 1945 et du décret n° 62-434 du 9 avril 1962 étendant la compétence du Comité consultatif du secteur financier aux territoires d'outre-mer.",
+      "valid_from": "2003-08-02"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Un arrêté du ministre de l'économie et des finances et du secrétaire d'Etat aux départements et territoires d'outre-mer fixe le montant minimum des créances qui doivent faire l'objet d'une communication ainsi que les conditions de cette communication."
+      "content": "Un arrêté du ministre de l'économie et des finances et du secrétaire d'Etat aux départements et territoires d'outre-mer fixe le montant minimum des créances qui doivent faire l'objet d'une communication ainsi que les conditions de cette communication.",
+      "valid_from": "1977-05-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

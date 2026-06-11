@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est autorisée la ratification d'un traité entre la République française et les Laender de Bade-Wurtemberg, de l'Etat libre de Bavière, de Berlin, de la ville libre et hanséatique de Brême, de la ville libre et hanséatique de Hambourg, de Hesse, de Basse-Saxe, de Rhénanie du Nord-Westphalie, de Rhénanie-Palatinat, de Sarre, du Schleswig-Holstein sur la chaîne culturelle européenne, signé le 2 octobre 1990 à Berlin et dont le texte est annexé à la présente loi."
+      "content": "Est autorisée la ratification d'un traité entre la République française et les Laender de Bade-Wurtemberg, de l'Etat libre de Bavière, de Berlin, de la ville libre et hanséatique de Brême, de la ville libre et hanséatique de Hambourg, de Hesse, de Basse-Saxe, de Rhénanie du Nord-Westphalie, de Rhénanie-Palatinat, de Sarre, du Schleswig-Holstein sur la chaîne culturelle européenne, signé le 2 octobre 1990 à Berlin et dont le texte est annexé à la présente loi.",
+      "valid_from": "1991-06-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 2016-462 du 14 avril 2016 portant création de l'Agence nationale de santé publique est ratifiée."
+      "content": "L'ordonnance n° 2016-462 du 14 avril 2016 portant création de l'Agence nationale de santé publique est ratifiée.",
+      "valid_from": "2017-02-26"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "A modifié les dispositions suivantes :\n\n- LOI n° 2016-41 du 26 janvier 2016"
+      "content": "A modifié les dispositions suivantes :\n\n- LOI n° 2016-41 du 26 janvier 2016",
+      "valid_from": "2017-02-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

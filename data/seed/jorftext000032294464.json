@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions de l'article 1er ne sont pas applicables aux projets pour lesquels les demandes de permis et les déclarations préalables ont été déposées antérieurement à la date d'entrée en vigueur de la présente ordonnance.Les dispositions du ii du b du 2° de l'article 2 sont applicables aux projets pour lesquels des permis de démolir ont été demandés ou délivrés mais n'ont pas encore été exécutés antérieurement à la date d'entrée en vigueur de la présente ordonnance."
+      "content": "Les dispositions de l'article 1er ne sont pas applicables aux projets pour lesquels les demandes de permis et les déclarations préalables ont été déposées antérieurement à la date d'entrée en vigueur de la présente ordonnance.Les dispositions du ii du b du 2° de l'article 2 sont applicables aux projets pour lesquels des permis de démolir ont été demandés ou délivrés mais n'ont pas encore été exécutés antérieurement à la date d'entrée en vigueur de la présente ordonnance.",
+      "valid_from": "2016-03-27"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, et la ministre du logement et de l'habitat durable sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, et la ministre du logement et de l'habitat durable sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-03-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

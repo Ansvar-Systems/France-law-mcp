@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le statut particulier des agents diplomatiques et consulaires peut prévoir la nomination dans le corps des ministres plénipotentiaires de personnes n'ayant pas la qualité de fonctionnaire ou d'agent public, dans la limite d'une nomination sur quatorze."
+      "content": "Le statut particulier des agents diplomatiques et consulaires peut prévoir la nomination dans le corps des ministres plénipotentiaires de personnes n'ayant pas la qualité de fonctionnaire ou d'agent public, dans la limite d'une nomination sur quatorze.",
+      "valid_from": "1983-07-13"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Pour bénéficier de cette nomination, les personnes visées à l'article 1er doivent être de nationalité française et justifier d'une expérience internationale acquise :soit dans une ou plusieurs organisations internationales intergouvernementales auxquelles la France est partie ;soit dans des actions de coopération internationale ou intergouvernementale conduites par la France ;soit dans les organes permanents d'administration ou de direction d'organisations syndicales représentatives sur le plan national ou d'associations reconnues d'utilité publique, à caractère philanthropique, éducatif, culturel ou scientifique ;soit dans les organes permanents d'administration ou de direction d'organisations professionnelles ou consulaires à caractère économique ou commercial, représentatives sur le plan national."
+      "content": "Pour bénéficier de cette nomination, les personnes visées à l'article 1er doivent être de nationalité française et justifier d'une expérience internationale acquise :soit dans une ou plusieurs organisations internationales intergouvernementales auxquelles la France est partie ;soit dans des actions de coopération internationale ou intergouvernementale conduites par la France ;soit dans les organes permanents d'administration ou de direction d'organisations syndicales représentatives sur le plan national ou d'associations reconnues d'utilité publique, à caractère philanthropique, éducatif, culturel ou scientifique ;soit dans les organes permanents d'administration ou de direction d'organisations professionnelles ou consulaires à caractère économique ou commercial, représentatives sur le plan national.",
+      "valid_from": "1983-07-13"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Un décret en Conseil d'Etat fixe les conditions d'âge et de durée d'activité exigées pour l'accès aux différents grades du corps des ministres plénipotentiaires."
+      "content": "Un décret en Conseil d'Etat fixe les conditions d'âge et de durée d'activité exigées pour l'accès aux différents grades du corps des ministres plénipotentiaires.",
+      "valid_from": "1983-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

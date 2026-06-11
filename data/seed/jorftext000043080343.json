@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - Les services régionaux de l'inventaire général du patrimoine culturel, par leurs missions de recherche et d'expertise au service des collectivités locales, de l'Etat et des particuliers, contribuent, dans toutes les composantes du patrimoine, à étudier et qualifier l'identité culturelle des territoires.II. - Dans les territoires ruraux, les inventaires menés contribuent à connaître et faire connaître la richesse des patrimoines immobilier et mobilier conservés, leur relation avec le paysage et, dans leur diversité d'expressions et d'usages, les activités, pratiques et savoir-faire agricoles associés.III. - Les données documentaires ainsi constituées à des fins de connaissance, de valorisation et d'aménagement du territoire enrichissent la connaissance du patrimoine culturel en général et sont susceptibles de concourir à l'élaboration des documents d'urbanisme."
+      "content": "I. - Les services régionaux de l'inventaire général du patrimoine culturel, par leurs missions de recherche et d'expertise au service des collectivités locales, de l'Etat et des particuliers, contribuent, dans toutes les composantes du patrimoine, à étudier et qualifier l'identité culturelle des territoires.II. - Dans les territoires ruraux, les inventaires menés contribuent à connaître et faire connaître la richesse des patrimoines immobilier et mobilier conservés, leur relation avec le paysage et, dans leur diversité d'expressions et d'usages, les activités, pratiques et savoir-faire agricoles associés.III. - Les données documentaires ainsi constituées à des fins de connaissance, de valorisation et d'aménagement du territoire enrichissent la connaissance du patrimoine culturel en général et sont susceptibles de concourir à l'élaboration des documents d'urbanisme.",
+      "valid_from": "2021-01-31"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport examinant la possibilité d'introduire dans le code civil le principe de la responsabilité de celui qui cause à autrui un trouble anormal de voisinage. Il étudie les critères d'appréciation du caractère anormal de ce trouble, notamment la possibilité de tenir compte de l'environnement.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport examinant la possibilité d'introduire dans le code civil le principe de la responsabilité de celui qui cause à autrui un trouble anormal de voisinage. Il étudie les critères d'appréciation du caractère anormal de ce trouble, notamment la possibilité de tenir compte de l'environnement.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2021-01-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

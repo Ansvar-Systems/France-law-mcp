@@ -12,19 +12,28 @@
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Pour l'application des dispositions prévues par la présente loi, la compensation des charges nouvelles incombant aux collectivités territoriales est assurée par l'Etat."
+      "content": "Pour l'application des dispositions prévues par la présente loi, la compensation des charges nouvelles incombant aux collectivités territoriales est assurée par l'Etat.",
+      "valid_from": "1987-07-24"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Un décret en Conseil d'Etat fixe la date d'entrée en vigueur de la présente loi et ses modalités particulières d'application dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, concernant notamment les contrôles effectués par les inspecteurs de l'apprentissage des organismes consulaires, qui seront maintenus. Toutefois, les dispositions de l'article 18 s'appliquent sans délai dans ces départements."
+      "content": "Un décret en Conseil d'Etat fixe la date d'entrée en vigueur de la présente loi et ses modalités particulières d'application dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, concernant notamment les contrôles effectués par les inspecteurs de l'apprentissage des organismes consulaires, qui seront maintenus. Toutefois, les dispositions de l'article 18 s'appliquent sans délai dans ces départements.",
+      "valid_from": "1987-07-24"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "Un décret fixe, en tant que de besoin, les modalités particulières d'application de la présente loi dans les départements d'outre-mer."
+      "content": "Un décret fixe, en tant que de besoin, les modalités particulières d'application de la présente loi dans les départements d'outre-mer.",
+      "valid_from": "1987-07-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

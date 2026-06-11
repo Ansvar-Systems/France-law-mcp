@@ -1,0 +1,67 @@
+{
+  "id": "legitext000006072667",
+  "type": "statute",
+  "title": "Loi n° 45-138 du 26 décembre 1945",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072667/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Le Gouvernement est autorisé à adhérer aux deux accords relatifs à un Fonds monétaire international et à une Banque internationale pour la Reconstruction et le Développement qui constituent respectivement les annexes A et B à l'Acte final de la Conférence monétaire et financière des Nations Unies tenue à Bretton Woods du 1er au 22 juillet 1944 et dont la traduction est annexée à la présente loi.",
+      "valid_from": "1945-12-27"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Le ministre des finances est autorisé à verser, sur les ressources du Trésor, au Fonds monétaire international :\n\n1° Le montant de la souscription du Gouvernement français, conformément à l'article III, sections 3-a et 4-a, de l'accord relatif au Fonds ;\n\n2° Le cas échéant, et conformément à l'article IV, section 8-b et d, de l'accord relatif au Fonds, les sommes nécessaires pour compenser la réduction en valeur-or des avoirs en monnaie française détenus par le Fonds ;\n\n3° Les commissions dues au Fonds, conformément à l'article V, section 8, de l'accord relatif au Fonds ;\n\n4° Le cas échéant, les sommes dues au Fonds, soit, en cas de retrait du Gouvernement français, conformément au supplément D à l'accord relatif au Fonds, soit, en cas de liquidation du Fonds, conformément au supplément E audit accord. Soit, en cas de faillite ou de manquement du dépositaire des actifs du Fonds désigné par le Gouvernement français, conformément à l'article XIII, section 3, dudit accord.\n\n5° Dans la limite d'un montant équivalent en euros à 18 959 millions de droits de tirage spéciaux, une somme correspondant à des prêts remboursables, dans les conditions prévues au i de la section 1 de l'article VII des statuts du fonds et par les décisions des administrateurs du fonds des 5 janvier 1962, 24 février 1983, 27 janvier 1997 et 12 avril 2010 concernant l'application de cet article ainsi que cumulativement, dans la limite d'un montant de 31 410 millions d'euros, une somme correspondant à des prêts remboursables dans les conditions du même article VII.",
+      "valid_from": "2020-08-01"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les sommes que le Fonds payera au Gouvernement français conformément à l'accord relatif au Fonds ainsi qu'aux suppléments audit accord seront versées au Trésor.",
+      "valid_from": "1945-12-27"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le ministre des finances est autorisé à verser, sur les ressources du Trésor, à la Banque internationale pour la Reconstruction et le Développement :1° Le montant de la souscription du Gouvernement français, ainsi que, le cas échéant, la somme nécessaire pour compenser la réduction en valeur-or dudit montant, conformément à l'article II, sections 3 à 9 inclus, de l'accord relatif à la Banque ;2° Le cas échéant, les sommes dues à la Banque, en cas de retrait du Gouvernement français, conformément à l'article VI, section 4-c (iv) de l'accord relatif à la Banque.",
+      "valid_from": "1945-12-27"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Les sommes que la Banque payera au Gouvernement français, conformément à l'accord relatif à la Banque, seront versées au Trésor.",
+      "valid_from": "1945-12-27"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Le ministre des finances est autorisé à créer et à remettre au Fonds conformément à l'article III, section 5, de l'accord relatif au Fonds, et à la Banque conformément à l'article V, section 12, de l'accord relatif à la Banque, aux lieu et place de toutes sommes en monnaie française à recevoir respectivement par le Fonds et par la Banque, des bons ou obligations du Trésor sans intérêt payables à vue.",
+      "valid_from": "1945-12-27"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Le Fonds et la Banque bénéficient du statut, des immunités et des privilèges prévus respectivement à l'article IX de l'accord relatif au Fonds et à l'article VII de l'accord relatif à la Banque.La présente loi, délibérée et adoptée par l'Assemblée nationale constituante, sera exécutée comme loi de l'Etat.",
+      "valid_from": "1945-12-27"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

@@ -12,7 +12,14 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les articles 1er à 9 sont applicables dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie."
+      "content": "Les articles 1er à 9 sont applicables dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.",
+      "valid_from": "2010-08-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'Agence française de sécurité sanitaire des aliments et l'Agence française de sécurité sanitaire de l'environnement et du travail sont fusionnées dans une agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail à laquelle sont transférés leurs biens, droits et obligations, nonobstant toute disposition ou stipulation contraire. La création de cette agence ne donne lieu à la perception d'aucun droit ou taxe au profit de l'Etat."
+      "content": "L'Agence française de sécurité sanitaire des aliments et l'Agence française de sécurité sanitaire de l'environnement et du travail sont fusionnées dans une agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail à laquelle sont transférés leurs biens, droits et obligations, nonobstant toute disposition ou stipulation contraire. La création de cette agence ne donne lieu à la perception d'aucun droit ou taxe au profit de l'Etat.",
+      "valid_from": "2010-07-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le directeur général de l'Agence française de sécurité sanitaire des aliments en fonction avant l'entrée en vigueur de la présente ordonnance exerce temporairement les fonctions de directeur général de l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail jusqu'à la nomination de ce dernier.Jusqu'à la nomination des membres du conseil d'administration de l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail, les délibérations nécessaires au fonctionnement courant de l'établissement sont adoptées par la réunion des membres des conseils d'administration de l'Agence française de sécurité sanitaire des aliments et de l'Agence française de sécurité sanitaire de l'environnement et du travail en fonction avant l'entrée en vigueur de la présente ordonnance."
+      "content": "Le directeur général de l'Agence française de sécurité sanitaire des aliments en fonction avant l'entrée en vigueur de la présente ordonnance exerce temporairement les fonctions de directeur général de l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail jusqu'à la nomination de ce dernier.Jusqu'à la nomination des membres du conseil d'administration de l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail, les délibérations nécessaires au fonctionnement courant de l'établissement sont adoptées par la réunion des membres des conseils d'administration de l'Agence française de sécurité sanitaire des aliments et de l'Agence française de sécurité sanitaire de l'environnement et du travail en fonction avant l'entrée en vigueur de la présente ordonnance.",
+      "valid_from": "2010-07-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La présente ordonnance entre en vigueur à une date et dans les conditions fixées par décret et au plus tard le 1er juillet 2010."
+      "content": "La présente ordonnance entre en vigueur à une date et dans les conditions fixées par décret et au plus tard le 1er juillet 2010.",
+      "valid_from": "2010-07-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat, la ministre d'Etat, garde des sceaux, ministre de la justice et des libertés, la ministre de l'économie, de l'industrie et de l'emploi, le ministre du travail, des relations sociales, de la famille, de la solidarité et de la ville, le ministre du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat, la ministre de la santé et des sports et le ministre de l'alimentation, de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat, la ministre d'Etat, garde des sceaux, ministre de la justice et des libertés, la ministre de l'économie, de l'industrie et de l'emploi, le ministre du travail, des relations sociales, de la famille, de la solidarité et de la ville, le ministre du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat, la ministre de la santé et des sports et le ministre de l'alimentation, de l'agriculture et de la pêche sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2010-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

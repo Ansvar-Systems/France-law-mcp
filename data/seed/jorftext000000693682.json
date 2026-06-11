@@ -12,37 +12,49 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les préférences accordées par le code des marchés publics aux sociétés coopératives de production justifiant leur inscription sur la liste prévue à l'article 54 de la loi n° 78-763 du 19 juillet 1978 portant statut des    sociétés coopératives de production sont également applicables aux sociétés coopératives ressortissant des Etats membres de la Communauté européenne présentant des caractéristiques comparables et inscrites sur une liste établie par le ministre chargé du travail."
+      "content": "Les préférences accordées par le code des marchés publics aux sociétés coopératives de production justifiant leur inscription sur la liste prévue à l'article 54 de la loi n° 78-763 du 19 juillet 1978 portant statut des    sociétés coopératives de production sont également applicables aux sociétés coopératives ressortissant des Etats membres de la Communauté européenne présentant des caractéristiques comparables et inscrites sur une liste établie par le ministre chargé du travail.",
+      "valid_from": "2014-08-02"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les préférences accordées par le code des marchés publics aux artisans satisfaisant aux dispositions du code de l'artisanat et, en ce qui concerne les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, aux artisans acquittant la taxe pour frais de chambre de métiers, ainsi qu'aux sociétés coopératives d'artisans et aux sociétés coopératives d'artistes inscrites sur une liste établie par le ministre chargé de l'artisanat, sont applicables aux ressortissants jouissant d'un statut professionnel comparable établis dans les Etats membres de la Communauté européenne et aux sociétés coopératives ressortissants de ces Etats membres présentant des caractéristiques comparables et inscrites sur une lite établie par le ministre chargé de l'artisanat."
+      "content": "Les préférences accordées par le code des marchés publics aux artisans satisfaisant aux dispositions du code de l'artisanat et, en ce qui concerne les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, aux artisans acquittant la taxe pour frais de chambre de métiers, ainsi qu'aux sociétés coopératives d'artisans et aux sociétés coopératives d'artistes inscrites sur une liste établie par le ministre chargé de l'artisanat, sont applicables aux ressortissants jouissant d'un statut professionnel comparable établis dans les Etats membres de la Communauté européenne et aux sociétés coopératives ressortissants de ces Etats membres présentant des caractéristiques comparables et inscrites sur une lite établie par le ministre chargé de l'artisanat.",
+      "valid_from": "1994-01-01"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les sociétés coopératives de production existantes à la date de la promulgation de la présente loi disposent d'un délai de cinq ans à compter de cette promulgation pour porter leur capital au montant minimal fixé au paragraphe II de l'article 9.\n\nA défaut d'avoir porté leur capital social audit montant minimal à l'expiration du délai mentionné à l'alinéa précédent, les sociétés devront prononcer leur dissolution ou se transformer en société coopérative d'une autre forme pour laquelle la loi n'exige pas un capital minimal supérieur au capital existant.\n\nLes sociétés qui ne se seront pas conformées aux dispositions de l'alinéa précédent seront dissoutes de plein droit à l'expiration du délai imparti."
+      "content": "Les sociétés coopératives de production existantes à la date de la promulgation de la présente loi disposent d'un délai de cinq ans à compter de cette promulgation pour porter leur capital au montant minimal fixé au paragraphe II de l'article 9.\n\nA défaut d'avoir porté leur capital social audit montant minimal à l'expiration du délai mentionné à l'alinéa précédent, les sociétés devront prononcer leur dissolution ou se transformer en société coopérative d'une autre forme pour laquelle la loi n'exige pas un capital minimal supérieur au capital existant.\n\nLes sociétés qui ne se seront pas conformées aux dispositions de l'alinéa précédent seront dissoutes de plein droit à l'expiration du délai imparti.",
+      "valid_from": "2014-08-02"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Dans les deux ans suivant la publication de la présente loi, les sociétés d'assurance à forme mutuelle sont autorisées à introduire dans leurs statuts le mode de représentation de sociétaires prévu à l'article R. 322-58 du code des assurances, par une délibération de l'assemblée générale extraordinaire réunissant au moins cinq cents sociétaires présents ou représentés en application des statuts en vigueur."
+      "content": "Dans les deux ans suivant la publication de la présente loi, les sociétés d'assurance à forme mutuelle sont autorisées à introduire dans leurs statuts le mode de représentation de sociétaires prévu à l'article R. 322-58 du code des assurances, par une délibération de l'assemblée générale extraordinaire réunissant au moins cinq cents sociétaires présents ou représentés en application des statuts en vigueur.",
+      "valid_from": "1985-07-13"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Les dispositions du titre II de la présente loi sont applicables à Mayotte."
+      "content": "Les dispositions du titre II de la présente loi sont applicables à Mayotte.",
+      "valid_from": "2007-02-22"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Un décret fixe, en tant que de besoin, les modalités d'application de la présente loi."
+      "content": "Un décret fixe, en tant que de besoin, les modalités d'application de la présente loi.",
+      "valid_from": "2007-02-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

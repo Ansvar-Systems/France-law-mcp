@@ -12,49 +12,63 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les rentes viagères individuelles ou collectives constituées au bénéfice du souscripteur du contrat ou au bénéfice d'autrui avant le 1er janvier 1949, par des compagnies d'assurances-vie opérant en France, moyennant le versement à leur profit de capitaux en espèces, sont majorées de plein droit dans les conditions fixées aux articles 2 et 3.Sont toutefois exclues les rentes viagères constituées en vue d'assurer la réparation du préjudice résultant d'un délit ou d'un quasi-délit."
+      "content": "Les rentes viagères individuelles ou collectives constituées au bénéfice du souscripteur du contrat ou au bénéfice d'autrui avant le 1er janvier 1949, par des compagnies d'assurances-vie opérant en France, moyennant le versement à leur profit de capitaux en espèces, sont majorées de plein droit dans les conditions fixées aux articles 2 et 3.Sont toutefois exclues les rentes viagères constituées en vue d'assurer la réparation du préjudice résultant d'un délit ou d'un quasi-délit.",
+      "valid_from": "1953-04-10"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le montant de la majoration est égal à 1500 p. 100 de la rente stipulée au contrat :1° Pour les rentes viagères immédiates qui ont été constituées avant le 1er août 1914 ;2° Pour les rentes différées dont la prime unique ou la totalité des primes périodiques a été versée avant cette date.La majoration est de 787,5 p. 100 :1° Pour les rentes viagères immédiates constituées entre le 1er août 1914 et le 1er septembre 1940 ;2° Pour les rentes différées dont la prime unique ou la totalité des primes a été versée au cours de la même période.La majoration est de 525 p. 100 :1° Pour les rentes viagères immédiates qui ont été constituées entre le 1er septembre 1940 et le 1er septembre 1944 ;2° Pour les rentes différées dont la prime unique ou la totalité des primes périodiques a été versée avant cette date.La majoration est de 262,5 p. 100 :1° Pour les rentes viagères immédiates qui ont été constituées entre le 1er septembre 1944 et le 1er janvier 1946 ;2° Pour les rentes différées dont la prime unique ou la totalité des primes périodiques a été versée avant cette date.La majoration est de 105 p. 100 :1° Pour les rentes viagères immédiates qui ont été constituées entre le 1er janvier 1946 et le 1er janvier 1949 ;2° Pour les rentes différées dont la prime unique ou la totalité des primes périodiques a été versée avant cette date.Les dispositions du présent article relatives aux rentes différées s'appliquent aux assurances réduites conformément à la loi du 13 juillet 1930 ; dans ce cas, la majoration est fixée d'après le montant réduit de la rente.Les dispositions du présent article sont applicables à condition :1° Que le rentier soit âgé de cinquante-cinq ans au moins, cet âge étant ramené à cinquante ans lorsque le rentier se trouvera dans l'état d'invalidité prévu par l'article 11 de la loi du 20 juillet 1886 ;2° Qu'il soit de nationalité française ;3° Qu'il ne soit pas, ni son conjoint, redevable de la surtaxe progressive sur le revenu des personnes physiques lors de la demande de majoration."
+      "content": "Le montant de la majoration est égal à 1500 p. 100 de la rente stipulée au contrat :1° Pour les rentes viagères immédiates qui ont été constituées avant le 1er août 1914 ;2° Pour les rentes différées dont la prime unique ou la totalité des primes périodiques a été versée avant cette date.La majoration est de 787,5 p. 100 :1° Pour les rentes viagères immédiates constituées entre le 1er août 1914 et le 1er septembre 1940 ;2° Pour les rentes différées dont la prime unique ou la totalité des primes a été versée au cours de la même période.La majoration est de 525 p. 100 :1° Pour les rentes viagères immédiates qui ont été constituées entre le 1er septembre 1940 et le 1er septembre 1944 ;2° Pour les rentes différées dont la prime unique ou la totalité des primes périodiques a été versée avant cette date.La majoration est de 262,5 p. 100 :1° Pour les rentes viagères immédiates qui ont été constituées entre le 1er septembre 1944 et le 1er janvier 1946 ;2° Pour les rentes différées dont la prime unique ou la totalité des primes périodiques a été versée avant cette date.La majoration est de 105 p. 100 :1° Pour les rentes viagères immédiates qui ont été constituées entre le 1er janvier 1946 et le 1er janvier 1949 ;2° Pour les rentes différées dont la prime unique ou la totalité des primes périodiques a été versée avant cette date.Les dispositions du présent article relatives aux rentes différées s'appliquent aux assurances réduites conformément à la loi du 13 juillet 1930 ; dans ce cas, la majoration est fixée d'après le montant réduit de la rente.Les dispositions du présent article sont applicables à condition :1° Que le rentier soit âgé de cinquante-cinq ans au moins, cet âge étant ramené à cinquante ans lorsque le rentier se trouvera dans l'état d'invalidité prévu par l'article 11 de la loi du 20 juillet 1886 ;2° Qu'il soit de nationalité française ;3° Qu'il ne soit pas, ni son conjoint, redevable de la surtaxe progressive sur le revenu des personnes physiques lors de la demande de majoration.",
+      "valid_from": "1957-07-13"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "En cas de rente différée, que les contrats aient été groupés ou non, si une partie seulement des primes a été versée soit antérieurement au 1er août 1914, soit entre cette date et le 1er septembre 1940, soit entre le 1er septembre 1940 et le 1er septembre 1944, soit entre le 1er septembre 1944 et le 1er janvier 1946, soit entre le 1er janvier 1946 et le 1er janvier 1949, les majorations fixées par l'article 2 s'appliquent à la fraction de la rente correspondant à la prime payée au cours de chacune de ces périodes. Cette fraction est déterminée à proportion du nombre de primes ainsi payées par rapport au nombre de primes stipulées.Si la rente est réduite pour défaut de paiement d'une des primes, cette proportion est établie par rapport au nombre de primes effectivement payées."
+      "content": "En cas de rente différée, que les contrats aient été groupés ou non, si une partie seulement des primes a été versée soit antérieurement au 1er août 1914, soit entre cette date et le 1er septembre 1940, soit entre le 1er septembre 1940 et le 1er septembre 1944, soit entre le 1er septembre 1944 et le 1er janvier 1946, soit entre le 1er janvier 1946 et le 1er janvier 1949, les majorations fixées par l'article 2 s'appliquent à la fraction de la rente correspondant à la prime payée au cours de chacune de ces périodes. Cette fraction est déterminée à proportion du nombre de primes ainsi payées par rapport au nombre de primes stipulées.Si la rente est réduite pour défaut de paiement d'une des primes, cette proportion est établie par rapport au nombre de primes effectivement payées.",
+      "valid_from": "1957-01-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Il est ouvert au ministre des finances et des affaires économiques, au titre du budget général (services civils) pour l'exercice 1949, en addition aux crédits ouverts par la loi n° 48-1992 du 31 décembre 1948 portant fixation du budget général pour l'exercice 1949 (dépenses ordinaires civiles) modifiée par la loi n° 49-539 du 20 avril 1949 et par des textes spéciaux, un crédit de 500 millions de francs applicable au chapitre 087-1 (nouveau) \"Majoration des rentes viagères constituées auprès des compagnies d'assurances et de la caisse nationale des retraites pour la vieillesse\", du budget des finances et des affaires économiques (I. - Finances)."
+      "content": "Il est ouvert au ministre des finances et des affaires économiques, au titre du budget général (services civils) pour l'exercice 1949, en addition aux crédits ouverts par la loi n° 48-1992 du 31 décembre 1948 portant fixation du budget général pour l'exercice 1949 (dépenses ordinaires civiles) modifiée par la loi n° 49-539 du 20 avril 1949 et par des textes spéciaux, un crédit de 500 millions de francs applicable au chapitre 087-1 (nouveau) \"Majoration des rentes viagères constituées auprès des compagnies d'assurances et de la caisse nationale des retraites pour la vieillesse\", du budget des finances et des affaires économiques (I. - Finances).",
+      "valid_from": "1949-08-06"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Sur les crédits ouverts au ministre des finances et des affaires économiques, au titre du budget des finances et des affaires économiques (I. - Finances) pour l'exercice 1949, par la loi n° 48-1992 du 31 décembre 1948 et par des textes spéciaux, une somme de 500 millions de francs est définitivement annulée au chapitre 053 \"Intérêts des bons du Trésor à court terme et valeurs assimilées\"."
+      "content": "Sur les crédits ouverts au ministre des finances et des affaires économiques, au titre du budget des finances et des affaires économiques (I. - Finances) pour l'exercice 1949, par la loi n° 48-1992 du 31 décembre 1948 et par des textes spéciaux, une somme de 500 millions de francs est définitivement annulée au chapitre 053 \"Intérêts des bons du Trésor à court terme et valeurs assimilées\".",
+      "valid_from": "1949-08-06"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les dépenses résultant des majorations prévues aux articles précédents incombent aux organismes débiteurs des rentes."
+      "content": "Les dépenses résultant des majorations prévues aux articles précédents incombent aux organismes débiteurs des rentes.",
+      "valid_from": "2018-01-01"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les rentes viagères constituées à titre direct ou indirect par des particuliers ou groupements de particuliers auprès de la caisse nationale des retraites pour la vieillesse, auxquelles les majorations instituées par les lois antérieures ne s'appliquent pas, seront, à partir du 1er janvier 1950, majorées suivant les pourcentages et dans les conditions fixées au titre 1er de la présente loi.Ces majorations s'appliqueront notamment aux rentes viagères originairement constituées auprès des sociétés de secours mutuels ou de toutes autres caisses mutualistes et prises en charge par la caisse nationale des retraites. La date retenue pour l'application du pourcentage de majorations sera celle du contrat initial et non celle du nouveau titre.Sont abrogées toutes dispositions contraires au présent article."
+      "content": "Les rentes viagères constituées à titre direct ou indirect par des particuliers ou groupements de particuliers auprès de la caisse nationale des retraites pour la vieillesse, auxquelles les majorations instituées par les lois antérieures ne s'appliquent pas, seront, à partir du 1er janvier 1950, majorées suivant les pourcentages et dans les conditions fixées au titre 1er de la présente loi.Ces majorations s'appliqueront notamment aux rentes viagères originairement constituées auprès des sociétés de secours mutuels ou de toutes autres caisses mutualistes et prises en charge par la caisse nationale des retraites. La date retenue pour l'application du pourcentage de majorations sera celle du contrat initial et non celle du nouveau titre.Sont abrogées toutes dispositions contraires au présent article.",
+      "valid_from": "1949-08-06"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le contrat souscrit par un débirentier auprès d'une compagnie d'assurances ou de la caisse nationale des retraites pour la vieillesse, afin d'assurer le service d'une rente viagère mise à sa charge par contrat ou testament, n'emporte pas novation.\n\nLes majorations applicables aux rentes dont il s'agit sont régies par les dispositions de la loi du 25 mars 1949 en ce qui concerne tant le débiteur des majorations que leur montant si la rente a été constituée en contrepartie ou comme charge de l'aliénation, du don ou du legs des biens visés par cette loi.\n\nCes majorations sont régies par l'article 8 de la présente loi si la rente a été constituée en contrepartie ou comme charge de l'abandon d'un capital en espèces.\n\nNéanmoins, le débirentier ne sera tenu de les supporter que dans la mesure où elles excéderont les majorations pouvant éventuellement profiter au crédirentier conformément à la loi du 5 mai 1948 et à la présente loi."
+      "content": "Le contrat souscrit par un débirentier auprès d'une compagnie d'assurances ou de la caisse nationale des retraites pour la vieillesse, afin d'assurer le service d'une rente viagère mise à sa charge par contrat ou testament, n'emporte pas novation.\n\nLes majorations applicables aux rentes dont il s'agit sont régies par les dispositions de la loi du 25 mars 1949 en ce qui concerne tant le débiteur des majorations que leur montant si la rente a été constituée en contrepartie ou comme charge de l'aliénation, du don ou du legs des biens visés par cette loi.\n\nCes majorations sont régies par l'article 8 de la présente loi si la rente a été constituée en contrepartie ou comme charge de l'abandon d'un capital en espèces.\n\nNéanmoins, le débirentier ne sera tenu de les supporter que dans la mesure où elles excéderont les majorations pouvant éventuellement profiter au crédirentier conformément à la loi du 5 mai 1948 et à la présente loi.",
+      "valid_from": "1949-08-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

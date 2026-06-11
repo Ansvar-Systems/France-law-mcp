@@ -12,7 +12,14 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Premier ministre, le ministre des affaires étrangères et du développement international, la ministre de l'écologie, du développement durable et de l'énergie, la garde des sceaux, ministre de la justice, le ministre des finances et des comptes publics, le ministre de la défense, le ministre de l'intérieur, la ministre des outre-mer et le secrétaire d'Etat chargé des anciens combattants et de la mémoire sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des affaires étrangères et du développement international, la ministre de l'écologie, du développement durable et de l'énergie, la garde des sceaux, ministre de la justice, le ministre des finances et des comptes publics, le ministre de la défense, le ministre de l'intérieur, la ministre des outre-mer et le secrétaire d'Etat chargé des anciens combattants et de la mémoire sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2015-11-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

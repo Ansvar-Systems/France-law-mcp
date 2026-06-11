@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Toute personne voulant faire reconnaître ses droits à la qualité de combattant volontaire de la Résistance définie par l'article L. 262 du code des pensions militaires d'invalidité et des victimes de la guerre qui n'avait pas présenté une demande dans les délais antérieurement impartis et qui ne remplit pas les conditions nécessaires pour bénéficier de la réouverture des délais prévue par l'article 1er du décret n° 75-725 du 6 août 1975, auquel l'article 18 de la loi n° 86-76 du 17 janvier 1986 portant diverses dispositions d'ordre social a donné valeur législative, peut présenter une telle demande à compter de la date d'entrée en vigueur de la présente loi."
+      "content": "Toute personne voulant faire reconnaître ses droits à la qualité de combattant volontaire de la Résistance définie par l'article L. 262 du code des pensions militaires d'invalidité et des victimes de la guerre qui n'avait pas présenté une demande dans les délais antérieurement impartis et qui ne remplit pas les conditions nécessaires pour bénéficier de la réouverture des délais prévue par l'article 1er du décret n° 75-725 du 6 août 1975, auquel l'article 18 de la loi n° 86-76 du 17 janvier 1986 portant diverses dispositions d'ordre social a donné valeur législative, peut présenter une telle demande à compter de la date d'entrée en vigueur de la présente loi.",
+      "valid_from": "1989-05-12"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Un décret pris après avis du Conseil d'Etat précise les conditions d'application de la présente loi."
+      "content": "Un décret pris après avis du Conseil d'Etat précise les conditions d'application de la présente loi.",
+      "valid_from": "1989-05-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

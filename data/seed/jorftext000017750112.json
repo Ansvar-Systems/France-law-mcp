@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 2006-1547 du 7 décembre 2006 relative à la valorisation des produits agricoles, forestiers ou alimentaires et des produits de la mer est ratifiée."
+      "content": "L'ordonnance n° 2006-1547 du 7 décembre 2006 relative à la valorisation des produits agricoles, forestiers ou alimentaires et des produits de la mer est ratifiée.",
+      "valid_from": "2007-12-28"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Par dérogation au premier alinéa de l'article L. 492-4 du code rural, le prochain renouvellement des membres assesseurs des tribunaux paritaires des baux ruraux aura lieu en janvier 2010.Le mandat des membres assesseurs des tribunaux paritaires des baux ruraux en fonction prendra fin à la date d'installation des membres assesseurs nouvellement élus."
+      "content": "Par dérogation au premier alinéa de l'article L. 492-4 du code rural, le prochain renouvellement des membres assesseurs des tribunaux paritaires des baux ruraux aura lieu en janvier 2010.Le mandat des membres assesseurs des tribunaux paritaires des baux ruraux en fonction prendra fin à la date d'installation des membres assesseurs nouvellement élus.",
+      "valid_from": "2007-12-28"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "A modifié les dispositions suivantes :\n\nCode de la consommation"
+      "content": "A modifié les dispositions suivantes :\n\nCode de la consommation",
+      "valid_from": "2007-12-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,7 +12,14 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Est validé le décret n° 82-923 du 28 octobre 1982 relatif à l'organisation du Conseil supérieur de l'électricité et du gaz en tant qu'il n'a pas été précédé de la consultation préalable dudit conseil."
+      "content": "Est validé le décret n° 82-923 du 28 octobre 1982 relatif à l'organisation du Conseil supérieur de l'électricité et du gaz en tant qu'il n'a pas été précédé de la consultation préalable dudit conseil.",
+      "valid_from": "1984-02-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

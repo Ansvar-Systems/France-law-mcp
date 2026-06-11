@@ -12,19 +12,28 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "II. - Le 12° de l'article L. 231-2 du même code dans sa rédaction issue de la présente loi est applicable à compter de l'exercice 2010."
+      "content": "II. - Le 12° de l'article L. 231-2 du même code dans sa rédaction issue de la présente loi est applicable à compter de l'exercice 2010.",
+      "valid_from": "2009-08-07"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "I.-A créé les dispositions suivantes :\n\n-Code des communes de la Nouvelle-Calédonie"
+      "content": "I.-A créé les dispositions suivantes :\n\n-Code des communes de la Nouvelle-Calédonie",
+      "valid_from": "2009-08-07"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "I.-Sont ratifiées les ordonnances suivantes :\n\n1° L'ordonnance n° 2008-728 du 24 juillet 2008 portant adaptation des dispositions du code de l'éducation relatives à l'enseignement supérieur dans les îles Wallis et Futuna ;\n\n2° L'ordonnance n° 2008-860 du 28 août 2008 relative à l'adaptation de la législation douanière applicable à Mayotte et à Saint-Pierre-et-Miquelon ;\n\n3° L'ordonnance n° 2009-536 du 14 mai 2009 portant diverses dispositions d'adaptation du droit outre-mer, à l'exception de ses articles 10 et 11 ;\n\n4° L'ordonnance n° 2009-537 du 14 mai 2009 portant extension et adaptation à Mayotte, dans les îles Wallis et Futuna, en Polynésie française, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie de diverses dispositions de nature législative ;\n\n5° L'ordonnance n° 2009-538 du 14 mai 2009 portant extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie mixte locales ;\n\n6° L'ordonnance n° 2009-664 du 11 juin 2009 relative à l'organisation du service public de l'emploi et à la formation professionnelle à Mayotte.\n\nII et III.-A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n-Loi du 1er juillet 1901\n\n-Loi n° 99-210 du 19 mars 1999"
+      "content": "I.-Sont ratifiées les ordonnances suivantes :\n\n1° L'ordonnance n° 2008-728 du 24 juillet 2008 portant adaptation des dispositions du code de l'éducation relatives à l'enseignement supérieur dans les îles Wallis et Futuna ;\n\n2° L'ordonnance n° 2008-860 du 28 août 2008 relative à l'adaptation de la législation douanière applicable à Mayotte et à Saint-Pierre-et-Miquelon ;\n\n3° L'ordonnance n° 2009-536 du 14 mai 2009 portant diverses dispositions d'adaptation du droit outre-mer, à l'exception de ses articles 10 et 11 ;\n\n4° L'ordonnance n° 2009-537 du 14 mai 2009 portant extension et adaptation à Mayotte, dans les îles Wallis et Futuna, en Polynésie française, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie de diverses dispositions de nature législative ;\n\n5° L'ordonnance n° 2009-538 du 14 mai 2009 portant extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie mixte locales ;\n\n6° L'ordonnance n° 2009-664 du 11 juin 2009 relative à l'organisation du service public de l'emploi et à la formation professionnelle à Mayotte.\n\nII et III.-A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n-Loi du 1er juillet 1901\n\n-Loi n° 99-210 du 19 mars 1999",
+      "valid_from": "2009-08-07"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

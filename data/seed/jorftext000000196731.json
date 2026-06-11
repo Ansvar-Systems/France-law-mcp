@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La présente loi est applicable dans les territoires d'outre-mer et à Mayotte."
+      "content": "La présente loi est applicable dans les territoires d'outre-mer et à Mayotte.",
+      "valid_from": "1997-06-19"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente loi entre en vigueur au terme d'un délai de six mois à compter de sa promulgation.\n\nElle n'est pas applicable aux actes authentiques constatant dans les six mois à compter de la date d'entrée en vigueur de la présente loi une vente réalisée antérieurement à cette entrée en vigueur ou intervenant à la suite d'une promesse unilatérale de vente ou d'achat dont la date est antérieure à cette entrée en vigueur, ni aux décisions judiciaires constatant une vente réalisée antérieurement à cette entrée en vigueur."
+      "content": "La présente loi entre en vigueur au terme d'un délai de six mois à compter de sa promulgation.\n\nElle n'est pas applicable aux actes authentiques constatant dans les six mois à compter de la date d'entrée en vigueur de la présente loi une vente réalisée antérieurement à cette entrée en vigueur ou intervenant à la suite d'une promesse unilatérale de vente ou d'achat dont la date est antérieure à cette entrée en vigueur, ni aux décisions judiciaires constatant une vente réalisée antérieurement à cette entrée en vigueur.",
+      "valid_from": "1997-06-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

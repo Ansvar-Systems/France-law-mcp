@@ -12,13 +12,21 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "L'étranger ou apatride qui a contracté mariage avec une personne de nationalité française avant l'entrée en vigueur de la présente loi peut, s'il n'a pas acquis la nationalité française, réclamer cette nationalité conformément aux articles 37-1 et suivants du code de la nationalité française (1) modifié par cette loi.\n\nToutefois, les déclarations qui ont été faites avant l'entrée en vigueur de la présente loi sont soumises aux dispositions applicables à la date à laquelle elles ont été souscrites."
+      "content": "L'étranger ou apatride qui a contracté mariage avec une personne de nationalité française avant l'entrée en vigueur de la présente loi peut, s'il n'a pas acquis la nationalité française, réclamer cette nationalité conformément aux articles 37-1 et suivants du code de la nationalité française (1) modifié par cette loi.\n\nToutefois, les déclarations qui ont été faites avant l'entrée en vigueur de la présente loi sont soumises aux dispositions applicables à la date à laquelle elles ont été souscrites.",
+      "valid_from": "1984-05-10"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "La présente loi est applicable dans les territoires d'outre-mer et à Mayotte dans les conditions prévues au titre VIII du code de la nationalité française (1).\n\nLa présente loi sera exécutée comme loi de l’Etat."
+      "content": "La présente loi est applicable dans les territoires d'outre-mer et à Mayotte dans les conditions prévues au titre VIII du code de la nationalité française (1).\n\nLa présente loi sera exécutée comme loi de l’Etat.",
+      "valid_from": "1984-05-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

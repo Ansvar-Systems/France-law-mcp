@@ -9,46 +9,227 @@
   "description": null,
   "provisions": [
     {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Article 26",
+      "content": "A modifié les dispositions suivantes :\n\nArt. L395 du code de la sécurité sociale",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Article 28",
+      "content": "A modifié les dispositions suivantes :\n\nArt. L67 du code de la sécurité sociale",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Article 31",
+      "content": "A modifié les dispositions suivantes :\n\nArt. L691 du code de la sécurité sociale",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Article 32",
+      "content": "A modifié les dispositions suivantes :\n\nArt. L1038 du code rural",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Article 33",
+      "content": "A modifié les dispositions suivantes :\n\nArt. L1029 et art. 143-3 du code rural",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Article 34",
+      "content": "A modifié les dispositions suivantes :\n\nArt. L1234-7 du code rural",
+      "valid_from": "1978-07-18"
+    },
+    {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "L'article 1546 du code des assurances sociales en vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle est complété par les dispositions suivantes :\" Sauf en cas de fraude ou de fausse déclaration, l'action intentée par un organisme payeur en recouvrement des prestations indûment versées se prescrit également par deux ans à compter du paiement desdites prestations entre les mains du bénéficiaire.\""
+      "content": "L'article 1546 du code des assurances sociales en vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle est complété par les dispositions suivantes :\" Sauf en cas de fraude ou de fausse déclaration, l'action intentée par un organisme payeur en recouvrement des prestations indûment versées se prescrit également par deux ans à compter du paiement desdites prestations entre les mains du bénéficiaire.\"",
+      "valid_from": "1978-07-18"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "L'article 29 du code des assurances sociales en vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle est abrogé."
+      "content": "L'article 29 du code des assurances sociales en vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle est abrogé.",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Article 37",
+      "content": "A modifié les dispositions suivantes :\n\nArt. L3-1 du code de la sécurité sociale",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Article 38",
+      "content": "A modifié les dispositions suivantes :\n\nArt. L20 du code des pensions de retraite des marins",
+      "valid_from": "1978-07-18"
     },
     {
       "provision_ref": "art39",
       "section": "39",
       "title": "Article 39",
-      "content": "I. - A modifié les dispositions suivantes :\n\nArt. L351-2 du code de la sécurité sociale\n\nII. - Un décret en Conseil d'Etat déteremine les modalités d'application du présent article."
+      "content": "I. - A modifié les dispositions suivantes :\n\nArt. L351-2 du code de la sécurité sociale\n\nII. - Un décret en Conseil d'Etat déteremine les modalités d'application du présent article.",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Article 41",
+      "content": "A modifié les dispositions suivantes :\n\nArt. L1122-2 du code rural",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Article 43",
+      "content": "A modifié les dispositions suivantes :\n\nArt. L44 ; art. L45 ; art. L50 ; art. L88 du code des pensions civiles et militaires de retraite",
+      "valid_from": "1978-07-18"
     },
     {
       "provision_ref": "art44",
       "section": "44",
       "title": "Article 44",
-      "content": "Les dispositions des articles 38 à 43 ne sont applicables qu'aux pensions de réversion qui ont pris effet postérieurement à la date de publication de la présente loi."
+      "content": "Les dispositions des articles 38 à 43 ne sont applicables qu'aux pensions de réversion qui ont pris effet postérieurement à la date de publication de la présente loi.",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Article 46",
+      "content": "A modifié les dispositions suivantes :\n\nArt. 6 loi 75-534 du 30 juin 1975",
+      "valid_from": "1978-07-18"
     },
     {
       "provision_ref": "art47",
       "section": "47",
       "title": "Article 47",
-      "content": "I. Paragraphe modificateurII. Les dispositions des articles L. 320 à L. 324 bis du code des pensions militaires d'invalidité et des victimes de guerre sont applicables aux Français résidant à l'étranger."
+      "content": "I. Paragraphe modificateurII. Les dispositions des articles L. 320 à L. 324 bis du code des pensions militaires d'invalidité et des victimes de guerre sont applicables aux Français résidant à l'étranger.",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Article 48",
+      "content": "A modifié les dispositions suivantes :\n\nArt. L323-11 du code du travail",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Article 49",
+      "content": "A modifié les dispositions suivantes :\n\nArt. 1 loi 71-582 du 16 juillet 1971",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Article 50",
+      "content": "A modifié les dispositions suivantes :\n\nArt. L342-5 ; art. L620-1 du code du travail",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Article 51",
+      "content": "A modifié les dispositions suivantes :\n\nArt. L122-39 ; art. L122-40 ; L122-42 ; L122-41 ; L152-1 du code du travail",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Article 52",
+      "content": "A modifié les dispositions suivantes :\n\nArt. L521-1 du code du travail",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Article 53",
+      "content": "a modifié les dispositions suivantes",
+      "valid_from": "1978-07-18"
     },
     {
       "provision_ref": "art56",
       "section": "56",
       "title": "Article 56",
-      "content": "I - (paragraphe modificateur).II - Les dispositions du paragraphe I de cet article (article 55 de l'ancien code pénal) sont immédiatement applicables quelle que soit la date des faits délictueux. Les interdictions en cours à la date d'application de la présente loi cessent de s'appliquer au terme d'une période de dix ans à compter de la date de la condamnation définitive les ayant entraînées.III - Un décret en Conseil d'Etat déterminera, en tant que de besoin, les modalités d'application du présent article."
+      "content": "I - (paragraphe modificateur).II - Les dispositions du paragraphe I de cet article (article 55 de l'ancien code pénal) sont immédiatement applicables quelle que soit la date des faits délictueux. Les interdictions en cours à la date d'application de la présente loi cessent de s'appliquer au terme d'une période de dix ans à compter de la date de la condamnation définitive les ayant entraînées.III - Un décret en Conseil d'Etat déterminera, en tant que de besoin, les modalités d'application du présent article.",
+      "valid_from": "1978-07-18"
     },
     {
       "provision_ref": "art57",
       "section": "57",
       "title": "Article 57",
-      "content": "Lorsque le délai-congé se répartit sur plus d'une année civile, l'indemnité compensatrice due en application du code du travail peut, pour l'établissement de l'impôt sur le revenu, être déclarée par le contribuable en plusieurs fractions correspondant respectivement à la part de l'indemnité afférente à chacune des années considérées."
+      "content": "Lorsque le délai-congé se répartit sur plus d'une année civile, l'indemnité compensatrice due en application du code du travail peut, pour l'établissement de l'impôt sur le revenu, être déclarée par le contribuable en plusieurs fractions correspondant respectivement à la part de l'indemnité afférente à chacune des années considérées.",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Article 58",
+      "content": "A modifié les dispositions suivantes :\n\nArt. 17 Ordonnance 58-997 du 23 octobre 1958",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Article 59",
+      "content": "A modifié les dispositions suivantes\n\nOrdonnance n° 45-2339 du 13 octobre 1945\n\nArt. 13",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Article 60",
+      "content": "A modifié les dispositions suivantes :\n\nArt. L164-6 du code des communes",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Article 61",
+      "content": "A modifié les dispositions suivantes :\n\nArt. 27 loi 68-978 du 12 novembre 1968",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Article 62",
+      "content": "A modifié les dispositions suivantes :\n\nArt. 30 loi 68-978 du 12 novembre 1968",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Article 63",
+      "content": "A modifié les dispositions suivantes :\n\nArt. L122-20 du code des communes ;\n\nArt L211-3 du code de l'urbanisme.",
+      "valid_from": "1978-07-18"
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Article 64",
+      "content": "A modifié les dispositions suivantes :\n\nArt. 1844-2 du code civil",
+      "valid_from": "1978-07-18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -1,10 +1,10 @@
 {
   "id": "jorftext000000699737",
   "type": "statute",
-  "title": "Ordonnance n°45-2658 du 2 novembre 1945",
+  "title": "Ordonnance n° 45-2658 du 2 novembre 1945",
   "title_en": null,
   "short_name": null,
-  "status": "repealed",
+  "status": "in_force",
   "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000699737",
   "description": null,
   "provisions": [
@@ -12,7 +12,14 @@
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "Les dispositions sur le retrait des titres de séjour prévues à l'article 15 bis et au deuxième alinéa de l'article 30, dans leur rédaction issue de la loi n° 93-1027 du 24 août 1993 relative à la maîtrise de l'immigration et aux conditions d'entrée, d'accueil et de séjour des étrangers en France, ne sont applicables qu'à des étrangers ayant reçu un titre de séjour après l'entrée en vigueur de cette loi.Les dispositions du premier alinéa du IV de l'article 29, dans leur rédaction issue de la loi n° 2003-1119 du 26 novembre 2003 précitée, ne sont applicables qu'à des étrangers ayant reçu un titre de séjour après l'entrée en vigueur de cette loi."
+      "content": "Les dispositions sur le retrait des titres de séjour prévues à l'article 15 bis et au deuxième alinéa de l'article 30, dans leur rédaction issue de la loi n° 93-1027 du 24 août 1993 relative à la maîtrise de l'immigration et aux conditions d'entrée, d'accueil et de séjour des étrangers en France, ne sont applicables qu'à des étrangers ayant reçu un titre de séjour après l'entrée en vigueur de cette loi.Les dispositions du premier alinéa du IV de l'article 29, dans leur rédaction issue de la loi n° 2003-1119 du 26 novembre 2003 précitée, ne sont applicables qu'à des étrangers ayant reçu un titre de séjour après l'entrée en vigueur de cette loi.",
+      "valid_from": "2003-11-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

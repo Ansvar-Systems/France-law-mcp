@@ -12,7 +12,14 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les modalités d'application de l'article L. 181-1 du code de la sécurité sociale, à l'exclusion du 1°, aux assurés relevant des dispositions du titre V du livre VII du code rural sont déterminées par décret en Conseil d'Etat."
+      "content": "Les modalités d'application de l'article L. 181-1 du code de la sécurité sociale, à l'exclusion du 1°, aux assurés relevant des dispositions du titre V du livre VII du code rural sont déterminées par décret en Conseil d'Etat.",
+      "valid_from": "2000-04-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -1,0 +1,39 @@
+{
+  "id": "legitext000006071066",
+  "type": "statute",
+  "title": "Ordonnance du 6 décembre 1944",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071066/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les greffiers et commis greffiers, à l'exclusion des greffiers en chef titulaires de charge, sont nommés sans distinction de sexe dans les conditions prévues par les lois et règlements en vigueur.",
+      "valid_from": "1944-12-07"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Sont abrogées toutes dispositions antérieures en ce qu'elles ont de contraire à la présente ordonnance.",
+      "valid_from": "1944-12-07"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République française.",
+      "valid_from": "1944-12-07"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

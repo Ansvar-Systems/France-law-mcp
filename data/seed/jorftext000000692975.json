@@ -12,31 +12,42 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Sous réserve des décisions de justice passées en force de chose jugée, les créances transférées au crédit d'équipement des petites et moyennes entreprises lors de sa création par la caisse centrale de crédit hôtelier, commercial et industriel, la Caisse nationale des marchés de l'Etat et le groupement interprofessionnel des petites et moyennes entreprises, sont valablement dévolues au crédit d'équipement et à l'égard des tiers à la date de leur transfert, avec les privilèges et hypothèques dont elles étaient éventuellement assorties sans qu'il y ait lieu de procéder aux formalités des articles 1690 et 2430 du code civil."
+      "content": "Sous réserve des décisions de justice passées en force de chose jugée, les créances transférées au crédit d'équipement des petites et moyennes entreprises lors de sa création par la caisse centrale de crédit hôtelier, commercial et industriel, la Caisse nationale des marchés de l'Etat et le groupement interprofessionnel des petites et moyennes entreprises, sont valablement dévolues au crédit d'équipement et à l'égard des tiers à la date de leur transfert, avec les privilèges et hypothèques dont elles étaient éventuellement assorties sans qu'il y ait lieu de procéder aux formalités des articles 1690 et 2430 du code civil.",
+      "valid_from": "2006-03-24"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "Les personnes qui, à la date de publication de la présente loi, effectuent des opérations visées à l'article 36 de la loi n° 83-1 du 3 janvier 1983 précitée disposent d'un délai d'un an pour se mettre en conformité avec les dispositions de l'article 36-1.A défaut, elles ne peuvent recevoir aucune somme correspondant à de nouvelles souscriptions. Les versements qui leur sont faits au titre de produits de placements sont déposés entre les mains d'un séquestre désigné en justice à la demande de tout intéressé ou de l'Autorité des marchés financiers et chargé de les percevoir en vue de les distribuer aux titulaires de droits."
+      "content": "Les personnes qui, à la date de publication de la présente loi, effectuent des opérations visées à l'article 36 de la loi n° 83-1 du 3 janvier 1983 précitée disposent d'un délai d'un an pour se mettre en conformité avec les dispositions de l'article 36-1.A défaut, elles ne peuvent recevoir aucune somme correspondant à de nouvelles souscriptions. Les versements qui leur sont faits au titre de produits de placements sont déposés entre les mains d'un séquestre désigné en justice à la demande de tout intéressé ou de l'Autorité des marchés financiers et chargé de les percevoir en vue de les distribuer aux titulaires de droits.",
+      "valid_from": "2003-08-02"
     },
     {
       "provision_ref": "art42",
       "section": "42",
       "title": "Article 42",
-      "content": "I Paragraphe modificateurII - Les obligations déclaratives des sociétés mentionnées au paragraphe I ci-dessus sont fixées par décret.III - Les dispositions du paragraphe I ci-dessus s'appliquent aux intérêts afférents aux ressources empruntées à compter du 1er janvier 1986."
+      "content": "I Paragraphe modificateurII - Les obligations déclaratives des sociétés mentionnées au paragraphe I ci-dessus sont fixées par décret.III - Les dispositions du paragraphe I ci-dessus s'appliquent aux intérêts afférents aux ressources empruntées à compter du 1er janvier 1986.",
+      "valid_from": "1985-12-15"
     },
     {
       "provision_ref": "art43",
       "section": "43",
       "title": "Article 43",
-      "content": "Les conditions d'application des articles 35 à 42 sont fixées par décret."
+      "content": "Les conditions d'application des articles 35 à 42 sont fixées par décret.",
+      "valid_from": "1985-12-15"
     },
     {
       "provision_ref": "art45",
       "section": "45",
       "title": "Article 45",
-      "content": "Le titre Ier de la présente loi, à l'exception de l'article 2, son titre II, à l'exception du dernier alinéa de l'article 10-I, des articles 13-II, 13-III, 13-IV, 14, 15 et 16, son titre III, à l'exception des articles 23, 24 et 30, et l'article 34-I de son titre V sont applicables dans les territoires d'outre-mer et à Mayotte dans leur rédaction antérieure à la promulgation de la loi n° 98-546 du 2 juillet 1998, sous réserve que le délai d'un an prévu au premier alinéa de l'article 29 court à compter de la date de publication de l'ordonnance n° 98-775 du 2 septembre 1998 dans le territoire d'outre-mer ou la collectivité territoriale concernés."
+      "content": "Le titre Ier de la présente loi, à l'exception de l'article 2, son titre II, à l'exception du dernier alinéa de l'article 10-I, des articles 13-II, 13-III, 13-IV, 14, 15 et 16, son titre III, à l'exception des articles 23, 24 et 30, et l'article 34-I de son titre V sont applicables dans les territoires d'outre-mer et à Mayotte dans leur rédaction antérieure à la promulgation de la loi n° 98-546 du 2 juillet 1998, sous réserve que le délai d'un an prévu au premier alinéa de l'article 29 court à compter de la date de publication de l'ordonnance n° 98-775 du 2 septembre 1998 dans le territoire d'outre-mer ou la collectivité territoriale concernés.",
+      "valid_from": "1998-09-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

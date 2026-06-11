@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La présente ordonnance entrera en vigueur le 15 octobre 1992.L'article 51 du code de la route en vigueur dans la collectivité territoriale de Mayotte est abrogé à compter de cette même date."
+      "content": "La présente ordonnance entrera en vigueur le 15 octobre 1992.L'article 51 du code de la route en vigueur dans la collectivité territoriale de Mayotte est abrogé à compter de cette même date.",
+      "valid_from": "1992-10-15"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'économie, des finances et du budget, le garde des sceaux, ministre de la justice, et le ministre des départements et territoires d'outre-mer sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'économie, des finances et du budget, le garde des sceaux, ministre de la justice, et le ministre des départements et territoires d'outre-mer sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "1992-10-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

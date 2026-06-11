@@ -12,31 +12,42 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Sous réserve des dispositions de l'article 8, les dispositions de la présente ordonnance sont applicables le 29 décembre 2020."
+      "content": "Sous réserve des dispositions de l'article 8, les dispositions de la présente ordonnance sont applicables le 29 décembre 2020.",
+      "valid_from": "2020-12-29"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les compagnies financières holding, entreprises mères de société de financement et compagnies financières holding mixtes déjà existantes en date du 27 juin 2019 sollicitent une approbation conformément aux dispositions de l'article L. 517-12 du code monétaire et financier au plus tard le 28 juin 2021. A défaut, l'Autorité de contrôle prudentiel et de résolution prend une ou plusieurs des mesures mentionnées à l'article L. 517-16 du même code."
+      "content": "Les compagnies financières holding, entreprises mères de société de financement et compagnies financières holding mixtes déjà existantes en date du 27 juin 2019 sollicitent une approbation conformément aux dispositions de l'article L. 517-12 du code monétaire et financier au plus tard le 28 juin 2021. A défaut, l'Autorité de contrôle prudentiel et de résolution prend une ou plusieurs des mesures mentionnées à l'article L. 517-16 du même code.",
+      "valid_from": "2020-12-29"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "I. - Les dispositions suivantes de la présente ordonnance n'entrent en vigueur qu'à compter du 28 juin 2021 :1° Les a et b du 7° et le b du 8° de l'article 1er du chapitre Ier ;2° Les a et b du 2° et le b du 3° de l'article 2 du chapitre Ier.II. - Les dispositions du g, à l'exception du 1° du iv, du h et du i du 6° de l'article 1er du chapitre Ier de la présente ordonnance n'entrent en vigueur qu'à compter du 1er janvier 2022."
+      "content": "I. - Les dispositions suivantes de la présente ordonnance n'entrent en vigueur qu'à compter du 28 juin 2021 :1° Les a et b du 7° et le b du 8° de l'article 1er du chapitre Ier ;2° Les a et b du 2° et le b du 3° de l'article 2 du chapitre Ier.II. - Les dispositions du g, à l'exception du 1° du iv, du h et du i du 6° de l'article 1er du chapitre Ier de la présente ordonnance n'entrent en vigueur qu'à compter du 1er janvier 2022.",
+      "valid_from": "2020-12-29"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les dispositions du présent chapitre sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna."
+      "content": "Les dispositions du présent chapitre sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.",
+      "valid_from": "2020-12-29"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-12-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

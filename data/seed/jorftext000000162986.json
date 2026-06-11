@@ -1,10 +1,10 @@
 {
   "id": "jorftext000000162986",
   "type": "statute",
-  "title": "Ordonnance n°92-1144 du 12 octobre 1992",
+  "title": "Ordonnance n° 92-1144 du 12 octobre 1992",
   "title_en": null,
   "short_name": null,
-  "status": "repealed",
+  "status": "in_force",
   "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000162986",
   "description": null,
   "provisions": [
@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions des articles 706-3 à 706-11 et 706-14 du code de procédure pénale tels qu'ils ont été modifiés par les lois n° 83-608 du 8 juillet 1983, n° 90-589 du 6 juillet 1990 et n° 92-665 du 16 juillet 1992 susvisées sont applicables à Mayotte, sous réserve des dispositions des articles 2 et 3 ci-après."
+      "content": "Les dispositions des articles 706-3 à 706-11 et 706-14 du code de procédure pénale tels qu'ils ont été modifiés par les lois n° 83-608 du 8 juillet 1983, n° 90-589 du 6 juillet 1990 et n° 92-665 du 16 juillet 1992 susvisées sont applicables à Mayotte, sous réserve des dispositions des articles 2 et 3 ci-après.",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions de l'article 17 de la loi du 6 juillet 1990 précitée sont applicables à Mayotte."
+      "content": "Les dispositions de l'article 17 de la loi du 6 juillet 1990 précitée sont applicables à Mayotte.",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les dispositions de l'article L. 126-1 et du chapitre II du titre II du livre IV du code des assurances (partie Législative) dans leur rédaction issue de la loi du 6 juillet 1990 précitée sont applicables à Mayotte."
+      "content": "Les dispositions de l'article L. 126-1 et du chapitre II du titre II du livre IV du code des assurances (partie Législative) dans leur rédaction issue de la loi du 6 juillet 1990 précitée sont applicables à Mayotte.",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "La présente ordonnance entrera en vigueur le 15 octobre 1992."
+      "content": "La présente ordonnance entrera en vigueur le 15 octobre 1992.",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les dispositions de la présente ordonnance s'appliqueront aux faits commis antérieurement au 15 octobre 1992 à Mayotte qui n'ont pas donné lieu à une décision d'indemnisation irrévocable passée en force de chose jugée."
+      "content": "Les dispositions de la présente ordonnance s'appliqueront aux faits commis antérieurement au 15 octobre 1992 à Mayotte qui n'ont pas donné lieu à une décision d'indemnisation irrévocable passée en force de chose jugée.",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, le ministre de l'économie et des finances et le ministre des départements et territoires d'outre-mer sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, le ministre de l'économie et des finances et le ministre des départements et territoires d'outre-mer sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2001-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

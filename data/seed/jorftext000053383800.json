@@ -1,0 +1,67 @@
+{
+  "id": "jorftext000053383800",
+  "type": "statute",
+  "title": "Loi du 6 fructidor an II (23 août 1794)",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053383800",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Aucun citoyen ne pourra porter de nom ni de prénom autres que ceux exprimés dans son acte de naissance : ceux qui les auraient quittés seront tenus de les reprendre.",
+      "valid_from": "1794-08-23"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Il est également défendu d'ajouter aucun surnom à son nom propre, à moins qu'il n'ait servi jusqu'ici à distinguer les membres d'une même famille, sans rappeler des ramifications féodales ou nobiliaires.",
+      "valid_from": "1794-08-23"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Ceux qui enfreindraient les dispositions des deux articles précédens, seront condamnés à six mois d'emprisonnement et à une amende égale au quart de leurs revenus. La récidive sera punie de la dégradation civique.",
+      "valid_from": "1794-08-23"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Il est expressément défendu à tous fonctionnaires publics de désigner les citoyens dans les actes autrement que par le nom de famille, les prénoms portés en l'acte de naissance, ou les surnoms maintenus par l'article 2, ni d'en exprimer d'autres dans les expéditions et extraits qu'ils délivreront à l'avenir.",
+      "valid_from": "1794-08-23"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Les fonctionnaires qui contreviendraient aux dispositions de l'article précédent, seront destitués, déclarés incapables d'exercer aucune fonction publique, et condamnés à une amende égale au quart de leurs revenus.",
+      "valid_from": "1794-08-23"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Tout citoyen pourra dénon[c]er les contraventions à la présente loi à l'officier de police, dans les formes ordinaires.",
+      "valid_from": "1794-08-23"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Les accusés seront jugés pour la première fois par le tribunal de police correctionnelle, et en cas de récidive, par le tribunal criminel du département.\n\nLe présent décret sera imprimé dans le bulletin des lois.",
+      "valid_from": "1794-08-23"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

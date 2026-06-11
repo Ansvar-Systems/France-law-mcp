@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport visant à encadrer la pratique du tatouage tridimensionnel définitif de la plaque aréolo-mamelonnaire pour les femmes ayant subi une mastectomie ainsi que les modalités de sa prise en charge."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport visant à encadrer la pratique du tatouage tridimensionnel définitif de la plaque aréolo-mamelonnaire pour les femmes ayant subi une mastectomie ainsi que les modalités de sa prise en charge.",
+      "valid_from": "2025-02-07"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur la possibilité du versement d'une indemnité de garde d'enfant aux personnes bénéficiant d'un traitement du cancer du sein, de soins consécutifs à un cancer du sein ou d'un parcours de soins global à l'issue d'un traitement du cancer du sein, lorsqu'elles ont la responsabilité d'enfants mineurs."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur la possibilité du versement d'une indemnité de garde d'enfant aux personnes bénéficiant d'un traitement du cancer du sein, de soins consécutifs à un cancer du sein ou d'un parcours de soins global à l'issue d'un traitement du cancer du sein, lorsqu'elles ont la responsabilité d'enfants mineurs.",
+      "valid_from": "2025-02-07"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La charge pour les organismes de sécurité sociale est compensée à due concurrence par la majoration de l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services."
+      "content": "La charge pour les organismes de sécurité sociale est compensée à due concurrence par la majoration de l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.",
+      "valid_from": "2025-02-07"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Dans le cadre de la présente loi, les personnes morales et les organismes de droit privé visés au premier alinéa de l'article L. 322-4-18 du code du travail peuvent confier aux missions locales pour l'emploi et aux permanences d'accueil d'information et d'orientation un rôle d'information et d'orientation auprès des personnes de dix-huit à vingt-six ans."
+      "content": "Dans le cadre de la présente loi, les personnes morales et les organismes de droit privé visés au premier alinéa de l'article L. 322-4-18 du code du travail peuvent confier aux missions locales pour l'emploi et aux permanences d'accueil d'information et d'orientation un rôle d'information et d'orientation auprès des personnes de dix-huit à vingt-six ans.",
+      "valid_from": "1997-10-17"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Compte tenu du taux de chômage dans les départements d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon, des mesures d'application spécifiques de la présente loi, s'appuyant notamment sur le Fonds pour l'emploi dans les départements d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon, seront déterminées par décret."
+      "content": "Compte tenu du taux de chômage dans les départements d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon, des mesures d'application spécifiques de la présente loi, s'appuyant notamment sur le Fonds pour l'emploi dans les départements d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon, seront déterminées par décret.",
+      "valid_from": "1997-10-17"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Avant le 31 décembre 1998, le Gouvernement présentera au Parlement un rapport dressant le bilan de l'application de la présente loi. Ce rapport analysera les effets de cette loi sur l'emploi et sa contribution à la satisfaction des besoins à couvrir ainsi que son impact sur la création d'entreprise par les jeunes.Ce rapport devra permettre de vérifier que dans la proportion des trois quarts les emplois créés en application de la présente loi résultent d'initiatives locales.Avant le 31 décembre 1998, le Gouvernement présentera au Parlement un ensemble de dispositions de nature à encourager les jeunes à s'orienter vers les métiers."
+      "content": "Avant le 31 décembre 1998, le Gouvernement présentera au Parlement un rapport dressant le bilan de l'application de la présente loi. Ce rapport analysera les effets de cette loi sur l'emploi et sa contribution à la satisfaction des besoins à couvrir ainsi que son impact sur la création d'entreprise par les jeunes.Ce rapport devra permettre de vérifier que dans la proportion des trois quarts les emplois créés en application de la présente loi résultent d'initiatives locales.Avant le 31 décembre 1998, le Gouvernement présentera au Parlement un ensemble de dispositions de nature à encourager les jeunes à s'orienter vers les métiers.",
+      "valid_from": "1997-10-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

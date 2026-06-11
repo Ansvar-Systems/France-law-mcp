@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La lésion de plus du quart dans l'achat des engrais ou amendements qui font l'objet de la loi n° 79-595 du 13 juillet 1979, des semences et plants destinés à l'agriculture, et des substances destinées à l'alimentation des animaux de la ferme, donne à l'acheteur une action en réduction de prix et dommages-intérêts."
+      "content": "La lésion de plus du quart dans l'achat des engrais ou amendements qui font l'objet de la loi n° 79-595 du 13 juillet 1979, des semences et plants destinés à l'agriculture, et des substances destinées à l'alimentation des animaux de la ferme, donne à l'acheteur une action en réduction de prix et dommages-intérêts.",
+      "valid_from": "1979-07-14"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Cette action doit être intentée, à peine de déchéance, dans le délai de quarante jours à dater de la livraison. Ce délai est franc. Elle demeure recevable nonobstant l'emploi partiel ou total des matières livrées."
+      "content": "Cette action doit être intentée, à peine de déchéance, dans le délai de quarante jours à dater de la livraison. Ce délai est franc. Elle demeure recevable nonobstant l'emploi partiel ou total des matières livrées.",
+      "valid_from": "1907-07-08"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Nonobstant toute convention contraire, qui sera nulle de plein droit, cette action sera de la compétence du juge du tribunal d'instance du domicile de l'acheteur, quel que soit le chiffre de la demande, et sous réserve du droit d'appel si ce chiffre dépasse le taux de la compétence ordinaire en dernier ressort du juge du tribunal d'instance, tel qu'il sera fixé au moment de son introduction par le texte de l'article 1er de la loi du 12 juillet 1905, modifié par les dispositions alors en vigueur."
+      "content": "Nonobstant toute convention contraire, qui sera nulle de plein droit, cette action sera de la compétence du juge du tribunal d'instance du domicile de l'acheteur, quel que soit le chiffre de la demande, et sous réserve du droit d'appel si ce chiffre dépasse le taux de la compétence ordinaire en dernier ressort du juge du tribunal d'instance, tel qu'il sera fixé au moment de son introduction par le texte de l'article 1er de la loi du 12 juillet 1905, modifié par les dispositions alors en vigueur.",
+      "valid_from": "1937-03-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

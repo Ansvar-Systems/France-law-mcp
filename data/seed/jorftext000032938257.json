@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les exploitants d'installations de production d'électricité participant à une opération d'autoconsommation à la date de publication de la présente ordonnance procèdent à la déclaration prévue à l'article L. 315-7 du code de l'énergie avant le 31 mars 2017."
+      "content": "Les exploitants d'installations de production d'électricité participant à une opération d'autoconsommation à la date de publication de la présente ordonnance procèdent à la déclaration prévue à l'article L. 315-7 du code de l'énergie avant le 31 mars 2017.",
+      "valid_from": "2016-07-29"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre et la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-07-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

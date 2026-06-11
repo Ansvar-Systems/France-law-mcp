@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "Les bénéficiaires de l'ordonnance n° 45-875 du ler mai 1945 qui antérieurement à leur éviction les fonctions d'administrateur d'une société anonyme et y assumaient en même temps des fonctions directoriales pourront être réintégrés, même en surnombre, nonobstant toutes dispositions législatives ou statutaires contraires, conformément aux modalités d'application de l'ordonnance précitée."
+      "content": "Les bénéficiaires de l'ordonnance n° 45-875 du ler mai 1945 qui antérieurement à leur éviction les fonctions d'administrateur d'une société anonyme et y assumaient en même temps des fonctions directoriales pourront être réintégrés, même en surnombre, nonobstant toutes dispositions législatives ou statutaires contraires, conformément aux modalités d'application de l'ordonnance précitée.",
+      "valid_from": "1954-03-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,7 +12,14 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les dispositions des articles 2, 3 et 6 sont applicables en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie.Les dispositions des articles 2 et 3 sont applicables dans les Terres australes et antarctiques françaises."
+      "content": "Les dispositions des articles 2, 3 et 6 sont applicables en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie.Les dispositions des articles 2 et 3 sont applicables dans les Terres australes et antarctiques françaises.",
+      "valid_from": "2005-07-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

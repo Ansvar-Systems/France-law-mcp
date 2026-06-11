@@ -12,7 +12,14 @@
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "I.-La présente loi est applicable sur l'ensemble du territoire de la République, à l'exception de son article 14."
+      "content": "A modifié les dispositions suivantes :\n\nI. - La présente loi est applicable sur l'ensemble du territoire de la République, à l'exception de son article 14.\n\nIII. - (Abrogé).\n\nIV. - Après le deuxième alinéa de l'article 414 du code des douanes applicable en Polynésie française, il est inséré un alinéa ainsi rédigé :\n\nLa peine d'emprisonnement est portée à une durée maximale de cinq ans et l'amende peut aller jusqu'à trois fois la valeur de l'objet de fraude lorsque les faits de contrebande, d'importation ou d'exportation portent sur des biens à double usage, civil et militaire, dont la circulation est soumise à restriction par la réglementation européenne.\n\n-Code des douanes de Mayotte\n\n-Code de procédure pénale",
+      "valid_from": "2026-05-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

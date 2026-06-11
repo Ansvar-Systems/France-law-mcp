@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code rural et de la pêche maritime est modifié conformément aux articles 2 à 8 de la présente ordonnance."
+      "content": "Le code rural et de la pêche maritime est modifié conformément aux articles 2 à 8 de la présente ordonnance.",
+      "valid_from": "2021-10-22"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Les 6° et 13° de l'article 3, les 5° et 7° de l'article 7 et l'article 8 de la présente ordonnance entrent en vigueur le 21 avril 2024."
+      "content": "Les 6° et 13° de l'article 3, les 5° et 7° de l'article 7 et l'article 8 de la présente ordonnance entrent en vigueur le 21 avril 2024.",
+      "valid_from": "2021-10-22"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Le Premier ministre, le ministre des outre-mer et le ministre de l'agriculture et de l'alimentation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des outre-mer et le ministre de l'agriculture et de l'alimentation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-10-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

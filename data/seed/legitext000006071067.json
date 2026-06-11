@@ -1,0 +1,25 @@
+{
+  "id": "legitext000006071067",
+  "type": "statute",
+  "title": "Ordonnance du 15 janvier 1629",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071067/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art121",
+      "section": "121",
+      "title": "Article 121",
+      "content": "Les jugements rendus, contractants ou obligations receuës ès Royaumes et Souverainetés estrangères, pour quelque cause que ce soit, n'auront aucune hypothèque ny exécution en nostre dit Royaume : ains tiendront les contrats lieu de simples promesses et nonobstant les jugements, nos sujets contre lesquels ils auront ésté rendus, pourront de nouveau débattre leurs droicts comme entiers, pardevant nos officiers.",
+      "valid_from": "1629-01-15"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

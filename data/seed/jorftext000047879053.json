@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est autorisée l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la République du Sénégal sur l'octroi de l'autorisation d'exercer une activité professionnelle aux personnes à charge des agents des missions officielles de chaque Etat dans l'autre, signé à Paris le 7 septembre 2021, et dont le texte est annexé à la présente loi (2)."
+      "content": "Est autorisée l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la République du Sénégal sur l'octroi de l'autorisation d'exercer une activité professionnelle aux personnes à charge des agents des missions officielles de chaque Etat dans l'autre, signé à Paris le 7 septembre 2021, et dont le texte est annexé à la présente loi (2).",
+      "valid_from": "2023-07-26"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Est autorisée l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la République démocratique socialiste de Sri Lanka relatif à l'autorisation d'exercice d'une activité professionnelle salariée par les membres de la famille des agents des missions officielles de chaque Etat dans l'autre, signé à Paris le 23 février 2022, et dont le texte est annexé à la présente loi (2).La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Est autorisée l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la République démocratique socialiste de Sri Lanka relatif à l'autorisation d'exercice d'une activité professionnelle salariée par les membres de la famille des agents des missions officielles de chaque Etat dans l'autre, signé à Paris le 23 février 2022, et dont le texte est annexé à la présente loi (2).La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2023-07-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

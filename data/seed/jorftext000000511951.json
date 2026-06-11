@@ -12,55 +12,70 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La publicité relative aux armes à feu des catégories A, B ainsi qu'aux armes des catégories C et D figurant sur une liste fixée par un décret en Conseil d'Etat, ne peut comporter que la représentation de ces seules armes et de leurs munitions et les mentions ci-après :\n\n1° Nom et nationalité du fabricant et, le cas échéant, nom du distributeur et du vendeur ;\n\n2° Dénomination de l'arme ou de la munition ;\n\n3° Type, calibre, portée, mode de percussion, système de visée, système d'alimentation, longueur et caractéristiques du canon, poids et projectiles ;\n\n4° Mode de fabrication, brevets et matériaux utilisés ;\n\n5° Date de première mise en vente ;\n\n6° Prix et conditions de vente ;\n\n7° Accessoires adaptables, à l'exclusion des silencieux."
+      "content": "La publicité relative aux armes à feu des catégories A, B ainsi qu'aux armes des catégories C et D figurant sur une liste fixée par un décret en Conseil d'Etat, ne peut comporter que la représentation de ces seules armes et de leurs munitions et les mentions ci-après :\n\n1° Nom et nationalité du fabricant et, le cas échéant, nom du distributeur et du vendeur ;\n\n2° Dénomination de l'arme ou de la munition ;\n\n3° Type, calibre, portée, mode de percussion, système de visée, système d'alimentation, longueur et caractéristiques du canon, poids et projectiles ;\n\n4° Mode de fabrication, brevets et matériaux utilisés ;\n\n5° Date de première mise en vente ;\n\n6° Prix et conditions de vente ;\n\n7° Accessoires adaptables, à l'exclusion des silencieux.",
+      "valid_from": "2013-09-06"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Toute publicité faite en faveur des armes à feu et munitions mentionnées à l'article premier doit être accompagnée de l'indication de la catégorie à laquelle appartiennent ces armes et munitions et du régime auquel leur acquisition est soumise."
+      "content": "Toute publicité faite en faveur des armes à feu et munitions mentionnées à l'article premier doit être accompagnée de l'indication de la catégorie à laquelle appartiennent ces armes et munitions et du régime auquel leur acquisition est soumise.",
+      "valid_from": "1985-07-13"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les armes à feu et munitions mentionnées à l'article premier, exception faite des armes de signalisation et de starter à condition qu'elles ne permettent pas de tir de cartouches à balle, ne peuvent être proposées à la vente ou faire l'objet de publicité sur des catalogues, prospectus, publications périodiques ou tout autre support de l'écrit, de la parole ou de l'image que lorsque l'objet, le titre et l'essentiel du contenu de ces supports ont trait à la chasse, à la pêche ou au tir sportif. Les modalités d'application du présent article seront définies par un décret en Conseil d'Etat."
+      "content": "Les armes à feu et munitions mentionnées à l'article premier, exception faite des armes de signalisation et de starter à condition qu'elles ne permettent pas de tir de cartouches à balle, ne peuvent être proposées à la vente ou faire l'objet de publicité sur des catalogues, prospectus, publications périodiques ou tout autre support de l'écrit, de la parole ou de l'image que lorsque l'objet, le titre et l'essentiel du contenu de ces supports ont trait à la chasse, à la pêche ou au tir sportif. Les modalités d'application du présent article seront définies par un décret en Conseil d'Etat.",
+      "valid_from": "1985-07-13"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les documents publicitaires, catalogues et périodiques faisant de la publicité pour les armes à feu et munitions mentionnées à l'article premier, autres que les armes de signalisation et de starter à condition qu'elles ne permettent pas le tir de cartouches à balle, ne peuvent être distribués ou envoyés qu'aux personnes qui en ont fait la demande, ainsi qu'à celles dont l'activité professionnelle relève des dispositions de l'article 2 du décret du 18 avril 1939 précité."
+      "content": "Les documents publicitaires, catalogues et périodiques faisant de la publicité pour les armes à feu et munitions mentionnées à l'article premier, autres que les armes de signalisation et de starter à condition qu'elles ne permettent pas le tir de cartouches à balle, ne peuvent être distribués ou envoyés qu'aux personnes qui en ont fait la demande, ainsi qu'à celles dont l'activité professionnelle relève des dispositions de l'article 2 du décret du 18 avril 1939 précité.",
+      "valid_from": "1985-10-13"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les armes à feu et munitions mentionnées à l'article premier ne peuvent être mises en loterie ni être offertes en récompense de concours, à l'exception des concours dont le thème est cynégétique ou des compétitions de tir sportif."
+      "content": "Les armes à feu et munitions mentionnées à l'article premier ne peuvent être mises en loterie ni être offertes en récompense de concours, à l'exception des concours dont le thème est cynégétique ou des compétitions de tir sportif.",
+      "valid_from": "1985-07-13"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Toute infraction aux dispositions des articles 1er à 5 de la présente loi est punie d'une amende de 45 000 euros.\n\nEn cas de récidive, le tribunal peut ordonner, aux frais du condamné, la publication de sa décision, intégralement ou par extraits, dans un ou plusieurs journaux qu'il désigne, et la diffusion d'un message, dans les conditions prévues au sixième alinéa du paragraphe II de l'article 44 (1) de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat, informant le public de sa décision : il peut également ordonner l'affichage de sa décision dans les conditions prévues à l'article 131-35 du code pénal.\n\nLes officiers de police judiciaire peuvent, avant toute poursuite, saisir les documents publicitaires, à l'exception des publications périodiques, édités ou diffusés en infraction aux dispositions de la présente loi.\n\nEn cas de condamnation, le tribunal ordonne la destruction des exemplaires saisis."
+      "content": "Toute infraction aux dispositions des articles 1er à 5 de la présente loi est punie d'une amende de 45 000 euros.\n\nEn cas de récidive, le tribunal peut ordonner, aux frais du condamné, la publication de sa décision, intégralement ou par extraits, dans un ou plusieurs journaux qu'il désigne, et la diffusion d'un message, dans les conditions prévues au sixième alinéa du paragraphe II de l'article 44 (1) de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat, informant le public de sa décision : il peut également ordonner l'affichage de sa décision dans les conditions prévues à l'article 131-35 du code pénal.\n\nLes officiers de police judiciaire peuvent, avant toute poursuite, saisir les documents publicitaires, à l'exception des publications périodiques, édités ou diffusés en infraction aux dispositions de la présente loi.\n\nEn cas de condamnation, le tribunal ordonne la destruction des exemplaires saisis.",
+      "valid_from": "2009-05-14"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les dispositions de la présente loi ne sont pas applicables aux documents exclusivement destinés à la prospection des marchés étrangers.Ces documents ne peuvent, sous peine des sanctions figurant à l'article 6, être distribués ou envoyés à des Français sur le territoire national, à l'exception de ceux dont l'activité professionnelle relève des dispositions de l'article 2 du décret du 18 avril 1939 précité."
+      "content": "Les dispositions de la présente loi ne sont pas applicables aux documents exclusivement destinés à la prospection des marchés étrangers.Ces documents ne peuvent, sous peine des sanctions figurant à l'article 6, être distribués ou envoyés à des Français sur le territoire national, à l'exception de ceux dont l'activité professionnelle relève des dispositions de l'article 2 du décret du 18 avril 1939 précité.",
+      "valid_from": "1985-07-13"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les dispositions des articles 3, relatives aux publications périodiques, et 4 de la présente loi entreront en vigueur trois mois après sa publication au Journal officiel de la République française. Les dispositions de l'article 3 relatives aux catalogues, prospectus ou autres supports de l'écrit, de la parole ou de l'image entreront en vigueur à une date fixée par décret, tenant compte des impératifs techniques de confection et de diffusion des documents concernés."
+      "content": "Les dispositions des articles 3, relatives aux publications périodiques, et 4 de la présente loi entreront en vigueur trois mois après sa publication au Journal officiel de la République française. Les dispositions de l'article 3 relatives aux catalogues, prospectus ou autres supports de l'écrit, de la parole ou de l'image entreront en vigueur à une date fixée par décret, tenant compte des impératifs techniques de confection et de diffusion des documents concernés.",
+      "valid_from": "1985-07-13"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les dispositions de la présente loi sont applicables dans les îles Wallis et Futuna, en Polynésie française, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie, sous réserve des modifications suivantes :1° A l'article 6, les mots : \", et la diffusion d'un message dans les conditions prévues au sixième alinéa du paragraphe II de l'article 44 de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat, informant le public de sa décision ; \" sont supprimés ;2° Les montants exprimés en euros sont applicables compte tenu de leur contre-valeur en monnaie locale."
+      "content": "Les dispositions de la présente loi sont applicables dans les îles Wallis et Futuna, en Polynésie française, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie, sous réserve des modifications suivantes :1° A l'article 6, les mots : \", et la diffusion d'un message dans les conditions prévues au sixième alinéa du paragraphe II de l'article 44 de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat, informant le public de sa décision ; \" sont supprimés ;2° Les montants exprimés en euros sont applicables compte tenu de leur contre-valeur en monnaie locale.",
+      "valid_from": "2009-05-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

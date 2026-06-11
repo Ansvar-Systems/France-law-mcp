@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "Est autorisée l'approbation de l'avenant à la convention entre la France et la Suisse du 9 septembre 1966 modifiée, en vue d'éliminer les doubles impositions en matière d'impôts sur le revenu et sur la fortune et de prévenir la fraude et l'évasion fiscales (ensemble un protocole), signé à Paris le 27 juin 2023, et dont le texte est annexé à la présente loi (2)."
+      "content": "Est autorisée l'approbation de l'avenant à la convention entre la France et la Suisse du 9 septembre 1966 modifiée, en vue d'éliminer les doubles impositions en matière d'impôts sur le revenu et sur la fortune et de prévenir la fraude et l'évasion fiscales (ensemble un protocole), signé à Paris le 27 juin 2023, et dont le texte est annexé à la présente loi (2).",
+      "valid_from": "2025-06-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

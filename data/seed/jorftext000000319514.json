@@ -12,13 +12,21 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les articles 13 et 18 de l'ordonnance n° 45-2658 du 2 novembre 1945 précitée sont abrogés.Les dispositions de la loi n° 80-9 du 10 janvier 1980 précitée sont abrogées à l'exception de ses articles 2 et 10.Les dispositions des articles 71 et 72 de la loi n° 81-82 du 2 février 1981 renforçant la sécurité et protégeant la liberté des personnes sont abrogées."
+      "content": "Les articles 13 et 18 de l'ordonnance n° 45-2658 du 2 novembre 1945 précitée sont abrogés.Les dispositions de la loi n° 80-9 du 10 janvier 1980 précitée sont abrogées à l'exception de ses articles 2 et 10.Les dispositions des articles 71 et 72 de la loi n° 81-82 du 2 février 1981 renforçant la sécurité et protégeant la liberté des personnes sont abrogées.",
+      "valid_from": "1981-10-30"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Dans l'article 120 du code pénal, les mots \"d'une expulsion ou\" sont supprimés."
+      "content": "Dans l'article 120 du code pénal, les mots \"d'une expulsion ou\" sont supprimés.",
+      "valid_from": "1981-10-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - L'article 1er et les I et II de l'article 2 de la présente ordonnance sont applicables à Mayotte.II. - L'article 3 de la présente ordonnance sera applicable à Mayotte à compter du 1er janvier 2006."
+      "content": "I. - L'article 1er et les I et II de l'article 2 de la présente ordonnance sont applicables à Mayotte.II. - L'article 3 de la présente ordonnance sera applicable à Mayotte à compter du 1er janvier 2006.",
+      "valid_from": "2005-09-09"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, la ministre de l'écologie et du développement durable et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'écologie et du développement durable et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2005-09-09"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -1,0 +1,32 @@
+{
+  "id": "jorftext000054191154",
+  "type": "statute",
+  "title": "Ordonnance n°2026-438 du 3 juin 2026",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000054191154",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Le code général des collectivités territoriales est modifié conformément aux dispositions des articles 2 à 19 de la présente ordonnance.",
+      "valid_from": "2026-06-05"
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Article 20",
+      "content": "Le Premier ministre, la ministre des outre-mer et la ministre de l'aménagement du territoire et de la décentralisation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2026-06-05"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

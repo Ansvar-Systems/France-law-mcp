@@ -12,7 +12,14 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'établissement public Electricité de France communique à l'autorité administrative les prix et conditions de vente de l'électricité aux sociétés de production et de distribution étrangères, sans que soit compromis le caractère confidentiel des contrats. Un décret détermine les modalités d'application du présent article."
+      "content": "L'établissement public Electricité de France communique à l'autorité administrative les prix et conditions de vente de l'électricité aux sociétés de production et de distribution étrangères, sans que soit compromis le caractère confidentiel des contrats. Un décret détermine les modalités d'application du présent article.",
+      "valid_from": "1993-07-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

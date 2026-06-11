@@ -12,13 +12,21 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Ce classement est prononcé par  délibération de la collectivité ou du groupement de collectivités pour  une durée déterminée qui ne peut excéder trente ans, le cas échéant  après avoir recueilli l'avis de la commission consultative des services  publics locaux prévue à l'article L. 1413-1 du code général des collectivités  territoriales. Le  classement est abrogé par délibération de la collectivité ou du  groupement de collectivités lorsque la condition relative à  l'alimentation à plus de 50 % par une énergie renouvelable ou de  récupération cesse d'être remplie ou lorsque le réseau ne remplit plus  les exigences réglementaires en vigueur en matière de comptage des  quantités d'énergie livrées (1).\n\nLes réseaux classés  avant l'entrée en vigueur de la loi n° 2010-788 du 12 juillet 2010 précitée continuent  à bénéficier de leur classement pendant la durée de validité de leur  arrêté préfectoral de classement."
+      "content": "Ce classement est prononcé par  délibération de la collectivité ou du groupement de collectivités pour  une durée déterminée qui ne peut excéder trente ans, le cas échéant  après avoir recueilli l'avis de la commission consultative des services  publics locaux prévue à l'article L. 1413-1 du code général des collectivités  territoriales. Le  classement est abrogé par délibération de la collectivité ou du  groupement de collectivités lorsque la condition relative à  l'alimentation à plus de 50 % par une énergie renouvelable ou de  récupération cesse d'être remplie ou lorsque le réseau ne remplit plus  les exigences réglementaires en vigueur en matière de comptage des  quantités d'énergie livrées (1).\n\nLes réseaux classés  avant l'entrée en vigueur de la loi n° 2010-788 du 12 juillet 2010 précitée continuent  à bénéficier de leur classement pendant la durée de validité de leur  arrêté préfectoral de classement.",
+      "valid_from": "2011-06-01"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "I.-Jusqu'au 31 décembre 1988, le ministre du budget et le ministre de l'économie sont autorisés à donner, par arrêté conjoint, leur agrément à des sociétés ayant pour objet exclusif de financer, par voie de crédit-bail immobilier et mobilier, de crédit ou sous forme de location simple, des installations ou des matériels destinés à économiser l'énergie, à développer les sources d'énergie de remplacement des hydrocarbures ou à promouvoir les utilisations du charbon ainsi que des terrains d'emprise de ces installations ou matériels. Ces financements peuvent être mis en œuvre dans le cadre des contrats de partenariat régis par les dispositions de l'ordonnance n° 2004-559 du 17 juin 2004 sur les contrats de partenariat.\n\nLes installations et matériels concernés figurent sur une liste établie par décret.\n\nCes sociétés doivent satisfaire aux conditions prévues à l'article 5 A et C de l'ordonnance n° 67-837 du 28 septembre 1967 relatif au statut des sociétés immobilières pour le commerce et l'industrie.\n\nII et III (Abrogés)"
+      "content": "I.-Jusqu'au 31 décembre 1988, le ministre du budget et le ministre de l'économie sont autorisés à donner, par arrêté conjoint, leur agrément à des sociétés ayant pour objet exclusif de financer, par voie de crédit-bail immobilier et mobilier, de crédit ou sous forme de location simple, des installations ou des matériels destinés à économiser l'énergie, à développer les sources d'énergie de remplacement des hydrocarbures ou à promouvoir les utilisations du charbon ainsi que des terrains d'emprise de ces installations ou matériels. Ces financements peuvent être mis en œuvre dans le cadre des contrats de partenariat régis par les dispositions de l'ordonnance n° 2004-559 du 17 juin 2004 sur les contrats de partenariat.\n\nLes installations et matériels concernés figurent sur une liste établie par décret.\n\nCes sociétés doivent satisfaire aux conditions prévues à l'article 5 A et C de l'ordonnance n° 67-837 du 28 septembre 1967 relatif au statut des sociétés immobilières pour le commerce et l'industrie.\n\nII et III (Abrogés)",
+      "valid_from": "2011-06-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

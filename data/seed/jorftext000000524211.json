@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I., II.-Paragraphes modificateurs.III.-Sont déclarés à la charge de l'Etat et sans recours contre l'étranger dans les conditions prévues pour les frais de justice criminelle, correctionnelle et de police les honoraires et indemnités des interprètes désignés pour assister l'étranger qui a saisi le président du tribunal administratif en application de l'article 22 bis de l'ordonnance n° 45-2658 du 2 novembre 1945 précitée."
+      "content": "I., II.-Paragraphes modificateurs.III.-Sont déclarés à la charge de l'Etat et sans recours contre l'étranger dans les conditions prévues pour les frais de justice criminelle, correctionnelle et de police les honoraires et indemnités des interprètes désignés pour assister l'étranger qui a saisi le président du tribunal administratif en application de l'article 22 bis de l'ordonnance n° 45-2658 du 2 novembre 1945 précitée.",
+      "valid_from": "1990-02-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les dispositions de la présente loi entreront en vigueur à compter du 1er février 1990."
+      "content": "Les dispositions de la présente loi entreront en vigueur à compter du 1er février 1990.",
+      "valid_from": "1990-02-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

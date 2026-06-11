@@ -12,13 +12,21 @@
       "provision_ref": "art70",
       "section": "70",
       "title": "Article 70",
-      "content": "Les militaires des forces armées françaises, ayant participé au maintien de l'ordre en Afrique du Nord, titulaires du diplôme de reconnaissance créé par la loi de finances n° 67-1114 du 21 décembre 1967, pourront, dans les conditions qui seront fixées par décret, obtenir de l'Office national des combattants et des victimes de guerre, le bénéfice des secours, des divers prêts et de la rééducation professionnelle assurée par cet établissement public."
+      "content": "Les militaires des forces armées françaises, ayant participé au maintien de l'ordre en Afrique du Nord, titulaires du diplôme de reconnaissance créé par la loi de finances n° 67-1114 du 21 décembre 1967, pourront, dans les conditions qui seront fixées par décret, obtenir de l'Office national des combattants et des victimes de guerre, le bénéfice des secours, des divers prêts et de la rééducation professionnelle assurée par cet établissement public.",
+      "valid_from": "2023-01-01"
     },
     {
       "provision_ref": "art73",
       "section": "73",
       "title": "Article 73",
-      "content": "I - Paragraphe modificateur.II - Les dispositions du présent article sont applicables aux territoires d'outre-mer dans les conditions prévues à l'article 6 de la loi n° 66-1008 du 28 décembre 1966."
+      "content": "I - Paragraphe modificateur.II - Les dispositions du présent article sont applicables aux territoires d'outre-mer dans les conditions prévues à l'article 6 de la loi n° 66-1008 du 28 décembre 1966.",
+      "valid_from": "1969-12-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

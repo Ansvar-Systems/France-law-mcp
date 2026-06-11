@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- LOI n°2021-1104 du 22 août 2021\n\nII. - Au plus tard le 1er janvier 2031, la conférence régionale mentionnée à l'article L. 1111-9-2 du code général des collectivités territoriales présente un bilan de l'application de la surface minimale de consommation d'espaces agricoles, naturels et forestiers dans le cadre de la fixation d'objectifs communaux, intercommunaux et régionaux de réduction de l'artificialisation des sols applicables à la première période décennale, de son adéquation avec les besoins fonciers constatés durant la période et de l'artificialisation constatée durant cette même période. Elle formule des pistes de réduction de cette surface minimale pour les périodes décennales ultérieures, en vue d'atteindre l'objectif d'absence d'artificialisation nette à l'horizon 2050."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- LOI n°2021-1104 du 22 août 2021\n\nII. - Au plus tard le 1er janvier 2031, la conférence régionale mentionnée à l'article L. 1111-9-2 du code général des collectivités territoriales présente un bilan de l'application de la surface minimale de consommation d'espaces agricoles, naturels et forestiers dans le cadre de la fixation d'objectifs communaux, intercommunaux et régionaux de réduction de l'artificialisation des sols applicables à la première période décennale, de son adéquation avec les besoins fonciers constatés durant la période et de l'artificialisation constatée durant cette même période. Elle formule des pistes de réduction de cette surface minimale pour les périodes décennales ultérieures, en vue d'atteindre l'objectif d'absence d'artificialisation nette à l'horizon 2050.",
+      "valid_from": "2023-07-22"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport relatif à la fiscalité comme outil de lutte contre l'artificialisation des sols. Ce rapport présente l'ensemble des outils fiscaux qui incitent à l'artificialisation des sols et contreviennent ainsi à l'objectif d'absence de toute artificialisation nette des sols mentionné au 6° bis de l'article L. 101-2 du code de l'urbanisme ; il présente au contraire les outils fiscaux, locaux et nationaux, pouvant être mobilisés pour inciter à ne pas artificialiser les sols ou à renaturer des espaces artificialisés. Ce rapport chiffre les pertes de recettes ou les dépenses supplémentaires induites par les propositions formulées.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport relatif à la fiscalité comme outil de lutte contre l'artificialisation des sols. Ce rapport présente l'ensemble des outils fiscaux qui incitent à l'artificialisation des sols et contreviennent ainsi à l'objectif d'absence de toute artificialisation nette des sols mentionné au 6° bis de l'article L. 101-2 du code de l'urbanisme ; il présente au contraire les outils fiscaux, locaux et nationaux, pouvant être mobilisés pour inciter à ne pas artificialiser les sols ou à renaturer des espaces artificialisés. Ce rapport chiffre les pertes de recettes ou les dépenses supplémentaires induites par les propositions formulées.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2023-07-22"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

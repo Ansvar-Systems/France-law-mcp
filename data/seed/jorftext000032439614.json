@@ -12,13 +12,21 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 13 juin 2016.Les équipements conformes aux dispositions de l'article L. 34-9 du code des postes et des communications électroniques et de celles prises pour son application dans leur rédaction antérieure au 13 juin 2016 et qui ont été mis sur le marché de l'Union européenne avant le 13 juin 2017 peuvent continuer à être vendus ou distribués à titre gratuit.Les équipements permettant de recevoir des services de radio et de télévision conformes aux dispositions du décret n° 2015-1083 du 27 août 2015 relatif à la mise à disposition sur le marché du matériel électrique destiné à être employé dans certaines limites de tension ou du décret n° 2015-1084 du 27 août 2015 relatif à la compatibilité électromagnétique des équipements électriques et électroniques et qui ont été mis sur le marché de l'Union européenne avant le 13 juin 2017 peuvent continuer à être vendus ou distribués à titre gratuit.Les entreprises désignées comme organisme notifié par l'Autorité de régulation des communications électroniques et des postes en application du 2° de l'article L. 36-7 du code des postes et des communications électroniques dans sa rédaction antérieure à la date d'entrée en vigueur de la présente ordonnance demeurent organisme notifié jusqu'au 12 juin 2017."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 13 juin 2016.Les équipements conformes aux dispositions de l'article L. 34-9 du code des postes et des communications électroniques et de celles prises pour son application dans leur rédaction antérieure au 13 juin 2016 et qui ont été mis sur le marché de l'Union européenne avant le 13 juin 2017 peuvent continuer à être vendus ou distribués à titre gratuit.Les équipements permettant de recevoir des services de radio et de télévision conformes aux dispositions du décret n° 2015-1083 du 27 août 2015 relatif à la mise à disposition sur le marché du matériel électrique destiné à être employé dans certaines limites de tension ou du décret n° 2015-1084 du 27 août 2015 relatif à la compatibilité électromagnétique des équipements électriques et électroniques et qui ont été mis sur le marché de l'Union européenne avant le 13 juin 2017 peuvent continuer à être vendus ou distribués à titre gratuit.Les entreprises désignées comme organisme notifié par l'Autorité de régulation des communications électroniques et des postes en application du 2° de l'article L. 36-7 du code des postes et des communications électroniques dans sa rédaction antérieure à la date d'entrée en vigueur de la présente ordonnance demeurent organisme notifié jusqu'au 12 juin 2017.",
+      "valid_from": "2016-06-13"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Premier ministre et le ministre de l'économie, de l'industrie et du numérique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre de l'économie, de l'industrie et du numérique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-06-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

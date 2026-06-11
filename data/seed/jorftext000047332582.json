@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "Est autorisée l'approbation de l'amendement de la convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure et de son règlement d'application, partie B, par des dispositions concernant le traitement de résidus gazeux de cargaison liquide (vapeurs), issu de la résolution CDNI-2017-I-4, adoptée le 22 juin 2017, et dont le texte est annexé à la présente loi (2).La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Est autorisée l'approbation de l'amendement de la convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure et de son règlement d'application, partie B, par des dispositions concernant le traitement de résidus gazeux de cargaison liquide (vapeurs), issu de la résolution CDNI-2017-I-4, adoptée le 22 juin 2017, et dont le texte est annexé à la présente loi (2).La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2023-03-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

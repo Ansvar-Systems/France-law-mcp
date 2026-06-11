@@ -12,19 +12,28 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "L'article 6-3 de la loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires est abrogé."
+      "content": "L'article 6-3 de la loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires est abrogé.",
+      "valid_from": "2008-06-19"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "I.-La présente loi, à l'exception du II de son article 6 et de ses articles 16, 17, 19 et 22, est applicable à Mayotte.II.-La présente loi, à l'exception de son article 6 et de ses articles 16 à 24, est applicable en Nouvelle-Calédonie.III.-La présente loi, à l'exception du II de son article 6 et de ses articles 16 à 22, est applicable dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises.IV.-Les articles 7 et 26 de la présente loi, ainsi que les articles 2225 et 2235 à 2237 du code civil, tels qu'ils résultent de la présente loi, sont applicables en Polynésie française.V.-En l'absence d'adaptations prévues par la présente loi, les références opérées par elle à des dispositions qui ne sont pas applicables à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises sont remplacées par les références aux dispositions ayant le même objet applicables localement.VI.-A modifié les dispositions suivantes :\n\nVII.-A modifié les dispositions suivantes :\n\nVIII.-A modifié les dispositions suivantes :\n\nIX.-A modifié les dispositions suivantes :\n\n-Code du travail applicable à Mayotte.\n\n-Loi n° 52-1322 du 15 décembre 1952\n\n-Code de la consommation\n\n-Code des assurances"
+      "content": "I.-La présente loi, à l'exception du II de son article 6 et de ses articles 16, 17, 19 et 22, est applicable à Mayotte.II.-La présente loi, à l'exception de son article 6 et de ses articles 16 à 24, est applicable en Nouvelle-Calédonie.III.-La présente loi, à l'exception du II de son article 6 et de ses articles 16 à 22, est applicable dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises.IV.-Les articles 7 et 26 de la présente loi, ainsi que les articles 2225 et 2235 à 2237 du code civil, tels qu'ils résultent de la présente loi, sont applicables en Polynésie française.V.-En l'absence d'adaptations prévues par la présente loi, les références opérées par elle à des dispositions qui ne sont pas applicables à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises sont remplacées par les références aux dispositions ayant le même objet applicables localement.VI.-A modifié les dispositions suivantes :\n\nVII.-A modifié les dispositions suivantes :\n\nVIII.-A modifié les dispositions suivantes :\n\nIX.-A modifié les dispositions suivantes :\n\n-Code du travail applicable à Mayotte.\n\n-Loi n° 52-1322 du 15 décembre 1952\n\n-Code de la consommation\n\n-Code des assurances",
+      "valid_from": "2008-06-19"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "I. ― Les dispositions de la présente loi qui allongent la durée d'une prescription s'appliquent lorsque le délai de prescription n'était pas expiré à la date de son entrée en vigueur. Il est alors tenu compte du délai déjà écoulé.II. ― Les dispositions de la présente loi qui réduisent la durée de la prescription s'appliquent aux prescriptions à compter du jour de l'entrée en vigueur de la présente loi, sans que la durée totale puisse excéder la durée prévue par la loi antérieure.III. ― Lorsqu'une instance a été introduite avant l'entrée en vigueur de la présente loi, l'action est poursuivie et jugée conformément à la loi ancienne. Cette loi s'applique également en appel et en cassation.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "I. ― Les dispositions de la présente loi qui allongent la durée d'une prescription s'appliquent lorsque le délai de prescription n'était pas expiré à la date de son entrée en vigueur. Il est alors tenu compte du délai déjà écoulé.II. ― Les dispositions de la présente loi qui réduisent la durée de la prescription s'appliquent aux prescriptions à compter du jour de l'entrée en vigueur de la présente loi, sans que la durée totale puisse excéder la durée prévue par la loi antérieure.III. ― Lorsqu'une instance a été introduite avant l'entrée en vigueur de la présente loi, l'action est poursuivie et jugée conformément à la loi ancienne. Cette loi s'applique également en appel et en cassation.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2008-06-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

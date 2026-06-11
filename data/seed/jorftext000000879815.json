@@ -4,7 +4,7 @@
   "title": "Loi n°55-1052 du 6 août 1955",
   "title_en": null,
   "short_name": null,
-  "status": "repealed",
+  "status": "in_force",
   "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000879815",
   "description": null,
   "provisions": [
@@ -12,109 +12,133 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'île Saint-Paul, l'île Amsterdam, l'archipel Crozet, l'archipel Kerguelen, la terre Adélie et les îles Bassas da India, Europa, Glorieuses, Juan da Nova et Tromelin forment un territoire d'outre-mer doté de la personnalité morale et possédant l'autonomie administrative et financière.Ce territoire prend le nom de Terres australes et antarctiques françaises."
+      "content": "L'île Saint-Paul, l'île Amsterdam, l'archipel Crozet, l'archipel Kerguelen, la terre Adélie et les îles Bassas da India, Europa, Glorieuses, Juan da Nova et Tromelin forment un territoire d'outre-mer doté de la personnalité morale et possédant l'autonomie administrative et financière.Ce territoire prend le nom de Terres australes et antarctiques françaises.",
+      "valid_from": "2007-02-22"
     },
     {
       "provision_ref": "art1-1",
       "section": "1-1",
       "title": "Article 1-1",
-      "content": "Dans les matières qui relèvent de la compétence de l'Etat, sont applicables dans les Terres australes et antarctiques françaises les dispositions législatives et réglementaires qui comportent une mention expresse à cette fin.\n\nPar dérogation au premier alinéa, sont applicables de plein droit dans les Terres australes et antarctiques françaises, sans préjudice de dispositions les adaptant à l'organisation particulière du territoire, les dispositions législatives et réglementaires qui sont relatives :\n\n1° A la composition, à l'organisation, au fonctionnement et aux attributions des pouvoirs publics constitutionnels de la République, du Conseil d'Etat, de la Cour de cassation, de la Cour des comptes, du tribunal des conflits et de toute juridiction nationale souveraine, du Défenseur des droits (1) et de la Commission nationale de l'informatique et des libertés ;\n\n2° A la défense nationale ;\n\n3° A la nationalité ;\n\n4° Au droit civil ;\n\n5° Au droit pénal et à la procédure pénale ;\n\n6° A la monnaie, au Trésor, au crédit et aux changes, aux relations financières avec l'étranger, à la lutte contre la circulation illicite et le blanchiment des capitaux, à la lutte contre le financement du terrorisme, aux pouvoirs de recherche et de constatation des infractions et aux procédures contentieuses en matière douanière, au régime des investissements étrangers dans une activité qui participe à l'exercice de l'autorité publique ou relevant d'activités de nature à porter atteinte à l'ordre public, à la sécurité publique, aux intérêts de la défense nationale ou relevant d'activités de recherche, de production ou de commercialisation d'armes, de munitions, de poudres ou de substances explosives ;\n\n7° Au droit commercial et au droit des assurances ;\n\n8° A la procédure administrative contentieuse et non contentieuse ;\n\n9° Aux statuts des agents publics de l'Etat ;\n\n10° A la recherche.\n\nSont également applicables de plein droit dans les Terres australes et antarctiques françaises les lois qui portent autorisation de ratifier ou d'approuver les engagements internationaux et les décrets qui décident de leur publication, ainsi que toute autre disposition législative et réglementaire qui, en raison de son objet, est nécessairement destinée à régir l'ensemble du territoire de la République."
+      "content": "Dans les matières qui relèvent de la compétence de l'Etat, sont applicables dans les Terres australes et antarctiques françaises les dispositions législatives et réglementaires qui comportent une mention expresse à cette fin.\n\nPar dérogation au premier alinéa, sont applicables de plein droit dans les Terres australes et antarctiques françaises, sans préjudice de dispositions les adaptant à l'organisation particulière du territoire, les dispositions législatives et réglementaires qui sont relatives :\n\n1° A la composition, à l'organisation, au fonctionnement et aux attributions des pouvoirs publics constitutionnels de la République, du Conseil d'Etat, de la Cour de cassation, de la Cour des comptes, du tribunal des conflits et de toute juridiction nationale souveraine, du Défenseur des droits (1) et de la Commission nationale de l'informatique et des libertés ;\n\n2° A la défense nationale ;\n\n3° A la nationalité ;\n\n4° Au droit civil ;\n\n5° Au droit pénal et à la procédure pénale ;\n\n6° A la monnaie, au Trésor, au crédit et aux changes, aux relations financières avec l'étranger, à la lutte contre la circulation illicite et le blanchiment des capitaux, à la lutte contre le financement du terrorisme, aux pouvoirs de recherche et de constatation des infractions et aux procédures contentieuses en matière douanière, au régime des investissements étrangers dans une activité qui participe à l'exercice de l'autorité publique ou relevant d'activités de nature à porter atteinte à l'ordre public, à la sécurité publique, aux intérêts de la défense nationale ou relevant d'activités de recherche, de production ou de commercialisation d'armes, de munitions, de poudres ou de substances explosives ;\n\n7° Au droit commercial et au droit des assurances ;\n\n8° A la procédure administrative contentieuse et non contentieuse ;\n\n9° Aux statuts des agents publics de l'Etat ;\n\n10° A la recherche.\n\nSont également applicables de plein droit dans les Terres australes et antarctiques françaises les lois qui portent autorisation de ratifier ou d'approuver les engagements internationaux et les décrets qui décident de leur publication, ainsi que toute autre disposition législative et réglementaire qui, en raison de son objet, est nécessairement destinée à régir l'ensemble du territoire de la République.",
+      "valid_from": "2011-03-31"
     },
     {
       "provision_ref": "art1-2",
       "section": "1-2",
       "title": "Article 1-2",
-      "content": "I. - Les lois et, lorsqu'ils sont publiés au Journal officiel de la République française, les actes administratifs entrent en vigueur dans les Terres australes et antarctiques françaises à la date qu'ils fixent ou, à défaut, le dixième jour qui suit leur publication au Journal officiel de la République française. Toutefois, l'entrée en vigueur de celles de leurs dispositions dont l'exécution nécessite des mesures d'application est reportée à la date d'entrée en vigueur de ces mesures.\n\nEn cas d'urgence, entrent en vigueur dès leur publication les lois dont le décret de promulgation le prescrit et les actes administratifs pour lesquels le Gouvernement l'ordonne par une disposition spéciale.\n\nLe présent I n'est pas applicable aux actes individuels.\n\nII. - La publication des lois, des ordonnances, des décrets et, lorsqu'une loi ou un décret le prévoit, des autres actes administratifs est assurée sous forme électronique, dans des conditions de nature à garantir leur authenticité. Le Journal officiel de la République française est mis à la disposition du public sous forme électronique de manière permanente et gratuite. Lorsqu'une personne demande à obtenir sur papier un acte publié au Journal officiel de la République française, l'administration lui communique l'extrait correspondant. L'administration n'est pas tenue de donner suite aux demandes abusives, en particulier par leur nombre ou par leur caractère répétitif ou systématique.\n\nIII. - Sont applicables de plein droit dans les Terres australes et antarctiques françaises les dispositions réglementaires en vigueur en métropole qui définissent les actes individuels devant être publiés dans des conditions garantissant qu'ils ne font pas l'objet d'une indexation par des moteurs de recherche.\n\nIV. - Dans les Terres australes et antarctiques françaises, la publication des actes et documents administratifs au Bulletin officiel d'un ministère diffusé sous forme électronique dans les conditions garantissant sa fiabilité produit les mêmes effets de droit que leur publication sous forme imprimée.\n\nV. - Les dispositions législatives ou réglementaires mentionnées à l'article 1er-1 et au III du présent article sont publiées pour information au Journal officiel des Terres australes et antarctiques françaises.\n\nVI. - Les lois et règlements intervenus antérieurement à la date de promulgation de la loi n° 2007-224 du 21 février 2007 portant dispositions statutaires et institutionnelles relatives à l'outre-mer qui comportent une mention d'application dans les Terres australes et antarctiques françaises et qui n'ont pas fait l'objet d'une promulgation locale par l'administrateur supérieur y entrent en vigueur le dixième jour qui suit la publication de ladite loi, à moins qu'ils n'en disposent autrement.\n\nVII. - Les actes réglementaires des autorités du territoire sont publiés au Journal officiel des Terres australes et antarctiques françaises. Ils entrent en vigueur à la date qu'ils fixent ou, à défaut, le lendemain de leur publication."
+      "content": "I. - Les lois et, lorsqu'ils sont publiés au Journal officiel de la République française, les actes administratifs entrent en vigueur dans les Terres australes et antarctiques françaises à la date qu'ils fixent ou, à défaut, le dixième jour qui suit leur publication au Journal officiel de la République française. Toutefois, l'entrée en vigueur de celles de leurs dispositions dont l'exécution nécessite des mesures d'application est reportée à la date d'entrée en vigueur de ces mesures.\n\nEn cas d'urgence, entrent en vigueur dès leur publication les lois dont le décret de promulgation le prescrit et les actes administratifs pour lesquels le Gouvernement l'ordonne par une disposition spéciale.\n\nLe présent I n'est pas applicable aux actes individuels.\n\nII. - La publication des lois, des ordonnances, des décrets et, lorsqu'une loi ou un décret le prévoit, des autres actes administratifs est assurée sous forme électronique, dans des conditions de nature à garantir leur authenticité. Le Journal officiel de la République française est mis à la disposition du public sous forme électronique de manière permanente et gratuite. Lorsqu'une personne demande à obtenir sur papier un acte publié au Journal officiel de la République française, l'administration lui communique l'extrait correspondant. L'administration n'est pas tenue de donner suite aux demandes abusives, en particulier par leur nombre ou par leur caractère répétitif ou systématique.\n\nIII. - Sont applicables de plein droit dans les Terres australes et antarctiques françaises les dispositions réglementaires en vigueur en métropole qui définissent les actes individuels devant être publiés dans des conditions garantissant qu'ils ne font pas l'objet d'une indexation par des moteurs de recherche.\n\nIV. - Dans les Terres australes et antarctiques françaises, la publication des actes et documents administratifs au Bulletin officiel d'un ministère diffusé sous forme électronique dans les conditions garantissant sa fiabilité produit les mêmes effets de droit que leur publication sous forme imprimée.\n\nV. - Les dispositions législatives ou réglementaires mentionnées à l'article 1er-1 et au III du présent article sont publiées pour information au Journal officiel des Terres australes et antarctiques françaises.\n\nVI. - Les lois et règlements intervenus antérieurement à la date de promulgation de la loi n° 2007-224 du 21 février 2007 portant dispositions statutaires et institutionnelles relatives à l'outre-mer qui comportent une mention d'application dans les Terres australes et antarctiques françaises et qui n'ont pas fait l'objet d'une promulgation locale par l'administrateur supérieur y entrent en vigueur le dixième jour qui suit la publication de ladite loi, à moins qu'ils n'en disposent autrement.\n\nVII. - Les actes réglementaires des autorités du territoire sont publiés au Journal officiel des Terres australes et antarctiques françaises. Ils entrent en vigueur à la date qu'ils fixent ou, à défaut, le lendemain de leur publication.",
+      "valid_from": "2016-01-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Ce territoire est placé sous l'autorité d'un représentant de l'Etat chef du territoire, qui prend le titre d'administrateur supérieur des Terres australes et antarctiques françaises.En sa qualité de représentant de l'Etat, l'administrateur supérieur assure l'ordre public et concourt au respect des libertés publiques et des droits individuels et collectifs.Il dirige les services de l'Etat, à l'exclusion des organismes à caractère juridictionnel, sous réserve d'exceptions limitativement énumérées par décret.En matière de défense nationale et d'action de l'Etat en mer, il exerce les fonctions prévues par la législation et la réglementation en vigueur.Il assure, au nom de l'Etat, dans les conditions prévues par la législation et la réglementation en vigueur, le contrôle des organismes ou personnes publics ou privés bénéficiant des subventions ou contributions de l'Etat.Il prend des règlements dans les matières relevant de sa compétence."
+      "content": "Ce territoire est placé sous l'autorité d'un représentant de l'Etat chef du territoire, qui prend le titre d'administrateur supérieur des Terres australes et antarctiques françaises.En sa qualité de représentant de l'Etat, l'administrateur supérieur assure l'ordre public et concourt au respect des libertés publiques et des droits individuels et collectifs.Il dirige les services de l'Etat, à l'exclusion des organismes à caractère juridictionnel, sous réserve d'exceptions limitativement énumérées par décret.En matière de défense nationale et d'action de l'Etat en mer, il exerce les fonctions prévues par la législation et la réglementation en vigueur.Il assure, au nom de l'Etat, dans les conditions prévues par la législation et la réglementation en vigueur, le contrôle des organismes ou personnes publics ou privés bénéficiant des subventions ou contributions de l'Etat.Il prend des règlements dans les matières relevant de sa compétence.",
+      "valid_from": "2007-02-22"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "L'administrateur supérieur est assisté d'un conseil consultatif dont la composition, l'organisation, le fonctionnement et les attributions sont fixés par décret. Le conseil consultatif comprend parmi ses membres un député et un sénateur, ainsi que leurs suppléants."
+      "content": "L'administrateur supérieur est assisté d'un conseil consultatif dont la composition, l'organisation, le fonctionnement et les attributions sont fixés par décret. Le conseil consultatif comprend parmi ses membres un député et un sénateur, ainsi que leurs suppléants.",
+      "valid_from": "2018-08-06"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les crédits nécessaires à l'installation, à l'entretien et au fonctionnement des établissements permanents des Terres australes et antarctiques françaises sont inscrits au budget du ministère chargé de l'outre-mer."
+      "content": "Les crédits nécessaires à l'installation, à l'entretien et au fonctionnement des établissements permanents des Terres australes et antarctiques françaises sont inscrits au budget du ministère chargé de l'outre-mer.",
+      "valid_from": "2007-02-22"
     },
     {
       "provision_ref": "art5-1",
       "section": "5-1",
       "title": "Article 5-1",
-      "content": "I.-L'article L. 1611-7 du code général des collectivités territoriales est applicable dans les Terres australes et antarctiques françaises, dans sa rédaction résultant de la loi n° 2019-1461 du 27 décembre 2019 relative à l'engagement dans la vie locale et à la proximité de l'action publique, sous réserve des adaptations suivantes :1° Toutes les références aux collectivités territoriales et à leurs établissements publics sont remplacées par des références à la collectivité des Terres australes et antarctiques françaises ;2° Les références à la collectivité territoriale ou à l'établissement public mandant sont remplacées par des références à la collectivité mandante ;3° Le III n'est pas applicable.II.-L'article L. 1611-7-1 du code général des collectivités territoriales est applicable dans les Terres australes et antarctiques françaises, dans sa rédaction résultant de la loi n° 2021-1308 du 8 octobre 2021 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine des transports, de l'environnement, de l'économie et des finances, sous réserve des adaptations suivantes :1° Toutes les références aux collectivités territoriales et à leurs établissements publics sont remplacées par des références à la collectivité des Terres australes et antarctiques françaises ;2° A la première phrase de l'avant-dernier alinéa, la référence à la collectivité territoriale ou à l'établissement public mandant est remplacée par la référence à la collectivité mandante."
+      "content": "I.-L'article L. 1611-7 du code général des collectivités territoriales est applicable dans les Terres australes et antarctiques françaises, dans sa rédaction résultant de la loi n° 2019-1461 du 27 décembre 2019 relative à l'engagement dans la vie locale et à la proximité de l'action publique, sous réserve des adaptations suivantes :1° Toutes les références aux collectivités territoriales et à leurs établissements publics sont remplacées par des références à la collectivité des Terres australes et antarctiques françaises ;2° Les références à la collectivité territoriale ou à l'établissement public mandant sont remplacées par des références à la collectivité mandante ;3° Le III n'est pas applicable.II.-L'article L. 1611-7-1 du code général des collectivités territoriales est applicable dans les Terres australes et antarctiques françaises, dans sa rédaction résultant de la loi n° 2021-1308 du 8 octobre 2021 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine des transports, de l'environnement, de l'économie et des finances, sous réserve des adaptations suivantes :1° Toutes les références aux collectivités territoriales et à leurs établissements publics sont remplacées par des références à la collectivité des Terres australes et antarctiques françaises ;2° A la première phrase de l'avant-dernier alinéa, la référence à la collectivité territoriale ou à l'établissement public mandant est remplacée par la référence à la collectivité mandante.",
+      "valid_from": "2022-02-23"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "L'administrateur supérieur peut décider de déroger à l'obligation de dépôt auprès de l'Etat des fonds du territoire dans les conditions définies au chapitre VIII du titre unique du livre VI de la première partie du code général des collectivités territoriales."
+      "content": "L'administrateur supérieur peut décider de déroger à l'obligation de dépôt auprès de l'Etat des fonds du territoire dans les conditions définies au chapitre VIII du titre unique du livre VI de la première partie du code général des collectivités territoriales.",
+      "valid_from": "2007-02-22"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Des décrets pris sur le rapport du ministre chargé de l'outre-mer et, éventuellement, du ministre des finances et des affaires économiques règleront les modalités d'application du présent titre."
+      "content": "Des décrets pris sur le rapport du ministre chargé de l'outre-mer et, éventuellement, du ministre des finances et des affaires économiques règleront les modalités d'application du présent titre.",
+      "valid_from": "2022-02-23"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Tous textes antérieurs contraires aux présentes dispositions, et notamment le décret du 21 novembre 1924 rattachant les îles Saint-Paul et Amsterdam, les archipels Crozet et Kerguelen et la terre Adélie au gouvernement général de Madagascar sont abrogés.\n\nLes îles Bassas da India, Europa, Glorieuses, Juan da Nova et Tromelin sont régies, à compter de la date de promulgation de la loi n° 2007-224 du 21 février 2007 précitée, par les dispositions législatives et réglementaires en vigueur, à cette même date, dans le territoire des Terres australes et antarctiques françaises.\n\nL'article 1er-1 entre en vigueur le 1er janvier 2008. Les dispositions législatives et réglementaires intervenues dans les domaines soumis, en application de la loi n° 2007-224 du 21 février 2007 précitée, au régime de l'application de plein droit des lois et règlements sont applicables dans les Terres australes et antarctiques françaises, à compter de cette date, sous réserve qu'elles n'en disposent pas autrement."
+      "content": "Tous textes antérieurs contraires aux présentes dispositions, et notamment le décret du 21 novembre 1924 rattachant les îles Saint-Paul et Amsterdam, les archipels Crozet et Kerguelen et la terre Adélie au gouvernement général de Madagascar sont abrogés.\n\nLes îles Bassas da India, Europa, Glorieuses, Juan da Nova et Tromelin sont régies, à compter de la date de promulgation de la loi n° 2007-224 du 21 février 2007 précitée, par les dispositions législatives et réglementaires en vigueur, à cette même date, dans le territoire des Terres australes et antarctiques françaises.\n\nL'article 1er-1 entre en vigueur le 1er janvier 2008. Les dispositions législatives et réglementaires intervenues dans les domaines soumis, en application de la loi n° 2007-224 du 21 février 2007 précitée, au régime de l'application de plein droit des lois et règlements sont applicables dans les Terres australes et antarctiques françaises, à compter de cette date, sous réserve qu'elles n'en disposent pas autrement.",
+      "valid_from": "2007-02-22"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "L'île de Clipperton peut également être désignée par l'appellation : “ La Passion-Clipperton ”."
+      "content": "L'île de Clipperton peut également être désignée par l'appellation : “ La Passion-Clipperton ”.",
+      "valid_from": "2022-02-23"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les lois et règlements sont applicables de plein droit dans l'île de Clipperton."
+      "content": "Les lois et règlements sont applicables de plein droit dans l'île de Clipperton.",
+      "valid_from": "2022-02-23"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "L'île est placée sous l'autorité directe du Gouvernement.Le ministre chargé des outre-mer est chargé de l'administration de l'île. Il y exerce l'ensemble des attributions dévolues par les lois et règlements aux autorités administratives.Le ministre chargé des outre-mer assure l'ordre public et concourt au respect des libertés publiques et des droits individuels et collectifs.Il veille principalement à la préservation des différents milieux physiques, notamment maritimes, ainsi qu'au respect des équilibres écologiques et du patrimoine naturel.Il dirige les services de l'Etat.Il assure, au nom de l'Etat, dans les conditions prévues par la législation et la réglementation, le contrôle des organismes ou personnes publics ou privés bénéficiant des subventions ou contributions de l'Etat.Il prend des règlements dans les matières relevant de sa compétence."
+      "content": "L'île est placée sous l'autorité directe du Gouvernement.Le ministre chargé des outre-mer est chargé de l'administration de l'île. Il y exerce l'ensemble des attributions dévolues par les lois et règlements aux autorités administratives.Le ministre chargé des outre-mer assure l'ordre public et concourt au respect des libertés publiques et des droits individuels et collectifs.Il veille principalement à la préservation des différents milieux physiques, notamment maritimes, ainsi qu'au respect des équilibres écologiques et du patrimoine naturel.Il dirige les services de l'Etat.Il assure, au nom de l'Etat, dans les conditions prévues par la législation et la réglementation, le contrôle des organismes ou personnes publics ou privés bénéficiant des subventions ou contributions de l'Etat.Il prend des règlements dans les matières relevant de sa compétence.",
+      "valid_from": "2022-02-23"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Le ministre chargé des outre-mer est assisté d'un conseil consultatif dont la composition, l'organisation, le fonctionnement et les attributions sont fixés par décret."
+      "content": "Le ministre chargé des outre-mer est assisté d'un conseil consultatif dont la composition, l'organisation, le fonctionnement et les attributions sont fixés par décret.",
+      "valid_from": "2022-02-23"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Hors cas de force majeure lié à la préservation de la vie humaine ou à la sauvegarde d'un navire ou d'un aéronef, le mouillage dans les eaux intérieures, le débarquement, l'atterrissage, le séjour ou toute autre activité sur l'île sont soumis à l'autorisation du ministre chargé des outre-mer."
+      "content": "Hors cas de force majeure lié à la préservation de la vie humaine ou à la sauvegarde d'un navire ou d'un aéronef, le mouillage dans les eaux intérieures, le débarquement, l'atterrissage, le séjour ou toute autre activité sur l'île sont soumis à l'autorisation du ministre chargé des outre-mer.",
+      "valid_from": "2022-02-23"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Est puni d'un an d'emprisonnement et de 300 000 € d'amende le fait de mouiller dans les eaux intérieures de l'île ou de débarquer, d'atterrir, de séjourner ou de procéder à une activité sur l'île sans être titulaire de l'autorisation prévue à l'article 13."
+      "content": "Est puni d'un an d'emprisonnement et de 300 000 € d'amende le fait de mouiller dans les eaux intérieures de l'île ou de débarquer, d'atterrir, de séjourner ou de procéder à une activité sur l'île sans être titulaire de l'autorisation prévue à l'article 13.",
+      "valid_from": "2022-02-23"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les personnes coupables de l'une des infractions prévues à l'article 14 encourent également, à titre de peine complémentaire, la confiscation du navire, de l'embarcation, de l'engin nautique, de l'aéronef, de la chose ou de l'installation ayant servi à l'infraction, dans les conditions prévues à l'article 131-21 du code pénal."
+      "content": "Les personnes coupables de l'une des infractions prévues à l'article 14 encourent également, à titre de peine complémentaire, la confiscation du navire, de l'embarcation, de l'engin nautique, de l'aéronef, de la chose ou de l'installation ayant servi à l'infraction, dans les conditions prévues à l'article 131-21 du code pénal.",
+      "valid_from": "2022-02-23"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Un décret précise les modalités d'application du présent titre."
+      "content": "Un décret précise les modalités d'application du présent titre.",
+      "valid_from": "2022-02-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "II. - Jusqu'au 31 décembre 2012, pour l'application à Mayotte du deuxième alinéa de l'article 29 de la loi n° 65-557 du 10 juillet 1965 susvisée, les mots :  \"de sociétés d'attribution régies par les articles L. 212-1 et suivants du code de la construction et de l'habitation\"  ne sont pas applicables."
+      "content": "II. - Jusqu'au 31 décembre 2012, pour l'application à Mayotte du deuxième alinéa de l'article 29 de la loi n° 65-557 du 10 juillet 1965 susvisée, les mots :  \"de sociétés d'attribution régies par les articles L. 212-1 et suivants du code de la construction et de l'habitation\"  ne sont pas applicables.",
+      "valid_from": "2012-04-28"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice et des libertés, et le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice et des libertés, et le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2012-04-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

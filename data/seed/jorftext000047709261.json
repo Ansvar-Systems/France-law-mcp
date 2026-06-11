@@ -12,13 +12,21 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les dispositions de la présente ordonnance s'appliquent aux exercices ouverts à compter du 22 juin 2024."
+      "content": "Les dispositions de la présente ordonnance s'appliquent aux exercices ouverts à compter du 22 juin 2024.",
+      "valid_from": "2023-06-23"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "La Première ministre, le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, le ministre de l'intérieur et des outre-mer et le ministre délégué auprès du ministre de l'intérieur et des outre-mer, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "La Première ministre, le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, le ministre de l'intérieur et des outre-mer et le ministre délégué auprès du ministre de l'intérieur et des outre-mer, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2023-06-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

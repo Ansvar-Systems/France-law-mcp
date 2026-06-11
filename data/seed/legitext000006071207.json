@@ -1,0 +1,130 @@
+{
+  "id": "legitext000006071207",
+  "type": "statute",
+  "title": "Loi du 24 juillet 1921",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071207/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Jusqu'à l'introduction des lois civiles françaises dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, l'état et la capacité des Alsaciens-Lorrains et de leurs enfants légitimes ou naturels, nés même depuis le 11 novembre 1918, sont régis par la loi locale qui y est provisoirement en vigueur.Il en sera de même de l'état et de la capacité des enfants nés dans ces départements de parents inconnus.L'état et la capacité de toute autre personne de nationalité française même domiciliée dans un de ces départements sont régis par la loi française.",
+      "valid_from": "1921-07-26"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La femme mariée à un Français ou à un Alsacien-Lorrain, est soumise, quant à son état et à sa capacité, à la loi qui régit l'état et la capacité de son mari.",
+      "valid_from": "1921-07-26"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Sous réserve des dispositions des articles 4 et 5, une tutelle ouverte dans un des trois départements pour une personne, dont l'état et la capacité sont régis par la loi française est organisée conformément à cette loi. Le juge de baillage exerce les fonctions dévolues au juge de paix, le tribunal régional celles du tribunal de première instance. Ils statuent selon les formes de la procédure locale.Les mêmes règles s'appliquent à l'émancipation, à la dation d'un conseil judiciaire et à toute autre question d'état.",
+      "valid_from": "1921-07-26"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le régime de la propriété et des droits réels en matière mobilière ou immobilière est déterminé par la loi du lieu de la situation des biens. En matière mobilière, la situation qui détermine la loi applicable est celle que le meuble occupe au début de l'instance en justice.Toutefois, le déplacement d'un meuble ne peut porter atteinte à des droits antérieurement acquis.",
+      "valid_from": "1921-07-26"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Les successions sont régies, sans distinction entre la masse mobilière et la masse immobilière, par la loi qui détermine l'état et la capacité du de cujus au moment du décès.Toutefois, la procédure de la liquidation et du partage et toutes autres procédures, ainsi que les mesures de publicité, sont déterminées par la loi du lieu de la situation des biens.",
+      "valid_from": "1921-07-26"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Sous réserve de l'application des articles 10 à 13, les formes de tous les actes juridiques volontaires, et notamment des contrats, sont déterminées par la loi du lieu de la passation de l'acte, les règles de la procédure, par la loi de la juridiction saisie.",
+      "valid_from": "1921-07-26"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Les effets de tous les actes juridiques volontaires et notamment des contrats, sont déterminés, sous réserve des articles 10 à 13, par la loi à laquelle les parties se sont référées.A défaut de référence expresse ou tacite, le juge appliquera la loi du lieu de l'exécution.",
+      "valid_from": "1921-07-26"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Les modes de preuve autorisés pour établir l'existence d'un acte juridique sont déterminés par la loi du lieu de la passation de l'acte, sous réserve des dispositions de l'article 10.Les modes de preuve de la filiation sont déterminés par la loi qui régit l'état de l'enfant.Les règles de procédure pour l'administration de la preuve sont établies par la loi du tribunal saisi.",
+      "valid_from": "1921-07-26"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9",
+      "content": "Les règles de la faillite sont déterminées par la loi du lieu du domicile du débiteur.",
+      "valid_from": "1921-07-26"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "A dater de la promulgation de la présente loi, tous les actes juridiques volontaires, et notamment les contrats qui sont régis par la loi locale, pourront être soustraits pour leur forme et leurs effets à l'application de cette loi et soumis à la loi française, par une simple déclaration de volonté des parties intéressées.Cette disposition s'appliquera à tous actes passés dans les trois départements ou en tout autre lieu du territoire français.Lorsque la déclaration concernera la forme d'un acte authentique ou d'un acte sous seing privé, elle devra être insérée dans l'acte lui-même. Ladite déclaration entraînera l'option quant aux effets de l'acte, sauf preuve contraire.",
+      "valid_from": "1921-07-26"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11",
+      "content": "Cette faculté d'option est exclue pour tous les actes juridiques volontaires et notamment les contrats concernant l'état et la capacité des personnes, la création, le transfert, la modification ou l'extinction des droits réels immobiliers, les mesures de publicité prescrites dans l'intérêt des tiers, l'acceptation ou la répudiation des successions. Ces matières demeurent exclusivement régies par la législation applicable aux termes de la présente loi.",
+      "valid_from": "1921-07-26"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12",
+      "content": "A dater de la promulgation de la présente loi, les Alsaciens-Lorrains pourront, par une simple déclaration insérée à leur contrat de mariage, adopter un régime matrimonial organisé par le Code civil français.Les époux alsaciens-lorrains dont les conventions matrimoniales étaient régies par la loi locale pourront adopter ce même régime, en se soumettant aux conditions de forme et de publicité établies par la loi locale pour des conventions matrimoniales.Le régime matrimonial de toute autre personne de nationalité française, même domiciliée dans un des trois départements du Bas-Rhin, du Haut-Rhin et de la Moselle, restera soumis aux règles du Code civil français.",
+      "valid_from": "1921-07-26"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13",
+      "content": "La faculté d'option existera pour un acte de société même antérieurement conclu à la promulgation de la présente loi.A défaut de prévision statutaire spéciale, elle devra être faite dans les conditions requises pour la modification des statuts sociaux, d'après la loi qui régit ces statuts.",
+      "valid_from": "1921-07-26"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14",
+      "content": "Pour l'application de la présente loi, la qualité d'Alsacien-Lorrain est définie par l'article 54 du traité de paix du 28 juin 1919.Il faut entendre par la loi locale, la loi qui est applicable dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.",
+      "valid_from": "1921-07-26"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15",
+      "content": "Les règles de conflits établies par la présente loi s'appliqueront exclusivement aux conflits qui s'élèvent entre la loi française et la loi locale. Elles seront, au besoin, complétées par les règles du droit international privé admises en France.Les conflits entre ces lois et les lois étrangères sont régis par l'article 3 du Code civil et par le système général du droit international privé admis en France.Sous réserve des articles 10, 11, et 13, la loi allemande, en tant qu'elle reste en vigueur dans les trois départements, est considérée comme loi étrangère au sens du présent article, lorsqu'elle s'applique à des sujets allemands.",
+      "valid_from": "1921-07-26"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16",
+      "content": "A dater de la promulgation de la présente loi, les articles 7 à 31 de la loi d'introduction du Code civil allemand cesseront d'être en vigueur dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.",
+      "valid_from": "1921-07-26"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

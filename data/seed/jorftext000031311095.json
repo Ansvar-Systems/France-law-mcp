@@ -12,19 +12,28 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Dans un délai de trois mois suivant la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur l'éligibilité à l'aide à l'équipement des foyers dégrevés de la contribution à l'audiovisuel public et ne recevant les services de télévision en clair que par la voie satellitaire sans abonnement."
+      "content": "Dans un délai de trois mois suivant la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur l'éligibilité à l'aide à l'équipement des foyers dégrevés de la contribution à l'audiovisuel public et ne recevant les services de télévision en clair que par la voie satellitaire sans abonnement.",
+      "valid_from": "2015-10-16"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Lorsque les normes de diffusion et de codage définies par l'arrêté pris en application de l'article 12 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication sont identiques pour des standards de diffusion différents, l'éditeur d'un service de télévision diffusé par voie hertzienne terrestre titulaire d'autorisations distinctes pour la diffusion du service en définition standard et en haute définition, délivrées en application de l'article 30-1 de la même loi, met fin à l'une de ces diffusions et le Conseil supérieur de l'audiovisuel abroge l'autorisation correspondante."
+      "content": "Lorsque les normes de diffusion et de codage définies par l'arrêté pris en application de l'article 12 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication sont identiques pour des standards de diffusion différents, l'éditeur d'un service de télévision diffusé par voie hertzienne terrestre titulaire d'autorisations distinctes pour la diffusion du service en définition standard et en haute définition, délivrées en application de l'article 30-1 de la même loi, met fin à l'une de ces diffusions et le Conseil supérieur de l'audiovisuel abroge l'autorisation correspondante.",
+      "valid_from": "2015-10-16"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "La présente loi, à l'exception des articles 13 et 15, est applicable sur l'ensemble du territoire de la République."
+      "content": "La présente loi, à l'exception des articles 13 et 15, est applicable sur l'ensemble du territoire de la République.",
+      "valid_from": "2015-10-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

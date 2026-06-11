@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les livres VI et VIII du code de commerce sont modifiés conformément aux articles 2 à 99."
+      "content": "Les livres VI et VIII du code de commerce sont modifiés conformément aux articles 2 à 99.",
+      "valid_from": "2014-07-01"
     },
     {
       "provision_ref": "art102",
       "section": "102",
       "title": "Article 102",
-      "content": "Le titre V du livre III du code rural et de la pêche maritime est modifié conformément aux dispositions du présent chapitre."
+      "content": "Le titre V du livre III du code rural et de la pêche maritime est modifié conformément aux dispositions du présent chapitre.",
+      "valid_from": "2014-07-01"
     },
     {
       "provision_ref": "art108",
       "section": "108",
       "title": "Article 108",
-      "content": "Le code du travail est modifié conformément aux dispositions du présent chapitre."
+      "content": "Le code du travail est modifié conformément aux dispositions du présent chapitre.",
+      "valid_from": "2014-07-01"
     },
     {
       "provision_ref": "art115",
       "section": "115",
       "title": "Article 115",
-      "content": "II. - La présente ordonnance est applicable dans les îles Wallis et Futuna à l'exception du III de l'article L. 631-19 du code de commerce dans sa rédaction issue de la présente ordonnance, des articles 99 et 101 et des articles 108 à 114."
+      "content": "II. - La présente ordonnance est applicable dans les îles Wallis et Futuna à l'exception du III de l'article L. 631-19 du code de commerce dans sa rédaction issue de la présente ordonnance, des articles 99 et 101 et des articles 108 à 114.",
+      "valid_from": "2014-07-01"
     },
     {
       "provision_ref": "art116",
       "section": "116",
       "title": "Article 116",
-      "content": "La présente ordonnance entre en vigueur le 1er juillet 2014.Elle n'est pas applicable aux procédures en cours au jour de son entrée en vigueur, à l'exception des dispositions des articles 77 et 80."
+      "content": "La présente ordonnance entre en vigueur le 1er juillet 2014.Elle n'est pas applicable aux procédures en cours au jour de son entrée en vigueur, à l'exception des dispositions des articles 77 et 80.",
+      "valid_from": "2014-07-01"
     },
     {
       "provision_ref": "art117",
       "section": "117",
       "title": "Article 117",
-      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'économie et des finances, le ministre du redressement productif, le ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social, le ministre de l'agriculture, de l'agroalimentaire et de la forêt et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'économie et des finances, le ministre du redressement productif, le ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social, le ministre de l'agriculture, de l'agroalimentaire et de la forêt et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2014-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

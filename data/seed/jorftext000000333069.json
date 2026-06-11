@@ -12,37 +12,49 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "La présente loi entrera en vigueur le 31 mars 1978."
+      "content": "La présente loi entrera en vigueur le 31 mars 1978.",
+      "valid_from": "1978-03-31"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La présente loi sera applicable à l'égard des personnes qui, avant son entrée en vigueur, ont cessé de paraître au lieu de leur domicile ou de leur résidence sans que l'on ait eu de leurs nouvelles, sous les exceptions résultant des articles ci-dessous."
+      "content": "La présente loi sera applicable à l'égard des personnes qui, avant son entrée en vigueur, ont cessé de paraître au lieu de leur domicile ou de leur résidence sans que l'on ait eu de leurs nouvelles, sous les exceptions résultant des articles ci-dessous.",
+      "valid_from": "1978-03-31"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Lorsqu'il aura été statué selon les anciens articles 112 et 113 du code civil, en vue de pourvoir à l'administration de tout ou partie des biens laissés par une personne présumée absente ou à la représentation de cette dernière, les mesures prescrites pourront être modifiées, s'il y a lieu, dans les formes et conditions fixées par les nouveaux articles 112 à 118 du code civil."
+      "content": "Lorsqu'il aura été statué selon les anciens articles 112 et 113 du code civil, en vue de pourvoir à l'administration de tout ou partie des biens laissés par une personne présumée absente ou à la représentation de cette dernière, les mesures prescrites pourront être modifiées, s'il y a lieu, dans les formes et conditions fixées par les nouveaux articles 112 à 118 du code civil.",
+      "valid_from": "1978-03-31"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Lorsque la requête aux fins de déclaration d'absence aura été présentée avant l'entrée en vigueur de la présente loi, la demande sera instruite et jugée selon la loi ancienne ; la déclaration d'absence produira alors les effets prévus par cette loi, sous réserve des dispositions de l'article 10."
+      "content": "Lorsque la requête aux fins de déclaration d'absence aura été présentée avant l'entrée en vigueur de la présente loi, la demande sera instruite et jugée selon la loi ancienne ; la déclaration d'absence produira alors les effets prévus par cette loi, sous réserve des dispositions de l'article 10.",
+      "valid_from": "1978-03-31"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "A l'expiration d'un délai d'un an à compter de l'entrée en vigueur de la présente loi, tout jugement déclaratif d'absence rendu selon la loi ancienne, qui aura été publié depuis plus de dix ans en application de l'article 118 ancien du code civil, produira les effets que la loi nouvelle y aurait attachés. Dans ce cas, les cautions sont déchargées et tous les ayants droit peuvent demander le partage des biens de l'absent."
+      "content": "A l'expiration d'un délai d'un an à compter de l'entrée en vigueur de la présente loi, tout jugement déclaratif d'absence rendu selon la loi ancienne, qui aura été publié depuis plus de dix ans en application de l'article 118 ancien du code civil, produira les effets que la loi nouvelle y aurait attachés. Dans ce cas, les cautions sont déchargées et tous les ayants droit peuvent demander le partage des biens de l'absent.",
+      "valid_from": "1978-03-31"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Sont abrogées toutes les dispositions contraires à la présente loi, et notamment le 5° de l'article 28 du décret n° 55-22 du 4 janvier 1955 portant réforme de la publicité foncière, ainsi que la loi du 22 septembre 1942 relative aux militaires, marins et civils disparus pendant la période comprise entre le 3 septembre 1939 et le 25 juin 1940, validée et modifiée par l'ordonnance du 5 avril 1944."
+      "content": "Sont abrogées toutes les dispositions contraires à la présente loi, et notamment le 5° de l'article 28 du décret n° 55-22 du 4 janvier 1955 portant réforme de la publicité foncière, ainsi que la loi du 22 septembre 1942 relative aux militaires, marins et civils disparus pendant la période comprise entre le 3 septembre 1939 et le 25 juin 1940, validée et modifiée par l'ordonnance du 5 avril 1944.",
+      "valid_from": "1978-03-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

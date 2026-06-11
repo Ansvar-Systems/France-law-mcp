@@ -12,25 +12,35 @@
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "I. - L'article L. 411-9 du code rural est abrogé.II. - L'article L. 411-17 du code rural est abrogé."
+      "content": "I. - L'article L. 411-9 du code rural est abrogé.II. - L'article L. 411-17 du code rural est abrogé.",
+      "valid_from": "1991-01-06"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "L'indemnité annuelle d'attente versée aux agriculteurs âgés de plus de cinquante-cinq ans et de moins de cinquante-neuf ans dont l'exploitation a été reconnue non viable n'est pas saisissable par les créanciers des bénéficiaires quels qu'ils soient."
+      "content": "L'indemnité annuelle d'attente versée aux agriculteurs âgés de plus de cinquante-cinq ans et de moins de cinquante-neuf ans dont l'exploitation a été reconnue non viable n'est pas saisissable par les créanciers des bénéficiaires quels qu'ils soient.",
+      "valid_from": "1991-01-06"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "I. - (paragraphe modificateur).II. - Les distributions payées en certificats coopératifs d'investissement conformément aux dispositions du paragraphe I. ne sont pas retenues pour l'application des dispositions du c du I. de l'article 219 du code général des impôts, dans les conditions et limites prévues pour les distributions payées en actions ou parts sociales par les sociétés ou coopératives à capital variable autres que celles qui sont régies par le code de commerce."
+      "content": "I. - (paragraphe modificateur).II. - Les distributions payées en certificats coopératifs d'investissement conformément aux dispositions du paragraphe I. ne sont pas retenues pour l'application des dispositions du c du I. de l'article 219 du code général des impôts, dans les conditions et limites prévues pour les distributions payées en actions ou parts sociales par les sociétés ou coopératives à capital variable autres que celles qui sont régies par le code de commerce.",
+      "valid_from": "2000-09-21"
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "Pour les années 1991 et 1992, les esters d'huiles de colza et de tournesol peuvent être utilisés en substitution du fioul domestique, dans les mêmes conditions que celui-ci.Ils ne sont pas soumis dans ces différentes utilisations à la taxe intérieure de consommation sur les produits pétroliers prévus à l'article 265 du code des douanes."
+      "content": "Pour les années 1991 et 1992, les esters d'huiles de colza et de tournesol peuvent être utilisés en substitution du fioul domestique, dans les mêmes conditions que celui-ci.Ils ne sont pas soumis dans ces différentes utilisations à la taxe intérieure de consommation sur les produits pétroliers prévus à l'article 265 du code des douanes.",
+      "valid_from": "1991-01-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

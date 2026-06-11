@@ -12,13 +12,21 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La présente loi est applicable en Nouvelle-Calédonie et dans les îles Wallis et Futuna."
+      "content": "La présente loi est applicable en Nouvelle-Calédonie et dans les îles Wallis et Futuna.",
+      "valid_from": "2012-03-14"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "La présente loi est applicable aux procédures de sauvegarde, de redressement judiciaire ou de liquidation judiciaire en cours à la date de sa publication."
+      "content": "La présente loi est applicable aux procédures de sauvegarde, de redressement judiciaire ou de liquidation judiciaire en cours à la date de sa publication.",
+      "valid_from": "2012-03-14"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

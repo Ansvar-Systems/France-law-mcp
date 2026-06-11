@@ -1,0 +1,25 @@
+{
+  "id": "legitext000006072687",
+  "type": "statute",
+  "title": "Loi n° 49-1093 du 2 août 1949",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072687/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Il énoncera :1° La date du protêt ou du certificat de non-paiement du chèque postal ;2° Les nom, prénoms, profession et domicile de celui au profit de qui l'effet ou le chèque a été créé, ou le tireur de la lettre de change ;3° Les nom, prénoms, ou raison sociale, profession et domicile du souscripteur du billet à ordre ou du tiré, pour le chèque, ou de l'accepteur de la lettre de change ;4° La date de l'échéance, s'il y a lieu ;5° Le montant de l'effet ;6° La réponse donnée au protêt ou le motif de rejet du chèque postal figurant sur le certificat de non-paiement.",
+      "valid_from": "2000-09-21"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

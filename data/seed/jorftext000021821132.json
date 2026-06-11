@@ -12,91 +12,112 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Toute entreprise ayant pour effet de livrer ou d'administrer au public des eaux minérales naturelles ou artificielles demeure soumise à une autorisation préalable et à l'inspection d'hommes de l'art, ainsi qu'il sera réglé ci-après.Sont seuls exceptés de ces conditions les débits desdites eaux qui ont lieu dans des pharmacies."
+      "content": "Toute entreprise ayant pour effet de livrer ou d'administrer au public des eaux minérales naturelles ou artificielles demeure soumise à une autorisation préalable et à l'inspection d'hommes de l'art, ainsi qu'il sera réglé ci-après.Sont seuls exceptés de ces conditions les débits desdites eaux qui ont lieu dans des pharmacies.",
+      "valid_from": "1823-06-18"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les autorisations exigées par l'article précédent continueront à être délivrées par notre ministre secrétaire d'Etat de l'intérieur (par le ministre de l'intérieur), sur l'avis des autorités locales, accompagné, pour les eaux minérales naturelles, de leur analyse, et pour les eaux minérales artificielles, des formules de leur préparation.Elles ne pourront être révoquées qu'en cas de résistance aux règles prescrites par la présente ordonnance, ou d'abus qui seraient de nature à compromettre la santé publique."
+      "content": "Les autorisations exigées par l'article précédent continueront à être délivrées par notre ministre secrétaire d'Etat de l'intérieur (par le ministre de l'intérieur), sur l'avis des autorités locales, accompagné, pour les eaux minérales naturelles, de leur analyse, et pour les eaux minérales artificielles, des formules de leur préparation.Elles ne pourront être révoquées qu'en cas de résistance aux règles prescrites par la présente ordonnance, ou d'abus qui seraient de nature à compromettre la santé publique.",
+      "valid_from": "1823-06-18"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "L'inspection ordonnée par le même article 1er continuera à être confiée à des docteurs en médecine ou en chirurgie ; la nomination en sera faite par notre ministre secrétaire d'Etat de l'intérieur (par le ministre de l'intérieur), de manière qu'il n'y ait qu'un inspecteur par établissement, et qu'un même inspecteur en inspecte plusieurs lorsque le service le permettra. Il pourra néanmoins, là où ce sera jugé nécessaire, être nommé des inspecteurs adjoints, à l'effet de remplacer les inspecteurs titulaires en cas d'absence, de maladie ou de tout autre empêchement."
+      "content": "L'inspection ordonnée par le même article 1er continuera à être confiée à des docteurs en médecine ou en chirurgie ; la nomination en sera faite par notre ministre secrétaire d'Etat de l'intérieur (par le ministre de l'intérieur), de manière qu'il n'y ait qu'un inspecteur par établissement, et qu'un même inspecteur en inspecte plusieurs lorsque le service le permettra. Il pourra néanmoins, là où ce sera jugé nécessaire, être nommé des inspecteurs adjoints, à l'effet de remplacer les inspecteurs titulaires en cas d'absence, de maladie ou de tout autre empêchement.",
+      "valid_from": "1823-06-18"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Partout où l'affluence du public l'exigera, les préfets, après avoir entendu les propriétaires et les inspecteurs, feront des règlements particuliers qui auront en vue l'ordre intérieur, la salubrité des eaux, leur libre usage, l'exclusion de toute préférence dans les heures à assigner aux malades pour les bains ou douches, et la protection particulière due à ces derniers dans tout établissement placé sous la surveillance spéciale de l'autorité.Lorsque l'établissement appartiendra à l'Etat, à un département, une commune, ou une institution charitable, le règlement aura aussi en vue les autres branches de son administration."
+      "content": "Partout où l'affluence du public l'exigera, les préfets, après avoir entendu les propriétaires et les inspecteurs, feront des règlements particuliers qui auront en vue l'ordre intérieur, la salubrité des eaux, leur libre usage, l'exclusion de toute préférence dans les heures à assigner aux malades pour les bains ou douches, et la protection particulière due à ces derniers dans tout établissement placé sous la surveillance spéciale de l'autorité.Lorsque l'établissement appartiendra à l'Etat, à un département, une commune, ou une institution charitable, le règlement aura aussi en vue les autres branches de son administration.",
+      "valid_from": "1823-06-18"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les règlements prescrits par l'article précédent seront transmis à notre ministre, secrétaire d'Etat de l'intérieur (au ministre de l'intérieur), qui pourra y faire telles modifications qu'il jugera nécessaires.Ils resteront affichés dans les établissements et seront obligatoires pour les personnes qui les fréquentent, comme pour les individus attachés à leur service. Ces inspecteurs pourront requérir le renvoi de ceux de ces derniers qui, refuseraient de s'y conformer."
+      "content": "Les règlements prescrits par l'article précédent seront transmis à notre ministre, secrétaire d'Etat de l'intérieur (au ministre de l'intérieur), qui pourra y faire telles modifications qu'il jugera nécessaires.Ils resteront affichés dans les établissements et seront obligatoires pour les personnes qui les fréquentent, comme pour les individus attachés à leur service. Ces inspecteurs pourront requérir le renvoi de ceux de ces derniers qui, refuseraient de s'y conformer.",
+      "valid_from": "1823-06-18"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Resteront pareillement affichés dans ces établissements et dans tous les bureaux destinés à la vente d'eaux minérales, les tarifs ordonnés par arrêté du Gouvernement.Lorsque ces tarifs concerneront des entreprises particulières, l'approbation des préfets ne pourra porter aucune modification dans les prix, et servira seulement à les constater."
+      "content": "Resteront pareillement affichés dans ces établissements et dans tous les bureaux destinés à la vente d'eaux minérales, les tarifs ordonnés par arrêté du Gouvernement.Lorsque ces tarifs concerneront des entreprises particulières, l'approbation des préfets ne pourra porter aucune modification dans les prix, et servira seulement à les constater.",
+      "valid_from": "1823-06-18"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Il ne sera, sous aucun prétexte, exigé ni perçu des prix supérieurs à ce tarif.Les inspecteurs ne pourront également rien exiger des malades dont ils ne dirigeront pas le traitement, ou auxquels ils ne donneront pas des soins particuliers. Ils continueront à soigner gratuitement les indigents admis dans les hospices dépendant des établissements thermaux, et seront tenus de les visiter au moins une fois par jour."
+      "content": "Il ne sera, sous aucun prétexte, exigé ni perçu des prix supérieurs à ce tarif.Les inspecteurs ne pourront également rien exiger des malades dont ils ne dirigeront pas le traitement, ou auxquels ils ne donneront pas des soins particuliers. Ils continueront à soigner gratuitement les indigents admis dans les hospices dépendant des établissements thermaux, et seront tenus de les visiter au moins une fois par jour.",
+      "valid_from": "1823-06-18"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Tous individus fabriquant des eaux minérales artificielles ne pourront obtenir ou conserver l'autorisation exigée par l'article 1er qu'à la condition de se soumettre aux dispositions qui les concernent dans la présente ordonnance, de subvenir aux frais d'inspection, de justifier des connaissances nécessaires pour de telles entreprises, ou de présenter pour garant un pharmacien légalement reçu."
+      "content": "Tous individus fabriquant des eaux minérales artificielles ne pourront obtenir ou conserver l'autorisation exigée par l'article 1er qu'à la condition de se soumettre aux dispositions qui les concernent dans la présente ordonnance, de subvenir aux frais d'inspection, de justifier des connaissances nécessaires pour de telles entreprises, ou de présenter pour garant un pharmacien légalement reçu.",
+      "valid_from": "1823-06-18"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Ils ne pourront s'écarter, dans leurs préparations, des formalités approuvées par notre ministre secrétaire d'Etat de l'intérieur (par le ministre de l'intérieur), et dont la copie restera dans les mains des inspecteurs chargés de veiller à ce qu'elles soient exactement suivies.Ils auront néanmoins, pour des cas particuliers, la faculté d'exécuter des formules magistrales sur la prescription écrite et signée d'un docteur en médecine ou en chirurgie.Ces prescriptions seront conservées pour être représentées à l'inspecteur s'il le requiert."
+      "content": "Ils ne pourront s'écarter, dans leurs préparations, des formalités approuvées par notre ministre secrétaire d'Etat de l'intérieur (par le ministre de l'intérieur), et dont la copie restera dans les mains des inspecteurs chargés de veiller à ce qu'elles soient exactement suivies.Ils auront néanmoins, pour des cas particuliers, la faculté d'exécuter des formules magistrales sur la prescription écrite et signée d'un docteur en médecine ou en chirurgie.Ces prescriptions seront conservées pour être représentées à l'inspecteur s'il le requiert.",
+      "valid_from": "1823-06-18"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les autorisations nécessaires pour tous dépôts d'eaux minérales naturelles où artificielles, ailleurs que dans les pharmacies ou dans les lieux où elles sont puisées ou fabriquées, ne seront pareillement accordées qu'à la condition expresse de se soumettre aux présentes règles et de subvenir aux frais d'inspection.Il n'est néanmoins rien innové à la faculté que les précédents règlements donnent à tout particulier de faire venir des eaux minérales pour son usage et pour celui de sa famille."
+      "content": "Les autorisations nécessaires pour tous dépôts d'eaux minérales naturelles où artificielles, ailleurs que dans les pharmacies ou dans les lieux où elles sont puisées ou fabriquées, ne seront pareillement accordées qu'à la condition expresse de se soumettre aux présentes règles et de subvenir aux frais d'inspection.Il n'est néanmoins rien innové à la faculté que les précédents règlements donnent à tout particulier de faire venir des eaux minérales pour son usage et pour celui de sa famille.",
+      "valid_from": "1823-06-18"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Il ne peut être fait d'expédition d'eaux minérales naturelles hors de la commune où elles sont puisées, que sous la surveillance de l'inspecteur ; les envois doivent être accompagnés d'un certificat d'origine par lui délivré, constatant les quantités expédiées, la date de l'expédition, et la manière dont les vases ou bouteilles ont été scellés au moment même où l'eau a été puisée à la source.Les expéditions d'eaux minérales artificielles seront pareillement surveillées par l'inspecteur et accompagnées d'un certificat d'origine délivré par lui."
+      "content": "Il ne peut être fait d'expédition d'eaux minérales naturelles hors de la commune où elles sont puisées, que sous la surveillance de l'inspecteur ; les envois doivent être accompagnés d'un certificat d'origine par lui délivré, constatant les quantités expédiées, la date de l'expédition, et la manière dont les vases ou bouteilles ont été scellés au moment même où l'eau a été puisée à la source.Les expéditions d'eaux minérales artificielles seront pareillement surveillées par l'inspecteur et accompagnées d'un certificat d'origine délivré par lui.",
+      "valid_from": "1823-06-18"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Lors de l'arrivée desdites eaux aux lieux de leur destination, ailleurs que dans des pharmacies ou chez des particuliers, les vérifications nécessaires pour s'assurer que les précautions prescrites ont été observées et qu'elles peuvent être livrées au public, seront faites par les inspecteurs.Les caisses ne seront ouvertes qu'en leur présence, et les débitants devront tenir registre des quantités reçues, ainsi que des ventes successives."
+      "content": "Lors de l'arrivée desdites eaux aux lieux de leur destination, ailleurs que dans des pharmacies ou chez des particuliers, les vérifications nécessaires pour s'assurer que les précautions prescrites ont été observées et qu'elles peuvent être livrées au public, seront faites par les inspecteurs.Les caisses ne seront ouvertes qu'en leur présence, et les débitants devront tenir registre des quantités reçues, ainsi que des ventes successives.",
+      "valid_from": "1823-06-18"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Là où il n'aura point été nommé d'inspecteur, tous établissements d'eaux minérales naturelles ou artificielles seront soumis aux visites ordonnées par les articles 29, 30 et 31 de la loi du 11 avril 1803 (21 germinal an XI)."
+      "content": "Là où il n'aura point été nommé d'inspecteur, tous établissements d'eaux minérales naturelles ou artificielles seront soumis aux visites ordonnées par les articles 29, 30 et 31 de la loi du 11 avril 1803 (21 germinal an XI).",
+      "valid_from": "1823-06-18"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "Les établissements objets du présent titre seront mis en ferme, à moins que, sur la demande des autorités locales et des administrations propriétaires, notre ministre secrétaire d'Etat de l'intérieur (le ministre de l'intérieur) n'ait autorisé leur mise en règle."
+      "content": "Les établissements objets du présent titre seront mis en ferme, à moins que, sur la demande des autorités locales et des administrations propriétaires, notre ministre secrétaire d'Etat de l'intérieur (le ministre de l'intérieur) n'ait autorisé leur mise en règle.",
+      "valid_from": "1823-06-18"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Les membres des administrations propriétaires ou surveillantes, ni les inspecteurs ne pourront se rendre adjudicataires desdites fermes, ni y être intéressés."
+      "content": "Les membres des administrations propriétaires ou surveillantes, ni les inspecteurs ne pourront se rendre adjudicataires desdites fermes, ni y être intéressés.",
+      "valid_from": "1823-06-18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

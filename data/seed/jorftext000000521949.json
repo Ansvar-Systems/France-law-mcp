@@ -12,31 +12,42 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les effets de l'indépendance du territoire des Comores sur la nationalité seront régis par le titre VII du Code de la nationalité sous réserve des dispositions ci-après."
+      "content": "Les effets de l'indépendance du territoire des Comores sur la nationalité seront régis par le titre VII du Code de la nationalité sous réserve des dispositions ci-après.",
+      "valid_from": "1975-07-04"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les Français de statut civil de droit commun domiciliés dans le territoire à la date de l'indépendance conserveront la nationalité française quelle que soit leur situation au regard de la loi comorienne."
+      "content": "Les Français de statut civil de droit commun domiciliés dans le territoire à la date de l'indépendance conserveront la nationalité française quelle que soit leur situation au regard de la loi comorienne.",
+      "valid_from": "1975-07-04"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les dispositions de l'article 152 du Code de la nationalité française ne seront pas applicables aux Français de statut civil de droit local originaires du territoire des Comores.Dans les deux ans de l'indépendance, ces personnes pourront, lorsqu'elles auront leur domicile en France, se faire reconnaître la nationalité française par déclaration souscrite dans les formes des articles 101 et suivants du Code de la nationalité.Ce droit est également ouvert, dans les mêmes conditions de délai et de forme, aux personnes de statut civil de droit local originaires du territoire des Comores domiciliées à l'étranger à la date de l'indépendance et immatriculées dans un consulat français.Toutefois, les déclarations prévues par l'alinéa précédent ne pourront être souscrites qu'après autorisation du ministre chargé des naturalisations. L'autorisation ne sera pas exigée des personnes qui, antérieurement à l'accession à l'indépendance du territoire des Comores, ont, soit exercé des fonctions ou mandats publics, soit effectivement accompli des services militaires dans une unité de l'armée française ou, en temps de guerre, contracté un engagement dans les armées françaises ou alliées."
+      "content": "Les dispositions de l'article 152 du Code de la nationalité française ne seront pas applicables aux Français de statut civil de droit local originaires du territoire des Comores.Dans les deux ans de l'indépendance, ces personnes pourront, lorsqu'elles auront leur domicile en France, se faire reconnaître la nationalité française par déclaration souscrite dans les formes des articles 101 et suivants du Code de la nationalité.Ce droit est également ouvert, dans les mêmes conditions de délai et de forme, aux personnes de statut civil de droit local originaires du territoire des Comores domiciliées à l'étranger à la date de l'indépendance et immatriculées dans un consulat français.Toutefois, les déclarations prévues par l'alinéa précédent ne pourront être souscrites qu'après autorisation du ministre chargé des naturalisations. L'autorisation ne sera pas exigée des personnes qui, antérieurement à l'accession à l'indépendance du territoire des Comores, ont, soit exercé des fonctions ou mandats publics, soit effectivement accompli des services militaires dans une unité de l'armée française ou, en temps de guerre, contracté un engagement dans les armées françaises ou alliées.",
+      "valid_from": "1975-07-04"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Les déclarations souscrites en application de l'article 10 produiront effet à l'égard des enfants mineurs de dix-huit ans du déclarant dans les conditions prévues à l'article 84 du Code de la nationalité."
+      "content": "Les déclarations souscrites en application de l'article 10 produiront effet à l'égard des enfants mineurs de dix-huit ans du déclarant dans les conditions prévues à l'article 84 du Code de la nationalité.",
+      "valid_from": "1975-07-04"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les dépenses des consultations des populations des Comores prévues à l'article 2 seront imputées au budget de l'Etat.Des décrets en Conseil d'Etat détermineront, en tant que de besoin, les modalités d'application de la présente loi."
+      "content": "Les dépenses des consultations des populations des Comores prévues à l'article 2 seront imputées au budget de l'Etat.Des décrets en Conseil d'Etat détermineront, en tant que de besoin, les modalités d'application de la présente loi.",
+      "valid_from": "1975-07-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

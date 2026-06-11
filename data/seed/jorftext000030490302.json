@@ -12,25 +12,35 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La première nomination d'une personnalité qualifiée, en application du 4° de l'article 18-1 de la loi n° 47-585 du 2 avril 1947 relative au statut des entreprises de groupage et de distribution des journaux et publications périodiques, intervient dans un délai de trois mois à compter de l'entrée en vigueur de la présente loi, pour la durée du mandat restant à courir des membres de l'autorité.Lors du premier renouvellement des membres de l'Autorité de régulation de la distribution de la presse, deux membres dont le mandat n'est renouvelé que pour deux ans sont désignés par tirage au sort."
+      "content": "La première nomination d'une personnalité qualifiée, en application du 4° de l'article 18-1 de la loi n° 47-585 du 2 avril 1947 relative au statut des entreprises de groupage et de distribution des journaux et publications périodiques, intervient dans un délai de trois mois à compter de l'entrée en vigueur de la présente loi, pour la durée du mandat restant à courir des membres de l'autorité.Lors du premier renouvellement des membres de l'Autorité de régulation de la distribution de la presse, deux membres dont le mandat n'est renouvelé que pour deux ans sont désignés par tirage au sort.",
+      "valid_from": "2015-04-19"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "II. - Le I entre en vigueur le 1er janvier 2016."
+      "content": "II. - Le I entre en vigueur le 1er janvier 2016.",
+      "valid_from": "2015-04-19"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "I. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nII. - Le 5° du I est applicable au mandat de président-directeur général en cours à la date de publication de la présente loi.III. - Les membres du conseil supérieur mentionnés aux deuxième, troisième et septième alinéas de l'article 4 de la loi n° 57-32 du 10 janvier 1957 portant statut de l'Agence France-Presse, dans sa rédaction résultant de la présente loi, sont nommés, dans un délai de trois mois à compter de la promulgation de la présente loi, pour la durée restant à courir des mandats en cours des autres membres du conseil supérieur, qui ne sont pas modifiés.IV. - Les membres du conseil d'administration mentionnés aux 1°, 4° et 5° de l'article 7 de la loi n° 57-32 du 10 janvier 1957 précitée, dans sa rédaction résultant de la présente loi, sont désignés dans un délai de trois mois à compter de la promulgation de la présente loi, pour la durée restant à courir des mandats en cours des autres membres du conseil d'administration, qui ne sont pas modifiés.\n\n- Loi n° 57-32 du 10 janvier 1957\n\n- Loi n° 57-32 du 10 janvier 1957\n\n- Loi n° 57-32 du 10 janvier 1957\n\n- Loi n° 57-32 du 10 janvier 1957\n\n- Loi n° 57-32 du 10 janvier 1957\n\n- Loi n° 57-32 du 10 janvier 1957"
+      "content": "I. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nII. - Le 5° du I est applicable au mandat de président-directeur général en cours à la date de publication de la présente loi.III. - Les membres du conseil supérieur mentionnés aux deuxième, troisième et septième alinéas de l'article 4 de la loi n° 57-32 du 10 janvier 1957 portant statut de l'Agence France-Presse, dans sa rédaction résultant de la présente loi, sont nommés, dans un délai de trois mois à compter de la promulgation de la présente loi, pour la durée restant à courir des mandats en cours des autres membres du conseil supérieur, qui ne sont pas modifiés.IV. - Les membres du conseil d'administration mentionnés aux 1°, 4° et 5° de l'article 7 de la loi n° 57-32 du 10 janvier 1957 précitée, dans sa rédaction résultant de la présente loi, sont désignés dans un délai de trois mois à compter de la promulgation de la présente loi, pour la durée restant à courir des mandats en cours des autres membres du conseil d'administration, qui ne sont pas modifiés.\n\n- Loi n° 57-32 du 10 janvier 1957\n\n- Loi n° 57-32 du 10 janvier 1957\n\n- Loi n° 57-32 du 10 janvier 1957\n\n- Loi n° 57-32 du 10 janvier 1957\n\n- Loi n° 57-32 du 10 janvier 1957\n\n- Loi n° 57-32 du 10 janvier 1957",
+      "valid_from": "2015-04-19"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "II.-Le I s'applique aux versements effectués à compter de l'entrée en vigueur de la présente loi."
+      "content": "II.-Le I s'applique aux versements effectués à compter de l'entrée en vigueur de la présente loi.",
+      "valid_from": "2015-04-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

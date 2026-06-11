@@ -12,25 +12,35 @@
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Le régime fiscal des titres participatifs est celui des obligations à taux fixe."
+      "content": "Le régime fiscal des titres participatifs est celui des obligations à taux fixe.",
+      "valid_from": "1983-01-04"
     },
     {
       "provision_ref": "art29-1",
       "section": "29-1",
       "title": "Article 29-1",
-      "content": "Les dispositions des cinquième et sixième alinéas de l'article 29 relatives à la réalisation du gage s'appliquent aux nantissements d'instruments financiers inscrits en compte, français ou étrangers, constitués antérieurement à l'entrée en vigueur de la présente loi."
+      "content": "Les dispositions des cinquième et sixième alinéas de l'article 29 relatives à la réalisation du gage s'appliquent aux nantissements d'instruments financiers inscrits en compte, français ou étrangers, constitués antérieurement à l'entrée en vigueur de la présente loi.",
+      "valid_from": "2001-01-01"
     },
     {
       "provision_ref": "art46",
       "section": "46",
       "title": "Article 46",
-      "content": "Il sera procédé à la codification des textes législatifs relatifs aux valeurs mobilières par des décrets en Conseil d'Etat pris après avis de la commission supérieure chargée d'étudier la codification et la simplification des textes législatifs et réglementaires.Ces décrets apporteront aux textes en vigueur les adaptations de forme rendues nécessaires par le travail de codification à l'exclusion de toute modification de fond."
+      "content": "Il sera procédé à la codification des textes législatifs relatifs aux valeurs mobilières par des décrets en Conseil d'Etat pris après avis de la commission supérieure chargée d'étudier la codification et la simplification des textes législatifs et réglementaires.Ces décrets apporteront aux textes en vigueur les adaptations de forme rendues nécessaires par le travail de codification à l'exclusion de toute modification de fond.",
+      "valid_from": "1983-01-04"
     },
     {
       "provision_ref": "art48",
       "section": "48",
       "title": "Article 48",
-      "content": "Des décrets en Conseil d'Etat fixeront en tant que de besoin les modalités d'application de la présente loi."
+      "content": "Des décrets en Conseil d'Etat fixeront en tant que de besoin les modalités d'application de la présente loi.",
+      "valid_from": "1983-01-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

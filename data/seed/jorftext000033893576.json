@@ -12,19 +12,28 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "A la date d'entrée en vigueur de la présente ordonnance, les agents publics employés par les administrations mentionnées à l'article 2 de la loi du 13 juillet 1983 susvisée conservent les heures acquises au 31 décembre 2016 au titre du droit individuel à la formation et peuvent les utiliser pour bénéficier de formations, dans les conditions prévues à l'article 3.Pour le calcul des droits ouverts au titre du compte personnel de formation pour l'année 2017, sont prises en compte les heures travaillées à compter du 1er janvier de cette même année.Le compte d'engagement citoyen reprend les droits ouverts au 1er janvier 2017 en application du 1° de l'article L. 5151-7 du code du travail."
+      "content": "A la date d'entrée en vigueur de la présente ordonnance, les agents publics employés par les administrations mentionnées à l'article 2 de la loi du 13 juillet 1983 susvisée conservent les heures acquises au 31 décembre 2016 au titre du droit individuel à la formation et peuvent les utiliser pour bénéficier de formations, dans les conditions prévues à l'article 3.Pour le calcul des droits ouverts au titre du compte personnel de formation pour l'année 2017, sont prises en compte les heures travaillées à compter du 1er janvier de cette même année.Le compte d'engagement citoyen reprend les droits ouverts au 1er janvier 2017 en application du 1° de l'article L. 5151-7 du code du travail.",
+      "valid_from": "2017-01-21"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les dispositions relatives au système en ligne gratuit mentionné à l'article 2 entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2020."
+      "content": "Les dispositions relatives au système en ligne gratuit mentionné à l'article 2 entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2020.",
+      "valid_from": "2017-01-21"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Le Premier ministre et la ministre de la fonction publique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre de la fonction publique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-01-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

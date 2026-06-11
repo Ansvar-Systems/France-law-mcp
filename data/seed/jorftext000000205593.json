@@ -12,7 +12,14 @@
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "La présente loi est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et à Mayotte."
+      "content": "La présente loi est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et à Mayotte.",
+      "valid_from": "2001-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

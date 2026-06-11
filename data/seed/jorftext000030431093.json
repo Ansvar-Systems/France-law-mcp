@@ -12,13 +12,21 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Un accord de branche étendu peut prévoir, pour les salariés portés mentionnées à l'article L. 1254-2 du code du travail issu de la présente ordonnance, l'adaptation du montant et de la répartition de la contribution versée par les employeurs de onze salariés et plus au titre de leur participation au financement de la formation professionnelle continue. Ce montant ne peut être inférieur à 1,6 % du montant des rémunérations versées pendant l'année en cours et la répartition de la contribution ne peut déroger aux parts minimales consacrées, en vertu de dispositions légales ou réglementaires, au financement du fonds paritaire de sécurisation des parcours professionnels, du congé individuel de formation, du compte personnel de formation, du plan de formation et de la professionnalisation."
+      "content": "Un accord de branche étendu peut prévoir, pour les salariés portés mentionnées à l'article L. 1254-2 du code du travail issu de la présente ordonnance, l'adaptation du montant et de la répartition de la contribution versée par les employeurs de onze salariés et plus au titre de leur participation au financement de la formation professionnelle continue. Ce montant ne peut être inférieur à 1,6 % du montant des rémunérations versées pendant l'année en cours et la répartition de la contribution ne peut déroger aux parts minimales consacrées, en vertu de dispositions légales ou réglementaires, au financement du fonds paritaire de sécurisation des parcours professionnels, du congé individuel de formation, du compte personnel de formation, du plan de formation et de la professionnalisation.",
+      "valid_from": "2016-01-01"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le Premier ministre et le ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2015-04-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

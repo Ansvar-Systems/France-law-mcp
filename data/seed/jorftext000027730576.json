@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La République française institue une journée nationale de la Résistance."
+      "content": "La République française institue une journée nationale de la Résistance.",
+      "valid_from": "2013-07-21"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Cette journée, ni fériée, ni chômée, est fixée au 27 mai, jour anniversaire de la création du Conseil national de la Résistance."
+      "content": "Cette journée, ni fériée, ni chômée, est fixée au 27 mai, jour anniversaire de la création du Conseil national de la Résistance.",
+      "valid_from": "2013-07-21"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Dans le cadre de cette journée anniversaire, les établissements d'enseignement du second degré sont invités à organiser des actions éducatives visant à assurer la transmission des valeurs de la Résistance et de celles portées par le programme du Conseil national de la Résistance."
+      "content": "Dans le cadre de cette journée anniversaire, les établissements d'enseignement du second degré sont invités à organiser des actions éducatives visant à assurer la transmission des valeurs de la Résistance et de celles portées par le programme du Conseil national de la Résistance.",
+      "valid_from": "2013-07-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

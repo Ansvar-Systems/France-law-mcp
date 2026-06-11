@@ -12,25 +12,35 @@
       "provision_ref": "art33",
       "section": "33",
       "title": "Article 33",
-      "content": "I. ― Les modifications apportées par la présente ordonnance aux articles L. 561-2 et L. 561-36 du code monétaire et financier ainsi que celles apportées à l'article L. 227-2 du code de commerce sont applicables dans les îles Wallis et Futuna.II. ― L'article L. 227-2-1 du code de commerce, créé par l'article 14 de la présente ordonnance, est applicable dans les îles Wallis et Futuna."
+      "content": "I. ― Les modifications apportées par la présente ordonnance aux articles L. 561-2 et L. 561-36 du code monétaire et financier ainsi que celles apportées à l'article L. 227-2 du code de commerce sont applicables dans les îles Wallis et Futuna.II. ― L'article L. 227-2-1 du code de commerce, créé par l'article 14 de la présente ordonnance, est applicable dans les îles Wallis et Futuna.",
+      "valid_from": "2014-10-01"
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "Sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna :1° Les modifications apportées par la présente ordonnance aux articles L. 341-1, L. 341-3, L. 411-2, L. 500-1, L. 511-6, L. 531-2, L. 546-1, L. 612-2, L. 612-20, L. 621-5-3, L. 621-7, L. 621-9, L. 621-9-2 et L. 621-17 du code monétaire et financier ;2° Les articles L. 522-11-1 et L. 533-22-3 du même code, créés par la présente ordonnance ;3° Les dispositions transitoires et finales de la présente ordonnance."
+      "content": "Sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna :1° Les modifications apportées par la présente ordonnance aux articles L. 341-1, L. 341-3, L. 411-2, L. 500-1, L. 511-6, L. 531-2, L. 546-1, L. 612-2, L. 612-20, L. 621-5-3, L. 621-7, L. 621-9, L. 621-9-2 et L. 621-17 du code monétaire et financier ;2° Les articles L. 522-11-1 et L. 533-22-3 du même code, créés par la présente ordonnance ;3° Les dispositions transitoires et finales de la présente ordonnance.",
+      "valid_from": "2014-10-01"
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er octobre 2014.Toutefois, les obligations définies à l'article L. 547-5 du code monétaire et financier concernant les conseillers en investissements participatifs et celles définies à l'article L. 548-5 concernant les intermédiaires en financement participatif ne s'appliquent qu'à compter du 1er juillet 2016.Jusqu'à cette date, les conseillers en investissements participatifs mentionnés à l'article L. 547-1 et les intermédiaires en financement participatif mentionnés à l'article L. 548-2 font savoir à leurs clients si les conséquences pécuniaires de leur responsabilité civile professionnelle, en cas de manquement à leurs obligations professionnelles, telles que définies respectivement aux articles L. 547-9 et L. 548-6, sont couvertes ou non par un contrat d'assurance."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er octobre 2014.Toutefois, les obligations définies à l'article L. 547-5 du code monétaire et financier concernant les conseillers en investissements participatifs et celles définies à l'article L. 548-5 concernant les intermédiaires en financement participatif ne s'appliquent qu'à compter du 1er juillet 2016.Jusqu'à cette date, les conseillers en investissements participatifs mentionnés à l'article L. 547-1 et les intermédiaires en financement participatif mentionnés à l'article L. 548-2 font savoir à leurs clients si les conséquences pécuniaires de leur responsabilité civile professionnelle, en cas de manquement à leurs obligations professionnelles, telles que définies respectivement aux articles L. 547-9 et L. 548-6, sont couvertes ou non par un contrat d'assurance.",
+      "valid_from": "2014-10-01"
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "Le Premier ministre, le ministre des finances et des comptes publics, le ministre de l'économie, du redressement productif et du numérique et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des finances et des comptes publics, le ministre de l'économie, du redressement productif et du numérique et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2014-10-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

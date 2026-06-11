@@ -12,7 +12,14 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions de la présente loi sont applicables aux donations faites antérieurement à son entrée en vigueur sous réserve des décisions judiciaires passées en force de chose jugée intervenues à la suite d'actions en nullité, révocation ou réduction de ces donations."
+      "content": "Les dispositions de la présente loi sont applicables aux donations faites antérieurement à son entrée en vigueur sous réserve des décisions judiciaires passées en force de chose jugée intervenues à la suite d'actions en nullité, révocation ou réduction de ces donations.",
+      "valid_from": "1967-12-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

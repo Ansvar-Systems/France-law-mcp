@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le troisième alinéa de l’article 340 du code civil est ainsi modifié :\n\n2° Dans le cas de séduction accomplie à l’aide de manœuvres dolosives, abus d’autorité, promesse de mariage ou fiançailles.\n\nAprès le neuvième alinéa, il est inséré un dixième alinéa ainsi conçu :\n\n3° Si le père prétendu établit par l’examen des sangs qu’il ne peut être le père de l’enfant."
+      "content": "Le troisième alinéa de l’article 340 du code civil est ainsi modifié :\n\n2° Dans le cas de séduction accomplie à l’aide de manœuvres dolosives, abus d’autorité, promesse de mariage ou fiançailles.\n\nAprès le neuvième alinéa, il est inséré un dixième alinéa ainsi conçu :\n\n3° Si le père prétendu établit par l’examen des sangs qu’il ne peut être le père de l’enfant.",
+      "valid_from": "1955-07-17"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le troisième alinéa de l’article 341 du code civil est ainsi modifié :\n\nIl sera reçu à faire cette preuve en établissant sa possession constante d’état d’enfant naturel à l’égard de la mère prétendue. A défaut, la preuve de la filiation pourra être établie par témoins, s’il existe des présomptions ou indices graves, ou un commencement de preuve par écrit au sens de l’article 324 du présent code."
+      "content": "Le troisième alinéa de l’article 341 du code civil est ainsi modifié :\n\nIl sera reçu à faire cette preuve en établissant sa possession constante d’état d’enfant naturel à l’égard de la mère prétendue. A défaut, la preuve de la filiation pourra être établie par témoins, s’il existe des présomptions ou indices graves, ou un commencement de preuve par écrit au sens de l’article 324 du présent code.",
+      "valid_from": "1955-07-17"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "L’article 342 du code civil est complété par les dispositions suivantes :\n\nLes enfants nés d’un commerce incestueux ou adultérin peuvent néanmoins réclamer des aliments sans que l’action ait pour effet de proclamer l’existence d’un lien de filiation dont l’établissement demeure prohibé.\n\nL’action pourra être intentée pendant toute la minorité de l’enfant et, si elle n’a pas été intentée pendant la minorité de l’enfant, celui-ci pourra l’intenter pendant toute l’année qui suivra sa majorité.\n\nLa cause est instruite en la forme ordinaire et débattue en chambre du conseil, le ministère public entendu. Le jugement est rendu en audience publique."
+      "content": "L’article 342 du code civil est complété par les dispositions suivantes :\n\nLes enfants nés d’un commerce incestueux ou adultérin peuvent néanmoins réclamer des aliments sans que l’action ait pour effet de proclamer l’existence d’un lien de filiation dont l’établissement demeure prohibé.\n\nL’action pourra être intentée pendant toute la minorité de l’enfant et, si elle n’a pas été intentée pendant la minorité de l’enfant, celui-ci pourra l’intenter pendant toute l’année qui suivra sa majorité.\n\nLa cause est instruite en la forme ordinaire et débattue en chambre du conseil, le ministère public entendu. Le jugement est rendu en audience publique.",
+      "valid_from": "1955-07-17"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le chapitre II du titre VII du livre Ier du code civil est complété par un article 342ainsi conçu :\n\nArt. 342 bis. — Lorsqu’une filiation est établie par un acte ou par un jugement, nulle filiation contraire ne pourra être postérieurement reconnue sans qu’un jugement établisse, préalablement, l’inexactitude de la première."
+      "content": "Le chapitre II du titre VII du livre Ier du code civil est complété par un article 342ainsi conçu :\n\nArt. 342 bis. — Lorsqu’une filiation est établie par un acte ou par un jugement, nulle filiation contraire ne pourra être postérieurement reconnue sans qu’un jugement établisse, préalablement, l’inexactitude de la première.",
+      "valid_from": "1955-07-17"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "L’article 16 de la loi du 1er juin 1924 est abrogé.\n\nLa présente loi sera exécutée comme loi de l’Etat."
+      "content": "L’article 16 de la loi du 1er juin 1924 est abrogé.\n\nLa présente loi sera exécutée comme loi de l’Etat.",
+      "valid_from": "1955-07-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

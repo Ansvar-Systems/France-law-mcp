@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont déclarées applicables dans les départements du Haut-Rhin du Bas-Rhin et de la Moselle, sous réserve des exceptions prévues à l'article 5 ci-après, les dispositions législatives et réglementaires relatives au régime général de la correspondance postale, des colis postaux et des services financiers exploités par l'administration des postes, télégraphes et téléphones."
+      "content": "Sont déclarées applicables dans les départements du Haut-Rhin du Bas-Rhin et de la Moselle, sous réserve des exceptions prévues à l'article 5 ci-après, les dispositions législatives et réglementaires relatives au régime général de la correspondance postale, des colis postaux et des services financiers exploités par l'administration des postes, télégraphes et téléphones.",
+      "valid_from": "1953-12-04"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Sont également déclarées applicables dans ces trois départements les dispositions du décret-loi du 27 décembre 1851 sur les lignes télégraphiques et, d'une manière générale, tous les textes de la législation et de la réglementation générale concernant la correspondance télégraphique et téléphonique."
+      "content": "Sont également déclarées applicables dans ces trois départements les dispositions du décret-loi du 27 décembre 1851 sur les lignes télégraphiques et, d'une manière générale, tous les textes de la législation et de la réglementation générale concernant la correspondance télégraphique et téléphonique.",
+      "valid_from": "1953-12-04"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les exploitants des lignes télégraphiques et téléphoniques étrangères au réseau général de l'Etat, établie dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, sous le régime de la loi locale du 6 avril 1892, sont tenus d'en faire la déclaration au directeur des postes, télégraphes et téléphones du département dans lequel fonctionnent ces lignes, avant le 1er janvier 1954. Le directeur des postes, télégraphes et téléphones délivrera un accusé de réception de ladite déclaration. A défaut de déclaration dans le délai fixé ci-dessus, les lignes non déclarées seront considérées comme illégalement maintenues et les exploitants poursuivis et punis conformément aux dispositions du décret-loi du 21 décembre 1851 sur les lignes télégraphiques. Toutefois, le présent article n'est pas applicable aux lignes entièrement comprises dans les limites d'une propriété privée."
+      "content": "Les exploitants des lignes télégraphiques et téléphoniques étrangères au réseau général de l'Etat, établie dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, sous le régime de la loi locale du 6 avril 1892, sont tenus d'en faire la déclaration au directeur des postes, télégraphes et téléphones du département dans lequel fonctionnent ces lignes, avant le 1er janvier 1954. Le directeur des postes, télégraphes et téléphones délivrera un accusé de réception de ladite déclaration. A défaut de déclaration dans le délai fixé ci-dessus, les lignes non déclarées seront considérées comme illégalement maintenues et les exploitants poursuivis et punis conformément aux dispositions du décret-loi du 21 décembre 1851 sur les lignes télégraphiques. Toutefois, le présent article n'est pas applicable aux lignes entièrement comprises dans les limites d'une propriété privée.",
+      "valid_from": "1953-12-04"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "L'accusé de réception de la déclaration exigée à l'article 3 ci-dessus tiendra lieu, pour les lignes auxquelles s'applique ledit article, de l'autorisation prévue à l'article 1er du décret-loi du 27 décembre 1851. Ces lignes seront, de ce fait, soumises, à partir du 1er avril 1951, à l'ensemble des dispositions applicables aux lignes télégraphiques ou téléphoniques autorisées et notamment à l'obligation du payement des redevances d'usage instituées en vertu de la loi du 5 avril 1878.Les propriétaires desdites lignes n'auront droit à aucune indemnité du fait de l'entrée en vigueur des présentes dispositions."
+      "content": "L'accusé de réception de la déclaration exigée à l'article 3 ci-dessus tiendra lieu, pour les lignes auxquelles s'applique ledit article, de l'autorisation prévue à l'article 1er du décret-loi du 27 décembre 1851. Ces lignes seront, de ce fait, soumises, à partir du 1er avril 1951, à l'ensemble des dispositions applicables aux lignes télégraphiques ou téléphoniques autorisées et notamment à l'obligation du payement des redevances d'usage instituées en vertu de la loi du 5 avril 1878.Les propriétaires desdites lignes n'auront droit à aucune indemnité du fait de l'entrée en vigueur des présentes dispositions.",
+      "valid_from": "1953-12-04"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Sont maintenus provisoirement dans les départements du Haut-Rhin, du Bas-Rhin, et de la Moselle :a) La faculté de demander, pour les lettres ordinaires adressées dans ces départements, un certificat de remise ;b) Le régime de la correspondance officielle pour les services publics."
+      "content": "Sont maintenus provisoirement dans les départements du Haut-Rhin, du Bas-Rhin, et de la Moselle :a) La faculté de demander, pour les lettres ordinaires adressées dans ces départements, un certificat de remise ;b) Le régime de la correspondance officielle pour les services publics.",
+      "valid_from": "1953-12-04"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Sont abrogées toutes les dispositions contraires à la présente loi, et notamment les dispositions de la loi locale du 6 avril 1892 concernant la régime télégraphique et l'arrêté du commissaire général de la République en date du 29 juin 1919."
+      "content": "Sont abrogées toutes les dispositions contraires à la présente loi, et notamment les dispositions de la loi locale du 6 avril 1892 concernant la régime télégraphique et l'arrêté du commissaire général de la République en date du 29 juin 1919.",
+      "valid_from": "1953-12-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

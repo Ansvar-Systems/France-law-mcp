@@ -1,0 +1,32 @@
+{
+  "id": "legitext000006070724",
+  "type": "statute",
+  "title": "Loi du 27 juin 1919",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070724/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Toute personne convaincue d'avoir vendu ou cédé, d'avoir tenté de vendre ou céder, à un prix supérieur à celui fixé et affiché dans les théâtres et concerts subventionnés ou avantagés d'une façon quelconque par l'Etat, les départements ou les communes, ou moyennant une prime quelconque, des billets pris au bureau de location ou de vente desdits théâtres ou concerts, sera punie d'une amende de seize (anciens) francs à cinq cents (anciens) francs.En cas de récidive dans les trois années qui ont suivi la dernière condamnation, l'amende pourra être portée à 3 750 F.",
+      "valid_from": "1919-06-27"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Toutefois, des organismes habilités par le ministre de l'éducation nationale peuvent vendre dans leurs bureaux à un prix majoré de 20 % au maximum les billets que les établissements visés à l'article précédent peuvent leur céder.Toute vente à un prix majoré de plus de 20 % entraînera pour son auteur les sanctions prévues à l'article précédent.Un arrêté du ministre de l'éducation nationale fixera, pour les organismes visés ci-dessus, la réglementation spécialement applicable à la vente des billets de théâtres nationaux.",
+      "valid_from": "1953-09-05"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

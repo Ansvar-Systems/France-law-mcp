@@ -12,25 +12,35 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le capital social des sociétés civiles de placement immobilier existantes doit être porté à 760 000 euros dans un délai de dix-huit mois à compter de la publication de la loi n° 93-6 du 4 janvier 1993 relative aux sociétés civiles de placement immobilier, aux sociétés de crédit foncier et aux fonds communs de créances."
+      "content": "Le capital social des sociétés civiles de placement immobilier existantes doit être porté à 760 000 euros dans un délai de dix-huit mois à compter de la publication de la loi n° 93-6 du 4 janvier 1993 relative aux sociétés civiles de placement immobilier, aux sociétés de crédit foncier et aux fonds communs de créances.",
+      "valid_from": "2002-01-01"
     },
     {
       "provision_ref": "art9-4",
       "section": "9-4",
       "title": "Article 9-4",
-      "content": "Les sociétés civiles de placement immobilier et les sociétés de gestion existantes doivent se mettre en conformité avec les dispositions des articles 9,9-1,9-2 et 9-3 de la présente loi dans un délai d'un an à compter de la publication de la loi n° 93-6 du 4 janvier 1993 précitée"
+      "content": "Les sociétés civiles de placement immobilier et les sociétés de gestion existantes doivent se mettre en conformité avec les dispositions des articles 9,9-1,9-2 et 9-3 de la présente loi dans un délai d'un an à compter de la publication de la loi n° 93-6 du 4 janvier 1993 précitée",
+      "valid_from": "1993-01-05"
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "Les sociétés visées à l'alinéa 2 de l'article 1er n'entrent pas dans le champ d'application de l'article 206-1 du Code général des impôts, mais chacun de leurs membres est personnellement passible, pour la part des bénéfices sociaux correspondant à ses droits dans la société, soit de l'impôt sur le revenu des personnes physiques, soit de l'impôt sur les sociétés s'il s'agit de personnes morales relevant de cet impôt.En ce qui concerne les associés personnes physiques soumis à l'impôt sur le revenu dans la catégorie des revenus fonciers, les bénéfices sociaux visés à l'alinéa précédent sont déterminés dans les conditions prévues aux articles 28 à 31 inclus du Code général des impôts."
+      "content": "Les sociétés visées à l'alinéa 2 de l'article 1er n'entrent pas dans le champ d'application de l'article 206-1 du Code général des impôts, mais chacun de leurs membres est personnellement passible, pour la part des bénéfices sociaux correspondant à ses droits dans la société, soit de l'impôt sur le revenu des personnes physiques, soit de l'impôt sur les sociétés s'il s'agit de personnes morales relevant de cet impôt.En ce qui concerne les associés personnes physiques soumis à l'impôt sur le revenu dans la catégorie des revenus fonciers, les bénéfices sociaux visés à l'alinéa précédent sont déterminés dans les conditions prévues aux articles 28 à 31 inclus du Code général des impôts.",
+      "valid_from": "1971-01-01"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "La présente loi est applicable aux sociétés existantes à la date de sa publication. En ce qui les concerne, elle entrera en vigueur le premier jour du sixième mois qui suivra la publication du décret prévu à l'article 37. A compter de cette date, toutes dispositions contraires des statuts seront réputées non écrites.Toutefois, les dispositions de l'article 34 entreront en vigueur      dès la publication de la présente loi."
+      "content": "La présente loi est applicable aux sociétés existantes à la date de sa publication. En ce qui les concerne, elle entrera en vigueur le premier jour du sixième mois qui suivra la publication du décret prévu à l'article 37. A compter de cette date, toutes dispositions contraires des statuts seront réputées non écrites.Toutefois, les dispositions de l'article 34 entreront en vigueur      dès la publication de la présente loi.",
+      "valid_from": "1971-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

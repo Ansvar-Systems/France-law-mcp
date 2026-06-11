@@ -12,7 +12,14 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Avant le 31 décembre 2000, le Gouvernement présentera au Parlement un rapport d'exécution retraçant l'évolution de la diversité de l'habitat dans les agglomérations de plus de 200 000 habitants et faisant ressortir les difficultés rencontrées pour la mise en oeuvre des dispositions des articles L. 302-5 à L. 302-9 du code de la construction et de l'habitation ainsi que les adaptations souhaitables."
+      "content": "Avant le 31 décembre 2000, le Gouvernement présentera au Parlement un rapport d'exécution retraçant l'évolution de la diversité de l'habitat dans les agglomérations de plus de 200 000 habitants et faisant ressortir les difficultés rencontrées pour la mise en oeuvre des dispositions des articles L. 302-5 à L. 302-9 du code de la construction et de l'habitation ainsi que les adaptations souhaitables.",
+      "valid_from": "1995-01-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

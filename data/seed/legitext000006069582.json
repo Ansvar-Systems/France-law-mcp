@@ -1,0 +1,25 @@
+{
+  "id": "legitext000006069582",
+  "type": "statute",
+  "title": "Loi du 2 janvier 1817",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069582/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les  congrégations religieuses autorisées ou légalement reconnues et, dans  les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, les  établissements publics du culte peuvent, avec l'autorisation du  représentant de l'Etat dans le département délivrée dans les conditions  fixées par décret en Conseil d'Etat :1°  Acquérir, à titre onéreux, des biens immeubles, des rentes sur l'Etat ou  des valeurs garanties par lui destinés à l'accomplissement de leur  objet ;2° Aliéner les biens immeubles, les rentes ou valeurs garanties par l'Etat dont ils sont propriétaires.",
+      "valid_from": "2011-05-19"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

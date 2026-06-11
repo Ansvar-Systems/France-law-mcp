@@ -12,19 +12,28 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Le I de l'article 7 et l'article 8 entrent en vigueur le 1er mars 2008.Le II de l'article 7 et les articles 9 à 11 sont immédiatement applicables aux personnes exécutant une peine privative de liberté."
+      "content": "Le I de l'article 7 et l'article 8 entrent en vigueur le 1er mars 2008.Le II de l'article 7 et les articles 9 à 11 sont immédiatement applicables aux personnes exécutant une peine privative de liberté.",
+      "valid_from": "2007-08-11"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Une évaluation des dispositifs prévus par les articles 7 à 11 sera réalisée au plus tard le 31 mars 2011."
+      "content": "Une évaluation des dispositifs prévus par les articles 7 à 11 sera réalisée au plus tard le 31 mars 2011.",
+      "valid_from": "2007-08-11"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "La présente loi est applicable dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises."
+      "content": "La présente loi est applicable dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.",
+      "valid_from": "2007-08-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

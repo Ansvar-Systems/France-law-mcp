@@ -12,163 +12,196 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "V. - En application du programme national pour l'alimentation prévu à l'article L. 230-1 du code rural et de la pêche maritime, l'Etat se donne pour objectif de recourir, pour l'approvisionnement de ses services de restauration collective, à des produits faisant l'objet de circuits courts de distribution, impliquant un exploitant agricole ou une organisation regroupant des exploitants agricoles."
+      "content": "V. - En application du programme national pour l'alimentation prévu à l'article L. 230-1 du code rural et de la pêche maritime, l'Etat se donne pour objectif de recourir, pour l'approvisionnement de ses services de restauration collective, à des produits faisant l'objet de circuits courts de distribution, impliquant un exploitant agricole ou une organisation regroupant des exploitants agricoles.",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les diplômes mentionnés aux articles L. 811-2 et L. 813-2 du code rural et de la pêche maritime figurant sur une liste fixée par arrêté du ministre chargé de l'agriculture ouvrent droit au certificat d'aptitude professionnelle pour le transport d'animaux vivants."
+      "content": "Les diplômes mentionnés aux articles L. 811-2 et L. 813-2 du code rural et de la pêche maritime figurant sur une liste fixée par arrêté du ministre chargé de l'agriculture ouvrent droit au certificat d'aptitude professionnelle pour le transport d'animaux vivants.",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "I. ― Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnances les dispositions législatives nécessaires afin de :1° Redéfinir, en clarifiant la situation juridique des intervenants, les conditions dans lesquelles sont réalisées les missions entrant, à la date d'entrée en vigueur de la présente loi, dans le champ du mandat sanitaire prévu à l'article L. 221-11 du code rural et de la pêche maritime ainsi que celles dans lesquelles est réalisée la certification vétérinaire prévue à l'article L. 221-13 du même code, en distinguant selon que ces missions sont effectuées au bénéfice de l'éleveur ou pour le compte de l'Etat ; compléter les missions ainsi confiées à des vétérinaires qui remplissent les conditions prévues à l'article L. 241-1 du même code ;2° Modifier les dispositions des articles L. 243-1 à L. 243-3 du même code relatives aux conditions dans lesquelles certains actes peuvent être réalisés par des personnes n'ayant pas la qualité de vétérinaire et, si nécessaire, la liste de ces actes ;3° Mettre en conformité avec le droit de l'Union européenne les dispositions du même code relatives à la protection des végétaux en ce qui concerne notamment les conditions de leur mise sur le marché et d'utilisation des produits phytopharmaceutiques ;4° Modifier l'article L. 234-2 du même code et adapter les références et renvois faits dans ledit code et le code de la santé publique à la législation de l'Union européenne dans le domaine du médicament vétérinaire à l'évolution de cette réglementation ;5° Définir et catégoriser les dangers sanitaires, déterminer les conditions dans lesquelles des organismes à vocation sanitaire peuvent s'organiser, au sein de structures pouvant s'inspirer du statut d'association syndicale de détenteurs de végétaux ou d'animaux, pour concourir aux actions de surveillance, de prévention et de lutte, étendre le champ d'application de l'article L. 201-1 du code rural et de la pêche maritime à la lutte contre les maladies animales et les organismes nuisibles aux végétaux, définir une organisation de l'épidémiosurveillance animale et végétale, déterminer les modalités de financement des actions menées contre ces dangers, procéder aux modifications du même code nécessaires à son adaptation à ce dispositif et prendre toutes les mesures de simplification qui pourraient en découler ;6° Définir les conditions dans lesquelles certaines tâches particulières liées aux contrôles sanitaires et phytosanitaires prévues aux titres Ier, II et V du livre II du même code peuvent être déléguées à des tiers ;7° Procéder aux modifications de numérotation et à la rectification des intitulés au sein du livre II du même code, rendues nécessaires en application des dispositions prises en vertu du présent article.II. ― Les ordonnances mentionnées au I sont prises dans un délai de douze mois suivant la promulgation de la présente loi. Pour chaque ordonnance, un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de cette ordonnance."
+      "content": "I. ― Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnances les dispositions législatives nécessaires afin de :1° Redéfinir, en clarifiant la situation juridique des intervenants, les conditions dans lesquelles sont réalisées les missions entrant, à la date d'entrée en vigueur de la présente loi, dans le champ du mandat sanitaire prévu à l'article L. 221-11 du code rural et de la pêche maritime ainsi que celles dans lesquelles est réalisée la certification vétérinaire prévue à l'article L. 221-13 du même code, en distinguant selon que ces missions sont effectuées au bénéfice de l'éleveur ou pour le compte de l'Etat ; compléter les missions ainsi confiées à des vétérinaires qui remplissent les conditions prévues à l'article L. 241-1 du même code ;2° Modifier les dispositions des articles L. 243-1 à L. 243-3 du même code relatives aux conditions dans lesquelles certains actes peuvent être réalisés par des personnes n'ayant pas la qualité de vétérinaire et, si nécessaire, la liste de ces actes ;3° Mettre en conformité avec le droit de l'Union européenne les dispositions du même code relatives à la protection des végétaux en ce qui concerne notamment les conditions de leur mise sur le marché et d'utilisation des produits phytopharmaceutiques ;4° Modifier l'article L. 234-2 du même code et adapter les références et renvois faits dans ledit code et le code de la santé publique à la législation de l'Union européenne dans le domaine du médicament vétérinaire à l'évolution de cette réglementation ;5° Définir et catégoriser les dangers sanitaires, déterminer les conditions dans lesquelles des organismes à vocation sanitaire peuvent s'organiser, au sein de structures pouvant s'inspirer du statut d'association syndicale de détenteurs de végétaux ou d'animaux, pour concourir aux actions de surveillance, de prévention et de lutte, étendre le champ d'application de l'article L. 201-1 du code rural et de la pêche maritime à la lutte contre les maladies animales et les organismes nuisibles aux végétaux, définir une organisation de l'épidémiosurveillance animale et végétale, déterminer les modalités de financement des actions menées contre ces dangers, procéder aux modifications du même code nécessaires à son adaptation à ce dispositif et prendre toutes les mesures de simplification qui pourraient en découler ;6° Définir les conditions dans lesquelles certaines tâches particulières liées aux contrôles sanitaires et phytosanitaires prévues aux titres Ier, II et V du livre II du même code peuvent être déléguées à des tiers ;7° Procéder aux modifications de numérotation et à la rectification des intitulés au sein du livre II du même code, rendues nécessaires en application des dispositions prises en vertu du présent article.II. ― Les ordonnances mentionnées au I sont prises dans un délai de douze mois suivant la promulgation de la présente loi. Pour chaque ordonnance, un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de cette ordonnance.",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "II. - La liste de produits pour lesquels la proposition écrite de contrat est obligatoire est arrêtée avant le 1er janvier 2013."
+      "content": "II. - La liste de produits pour lesquels la proposition écrite de contrat est obligatoire est arrêtée avant le 1er janvier 2013.",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "I. - A créé les dispositions suivantes :\n\nII. - A modifié les dispositions suivantes :\n\nIII. - Le I entre en vigueur six mois après la publication de la présente loi.\n\n- Code de commerce\n\n- Code de commerce"
+      "content": "I. - A créé les dispositions suivantes :\n\nII. - A modifié les dispositions suivantes :\n\nIII. - Le I entre en vigueur six mois après la publication de la présente loi.\n\n- Code de commerce\n\n- Code de commerce",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Avant le 1er mars de chaque année, le Gouvernement remet au Parlement un rapport sur la mise en œuvre des accords de modération des marges de distribution des fruits et légumes frais prévus à l'article L. 611-4-1 du code rural et de la pêche maritime."
+      "content": "Avant le 1er mars de chaque année, le Gouvernement remet au Parlement un rapport sur la mise en œuvre des accords de modération des marges de distribution des fruits et légumes frais prévus à l'article L. 611-4-1 du code rural et de la pêche maritime.",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "I., II. - A modifié les dispositions suivantes :\n\nIII. - Le premier bilan de l'organisation économique de la production et de l'efficacité des différents modes de commercialisation, mentionné au III de l'article L. 551-3 du code rural et de la pêche maritime, est effectué avant le 1er janvier 2012.\n\n- Code rural"
+      "content": "I., II. - A modifié les dispositions suivantes :\n\nIII. - Le premier bilan de l'organisation économique de la production et de l'efficacité des différents modes de commercialisation, mentionné au III de l'article L. 551-3 du code rural et de la pêche maritime, est effectué avant le 1er janvier 2012.\n\n- Code rural",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement présente les conditions et les modalités d'un mécanisme de réassurance publique qui pourrait être mis en place en réponse à des circonstances exceptionnelles touchant le secteur agricole."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement présente les conditions et les modalités d'un mécanisme de réassurance publique qui pourrait être mis en place en réponse à des circonstances exceptionnelles touchant le secteur agricole.",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "Le Gouvernement dépose sur le bureau des assemblées, dans un délai d'un an à compter de la promulgation de la présente loi, un rapport d'analyse sur les modes de financement alternatifs de la protection sociale agricole, notamment par voie fiscale."
+      "content": "Le Gouvernement dépose sur le bureau des assemblées, dans un délai d'un an à compter de la promulgation de la présente loi, un rapport d'analyse sur les modes de financement alternatifs de la protection sociale agricole, notamment par voie fiscale.",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art39",
       "section": "39",
       "title": "Article 39",
-      "content": "Lorsque le bénéfice agricole retenu pour l'assiette de l'impôt progressif payé en 2010 est déterminé selon les modalités prévues à l'article 75-0 B du code général des impôts, il peut, sur option du contribuable, être diminué du sixième du bénéfice de l'année 2007. Dans ce cas, le bénéfice agricole retenu pour l'assiette de l'impôt progressif payé en 2011 est majoré du sixième du bénéfice de l'année 2007."
+      "content": "Lorsque le bénéfice agricole retenu pour l'assiette de l'impôt progressif payé en 2010 est déterminé selon les modalités prévues à l'article 75-0 B du code général des impôts, il peut, sur option du contribuable, être diminué du sixième du bénéfice de l'année 2007. Dans ce cas, le bénéfice agricole retenu pour l'assiette de l'impôt progressif payé en 2011 est majoré du sixième du bénéfice de l'année 2007.",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art51",
       "section": "51",
       "title": "Article 51",
-      "content": "IV.-Le III entre en vigueur à une date et dans les conditions fixées par décret en Conseil d'Etat et au plus tard six mois après la publication de la présente loi."
+      "content": "IV.-Le III entre en vigueur à une date et dans les conditions fixées par décret en Conseil d'Etat et au plus tard six mois après la publication de la présente loi.",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art58",
       "section": "58",
       "title": "Article 58",
-      "content": "Dans les six mois suivant la publication de la présente loi, le Gouvernement présente au Parlement un rapport sur l'état des biens de section, identifiant les obstacles à leur gestion durable et proposant des solutions qui pourront faire l'objet d'un projet ou d'une proposition de loi."
+      "content": "Dans les six mois suivant la publication de la présente loi, le Gouvernement présente au Parlement un rapport sur l'état des biens de section, identifiant les obstacles à leur gestion durable et proposant des solutions qui pourront faire l'objet d'un projet ou d'une proposition de loi.",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art66",
       "section": "66",
       "title": "Article 66",
-      "content": "I.-L'ordonnance n° 2009-1369 du 6 novembre 2009 relative au regroupement du Centre national professionnel de la propriété forestière et des centres régionaux de la propriété forestière est ratifiée.\n\nII.-A modifié les dispositions suivantes :\n\n-Code forestier"
+      "content": "I.-L'ordonnance n° 2009-1369 du 6 novembre 2009 relative au regroupement du Centre national professionnel de la propriété forestière et des centres régionaux de la propriété forestière est ratifiée.\n\nII.-A modifié les dispositions suivantes :\n\n-Code forestier",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art67",
       "section": "67",
       "title": "Article 67",
-      "content": "I et III.-A modifié les dispositions suivantes :\n\n-Code général des impôts, CGI.\n\nII.-Le I est applicable aux rémunérations versées à compter du 1er janvier 2010."
+      "content": "I et III.-A modifié les dispositions suivantes :\n\n-Code général des impôts, CGI.\n\nII.-Le I est applicable aux rémunérations versées à compter du 1er janvier 2010.",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art68",
       "section": "68",
       "title": "Article 68",
-      "content": "III.-Le C du II s'applique aux dépenses payées à compter du 1er janvier 2011."
+      "content": "III.-Le C du II s'applique aux dépenses payées à compter du 1er janvier 2011.",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art69",
       "section": "69",
       "title": "Article 69",
-      "content": "I. ― Dans les conditions prévues par l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnance les dispositions nécessaires pour procéder à la refonte de la partie législative du code forestier :1° En remédiant aux éventuelles erreurs ou insuffisances de codification, en incluant les dispositions de nature législative qui n'auraient pas été codifiées, en adaptant le plan et la rédaction des dispositions codifiées, en abrogeant les dispositions obsolètes, inadaptées ou devenues sans objet, en apportant les modifications nécessaires pour assurer le respect de la hiérarchie des normes et la cohérence rédactionnelle des textes, harmoniser l'état du droit et l'adapter au droit de l'Union européenne ainsi qu'aux accords internationaux ratifiés, et en adaptant les renvois faits respectivement à l'arrêté, au décret ou au décret en Conseil d'Etat à la nature des mesures d'application concernées ;2° En assurant l'harmonisation, la clarification, la modernisation et, le cas échéant, la simplification des dispositions du code forestier relatives aux agents compétents pour procéder aux contrôles administratifs ou rechercher et constater des infractions, aux pouvoirs qui leur sont conférés et aux règles de procédure qu'ils doivent suivre, y compris en modifiant la liste de ces agents et l'étendue de leurs pouvoirs, et en réformant, supprimant ou, le cas échéant, instaurant les sanctions pénales ou administratives encourues, pour assurer le respect des obligations liées à la prévention des incendies de forêt ou, dans tous domaines, dans un objectif de cohérence, d'harmonisation ou de simplification ; »3° En édictant des mesures de nature à favoriser un remembrement des propriétés forestières afin de lutter contre leur morcellement ;4° En améliorant la cohérence et l'efficacité de la législation relative à la défense des forêts contre l'incendie, notamment par la clarification et l'harmonisation du champ d'application géographique des différentes dispositions, par la modification des dispositions relatives aux coupures agricoles en milieu forestier, par l'adaptation des obligations de débroussaillement à la diversité des formations végétales et au niveau de risque, par la réduction des cas de superposition d'obligations de débroussaillement sur un même terrain, par l'augmentation du niveau moyen de l'astreinte prévue en cas de non-respect d'une obligation légale de débroussaillement et par la précision du champ d'application et de la portée des servitudes pour l'établissement et la pérennité des équipements de défense contre l'incendie ;5° En étendant, le cas échéant, dans le respect des règles de partage des compétences prévues par la loi organique, l'application des dispositions codifiées, selon le cas, à Saint-Pierre-et-Miquelon, à Mayotte, à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna, avec les adaptations nécessaires, et en procédant si nécessaire à l'adaptation des dispositions déjà applicables à ces collectivités ;6° En mettant le code rural et de la pêche maritime en cohérence avec la nouvelle rédaction du code forestier.II. ― L'ordonnance est prise dans un délai de dix-huit mois à compter de la promulgation de la présente loi. Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance."
+      "content": "I. ― Dans les conditions prévues par l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnance les dispositions nécessaires pour procéder à la refonte de la partie législative du code forestier :1° En remédiant aux éventuelles erreurs ou insuffisances de codification, en incluant les dispositions de nature législative qui n'auraient pas été codifiées, en adaptant le plan et la rédaction des dispositions codifiées, en abrogeant les dispositions obsolètes, inadaptées ou devenues sans objet, en apportant les modifications nécessaires pour assurer le respect de la hiérarchie des normes et la cohérence rédactionnelle des textes, harmoniser l'état du droit et l'adapter au droit de l'Union européenne ainsi qu'aux accords internationaux ratifiés, et en adaptant les renvois faits respectivement à l'arrêté, au décret ou au décret en Conseil d'Etat à la nature des mesures d'application concernées ;2° En assurant l'harmonisation, la clarification, la modernisation et, le cas échéant, la simplification des dispositions du code forestier relatives aux agents compétents pour procéder aux contrôles administratifs ou rechercher et constater des infractions, aux pouvoirs qui leur sont conférés et aux règles de procédure qu'ils doivent suivre, y compris en modifiant la liste de ces agents et l'étendue de leurs pouvoirs, et en réformant, supprimant ou, le cas échéant, instaurant les sanctions pénales ou administratives encourues, pour assurer le respect des obligations liées à la prévention des incendies de forêt ou, dans tous domaines, dans un objectif de cohérence, d'harmonisation ou de simplification ; »3° En édictant des mesures de nature à favoriser un remembrement des propriétés forestières afin de lutter contre leur morcellement ;4° En améliorant la cohérence et l'efficacité de la législation relative à la défense des forêts contre l'incendie, notamment par la clarification et l'harmonisation du champ d'application géographique des différentes dispositions, par la modification des dispositions relatives aux coupures agricoles en milieu forestier, par l'adaptation des obligations de débroussaillement à la diversité des formations végétales et au niveau de risque, par la réduction des cas de superposition d'obligations de débroussaillement sur un même terrain, par l'augmentation du niveau moyen de l'astreinte prévue en cas de non-respect d'une obligation légale de débroussaillement et par la précision du champ d'application et de la portée des servitudes pour l'établissement et la pérennité des équipements de défense contre l'incendie ;5° En étendant, le cas échéant, dans le respect des règles de partage des compétences prévues par la loi organique, l'application des dispositions codifiées, selon le cas, à Saint-Pierre-et-Miquelon, à Mayotte, à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna, avec les adaptations nécessaires, et en procédant si nécessaire à l'adaptation des dispositions déjà applicables à ces collectivités ;6° En mettant le code rural et de la pêche maritime en cohérence avec la nouvelle rédaction du code forestier.II. ― L'ordonnance est prise dans un délai de dix-huit mois à compter de la promulgation de la présente loi. Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art74",
       "section": "74",
       "title": "Article 74",
-      "content": "L'ordonnance n° 2010-462 du 6 mai 2010 créant un livre IX du code rural relatif à la pêche maritime et à l'aquaculture marine est ratifiée\n\nA abrogé les dispositions suivantes :\n\n- Ordonnance n°2010-462 du 6 mai 2010"
+      "content": "L'ordonnance n° 2010-462 du 6 mai 2010 créant un livre IX du code rural relatif à la pêche maritime et à l'aquaculture marine est ratifiée\n\nA abrogé les dispositions suivantes :\n\n- Ordonnance n°2010-462 du 6 mai 2010",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art78",
       "section": "78",
       "title": "Article 78",
-      "content": "I. - L'établissement public Agence française d'information et de communication agricole et rurale mentionné à l'article L. 111-4 du code rural et de la pêche maritime est dissous et mis en liquidation à compter du 1er janvier 2011 dans des conditions fixées par décret en Conseil d'Etat.\n\nCe décret fixe notamment les conditions de nomination du liquidateur de l'agence, les missions de celui-ci et les modalités de leur exercice, ainsi que la durée de la période de liquidation. Il fixe également les conditions d'approbation des comptes de l'agence au cours et à l'issue de sa liquidation.\n\nII. - Est autorisé, à l'issue de la liquidation de l'agence, le transfert à l'Etat des éléments de passif et d'actif subsistant à la clôture du compte de liquidation, des droits et obligations nés de l'activité de l'établissement public ou durant la période de liquidation et non connus à la fin de celle-ci, et du solde de cette liquidation. Ce transfert ne donne lieu à aucune indemnité ou perception de droits, impôts ou taxes de quelque nature que ce soit.\n\nIII.- A modifié les dispositions suivantes :\n\n- Code rural"
+      "content": "I. - L'établissement public Agence française d'information et de communication agricole et rurale mentionné à l'article L. 111-4 du code rural et de la pêche maritime est dissous et mis en liquidation à compter du 1er janvier 2011 dans des conditions fixées par décret en Conseil d'Etat.\n\nCe décret fixe notamment les conditions de nomination du liquidateur de l'agence, les missions de celui-ci et les modalités de leur exercice, ainsi que la durée de la période de liquidation. Il fixe également les conditions d'approbation des comptes de l'agence au cours et à l'issue de sa liquidation.\n\nII. - Est autorisé, à l'issue de la liquidation de l'agence, le transfert à l'Etat des éléments de passif et d'actif subsistant à la clôture du compte de liquidation, des droits et obligations nés de l'activité de l'établissement public ou durant la période de liquidation et non connus à la fin de celle-ci, et du solde de cette liquidation. Ce transfert ne donne lieu à aucune indemnité ou perception de droits, impôts ou taxes de quelque nature que ce soit.\n\nIII.- A modifié les dispositions suivantes :\n\n- Code rural",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art79",
       "section": "79",
       "title": "Article 79",
-      "content": "Le transfert des biens, droits et obligations des établissements publics Les Haras nationaux et Ecole nationale d'équitation à l'Institut français du cheval et de l'équitation est réalisé à titre gratuit et ne donne lieu à aucune indemnité ou perception de droits, impôts ou taxes de quelque nature que ce soit, ni à aucun versement au profit des agents de l'Etat, d'honoraires ou des salaires prévus à l'article 879 du code général des impôts."
+      "content": "Le transfert des biens, droits et obligations des établissements publics Les Haras nationaux et Ecole nationale d'équitation à l'Institut français du cheval et de l'équitation est réalisé à titre gratuit et ne donne lieu à aucune indemnité ou perception de droits, impôts ou taxes de quelque nature que ce soit, ni à aucun versement au profit des agents de l'Etat, d'honoraires ou des salaires prévus à l'article 879 du code général des impôts.",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art80",
       "section": "80",
       "title": "Article 80",
-      "content": "Dans le délai d'un an à compter de la promulgation de la présente loi, le Gouvernement transmet au Parlement une étude répertoriant l'ensemble des normes applicables sur le territoire national allant au-delà de celles fixées par l'Union européenne en matière agricole et agroalimentaire, accompagnée d'une estimation des coûts que l'application de ces normes génère. Cette étude identifie les points susceptibles de faire l'objet de propositions législatives ou réglementaires de simplification ainsi que toute mesure propre à alléger les contraintes administratives qui pèsent sur les exploitations françaises."
+      "content": "Dans le délai d'un an à compter de la promulgation de la présente loi, le Gouvernement transmet au Parlement une étude répertoriant l'ensemble des normes applicables sur le territoire national allant au-delà de celles fixées par l'Union européenne en matière agricole et agroalimentaire, accompagnée d'une estimation des coûts que l'application de ces normes génère. Cette étude identifie les points susceptibles de faire l'objet de propositions législatives ou réglementaires de simplification ainsi que toute mesure propre à alléger les contraintes administratives qui pèsent sur les exploitations françaises.",
+      "valid_from": "2013-05-25"
     },
     {
       "provision_ref": "art81",
       "section": "81",
       "title": "Article 81",
-      "content": "L'ordonnance n° 2009-325 du 25 mars 2009 relative à la création de l'Agence de services et de paiement et de l'Etablissement national des produits de l'agriculture et de la mer est ratifiée.\n\nA modifié les dispositions suivantes :\n\n- Ordonnance n°2009-325 du 25 mars 2009"
+      "content": "L'ordonnance n° 2009-325 du 25 mars 2009 relative à la création de l'Agence de services et de paiement et de l'Etablissement national des produits de l'agriculture et de la mer est ratifiée.\n\nA modifié les dispositions suivantes :\n\n- Ordonnance n°2009-325 du 25 mars 2009",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art83",
       "section": "83",
       "title": "Article 83",
-      "content": "II. - Dans chaque région concernée, la première réunion du conseil maritime de façade mentionné à l'article L. 219-6-1 du code de l'environnement doit avoir lieu avant le 31 décembre 2011."
+      "content": "II. - Dans chaque région concernée, la première réunion du conseil maritime de façade mentionné à l'article L. 219-6-1 du code de l'environnement doit avoir lieu avant le 31 décembre 2011.",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art84",
       "section": "84",
       "title": "Article 84",
-      "content": "Dans le délai de six mois à compter de la promulgation de la présente loi, le Gouvernement étudie la mise en place d'un plan de lutte contre la pollution marine engendrée par le chlordécone."
+      "content": "Dans le délai de six mois à compter de la promulgation de la présente loi, le Gouvernement étudie la mise en place d'un plan de lutte contre la pollution marine engendrée par le chlordécone.",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art85",
       "section": "85",
       "title": "Article 85",
-      "content": "II. - Les schémas mentionnés à l'article L. 923-1-1 du code rural et de la pêche maritime sont établis dans chaque région concernée dans un délai d'un an à compter de la promulgation de la présente loi."
+      "content": "II. - Les schémas mentionnés à l'article L. 923-1-1 du code rural et de la pêche maritime sont établis dans chaque région concernée dans un délai d'un an à compter de la promulgation de la présente loi.",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art88",
       "section": "88",
       "title": "Article 88",
-      "content": "I. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nII. - Les élections des membres des comités départementaux ou interdépartementaux et des membres des comités régionaux représentant les équipages et salariés des entreprises de pêche maritime et d'élevage marin et les chefs d'entreprise ont lieu dans les dix-huit mois qui suivent la date de promulgation de la présente loi.\n\nLes comités locaux, créés en vertu de la loi n° 91-411 du 2 mai 1991 relative à l'organisation interprofessionnelle des pêches maritimes et des élevages marins et à l'organisation de la conchyliculture et en place à la date de promulgation de la présente loi, continuent de fonctionner jusqu'à leur remplacement par les comités départementaux ou interdépartementaux créés en application de la présente loi et de ses textes d'application, et au plus tard jusqu'à la date d'échéance des mandats de leurs membres. Les biens, droits et obligations des comités locaux sont transférés à cette date aux comités départementaux ou interdépartementaux correspondants, qui leur sont subrogés dans l'exécution des conventions collectives et des contrats de travail en cours.\n\nSi aucun comité départemental ou interdépartemental n'a été créé à la date mentionnée au premier alinéa du présent II, les biens, droits et obligations des comités locaux sont transférés aux comités régionaux correspondants.\n\nLes transferts mentionnés aux deux précédents alinéas sont réalisés à titre gratuit et ne donnent lieu au paiement d'aucun impôt, rémunération, salaire ou honoraires au profit de l'Etat de ses agents ou de toute autre personne publique.\n\nIII. - Par dérogation aux dispositions de l'article L. 912-4 du code rural et de la pêche maritime, les membres des comités départementaux créés avant le 30 mars 2013 sont nommés par l'autorité administrative parmi les membres du ou des comités locaux concernés jusqu'à l'organisation des élections suivant l'entrée en vigueur de la présente loi.\n\n- Code rural\n\n- Code rural\n\n- Code rural"
+      "content": "I. - A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nII. - Les élections des membres des comités départementaux ou interdépartementaux et des membres des comités régionaux représentant les équipages et salariés des entreprises de pêche maritime et d'élevage marin et les chefs d'entreprise ont lieu dans les dix-huit mois qui suivent la date de promulgation de la présente loi.\n\nLes comités locaux, créés en vertu de la loi n° 91-411 du 2 mai 1991 relative à l'organisation interprofessionnelle des pêches maritimes et des élevages marins et à l'organisation de la conchyliculture et en place à la date de promulgation de la présente loi, continuent de fonctionner jusqu'à leur remplacement par les comités départementaux ou interdépartementaux créés en application de la présente loi et de ses textes d'application, et au plus tard jusqu'à la date d'échéance des mandats de leurs membres. Les biens, droits et obligations des comités locaux sont transférés à cette date aux comités départementaux ou interdépartementaux correspondants, qui leur sont subrogés dans l'exécution des conventions collectives et des contrats de travail en cours.\n\nSi aucun comité départemental ou interdépartemental n'a été créé à la date mentionnée au premier alinéa du présent II, les biens, droits et obligations des comités locaux sont transférés aux comités régionaux correspondants.\n\nLes transferts mentionnés aux deux précédents alinéas sont réalisés à titre gratuit et ne donnent lieu au paiement d'aucun impôt, rémunération, salaire ou honoraires au profit de l'Etat de ses agents ou de toute autre personne publique.\n\nIII. - Par dérogation aux dispositions de l'article L. 912-4 du code rural et de la pêche maritime, les membres des comités départementaux créés avant le 30 mars 2013 sont nommés par l'autorité administrative parmi les membres du ou des comités locaux concernés jusqu'à l'organisation des élections suivant l'entrée en vigueur de la présente loi.\n\n- Code rural\n\n- Code rural\n\n- Code rural",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art93",
       "section": "93",
       "title": "Article 93",
-      "content": "Dans le délai d'un an à compter de la promulgation de la présente loi, le Gouvernement dépose sur le bureau des assemblées parlementaires un rapport déterminant les grandes orientations d'un projet de loi de modernisation de l'agriculture et de la pêche spécifique à l'outre-mer."
+      "content": "Dans le délai d'un an à compter de la promulgation de la présente loi, le Gouvernement dépose sur le bureau des assemblées parlementaires un rapport déterminant les grandes orientations d'un projet de loi de modernisation de l'agriculture et de la pêche spécifique à l'outre-mer.",
+      "valid_from": "2010-07-29"
     },
     {
       "provision_ref": "art94",
       "section": "94",
       "title": "Article 94",
-      "content": "I. ― Dans les conditions prévues par l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnances les dispositions législatives nécessaires pour :1° Adapter aux spécificités des départements d'outre-mer, des collectivités d'outre-mer et de la Nouvelle-Calédonie le rôle et les missions des chambres d'agriculture afin de leur permettre une meilleure intervention dans le cadre du développement agricole et forestier, en réformant leur organisation, leur fonctionnement et leur mode de financement ;2° Assurer la préservation du foncier agricole :a) Dans les départements d'outre-mer et à Mayotte :― en adaptant la composition et les compétences de la commission mentionnée à l'article L. 112-1-1 du code rural et de la pêche maritime ;― en modifiant la procédure de mise en valeur des terres incultes ou manifestement sous-exploitées et en étendant cette procédure à Mayotte ;― en instituant une procédure de contrôle du morcellement des terres agricoles ;b) A Saint-Martin :― en adaptant la composition et les compétences de la commission mentionnée au même article L. 112-1-1 ;3° Adapter aux départements d'outre-mer, à Mayotte, Saint-Pierre-et-Miquelon, Saint-Martin et Saint-Barthélemy les dispositions des articles 85 à 88 de la présente loi.II. ― Les ordonnances mentionnées au I sont prises dans un délai de douze mois à compter de la publication de la présente loi.Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de chaque ordonnance."
+      "content": "I. ― Dans les conditions prévues par l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnances les dispositions législatives nécessaires pour :1° Adapter aux spécificités des départements d'outre-mer, des collectivités d'outre-mer et de la Nouvelle-Calédonie le rôle et les missions des chambres d'agriculture afin de leur permettre une meilleure intervention dans le cadre du développement agricole et forestier, en réformant leur organisation, leur fonctionnement et leur mode de financement ;2° Assurer la préservation du foncier agricole :a) Dans les départements d'outre-mer et à Mayotte :― en adaptant la composition et les compétences de la commission mentionnée à l'article L. 112-1-1 du code rural et de la pêche maritime ;― en modifiant la procédure de mise en valeur des terres incultes ou manifestement sous-exploitées et en étendant cette procédure à Mayotte ;― en instituant une procédure de contrôle du morcellement des terres agricoles ;b) A Saint-Martin :― en adaptant la composition et les compétences de la commission mentionnée au même article L. 112-1-1 ;3° Adapter aux départements d'outre-mer, à Mayotte, Saint-Pierre-et-Miquelon, Saint-Martin et Saint-Barthélemy les dispositions des articles 85 à 88 de la présente loi.II. ― Les ordonnances mentionnées au I sont prises dans un délai de douze mois à compter de la publication de la présente loi.Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de chaque ordonnance.",
+      "valid_from": "2010-07-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

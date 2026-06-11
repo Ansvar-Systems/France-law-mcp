@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont validées les actes de l'autorité de fait se disant gouvernement de l'Etat français dits :Loi du 26 juillet 1941 fixant le taux des amendes pénales ;Loi du 12 septembre 1941 modifiant la loi du 5 août 1899 sur le casier judiciaire et la réhabilitation de droit ;Loi du 13 novembre 1941 modifiant les articles 172 à 179 du Code de l'instruction criminelle ;Loi du 17 février 1942 interprétant et complétant la loi du 26 juillet 1941 fixant le taux des amendes pénales ;Loi du 5 février 1944 relative aux taux de certaines amendes."
+      "content": "Sont validées les actes de l'autorité de fait se disant gouvernement de l'Etat français dits :Loi du 26 juillet 1941 fixant le taux des amendes pénales ;Loi du 12 septembre 1941 modifiant la loi du 5 août 1899 sur le casier judiciaire et la réhabilitation de droit ;Loi du 13 novembre 1941 modifiant les articles 172 à 179 du Code de l'instruction criminelle ;Loi du 17 février 1942 interprétant et complétant la loi du 26 juillet 1941 fixant le taux des amendes pénales ;Loi du 5 février 1944 relative aux taux de certaines amendes.",
+      "valid_from": "1945-03-25"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Sous réserve du maintien des dispositions des articles 172 à 179 du Code d'instruction criminelle modifiés par la loi validée du 13 novembre 1941, les différents taux applicables aux amendes pénales en vertu de l'article 1er de la loi validée du 26 juillet 1941, modifiée par la loi validée du 17 février 1942, sont, dans toutes les dispositions législatives antérieures à l'entrée en vigueur de la loi validée du 26 juillet 1941, substitués aux taux d'amende correspondants, applicables en vertu desdites dispositions, lesquelles doivent être regardées comme modifiées de plein droit à cet égard par ladite loi et ne peuvent désormais être visées que sous cette teneur nouvelle."
+      "content": "Sous réserve du maintien des dispositions des articles 172 à 179 du Code d'instruction criminelle modifiés par la loi validée du 13 novembre 1941, les différents taux applicables aux amendes pénales en vertu de l'article 1er de la loi validée du 26 juillet 1941, modifiée par la loi validée du 17 février 1942, sont, dans toutes les dispositions législatives antérieures à l'entrée en vigueur de la loi validée du 26 juillet 1941, substitués aux taux d'amende correspondants, applicables en vertu desdites dispositions, lesquelles doivent être regardées comme modifiées de plein droit à cet égard par ladite loi et ne peuvent désormais être visées que sous cette teneur nouvelle.",
+      "valid_from": "1945-03-25"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi."
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi.",
+      "valid_from": "1945-03-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -9,16 +9,17 @@
   "description": null,
   "provisions": [
     {
-      "provision_ref": "art1",
-      "section": "1",
-      "title": "Article 1",
-      "content": "Les prestataires de services d'investissement exerçant leur activité près les bourses sans parquet doivent établir, selon les formules types qui leur sont prescrites par  l'Autorité de contrôle prudentiel, des comptes annuels comprenant un bilan et un compte de profits et pertes et des situations périodiques de leur actif et de leur passif. Ces comptes annuels et ces situations périodiques doivent être établis aux dates fixées par l'Autorité de contrôle prudentiel et adressées à celle-ci dans les délais fixés par elle.\n\nL'Autorité de contrôle prudentiel peut imposer aux prestataires de services d'investissement visés à l'alinéa 1er des règles particulières pour la tenue de la comptabilité des titres détenus pour le compte de la clientèle.\n\nElle peut faire effectuer chez ces prestataires de services d'investissement des contrôles par les inspecteurs de la Banque de France.\n\nPour l'examen des affaires qui concernent les prestataires de services d'investissement visés à l'alinéa ler la commission de contrôle bancaire s'adjoint le syndic de la Compagnie des agents de change près la Bourse de Paris.\n\nLa commission de contrôle bancaire tient le ministre de l'économie et des finances informé de la situation des prestataires de services d'investissement visés à l'alinéa 1er."
-    },
-    {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le ministre des finances et des affaires économique et le garde sceaux, ministre de la justice, sont chargés de l'exécution du présent décret, qui sera publié au Journal officiel de la République française."
+      "content": "Le ministre des finances et des affaires économique et le garde sceaux, ministre de la justice, sont chargés de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.",
+      "valid_from": "1958-10-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

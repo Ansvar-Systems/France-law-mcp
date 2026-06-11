@@ -12,31 +12,42 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les articles L. 414-24 et L. 441-3 du code des communes sont abrogés."
+      "content": "Les articles L. 414-24 et L. 441-3 du code des communes sont abrogés.",
+      "valid_from": "1999-04-16"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Dans les communes où, à la date d'entrée en vigueur de la présente loi, existe un service de police municipale comptant au moins cinq emplois d'agent de police municipale, la convention prévue à l'article L. 2212-6 du code général des collectivités territoriales est conclue dans un délai de six mois à compter de la publication du décret en Conseil d'Etat déterminant les clauses d'une convention type mentionnée au même article.Dans ces communes, les dispositions de l'avant-dernier alinéa de l'article L. 2212-6 du code général des collectivités territoriales sont applicables à l'expiration du délai mentionné à l'alinéa précédent.Les dispositions de l'article L. 412-51 du code des communes ne sont applicables qu'à compter de la conclusion de la convention prévue à l'article L. 2212-6 du code général des collectivités territoriales et, au plus tard, à l'expiration du délai mentionné au premier alinéa du présent article.Les dispositions du présent article s'appliquent également aux communes dont le conseil municipal porte à cinq au moins le nombre d'emplois d'agent de police municipale, avant la date de publication du décret en Conseil d'Etat déterminant les clauses d'une convention type."
+      "content": "Dans les communes où, à la date d'entrée en vigueur de la présente loi, existe un service de police municipale comptant au moins cinq emplois d'agent de police municipale, la convention prévue à l'article L. 2212-6 du code général des collectivités territoriales est conclue dans un délai de six mois à compter de la publication du décret en Conseil d'Etat déterminant les clauses d'une convention type mentionnée au même article.Dans ces communes, les dispositions de l'avant-dernier alinéa de l'article L. 2212-6 du code général des collectivités territoriales sont applicables à l'expiration du délai mentionné à l'alinéa précédent.Les dispositions de l'article L. 412-51 du code des communes ne sont applicables qu'à compter de la conclusion de la convention prévue à l'article L. 2212-6 du code général des collectivités territoriales et, au plus tard, à l'expiration du délai mentionné au premier alinéa du présent article.Les dispositions du présent article s'appliquent également aux communes dont le conseil municipal porte à cinq au moins le nombre d'emplois d'agent de police municipale, avant la date de publication du décret en Conseil d'Etat déterminant les clauses d'une convention type.",
+      "valid_from": "1999-04-16"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "Les dispositions de l'article L. 412-52 du code des communes entreront en vigueur dix-huit mois à compter de la publication du décret en Conseil d'Etat prévu par cet article."
+      "content": "Les dispositions de l'article L. 412-52 du code des communes entreront en vigueur dix-huit mois à compter de la publication du décret en Conseil d'Etat prévu par cet article.",
+      "valid_from": "1999-04-16"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Les agents de police municipale en fonction à la date d'entrée en vigueur de la présente loi doivent obtenir l'agrément du représentant de l'Etat dans le département mentionné à l'article L. 412-49 du code des communes dans un délai de six mois à compter de la publication de la présente loi. Jusqu'à ce qu'il soit statué, ils exercent leurs missions dans les conditions résultant de la législation antérieure.En cas de refus d'agrément, ils peuvent être reclassés dans un autre cadre d'emplois dans les mêmes conditions que celles qui sont prévues par la section 3 du chapitre VI de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, à l'exception de celles mentionnées au second alinéa de l'article 81."
+      "content": "Les agents de police municipale en fonction à la date d'entrée en vigueur de la présente loi doivent obtenir l'agrément du représentant de l'Etat dans le département mentionné à l'article L. 412-49 du code des communes dans un délai de six mois à compter de la publication de la présente loi. Jusqu'à ce qu'il soit statué, ils exercent leurs missions dans les conditions résultant de la législation antérieure.En cas de refus d'agrément, ils peuvent être reclassés dans un autre cadre d'emplois dans les mêmes conditions que celles qui sont prévues par la section 3 du chapitre VI de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, à l'exception de celles mentionnées au second alinéa de l'article 81.",
+      "valid_from": "1999-04-16"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Les articles 13, 14, 15 et 16 de la présente loi sont applicables en Nouvelle-Calédonie, dans les territoires de la Polynésie française et des îles Wallis et Futuna, ainsi qu'à Mayotte."
+      "content": "Les articles 13, 14, 15 et 16 de la présente loi sont applicables en Nouvelle-Calédonie, dans les territoires de la Polynésie française et des îles Wallis et Futuna, ainsi qu'à Mayotte.",
+      "valid_from": "2001-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

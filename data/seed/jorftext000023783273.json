@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est déclaré d'utilité publique l'établissement des chemins de fer de Grasse à Nice, par ou près Vence et Manda, et de la ligne précédente à Saint-André, par ou près Saint-Martin-du-Var et Puget-Théniers."
+      "content": "Est déclaré d'utilité publique l'établissement des chemins de fer de Grasse à Nice, par ou près Vence et Manda, et de la ligne précédente à Saint-André, par ou près Saint-Martin-du-Var et Puget-Théniers.",
+      "valid_from": "1889-07-31"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Sont rendues définitives, dans les conditions fixées par la loi du 17 août 1885, sauf les stipulations contraires de la présente loi, les concessions des chemins désignés à l'article 1er et du chemin de fer de Digne à Saint-André, dont la compagnie des chemins de fer du sud de la France est concessionnaire à titre éventuel.\n\nSont approuvés la convention passée, le 21 mai 1889, et l'avenant à cette convention, signé le 19 juin 1889, entre le ministre des travaux publics et ladite compagnie."
+      "content": "Sont rendues définitives, dans les conditions fixées par la loi du 17 août 1885, sauf les stipulations contraires de la présente loi, les concessions des chemins désignés à l'article 1er et du chemin de fer de Digne à Saint-André, dont la compagnie des chemins de fer du sud de la France est concessionnaire à titre éventuel.\n\nSont approuvés la convention passée, le 21 mai 1889, et l'avenant à cette convention, signé le 19 juin 1889, entre le ministre des travaux publics et ladite compagnie.",
+      "valid_from": "1889-07-31"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Par dérogation au paragraphe 2 de l'article 5 de la loi du 17 août 1885, la compagnie pourra émettre, pour la construction des lignes qui font l'objet de la présente loi, des obligations dans la limite des sommes auxquelles s'applique la garantie de l'Etat, en exécution de l'article 5 de la convention du 23 juillet 1885, et de l'article 4 de la convention du 21 mars 1889. Les émissions ne pourront avoir lieu qu'en vertu d'autorisations du ministre des travaux publics données après avis du ministre des finances."
+      "content": "Par dérogation au paragraphe 2 de l'article 5 de la loi du 17 août 1885, la compagnie pourra émettre, pour la construction des lignes qui font l'objet de la présente loi, des obligations dans la limite des sommes auxquelles s'applique la garantie de l'Etat, en exécution de l'article 5 de la convention du 23 juillet 1885, et de l'article 4 de la convention du 21 mars 1889. Les émissions ne pourront avoir lieu qu'en vertu d'autorisations du ministre des travaux publics données après avis du ministre des finances.",
+      "valid_from": "1889-07-31"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "L'enregistrement de la convention et de l'avenant approuvés par l'article 2 et annexés à la présente loi ne donnera lieu qu'à la perception du droit fixe de trois francs (3 fr.)\n\nLa présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l'État."
+      "content": "L'enregistrement de la convention et de l'avenant approuvés par l'article 2 et annexés à la présente loi ne donnera lieu qu'à la perception du droit fixe de trois francs (3 fr.)\n\nLa présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l'État.",
+      "valid_from": "1889-07-31"
     },
     {
       "provision_ref": "artAnnexeAvenantConvention",
       "section": "AnnexeAvenantConvention",
       "title": "Article AnnexeAvenantConvention",
-      "content": "Avenant à la convention du 21 mai 1889\n\nEntre le ministre des travaux publics, agissant au nom de l'Etat, et la compagnie des chemins de fer du sud de la France.\n\nIl a été convenu que les modifications suivantes sont apportées à la convention du 21 mai 1889 :\n\n1° A l'article 3  est ajouté le paragraphe ci-après :\n\n\"Pour la section comprise entre Saint-André et Puget-Théniers, les délais dans lesquels les travaux devront être commencés seront fixés par la loi qui ordonnera l'exécution de cette section. Ils devront être terminés dans un délai de trois ans à dater du jour du décret d'urgence ou de l'arrêté de cessibilité qui permettra l'occupation des terrains nécessaires.\n\n2° Deux articles nouveaux seront ajoutés à la convention, savoir :\n\n\"Art. 5 - Par dérogation, à l'article 4 de la convention du 23 juillet 1885, annexée à la loi du 17 août suivant, l'intêret garanti à la compagnie sur les sommes dépensées par elle, tant pour la construction et la mise en exploitation des lignes dénommées à l'article 4 de la convention du 21 mai 1889 que pour les travaux complémentaires prévus au dernier paragraphe de ce même article, sera abaissé à quatre francs soixante-cinq centimes pour cent ( 4 fr. 65 p. 100) amortissement compris.\n\n\"Art. 6 - Par dérogation à l'article 4 de la loi du 17 août 1885, la compagnie sera autorisée à réaliser en obligations la totalité du capital nécessaire à la construction et à la mise en exploitation des lignes désignées à l'article 4 de la convention du 21 mai 1889, ainsi qu'aux travaux complémentaires y  relatifs.\n\nParis, le 19 juin 1889\n\nLu et approuvé :\n\nLe président du conseil d'administration A. REY\n\nLu et approuvé :\n\nLe ministre des travaux publics, Yves Guyot"
+      "content": "Avenant à la convention du 21 mai 1889\n\nEntre le ministre des travaux publics, agissant au nom de l'Etat, et la compagnie des chemins de fer du sud de la France.\n\nIl a été convenu que les modifications suivantes sont apportées à la convention du 21 mai 1889 :\n\n1° A l'article 3  est ajouté le paragraphe ci-après :\n\n\"Pour la section comprise entre Saint-André et Puget-Théniers, les délais dans lesquels les travaux devront être commencés seront fixés par la loi qui ordonnera l'exécution de cette section. Ils devront être terminés dans un délai de trois ans à dater du jour du décret d'urgence ou de l'arrêté de cessibilité qui permettra l'occupation des terrains nécessaires.\n\n2° Deux articles nouveaux seront ajoutés à la convention, savoir :\n\n\"Art. 5 - Par dérogation, à l'article 4 de la convention du 23 juillet 1885, annexée à la loi du 17 août suivant, l'intêret garanti à la compagnie sur les sommes dépensées par elle, tant pour la construction et la mise en exploitation des lignes dénommées à l'article 4 de la convention du 21 mai 1889 que pour les travaux complémentaires prévus au dernier paragraphe de ce même article, sera abaissé à quatre francs soixante-cinq centimes pour cent ( 4 fr. 65 p. 100) amortissement compris.\n\n\"Art. 6 - Par dérogation à l'article 4 de la loi du 17 août 1885, la compagnie sera autorisée à réaliser en obligations la totalité du capital nécessaire à la construction et à la mise en exploitation des lignes désignées à l'article 4 de la convention du 21 mai 1889, ainsi qu'aux travaux complémentaires y  relatifs.\n\nParis, le 19 juin 1889\n\nLu et approuvé :\n\nLe président du conseil d'administration A. REY\n\nLu et approuvé :\n\nLe ministre des travaux publics, Yves Guyot",
+      "valid_from": "1889-07-31"
     },
     {
       "provision_ref": "artAnnexeConvention",
       "section": "AnnexeConvention",
       "title": "Article AnnexeConvention",
-      "content": "Pour le chemin de fer de Grasse à Nice et pour la section du chemin de fer de Nice à Saint-André, comprise entre Manda et Saint-Martin-du-Var, les modifications et additions suivantes sont apportées au cahier des charges annexé à la loi du 17 août 1885 :La disposition contenue dans le paragraphe 2° de l'article 1er qui précède sera applicable à la section de Saint-Martin-du-Var à Puget-Théniers ; les travaux d'infrastructure de cette section seront exécutés d'ailleurs de manière à permettre à toute époque l'installation d'une voie à quatre rails dans les conditions prévues au paragraphe 1er de l'article 1er qui précède.Ceux des sections de Manda à Saint Martin-du-Var, de Saint Martin-du-Var à Puget-Théniers et de Digne à Saint-André, devront être commencés dans un délai de six mois et terminés dans un délai de trois ans à partir de la date de la promulgation de la loi qui approuvera la présente convention.Le montant maximum des dépenses pour travaux complémentaires dont la nécessité, après la mise en exploitation, serait reconnue par décrets délibérés en conseil d'Etat, est, conformément au même avis du conseil général des ponts et chaussées en date du 13 mai 1889, fixé à la somme de trois millions sept cent mille francs (3,700,000 fr.) pour l'ensemble des sections ci-dessus énumérées."
+      "content": "Pour le chemin de fer de Grasse à Nice et pour la section du chemin de fer de Nice à Saint-André, comprise entre Manda et Saint-Martin-du-Var, les modifications et additions suivantes sont apportées au cahier des charges annexé à la loi du 17 août 1885 :La disposition contenue dans le paragraphe 2° de l'article 1er qui précède sera applicable à la section de Saint-Martin-du-Var à Puget-Théniers ; les travaux d'infrastructure de cette section seront exécutés d'ailleurs de manière à permettre à toute époque l'installation d'une voie à quatre rails dans les conditions prévues au paragraphe 1er de l'article 1er qui précède.Ceux des sections de Manda à Saint Martin-du-Var, de Saint Martin-du-Var à Puget-Théniers et de Digne à Saint-André, devront être commencés dans un délai de six mois et terminés dans un délai de trois ans à partir de la date de la promulgation de la loi qui approuvera la présente convention.Le montant maximum des dépenses pour travaux complémentaires dont la nécessité, après la mise en exploitation, serait reconnue par décrets délibérés en conseil d'Etat, est, conformément au même avis du conseil général des ponts et chaussées en date du 13 mai 1889, fixé à la somme de trois millions sept cent mille francs (3,700,000 fr.) pour l'ensemble des sections ci-dessus énumérées.",
+      "valid_from": "1889-07-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

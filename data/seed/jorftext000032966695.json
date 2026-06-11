@@ -12,43 +12,56 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La circulation sur la voie publique de véhicules à délégation partielle ou totale de conduite à des fins expérimentales est autorisée. Cette circulation est subordonnée à la délivrance d'une autorisation destinée à assurer la sécurité du déroulement de l'expérimentation.La délivrance de l'autorisation est subordonnée à la condition que le système de délégation de conduite puisse être à tout moment neutralisé ou désactivé par le conducteur. En l'absence de conducteur à bord, le demandeur fournit les éléments de nature à attester qu'un conducteur situé à l'extérieur du véhicule, chargé de superviser ce véhicule et son environnement de conduite pendant l'expérimentation, sera prêt à tout moment à prendre le contrôle du véhicule, afin d'effectuer les manœuvres nécessaires à la mise en sécurité du véhicule, de ses occupants et des usagers de la route."
+      "content": "La circulation sur la voie publique de véhicules à délégation partielle ou totale de conduite à des fins expérimentales est autorisée. Cette circulation est subordonnée à la délivrance d'une autorisation destinée à assurer la sécurité du déroulement de l'expérimentation.La délivrance de l'autorisation est subordonnée à la condition que le système de délégation de conduite puisse être à tout moment neutralisé ou désactivé par le conducteur. En l'absence de conducteur à bord, le demandeur fournit les éléments de nature à attester qu'un conducteur situé à l'extérieur du véhicule, chargé de superviser ce véhicule et son environnement de conduite pendant l'expérimentation, sera prêt à tout moment à prendre le contrôle du véhicule, afin d'effectuer les manœuvres nécessaires à la mise en sécurité du véhicule, de ses occupants et des usagers de la route.",
+      "valid_from": "2019-05-24"
     },
     {
       "provision_ref": "art1er-1",
       "section": "1er-1",
       "title": "Article 1er-1",
-      "content": "La circulation à des fins expérimentales de véhicules à délégation partielle ou totale de conduite ne peut être autorisée sur les voies réservées aux transports collectifs que pour des véhicules utilisés pour effectuer ou mettre en place un service de transport public de personnes ou, pour les autres véhicules, sous réserve de l'avis conforme de l'autorité de police de la circulation concernée et de l'autorité organisatrice des transports."
+      "content": "La circulation à des fins expérimentales de véhicules à délégation partielle ou totale de conduite ne peut être autorisée sur les voies réservées aux transports collectifs que pour des véhicules utilisés pour effectuer ou mettre en place un service de transport public de personnes ou, pour les autres véhicules, sous réserve de l'avis conforme de l'autorité de police de la circulation concernée et de l'autorité organisatrice des transports.",
+      "valid_from": "2019-05-24"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'autorisation est accordée par le ministre chargé des transports après avis du ministre de l'intérieur, s'il y a lieu après avis du gestionnaire de la voirie, de l'autorité compétente en matière de la police de la circulation et de l'autorité organisatrice des transports concernés."
+      "content": "L'autorisation est accordée par le ministre chargé des transports après avis du ministre de l'intérieur, s'il y a lieu après avis du gestionnaire de la voirie, de l'autorité compétente en matière de la police de la circulation et de l'autorité organisatrice des transports concernés.",
+      "valid_from": "2016-08-06"
     },
     {
       "provision_ref": "art2-1",
       "section": "2-1",
       "title": "Article 2-1",
-      "content": "Le premier alinéa de l'article L. 121-1 du code de la route n'est pas applicable au conducteur pendant les périodes où le système de délégation de conduite, qu'il a activé conformément à ses conditions d'utilisation, est en fonctionnement et l'informe en temps réel être en état d'observer les conditions de circulation et d'exécuter sans délai toute manœuvre en ses lieux et place.Le même premier alinéa est à nouveau applicable après sollicitation du système de conduite et à l'issue d'un délai de reprise de contrôle du véhicule précisé par l'autorisation d'expérimentation, dont le conducteur est informé. Il en va de même lorsque le conducteur a ignoré la circonstance évidente que les conditions d'utilisation du système de délégation de conduite, définies pour l'expérimentation, n'étaient pas ou plus remplies."
+      "content": "Le premier alinéa de l'article L. 121-1 du code de la route n'est pas applicable au conducteur pendant les périodes où le système de délégation de conduite, qu'il a activé conformément à ses conditions d'utilisation, est en fonctionnement et l'informe en temps réel être en état d'observer les conditions de circulation et d'exécuter sans délai toute manœuvre en ses lieux et place.Le même premier alinéa est à nouveau applicable après sollicitation du système de conduite et à l'issue d'un délai de reprise de contrôle du véhicule précisé par l'autorisation d'expérimentation, dont le conducteur est informé. Il en va de même lorsque le conducteur a ignoré la circonstance évidente que les conditions d'utilisation du système de délégation de conduite, définies pour l'expérimentation, n'étaient pas ou plus remplies.",
+      "valid_from": "2019-05-24"
     },
     {
       "provision_ref": "art2-2",
       "section": "2-2",
       "title": "Article 2-2",
-      "content": "Si la conduite du véhicule, dont le système de délégation de conduite a été activé et fonctionne dans les conditions prévues au premier alinéa de l'article 2-1, contrevient à des règles dont le non-respect constitue une contravention, le titulaire de l'autorisation est pécuniairement responsable du paiement des amendes. Si cette conduite a provoqué un accident entraînant un dommage corporel, ce titulaire est pénalement responsable des délits d'atteinte involontaire à la vie ou à l'intégrité de la personne prévus aux articles 221-6-1,222-19-1 et 222-20-1 du code pénal lorsqu'il est établi une faute au sens de l'article 121-3 du même code dans la mise en œuvre du système de délégation de conduite."
+      "content": "Si la conduite du véhicule, dont le système de délégation de conduite a été activé et fonctionne dans les conditions prévues au premier alinéa de l'article 2-1, contrevient à des règles dont le non-respect constitue une contravention, le titulaire de l'autorisation est pécuniairement responsable du paiement des amendes. Si cette conduite a provoqué un accident entraînant un dommage corporel, ce titulaire est pénalement responsable des délits d'atteinte involontaire à la vie ou à l'intégrité de la personne prévus aux articles 221-6-1,222-19-1 et 222-20-1 du code pénal lorsqu'il est établi une faute au sens de l'article 121-3 du même code dans la mise en œuvre du système de délégation de conduite.",
+      "valid_from": "2019-05-24"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Un décret en Conseil d'Etat précise les conditions de délivrance de l'autorisation et les modalités de sa mise en œuvre. Il prévoit les modalités d'information du public sur la circulation à des fins expérimentales de véhicules à délégation partielle ou totale de conduite.Un arrêté conjoint des ministres chargés de la sécurité routière et des transports fixe la composition du dossier de demande d'autorisation et le contenu du registre créé pour répertorier les autorisations accordées."
+      "content": "Un décret en Conseil d'Etat précise les conditions de délivrance de l'autorisation et les modalités de sa mise en œuvre. Il prévoit les modalités d'information du public sur la circulation à des fins expérimentales de véhicules à délégation partielle ou totale de conduite.Un arrêté conjoint des ministres chargés de la sécurité routière et des transports fixe la composition du dossier de demande d'autorisation et le contenu du registre créé pour répertorier les autorisations accordées.",
+      "valid_from": "2019-05-24"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, et le ministre de l'intérieur sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, et le ministre de l'intérieur sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-08-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

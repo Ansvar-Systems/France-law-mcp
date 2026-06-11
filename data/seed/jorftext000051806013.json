@@ -12,19 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I.- A modifié les dispositions suivantes :\n\nII. - Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport relatif aux étudiants français inscrits en formation de médecine à l'étranger. Ce rapport comporte des données chiffrées, relatives notamment au mode et au lieu d'exercice ainsi qu'à l'évolution de la carrière de ces personnes à l'issue de leurs études.\n\n- Code de l'éducation"
+      "content": "I.- A modifié les dispositions suivantes :\n\nII. - Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport relatif aux étudiants français inscrits en formation de médecine à l'étranger. Ce rapport comporte des données chiffrées, relatives notamment au mode et au lieu d'exercice ainsi qu'à l'évolution de la carrière de ces personnes à l'issue de leurs études.\n\n- Code de l'éducation",
+      "valid_from": "2025-06-29"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport relatif à l'offre de formation en médecine, en pharmacie, en odontologie et en maïeutique dans les territoires caractérisés par une offre de soins insuffisante au sens de l'article L. 1434-4 du code de la santé publique. Le rapport examine notamment le taux d'accès à ces études dans ces territoires ainsi que la correspondance entre le lieu de formation, en particulier en premier cycle, et le premier lieu d'exercice des professionnels de santé formés. Il formule des propositions permettant de garantir l'équité territoriale de l'offre de formation en santé, notamment par l'implantation de nouveaux lieux de formation."
-    },
-    {
-      "provision_ref": "art5",
-      "section": "5",
-      "title": "Article 5",
-      "content": "I. - La charge pour l'Etat est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Idu livre III du code des impositions sur les biens et services.II. - La charge pour les organismes de sécurité sociale est compensée, à due concurrence, par la majoration de l'accise sur les tabacs prévue au chapitre IV du titre Idu livre III du code des impositions sur les biens et services."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport relatif à l'offre de formation en médecine, en pharmacie, en odontologie et en maïeutique dans les territoires caractérisés par une offre de soins insuffisante au sens de l'article L. 1434-4 du code de la santé publique. Le rapport examine notamment le taux d'accès à ces études dans ces territoires ainsi que la correspondance entre le lieu de formation, en particulier en premier cycle, et le premier lieu d'exercice des professionnels de santé formés. Il formule des propositions permettant de garantir l'équité territoriale de l'offre de formation en santé, notamment par l'implantation de nouveaux lieux de formation.",
+      "valid_from": "2025-06-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

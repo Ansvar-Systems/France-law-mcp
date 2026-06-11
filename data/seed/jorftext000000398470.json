@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - Les articles 31 à 34 de l'ordonnance n° 92-1070 du 1er octobre 1992 portant extension et adaptation à la collectivité territoriale de Mayotte de diverses dispositions législatives relatives à la santé publique sont abrogés.II. - Le décret n° 52-964 du 28 juillet 1952 rendant applicable aux territoires d'outre-mer l'ordonnance n° 45-2184 du 24 septembre 1945 relative à l'exercice et à l'organisation des professions de médecin, de chirurgien-dentiste et de sage-femme, complétée par la loi n° 49-757 du 9 juin 1949 et modifiée par la loi n° 51-443 du 19 avril 1951, est abrogé à compter de la date d'entrée en vigueur des décrets d'application de la présente ordonnance dans les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon et les territoires d'outre-mer des îles Wallis-et-Futuna et des Terres australes et antarctiques françaises."
+      "content": "I. - Les articles 31 à 34 de l'ordonnance n° 92-1070 du 1er octobre 1992 portant extension et adaptation à la collectivité territoriale de Mayotte de diverses dispositions législatives relatives à la santé publique sont abrogés.II. - Le décret n° 52-964 du 28 juillet 1952 rendant applicable aux territoires d'outre-mer l'ordonnance n° 45-2184 du 24 septembre 1945 relative à l'exercice et à l'organisation des professions de médecin, de chirurgien-dentiste et de sage-femme, complétée par la loi n° 49-757 du 9 juin 1949 et modifiée par la loi n° 51-443 du 19 avril 1951, est abrogé à compter de la date d'entrée en vigueur des décrets d'application de la présente ordonnance dans les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon et les territoires d'outre-mer des îles Wallis-et-Futuna et des Terres australes et antarctiques françaises.",
+      "valid_from": "2000-03-05"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, la ministre de l'emploi et de la solidarité, le garde des sceaux, ministre de la justice, le ministre de l'intérieur, le secrétaire d'Etat à l'outre-mer et la secrétaire d'Etat à la santé et à l'action sociale sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'emploi et de la solidarité, le garde des sceaux, ministre de la justice, le ministre de l'intérieur, le secrétaire d'Etat à l'outre-mer et la secrétaire d'Etat à la santé et à l'action sociale sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2000-03-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

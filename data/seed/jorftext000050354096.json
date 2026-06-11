@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code monétaire et financier est modifié conformément aux dispositions des articles 2 à 10 de la présente ordonnance."
+      "content": "Le code monétaire et financier est modifié conformément aux dispositions des articles 2 à 10 de la présente ordonnance.",
+      "valid_from": "2024-10-18"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "La présente ordonnance entre en vigueur le 30 décembre 2024, à l'exception des dispositions des 7° et 8° de l'article 2, ainsi que du c du 1° et du a du 2° de l'article 9 qui entrent en vigueur le 1er juillet 2026."
+      "content": "La présente ordonnance entre en vigueur le 30 décembre 2024, à l'exception des dispositions des 7° et 8° de l'article 2, ainsi que du c du 1° et du a du 2° de l'article 9 qui entrent en vigueur le 1er juillet 2026.",
+      "valid_from": "2024-10-18"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie et le ministre auprès du Premier ministre, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de l'industrie et le ministre auprès du Premier ministre, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2024-10-18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

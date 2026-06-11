@@ -1,0 +1,46 @@
+{
+  "id": "legitext000006070938",
+  "type": "statute",
+  "title": "Loi n° 52-843 du 19 juillet 1952",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070938/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Par un crédit prévisionnel de 10 milliards imputable tant sur les crédits ouverts par la loi n° 51-1486 du 31 décembre 1951 relative au développement des crédits affectés aux dépenses de fonctionnement des services civils pour l'exercice 1952 (anciens combattants et victimes de la guerre) que sur des crédits à ouvrir sur des exercices ultérieurs, il est alloué aux prisonniers de la guerre 1939-1945 ou à leurs ayants cause un pécule de 400 frs par mois de capacité, dont les conditions d'attribution seront fixées par arrêté du ministre des anciens combattants et victimes de la guerre, du ministre des finances et des affaires économiques et du secrétaire d'Etat au budget.",
+      "valid_from": "1952-07-20"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "I - Le delai prévu à l'article 12 du décret n° 51-560 du 5 mai 1951 pour le dépôt des demandes de titre de combattant volontaire de la Résistance est porté à trois ans.II - Les délais impartis par l'article 15 de la loi n° 51-632 du 24 mai 1951 pour le dépôt des demandes de prêts accordés aux anciens combattants volontaires de la Résistance, en application des ordonnances des 5 et 20 octobre et 2 novembre 1945 sont prorogés jusqu'au 1er janvier 1953.",
+      "valid_from": "1952-07-20"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le taux du pécule institué par l'article 5 de la loi 48-1404 du 9 septembre 1948 est fixé :Pour les déportés politiques, à 1 200 frs par mois d'internement ou de déportation ;Pour les internés politique, à 400 francs par mois d'internement.Le pécule sera attribué dans les conditions prévues par la loi n° 48-1404 du 9 septembre 1948 aux déportés et internés politiques justifiant de leur titre par la production de la carte délivrée en application du décret n° 50-325 du 1er mars 1950 et n'ayant perçu ni solde, ni traitement, ni salaire, au titre de la période de déportation ou d'internement.Un décret pris sur le rapport du ministre des anciens combattants et victimes de la guerre et du secrétaire d'Etat au budget fixera les conditions d'application des dispositions ci-dessus.Les dépenses correspondantes seront pour l'exercice 1952, imputées sur le chapitre 6040 : \"pécule alloué aux prisonniers de guerre et à leurs ayants cause\" du budget des anciens combattants et victimes de la guerre.",
+      "valid_from": "1952-07-20"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Les dispositions de l'article 23 de la loi de finances du 9 décembre 1927 portant attribution aux fonctionnaires anciens combattants de la guerre de 1914-1918 de majorations d'ancienneté valables pour l'avancement, complété par les articles 33 et 34 de la loi de finances du 19 mars 1928, sont étendues aux fonctionnaires, agents et ouvriers de l'Etat, fonctionnaires et agents des départements, des communes et des établissements publics départementaux et communaux, ayant participé à la campagne de guerre 1939-1945 contre les puissances de l'Axe, y compris ceux qui étaient officiers d'active en service le 1er septembre 1939 ou depuis cette date, ainsi qu'aux anciens combattants d'Indochine et aux anciens combattants d'une armée alliée naturalisés français par la suite.Les majorations d'ancienneté ainsi octroyées le sont en tout état de cause, même si les services auxquels elles s'appliquent n'ont pas fait l'objet d'un rappel pour l'avancement. La présente disposition en vue a une valeur interprétative.Toutefois, les prisonniers de guerre, titulaires de la médaille des évadés, recevront une majoration d'ancienneté égale à celle attribuée aux plus favorisés des prisonniers de guerre qui ne se sont pas évadés.Le temps passé dans les hôpitaux ou en congé de convalescence à la suite d'une blessure reçue ou d'une maladie contractée en captivité et qui a donné lieu au rapatriement de l'ancien prisonnier et à l'octroi d'une pension militaire d'invalidité d'un taux égal ou supérieur à 40 % ouvre droit à une majoration d'ancienneté de quatre dixièmes.Le bénéfice de cette majoration pourra être accordé au-delà du 8 mai 1945 au titre d'une période effective d'hospitalisation ou de convalescence sans pouvoir dépasser le 1er juin 1946, date de la cessation légale des hostilités.Un décret en Conseil d'Etat, pris sur le rapport des ministres de l'économie et des finances, des anciens combattants et victimes de guerre et des secrétaires d'Etat à la présidence du conseil (fonction publique) et au budget, déterminera les modalités d'application du présent article, compte tenu des circonstances particulières des campagnes visées à l'alinéa ci-dessus.",
+      "valid_from": "1980-07-09"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

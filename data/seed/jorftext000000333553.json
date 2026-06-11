@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "La dénomination de \"corporation\" employée dans le code des assurances sociales du 19 juillet 1911 est remplacée par celle de \"caisse d'assurance accident\"."
+      "content": "La dénomination de \"corporation\" employée dans le code des assurances sociales du 19 juillet 1911 est remplacée par celle de \"caisse d'assurance accident\".",
+      "valid_from": "1945-10-06"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le règlement des accidents survenus depuis la libération sera effectué, suivant les cas, sur les bases prévues aux articles 563 et 939 nouveaux. Il en sera de même pour les accidents non réglés au moment de la libération."
+      "content": "Le règlement des accidents survenus depuis la libération sera effectué, suivant les cas, sur les bases prévues aux articles 563 et 939 nouveaux. Il en sera de même pour les accidents non réglés au moment de la libération.",
+      "valid_from": "1945-10-06"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le montant de la majoration prévue aux articles 560 et 561 du code des assurances sociales est porté de 3000 F à 9000 F."
+      "content": "Le montant de la majoration prévue aux articles 560 et 561 du code des assurances sociales est porté de 3000 F à 9000 F.",
+      "valid_from": "1945-10-06"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La présente ordonnance sera publiée au Journal officiel do la République française et exécutée comme loi,"
+      "content": "La présente ordonnance sera publiée au Journal officiel do la République française et exécutée comme loi,",
+      "valid_from": "1945-10-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

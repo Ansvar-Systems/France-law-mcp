@@ -12,13 +12,21 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. - Sous réserve des mesures adoptées par l'Union européenne dans leurs champs respectifs, les dispositions des articles 1er à 5 entrent en vigueur à la date de retrait du Royaume-Uni de l'Union européenne sans accord fondé sur l'article 50 du traité sur l'Union européenne dans le cadre de la décision notifiée par le Royaume-Uni au Conseil européen le 29 mars 2017. Elles s'appliquent jusqu'au 31 décembre 2019.Par décret, ces dispositions peuvent être maintenues en vigueur jusqu'au 31 décembre 2020, en vue de permettre la conclusion d'accords bilatéraux entre le Royaume-Uni et la France ou entre le Royaume-Uni et l'Union européenne portant sur l'organisation du transport routier de personnes et de marchandises.Elles cessent de s'appliquer, pour le champ concerné, à compter de l'intervention, dans ce champ d'application, de l'un des événements suivants :\n\n- l'entrée en vigueur d'un accord bilatéral entre l'Union européenne et le Royaume-Uni ou entre la France et le Royaume-Uni ;- l'adhésion du Royaume-Uni à un instrument multilatéral régissant le transport routier international régulier et régulier spécial de voyageurs par autocar ou autobus ;- l'entrée en vigueur de mesures unilatérales vis-à-vis du Royaume-Uni prises par l'Union européenne en matière de transport routier à la suite du retrait du Royaume-Uni de l'Union européenne.\n\nII. - (Abrogé)"
+      "content": "I. - Sous réserve des mesures adoptées par l'Union européenne dans leurs champs respectifs, les dispositions des articles 1er à 5 entrent en vigueur à la date de retrait du Royaume-Uni de l'Union européenne sans accord fondé sur l'article 50 du traité sur l'Union européenne dans le cadre de la décision notifiée par le Royaume-Uni au Conseil européen le 29 mars 2017. Elles s'appliquent jusqu'au 31 décembre 2019.Par décret, ces dispositions peuvent être maintenues en vigueur jusqu'au 31 décembre 2020, en vue de permettre la conclusion d'accords bilatéraux entre le Royaume-Uni et la France ou entre le Royaume-Uni et l'Union européenne portant sur l'organisation du transport routier de personnes et de marchandises.Elles cessent de s'appliquer, pour le champ concerné, à compter de l'intervention, dans ce champ d'application, de l'un des événements suivants :\n\n- l'entrée en vigueur d'un accord bilatéral entre l'Union européenne et le Royaume-Uni ou entre la France et le Royaume-Uni ;- l'adhésion du Royaume-Uni à un instrument multilatéral régissant le transport routier international régulier et régulier spécial de voyageurs par autocar ou autobus ;- l'entrée en vigueur de mesures unilatérales vis-à-vis du Royaume-Uni prises par l'Union européenne en matière de transport routier à la suite du retrait du Royaume-Uni de l'Union européenne.\n\nII. - (Abrogé)",
+      "valid_from": "2019-12-27"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le Premier ministre, le ministre d'Etat, ministre de la transition écologique et solidaire, et la ministre auprès du ministre d'Etat, ministre de la transition écologique et solidaire, chargée des transports, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre d'Etat, ministre de la transition écologique et solidaire, et la ministre auprès du ministre d'Etat, ministre de la transition écologique et solidaire, chargée des transports, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2019-02-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

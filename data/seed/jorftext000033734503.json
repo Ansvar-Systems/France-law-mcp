@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Par dérogation à l'article L. 311-6 du code des relations entre le public et l'administration, la Croix-Rouge française peut, dans le cadre de sa mission d'intérêt général de rétablissement des liens familiaux prévue par les protocoles additionnels aux conventions de Genève du 12 août 1949, obtenir auprès des administrations de l'Etat, des collectivités territoriales, de leurs établissements publics administratifs, des organismes de sécurité sociale et des organismes qui assurent la gestion des prestations sociales, sur demande écrite et motivée, communication des informations relatives à la personne recherchée, figurant dans un document administratif ou dans un traitement de données à caractère personnel, dans la mesure où ces informations sont indispensables à la détermination du sort de la personne recherchée sur le territoire national."
+      "content": "Par dérogation à l'article L. 311-6 du code des relations entre le public et l'administration, la Croix-Rouge française peut, dans le cadre de sa mission d'intérêt général de rétablissement des liens familiaux prévue par les protocoles additionnels aux conventions de Genève du 12 août 1949, obtenir auprès des administrations de l'Etat, des collectivités territoriales, de leurs établissements publics administratifs, des organismes de sécurité sociale et des organismes qui assurent la gestion des prestations sociales, sur demande écrite et motivée, communication des informations relatives à la personne recherchée, figurant dans un document administratif ou dans un traitement de données à caractère personnel, dans la mesure où ces informations sont indispensables à la détermination du sort de la personne recherchée sur le territoire national.",
+      "valid_from": "2016-12-31"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La Croix-Rouge française peut, dans le cadre de sa mission d'intérêt général mentionnée à l'article 1er, demander directement aux officiers de l'état civil dépositaires des actes de l'état civil les copies intégrales et extraits de ces actes."
+      "content": "La Croix-Rouge française peut, dans le cadre de sa mission d'intérêt général mentionnée à l'article 1er, demander directement aux officiers de l'état civil dépositaires des actes de l'état civil les copies intégrales et extraits de ces actes.",
+      "valid_from": "2016-12-31"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Par dérogation aux articles L. 37 et L. 330-4 du code électoral, la Croix-Rouge française est habilitée, dans le cadre de sa mission d'intérêt général mentionnée à l'article 1er de la présente loi, à saisir le représentant de l'Etat dans le département ou le ministre des affaires étrangères afin de vérifier si une personne est inscrite ou non sur les listes électorales et, le cas échéant, de prendre communication des données relatives à cette personne."
+      "content": "Par dérogation aux articles L. 37 et L. 330-4 du code électoral, la Croix-Rouge française est habilitée, dans le cadre de sa mission d'intérêt général mentionnée à l'article 1er de la présente loi, à saisir le représentant de l'Etat dans le département ou le ministre des affaires étrangères afin de vérifier si une personne est inscrite ou non sur les listes électorales et, le cas échéant, de prendre communication des données relatives à cette personne.",
+      "valid_from": "2019-12-31"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Tant que la personne recherchée n'a pas été retrouvée, la Croix-Rouge française ne transmet à des tiers aucune information la concernant. Si la personne a été retrouvée par la Croix-Rouge française, aucune information la concernant ne peut être transmise à des tiers sans son consentement écrit. Si la personne est décédée, la Croix-Rouge française informe les tiers qui lui en font la demande du décès et, le cas échéant, du lieu de sépulture de la personne."
+      "content": "Tant que la personne recherchée n'a pas été retrouvée, la Croix-Rouge française ne transmet à des tiers aucune information la concernant. Si la personne a été retrouvée par la Croix-Rouge française, aucune information la concernant ne peut être transmise à des tiers sans son consentement écrit. Si la personne est décédée, la Croix-Rouge française informe les tiers qui lui en font la demande du décès et, le cas échéant, du lieu de sépulture de la personne.",
+      "valid_from": "2016-12-31"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les articles 1er à 4 sont applicables dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.Dans les conditions fixées à l'article 1er, la Croix-Rouge française peut exercer son droit de communication auprès des administrations de la Nouvelle-Calédonie, des circonscriptions territoriales des îles Wallis et Futuna et des Terres australes et antarctiques françaises.Pour l'application de l'article 3 dans les collectivités d'outre-mer et en Nouvelle-Calédonie, la référence au département est remplacée par la référence à la collectivité."
+      "content": "Les articles 1er à 4 sont applicables dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.Dans les conditions fixées à l'article 1er, la Croix-Rouge française peut exercer son droit de communication auprès des administrations de la Nouvelle-Calédonie, des circonscriptions territoriales des îles Wallis et Futuna et des Terres australes et antarctiques françaises.Pour l'application de l'article 3 dans les collectivités d'outre-mer et en Nouvelle-Calédonie, la référence au département est remplacée par la référence à la collectivité.",
+      "valid_from": "2016-12-31"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "I.-A modifié les dispositions suivantes :\n\n-Code des relations entre le public et l'administration\n\nII.-A modifié les dispositions suivantes :\n\nLoi n° 2016-1919 du 29 décembre 2016\n\nArt. 3\n\nIII.-Le II du présent article entre en vigueur le même jour que l'article 7 de la loi n° 2016-1048 du 1er août 2016 rénovant les modalités d'inscription sur les listes électorales.\n\nArt. L342-2, Art. L552-8, Art. L562-8, Art. L574-1"
+      "content": "I.-A modifié les dispositions suivantes :\n\n-Code des relations entre le public et l'administration\n\nII.-A modifié les dispositions suivantes :\n\nLoi n° 2016-1919 du 29 décembre 2016\n\nArt. 3\n\nIII.-Le II du présent article entre en vigueur le même jour que l'article 7 de la loi n° 2016-1048 du 1er août 2016 rénovant les modalités d'inscription sur les listes électorales.\n\nArt. L342-2, Art. L552-8, Art. L562-8, Art. L574-1",
+      "valid_from": "2016-12-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

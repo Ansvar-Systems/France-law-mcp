@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les conseillers généraux des établissements de santé nommés avant la date d'entrée en vigueur de la présente ordonnance demeurent régis par les dispositions antérieures de l'article L. 6141-7-2 du code de la santé publique, dans la limite de la durée totale de fonctions fixée par le statut d'emploi prévu audit article. Ils peuvent en outre, dans la même limite, exercer des fonctions d'administrateur provisoire dans les conditions prévues à l'article L. 6143-3-1 du même code dans sa rédaction antérieure à l'entrée en vigueur de la présente ordonnance."
+      "content": "Les conseillers généraux des établissements de santé nommés avant la date d'entrée en vigueur de la présente ordonnance demeurent régis par les dispositions antérieures de l'article L. 6141-7-2 du code de la santé publique, dans la limite de la durée totale de fonctions fixée par le statut d'emploi prévu audit article. Ils peuvent en outre, dans la même limite, exercer des fonctions d'administrateur provisoire dans les conditions prévues à l'article L. 6143-3-1 du même code dans sa rédaction antérieure à l'entrée en vigueur de la présente ordonnance.",
+      "valid_from": "2017-01-21"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre et la ministre des affaires sociales et de la santé sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre des affaires sociales et de la santé sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-01-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

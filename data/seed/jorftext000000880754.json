@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les articles L. 648 et 649 du code de la santé publique sont abrogés. En conséquence, les mots \"anticonceptionnels\" et \"propagande anticonceptionnelle\" sont supprimés de l'intitulé du chapitre V du titre III du livre V du code de la santé publique (première partie)."
+      "content": "Les articles L. 648 et 649 du code de la santé publique sont abrogés. En conséquence, les mots \"anticonceptionnels\" et \"propagande anticonceptionnelle\" sont supprimés de l'intitulé du chapitre V du titre III du livre V du code de la santé publique (première partie).",
+      "valid_from": "1967-12-29"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Un décret en Conseil d'Etat détermine les conditions de fonctionnement des établissements d'information, de consultation ou de conseil familial.Le président du conseil général agrée les centres de planification ou d'éducation familiale, à l'exception des centres de planification relevant d'une collectivité publique. Dans ce cas, la création ou l'extension de ces centres est décidée par la collectivité concernée, après avis du président du conseil général.Les conditions de fonctionnement et de contrôle de tous centres de planification ou d'éducation familiale ainsi que les conditions d'agrément des centres de planification ou d'éducation familiale ne relevant pas d'une collectivité publique sont définies par décret en Conseil d'Etat.Les établissements et centres mentionnés aux alinéas précédents ne doivent poursuivre aucun but lucratif.Les centres de planification ou d'éducation familiale sont autorisés à délivrer, à titre gratuit, des médicaments, produits ou objets contraceptifs sur prescription médicale, aux mineurs désirant garder le secret ainsi qu'aux personnes ne bénéficiant pas de prestations maladie, assurées par un régime légal ou réglementaire. Dans ces cas, les frais d'analyses et d'examens de laboratoire ordonnés en vue de prescriptions contraceptives sont supportés par les centres de planification ou d'éducation familiale. Un décret précisera les modalités d'application de la présente disposition.Les pouvoirs publics reconnaissent et soutiennent la mission des associations familiales et des autres mouvements qualifiés pour la préparation lointaine et proche des jeunes au mariage et à la vie adulte, ainsi que pour l'information objective des adultes aux divers problèmes de la vie du couple, de la famille et de l'éducation des jeunes."
+      "content": "Un décret en Conseil d'Etat détermine les conditions de fonctionnement des établissements d'information, de consultation ou de conseil familial.Le président du conseil général agrée les centres de planification ou d'éducation familiale, à l'exception des centres de planification relevant d'une collectivité publique. Dans ce cas, la création ou l'extension de ces centres est décidée par la collectivité concernée, après avis du président du conseil général.Les conditions de fonctionnement et de contrôle de tous centres de planification ou d'éducation familiale ainsi que les conditions d'agrément des centres de planification ou d'éducation familiale ne relevant pas d'une collectivité publique sont définies par décret en Conseil d'Etat.Les établissements et centres mentionnés aux alinéas précédents ne doivent poursuivre aucun but lucratif.Les centres de planification ou d'éducation familiale sont autorisés à délivrer, à titre gratuit, des médicaments, produits ou objets contraceptifs sur prescription médicale, aux mineurs désirant garder le secret ainsi qu'aux personnes ne bénéficiant pas de prestations maladie, assurées par un régime légal ou réglementaire. Dans ces cas, les frais d'analyses et d'examens de laboratoire ordonnés en vue de prescriptions contraceptives sont supportés par les centres de planification ou d'éducation familiale. Un décret précisera les modalités d'application de la présente disposition.Les pouvoirs publics reconnaissent et soutiennent la mission des associations familiales et des autres mouvements qualifiés pour la préparation lointaine et proche des jeunes au mariage et à la vie adulte, ainsi que pour l'information objective des adultes aux divers problèmes de la vie du couple, de la famille et de l'éducation des jeunes.",
+      "valid_from": "1992-01-04"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Pour les départements d'outre-mer, un décret en Conseil d'Etat fixe des conditions particulières de délivrance des contraceptifs et de fonctionnement des centres de planification et d'éducation familiale."
+      "content": "Pour les départements d'outre-mer, un décret en Conseil d'Etat fixe des conditions particulières de délivrance des contraceptifs et de fonctionnement des centres de planification et d'éducation familiale.",
+      "valid_from": "1980-07-09"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les règlements d'administration publique doivent être publiés au plus tard dans les six mois qui suivent la promulgation de la présente loi."
+      "content": "Les règlements d'administration publique doivent être publiés au plus tard dans les six mois qui suivent la promulgation de la présente loi.",
+      "valid_from": "1967-12-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -1,10 +1,10 @@
 {
   "id": "jorftext000000333121",
   "type": "statute",
-  "title": "Ordonnance n°91-245 du 25 février 1991",
+  "title": "Ordonnance n° 91-245 du 25 février 1991",
   "title_en": null,
   "short_name": null,
-  "status": "repealed",
+  "status": "in_force",
   "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000333121",
   "description": null,
   "provisions": [
@@ -12,175 +12,210 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les articles 1er à 476 du code pénal applicables en métropole au 21 septembre 1990 remplacent, à Mayotte, les dispositions du code pénal qui y sont en vigueur, sous réserve des dispositions des articles 2 à 18 ci-après."
+      "content": "Les articles 1er à 476 du code pénal applicables en métropole au 21 septembre 1990 remplacent, à Mayotte, les dispositions du code pénal qui y sont en vigueur, sous réserve des dispositions des articles 2 à 18 ci-après.",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Pour l'application du 3° de l'article 43-3 du code pénal, les mots : \"les dispositions de l'article L. 25-5 du code de la route\" sont remplacés par les mots : \"les dispositions en vigueur localement concernant l'affectation du produit de la vente des véhicules abandonnés en fourrière\"."
+      "content": "Pour l'application du 3° de l'article 43-3 du code pénal, les mots : \"les dispositions de l'article L. 25-5 du code de la route\" sont remplacés par les mots : \"les dispositions en vigueur localement concernant l'affectation du produit de la vente des véhicules abandonnés en fourrière\".",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Pour l'application de l'article 43-3-2 du code pénal, la référence au code du travail est remplacée par la référence à la législation du travail en vigueur localement."
+      "content": "Pour l'application de l'article 43-3-2 du code pénal, la référence au code du travail est remplacée par la référence à la législation du travail en vigueur localement.",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Pour l'application de l'article 44-2 du code pénal, les mots :\"après avis du préfet\" sont remplacés par les mots : \"après avis du représentant du Gouvernement\"."
+      "content": "Pour l'application de l'article 44-2 du code pénal, les mots :\"après avis du préfet\" sont remplacés par les mots : \"après avis du représentant du Gouvernement\".",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Pour l'application des articles 46 et 47 du code pénal, toutes les mesures, à l'exception des mesures d'assistance dont le condamné peut faire l'objet à Mayotte, sont fixées par le représentant du Gouvernement, en ce qui concerne les condamnations prononcées dans la collectivité départementale. Il est donné communication de la décision au ministre de l'intérieur qui, s'il y a lieu, exerce pour le reste du territoire de la République les pouvoirs qu'il tient des articles 46 et 47 précités."
+      "content": "Pour l'application des articles 46 et 47 du code pénal, toutes les mesures, à l'exception des mesures d'assistance dont le condamné peut faire l'objet à Mayotte, sont fixées par le représentant du Gouvernement, en ce qui concerne les condamnations prononcées dans la collectivité départementale. Il est donné communication de la décision au ministre de l'intérieur qui, s'il y a lieu, exerce pour le reste du territoire de la République les pouvoirs qu'il tient des articles 46 et 47 précités.",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Pour l'application de l'article 104 du code pénal, les mots : \" le préfet ou le sous-préfet \" sont remplacés par les mots :\" le représentant du Gouvernement \"."
+      "content": "Pour l'application de l'article 104 du code pénal, les mots : \" le préfet ou le sous-préfet \" sont remplacés par les mots :\" le représentant du Gouvernement \".",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Pour l'application de l'article 130 du code pénal, les mots :\" les préfets, sous-préfets, maires \" sont remplacés par les mots :\" le représentant du Gouvernement, les maires \"."
+      "content": "Pour l'application de l'article 130 du code pénal, les mots :\" les préfets, sous-préfets, maires \" sont remplacés par les mots :\" le représentant du Gouvernement, les maires \".",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Pour l'application du 1° de l'article 144 du code pénal, les mots : \" la collectivité territoriale de Mayotte, \" sont insérés entre les mots : \" par l'Etat, \" et les mots : \" les départements \"."
+      "content": "Pour l'application du 1° de l'article 144 du code pénal, les mots : \" la collectivité territoriale de Mayotte, \" sont insérés entre les mots : \" par l'Etat, \" et les mots : \" les départements \".",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Pour l'application de l'article 176 du code pénal, les mots :\" , tout préfet ou sous-préfet, \" sont remplacés par les mots :\" ou tout représentant du Gouvernement \"."
+      "content": "Pour l'application de l'article 176 du code pénal, les mots :\" , tout préfet ou sous-préfet, \" sont remplacés par les mots :\" ou tout représentant du Gouvernement \".",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "I. - L'article L. 322-9 du code forestier est applicable à Mayotte.II. - L'article 320-1 du code pénal y est applicable dans la rédaction suivante :\" Lorsque les infractions d'incendie involontaire prévues par la deuxième partie (décrets en Conseil d'Etat) du présent code ou par l'article L. 322-9 du code forestier auront provoqué la mort ou les blessures d'une ou de plusieurs personnes, il sera fait application des peines prévues pour l'homicide ou les blessures par imprudence. \""
+      "content": "I. - L'article L. 322-9 du code forestier est applicable à Mayotte.II. - L'article 320-1 du code pénal y est applicable dans la rédaction suivante :\" Lorsque les infractions d'incendie involontaire prévues par la deuxième partie (décrets en Conseil d'Etat) du présent code ou par l'article L. 322-9 du code forestier auront provoqué la mort ou les blessures d'une ou de plusieurs personnes, il sera fait application des peines prévues pour l'homicide ou les blessures par imprudence. \"",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Pour l'application de l'article 334-2 du code pénal, les dispositions de l'article L. 55 du code des débits de boissons sont étendues à Mayotte."
+      "content": "Pour l'application de l'article 334-2 du code pénal, les dispositions de l'article L. 55 du code des débits de boissons sont étendues à Mayotte.",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Pour l'application du deuxième alinéa de l'article 335-1 bis du code pénal, les attributions dévolues à l'avocat peuvent être exercées par une personne agréée dans les conditions fixées par l'article 19 (3°) de l'ordonnance n° 81-295 du 1er avril 1981 relative à la promulgation des lois et décrets et à l'organisation de la justice à Mayotte."
+      "content": "Pour l'application du deuxième alinéa de l'article 335-1 bis du code pénal, les attributions dévolues à l'avocat peuvent être exercées par une personne agréée dans les conditions fixées par l'article 19 (3°) de l'ordonnance n° 81-295 du 1er avril 1981 relative à la promulgation des lois et décrets et à l'organisation de la justice à Mayotte.",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Pour l'application de l'article 335-1 ter du code pénal, la référence au \" tribunal de grande instance \" est remplacée par la référence au \" tribunal de première instance \"."
+      "content": "Pour l'application de l'article 335-1 ter du code pénal, la référence au \" tribunal de grande instance \" est remplacée par la référence au \" tribunal de première instance \".",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Pour l'application de l'article 335-2 du code pénal, le mot :\" préfet \" est remplacé par les mots : \" représentant du Gouvernement \"."
+      "content": "Pour l'application de l'article 335-2 du code pénal, le mot :\" préfet \" est remplacé par les mots : \" représentant du Gouvernement \".",
+      "valid_from": "1991-03-06"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Pour l'application de l'antépénultième et de l'avant-dernier alinéa de l'article 416 du code pénal, la référence à \" l'article L. 123-1 du code du travail \" est remplacée par la référence aux \" dispositions de la législation du travail en vigueur localement en matière d'égalité professionnelle entre les femmes et les hommes \", la référence aux \" articles L. 323-1 à L. 323-8-8 du code du travail \" est remplacée par la référence aux \" dispositions de la législation du travail en vigueur localement concernant l'obligation d'emploi des travailleurs handicapés, des mutilés de guerre et assimilés \" et la référence au \" titre IV du livre II du code du travail \" est remplacée par la référence aux \" dispositions relatives à la médecine du travail \"."
+      "content": "Pour l'application de l'antépénultième et de l'avant-dernier alinéa de l'article 416 du code pénal, la référence à \" l'article L. 123-1 du code du travail \" est remplacée par la référence aux \" dispositions de la législation du travail en vigueur localement en matière d'égalité professionnelle entre les femmes et les hommes \", la référence aux \" articles L. 323-1 à L. 323-8-8 du code du travail \" est remplacée par la référence aux \" dispositions de la législation du travail en vigueur localement concernant l'obligation d'emploi des travailleurs handicapés, des mutilés de guerre et assimilés \" et la référence au \" titre IV du livre II du code du travail \" est remplacée par la référence aux \" dispositions relatives à la médecine du travail \".",
+      "valid_from": "1991-03-06"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "Pour l'application de l'article 423-4 du code pénal le dernier alinéa est ainsi rédigé :\" Les dispositions du présent article sont applicables aux marques ou labels déposés par les syndicats dans les conditions prévues par la législation du travail en vigueur localement. \""
+      "content": "Pour l'application de l'article 423-4 du code pénal le dernier alinéa est ainsi rédigé :\" Les dispositions du présent article sont applicables aux marques ou labels déposés par les syndicats dans les conditions prévues par la législation du travail en vigueur localement. \"",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Pour l'application du 1° de l'article 434 du code pénal, les mots : \" d'un juré ou d'un avocat \" sont remplacés par les mots :\" d'un juré, d'un avocat ou d'une personne agréée dans les conditions prévues par l'article 19 (3°) de l'ordonnance n° 81-295 du 1er avril 1981 relative à la promulgation des lois et décrets et à l'organisation de la justice à Mayotte \"."
+      "content": "Pour l'application du 1° de l'article 434 du code pénal, les mots : \" d'un juré ou d'un avocat \" sont remplacés par les mots :\" d'un juré, d'un avocat ou d'une personne agréée dans les conditions prévues par l'article 19 (3°) de l'ordonnance n° 81-295 du 1er avril 1981 relative à la promulgation des lois et décrets et à l'organisation de la justice à Mayotte \".",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Le dernier alinéa de l'article 44, l'article 463-1 et l'article 463-2 du code pénal ne sont pas applicables à Mayotte."
+      "content": "Le dernier alinéa de l'article 44, l'article 463-1 et l'article 463-2 du code pénal ne sont pas applicables à Mayotte.",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Pour l'application de l'article 747-4 du code de procédure pénale, la référence au \" code du travail \" est remplacée par la référence à la \" législation du travail en vigueur localement \"."
+      "content": "Pour l'application de l'article 747-4 du code de procédure pénale, la référence au \" code du travail \" est remplacée par la référence à la \" législation du travail en vigueur localement \".",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Dans les articles 45, 55, 109, 381, 521, 524, 546, 734-1 et 768 du code de procédure pénale en vigueur à Mayotte, les mentions \" 600 F \", \" 1 200 F \", \" 3 000 F \", \" 6 000 F \" et \" 8 000 F \" sont remplacées respectivement par les mentions \" 1 300 F \", \" 3 000 F \", \" 6 000 F \", \" 12 000 F \" et \" 15 000 F \" ; dans l'article 55 précité, la mention \" 375 F \" est remplacée par la mention \" 6 000 F \". Dans l'article 781 du même code, les mentions \" 1 200 F \" et \" 6 000 F \" sont remplacées respectivement par les mentions \" 6 000 F \" et \" 12 000 F \"."
+      "content": "Dans les articles 45, 55, 109, 381, 521, 524, 546, 734-1 et 768 du code de procédure pénale en vigueur à Mayotte, les mentions \" 600 F \", \" 1 200 F \", \" 3 000 F \", \" 6 000 F \" et \" 8 000 F \" sont remplacées respectivement par les mentions \" 1 300 F \", \" 3 000 F \", \" 6 000 F \", \" 12 000 F \" et \" 15 000 F \" ; dans l'article 55 précité, la mention \" 375 F \" est remplacée par la mention \" 6 000 F \". Dans l'article 781 du même code, les mentions \" 1 200 F \" et \" 6 000 F \" sont remplacées respectivement par les mentions \" 6 000 F \" et \" 12 000 F \".",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "I. - Les dispositions du chapitre III du titre II du livre Ier du code de procédure pénale en vigueur en métropole au 21 septembre 1990 sont applicables à Mayotte.II. - Les alinéas 2 à 4 de l'article 61 du code de procédure pénale en vigueur à Mayotte sont abrogés."
+      "content": "I. - Les dispositions du chapitre III du titre II du livre Ier du code de procédure pénale en vigueur en métropole au 21 septembre 1990 sont applicables à Mayotte.II. - Les alinéas 2 à 4 de l'article 61 du code de procédure pénale en vigueur à Mayotte sont abrogés.",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Les dispositions des articles 749 à 752, 754 et 756 du code de procédure pénale applicables en métropole au 21 septembre 1990 remplacent à Mayotte celles des articles 749 à 752, 754 et 756 qui y sont en vigueur. Toutefois, pour l'application de l'article 756, la référence au \" tribunal de grande instance \" est remplacée par la référence au \" tribunal de première instance \"."
+      "content": "Les dispositions des articles 749 à 752, 754 et 756 du code de procédure pénale applicables en métropole au 21 septembre 1990 remplacent à Mayotte celles des articles 749 à 752, 754 et 756 qui y sont en vigueur. Toutefois, pour l'application de l'article 756, la référence au \" tribunal de grande instance \" est remplacée par la référence au \" tribunal de première instance \".",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Dans les articles 14 et 20-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante, les mentions \" 8 000 F \" et \" 1 200 F \" sont respectivement remplacées par les mentions \" 15 000 F \" et \" 3 000 F \"."
+      "content": "Dans les articles 14 et 20-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante, les mentions \" 8 000 F \" et \" 1 200 F \" sont respectivement remplacées par les mentions \" 15 000 F \" et \" 3 000 F \".",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "Les codes autres que le code pénal et le code de procédure pénale, les lois et les règlements en vigueur à Mayotte, qui, en répression d'une infraction, édictent une peine d'emprisonnement n'excédant pas deux mois assortie ou non d'une amende n'excédant pas 6 000 F sont modifiés ainsi qu'il suit :\" 1° Lorsque la peine d'emprisonnement encourue n'excède pas cinq jours, l'emprisonnement est désormais de cinq jours au plus et le taux de l'amende de 1 300 F à 3 000 F ; l'infraction est une contravention de la 4e classe ;\" 2° Dans le cas contraire, l'emprisonnement est désormais d'un mois au plus et le taux de l'amende de 3 000 F à 6 000 F ; l'infraction est une contravention de la 5e classe.\" Lorsque la récidive est punissable, l'emprisonnement est de dix jours au plus pour les contraventions de la 4e classe ; dans le même cas, l'emprisonnement est d'un à deux mois et le taux de l'amende de 6 000 F à 12 000 F pour les contraventions de la 5e classe. \""
+      "content": "Les codes autres que le code pénal et le code de procédure pénale, les lois et les règlements en vigueur à Mayotte, qui, en répression d'une infraction, édictent une peine d'emprisonnement n'excédant pas deux mois assortie ou non d'une amende n'excédant pas 6 000 F sont modifiés ainsi qu'il suit :\" 1° Lorsque la peine d'emprisonnement encourue n'excède pas cinq jours, l'emprisonnement est désormais de cinq jours au plus et le taux de l'amende de 1 300 F à 3 000 F ; l'infraction est une contravention de la 4e classe ;\" 2° Dans le cas contraire, l'emprisonnement est désormais d'un mois au plus et le taux de l'amende de 3 000 F à 6 000 F ; l'infraction est une contravention de la 5e classe.\" Lorsque la récidive est punissable, l'emprisonnement est de dix jours au plus pour les contraventions de la 4e classe ; dans le même cas, l'emprisonnement est d'un à deux mois et le taux de l'amende de 6 000 F à 12 000 F pour les contraventions de la 5e classe. \"",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Les codes autres que le code pénal et le code de procédure pénale, les lois et les règlements en vigueur à Mayotte, qui, en répression d'une infraction, n'édictent, à titre de peine principale, qu'une amende n'excédant pas 6 000 F sont modifiés ainsi qu'il suit :\" 1° Pour les infractions punies d'une amende dont le taux maximum n'excède pas 18 F, le taux de l'amende est désormais de 30 F à 250 F ; l'infraction est une contravention de la 1re classe ;\" 2° Pour les infractions punies d'une amende dont le taux maximum, supérieur à 18 F, n'excède pas 36 F, le taux de l'amende est désormais de 250 F à 600 F ; l'infraction est une contravention de la 2e classe ;\" 3° Pour les infractions punies d'une amende dont le taux maximum, supérieur à 36 F, n'excède pas 54 F, le taux de l'amende est désormais de 600 F à 1 300 F ; l'infraction est une contravention de la 3e classe ;\" 4° Pour les infractions punies d'une amende dont le taux maximum, supérieur à 54 F, n'excède pas 360 F, le taux de l'amende est désormais de 1 300 F à 3 000 F ; l'infraction est une contravention de la 4e classe ;\" 5° Pour les infractions punies d'une amende dont le taux maximum, supérieur à 360 F, n'excède pas 6 000 F, le taux de l'amende est désormais de 3 000 F à 6 000 F ; l'infraction est une contravention de la 5e classe.\" Lorsque la récidive est punissable, le taux de l'amende est de 6 000 F à 12 000 F pour les contraventions de la 5e classe. \""
+      "content": "Les codes autres que le code pénal et le code de procédure pénale, les lois et les règlements en vigueur à Mayotte, qui, en répression d'une infraction, n'édictent, à titre de peine principale, qu'une amende n'excédant pas 6 000 F sont modifiés ainsi qu'il suit :\" 1° Pour les infractions punies d'une amende dont le taux maximum n'excède pas 18 F, le taux de l'amende est désormais de 30 F à 250 F ; l'infraction est une contravention de la 1re classe ;\" 2° Pour les infractions punies d'une amende dont le taux maximum, supérieur à 18 F, n'excède pas 36 F, le taux de l'amende est désormais de 250 F à 600 F ; l'infraction est une contravention de la 2e classe ;\" 3° Pour les infractions punies d'une amende dont le taux maximum, supérieur à 36 F, n'excède pas 54 F, le taux de l'amende est désormais de 600 F à 1 300 F ; l'infraction est une contravention de la 3e classe ;\" 4° Pour les infractions punies d'une amende dont le taux maximum, supérieur à 54 F, n'excède pas 360 F, le taux de l'amende est désormais de 1 300 F à 3 000 F ; l'infraction est une contravention de la 4e classe ;\" 5° Pour les infractions punies d'une amende dont le taux maximum, supérieur à 360 F, n'excède pas 6 000 F, le taux de l'amende est désormais de 3 000 F à 6 000 F ; l'infraction est une contravention de la 5e classe.\" Lorsque la récidive est punissable, le taux de l'amende est de 6 000 F à 12 000 F pour les contraventions de la 5e classe. \"",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "Lorsque les dispositions législatives autres que le code pénal, le code de procédure pénale ou l'ordonnance n° 45-174 du 2 février 1945 précitée, en vigueur à Mayotte, fixent, en répression d'une infraction, le maximum de l'amende encourue à un montant supérieur à 6 000 F, mais inférieur à 15 000 F, ce maximum est porté à 15 000 F."
+      "content": "Lorsque les dispositions législatives autres que le code pénal, le code de procédure pénale ou l'ordonnance n° 45-174 du 2 février 1945 précitée, en vigueur à Mayotte, fixent, en répression d'une infraction, le maximum de l'amende encourue à un montant supérieur à 6 000 F, mais inférieur à 15 000 F, ce maximum est porté à 15 000 F.",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Dans toutes les dispositions législatives applicables à Mayotte, les mots énumérés ci-dessous sont respectivement remplacés par les mots suivants :- \" les travaux forcés à perpétuité \" par \" la réclusion criminelle à perpétuité \" ;- \" des travaux forcés à perpétuité \" par \" de la réclusion criminelle à perpétuité \" ;- \" aux travaux forcés à perpétuité \" par \" à la réclusion criminelle à perpétuité \" ;- \" la déportation dans une enceinte fortifiée \" par \" la détention criminelle à perpétuité \" ;- \" la déportation \" par \" la détention criminelle à perpétuité \" ;- \" les travaux forcés à temps \" par \" la réclusion criminelle à temps de dix à vingt ans \" ;- \" des travaux forcés à temps \" par \" de la réclusion criminelle à temps de dix à vingt ans \" ;- \" aux travaux forcés à temps \" par \" à la réclusion criminelle à temps de dix à vingt ans \" ;- \" détention \" par \" détention criminelle à temps de dix à vingt ans \" ;- \" réclusion \" par \" réclusion criminelle à temps de cinq à dix ans \"."
+      "content": "Dans toutes les dispositions législatives applicables à Mayotte, les mots énumérés ci-dessous sont respectivement remplacés par les mots suivants :- \" les travaux forcés à perpétuité \" par \" la réclusion criminelle à perpétuité \" ;- \" des travaux forcés à perpétuité \" par \" de la réclusion criminelle à perpétuité \" ;- \" aux travaux forcés à perpétuité \" par \" à la réclusion criminelle à perpétuité \" ;- \" la déportation dans une enceinte fortifiée \" par \" la détention criminelle à perpétuité \" ;- \" la déportation \" par \" la détention criminelle à perpétuité \" ;- \" les travaux forcés à temps \" par \" la réclusion criminelle à temps de dix à vingt ans \" ;- \" des travaux forcés à temps \" par \" de la réclusion criminelle à temps de dix à vingt ans \" ;- \" aux travaux forcés à temps \" par \" à la réclusion criminelle à temps de dix à vingt ans \" ;- \" détention \" par \" détention criminelle à temps de dix à vingt ans \" ;- \" réclusion \" par \" réclusion criminelle à temps de cinq à dix ans \".",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "Sont abrogées toutes les dispositions contraires à la présente ordonnance."
+      "content": "Sont abrogées toutes les dispositions contraires à la présente ordonnance.",
+      "valid_from": "2001-07-13"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'économie, des finances et du budget, le garde des sceaux, ministre de la justice, le ministre de l'intérieur, le ministre de l'agriculture et de la forêt, le ministre du travail, de l'emploi et de la formation professionnelle, le ministre des départements et territoires d'outre-mer, porte-parole du Gouvernement, et le ministre délégué auprès du garde des sceaux, ministre de la justice, sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre d'Etat, ministre de l'économie, des finances et du budget, le garde des sceaux, ministre de la justice, le ministre de l'intérieur, le ministre de l'agriculture et de la forêt, le ministre du travail, de l'emploi et de la formation professionnelle, le ministre des départements et territoires d'outre-mer, porte-parole du Gouvernement, et le ministre délégué auprès du garde des sceaux, ministre de la justice, sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2001-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

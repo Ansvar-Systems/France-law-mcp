@@ -12,19 +12,28 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les articles 1er et 2 ne s'appliquent pas aux projets de travaux, d'aménagements ou d'ouvrages pour lesquels la décision d'ouvrir l'enquête publique a été prise antérieurement à la date de publication de la présente ordonnance."
+      "content": "Les articles 1er et 2 ne s'appliquent pas aux projets de travaux, d'aménagements ou d'ouvrages pour lesquels la décision d'ouvrir l'enquête publique a été prise antérieurement à la date de publication de la présente ordonnance.",
+      "valid_from": "2003-09-21"
     },
     {
       "provision_ref": "art3-1",
       "section": "3-1",
       "title": "Article 3-1",
-      "content": "Sous réserve des décisions de justice passées en force de chose jugée, les décisions administratives relatives à la réalisation de projets de travaux d'aménagements et d'ouvrages pour lesquels une enquête publique a été ouverte après le 27 février 2003 et avant le 21 septembre 2003 sont validées en tant que leur légalité serait contestée sur le fondement de la méconnaissance des dispositions de la loi n° 52-1265 du 29 novembre 1952 sur les travaux mixtes, de ses décrets d'application, des articles L. 1331-1 à L. 1331-3 du code général des collectivités territoriales ou de l'article 136 de la loi n° 2002-276 du 27 février 2002 relative à la démocratie de proximité."
+      "content": "Sous réserve des décisions de justice passées en force de chose jugée, les décisions administratives relatives à la réalisation de projets de travaux d'aménagements et d'ouvrages pour lesquels une enquête publique a été ouverte après le 27 février 2003 et avant le 21 septembre 2003 sont validées en tant que leur légalité serait contestée sur le fondement de la méconnaissance des dispositions de la loi n° 52-1265 du 29 novembre 1952 sur les travaux mixtes, de ses décrets d'application, des articles L. 1331-1 à L. 1331-3 du code général des collectivités territoriales ou de l'article 136 de la loi n° 2002-276 du 27 février 2002 relative à la démocratie de proximité.",
+      "valid_from": "2004-12-10"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, le ministre de l'intérieur, de la sécurité intérieure et des libertés locales, le ministre de l'équipement, des transports, du logement, du tourisme et de la mer, la ministre de l'écologie et du développement durable, le ministre de la fonction publique, de la réforme de l'Etat et de l'aménagement du territoire et le secrétaire d'Etat à la réforme de l'Etat sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'intérieur, de la sécurité intérieure et des libertés locales, le ministre de l'équipement, des transports, du logement, du tourisme et de la mer, la ministre de l'écologie et du développement durable, le ministre de la fonction publique, de la réforme de l'Etat et de l'aménagement du territoire et le secrétaire d'Etat à la réforme de l'Etat sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2003-09-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

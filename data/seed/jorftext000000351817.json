@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est autorisée l'approbation de la convention sur le contrôle des mouvements transfrontières de déchets dangereux et de leur élimination (ensemble six annexes), faite à Bâle le 22 mars 1989 et dont le texte est annexé à la présente loi (2).Nota :(2) Il sera publié ultérieurement au Journal officiel de la République française."
+      "content": "Est autorisée l'approbation de la convention sur le contrôle des mouvements transfrontières de déchets dangereux et de leur élimination (ensemble six annexes), faite à Bâle le 22 mars 1989 et dont le texte est annexé à la présente loi (2).Nota :(2) Il sera publié ultérieurement au Journal officiel de la République française.",
+      "valid_from": "1990-12-07"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

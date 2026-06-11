@@ -12,25 +12,35 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "A modifié les dispositions suivantes :"
+      "content": "A modifié les dispositions suivantes :",
+      "valid_from": "2017-03-04"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "A créé les dispositions suivantes :A créé les dispositions suivantes :A modifié les dispositions suivantes :"
+      "content": "A créé les dispositions suivantes :A créé les dispositions suivantes :A modifié les dispositions suivantes :",
+      "valid_from": "2017-03-04"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "La présente ordonnance entre en vigueur à la date d'entrée en vigueur du décret portant dispositions relatives à l'outre-mer du code de la consommation et au plus tard le 1er juillet 2017."
+      "content": "La présente ordonnance entre en vigueur à la date d'entrée en vigueur du décret portant dispositions relatives à l'outre-mer du code de la consommation et au plus tard le 1er juillet 2017.",
+      "valid_from": "2017-07-01"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Le Premier ministre, le ministre de l'économie et des finances et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie et des finances et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2017-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

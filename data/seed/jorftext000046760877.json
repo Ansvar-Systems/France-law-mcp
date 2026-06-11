@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I.-A créé les dispositions suivantes :\n\n- Code du travail\n\nII. - Le neuvième alinéa de l'article L. 6323-9-1 du code du travail s'applique aux prestataires déjà référencés sur le service dématérialisé mentionné au I de l'article L. 6323-8 du code du travail à la date de publication de la présente loi."
+      "content": "I.-A créé les dispositions suivantes :\n\n- Code du travail\n\nII. - Le neuvième alinéa de l'article L. 6323-9-1 du code du travail s'applique aux prestataires déjà référencés sur le service dématérialisé mentionné au I de l'article L. 6323-8 du code du travail à la date de publication de la présente loi.",
+      "valid_from": "2022-12-21"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "A créé les dispositions suivantes :\n\n- Code du travail\n\nLa présente loi sera exécutée comme loi de l'Etat."
+      "content": "A créé les dispositions suivantes :\n\n- Code du travail\n\nLa présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2022-12-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

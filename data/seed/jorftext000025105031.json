@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le code de l'environnement (partie législative) est modifié conformément aux dispositions des articles 2 à 10 de la présente ordonnance."
+      "content": "Le code de l'environnement (partie législative) est modifié conformément aux dispositions des articles 2 à 10 de la présente ordonnance.",
+      "valid_from": "2012-01-07"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Les dispositions des articles L. 332-2-1 et L. 332-2-2 du code de l'environnement entrent en vigueur en même temps que le décret, prévu par l'article L. 332-2-3 du même code, pris pour leur application et au plus tard le 31 décembre 2012.Elles ne sont pas applicables à la procédure de création des réserves pour lesquelles la consultation des collectivités intéressées a été engagée avant la date d'entrée en vigueur desdites dispositions, qui reste régie par l'article L. 332-2 du code de l'environnement et les dispositions réglementaires prises pour son application dans leur rédaction en vigueur avant la date prévue au premier alinéa."
+      "content": "Les dispositions des articles L. 332-2-1 et L. 332-2-2 du code de l'environnement entrent en vigueur en même temps que le décret, prévu par l'article L. 332-2-3 du même code, pris pour leur application et au plus tard le 31 décembre 2012.Elles ne sont pas applicables à la procédure de création des réserves pour lesquelles la consultation des collectivités intéressées a été engagée avant la date d'entrée en vigueur desdites dispositions, qui reste régie par l'article L. 332-2 du code de l'environnement et les dispositions réglementaires prises pour son application dans leur rédaction en vigueur avant la date prévue au premier alinéa.",
+      "valid_from": "2012-01-07"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable, des transports et du logement et le garde des sceaux, ministre de la justice et des libertés, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'écologie, du développement durable, des transports et du logement et le garde des sceaux, ministre de la justice et des libertés, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2012-01-07"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

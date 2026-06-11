@@ -11,12 +11,15 @@ import Database from 'better-sqlite3';
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
+import { dedupeProvisionSeeds } from './lib/version-select.js';
+import { verifySeedsAgainstCensus, type CensusSourceArchive } from './lib/corpus-gates.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
 const DB_PATH = path.resolve(__dirname, '../data/database.db');
+const CENSUS_PATH = path.resolve(__dirname, '../data/census.json');
 
 // ---------------------------------------------------------------------------
 // Seed file types
@@ -219,21 +222,9 @@ CREATE TABLE db_metadata (
 // Helpers
 // ---------------------------------------------------------------------------
 
-function normalizeWhitespace(text: string): string {
-  return text.replace(/\s+/g, ' ').trim();
-}
-
-function dedupeProvisions(provisions: ProvisionSeed[]): ProvisionSeed[] {
-  const byRef = new Map<string, ProvisionSeed>();
-  for (const prov of provisions) {
-    const ref = prov.provision_ref.trim();
-    const existing = byRef.get(ref);
-    if (!existing || normalizeWhitespace(prov.content).length > normalizeWhitespace(existing.content).length) {
-      byRef.set(ref, { ...prov, provision_ref: ref });
-    }
-  }
-  return Array.from(byRef.values());
-}
+// Dedupe by provision_ref: newest valid_from wins; content length is the
+// legacy fallback for unstamped seeds (issue #97 — keep-longest could revert
+// an amendment that shortened an article). Lives in scripts/lib/version-select.ts.
 
 // ---------------------------------------------------------------------------
 // Build
@@ -241,6 +232,16 @@ function dedupeProvisions(provisions: ProvisionSeed[]): ProvisionSeed[] {
 
 function buildDatabase(): void {
   console.log('Building French Law MCP database...\n');
+
+  // Build gate (review findings build-db.ts:282 and :408): refuse an empty or
+  // shrunken seed set, refuse seeds the census does not claim, refuse a
+  // source stamp the seeds do not actually carry. Runs BEFORE the existing
+  // database is touched — a failing gate leaves the previous build intact.
+  const gate = verifySeedsAgainstCensus({ censusPath: CENSUS_PATH, seedDir: SEED_DIR });
+  console.log(
+    `Seed/census cross-check passed: ${gate.stampedSeedCount} ingest-stamped seed(s) at stamp ` +
+      `${gate.sourceArchive?.source_stamp ?? 'unstamped'}, ${gate.manualSeedCount} manual seed(s).`,
+  );
 
   if (fs.existsSync(DB_PATH)) {
     fs.unlinkSync(DB_PATH);
@@ -278,23 +279,10 @@ function buildDatabase(): void {
     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   `);
 
-  // Load seed files
-  if (!fs.existsSync(SEED_DIR)) {
-    console.log(`No seed directory at ${SEED_DIR} — creating empty database.`);
-    writeMetadata(db);
-    db.close();
-    return;
-  }
-
-  const seedFiles = fs.readdirSync(SEED_DIR)
-    .filter(f => f.endsWith('.json') && !f.startsWith('.') && !f.startsWith('_') && f !== 'eu-references.json');
-
-  if (seedFiles.length === 0) {
-    console.log('No seed files found. Database created with empty schema.');
-    writeMetadata(db);
-    db.close();
-    return;
-  }
+  // Seed files come from the gate — already verified non-empty and
+  // census-consistent. The old "empty schema" success paths are gone: an
+  // empty database stamped 'current' is never a valid build artifact.
+  const seedFiles = gate.seedFiles;
 
   let totalDocs = 0;
   let totalProvisions = 0;
@@ -316,7 +304,7 @@ function buildDatabase(): void {
       );
       totalDocs++;
 
-      const provisions = dedupeProvisions(seed.provisions ?? []);
+      const provisions = dedupeProvisionSeeds(seed.provisions ?? []);
 
       for (let i = 0; i < provisions.length; i++) {
         const prov = provisions[i];
@@ -388,7 +376,7 @@ function buildDatabase(): void {
   });
 
   loadAll();
-  writeMetadata(db);
+  writeMetadata(db, gate.sourceArchive);
 
   db.exec('ANALYZE');
   db.exec('VACUUM');
@@ -401,7 +389,20 @@ function buildDatabase(): void {
   console.log(`Output: ${DB_PATH} (${(size / 1024).toFixed(1)} KB)`);
 }
 
-function writeMetadata(db: Database.Database): void {
+/**
+ * Stamp db_metadata from the gate-verified source identity. The gate
+ * guarantees every ingest-stamped seed carries exactly this stamp; `source`
+ * is null ONLY for a census-less, manual-only seed set (explicitly unstamped,
+ * loudly warned — never a silently swallowed corrupt census; review finding
+ * build-db.ts:408).
+ */
+function writeMetadata(db: Database.Database, source: CensusSourceArchive | null): void {
+  if (!source) {
+    console.warn(
+      'WARNING: manual-only seed set without a census — db_metadata.source_stamp will be ' +
+        "'unstamped'. Re-run census + ingest to get a provable corpus version (issue #97).",
+    );
+  }
   const insertMeta = db.prepare('INSERT OR REPLACE INTO db_metadata (key, value) VALUES (?, ?)');
   const writeMeta = db.transaction(() => {
     insertMeta.run('tier', 'free');
@@ -409,6 +410,10 @@ function writeMetadata(db: Database.Database): void {
     insertMeta.run('jurisdiction', 'FR');
     insertMeta.run('built_at', new Date().toISOString());
     insertMeta.run('builder', 'build-db.ts');
+    insertMeta.run('source_base_archive', source?.base ?? 'unstamped');
+    insertMeta.run('source_last_delta', source?.last_delta ?? 'none');
+    insertMeta.run('source_stamp', source?.source_stamp ?? 'unstamped');
+    insertMeta.run('source_acquired_at', source?.acquired_at ?? 'unstamped');
   });
   writeMeta();
 }

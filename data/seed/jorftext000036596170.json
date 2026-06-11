@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le Gouvernement remet au Parlement, dans un délai de douze mois à compter de la promulgation de la présente loi, un rapport relatif à la situation des aidants familiaux. Ce rapport étudie en particulier la possibilité de réviser l'imposition des sommes versées à titre de dédommagement, dans le cadre de la prestation de compensation, afin de soutenir et valoriser les proches aidants. Le rapport étudie également la possibilité de maintenir l'affiliation à l'assurance vieillesse pour les parents aidants d'un enfant handicapé de plus de vingt ans."
+      "content": "Le Gouvernement remet au Parlement, dans un délai de douze mois à compter de la promulgation de la présente loi, un rapport relatif à la situation des aidants familiaux. Ce rapport étudie en particulier la possibilité de réviser l'imposition des sommes versées à titre de dédommagement, dans le cadre de la prestation de compensation, afin de soutenir et valoriser les proches aidants. Le rapport étudie également la possibilité de maintenir l'affiliation à l'assurance vieillesse pour les parents aidants d'un enfant handicapé de plus de vingt ans.",
+      "valid_from": "2018-02-15"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Un décret en Conseil d'Etat détermine les conditions d'application de l'article 1er aux agents publics civils et militaires.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Un décret en Conseil d'Etat détermine les conditions d'application de l'article 1er aux agents publics civils et militaires.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2018-02-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

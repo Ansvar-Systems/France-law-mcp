@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "IV.-Le présent article entre en vigueur le 3 juillet 2016."
+      "content": "IV.-Le présent article entre en vigueur le 3 juillet 2016.",
+      "valid_from": "2016-06-23"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. à III.-A modifié les dispositions suivantes :\n\nIV.-Le I du présent article entre en vigueur le 3 juillet 2016.\n\nV.-Les II et III du présent article entrent en vigueur à la date d'entrée en vigueur de l'ordonnance prise en application de l'article 28 de la loi n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière.\n\n-Code monétaire et financier"
+      "content": "I. à III.-A modifié les dispositions suivantes :\n\nIV.-Le I du présent article entre en vigueur le 3 juillet 2016.\n\nV.-Les II et III du présent article entrent en vigueur à la date d'entrée en vigueur de l'ordonnance prise en application de l'article 28 de la loi n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière.\n\n-Code monétaire et financier",
+      "valid_from": "2016-06-23"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "II. - Le présent article entre en vigueur le 3 juillet 2016."
+      "content": "II. - Le présent article entre en vigueur le 3 juillet 2016.",
+      "valid_from": "2016-06-23"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "La présente loi sera exécutée comme loi de l'Etat."
+      "content": "La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2016-06-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

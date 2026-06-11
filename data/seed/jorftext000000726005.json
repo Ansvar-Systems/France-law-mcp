@@ -12,7 +12,14 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Est autorisée la ratification du Traité sur l'Union européenne conclu entre le Royaume de Belgique, le Royaume du Danemark, la République fédérale d'Allemagne, la République hellénique, le Royaume d'Espagne, la République française, l'Irlande, la République italienne, le Grand-Duché de Luxembourg, le Royaume des Pays-Bas, la République du Portugal, le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, signé à Maastricht le 7 février 1992.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Est autorisée la ratification du Traité sur l'Union européenne conclu entre le Royaume de Belgique, le Royaume du Danemark, la République fédérale d'Allemagne, la République hellénique, le Royaume d'Espagne, la République française, l'Irlande, la République italienne, le Grand-Duché de Luxembourg, le Royaume des Pays-Bas, la République du Portugal, le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, signé à Maastricht le 7 février 1992.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "1992-09-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

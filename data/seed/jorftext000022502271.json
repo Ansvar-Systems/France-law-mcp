@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Un décret modifie les attributions de la Commission nationale pour l'élimination des mines antipersonnel, fixées par l'article R. 2343-1 du code de la défense, en vue de les étendre au suivi de l'application de la présente loi."
+      "content": "Un décret modifie les attributions de la Commission nationale pour l'élimination des mines antipersonnel, fixées par l'article R. 2343-1 du code de la défense, en vue de les étendre au suivi de l'application de la présente loi.",
+      "valid_from": "2010-08-02"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les dispositions de la présente loi sont applicables sur l'ensemble du territoire de la République."
+      "content": "Les dispositions de la présente loi sont applicables sur l'ensemble du territoire de la République.",
+      "valid_from": "2010-08-02"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "La présente loi est applicable à compter du lendemain de la publication au Journal officiel de la convention sur les armes à sous-munitions qui entre en vigueur au plan international le 1er août 2010, si cette publication est postérieure à celle de la présente loi, ou à compter du lendemain de la publication de la présente loi, dans le cas contraire."
+      "content": "La présente loi est applicable à compter du lendemain de la publication au Journal officiel de la convention sur les armes à sous-munitions qui entre en vigueur au plan international le 1er août 2010, si cette publication est postérieure à celle de la présente loi, ou à compter du lendemain de la publication de la présente loi, dans le cas contraire.",
+      "valid_from": "2010-08-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,127 +12,154 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sauf lorsqu'elles en disposent autrement, les dispositions de la présente ordonnance sont applicables à l'ensemble des juridictions de l'ordre administratif."
+      "content": "Sauf lorsqu'elles en disposent autrement, les dispositions de la présente ordonnance sont applicables à l'ensemble des juridictions de l'ordre administratif.",
+      "valid_from": "2020-04-10"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Durant la période comprise entre le 12 mars 2020 et la date de cessation de l'état d'urgence sanitaire déclaré dans les conditions de l'article 4 de la loi du 23 mars 2020 susvisée, il est dérogé aux dispositions législatives et réglementaires applicables aux juridictions administratives dans les conditions prévues au présent titre."
+      "content": "Durant la période comprise entre le 12 mars 2020 et la date de cessation de l'état d'urgence sanitaire déclaré dans les conditions de l'article 4 de la loi du 23 mars 2020 susvisée, il est dérogé aux dispositions législatives et réglementaires applicables aux juridictions administratives dans les conditions prévues au présent titre.",
+      "valid_from": "2020-05-15"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les formations de jugement des tribunaux administratifs et des cours administratives d'appel peuvent délibérer en se complétant, en cas de vacance ou d'empêchement, par l'adjonction d'un ou plusieurs magistrats en activité au sein de l'une de ces juridictions, désignés par le président de la juridiction ainsi complétée sur proposition du président de la juridiction d'origine.Des magistrats honoraires peuvent être désignés dans les conditions fixées à l'alinéa précédent, dans le respect des dispositions de l'article L. 222-2-1 du code de justice administrative."
+      "content": "Les formations de jugement des tribunaux administratifs et des cours administratives d'appel peuvent délibérer en se complétant, en cas de vacance ou d'empêchement, par l'adjonction d'un ou plusieurs magistrats en activité au sein de l'une de ces juridictions, désignés par le président de la juridiction ainsi complétée sur proposition du président de la juridiction d'origine.Des magistrats honoraires peuvent être désignés dans les conditions fixées à l'alinéa précédent, dans le respect des dispositions de l'article L. 222-2-1 du code de justice administrative.",
+      "valid_from": "2020-03-27"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les magistrats ayant le grade de conseiller et une ancienneté minimale de deux ans peuvent être désignés par le président de leur juridiction pour statuer par ordonnance dans les conditions prévues à l'article R. 222-1 du code de justice administrative."
+      "content": "Les magistrats ayant le grade de conseiller et une ancienneté minimale de deux ans peuvent être désignés par le président de leur juridiction pour statuer par ordonnance dans les conditions prévues à l'article R. 222-1 du code de justice administrative.",
+      "valid_from": "2020-03-27"
     },
     {
       "provision_ref": "art4-1",
       "section": "4-1",
       "title": "Article 4-1",
-      "content": "La procédure prévue au deuxième alinéa de l'article L. 731-2 du code de l'entrée et du séjour des étrangers et du droit d'asile, par laquelle le président de la Cour nationale du droit d'asile ou le président de formation de jugement qu'il désigne à cette fin statue seul, est applicable à l'ensemble des recours mentionnés au premier alinéa du même article."
+      "content": "La procédure prévue au deuxième alinéa de l'article L. 731-2 du code de l'entrée et du séjour des étrangers et du droit d'asile, par laquelle le président de la Cour nationale du droit d'asile ou le président de formation de jugement qu'il désigne à cette fin statue seul, est applicable à l'ensemble des recours mentionnés au premier alinéa du même article.",
+      "valid_from": "2020-05-15"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La communication des pièces, actes et avis aux parties peut être effectuée par tout moyen."
+      "content": "La communication des pièces, actes et avis aux parties peut être effectuée par tout moyen.",
+      "valid_from": "2020-03-27"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le président de la formation de jugement peut décider que l'audience aura lieu hors la présence du public ou que le nombre de personnes admises à l'audience sera limité."
+      "content": "Le président de la formation de jugement peut décider que l'audience aura lieu hors la présence du public ou que le nombre de personnes admises à l'audience sera limité.",
+      "valid_from": "2020-03-27"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Sur décision du président de la formation de jugement insusceptible de recours, les audiences des juridictions de l'ordre administratif peuvent se tenir en utilisant un moyen de télécommunication audiovisuelle permettant de s'assurer de l'identité des parties et garantissant la qualité de la transmission et la confidentialité des échanges entre les parties et leurs avocats.En cas d'impossibilité technique ou matérielle de recourir à un tel moyen, le juge peut, par décision insusceptible de recours, décider d'entendre les parties et leurs avocats par tout moyen de communication électronique, y compris téléphonique, permettant de s'assurer de leur identité et de garantir la qualité de la transmission et la confidentialité des échanges.Lorsqu'une partie est assistée d'un conseil ou d'un interprète, il n'est pas requis que ce dernier soit physiquement présent auprès d'elle.\n\nAvec l'autorisation du président de la formation de jugement, les membres de la juridiction peuvent participer à l'audience depuis un lieu distinct de la salle d'audience en utilisant un moyen de télécommunication audiovisuelle permettant de s'assurer de leur identité et garantissant la qualité de la transmission ainsi que le secret du délibéré.Le président de la formation de jugement, présent dans la salle d'audience, organise et conduit la procédure. Il s'assure du bon déroulement des échanges entre les parties et veille au respect des droits de la défense et au caractère contradictoire des débats. Il s'assure également, le cas échéant, du caractère satisfaisant de la retransmission dans la salle d'audience des conclusions du rapporteur public ainsi que des prises de parole des parties ou de leurs conseils.Le président de la juridiction peut autoriser un magistrat statuant seul à tenir l'audience par un moyen de télécommunication audiovisuelle depuis un lieu distinct de la salle d'audience.Le greffe dresse le procès-verbal des opérations.\n\nLe rôle des audiences peut être publié sur le site internet de la juridiction."
+      "content": "Sur décision du président de la formation de jugement insusceptible de recours, les audiences des juridictions de l'ordre administratif peuvent se tenir en utilisant un moyen de télécommunication audiovisuelle permettant de s'assurer de l'identité des parties et garantissant la qualité de la transmission et la confidentialité des échanges entre les parties et leurs avocats.En cas d'impossibilité technique ou matérielle de recourir à un tel moyen, le juge peut, par décision insusceptible de recours, décider d'entendre les parties et leurs avocats par tout moyen de communication électronique, y compris téléphonique, permettant de s'assurer de leur identité et de garantir la qualité de la transmission et la confidentialité des échanges.Lorsqu'une partie est assistée d'un conseil ou d'un interprète, il n'est pas requis que ce dernier soit physiquement présent auprès d'elle.\n\nAvec l'autorisation du président de la formation de jugement, les membres de la juridiction peuvent participer à l'audience depuis un lieu distinct de la salle d'audience en utilisant un moyen de télécommunication audiovisuelle permettant de s'assurer de leur identité et garantissant la qualité de la transmission ainsi que le secret du délibéré.Le président de la formation de jugement, présent dans la salle d'audience, organise et conduit la procédure. Il s'assure du bon déroulement des échanges entre les parties et veille au respect des droits de la défense et au caractère contradictoire des débats. Il s'assure également, le cas échéant, du caractère satisfaisant de la retransmission dans la salle d'audience des conclusions du rapporteur public ainsi que des prises de parole des parties ou de leurs conseils.Le président de la juridiction peut autoriser un magistrat statuant seul à tenir l'audience par un moyen de télécommunication audiovisuelle depuis un lieu distinct de la salle d'audience.Le greffe dresse le procès-verbal des opérations.\n\nLe rôle des audiences peut être publié sur le site internet de la juridiction.",
+      "valid_from": "2020-05-15"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le président de la formation de jugement peut dispenser le rapporteur public, sur sa proposition, d'exposer à l'audience des conclusions sur une requête."
+      "content": "Le président de la formation de jugement peut dispenser le rapporteur public, sur sa proposition, d'exposer à l'audience des conclusions sur une requête.",
+      "valid_from": "2020-03-27"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Outre les cas prévus à l'article L. 522-3 du code de justice administrative, il peut être statué sans audience, par ordonnance motivée, sur les requêtes présentées en référé. Le juge des référés informe les parties de l'absence d'audience et fixe la date à partir de laquelle l'instruction sera close.Ainsi qu'il est dit à l'article L. 523-1, les décisions prises sans audience, en application du premier alinéa, par le juge des référés saisi sur le fondement de l'article L. 521-2 du code de justice administrative peuvent faire l'objet d'un appel lorsqu'elles n'ont pas été rendues en application de l'article L. 522-3 du même code."
+      "content": "Outre les cas prévus à l'article L. 522-3 du code de justice administrative, il peut être statué sans audience, par ordonnance motivée, sur les requêtes présentées en référé. Le juge des référés informe les parties de l'absence d'audience et fixe la date à partir de laquelle l'instruction sera close.Ainsi qu'il est dit à l'article L. 523-1, les décisions prises sans audience, en application du premier alinéa, par le juge des référés saisi sur le fondement de l'article L. 521-2 du code de justice administrative peuvent faire l'objet d'un appel lorsqu'elles n'ont pas été rendues en application de l'article L. 522-3 du même code.",
+      "valid_from": "2020-03-27"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Par dérogation à l'article R. 222-25 du code de justice administrative, le président de la cour ou le président de chambre peut statuer sans audience publique sur les demandes de sursis à exécution mentionnées aux articles R. 811-15 à R. 811-17 du même code."
+      "content": "Par dérogation à l'article R. 222-25 du code de justice administrative, le président de la cour ou le président de chambre peut statuer sans audience publique sur les demandes de sursis à exécution mentionnées aux articles R. 811-15 à R. 811-17 du même code.",
+      "valid_from": "2020-03-27"
     },
     {
       "provision_ref": "art10-1",
       "section": "10-1",
       "title": "Article 10-1",
-      "content": "Lorsque, dans les cas prévus à l'article L. 441-2-3-1 du code de la construction et de l'habitation, le prononcé d'une injonction s'impose avec évidence au vu de la situation du requérant, le président du tribunal administratif ou le magistrat désigné peut y procéder par ordonnance, après avoir mis le représentant de l'Etat en mesure de présenter ses observations en défense et clôturé l'instruction."
+      "content": "Lorsque, dans les cas prévus à l'article L. 441-2-3-1 du code de la construction et de l'habitation, le prononcé d'une injonction s'impose avec évidence au vu de la situation du requérant, le président du tribunal administratif ou le magistrat désigné peut y procéder par ordonnance, après avoir mis le représentant de l'Etat en mesure de présenter ses observations en défense et clôturé l'instruction.",
+      "valid_from": "2020-05-15"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Par dérogation à l'article R. 741-1 du code de justice administrative, la décision peut être rendue publique par mise à disposition au greffe de la juridiction."
+      "content": "Par dérogation à l'article R. 741-1 du code de justice administrative, la décision peut être rendue publique par mise à disposition au greffe de la juridiction.",
+      "valid_from": "2020-03-27"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Par dérogation aux articles R. 741-7 à R. 741-9 du code de justice administrative, la minute de la décision peut être signée uniquement par le président de la formation de jugement."
+      "content": "Par dérogation aux articles R. 741-7 à R. 741-9 du code de justice administrative, la minute de la décision peut être signée uniquement par le président de la formation de jugement.",
+      "valid_from": "2020-03-27"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Lorsqu'une partie est représentée par un avocat, la notification prévue à l'article R. 751-3 du code de justice administrative est valablement accomplie par l'expédition de la décision à son mandataire.\n\nLorsqu'une partie n'est pas représentée par un avocat et n'utilise ni l'application informatique mentionnée à l'article R. 414-1 du code de justice administrative ni le téléservice mentionné à l'article R. 414-6 du même code, la notification peut être valablement accomplie par tout moyen de nature à en attester la date de réception."
+      "content": "Lorsqu'une partie est représentée par un avocat, la notification prévue à l'article R. 751-3 du code de justice administrative est valablement accomplie par l'expédition de la décision à son mandataire.\n\nLorsqu'une partie n'est pas représentée par un avocat et n'utilise ni l'application informatique mentionnée à l'article R. 414-1 du code de justice administrative ni le téléservice mentionné à l'article R. 414-6 du même code, la notification peut être valablement accomplie par tout moyen de nature à en attester la date de réception.",
+      "valid_from": "2020-04-10"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Par dérogation à l'article R. 776-27 du code de justice administrative, les jugements relatifs aux mesures d'éloignement prise à l'encontre des étrangers placés en centre de rétention ne sont pas prononcés à l'audience."
+      "content": "Par dérogation à l'article R. 776-27 du code de justice administrative, les jugements relatifs aux mesures d'éloignement prise à l'encontre des étrangers placés en centre de rétention ne sont pas prononcés à l'audience.",
+      "valid_from": "2020-03-27"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "I.-Les dispositions de l'article 2 de l'ordonnance n° 2020-306 du 25 mars 2020 susvisée relative à la prorogation des délais échus pendant la période d'urgence sanitaire et à l'adaptation des procédures pendant cette même période sont applicables aux procédures devant les juridictions de l'ordre administratif.\n\nII. ‒ Par dérogation au I :\n\n1° Le point de départ du délai des demandes et recours suivants est reporté au 24 mai 2020 :\n\na) Recours prévus à l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, à l'exception de ceux prévus au premier alinéa du III de cet article ;\n\nb) Recours prévus à l'article L. 731-2 du même code ;\n\nc) Recours contre les décisions de transfert prévus à l'article L. 742-4 du même code, à l'exception de ceux prévus contre ces décisions au premier alinéa du II de cet article et à l'article L. 213-9 de ce code ;\n\nd) Demande d'aide juridictionnelle prévue à l'article 9-4 de la loi susvisée du 10 juillet 1991 relative à l'aide juridique.\n\n2° Les délais applicables aux procédures prévues à l'article L. 213-9, au premier alinéa du III de l'article L. 512-1 et au premier alinéa du II de l'article L. 742-4 du code de l'entrée et du séjour des étrangers et du droit d'asile ne font pas l'objet d'adaptations.\n\n3° Les réclamations et les recours mentionnés à l'article R. 119 du code électoral peuvent être formés contre les opérations électorales du premier tour des élections municipales organisé le 15 mars 2020 au plus tard à dix-huit heures le cinquième jour qui suit la date de prise de fonction des conseillers municipaux et communautaires élus dès ce tour, fixée par décret au plus tard au mois de juin 2020 dans les conditions définies au premier alinéa du III de l'article 19 de la loi n° 2020-290 du 23 mars 2020 susvisée ou, par dérogation, aux dates prévues au deuxième ou troisième alinéa du même III du même article."
+      "content": "I.-Les dispositions de l'article 2 de l'ordonnance n° 2020-306 du 25 mars 2020 susvisée relative à la prorogation des délais échus pendant la période d'urgence sanitaire et à l'adaptation des procédures pendant cette même période sont applicables aux procédures devant les juridictions de l'ordre administratif.\n\nII. ‒ Par dérogation au I :\n\n1° Le point de départ du délai des demandes et recours suivants est reporté au 24 mai 2020 :\n\na) Recours prévus à l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, à l'exception de ceux prévus au premier alinéa du III de cet article ;\n\nb) Recours prévus à l'article L. 731-2 du même code ;\n\nc) Recours contre les décisions de transfert prévus à l'article L. 742-4 du même code, à l'exception de ceux prévus contre ces décisions au premier alinéa du II de cet article et à l'article L. 213-9 de ce code ;\n\nd) Demande d'aide juridictionnelle prévue à l'article 9-4 de la loi susvisée du 10 juillet 1991 relative à l'aide juridique.\n\n2° Les délais applicables aux procédures prévues à l'article L. 213-9, au premier alinéa du III de l'article L. 512-1 et au premier alinéa du II de l'article L. 742-4 du code de l'entrée et du séjour des étrangers et du droit d'asile ne font pas l'objet d'adaptations.\n\n3° Les réclamations et les recours mentionnés à l'article R. 119 du code électoral peuvent être formés contre les opérations électorales du premier tour des élections municipales organisé le 15 mars 2020 au plus tard à dix-huit heures le cinquième jour qui suit la date de prise de fonction des conseillers municipaux et communautaires élus dès ce tour, fixée par décret au plus tard au mois de juin 2020 dans les conditions définies au premier alinéa du III de l'article 19 de la loi n° 2020-290 du 23 mars 2020 susvisée ou, par dérogation, aux dates prévues au deuxième ou troisième alinéa du même III du même article.",
+      "valid_from": "2020-05-15"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "I. ‒ Les mesures d'instruction dont le terme vient à échéance entre le 12 mars 2020 et le 23 juin 2020 sont prorogées de plein droit jusqu'au 24 août 2020 inclus.Toutefois, lorsque l'urgence ou l'état de l'affaire le justifie, le juge peut fixer un délai plus bref que celui résultant du report prévu à l'alinéa précédent. Il précise alors que celui-ci ne s'applique pas à la date ainsi fixée.\n\nII. ‒ Les mesures de clôture d'instruction dont le terme vient à échéance entre le 12 mars 2020 et le 23 mai 2020 inclus sont prorogées de plein droit jusqu'au 23 juin 2020 inclus, à moins que ce terme ne soit reporté par le juge.\n\nToutefois, le juge peut, lorsque l'urgence ou l'état de l'affaire le justifie, fixer une date de clôture d'instruction antérieure à la date résultant du report prévu à l'alinéa précédent. Son ordonnance mentionne alors que celui-ci ne s'applique pas à la date ainsi fixée."
+      "content": "I. ‒ Les mesures d'instruction dont le terme vient à échéance entre le 12 mars 2020 et le 23 juin 2020 sont prorogées de plein droit jusqu'au 24 août 2020 inclus.Toutefois, lorsque l'urgence ou l'état de l'affaire le justifie, le juge peut fixer un délai plus bref que celui résultant du report prévu à l'alinéa précédent. Il précise alors que celui-ci ne s'applique pas à la date ainsi fixée.\n\nII. ‒ Les mesures de clôture d'instruction dont le terme vient à échéance entre le 12 mars 2020 et le 23 mai 2020 inclus sont prorogées de plein droit jusqu'au 23 juin 2020 inclus, à moins que ce terme ne soit reporté par le juge.\n\nToutefois, le juge peut, lorsque l'urgence ou l'état de l'affaire le justifie, fixer une date de clôture d'instruction antérieure à la date résultant du report prévu à l'alinéa précédent. Son ordonnance mentionne alors que celui-ci ne s'applique pas à la date ainsi fixée.",
+      "valid_from": "2020-05-15"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Lorsque les délais impartis au juge pour statuer courent ou ont couru en tout ou partie entre le 12 mars 2020 et le 23 mai 2020 inclus, leur point de départ est reporté au 1er juillet 2020.Par dérogation à l'alinéa précédent :1° Les délais pour statuer sur les recours prévus à l'article L. 213-9 et au III et au IV de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile ne font pas l'objet d'adaptation ;\n\n2° Sous réserve de l'article L. 118-2 du code électoral, le délai imparti au tribunal administratif pour statuer sur les recours contre les résultats du renouvellement général des conseillers municipaux et communautaires ainsi que des conseillers de Paris expire :\n\na) En ce qui concerne l'élection des conseillers municipaux et communautaires mentionnés au premier alinéa du III de l'article 19 de la loi n° 2020-290 du 23 mars 2020 d'urgence pour faire face à l'épidémie de covid-19, le 30 septembre 2020 ;\n\nb) En ce qui concerne l'élection des conseillers municipaux, des conseillers d'arrondissement et des conseillers de Paris mentionnés aux deuxième et dernier alinéas du même III, le 31 octobre 2020 ;\n\nc) En ce qui concerne l'élection des conseillers municipaux et communautaires, des conseillers d'arrondissement et des conseillers de Paris élus au second tour organisé dans les conditions prévues au premier alinéa du I du même article 19, le 31 octobre 2020 ;\n\nd) En ce qui concerne l'élection des conseillers municipaux et communautaires, des conseillers d'arrondissement et des conseillers de Paris élus dans les conditions prévues au 2° du II de l'article 17 de la loi n° 2020-760 du 22 juin 2020 tendant à sécuriser l'organisation du second tour des élections municipales et communautaires de juin 2020 et à reporter les élections consulaires, trois mois à compter de l'enregistrement de la réclamation au greffe."
+      "content": "Lorsque les délais impartis au juge pour statuer courent ou ont couru en tout ou partie entre le 12 mars 2020 et le 23 mai 2020 inclus, leur point de départ est reporté au 1er juillet 2020.Par dérogation à l'alinéa précédent :1° Les délais pour statuer sur les recours prévus à l'article L. 213-9 et au III et au IV de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile ne font pas l'objet d'adaptation ;\n\n2° Sous réserve de l'article L. 118-2 du code électoral, le délai imparti au tribunal administratif pour statuer sur les recours contre les résultats du renouvellement général des conseillers municipaux et communautaires ainsi que des conseillers de Paris expire :\n\na) En ce qui concerne l'élection des conseillers municipaux et communautaires mentionnés au premier alinéa du III de l'article 19 de la loi n° 2020-290 du 23 mars 2020 d'urgence pour faire face à l'épidémie de covid-19, le 30 septembre 2020 ;\n\nb) En ce qui concerne l'élection des conseillers municipaux, des conseillers d'arrondissement et des conseillers de Paris mentionnés aux deuxième et dernier alinéas du même III, le 31 octobre 2020 ;\n\nc) En ce qui concerne l'élection des conseillers municipaux et communautaires, des conseillers d'arrondissement et des conseillers de Paris élus au second tour organisé dans les conditions prévues au premier alinéa du I du même article 19, le 31 octobre 2020 ;\n\nd) En ce qui concerne l'élection des conseillers municipaux et communautaires, des conseillers d'arrondissement et des conseillers de Paris élus dans les conditions prévues au 2° du II de l'article 17 de la loi n° 2020-760 du 22 juin 2020 tendant à sécuriser l'organisation du second tour des élections municipales et communautaires de juin 2020 et à reporter les élections consulaires, trois mois à compter de l'enregistrement de la réclamation au greffe.",
+      "valid_from": "2020-06-23"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "La présente ordonnance est applicable dans les îles Wallis et Futuna."
+      "content": "La présente ordonnance est applicable dans les îles Wallis et Futuna.",
+      "valid_from": "2020-03-27"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Le Premier ministre et la garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-03-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

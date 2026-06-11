@@ -12,19 +12,28 @@
       "provision_ref": "art26",
       "section": "26",
       "title": "Article 26",
-      "content": "Les articles 4, 5, 9 et 11 de la présente loi entreront en vigueur à la date de publication du décret portant code des devoirs professionnels et règlement de la profession de géomètre-expert, qui interviendra au plus tard six mois après la publication de la présente loi."
+      "content": "Les articles 4, 5, 9 et 11 de la présente loi entreront en vigueur à la date de publication du décret portant code des devoirs professionnels et règlement de la profession de géomètre-expert, qui interviendra au plus tard six mois après la publication de la présente loi.",
+      "valid_from": "1994-12-29"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "Le dernier alinéa de l'article 8 de la loi n° 46-942 du 7 mai 1946 précitée est abrogée. Cette abrogation prendra effet à la date d'entrée en vigueur mentionnée à l'article 26 de la présente loi."
+      "content": "Le dernier alinéa de l'article 8 de la loi n° 46-942 du 7 mai 1946 précitée est abrogée. Cette abrogation prendra effet à la date d'entrée en vigueur mentionnée à l'article 26 de la présente loi.",
+      "valid_from": "1994-12-29"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "L'article 30 de la loi n° 46-942 du 7 mai 1946 précitée est abrogé."
+      "content": "L'article 30 de la loi n° 46-942 du 7 mai 1946 précitée est abrogé.",
+      "valid_from": "1994-12-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

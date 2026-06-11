@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I.- A créé les dispositions suivantes :\n\nII.- Le dernier alinéa du I de l'article L. 34-9-3 du code des postes et des communications électroniques est applicable aux équipements terminaux dont la première mise sur le marché est postérieure à la publication du décret en Conseil d'Etat prévu au même article L. 34-9-3.Un décret en Conseil d'Etat détermine les conditions dans lesquelles les personnes mentionnées au dernier alinéa du I dudit article L. 34-9-3, pour les équipements dont la première mise sur le marché est antérieure à la publication du décret en Conseil d'Etat prévu au même article L. 34-9-3, informent l'utilisateur de l'existence de dispositifs lui permettant de restreindre ou de contrôler l'accès de personnes mineures à des services et des contenus susceptibles de nuire à leur épanouissement physique, mental ou moral.\n\n- Code des postes et des communications électroniques"
+      "content": "I.- A créé les dispositions suivantes :\n\nII.- Le dernier alinéa du I de l'article L. 34-9-3 du code des postes et des communications électroniques est applicable aux équipements terminaux dont la première mise sur le marché est postérieure à la publication du décret en Conseil d'Etat prévu au même article L. 34-9-3.Un décret en Conseil d'Etat détermine les conditions dans lesquelles les personnes mentionnées au dernier alinéa du I dudit article L. 34-9-3, pour les équipements dont la première mise sur le marché est antérieure à la publication du décret en Conseil d'Etat prévu au même article L. 34-9-3, informent l'utilisateur de l'existence de dispositifs lui permettant de restreindre ou de contrôler l'accès de personnes mineures à des services et des contenus susceptibles de nuire à leur épanouissement physique, mental ou moral.\n\n- Code des postes et des communications électroniques",
+      "valid_from": "2022-03-04"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La présente loi entre en vigueur à une date fixée par décret, qui ne peut être postérieure de plus de trois mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif législatif lui ayant été notifié comme conforme au droit de l'Union européenne.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "La présente loi entre en vigueur à une date fixée par décret, qui ne peut être postérieure de plus de trois mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif législatif lui ayant été notifié comme conforme au droit de l'Union européenne.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2022-03-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

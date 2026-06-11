@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "Nonobstant les dispositions prévues au I de l'article L. 441-10 et au 5° du II de l'article L. 441-11 du code de commerce, pour les opérations d'achat, de vente, de livraison, de commission ou de façon concourant à la fabrication de livres, ainsi que pour la fourniture de papier et autres consommables dédiés à une activité d'impression, de brochage, de reliure ou d'édition de livres, le délai est défini conventionnellement entre les parties."
+      "content": "Nonobstant les dispositions prévues au I de l'article L. 441-10 et au 5° du II de l'article L. 441-11 du code de commerce, pour les opérations d'achat, de vente, de livraison, de commission ou de façon concourant à la fabrication de livres, ainsi que pour la fourniture de papier et autres consommables dédiés à une activité d'impression, de brochage, de reliure ou d'édition de livres, le délai est défini conventionnellement entre les parties.",
+      "valid_from": "2019-07-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

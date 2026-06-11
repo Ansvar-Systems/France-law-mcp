@@ -12,7 +12,14 @@
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Il est ouvert dans les écritures du Trésor un compte spécial de commerce géré par le ministre des finances et des affaires économiques et intitulé : \"Lancement de certains matériels de guerre et matériels assimilés et de certains matériels d'armement complexes\".\n\nCe compte retrace en dépenses, le versement des avances mentionnées au I de l’article 5 de la loi n° 63-1293 du 21 décembre 1963.\n\nIl retrace, en recettes, le produit du remboursement en capital et intérêts des avances consenties, ainsi que toute autre recette perçue au titre de ces avances."
+      "content": "Il est ouvert dans les écritures du Trésor un compte spécial de commerce géré par le ministre des finances et des affaires économiques et intitulé : \"Lancement de certains matériels de guerre et matériels assimilés et de certains matériels d'armement complexes\".\n\nCe compte retrace en dépenses, le versement des avances mentionnées au I de l’article 5 de la loi n° 63-1293 du 21 décembre 1963.\n\nIl retrace, en recettes, le produit du remboursement en capital et intérêts des avances consenties, ainsi que toute autre recette perçue au titre de ces avances.",
+      "valid_from": "2019-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -9,22 +9,39 @@
   "description": null,
   "provisions": [
     {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Article 35",
+      "content": "Sur les navires de moins de 10 tonneaux de jauge brute et sur les bâtiments qui effectuent des services portuaires ou des services réguliers à l'intérieur de zones délimitées par l'autorité maritime, le billet est remplacé par un ticket qui indique le nom du transporteur et le service effectué.",
+      "valid_from": "1967-04-11",
+      "valid_to": "2222-02-22"
+    },
+    {
       "provision_ref": "art47",
       "section": "47",
       "title": "Article 47",
-      "content": "Les organisateurs de croisière maritime doivent délivrer à chaque passager ou groupe de passagers, sous peine de nullité du contrat, un titre de croisière.Seul le passager peut faire valoir cette nullité."
+      "content": "Les organisateurs de croisière maritime doivent délivrer à chaque passager ou groupe de passagers, sous peine de nullité du contrat, un titre de croisière.Seul le passager peut faire valoir cette nullité.",
+      "valid_from": "1967-04-11"
     },
     {
       "provision_ref": "art48",
       "section": "48",
       "title": "Article 48",
-      "content": "Le manquement à l'une des obligations inscrites au titre de croisière engage la responsabilité de l'organisateur de croisières, sauf si celui-ci établit qu'il s'agit de l'exécution du contrat de transport proprement dit."
+      "content": "Le manquement à l'une des obligations inscrites au titre de croisière engage la responsabilité de l'organisateur de croisières, sauf si celui-ci établit qu'il s'agit de l'exécution du contrat de transport proprement dit.",
+      "valid_from": "1967-04-11"
     },
     {
       "provision_ref": "art49",
       "section": "49",
       "title": "Article 49",
-      "content": "L'organisateur de croisières est personnellement responsable des dommages survenus aux passagers ou à leurs bagages.Si le dommage résulte de l'exécution du contrat de transport maritime, l'organisateur de croisières est responsable dans les conditions et les limites des articles 37 à 44."
+      "content": "L'organisateur de croisières est personnellement responsable des dommages survenus aux passagers ou à leurs bagages.Si le dommage résulte de l'exécution du contrat de transport maritime, l'organisateur de croisières est responsable dans les conditions et les limites des articles 37 à 44.",
+      "valid_from": "1967-04-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

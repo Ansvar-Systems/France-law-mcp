@@ -12,19 +12,28 @@
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "V.-Les articles 1er à 4, 21, 22 et 24 sont applicables en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis-et-Futuna."
+      "content": "I. à IV.-A modifié les dispositions suivantes :\n\nV.-Les articles 1er à 4, 21, 22 et 24 sont applicables en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis-et-Futuna.\n\n-Code de l'éducation",
+      "valid_from": "2015-09-01"
     },
     {
       "provision_ref": "art24",
       "section": "24",
       "title": "Article 24",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er septembre 2015. Les procédures en cours à cette date devant les formations contentieuses et disciplinaires des conseils académiques de l'éducation nationale, du Conseil supérieur de l'éducation et de la commission des titres d'ingénieur restent régies par les dispositions antérieurement applicables."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le 1er septembre 2015. Les procédures en cours à cette date devant les formations contentieuses et disciplinaires des conseils académiques de l'éducation nationale, du Conseil supérieur de l'éducation et de la commission des titres d'ingénieur restent régies par les dispositions antérieurement applicables.",
+      "valid_from": "2015-09-01"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Le Premier ministre, le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2015-09-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

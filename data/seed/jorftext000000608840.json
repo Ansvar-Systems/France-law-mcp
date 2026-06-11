@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions annexées à la présente ordonnance constituent la partie législative du code de justice militaire."
+      "content": "Les dispositions annexées à la présente ordonnance constituent la partie législative du code de justice militaire.",
+      "valid_from": "2006-06-02"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Dans tous les textes législatifs ou réglementaires les références aux articles du code de justice militaire antérieur à celui résultant de la présente ordonnance sont remplacées par les références aux dispositions correspondantes du présent code, ainsi qu'il est précisé dans le tableau de concordance annexé à la présente ordonnance."
+      "content": "Dans tous les textes législatifs ou réglementaires les références aux articles du code de justice militaire antérieur à celui résultant de la présente ordonnance sont remplacées par les références aux dispositions correspondantes du présent code, ainsi qu'il est précisé dans le tableau de concordance annexé à la présente ordonnance.",
+      "valid_from": "2006-06-02"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Sont abrogés :1° Le code de justice militaire dans sa rédaction antérieure à la publication de la présente ordonnance ;2° La loi n° 82-621 du 21 juillet 1982 relative à l'instruction et au jugement des infractions en matière militaire et de sûreté de l'Etat et modifiant les codes de procédure pénale et de justice militaire, à l'exception des articles 11 et 12 ;3° La loi n° 99-929 du 10 novembre 1999 portant réforme du code de justice militaire et du code de procédure pénale."
+      "content": "Sont abrogés :1° Le code de justice militaire dans sa rédaction antérieure à la publication de la présente ordonnance ;2° La loi n° 82-621 du 21 juillet 1982 relative à l'instruction et au jugement des infractions en matière militaire et de sûreté de l'Etat et modifiant les codes de procédure pénale et de justice militaire, à l'exception des articles 11 et 12 ;3° La loi n° 99-929 du 10 novembre 1999 portant réforme du code de justice militaire et du code de procédure pénale.",
+      "valid_from": "2006-06-02"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La présente ordonnance entre en vigueur le lendemain de la publication au Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice militaire."
+      "content": "La présente ordonnance entre en vigueur le lendemain de la publication au Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice militaire.",
+      "valid_from": "2006-06-02"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, la ministre de la défense et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la défense et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2006-06-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

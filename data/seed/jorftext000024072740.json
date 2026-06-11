@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Jusqu'au renouvellement général du Parlement européen suivant la publication de la présente loi, et par dérogation aux dispositions de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen, les membres de l'Assemblée nationale élisent, en leur sein, les deux représentants supplémentaires au Parlement européen à élire en France en vertu du protocole du 23 juin 2010 modifiant le protocole sur les dispositions transitoires, annexé au traité sur l'Union européenne, au traité sur le fonctionnement de l'Union européenne et au traité instituant la Communauté européenne de l'énergie atomique."
+      "content": "Jusqu'au renouvellement général du Parlement européen suivant la publication de la présente loi, et par dérogation aux dispositions de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen, les membres de l'Assemblée nationale élisent, en leur sein, les deux représentants supplémentaires au Parlement européen à élire en France en vertu du protocole du 23 juin 2010 modifiant le protocole sur les dispositions transitoires, annexé au traité sur l'Union européenne, au traité sur le fonctionnement de l'Union européenne et au traité instituant la Communauté européenne de l'énergie atomique.",
+      "valid_from": "2011-05-28"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. ― L'élection se fait au scrutin de liste sans panachage ni vote préférentiel.II. ― Le nombre de candidats par liste est égal à quatre. Les listes sont composées alternativement d'un candidat de chaque sexe.III. ― L'élection est acquise au premier tour de scrutin si le nombre des votants est supérieur à la moitié du nombre des membres de l'Assemblée nationale. A défaut, un second tour de scrutin est organisé sans condition de participation.IV. ― Les sièges sont répartis à la représentation proportionnelle suivant la règle de la plus forte moyenne.V. ― Si plusieurs listes ont la même moyenne pour l'attribution du second siège, celui-ci revient à la liste qui a obtenu le plus grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué à la liste dont la moyenne d'âge est la plus élevée.VI. ― Les sièges sont attribués aux candidats d'après l'ordre de présentation sur chaque liste."
+      "content": "I. ― L'élection se fait au scrutin de liste sans panachage ni vote préférentiel.II. ― Le nombre de candidats par liste est égal à quatre. Les listes sont composées alternativement d'un candidat de chaque sexe.III. ― L'élection est acquise au premier tour de scrutin si le nombre des votants est supérieur à la moitié du nombre des membres de l'Assemblée nationale. A défaut, un second tour de scrutin est organisé sans condition de participation.IV. ― Les sièges sont répartis à la représentation proportionnelle suivant la règle de la plus forte moyenne.V. ― Si plusieurs listes ont la même moyenne pour l'attribution du second siège, celui-ci revient à la liste qui a obtenu le plus grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué à la liste dont la moyenne d'âge est la plus élevée.VI. ― Les sièges sont attribués aux candidats d'après l'ordre de présentation sur chaque liste.",
+      "valid_from": "2011-05-28"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les deux représentants au Parlement européen ainsi élus cessent d'exercer leur mandat de député.Les articles 6 à 6-6 et 24 de la loi n° 77-729 du 7 juillet 1977 précitée leur sont applicables. Pour l'application des mêmes articles 6 et 6-6, la décision juridictionnelle s'entend de la décision de l'Assemblée nationale réglant le contentieux."
+      "content": "Les deux représentants au Parlement européen ainsi élus cessent d'exercer leur mandat de député.Les articles 6 à 6-6 et 24 de la loi n° 77-729 du 7 juillet 1977 précitée leur sont applicables. Pour l'application des mêmes articles 6 et 6-6, la décision juridictionnelle s'entend de la décision de l'Assemblée nationale réglant le contentieux.",
+      "valid_from": "2011-05-28"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le présent chapitre est applicable à compter de l'entrée en vigueur du protocole mentionné à l'article 1er."
+      "content": "Le présent chapitre est applicable à compter de l'entrée en vigueur du protocole mentionné à l'article 1er.",
+      "valid_from": "2011-05-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

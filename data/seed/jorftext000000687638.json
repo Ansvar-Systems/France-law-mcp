@@ -12,13 +12,21 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les évaluations cadastrales en matière de propriétés bâties et non bâties sont révisées tous les cinq ans, étant entendu que les bases d'imposition demeureront les mêmes jusqu'à parfait achèvement de la révision."
+      "content": "Les évaluations cadastrales en matière de propriétés bâties et non bâties sont révisées tous les cinq ans, étant entendu que les bases d'imposition demeureront les mêmes jusqu'à parfait achèvement de la révision.",
+      "valid_from": "1953-02-08"
     },
     {
       "provision_ref": "art88",
       "section": "88",
       "title": "Article 88",
-      "content": "Les garanties exigées en vertu des prescriptions légales ou réglementaires sous forme de caution, par les administrations, les services et les collectivités publics et, d'une façon générale, pour garantir la bonne exécution de tous engagements, peuvent aussi être fournies sous la forme d'une assurance caution."
+      "content": "Les garanties exigées en vertu des prescriptions légales ou réglementaires sous forme de caution, par les administrations, les services et les collectivités publics et, d'une façon générale, pour garantir la bonne exécution de tous engagements, peuvent aussi être fournies sous la forme d'une assurance caution.",
+      "valid_from": "1953-02-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

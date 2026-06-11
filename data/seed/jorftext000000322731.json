@@ -12,7 +12,14 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Sous réserve des dispositions du Traité instituant la Communauté économique européenne et des textes pris pour son application, tout transport maritime et aérien entre le lieu d'exploitation en mer et le lieu de débarquement à terre est réservé, sauf dérogation exceptionnelle accordée par le ministre compétent, aux navires battant pavillon français et aux aéronefs français."
+      "content": "Sous réserve des dispositions du Traité instituant la Communauté économique européenne et des textes pris pour son application, tout transport maritime et aérien entre le lieu d'exploitation en mer et le lieu de débarquement à terre est réservé, sauf dérogation exceptionnelle accordée par le ministre compétent, aux navires battant pavillon français et aux aéronefs français.",
+      "valid_from": "1976-07-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

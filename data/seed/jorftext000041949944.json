@@ -12,25 +12,35 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "A modifié les dispositions suivantes :\n\nCette modification de l'article 2 a un caractère interprétatif.\n\n- Ordonnance n°2020-306 du 25 mars 2020"
+      "content": "A modifié les dispositions suivantes :\n\nCette modification de l'article 2 a un caractère interprétatif.\n\n- Ordonnance n°2020-306 du 25 mars 2020",
+      "valid_from": "2020-06-05"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Pour l'application à la Nouvelle-Calédonie, à la Polynésie française et à Wallis-et-Futuna du 4° quater du II de l'article 2 de l'ordonnance du 25 mars 2020 susvisée, dans sa rédaction résultant du 1° de l'article 1er de la présente ordonnance, les références : L. 214-17-2 et L. 214-30 sont supprimées.III. - Le 13° du II de l'article 1er de l'ordonnance du 25 mars 2020 susvisée, dans sa rédaction résultant du 2° de l'article 1er de la présente ordonnance, n'est pas applicable en Polynésie française.Pour son application en Nouvelle-Calédonie et à Wallis-et-Futuna, ce même 13° est ainsi rédigé :13° Aux délais figurant dans les contrats d'affrètement maritime de marchandises d'origine agricole fongibles non périssables et sèches et des produits de leur première transformation.\n\n- Ordonnance n°2020-306 du 25 mars 2020"
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Pour l'application à la Nouvelle-Calédonie, à la Polynésie française et à Wallis-et-Futuna du 4° quater du II de l'article 2 de l'ordonnance du 25 mars 2020 susvisée, dans sa rédaction résultant du 1° de l'article 1er de la présente ordonnance, les références : L. 214-17-2 et L. 214-30 sont supprimées.III. - Le 13° du II de l'article 1er de l'ordonnance du 25 mars 2020 susvisée, dans sa rédaction résultant du 2° de l'article 1er de la présente ordonnance, n'est pas applicable en Polynésie française.Pour son application en Nouvelle-Calédonie et à Wallis-et-Futuna, ce même 13° est ainsi rédigé :13° Aux délais figurant dans les contrats d'affrètement maritime de marchandises d'origine agricole fongibles non périssables et sèches et des produits de leur première transformation.\n\n- Ordonnance n°2020-306 du 25 mars 2020",
+      "valid_from": "2020-06-05"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le 13° du II de l'article 1er de l'ordonnance du 25 mars 2020 susvisée issu de la présente ordonnance s'applique aux contrats en cours à l'expiration d'un délai de sept jours suivant la date de l'entrée en vigueur de celle-ci."
+      "content": "Le 13° du II de l'article 1er de l'ordonnance du 25 mars 2020 susvisée issu de la présente ordonnance s'applique aux contrats en cours à l'expiration d'un délai de sept jours suivant la date de l'entrée en vigueur de celle-ci.",
+      "valid_from": "2020-06-05"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'économie et des finances, la ministre des outre-mer et le ministre de l'agriculture et de l'alimentation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, le ministre de l'économie et des finances, la ministre des outre-mer et le ministre de l'agriculture et de l'alimentation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-06-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

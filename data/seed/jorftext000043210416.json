@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "A titre expérimental, jusqu'au 31 août 2028, un concours externe spécial est ouvert pour l'accès à certaines écoles ou certains organismes assurant la formation de fonctionnaires ou de militaires.Peuvent se présenter à ce concours les personnes qui suivent, à la date de clôture des inscriptions, ou ont suivi, dans les quatre années civiles précédant l'année au cours de laquelle le concours est ouvert, un cycle de formation préparant à l'un ou plusieurs des concours externes ou assimilés donnant accès à ces écoles ou organismes, accessible au regard de critères sociaux et à l'issue d'une procédure de sélection."
+      "content": "A titre expérimental, jusqu'au 31 août 2028, un concours externe spécial est ouvert pour l'accès à certaines écoles ou certains organismes assurant la formation de fonctionnaires ou de militaires.Peuvent se présenter à ce concours les personnes qui suivent, à la date de clôture des inscriptions, ou ont suivi, dans les quatre années civiles précédant l'année au cours de laquelle le concours est ouvert, un cycle de formation préparant à l'un ou plusieurs des concours externes ou assimilés donnant accès à ces écoles ou organismes, accessible au regard de critères sociaux et à l'issue d'une procédure de sélection.",
+      "valid_from": "2025-03-26"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les procédures de sélection pour être admis à suivre les cycles de formation tiennent compte des parcours de formation, des aptitudes et de la motivation des candidats.Elles sont ouvertes aux candidats remplissant les conditions requises des candidats aux concours externes ou assimilés d'accès à l'école ou à l'organisme mentionné à l'article 1er ainsi que les critères sociaux mentionnés au second alinéa de l'article 1er."
+      "content": "Les procédures de sélection pour être admis à suivre les cycles de formation tiennent compte des parcours de formation, des aptitudes et de la motivation des candidats.Elles sont ouvertes aux candidats remplissant les conditions requises des candidats aux concours externes ou assimilés d'accès à l'école ou à l'organisme mentionné à l'article 1er ainsi que les critères sociaux mentionnés au second alinéa de l'article 1er.",
+      "valid_from": "2021-03-05"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Pour l'accès aux écoles ou organismes mentionné à l'article 1er, les candidats au concours externe spécial sont sélectionnés par le jury du concours externe ou assimilé. Les programmes et les épreuves sont identiques à ceux du concours externe.Le nombre de places offertes, au titre d'une année, aux lauréats de ce concours ne peut être supérieur à 15 % du nombre de places offertes au titre du concours externe ou assimilé d'accès à cette école ou cet organisme."
+      "content": "Pour l'accès aux écoles ou organismes mentionné à l'article 1er, les candidats au concours externe spécial sont sélectionnés par le jury du concours externe ou assimilé. Les programmes et les épreuves sont identiques à ceux du concours externe.Le nombre de places offertes, au titre d'une année, aux lauréats de ce concours ne peut être supérieur à 15 % du nombre de places offertes au titre du concours externe ou assimilé d'accès à cette école ou cet organisme.",
+      "valid_from": "2021-03-05"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La liste des concours des écoles et organismes pour lesquels l'accès prévu à l'article 1er est ouvert, l'objet et la nature des cycles de formation y préparant ainsi que, par dérogation au VI de l'article L. 612-3 du code de l'éducation, les conditions d'admission à ces cycles sont fixés par décret en Conseil d'Etat. Ce décret détermine également l'objet et la nature des cycles de formation existant à la date de publication de la présente ordonnance dont les étudiants ou anciens étudiants sont admis à se présenter aux concours externes spéciaux ainsi que les conditions de ressources exigées d'eux."
+      "content": "La liste des concours des écoles et organismes pour lesquels l'accès prévu à l'article 1er est ouvert, l'objet et la nature des cycles de formation y préparant ainsi que, par dérogation au VI de l'article L. 612-3 du code de l'éducation, les conditions d'admission à ces cycles sont fixés par décret en Conseil d'Etat. Ce décret détermine également l'objet et la nature des cycles de formation existant à la date de publication de la présente ordonnance dont les étudiants ou anciens étudiants sont admis à se présenter aux concours externes spéciaux ainsi que les conditions de ressources exigées d'eux.",
+      "valid_from": "2021-03-05"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Au plus tard le 31 mars 2028, est remis au Parlement un rapport portant sur l'évaluation de la mise en œuvre des concours externes spéciaux et des cycles de formation prévus par les articles 1er et 2. Le contenu de cette évaluation est précisé par le décret mentionné à l'article 4."
+      "content": "Au plus tard le 31 mars 2028, est remis au Parlement un rapport portant sur l'évaluation de la mise en œuvre des concours externes spéciaux et des cycles de formation prévus par les articles 1er et 2. Le contenu de cette évaluation est précisé par le décret mentionné à l'article 4.",
+      "valid_from": "2025-03-26"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, le ministre des solidarités et de la santé et la ministre de la transformation et de la fonction publiques sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, le ministre des solidarités et de la santé et la ministre de la transformation et de la fonction publiques sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-03-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

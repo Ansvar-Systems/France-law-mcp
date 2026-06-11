@@ -12,7 +12,14 @@
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "I - Sauf dans les contrats de location saisonnière de meublés de tourisme, est réputée non écrite toute stipulation tendant à interdire la détention d'un animal dans un local d'habitation dans la mesure où elle concerne un animal familier. Cette détention est toutefois subordonnée au fait que ledit animal ne cause aucun dégât à l'immeuble ni aucun trouble de jouissance aux occupants de celui-ci.\n\nEst licite la stipulation tendant à interdire la détention d'un chien appartenant à la première catégorie mentionnée à l'article L. 211-12 du code rural et de la pêche maritime.\n\nII - Les dispositions du présent article à l'exception de celles du dernier alinéa du I, sont applicables aux instances en cours."
+      "content": "I - Sauf dans les contrats de location saisonnière de meublés de tourisme, est réputée non écrite toute stipulation tendant à interdire la détention d'un animal dans un local d'habitation dans la mesure où elle concerne un animal familier. Cette détention est toutefois subordonnée au fait que ledit animal ne cause aucun dégât à l'immeuble ni aucun trouble de jouissance aux occupants de celui-ci.\n\nEst licite la stipulation tendant à interdire la détention d'un chien appartenant à la première catégorie mentionnée à l'article L. 211-12 du code rural et de la pêche maritime.\n\nII - Les dispositions du présent article à l'exception de celles du dernier alinéa du I, sont applicables aux instances en cours.",
+      "valid_from": "2012-03-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

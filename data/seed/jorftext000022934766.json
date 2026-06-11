@@ -12,13 +12,21 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les sites de stockage autorisés ou exploités à la date du 25 juin 2009 ou qui l'auront été avant la publication de la présente ordonnance, notamment en vertu de titres régis par la législation minière, devront satisfaire aux exigences de la section 6 du chapitre IX du titre II du livre II du code de l'environnement au plus tard le 25 juin 2012.Toutefois, les sites d'une capacité de stockage totale inférieure à 100 kilotonnes, entrepris à des fins de recherche et développement ou d'expérimentation de nouveaux produits et procédés, ouverts avant le 25 juin 2009 et utilisés avant le 25 juin 2010 ne sont pas soumis à cette obligation."
+      "content": "Les sites de stockage autorisés ou exploités à la date du 25 juin 2009 ou qui l'auront été avant la publication de la présente ordonnance, notamment en vertu de titres régis par la législation minière, devront satisfaire aux exigences de la section 6 du chapitre IX du titre II du livre II du code de l'environnement au plus tard le 25 juin 2012.Toutefois, les sites d'une capacité de stockage totale inférieure à 100 kilotonnes, entrepris à des fins de recherche et développement ou d'expérimentation de nouveaux produits et procédés, ouverts avant le 25 juin 2009 et utilisés avant le 25 juin 2010 ne sont pas soumis à cette obligation.",
+      "valid_from": "2010-10-23"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Le Premier ministre et le ministre d'Etat, ministre de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre d'Etat, ministre de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2010-10-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

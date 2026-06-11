@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le livre Ier de la partie législative du code de la construction et de l'habitation est remplacé par les dispositions figurant en annexe à la présente ordonnance."
+      "content": "Le livre Ier de la partie législative du code de la construction et de l'habitation est remplacé par les dispositions figurant en annexe à la présente ordonnance.",
+      "valid_from": "2021-07-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Sous réserve des dispositions des articles 4 à 6, les références à des dispositions législatives abrogées par application de l'article 1er sont remplacées par les références aux dispositions correspondantes du code de la construction et de l'habitation dans sa rédaction issue de la présente ordonnance."
+      "content": "Sous réserve des dispositions des articles 4 à 6, les références à des dispositions législatives abrogées par application de l'article 1er sont remplacées par les références aux dispositions correspondantes du code de la construction et de l'habitation dans sa rédaction issue de la présente ordonnance.",
+      "valid_from": "2021-07-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions du livre Ier du code de la construction et de l'habitation intervenues dans une matière relevant désormais de la compétence de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon et applicables localement dans leur rédaction en vigueur pour ces collectivités à la date de la publication de la présente ordonnance y demeurent en vigueur tant qu'elles n'ont pas été modifiées ou abrogées par l'autorité locale compétente."
+      "content": "Les dispositions du livre Ier du code de la construction et de l'habitation intervenues dans une matière relevant désormais de la compétence de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon et applicables localement dans leur rédaction en vigueur pour ces collectivités à la date de la publication de la présente ordonnance y demeurent en vigueur tant qu'elles n'ont pas été modifiées ou abrogées par l'autorité locale compétente.",
+      "valid_from": "2021-07-01"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.A cette même date, l'ordonnance n° 2018-937 du 30 octobre 2018 visant à faciliter la réalisation de projets de construction et à favoriser l'innovation est abrogée. Toutefois, elle demeure applicable aux opérations de construction ou de rénovation de bâtiments pour lesquelles une attestation de solution d'effet équivalent a été délivrée dans les conditions prévues par son article 5 avant la date d'entrée en vigueur de la présente ordonnance.\n\nA abrogé les dispositions suivantes :\n\n- Ordonnance n° 2018-937 du 30 octobre 2018"
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.A cette même date, l'ordonnance n° 2018-937 du 30 octobre 2018 visant à faciliter la réalisation de projets de construction et à favoriser l'innovation est abrogée. Toutefois, elle demeure applicable aux opérations de construction ou de rénovation de bâtiments pour lesquelles une attestation de solution d'effet équivalent a été délivrée dans les conditions prévues par son article 5 avant la date d'entrée en vigueur de la présente ordonnance.\n\nA abrogé les dispositions suivantes :\n\n- Ordonnance n° 2018-937 du 30 octobre 2018",
+      "valid_from": "2021-07-01"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le Premier ministre, la ministre de la transition écologique et solidaire, la ministre des solidarités et de la santé, la ministre du travail, le ministre de l'intérieur, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, la ministre des outre-mer et le ministre auprès de la ministre de la cohésion territoires et des relations avec les collectivités territoriales, chargé de la ville et du logement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la transition écologique et solidaire, la ministre des solidarités et de la santé, la ministre du travail, le ministre de l'intérieur, la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, la ministre des outre-mer et le ministre auprès de la ministre de la cohésion territoires et des relations avec les collectivités territoriales, chargé de la ville et du logement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

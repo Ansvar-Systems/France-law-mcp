@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 2007-1490 du 18 octobre 2007 relative aux marchés d'instruments financiers et portant actualisation et adaptation du droit économique et financier applicable à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna est ratifiée, à l'exception de ses articles 6 à 12 qui sont abrogés en tant qu'ils concernent Mayotte."
+      "content": "L'ordonnance n° 2007-1490 du 18 octobre 2007 relative aux marchés d'instruments financiers et portant actualisation et adaptation du droit économique et financier applicable à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna est ratifiée, à l'exception de ses articles 6 à 12 qui sont abrogés en tant qu'ils concernent Mayotte.",
+      "valid_from": "2008-05-28"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'article 3 de l'ordonnance n° 2007-1801 du 21 décembre 2007 relative à l'adaptation à Mayotte de diverses dispositions législatives est ratifié."
+      "content": "L'article 3 de l'ordonnance n° 2007-1801 du 21 décembre 2007 relative à l'adaptation à Mayotte de diverses dispositions législatives est ratifié.",
+      "valid_from": "2008-05-28"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "L'ordonnance n° 2007-392 du 22 mars 2007 portant extension et adaptation en Polynésie française de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et extension et adaptation de l'aide juridictionnelle en matière pénale à Mayotte, dans les îles Wallis et Futuna et en Nouvelle-Calédonie est ratifiée."
+      "content": "L'ordonnance n° 2007-392 du 22 mars 2007 portant extension et adaptation en Polynésie française de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et extension et adaptation de l'aide juridictionnelle en matière pénale à Mayotte, dans les îles Wallis et Futuna et en Nouvelle-Calédonie est ratifiée.",
+      "valid_from": "2008-05-28"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "L'ordonnance n° 2007-235 du 22 février 2007 étendant et adaptant à Saint-Pierre-et-Miquelon le régime des prestations familiales et le dispositif de retraite anticipée des assurés ayant commencé à travailler jeunes et ayant eu une longue carrière est ratifiée.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "L'ordonnance n° 2007-235 du 22 février 2007 étendant et adaptant à Saint-Pierre-et-Miquelon le régime des prestations familiales et le dispositif de retraite anticipée des assurés ayant commencé à travailler jeunes et ayant eu une longue carrière est ratifiée.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2008-05-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

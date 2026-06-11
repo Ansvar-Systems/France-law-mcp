@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - Les dispositions de la présente ordonnance, à l'exception des dispositions du 2° de l'article 1er, entrent en vigueur le 1er janvier 2016.II. - Les contrats d'accès à l'emploi conclus avant l'entrée en vigueur de la présente ordonnance continuent à produire leurs effets dans les conditions applicables antérieurement à cette date, jusqu'au terme fixé par la décision d'attribution de l'aide à l'insertion professionnelle qui leur est attachée. Ces contrats peuvent être renouvelés sous la forme et selon les critères d'éligibilité des contrats initiative-emploi.III. - Les dispositions du 2° de l'article 1er entrent en vigueur à la date de la première réunion suivant la première élection de l'assemblée de Guyane et de l'assemblée de Martinique créées en application des dispositions de la loi n° 2011-884 du 27 juillet 2011 relative aux collectivités territoriales de Guyane et de Martinique."
+      "content": "I. - Les dispositions de la présente ordonnance, à l'exception des dispositions du 2° de l'article 1er, entrent en vigueur le 1er janvier 2016.II. - Les contrats d'accès à l'emploi conclus avant l'entrée en vigueur de la présente ordonnance continuent à produire leurs effets dans les conditions applicables antérieurement à cette date, jusqu'au terme fixé par la décision d'attribution de l'aide à l'insertion professionnelle qui leur est attachée. Ces contrats peuvent être renouvelés sous la forme et selon les critères d'éligibilité des contrats initiative-emploi.III. - Les dispositions du 2° de l'article 1er entrent en vigueur à la date de la première réunion suivant la première élection de l'assemblée de Guyane et de l'assemblée de Martinique créées en application des dispositions de la loi n° 2011-884 du 27 juillet 2011 relative aux collectivités territoriales de Guyane et de Martinique.",
+      "valid_from": "2016-01-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, la ministre des affaires sociales, de la santé et des droits des femmes, la ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre des affaires sociales, de la santé et des droits des femmes, la ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social et la ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Par dérogation aux dispositions des articles L. 723-29 et L. 723-30 du code rural et de la pêche maritime, lorsqu'à la date de publication de la présente ordonnance l'assemblée générale des délégués cantonaux élus en février 2020 ne s'est pas encore réunie pour élire les membres du conseil d'administration d'une caisse départementale ou pluri-départementale de mutualité sociale agricole, les membres du conseil d'administration de cette caisse élus ou désignés antérieurement à l'élection de ces délégués peuvent continuer à exercer les fonctions d'administrateur jusqu'à la convocation de l'assemblée générale et, au plus tard, jusqu'au 1er octobre 2020.Par dérogation aux dispositions de l'article L. 723-32 du même code, les membres du conseil central d'administration de la mutualité sociale agricole, élus ou désignés antérieurement aux élections des délégués cantonaux intervenues en février 2020, sont maintenus en fonction jusqu'à la prochaine convocation en assemblée générale des délégués des conseils d'administration des caisses départementales et pluri-départementales et, au plus tard, jusqu'au 15 décembre 2020."
+      "content": "Par dérogation aux dispositions des articles L. 723-29 et L. 723-30 du code rural et de la pêche maritime, lorsqu'à la date de publication de la présente ordonnance l'assemblée générale des délégués cantonaux élus en février 2020 ne s'est pas encore réunie pour élire les membres du conseil d'administration d'une caisse départementale ou pluri-départementale de mutualité sociale agricole, les membres du conseil d'administration de cette caisse élus ou désignés antérieurement à l'élection de ces délégués peuvent continuer à exercer les fonctions d'administrateur jusqu'à la convocation de l'assemblée générale et, au plus tard, jusqu'au 1er octobre 2020.Par dérogation aux dispositions de l'article L. 723-32 du même code, les membres du conseil central d'administration de la mutualité sociale agricole, élus ou désignés antérieurement aux élections des délégués cantonaux intervenues en février 2020, sont maintenus en fonction jusqu'à la prochaine convocation en assemblée générale des délégués des conseils d'administration des caisses départementales et pluri-départementales et, au plus tard, jusqu'au 15 décembre 2020.",
+      "valid_from": "2020-03-27"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le Premier ministre et le ministre de l'agriculture et de l'alimentation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et le ministre de l'agriculture et de l'alimentation sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-03-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

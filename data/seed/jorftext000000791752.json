@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I.-Les dispositions du premier alinéa de l'article L. 541-2 du code de la construction et de l'habitation s'appliquent aux cessions postérieures à la publication de la présente ordonnance portant sur des immeubles frappés d'un arrêté d'insalubrité ou de péril avant cette publication si celui-ci a fait l'objet, avant la cession,        d'une publication au fichier immobilier ou au livre foncier ou est grevé d'une inscription en application du 1° de l'article 2384-1 du code civil.II.-Les dispositions du deuxième alinéa de l'article L. 541-2 du code de la construction et de l'habitation s'appliquent aux cessions de fonds de commerce exploités à des fins d'hébergement, postérieures à la publication de la présente ordonnance si l'arrêté d'insalubrité ou de péril intervenu avant cette publication a été publié avant la cession sur le registre public tenu au greffe du tribunal de commerce.III.-Les dispositions de la présente ordonnance sont précisées, en tant que de besoin, par un décret en Conseil d'Etat."
+      "content": "I.-Les dispositions du premier alinéa de l'article L. 541-2 du code de la construction et de l'habitation s'appliquent aux cessions postérieures à la publication de la présente ordonnance portant sur des immeubles frappés d'un arrêté d'insalubrité ou de péril avant cette publication si celui-ci a fait l'objet, avant la cession,        d'une publication au fichier immobilier ou au livre foncier ou est grevé d'une inscription en application du 1° de l'article 2384-1 du code civil.II.-Les dispositions du deuxième alinéa de l'article L. 541-2 du code de la construction et de l'habitation s'appliquent aux cessions de fonds de commerce exploités à des fins d'hébergement, postérieures à la publication de la présente ordonnance si l'arrêté d'insalubrité ou de péril intervenu avant cette publication a été publié avant la cession sur le registre public tenu au greffe du tribunal de commerce.III.-Les dispositions de la présente ordonnance sont précisées, en tant que de besoin, par un décret en Conseil d'Etat.",
+      "valid_from": "2013-01-01"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, le ministre de l'emploi, de la cohésion sociale et du logement et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'emploi, de la cohésion sociale et du logement et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2007-01-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Par dérogation au deuxième alinéa de l'article L. 16 du code électoral, les listes électorales font l'objet d'une procédure de révision exceptionnelle en 2015. Les demandes d'inscription sont recevables jusqu'au 30 septembre 2015.Pour la mise en œuvre du présent article, les articles L. 11 à L. 40 du même code sont applicables."
+      "content": "Par dérogation au deuxième alinéa de l'article L. 16 du code électoral, les listes électorales font l'objet d'une procédure de révision exceptionnelle en 2015. Les demandes d'inscription sont recevables jusqu'au 30 septembre 2015.Pour la mise en œuvre du présent article, les articles L. 11 à L. 40 du même code sont applicables.",
+      "valid_from": "2015-07-15"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Un décret en Conseil d'Etat détermine les règles et les formes de l'opération prévue à l'article 1er."
+      "content": "Un décret en Conseil d'Etat détermine les règles et les formes de l'opération prévue à l'article 1er.",
+      "valid_from": "2015-07-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

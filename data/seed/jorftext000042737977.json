@@ -12,31 +12,42 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de procédure pénale\n\nII. - Le présent article entre en vigueur le premier jour du troisième mois suivant la publication de la présente loi et est applicable aux décisions d'enquête européenne émises à compter de cette entrée en vigueur."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de procédure pénale\n\nII. - Le présent article entre en vigueur le premier jour du troisième mois suivant la publication de la présente loi et est applicable aux décisions d'enquête européenne émises à compter de cette entrée en vigueur.",
+      "valid_from": "2020-12-27"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les procureurs européens délégués nommés pour la France en position de détachement ainsi que leurs ayants droit sont affiliés, en ce qui concerne la couverture des risques maladie, invalidité, décès, maternité et paternité, au régime spécial de sécurité sociale prévu à l'article L. 712-1 du code de la sécurité sociale.Par dérogation à l'article L. 712-3 du même code, les administrations ou les établissements desquels sont détachés ces procureurs liquident et payent les prestations mentionnées au même article L. 712-3.Les procureurs mentionnés au premier alinéa du présent article bénéficient des prestations d'allocations familiales dans les conditions prévues à l'article L. 212-1 du code de la sécurité sociale.Les cotisations de sécurité sociale d'origine légale et réglementaire finançant la couverture des risques mentionnés au premier alinéa du présent article, la cotisation mentionnée à l'article L. 241-6 du code de la sécurité sociale ainsi que les contributions mentionnées à l'article L. 136-1 du même code, à l'article 14 de l'ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette sociale et à l'article L. 14-10-4 du code de l'action sociale et des familles sont prises en charge par l'Etat français."
+      "content": "Les procureurs européens délégués nommés pour la France en position de détachement ainsi que leurs ayants droit sont affiliés, en ce qui concerne la couverture des risques maladie, invalidité, décès, maternité et paternité, au régime spécial de sécurité sociale prévu à l'article L. 712-1 du code de la sécurité sociale.Par dérogation à l'article L. 712-3 du même code, les administrations ou les établissements desquels sont détachés ces procureurs liquident et payent les prestations mentionnées au même article L. 712-3.Les procureurs mentionnés au premier alinéa du présent article bénéficient des prestations d'allocations familiales dans les conditions prévues à l'article L. 212-1 du code de la sécurité sociale.Les cotisations de sécurité sociale d'origine légale et réglementaire finançant la couverture des risques mentionnés au premier alinéa du présent article, la cotisation mentionnée à l'article L. 241-6 du code de la sécurité sociale ainsi que les contributions mentionnées à l'article L. 136-1 du même code, à l'article 14 de l'ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette sociale et à l'article L. 14-10-4 du code de l'action sociale et des familles sont prises en charge par l'Etat français.",
+      "valid_from": "2021-06-01"
     },
     {
       "provision_ref": "art28",
       "section": "28",
       "title": "Article 28",
-      "content": "I.-A créé les dispositions suivantes :\n\nII.-Le présent article entre en vigueur le 1er mars 2021.\n\n- Code de procédure pénale"
+      "content": "I.-A créé les dispositions suivantes :\n\nII.-Le présent article entre en vigueur le 1er mars 2021.\n\n- Code de procédure pénale",
+      "valid_from": "2020-12-27"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "I.-L'ordonnance n° 2019-963 du 18 septembre 2019 relative à la lutte contre la fraude portant atteinte aux intérêts financiers de l'Union européenne au moyen du droit pénal est ratifiée.\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\n- Code des douanes\n\n- Code pénal\n\n- Code des douanes"
+      "content": "I.-L'ordonnance n° 2019-963 du 18 septembre 2019 relative à la lutte contre la fraude portant atteinte aux intérêts financiers de l'Union européenne au moyen du droit pénal est ratifiée.\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\n-Code des douanes\n\n-Code pénal\n\n-Code des douanes",
+      "valid_from": "2020-12-27"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "Le titre Ier de la présente loi entre en vigueur à la date fixée par la Commission européenne en application de l'article 120 du règlement (UE) 2017/1939 du Conseil du 12 octobre 2017 mettant en œuvre une coopération renforcée concernant la création du Parquet européen.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Le titre Ier de la présente loi entre en vigueur à la date fixée par la Commission européenne en application de l'article 120 du règlement (UE) 2017/1939 du Conseil du 12 octobre 2017 mettant en œuvre une coopération renforcée concernant la création du Parquet européen.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2020-12-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

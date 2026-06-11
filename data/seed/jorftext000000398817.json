@@ -12,7 +12,14 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les articles 11-1, 11-2 et 12 de la loi n° 84-610 du 16 juillet 1984 précitée sont abrogés."
+      "content": "Les articles 11-1, 11-2 et 12 de la loi n° 84-610 du 16 juillet 1984 précitée sont abrogés.",
+      "valid_from": "1999-12-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

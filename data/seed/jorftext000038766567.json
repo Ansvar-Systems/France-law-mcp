@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "L'Union nationale des organismes d'assurance maladie complémentaire assure le suivi de la mise en œuvre effective par les organismes d'assurance maladie complémentaire, avant la date prévue au premier alinéa de l'article 6 de la présente loi, des services numériques permettant à leurs adhérents, assurés et participants d'avoir connaissance de leurs droits et garanties en temps réel et rendant possible la mise à disposition des professionnels, des établissements et des centres de santé des informations relatives à ces droits et garanties, notamment aux fins de mise en œuvre du tiers payant sur les produits et prestations qu'ils délivrent."
+      "content": "L'Union nationale des organismes d'assurance maladie complémentaire assure le suivi de la mise en œuvre effective par les organismes d'assurance maladie complémentaire, avant la date prévue au premier alinéa de l'article 6 de la présente loi, des services numériques permettant à leurs adhérents, assurés et participants d'avoir connaissance de leurs droits et garanties en temps réel et rendant possible la mise à disposition des professionnels, des établissements et des centres de santé des informations relatives à ces droits et garanties, notamment aux fins de mise en œuvre du tiers payant sur les produits et prestations qu'ils délivrent.",
+      "valid_from": "2019-07-17"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les articles 1er à 3 entrent en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.Le droit de résiliation ou de dénonciation prévu à l'article L. 113-15-2 du code des assurances, aux articles L. 932-12-1 et L. 932-21-2 du code de la sécurité sociale et à l'article L. 221-10-2 du code de la mutualité, dans leur rédaction résultant de la présente loi, est applicable aux adhésions et contrats existants à cette date.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Les articles 1er à 3 entrent en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.Le droit de résiliation ou de dénonciation prévu à l'article L. 113-15-2 du code des assurances, aux articles L. 932-12-1 et L. 932-21-2 du code de la sécurité sociale et à l'article L. 221-10-2 du code de la mutualité, dans leur rédaction résultant de la présente loi, est applicable aux adhésions et contrats existants à cette date.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2019-07-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,25 +12,35 @@
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "I. Sous réserve de réciprocité, les administrations financières peuvent communiquer aux administrations des Etats membres de la Communauté européenne des renseignements pour l'établissement et le recouvrement des impôts sur le revenu et sur la fortune ainsi que de la taxe sur la valeur ajoutée.II. L'article 82 de la loi de finances pour 1978, n° 77-1467 du 30 décembre 1977, est applicable au recouvrement de la taxe sur la valeur ajoutée et de toutes sommes accessoires dues à un autre Etat membre de la Communauté européenne.III. L'assistance prévue aux I et II ci-dessus pourra être fournie aux administrations étrangères pour les demandes postérieures au 1er janvier 1982.IV. Un décret en Conseil d'Etat précisera les conditions d'application du présent article."
+      "content": "I. Sous réserve de réciprocité, les administrations financières peuvent communiquer aux administrations des Etats membres de la Communauté européenne des renseignements pour l'établissement et le recouvrement des impôts sur le revenu et sur la fortune ainsi que de la taxe sur la valeur ajoutée.II. L'article 82 de la loi de finances pour 1978, n° 77-1467 du 30 décembre 1977, est applicable au recouvrement de la taxe sur la valeur ajoutée et de toutes sommes accessoires dues à un autre Etat membre de la Communauté européenne.III. L'assistance prévue aux I et II ci-dessus pourra être fournie aux administrations étrangères pour les demandes postérieures au 1er janvier 1982.IV. Un décret en Conseil d'Etat précisera les conditions d'application du présent article.",
+      "valid_from": "1982-01-01"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "I. Les revenus des obligations qu'aura émises, avec la garantie de l'Etat, l'office national d'études et de recherches aérospatiales pour l'acquisition des actions de la Société Matra, sont assujettis aux dispositions fiscales applicables aux revenus des obligations à taux fixe émises par l'Etat.II. Les opérations d'échange des obligations émises par l'office national d'études et de recherches aérospatiales contre des actions de la Société Matra ne donnent lieu à la perception d'aucun droit de timbre ou d'enregistrement.III. Lorsque des actions de la Société Matra figurent à l'actif d'une entreprise, la plus-value ou la moins-value résultant de l'échange prévu au II ci-dessus n'est pas prise en compte pour la détermination du résultat imposable de l'exercice en cours lors de sa réalisation. Les obligations reçues en échange sont inscrites au bilan pour la même valeur comptable que celle des actions échangées. Lors de la cession ou du remboursement de tout ou partie des obligations visées au II, celles-ci sont réputées avoir été acquises à la date à laquelle les actions de la Société Matra avaient été acquises par l'entreprise et la plus-value ou la moins-value est déterminée à partir de la valeur que lesdites actions avaient du point de vue fiscal dans les écritures de l'entreprise.IV. Les dispositions des articles 92, 92 A et 92 B du code général des impôts ne sont pas applicables à l'échange de titres autorisé par la présente loi.En cas de vente des titres reçus en échange, la plus ou moins-value est calculée à partir du prix ou de la valeur d'acquisition des actions de la Société Matra. Pour l'application de cette disposition, le remboursement des obligations reçues en échange est assimilé à une vente."
+      "content": "I. Les revenus des obligations qu'aura émises, avec la garantie de l'Etat, l'office national d'études et de recherches aérospatiales pour l'acquisition des actions de la Société Matra, sont assujettis aux dispositions fiscales applicables aux revenus des obligations à taux fixe émises par l'Etat.II. Les opérations d'échange des obligations émises par l'office national d'études et de recherches aérospatiales contre des actions de la Société Matra ne donnent lieu à la perception d'aucun droit de timbre ou d'enregistrement.III. Lorsque des actions de la Société Matra figurent à l'actif d'une entreprise, la plus-value ou la moins-value résultant de l'échange prévu au II ci-dessus n'est pas prise en compte pour la détermination du résultat imposable de l'exercice en cours lors de sa réalisation. Les obligations reçues en échange sont inscrites au bilan pour la même valeur comptable que celle des actions échangées. Lors de la cession ou du remboursement de tout ou partie des obligations visées au II, celles-ci sont réputées avoir été acquises à la date à laquelle les actions de la Société Matra avaient été acquises par l'entreprise et la plus-value ou la moins-value est déterminée à partir de la valeur que lesdites actions avaient du point de vue fiscal dans les écritures de l'entreprise.IV. Les dispositions des articles 92, 92 A et 92 B du code général des impôts ne sont pas applicables à l'échange de titres autorisé par la présente loi.En cas de vente des titres reçus en échange, la plus ou moins-value est calculée à partir du prix ou de la valeur d'acquisition des actions de la Société Matra. Pour l'application de cette disposition, le remboursement des obligations reçues en échange est assimilé à une vente.",
+      "valid_from": "1982-01-01"
     },
     {
       "provision_ref": "art21",
       "section": "21",
       "title": "Article 21",
-      "content": "(Les dispositions de cet article ont été déclarées non conformes à la Constitution par décision du Conseil constitutionnel en date du 31 décembre 1981)."
+      "content": "(Les dispositions de cet article ont été déclarées non conformes à la Constitution par décision du Conseil constitutionnel en date du 31 décembre 1981).",
+      "valid_from": "1982-01-01"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "(Les dispositions de cet article ont été déclarées non conformes à la Constitution par décision du Conseil constitutionnel en date du 31 décembre 1981)."
+      "content": "(Les dispositions de cet article ont été déclarées non conformes à la Constitution par décision du Conseil constitutionnel en date du 31 décembre 1981).",
+      "valid_from": "1982-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

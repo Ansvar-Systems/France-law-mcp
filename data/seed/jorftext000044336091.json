@@ -12,13 +12,21 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions de la présente ordonnance entrent en vigueur le lendemain de sa publication.Toutefois les dispositions des articles L. 224-7 à L. 224-8-2 du code de l'environnement, dans leur rédaction issue de la présente ordonnance, sont applicables aux marchés publics et aux contrats de concession pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter de la date de son entrée en vigueur."
+      "content": "Les dispositions de la présente ordonnance entrent en vigueur le lendemain de sa publication.Toutefois les dispositions des articles L. 224-7 à L. 224-8-2 du code de l'environnement, dans leur rédaction issue de la présente ordonnance, sont applicables aux marchés publics et aux contrats de concession pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter de la date de son entrée en vigueur.",
+      "valid_from": "2021-11-19"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, la ministre de la transition écologique, le ministre des outre-mer et le ministre délégué auprès de la ministre de la transition écologique, chargé des transports, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la transition écologique, le ministre des outre-mer et le ministre délégué auprès de la ministre de la transition écologique, chargé des transports, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-11-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,31 +12,42 @@
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "1. Les établissements publics de l'Etat non soumis aux règles de la comptabilité publique sont tenus de désigner au moins un commissaire aux comptes et, lorsque les conditions définies au deuxième alinéa du I de l'article L. 823-1 du code de commerce sont réunies, un suppléant. Toutefois, cette obligation ne s'impose pas lorsque le nombre de salariés, le montant hors taxes du chiffre d'affaires ou des ressources ainsi que le total du bilan ne dépassent pas, pour deux de ces critères, des seuils fixés par décret en Conseil d'Etat.\n\nLes établissements publics de l'Etat, qu'ils soient ou non soumis aux règles de la comptabilité publique, sont tenus de nommer au moins deux commissaires aux comptes et, lorsque les conditions définies au deuxième alinéa du I de l'article L. 823-1 du code de commerce sont réunies, deux suppléants lorsqu'ils établissent des comptes consolidés en application de l'article 13 de la loi n° 85-11 du 3 janvier 1985 relative aux comptes consolidés de certaines sociétés commerciales et entreprises publiques.\n\nNéanmoins, quand les conditions posées aux premier et deuxième alinéas ne sont pas remplies, les établissements publics de l'Etat peuvent nommer au moins un commissaire aux comptes et, lorsque les conditions définies au deuxième alinéa du I de l'article L. 823-1 du code de commerce sont réunies, un suppléant. Il en va de même dans les groupements d'intérêt public dont l'Etat ou un établissement public de l'Etat est membre.\n\n2. Les commissaires aux comptes des établissements publics de l'Etat sont désignés dans les conditions prévues à l'article L. 823-1 du code de commerce. Lorsque des titres financiers de l'établissement sont admis aux négociations sur un marché réglementé, cette désignation est effectuée après avis de l'Autorité des marchés financiers, dans des conditions fixées par décret."
+      "content": "1. Les établissements publics de l'Etat non soumis aux règles de la comptabilité publique sont tenus de désigner au moins un commissaire aux comptes et, lorsque les conditions définies au deuxième alinéa du I de l'article L. 823-1 du code de commerce sont réunies, un suppléant. Toutefois, cette obligation ne s'impose pas lorsque le nombre de salariés, le montant hors taxes du chiffre d'affaires ou des ressources ainsi que le total du bilan ne dépassent pas, pour deux de ces critères, des seuils fixés par décret en Conseil d'Etat.\n\nLes établissements publics de l'Etat, qu'ils soient ou non soumis aux règles de la comptabilité publique, sont tenus de nommer au moins deux commissaires aux comptes et, lorsque les conditions définies au deuxième alinéa du I de l'article L. 823-1 du code de commerce sont réunies, deux suppléants lorsqu'ils établissent des comptes consolidés en application de l'article 13 de la loi n° 85-11 du 3 janvier 1985 relative aux comptes consolidés de certaines sociétés commerciales et entreprises publiques.\n\nNéanmoins, quand les conditions posées aux premier et deuxième alinéas ne sont pas remplies, les établissements publics de l'Etat peuvent nommer au moins un commissaire aux comptes et, lorsque les conditions définies au deuxième alinéa du I de l'article L. 823-1 du code de commerce sont réunies, un suppléant. Il en va de même dans les groupements d'intérêt public dont l'Etat ou un établissement public de l'Etat est membre.\n\n2. Les commissaires aux comptes des établissements publics de l'Etat sont désignés dans les conditions prévues à l'article L. 823-1 du code de commerce. Lorsque des titres financiers de l'établissement sont admis aux négociations sur un marché réglementé, cette désignation est effectuée après avis de l'Autorité des marchés financiers, dans des conditions fixées par décret.",
+      "valid_from": "2019-05-24"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "Le commissaire aux comptes exerce ses fonctions dans les conditions prévues par la loi du 24 juillet 1966 précitée.Les dispositions de l'article 457 de la loi n° 66-537 du 24 juillet 1966 précitée sont applicables.Les missions temporaires définies à l'article 220 4° de la loi du 24 juillet 1966 précitée ne peuvent être confiées au commissaire aux comptes par l'établissement ou l'entreprise mentionné à l'article précédent qu'à la demande soit de la Cour des comptes, soit de l'autorité qui a désigné le commissaire aux comptes, soit de l'Autorité des marchés financiers pour ceux qui font publiquement appel à l'épargne."
+      "content": "Le commissaire aux comptes exerce ses fonctions dans les conditions prévues par la loi du 24 juillet 1966 précitée.Les dispositions de l'article 457 de la loi n° 66-537 du 24 juillet 1966 précitée sont applicables.Les missions temporaires définies à l'article 220 4° de la loi du 24 juillet 1966 précitée ne peuvent être confiées au commissaire aux comptes par l'établissement ou l'entreprise mentionné à l'article précédent qu'à la demande soit de la Cour des comptes, soit de l'autorité qui a désigné le commissaire aux comptes, soit de l'Autorité des marchés financiers pour ceux qui font publiquement appel à l'épargne.",
+      "valid_from": "2003-08-02"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "Dans certains établissements et entreprises mentionnés à l'article 30 qui répondent à l'un des critères définis à l'article L. 232-2 du code de commerce précité, le conseil d'administration ou le directoire est tenu d'établir les documents mentionnés à cet article. Les dispositions de l'article L. 232-3 du code de commerce sont applicables."
+      "content": "Dans certains établissements et entreprises mentionnés à l'article 30 qui répondent à l'un des critères définis à l'article L. 232-2 du code de commerce précité, le conseil d'administration ou le directoire est tenu d'établir les documents mentionnés à cet article. Les dispositions de l'article L. 232-3 du code de commerce sont applicables.",
+      "valid_from": "2000-09-21"
     },
     {
       "provision_ref": "art57",
       "section": "57",
       "title": "Article 57",
-      "content": "Les dispositions de l'article L. 225-219, troisième alinéa, du code de commerce précité ne sont pas applicables aux personnes occupant un emploi salarié qui étaient inscrites sur la liste des commissaires aux comptes à la date de la promulgation de la présente loi."
+      "content": "Les dispositions de l'article L. 225-219, troisième alinéa, du code de commerce précité ne sont pas applicables aux personnes occupant un emploi salarié qui étaient inscrites sur la liste des commissaires aux comptes à la date de la promulgation de la présente loi.",
+      "valid_from": "2000-09-21"
     },
     {
       "provision_ref": "art59",
       "section": "59",
       "title": "Article 59",
-      "content": "Un décret en conseil d'Etat adaptera, pour les banques et les entreprises de réassurance, les dispositions des articles L. 232-2, L. 232-7 et L. 232-8 du code de commerce précité, en particulier la forme et le contenu des documents qui doivent être établis.L'application de la présente loi aux entreprises d'assurance et de capitalisation s'effectue dans les conditions prévues par l'article L. 310-3 du code des assurances."
+      "content": "Un décret en conseil d'Etat adaptera, pour les banques et les entreprises de réassurance, les dispositions des articles L. 232-2, L. 232-7 et L. 232-8 du code de commerce précité, en particulier la forme et le contenu des documents qui doivent être établis.L'application de la présente loi aux entreprises d'assurance et de capitalisation s'effectue dans les conditions prévues par l'article L. 310-3 du code des assurances.",
+      "valid_from": "2000-09-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

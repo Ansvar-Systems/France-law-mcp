@@ -12,13 +12,21 @@
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "Par dérogation aux dispositions du premier alinéa de l'article L. 442-4 du code de l'organisation judiciaire, le prochain renouvellement des membres assesseurs des tribunaux paritaires des baux ruraux aura lieu en janvier 2002. Le mandat des membres assesseurs des tribunaux paritaires des baux ruraux en fonction prendra fin à la date d'installation des membres assesseurs nouvellement élus."
+      "content": "Par dérogation aux dispositions du premier alinéa de l'article L. 442-4 du code de l'organisation judiciaire, le prochain renouvellement des membres assesseurs des tribunaux paritaires des baux ruraux aura lieu en janvier 2002. Le mandat des membres assesseurs des tribunaux paritaires des baux ruraux en fonction prendra fin à la date d'installation des membres assesseurs nouvellement élus.",
+      "valid_from": "2001-01-05"
     },
     {
       "provision_ref": "art25",
       "section": "25",
       "title": "Article 25",
-      "content": "Le Gouvernement déposera, dans les six mois à compter de la publication de la présente loi, un rapport faisant état des connaissances acquises en matière d'incidence des insecticides systémiques sur les populations d'abeilles."
+      "content": "Le Gouvernement déposera, dans les six mois à compter de la publication de la présente loi, un rapport faisant état des connaissances acquises en matière d'incidence des insecticides systémiques sur les populations d'abeilles.",
+      "valid_from": "2001-01-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

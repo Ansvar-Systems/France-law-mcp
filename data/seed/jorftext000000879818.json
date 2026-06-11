@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "A l'intérieur de l'aire géographique de production des appellations \"Blanquette de Limoux\", \"Blanquette méthode ancestrale\" et \"Crémant de Limoux\", toute élaboration de vins mousseux autres que des vins mousseux à appellation d'origine contrôlée est interdite."
+      "content": "A l'intérieur de l'aire géographique de production des appellations \"Blanquette de Limoux\", \"Blanquette méthode ancestrale\" et \"Crémant de Limoux\", toute élaboration de vins mousseux autres que des vins mousseux à appellation d'origine contrôlée est interdite.",
+      "valid_from": "1955-08-11"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les infractions aux dispositions de la présente loi seront punies d'un emprisonnement d'un an au plus et d'une amende de 3 750 euros ou de l'une de ces deux peines seulement.\n\nElles seront constatées par les agents chargés de la répression des fraudes et par les fonctionnaires des contributions indirectes.\n\nElles seront poursuivies et réprimées suivant les formes prévues en matière de contributions indirectes."
+      "content": "Les infractions aux dispositions de la présente loi seront punies d'un emprisonnement d'un an au plus et d'une amende de 3 750 euros ou de l'une de ces deux peines seulement.\n\nElles seront constatées par les agents chargés de la répression des fraudes et par les fonctionnaires des contributions indirectes.\n\nElles seront poursuivies et réprimées suivant les formes prévues en matière de contributions indirectes.",
+      "valid_from": "1993-09-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

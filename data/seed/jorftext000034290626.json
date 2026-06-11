@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2017-750 DC du 23 mars 2017.]"
+      "content": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2017-750 DC du 23 mars 2017.]",
+      "valid_from": "2017-03-29"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les articles L. 225-102-4 et L. 225-102-5 du code de commerce s'appliquent à compter du rapport mentionné à l'article L. 225-102 du même code portant sur le premier exercice ouvert après la publication de la présente loi.Par dérogation au premier alinéa du présent article, pour l'exercice au cours duquel la présente loi a été publiée, le I de l'article L. 225-102-4 dudit code s'applique, à l'exception du compte rendu prévu à son avant-dernier alinéa."
+      "content": "Les articles L. 225-102-4 et L. 225-102-5 du code de commerce s'appliquent à compter du rapport mentionné à l'article L. 225-102 du même code portant sur le premier exercice ouvert après la publication de la présente loi.Par dérogation au premier alinéa du présent article, pour l'exercice au cours duquel la présente loi a été publiée, le I de l'article L. 225-102-4 dudit code s'applique, à l'exception du compte rendu prévu à son avant-dernier alinéa.",
+      "valid_from": "2017-03-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

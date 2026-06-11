@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I.-Sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna dans les conditions prévues aux II et III :\n\n1° Les modifications apportées par la loi du 19 octobre 2009 susvisée :\n\na) Aux articles L. 221-5 et L. 313-12 du code monétaire et financier ;\n\nb) A l'intitulé de la section 4 du chapitre Ier du titre II du livre IV du même code ;\n\n2° Les articles L. 131-1-1, L. 313-12-1 et L. 313-12-2 insérés dans le même code par la même loi.\n\nA modifié les dispositions suivantes :\n\n-Code monétaire et financier"
+      "content": "I.-Sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna dans les conditions prévues aux II et III :\n\n1° Les modifications apportées par la loi du 19 octobre 2009 susvisée :\n\na) Aux articles L. 221-5 et L. 313-12 du code monétaire et financier ;\n\nb) A l'intitulé de la section 4 du chapitre Ier du titre II du livre IV du même code ;\n\n2° Les articles L. 131-1-1, L. 313-12-1 et L. 313-12-2 insérés dans le même code par la même loi.\n\nA modifié les dispositions suivantes :\n\n-Code monétaire et financier",
+      "valid_from": "2010-04-17"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Sont applicables en Nouvelle-Calédonie et dans les îles Wallis et Futuna les modifications apportées par la loi du 19 octobre 2009 susvisée à l'article L. 232-1 du code de commerce."
+      "content": "Sont applicables en Nouvelle-Calédonie et dans les îles Wallis et Futuna les modifications apportées par la loi du 19 octobre 2009 susvisée à l'article L. 232-1 du code de commerce.",
+      "valid_from": "2010-04-17"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le Premier ministre, la ministre de l'économie, de l'industrie et de l'emploi et le ministre de l'intérieur, de l'outre-mer et des collectivités territoriales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de l'économie, de l'industrie et de l'emploi et le ministre de l'intérieur, de l'outre-mer et des collectivités territoriales sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2010-04-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

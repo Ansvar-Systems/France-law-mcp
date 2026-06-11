@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "A créé les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- Code rural et de la pêche maritime\n\n- Code de la construction et de l'habitation.\n\n- Code civil\n\n- Code civil"
+      "content": "A créé les dispositions suivantes :\n\nA abrogé les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nLa présente loi sera exécutée comme loi de l'Etat.\n\n- Code rural et de la pêche maritime\n\n- Code de la construction et de l'habitation.\n\n- Code civil\n\n- Code civil",
+      "valid_from": "2024-04-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

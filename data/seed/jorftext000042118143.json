@@ -12,13 +12,21 @@
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les articles 2, 4 et 5 de la présente ordonnance entrent en vigueur le 25 octobre 2020."
+      "content": "Les articles 2, 4 et 5 de la présente ordonnance entrent en vigueur le 25 octobre 2020.",
+      "valid_from": "2020-07-17"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Premier ministre et la ministre de la transition écologique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre de la transition écologique sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-07-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'indemnité de douze millions de francs versée à titre global et forfaitaire par la République du Zaïre en application de l'accord intervenu entre le Gouvernement français et le Gouvernement zaïrois le 22 janvier 1988 sera répartie par l'Agence nationale pour l'indemnisation des Français d'outre-mer dans les conditions définies aux articles suivants."
+      "content": "L'indemnité de douze millions de francs versée à titre global et forfaitaire par la République du Zaïre en application de l'accord intervenu entre le Gouvernement français et le Gouvernement zaïrois le 22 janvier 1988 sera répartie par l'Agence nationale pour l'indemnisation des Français d'outre-mer dans les conditions définies aux articles suivants.",
+      "valid_from": "1990-07-08"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'Agence nationale pour l'indemnisation des Français d'outre-mer répartit au marc le franc l'indemnité globale mentionnée à l'article 1er entre les bénéficiaires figurant sur la liste annexée à l'accord.Ceux-ci doivent, dans les six mois suivant la publication de la présente loi, donner à l'agence nationale les éléments nécessaires pour procéder à l'évaluation des biens et des créances dont ils ont été dépossédés. Passé ce délai, l'indemnité est liquidée compte tenu des éléments dont dispose l'agence."
+      "content": "L'Agence nationale pour l'indemnisation des Français d'outre-mer répartit au marc le franc l'indemnité globale mentionnée à l'article 1er entre les bénéficiaires figurant sur la liste annexée à l'accord.Ceux-ci doivent, dans les six mois suivant la publication de la présente loi, donner à l'agence nationale les éléments nécessaires pour procéder à l'évaluation des biens et des créances dont ils ont été dépossédés. Passé ce délai, l'indemnité est liquidée compte tenu des éléments dont dispose l'agence.",
+      "valid_from": "1990-07-08"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La valeur d'indemnisation des biens est évaluée forfaitairement en fonction de leur nature, de leur catégorie, de leur localisation, de leur valeur nette comptable et au vu des justifications produites."
+      "content": "La valeur d'indemnisation des biens est évaluée forfaitairement en fonction de leur nature, de leur catégorie, de leur localisation, de leur valeur nette comptable et au vu des justifications produites.",
+      "valid_from": "1990-07-08"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les indemnités attribuées en application de la présente loi ne présentent pas le caractère de revenus pour l'assiette des impôts et taxes recouvrés au profit de l'Etat ou des collectivités publiques."
+      "content": "Les indemnités attribuées en application de la présente loi ne présentent pas le caractère de revenus pour l'assiette des impôts et taxes recouvrés au profit de l'Etat ou des collectivités publiques.",
+      "valid_from": "1990-07-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

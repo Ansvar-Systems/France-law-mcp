@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I. A modifié les dispositions suivantes :\n\nII.-Dans un délai d'un an à compter de la promulgation de la présente loi, l'Agence nationale des fréquences met à la disposition des communes de France une carte à l'échelle communale des antennes relais existantes.\n\nIII.-Les B à E du II de l'article L. 34-9-1 du code des postes et des communications électroniques, dans sa rédaction résultant de la présente loi, entrent en vigueur six mois après la promulgation de la présente loi.\n\n- Code des postes et des communications électroniques"
+      "content": "I. A modifié les dispositions suivantes :\n\nII.-Dans un délai d'un an à compter de la promulgation de la présente loi, l'Agence nationale des fréquences met à la disposition des communes de France une carte à l'échelle communale des antennes relais existantes.\n\nIII.-Les B à E du II de l'article L. 34-9-1 du code des postes et des communications électroniques, dans sa rédaction résultant de la présente loi, entrent en vigueur six mois après la promulgation de la présente loi.\n\n- Code des postes et des communications électroniques",
+      "valid_from": "2015-02-11"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, l'Agence nationale des fréquences publie des lignes directrices nationales, en vue d'harmoniser la présentation des résultats issus des simulations de l'exposition générée par l'implantation d'une installation radioélectrique."
+      "content": "Dans un délai de six mois à compter de la promulgation de la présente loi, l'Agence nationale des fréquences publie des lignes directrices nationales, en vue d'harmoniser la présentation des résultats issus des simulations de l'exposition générée par l'implantation d'une installation radioélectrique.",
+      "valid_from": "2015-02-11"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "L'agence mentionnée au chapitre III du titre Ier du livre III de la première partie du code de la santé publique assure la mission de veille et de vigilance en matière de radiofréquences. Elle évalue périodiquement les risques potentiels et effets et met en œuvre des programmes de recherche scientifiques et techniques dans ce domaine. Ces programmes peuvent inclure des évaluations d'impact sanitaire des champs électromagnétiques."
+      "content": "L'agence mentionnée au chapitre III du titre Ier du livre III de la première partie du code de la santé publique assure la mission de veille et de vigilance en matière de radiofréquences. Elle évalue périodiquement les risques potentiels et effets et met en œuvre des programmes de recherche scientifiques et techniques dans ce domaine. Ces programmes peuvent inclure des évaluations d'impact sanitaire des champs électromagnétiques.",
+      "valid_from": "2015-02-11"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Dans un délai d'un an à compter de la promulgation de la présente loi, il est mis en place une politique de sensibilisation et d'information concernant l'usage responsable et raisonné des terminaux mobiles ainsi que les précautions d'utilisation des appareils utilisant des radiofréquences."
+      "content": "Dans un délai d'un an à compter de la promulgation de la présente loi, il est mis en place une politique de sensibilisation et d'information concernant l'usage responsable et raisonné des terminaux mobiles ainsi que les précautions d'utilisation des appareils utilisant des radiofréquences.",
+      "valid_from": "2015-02-11"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. - Dans les établissements mentionnés au chapitre IV du titre II du livre III de la deuxième partie du code de la santé publique, l'installation d'un équipement terminal fixe équipé d'un accès sans fil à internet est interdite dans les espaces dédiés à l'accueil, au repos et aux activités des enfants de moins de trois ans.\n\nII. - Dans les classes des écoles primaires, les accès sans fil des équipements mentionnés à l'article 184 de la loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement installés après la publication de la présente loi sont désactivés lorsqu'ils ne sont pas utilisés pour les activités numériques pédagogiques.\n\nIII. - Dans les écoles primaires, toute nouvelle installation d'un réseau radioélectrique fait l'objet d'une information préalable du conseil d'école."
+      "content": "I. - Dans les établissements mentionnés au chapitre IV du titre II du livre III de la deuxième partie du code de la santé publique, l'installation d'un équipement terminal fixe équipé d'un accès sans fil à internet est interdite dans les espaces dédiés à l'accueil, au repos et aux activités des enfants de moins de trois ans.\n\nII. - Dans les classes des écoles primaires, les accès sans fil des équipements mentionnés à l'article 184 de la loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement installés après la publication de la présente loi sont désactivés lorsqu'ils ne sont pas utilisés pour les activités numériques pédagogiques.\n\nIII. - Dans les écoles primaires, toute nouvelle installation d'un réseau radioélectrique fait l'objet d'une information préalable du conseil d'école.",
+      "valid_from": "2015-02-11"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur l'électro-hypersensibilité."
+      "content": "Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur l'électro-hypersensibilité.",
+      "valid_from": "2015-02-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

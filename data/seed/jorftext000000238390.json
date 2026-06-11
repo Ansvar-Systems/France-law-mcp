@@ -12,25 +12,35 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Jusqu'à l'entrée en vigueur des articles 18, 42 et 62 de la loi n° 2002-303 du 4 mars 2002 relative aux droits des malades et à la qualité du système de santé, les compétences attribuées à la chambre disciplinaire de première instance et au conseil interrégional de la Réunion-Mayotte, en ce qui concerne respectivement l'ordre des médecins et l'ordre des chirurgiens-dentistes, sont exercées par le conseil régional d'Ile-de-France de chacun de ces deux ordres.Le conseil régional de l'ordre des médecins d'Ile-de-France et le conseil régional de l'ordre des chirurgiens-dentistes d'Ile-de-France restent compétents pour les plaintes déposées avant la constitution, respectivement, de la chambre disciplinaire de première instance de la Réunion-Mayotte de l'ordre des médecins et de la chambre disciplinaire de première instance de la Réunion-Mayotte de l'ordre des chirurgiens-dentistes."
+      "content": "Jusqu'à l'entrée en vigueur des articles 18, 42 et 62 de la loi n° 2002-303 du 4 mars 2002 relative aux droits des malades et à la qualité du système de santé, les compétences attribuées à la chambre disciplinaire de première instance et au conseil interrégional de la Réunion-Mayotte, en ce qui concerne respectivement l'ordre des médecins et l'ordre des chirurgiens-dentistes, sont exercées par le conseil régional d'Ile-de-France de chacun de ces deux ordres.Le conseil régional de l'ordre des médecins d'Ile-de-France et le conseil régional de l'ordre des chirurgiens-dentistes d'Ile-de-France restent compétents pour les plaintes déposées avant la constitution, respectivement, de la chambre disciplinaire de première instance de la Réunion-Mayotte de l'ordre des médecins et de la chambre disciplinaire de première instance de la Réunion-Mayotte de l'ordre des chirurgiens-dentistes.",
+      "valid_from": "2005-01-28"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le patrimoine mentionné au dernier alinéa de l'article L. 4125-4 du code de la santé publique est transféré au conseil interrégional de la Réunion-Mayotte de chacun des ordres des médecins et des chirurgiens-dentistes. En application de l'article L. 4122-2 du même code, le conseil national de chaque ordre détermine la quote-part devant être attribuée à la chambre disciplinaire de première instance proportionnellement à la répartition de la part régionale de la cotisation entre les praticiens exerçant à la Réunion et ceux exerçant à Mayotte."
+      "content": "Le patrimoine mentionné au dernier alinéa de l'article L. 4125-4 du code de la santé publique est transféré au conseil interrégional de la Réunion-Mayotte de chacun des ordres des médecins et des chirurgiens-dentistes. En application de l'article L. 4122-2 du même code, le conseil national de chaque ordre détermine la quote-part devant être attribuée à la chambre disciplinaire de première instance proportionnellement à la répartition de la part régionale de la cotisation entre les praticiens exerçant à la Réunion et ceux exerçant à Mayotte.",
+      "valid_from": "2005-01-28"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "L'article 147 de la loi n° 2004-806 du 9 août 2004 relative à la politique de santé publique est applicable à Mayotte et à Wallis et Futuna."
+      "content": "L'article 147 de la loi n° 2004-806 du 9 août 2004 relative à la politique de santé publique est applicable à Mayotte et à Wallis et Futuna.",
+      "valid_from": "2005-01-28"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le Premier ministre, le ministre des solidarités, de la santé et de la famille et la ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre des solidarités, de la santé et de la famille et la ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2005-01-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

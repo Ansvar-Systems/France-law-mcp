@@ -12,13 +12,21 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "I. ― Les dispositions de l'article 1er sont applicables en Nouvelle-Calédonie sous réserve des dispositions de l'article L. 1862-1 du code des transports, en Polynésie française sous réserve des dispositions de l'article L. 1871-1 du même code, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.II. ― Les dispositions des I et II de l'article 2 sont applicables en Nouvelle-Calédonie, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.III. ― Les dispositions du IV de l'article 2 sont applicables à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.IV. ― Les dispositions du V de l'article 2 sont applicables en Nouvelle-Calédonie, en Polynésie française sous réserve des dispositions de l'article L. 5771-1 du code des transports, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.V. ― Les dispositions des articles 3 à 6 sont applicables en Nouvelle-Calédonie sous réserve des dispositions de l'article L. 5762-1 du code des transports, en Polynésie française sous réserve des dispositions de l'article L. 5772-1 du même code, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises."
+      "content": "I. ― Les dispositions de l'article 1er sont applicables en Nouvelle-Calédonie sous réserve des dispositions de l'article L. 1862-1 du code des transports, en Polynésie française sous réserve des dispositions de l'article L. 1871-1 du même code, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.II. ― Les dispositions des I et II de l'article 2 sont applicables en Nouvelle-Calédonie, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.III. ― Les dispositions du IV de l'article 2 sont applicables à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.IV. ― Les dispositions du V de l'article 2 sont applicables en Nouvelle-Calédonie, en Polynésie française sous réserve des dispositions de l'article L. 5771-1 du code des transports, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.V. ― Les dispositions des articles 3 à 6 sont applicables en Nouvelle-Calédonie sous réserve des dispositions de l'article L. 5762-1 du code des transports, en Polynésie française sous réserve des dispositions de l'article L. 5772-1 du même code, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.",
+      "valid_from": "2011-06-11"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Le Premier ministre et la ministre de l'écologie, du développement durable, des transports et du logement sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre de l'écologie, du développement durable, des transports et du logement sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2011-06-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

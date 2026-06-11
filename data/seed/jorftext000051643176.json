@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance toutes mesures relevant du domaine de la loi afin d'étendre l'application des dispositions de la présente loi, avec les adaptations nécessaires, en Nouvelle-Calédonie et en Polynésie française.II. - L'ordonnance prévue au I est prise dans un délai de six mois à compter de la promulgation de la présente loi. Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance."
+      "content": "I. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance toutes mesures relevant du domaine de la loi afin d'étendre l'application des dispositions de la présente loi, avec les adaptations nécessaires, en Nouvelle-Calédonie et en Polynésie française.II. - L'ordonnance prévue au I est prise dans un délai de six mois à compter de la promulgation de la présente loi. Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.",
+      "valid_from": "2025-05-23"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La présente loi s'applique à compter du premier renouvellement général des conseils municipaux suivant sa promulgation, à l'exception de l'article 6, qui entre en vigueur le lendemain de sa publication."
+      "content": "La présente loi s'applique à compter du premier renouvellement général des conseils municipaux suivant sa promulgation, à l'exception de l'article 6, qui entre en vigueur le lendemain de sa publication.",
+      "valid_from": "2025-05-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

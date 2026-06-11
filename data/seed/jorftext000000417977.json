@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I.-La présente loi est applicable :\n\n1° Dans les îles Wallis et Futuna ;\n\n2° Dans le Département de Mayotte ;\n\n3° En Nouvelle-Calédonie, dans les établissements publics d'enseignement du second degré relevant de la compétence de l'Etat en vertu du III de l'article 21 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie.\n\nII.-A modifié les dispositions suivantes :\n\nCode de l'éducation\n\nArt. L161-1, L162-1, L163-1, L164-1, L451-1"
+      "content": "I.-La présente loi est applicable :\n\n1° Dans les îles Wallis et Futuna ;\n\n2° Dans le  Département-Région de Mayotte ;\n\n3° En Nouvelle-Calédonie, dans les établissements publics d'enseignement du second degré relevant de la compétence de l'Etat en vertu du III de l'article 21 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie.\n\nII.-A modifié les dispositions suivantes :\n\nCode de l'éducation\n\nArt. L161-1, L162-1, L163-1, L164-1, L451-1",
+      "valid_from": "2026-01-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les dispositions de la présente loi entrent en vigueur à compter de la rentrée de l'année scolaire qui suit sa publication."
+      "content": "Les dispositions de la présente loi entrent en vigueur à compter de la rentrée de l'année scolaire qui suit sa publication.",
+      "valid_from": "2004-09-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions de la présente loi font l'objet d'une évaluation un an après son entrée en vigueur."
+      "content": "Les dispositions de la présente loi font l'objet d'une évaluation un an après son entrée en vigueur.",
+      "valid_from": "2004-09-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Ont force de loi, dans leur rédaction en vigueur à la date de la présente loi, les dispositions contenues dans la partie législative du code forestier annexée au décret n° 79-113 du 25 janvier 1979."
+      "content": "Ont force de loi, dans leur rédaction en vigueur à la date de la présente loi, les dispositions contenues dans la partie législative du code forestier annexée au décret n° 79-113 du 25 janvier 1979.",
+      "valid_from": "1991-04-17"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Sont abrogées :1° Les dispositions des articles 58 à 60 et 122 à 143 de la loi du 21 mai 1827 ainsi que les dispositions qui les ont modifiées ;2° Les dispositions mentionnées à l'article 227 du code forestier annexé au décret n° 52-1200 du 29 octobre 1952 ainsi que les dispositions qui les ont modifiées ;3° Les dispositions mentionnées à l'article 3 du décret n° 79-113 du 25 janvier 1979."
+      "content": "Sont abrogées :1° Les dispositions des articles 58 à 60 et 122 à 143 de la loi du 21 mai 1827 ainsi que les dispositions qui les ont modifiées ;2° Les dispositions mentionnées à l'article 227 du code forestier annexé au décret n° 52-1200 du 29 octobre 1952 ainsi que les dispositions qui les ont modifiées ;3° Les dispositions mentionnées à l'article 3 du décret n° 79-113 du 25 janvier 1979.",
+      "valid_from": "1991-04-17"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les personnes qui, conformément à la législation antérieure, détenaient régulièrement des armes ou munitions de la première ou de la quatrième catégorie, seront de plein droit autorisées à les conserver. Le retrait de l'autorisation pourra être prononcé dans les conditions fixées par décret.Elles ne pourront acquérir des munitions pour lesdites armes que dans les conditions fixées par ce décret."
+      "content": "Les personnes qui, conformément à la législation antérieure, détenaient régulièrement des armes ou munitions de la première ou de la quatrième catégorie, seront de plein droit autorisées à les conserver. Le retrait de l'autorisation pourra être prononcé dans les conditions fixées par décret.Elles ne pourront acquérir des munitions pour lesdites armes que dans les conditions fixées par ce décret.",
+      "valid_from": "1958-10-08"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions, modifiées et complétées notamment par la présente ordonnance sont applicables aux départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion. Des décrets détermineront les conditions d'application particulières à ces départements."
+      "content": "Les dispositions du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions, modifiées et complétées notamment par la présente ordonnance sont applicables aux départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion. Des décrets détermineront les conditions d'application particulières à ces départements.",
+      "valid_from": "1958-10-08"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme lui."
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme lui.",
+      "valid_from": "1958-10-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

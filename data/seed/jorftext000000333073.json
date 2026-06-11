@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les sociétés ou établissements à caractère commercial peuvent déposer à la Caisse des dépôts et consignations les titres émis par eux et mentionnés à l'article L. 1126-1 du code général de la propriété des personnes publiques lorsqu'il s'est écoulé plus de dix ans sans réclamation des titulaires depuis le jour où ces derniers ont eu le droit d'en exiger le paiement.\n\nCes titres sont détenus par la Caisse des dépôts et consignations, pour le compte de leurs détenteurs, jusqu'à l'expiration du délai prévu au premier alinéa de l'article L. 518-24 du code monétaire et financier.\n\nUn décret en Conseil d'Etat fixera les conditions d'application du présent article.\n\nLes dispositions qui précèdent dérogent à l'article L110-4 du code de commerce."
+      "content": "Les sociétés ou établissements à caractère commercial peuvent déposer à la Caisse des dépôts et consignations les titres émis par eux et mentionnés à l'article L. 1126-1 du code général de la propriété des personnes publiques lorsqu'il s'est écoulé plus de dix ans sans réclamation des titulaires depuis le jour où ces derniers ont eu le droit d'en exiger le paiement.\n\nCes titres sont détenus par la Caisse des dépôts et consignations, pour le compte de leurs détenteurs, jusqu'à l'expiration du délai prévu au premier alinéa de l'article L. 518-24 du code monétaire et financier.\n\nUn décret en Conseil d'Etat fixera les conditions d'application du présent article.\n\nLes dispositions qui précèdent dérogent à l'article L110-4 du code de commerce.",
+      "valid_from": "2016-01-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les prescriptions en cours à la date de la publication de la présente loi seront acquises à l'expiration d'un délai de dix ans à compter de cette date sans que la durée totale de la prescription puisse excéder le délai prévu par la loi antérieure."
+      "content": "Les prescriptions en cours à la date de la publication de la présente loi seront acquises à l'expiration d'un délai de dix ans à compter de cette date sans que la durée totale de la prescription puisse excéder le délai prévu par la loi antérieure.",
+      "valid_from": "1977-01-04"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "L'article 189 bis du code de commerce est applicable dans les territoires de la Nouvelle-Calédonie, de la Polynésie française, de Wallis et Futuna, des Terres australes et antarctiques françaises ainsi que dans le département de Saint-Pierre-et-Miquelon."
+      "content": "L'article 189 bis du code de commerce est applicable dans les territoires de la Nouvelle-Calédonie, de la Polynésie française, de Wallis et Futuna, des Terres australes et antarctiques françaises ainsi que dans le département de Saint-Pierre-et-Miquelon.",
+      "valid_from": "1977-01-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Dans un délai d'un an à compter de la promulgation de la présente loi, les propriétaires d'immeubles à usage d'habitation situés dans les agglomérations de plus de cinq cent mille habitants, occupés par plus de deux locataires ou occupants et dont la garde est assurée par un concierge, seront tenus d'installer un dispositif d'ouverture automatique sur la porte commune.\n\nLes propriétaires qui remettront à chaque locataire les clés seront dispensés de cette obligation."
+      "content": "Dans un délai d'un an à compter de la promulgation de la présente loi, les propriétaires d'immeubles à usage d'habitation situés dans les agglomérations de plus de cinq cent mille habitants, occupés par plus de deux locataires ou occupants et dont la garde est assurée par un concierge, seront tenus d'installer un dispositif d'ouverture automatique sur la porte commune.\n\nLes propriétaires qui remettront à chaque locataire les clés seront dispensés de cette obligation.",
+      "valid_from": "1957-07-05"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les frais d'installation du dispositif visé à l'article 1er seront répartis entre les locataires conformément aux dispositions de l'article 38 de la loi n° 48-1360 du 1er septembre 1948. Le propriétaire pourra en assurer le recouvrement par huitième, tous les trois mois, sur deux ans."
+      "content": "Les frais d'installation du dispositif visé à l'article 1er seront répartis entre les locataires conformément aux dispositions de l'article 38 de la loi n° 48-1360 du 1er septembre 1948. Le propriétaire pourra en assurer le recouvrement par huitième, tous les trois mois, sur deux ans.",
+      "valid_from": "1957-07-05"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Toute infraction aux dispositions de la présente loi sera punie de l'amende prévue à l'article 483 du Code pénal."
+      "content": "Toute infraction aux dispositions de la présente loi sera punie de l'amende prévue à l'article 483 du Code pénal.",
+      "valid_from": "1957-07-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -9,10 +9,472 @@
   "description": null,
   "provisions": [
     {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les cours d'appel prendront le titre de; les présidens et autres membres de ces cours prendront le titre dedans lesdites cours.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les cours impériales connaîtront des matières civiles et des matières criminelles, conformément aux codes et aux lois de l'Empire.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les cours impériales siégeront dans les mêmes villes où les cours d'appel ont été établies ; elles comprendront dans leur ressort les mêmes départemens.\n\nLes cours de justice criminelle sont supprimées : elles continueront néanmoins leur service jusqu'au moment de l'installation des cours impériales.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Le nombre des juges des cours impériales ne pourra excéder à Paris soixante, et dans les autres cours quarante : il ne pourra être, à Paris, au-dessous de quarante, et dans les autres cours, de vingt.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "La division des cours impériales en chambres ou sections, et l'ordre du service, seront fixés par des réglements d'administration publique.\n\nSi l'Empereur juge convenable de créer des sections nouvelles, ou d'en supprimer dans les cours impériales, il y sera également pourvu par des réglemens d'administration publique, sans toutefois déroger à ce qui est precrit par l'article 4 ci-dessus.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Les fonctions du ministère public seront exercées, à la cour impériale, par un procureur général impérial.\n\nIl aura des substituts pour le service des audiences à la cour impériale, pour son parquet, pour le service des cours d'assises et des cours spéciales, et pour les tribunaux de première instance.\n\nLes substituts créés pour le service des audiences des cours impériales, portent le titre d'.\n\nCeux qui font le service aux cours d'assises et aux cours spéciales, portent le titre de.\n\nCeux établis près des tribunaux de première instance portent le titre de.\n\nLes substituts créés pour le service du parquet, ou pour résider auprès des cours d'assises ou spéciales, sont répartis par le procureur général, les uns pour faire auprès de lui le service du parquet, les autres pour résider, en qualité de procureurs impériaux criminels, dans les lieux où doivent siéger les cours d'assises ou spéciales ; et cependant le procureur général pourra changer, s'il le trouve convenable, la destination qu'il aura donnée à chacun d'eux.\n\nDans les cas d'absence ou empêchement des avocats généraux, les substituts de service au parquet pourront porter la parole aux audiences de la cour impériale.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "La justice est rendue souverainement par les cours impériales ; leurs arrêts, quand ils sont revêtus des formes prescrites à peine de nullité, ne peuvent être cassés que pour contravention expresse à la loi.\n\nLes arrêts qui ne sont pas rendus par le nombre de juges prescrit, ou qui ont été rendus par des juges qui n'ont pas assisté à toutes lesaudiences de la cause, ou qui n'ont pas été rendus publiquement, ou qui ne contiennent pas les motifs, sont déclarés nuls.\n\nLa connaissance du fond est toujours renvoyée à une autre cour impériale.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Toutes les chambres de la cour impériale se réuniront en la chambre du conseil, le premier mercredi d'après la rentrée. Le procureur général, ou un avocat général en son nom, prononcera un discours sur la manière dont la justice aura été rendue dans l'étendue du ressort pendant la précédente année ; il remarquera les abus qui auraient pu se glisser dans l'administration en cette partie ; il fera les réquisitions qu'il jugera convenables, d'après les dispositions des lois. La cour sera tenue de délibérer sur ces réquisitions ; et le procureur général enverra au grand-juge copie de son discours et des arrêts qui seront intervenus.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9",
+      "content": "Dans la même séance, ou dans une autre indiquée à cet effet dans la même semaine, la cour arrêtera, pour être adressée au grand-juge, une liste des juges de son ressort qui se seront distingués par leur exactitude et par une pratique constante de tous les devoirs de leur état ; elle fera aussi connaître ceux des avocats qui se feront remarquer par leurs lumières, leurs talens, et sur-tout par la délicatesse et le désintéressement qui doivent caractériser cette profession.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "Lorsque de grands officiers de la légion d'honneur, des généraux commandant une division ou un département, des archevêques, des évêques, des présidens de consistoire, des membres de la cour de cassation, de la cour des comptes et des cours impériales, et des préfets, seront prévenus de délits de police correctionnelle, les cours impériales en connaîtront de la manière prescrite par l'article 479 du Code d'instruction criminelle.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11",
+      "content": "En cours de traitement.\n\ncenter",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12",
+      "content": "Les juges-auditeurs près les cours d'appel, institués par décret du 16 mars 1808, prendront le titre de conseillers auditeurs près les cours impériales ; ils conserveront les attributions et droits qui leur sont acquis.\n\nLorsqu'ils auront atteint l'âge de vingt-sept ans, ils auront voix délibérative dans toutes les affaires.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13",
+      "content": "Il sera en outre établi des juges-auditeurs qui seront à la disposition du grand-juge ministre de la justice, à l'effet d'être envoyés par lui pour remplir, lorsqu'ils auront l'âge requis pour avoir voix délibérative, les fonctions de juges dans les tribunaux composés de trois juges seulement. Ils ne pourront pas être envoyés dans les tribunaux composés d'un plus grand nombre de juges.\n\nCeux de ces auditeurs qui, n'ayant pas l'âge requis, seraient envoyés dans les tribunaux, auront voix consultative. Ils pourront aussi être nommés rapporteurs des délibérés, lorsqu'ils auront assisté à toutes les audiences de la cause : ils auront, dans ce cas, voix délibérative.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14",
+      "content": "Nul ne sera nommé aux fonctions de conseiller-auditeur près une cour impériale, s'il n'a exercé pendant deux ans celles de juge-auditeur dans un tribunal.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15",
+      "content": "Le mode de nomination des conseillers-auditeurs et des juges-auditeurs, celui de leur service dans les cours et tribunaux, celui de leur avancement, leur costume, leur rang aux audiences et cérémonies publiques, leur traitement et l'époque où ils en jouiront, et généralement tout ce qui étant relatif à l'institution n'aurait pas été réglé par la présente loi, le sera par des réglemens d'administration publique.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16",
+      "content": "Le premier président de la cour impériale nommera, pour chaque tenue de cours d'assises, un membre de ladite cour pour les présider. Il pourra les présider lui-même quand il le jugera convenable.\n\nLe premier préisdent de la cour nommera aussi les quatre conseillers qui devront assister le président aux assises dans les lieux où siège la cour impériale.\n\nIl nommera pareillement les conseillers de la cour qui devront, avec le président, tenir les assises dans les départemens, lorsque la cour jugera conenable d'en envoyer.\n\nLe grand-juge pourra néanmoins, dans tous les cas, nommer les présidens et les conseillers de la cour qui devront tenir les assises.\n\nL'époque de ces nominations sera déterminée par des réglemens d'administration publique.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Article 17",
+      "content": "Les cours d'assises connaîtront des affaires qui leur seront attribuées par le Code d'instruction criminelle ; elles se conformeront, pour l'instruction et le jugement, aux dispositions de ce code et à celles du Code pénal.\n\nLeurs arrêts ne peuvent être annullés que dans les cas prévus par l'article 7.\n\nElles tiendront habituellement dans le lieu où siègent actuellement les cours criminelles.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Article 18",
+      "content": "La connaissance des faits emportant peine afflictive ou infamante dont seront accusées les personnes mentionnées en l'article 10, est aussi attribuée à la cour d'assises du lieu où réside la cour impériale.\n\nLes dispositions du présent article, et celle de l'article 10, ne sont pas applicables aux crimes ou délits qui seraient de la compétence de la haute-cour, d'après les dispositions du sénatus-consulte du 28 floréal an XII.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Article 19",
+      "content": "Les assises se tiendront, dans chaque département, de manière à n'avoir lieu dans le ressort de la même cour impériale que les unes après les autres, et de mois en mois, à moins qu'il n'y ait plus de trois départemens dans le ressort, ou que le besoin du service n'exige qu'il en soit tenu plus souvent.\n\nLe même membre pourra être délégué pour présider successivement, si faire se peut, plusieurs cours d'assises.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Article 20",
+      "content": "Le premier président de la cour impériale désignera le jour où devra s'ouvrir la séance de la cour d'assises, quand elle tiendra dans le lieu où elle siége habituellement.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Article 21",
+      "content": "Lorsque la cour d'assises devra tenir sa séance dans un lieu autre que celui où elle siége habituellement, l'époque de l'ouverture et le lieu seront déterminés, par arrêt rendu, toutes les chambres assemblées, et le procureur général entendu.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Article 22",
+      "content": "L'ordonnance portant fixation du jour de l'ouverture de la séance de la cour d'assises, ou l'arrêt qui indiquera le lieu et le jour de cette ouverture, sera publié par affiches et par la lecture qui en sera faite dans tous les tribunaux de première instance du ressort, huit jours au moins avant l'ouverture.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Article 23",
+      "content": "Les cours spéciales ordinaires connaîtront des crimes commis par les vagabonds, et autres crimes spécifiés dans les articles 553 et 554 du Code d'instruction criminelle, en se conformant à l'article 555 du même code.\n\nIl pourra, en outre, être établi des cours spéciales extraordinaires pour remplir les fonctions qui seront ci-après déterminées.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Article 24",
+      "content": "L'Empereur nommera chaque année, pour faire le service dans chaque cour spéciale ordinaire, formée conformément à l'article 556 du Code d'instruction criminelle, six officiers de gendarmerie, dont trois seront désignés pour être suppléans.\n\nLes dispositions des articles 20, 21 et 22, sont communes aux cours spéciales ordinaires.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Article 25",
+      "content": "La cour spéciale extraordinaire sera établie dans la cour impériale ; elle sera composée de huit membres de cette cour, dont l'un sera désigné pour être le président.\n\nLe président et les conseillers seront nommés par le premier président de la cour impériale : ils pourront être nommés par le grand-juge, ainsi qu'il est dit dans l'article 16 ci-dessus.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Article 26",
+      "content": "Si les circonstances exigent qu'il soit formé plusieurs sections dans une cour spéciale extraordinaire, il y sera pourvu par un réglement d'administration publique.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Article 27",
+      "content": "La cour spéciale extraordinaire remplacera la cour d'assises dans les départemens dans lesquels le jury n'aura pas été établi ou sera suspendu.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Article 28",
+      "content": "Lorsque la multiplicité de certains crimes sur quelque point de l'Empire exigera des voies de répression plus actives, et qu'en conséquence sa Majesté jugera convenable d'y établir une cour spéciale extraordinaire, elle sera composée ainsi qu'il est dit ci-dessus à l'article 25.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Article 29",
+      "content": "Les attributions, dans le cas de l'article précédent, seront faites par un réglement d'administration publique : elles ne pourront être faites que pour l'espace d'une année.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Article 30",
+      "content": "La cour spéciale extraordinaire se transportera, quand il lui sera ordonné par le grand-juge, dans l'étendue du ressort de la cour impériale, pour y connaître des affaires de sa compétence.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Article 31",
+      "content": "Les cours spéciales extraordinaires se conformeront, pour l'instruction et le jugement, aux dispositions du Code d'instruction criminelle concernant les cours spéciales ordinaires : néanmoins leurs arrêts définitifs seront sujets au recours en cassation, et en conséquence ils ne seront pas précédés d'un arrêt de compétence.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Article 32",
+      "content": "La cour spéciale de Paris sera composée ainsi qu'il est dit à l'article 25.\n\nLe greffier de la cour spéciale sera nommé par l'Empereur.\n\nLes dispositions de l'article 26 sont applicables à cette cour.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Article 33",
+      "content": "Indépendamment des attributions communes à toutes les cours spéciales ordinaires et extraordinaires, elle conservera, pendant cinq uans, toutes les attributions dont est actuellement investie la cour criminelle de la Seine, aux terme des lois et réglemens.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Article 34",
+      "content": "Les tribunaux de première instance continueront de connaître des matières civiles et de police, conformément aux codes et aux lois de l'Empire.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Article 35",
+      "content": "Le tribunal de première instance de Paris sera composé de trente-six juges et de douze suppléans.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Article 36",
+      "content": "Les tribunaux placés dans les villes les moins populeuses et où il y aura le moins d'affaires, seront composés de trois juges, dont deux, autres que le président, pourront être juges-auditeurs, et de trois suppléans.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Article 37",
+      "content": "Le nombre des juges pourra être augmenté dans les autres villes, suivant les localités.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Article 38",
+      "content": "Le classement des tribunaux, leur division en sections et l'ordre de leur service, seront fixés par des réglemens d'administration publique.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Article 39",
+      "content": "Si les circonstances exigent qu'il soit formé des sections temporaires dans un tribunal de première instance, ces sections le seront par un réglement d'administration publique.\n\nElles pourront être composées de juges, de juges-auditeurs ou de suppléans.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Article 40",
+      "content": "Les juges ne pourront rendre aucun jugement, s'ils ne sont au nombre de trois au moins : sur l'appel en matière correctionnelle, ils seront au nombre de cinq.\n\nLes appels des jugements rendus en police correctionnelle seront portés au tribunal du lieu où siégent habituellement les cours d'assises.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Article 41",
+      "content": "Les suppléans pourront assister à toutes les audiences : ils auront voix consultative ; et, en cas de partage, le plus ancien dans l'ordre de réception aura voix délibérative.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Article 42",
+      "content": "Les directeurs du jury et les magistrats de sûreté sont supprimés : leurs fonctions seront remplies, conformément au Code d'instruction criminelle, par des juges d'instruction, et par le procureur impérial ou son substitut.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Article 43",
+      "content": "Les fonctions du ministère public seront exercées, dans chaque tribunal de première instance, par un substitut du procureur général, qui a le titre de, et par des substituts du procureur impérial dans les lieux où il sera nécessaire d'en établir ; sans que le nombre puisse s'élever au-dessus de cinq, excepté à Paris, où le procureur impérial aura douze substituts.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Article 44",
+      "content": "Les juges de paix continueront de rendre la justice dans les matières dont la connaissance leur est attribuée, et dans les formes prescrites par les codes et lois de l'Empire.\n\nLes juges de police simple se conformeront aux dispositions du Code d'instruction criminelle, sur leur compétence et sur l'instruction des affaires qui leur seront attribuées.\n\nIl n'est en rien innové en ce qui concerne les tribunaux de commerce.",
+      "valid_from": "1810-04-20"
+    },
+    {
       "provision_ref": "art45",
       "section": "45",
       "title": "Article 45",
-      "content": "Les procureurs généraux exerceront l'action de la justice criminelle dans toute l'étendue de leur ressort. Ils veilleront au maintien de l'ordre dans tous les tribunaux ; ils auront la surveillance de tous les officiers de police judiciaire et officiers ministériels du ressort."
+      "content": "Les procureurs généraux exerceront l'action de la justice criminelle dans toute l'étendue de leur ressort. Ils veilleront au maintien de l'ordre dans tous les tribunaux ; ils auront la surveillance de tous les officiers de police judiciaire et officiers ministériels du ressort.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Article 46",
+      "content": "En matière civile, le ministère public agit d'office dans les cas spécifiés par la loi.\n\nIl surveille l'exécution des lois, des arrêts et des jugemens ; il poursuit d'office cette exécution dans les dispositions qui intéressent l'ordre public.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Article 47",
+      "content": "Les substituts du procureur général exercent la même action dans les mêmes cas, d'après les mêmes règles, sous la surveillance et la direction du procureur général.\n\nEn cas d'absence ou d'empêchement du procureur général, il est remplacé par le premier avocat général.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Article 48",
+      "content": "Les juges et les officiers du ministère public qui s'absenteraient sans un congé délivré suivant les règles prescrites par la loi ou les réglemens, seront privés de leur traitement, pendant le temps de leur absence ; et si leur absence dure plus de six mois, ils pourront être considérés comme démissionnaires, et remplacés.\n\nNéanmoins les juges et officiers du ministère public pourront, après un mois d'absence, être requis par le procureur général de se rendre à leur poste ; et faute par eux d'y revenir dans le mois, il sera fait rapport au grand-juge, qui pourra proposer à l'Empereur de les remplacer comme démissionnaires.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Article 49",
+      "content": "Les présidens de cours impériales et des tribunaux de première instance avertiront d'office, ou sur la réquisition du ministère public, tout juge qui compromettra la dignité de son caractère.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Article 50",
+      "content": "Si l'avertissement reste sans effet, le juge sera soumis, par forme de discipline, à l'une des peines suivantes ; savoir :\n\nLa censure simple ;\n\nLa censure avec réprimande ;\n\nLa suspension provisoire.\n\nLa censure avec réprimande emportera de droit privation de traitement pendant un mois ; la suspension provisoire emportera privation de traitement pendant sa durée.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Article 51",
+      "content": "Les décisions prises par les tribunaux de première instance seront transmises, avant de recevoir leur exécution, aux procureurs généraux, par les procureurs impériaux, et soumises aux cours impériales.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Article 52",
+      "content": "L'application des peines déterminées par l'article 50 ci-dessus, sera faite en chambre du conseil par les tribunaux de première instance, s'il s'agit d'un juge de ces tribunaux, ou d'un membre de justice de paix, ou d'un juge de police de leur arrondissement.\n\nLorsqu'il s'agira d'un membre des cours impériales ou d'assises spéciales, l'application sera faite par les cours impériales en la chambre du conseil.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Article 53",
+      "content": "La disposition de l'article précédent est applicable à tous les membres des cours d'assises et spéciales, qui auront encouru l'une des peines portées en l'article 50, même à ceux qui, n'ayant exercé qu'en qualité de suppléans, auront, dans l'exercice de cette suppléance, manqué aux devoirs de leur état.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Article 54",
+      "content": "Les cours impériales exerceront les droits de discipline attribués aux tribunaux de première instance, lorsque ceux-ci auront négligé de les exercer.\n\nLes cours impériales pourront, dans ce cas, donner à ces tribunaux un avertissement d'être plus exacts à l'avenir.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Article 55",
+      "content": "Aucune décision ne pourra être prise que le juge inculpé n'ait été entendu ou dûment appelé, et que le procureur impérial ou le procureur général n'ait donné ses conclusions par écrit.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Article 56",
+      "content": "Dans tous les cas, il sera rendu compte au grand-juge ministre de la justice, par les procureurs généraux, de la décision prise par les cours impériales : quand elles auront prononcé ou confirmé la censure avec réprimande, ou la suspension provisoire, la décision ne sera mise à exécution qu'après avoir été approuvée par le grand-juge. Néanmoins, en cas de suspension provisoire, le juge sera tenu de s'abstenir de ses fonctions jusqu'à ce que le grand-juge ait prononcé ; sans préjudice du droit que l'article 82 du sénatus-consulte du 16 thermidor an X donne au grand-juge, de déférer le juge inculpé à la cour de cassation, si la gravité des faits l'exige.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Article 57",
+      "content": "Le grand-juge ministre de la justice pourra, quand il le jugera convenable, mander auprès de sa personne les membres des cours et tribunaux, à l'effet de s'expliquer sur les faits qui pourraient leur être imputés.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Article 58",
+      "content": "Tout juge qui se trouvera sous les liens d'un mandat d'arrêt, de dépôt, d'une ordonnance de prise de corps ou d'une condamnation correctionnelle, même pendant l'appel, sera suspendu provisoirement de ses fonctions.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Article 59",
+      "content": "Tout jugement de condamnation rendu contre un juge, à une peine même de simple police, sera transmis au grand-juge ministre de la justice, qui, après en avoir fait l'examen, déconcera à la cour de cassation, s'il y a lieu, le magistrat condamné ; et, sous la présidence du ministre, ledit magistrat pourra être déchu ou suspendu de ses fonctions, suivant la gravité des faits.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Article 60",
+      "content": "Les officiers du ministère public dont la conduite est répréhensible, seront rappelés à leur devoir par le procureur général du ressort ; il en sera rendu compte au grand-juge, qui, suivant la gravité des circonstances, leur fera faire par le procureur général les injonctions qu'il jugera nécessaires, ou les mandera près de lui.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Article 61",
+      "content": "Les cours impériales, d'assises ou spéciales, sont tenues d'instruire le grand-juge ministre de la justice, toutes les fois que les officiers du ministère public exerçant leurs fonctions près de ces cours s'écartent du devoir de leur état, et qu'ils en compromettent l'honneur, la délicatesse et la dignité.\n\nLes tribunaux de première instance instruiront le premier président et le procureur général de la cour impériale, des reproches qu'ils croiront en droit de faire aux officiers du ministère public exerçant dans l'étendue de l'arrondissement, soit auprès de ces tribunaux, soit auprès des tribunaux de police.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Article 62",
+      "content": "Les greffiers seront avertis ou réprimandés par les présidens de leurs cours et tribunaux respectifs ; et ils seront dénoncés, s'il y a lieu, au grand-juge ministre de la justice.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Article 63",
+      "content": "Les parens et alliés, jusqu'au degré d'oncle et neveu inclusivement, ne pourront être simultanément membre d'un même tribunal ou d'une même cour, soit comme juges, soit comme officiers d'un ministère public, ou même comme greffiers, sans une dispense de l'Empereur. Il ne sera accordé aucune dispense pour les tribunaux composés de moins de huit juges.\n\nEn cas d'alliance survenue depuis la nomination, celui qui l'a contractée ne pourra continuer ses fonctions sans obtenir une dispense de sa Majesté.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Article 64",
+      "content": "Nul ne pourra être juge ou suppléant d'un tribunal de première instance, ou procureur impérial, s'il n'est âgé de vingt-cinq ans accomplis, s'il n'est licencié en droit, et s'il n'a suivi le barreau pendant deux ans, après avoir prêté serment à la cour impériale, ou s'il ne se trouve dans un cas d'exception prévu par la loi.\n\nNul ne pourra être président, s'il n'a vingt-sept ans accomplis.\n\nLes substituts des procureurs impériaux pourront être nommés lorsqu'ils auront atteint leur vingt-deuxième année, et s'ils réunissent les autres conditions requises.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Article 65",
+      "content": "Nul ne pourra être juge ou greffier dans une cour impériale, s'il n'a vingt-sept ans accomplis, et s'il ne réunit les conditions exigées par l'article précédent.\n\nNul ne pourra être président ou procureur général, s'il n'a trente ans accomplis.\n\nLes substituts du procureur général pourront être nommés lorsqu'ils auront atteint leur vingt-cinquième année.",
+      "valid_from": "1810-04-20"
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Article 66",
+      "content": "Toutes les dispositions contraires à la présente loi sont abrogées.",
+      "valid_from": "1810-04-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

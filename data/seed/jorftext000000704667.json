@@ -1,10 +1,10 @@
 {
   "id": "jorftext000000704667",
   "type": "statute",
-  "title": "Loi n°77-680 du 30 juin 1977",
+  "title": "Loi n° 77-680 du 30 juin 1977",
   "title_en": null,
   "short_name": null,
-  "status": "repealed",
+  "status": "in_force",
   "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000704667",
   "description": null,
   "provisions": [
@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Vu la décision du Conseil constitutionnel du 30 décembre 1976, est autorisée l'approbation des dispositions annexées à la décision du Conseil des communautés européennes du 20 septembre 1976 et relatives à l'élection des représentants au Parlement européen au suffrage universel direct, dont le texte est annexé à la présente loi."
+      "content": "Vu la décision du Conseil constitutionnel du 30 décembre 1976, est autorisée l'approbation des dispositions annexées à la décision du Conseil des communautés européennes du 20 septembre 1976 et relatives à l'élection des représentants au Parlement européen au suffrage universel direct, dont le texte est annexé à la présente loi.",
+      "valid_from": "1990-01-16"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Toute modification des compétences du Parlement européen, telles qu'elles sont fixées à la date de signature de l'Acte portant élection des représentants au Parlement européen au suffrage universel direct, qui n'aurait pas fait l'objet d'une autorisation de ratification ou d'approbation suivant les dispositions des traités de Paris et de Rome, et qui, le cas échéant, n'aurait pas donné lieu à une révision de la Constitution conformément à la décision du Conseil constitutionnel du 30 décembre 1976, serait de nul effet à l'égard de la France.Il en serait de même de tout acte du Parlement européen qui, sans se fonder sur une modification expresse de ses compétences, les outrepasserait en fait."
+      "content": "Toute modification des compétences du Parlement européen, telles qu'elles sont fixées à la date de signature de l'Acte portant élection des représentants au Parlement européen au suffrage universel direct, qui n'aurait pas fait l'objet d'une autorisation de ratification ou d'approbation suivant les dispositions des traités de Paris et de Rome, et qui, le cas échéant, n'aurait pas donné lieu à une révision de la Constitution conformément à la décision du Conseil constitutionnel du 30 décembre 1976, serait de nul effet à l'égard de la France.Il en serait de même de tout acte du Parlement européen qui, sans se fonder sur une modification expresse de ses compétences, les outrepasserait en fait.",
+      "valid_from": "1990-01-16"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

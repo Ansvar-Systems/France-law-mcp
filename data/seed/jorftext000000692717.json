@@ -12,13 +12,21 @@
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "Les actes constatant la formation de sociétés commerciales sont enregistrés provisoirement au droit fixe prévu à l'article 670 du code général des impôts. Sous réserve des dispositions de l'article 1717 de ce code, les droits et taxes normalement dus sont exigibles, au plus tard, à l'expiration d'un délai de trois mois à compter de la date de ces actes."
+      "content": "Les actes constatant la formation de sociétés commerciales sont enregistrés provisoirement au droit fixe prévu à l'article 670 du code général des impôts. Sous réserve des dispositions de l'article 1717 de ce code, les droits et taxes normalement dus sont exigibles, au plus tard, à l'expiration d'un délai de trois mois à compter de la date de ces actes.",
+      "valid_from": "1967-07-13"
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "La présente loi est applicable dans les territoires d'outre-mer, à l'exception de son article 36.Dans les départements de la Guyane, de la Guadeloupe, de la Martinique et de la Réunion, le même article 36 n'est pas applicable."
+      "content": "La présente loi est applicable dans les territoires d'outre-mer, à l'exception de son article 36.Dans les départements de la Guyane, de la Guadeloupe, de la Martinique et de la Réunion, le même article 36 n'est pas applicable.",
+      "valid_from": "1967-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

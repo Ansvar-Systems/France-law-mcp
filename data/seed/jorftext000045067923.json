@@ -12,31 +12,42 @@
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "1° à 9° A modifié les dispositions suivantes :\n\n-Code de la sécurité intérieure\n\n8° [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-834 DC du 20 janvier 2022.]"
+      "content": "1° à 9° A modifié les dispositions suivantes :\n\n-Code de la sécurité intérieure\n\n8° [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-834 DC du 20 janvier 2022.]",
+      "valid_from": "2022-01-26"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "I. - A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n- Code des transports\n\n- Code des transports\n\n- Code des transports\n\nII. - Les 2° à 5° du I entrent en vigueur à compter de la publication des dispositions réglementaires prises pour leur application, et au plus tard le 1er janvier 2023."
+      "content": "I. - A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n- Code des transports\n\n- Code des transports\n\n- Code des transports\n\nII. - Les 2° à 5° du I entrent en vigueur à compter de la publication des dispositions réglementaires prises pour leur application, et au plus tard le 1er janvier 2023.",
+      "valid_from": "2022-01-26"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "I. - A créé les dispositions suivantes :\n\nII. - A modifié les dispositions suivantes :\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\nIII. - Le présent article entre en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2022."
+      "content": "I. - A créé les dispositions suivantes :\n\nII. - A modifié les dispositions suivantes :\n\n- Code de la sécurité intérieure\n\n- Code de la sécurité intérieure\n\nIII. - Le présent article entre en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2022.",
+      "valid_from": "2022-01-26"
     },
     {
       "provision_ref": "art32",
       "section": "32",
       "title": "Article 32",
-      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de la route.\n\nII. - Le présent article, à l'exception du 1° du I, entre en vigueur le premier jour du troisième mois suivant la promulgation de la présente loi. Le 2° du I s'applique aux contrats de location conclus à compter de cette date d'entrée en vigueur."
+      "content": "I. - A modifié les dispositions suivantes :\n\n- Code de la route.\n\nII. - Le présent article, à l'exception du 1° du I, entre en vigueur le premier jour du troisième mois suivant la promulgation de la présente loi. Le 2° du I s'applique aux contrats de location conclus à compter de cette date d'entrée en vigueur.",
+      "valid_from": "2022-01-26"
     },
     {
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "I. à VI. - A modifié les dispositions suivantes :\n\n- Code pénal\n\n- Code de procédure pénale\n\n- Code de la justice pénale des mineurs\n\n- Code de l'organisation judiciaire\n\n- Code de la sécurité intérieure\n\n- LOI n° 78-17 du 6 janvier 1978\n\nVII. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est habilité à prendre par voie d'ordonnance les mesures relevant du domaine de la loi nécessaires à l'adaptation et à l'extension des dispositions de la présente loi dans les collectivités régies par les articles 73 et 74 de la Constitution et en Nouvelle-Calédonie.Cette ordonnance est prise dans un délai d'un an à compter de la promulgation de la présente loi.Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "I. à VI. - A modifié les dispositions suivantes :\n\n- Code pénal\n\n- Code de procédure pénale\n\n- Code de la justice pénale des mineurs\n\n- Code de l'organisation judiciaire\n\n- Code de la sécurité intérieure\n\n- LOI n° 78-17 du 6 janvier 1978\n\nVII. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est habilité à prendre par voie d'ordonnance les mesures relevant du domaine de la loi nécessaires à l'adaptation et à l'extension des dispositions de la présente loi dans les collectivités régies par les articles 73 et 74 de la Constitution et en Nouvelle-Calédonie.Cette ordonnance est prise dans un délai d'un an à compter de la promulgation de la présente loi.Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2022-01-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Dans la limite des crédits inscrits au budget annuel du ministère de l'éducation nationale, le ministre désigne par arrêté les départements dans lesquels est créée une bibliothèque centrale de prêt."
+      "content": "Dans la limite des crédits inscrits au budget annuel du ministère de l'éducation nationale, le ministre désigne par arrêté les départements dans lesquels est créée une bibliothèque centrale de prêt.",
+      "valid_from": "1945-11-04"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le siège de la bibliothèque centrale de prêt est au chef-lieu du département ou dans une autre ville du département désignée par le ministre."
+      "content": "Le siège de la bibliothèque centrale de prêt est au chef-lieu du département ou dans une autre ville du département désignée par le ministre.",
+      "valid_from": "1945-11-04"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Le personnel des bibliothèques centrales de prêt comprend :1° Un bibliothécaire directeur, un sous-bibliothécaire, un secrétaire dactylographe, fonctionnaires de l'Etat ;2° Un chauffeur auxiliaire."
+      "content": "Le personnel des bibliothèques centrales de prêt comprend :1° Un bibliothécaire directeur, un sous-bibliothécaire, un secrétaire dactylographe, fonctionnaires de l'Etat ;2° Un chauffeur auxiliaire.",
+      "valid_from": "1945-11-04"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Des décrets contresignés par le ministre de l'intérieur et le ministre des finances fixent les cadres, les traitements, les classes, les conditions de recrutement et d'avancement et le régime disciplinaire du personnel titulaire."
+      "content": "Des décrets contresignés par le ministre de l'intérieur et le ministre des finances fixent les cadres, les traitements, les classes, les conditions de recrutement et d'avancement et le régime disciplinaire du personnel titulaire.",
+      "valid_from": "1945-11-04"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les personnels visés à l'article 3 ci-dessus sont admis au bénéfice de la loi du 14 avril 1924 susvisée."
+      "content": "Les personnels visés à l'article 3 ci-dessus sont admis au bénéfice de la loi du 14 avril 1924 susvisée.",
+      "valid_from": "1945-11-04"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi."
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi.",
+      "valid_from": "1945-11-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

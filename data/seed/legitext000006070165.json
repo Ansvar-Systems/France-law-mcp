@@ -1,0 +1,39 @@
+{
+  "id": "legitext000006070165",
+  "type": "statute",
+  "title": "Loi n° 94-590 du 15 juillet 1994",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070165/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Par dérogation aux dispositions de l'article L. 227 du code électoral, le prochain renouvellement des conseillers municipaux aura lieu en juin 1995.Leur mandat sera soumis à renouvellement en mars 2001.",
+      "valid_from": "1994-07-16"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Pour l'élection mentionnée au premier alinéa de l'article précédent, la durée de la période pendant laquelle les candidats peuvent avoir recueilli des fonds dans les conditions prévues par l'article L. 52-4 du code électoral est portée de douze à quinze mois. Toutefois, les comptes de campagne établis par ces candidats ne retracent que les dépenses engagées ou effectuées en vue de l'élection au cours de la période mentionnée à l'article L. 52-4.",
+      "valid_from": "1994-07-16"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente loi est applicable dans les territoires d'outre-mer et à Mayotte.",
+      "valid_from": "2001-07-13"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

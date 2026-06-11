@@ -12,7 +12,14 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Par dérogation aux dispositions de l'article L. 192 du code électoral, le mandat des conseillers généraux de la série renouvelable en 1994 sera soumis à renouvellement en mars 2001."
+      "content": "Par dérogation aux dispositions de l'article L. 192 du code électoral, le mandat des conseillers généraux de la série renouvelable en 1994 sera soumis à renouvellement en mars 2001.",
+      "valid_from": "1994-01-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

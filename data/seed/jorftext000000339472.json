@@ -12,49 +12,63 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Il est créé sous la dénomination \"Thermes nationaux d'Aix-les-Bains\" un établissement public industriel et commercial.Cet organisme a pour objet l'exploitation rie l'établissement thermal de l'Etat, des sources d'eau minérale qui l'alimentent ou qui viendraient à être découvertes ultérieurement et seraient utiles à son fonctionnement."
+      "content": "Il est créé sous la dénomination \"Thermes nationaux d'Aix-les-Bains\" un établissement public industriel et commercial.Cet organisme a pour objet l'exploitation rie l'établissement thermal de l'Etat, des sources d'eau minérale qui l'alimentent ou qui viendraient à être découvertes ultérieurement et seraient utiles à son fonctionnement.",
+      "valid_from": "2002-01-18"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'établissement est soumis à un régime administratif, budgétaire, financier et comptable et à un contrôle d'Etat adaptés à la nature particulière de ses missions."
+      "content": "L'établissement est soumis à un régime administratif, budgétaire, financier et comptable et à un contrôle d'Etat adaptés à la nature particulière de ses missions.",
+      "valid_from": "2002-01-18"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Il n'est en rien dérogé à la situation des agents titulaires soumis au statut général des fonctionnaires et affiliés au régime des pensions fixé par décret n° 51-598 du 23 mai 1951."
+      "content": "Il n'est en rien dérogé à la situation des agents titulaires soumis au statut général des fonctionnaires et affiliés au régime des pensions fixé par décret n° 51-598 du 23 mai 1951.",
+      "valid_from": "1958-09-30"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "L'établissement reçoit, au titre de la dotation initiale, une subvention extraordinaire inscrite au budget de l'Etat (ministère de la santé publique et de la population)."
+      "content": "L'établissement reçoit, au titre de la dotation initiale, une subvention extraordinaire inscrite au budget de l'Etat (ministère de la santé publique et de la population).",
+      "valid_from": "1958-09-30"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Est transférée gratuitement aux Thermes nationaux d'Aix-les-Bains la propriété des meubles meublants, outillage et matériels présentant un caractère mobilier, qui sont affectés à l'exploitation de l'établissement thermal."
+      "content": "Est transférée gratuitement aux Thermes nationaux d'Aix-les-Bains la propriété des meubles meublants, outillage et matériels présentant un caractère mobilier, qui sont affectés à l'exploitation de l'établissement thermal.",
+      "valid_from": "1958-09-30"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Un arrêté conjoint du ministre des finances et des affaires économiques et du ministre de la santé publique et de la population attribuera gratuitement aux Thermes nationaux d'Aix-les-Bains à titre de dotations, dans les conditions prévues par le décret n° 49-1313 du 27 septembre 1949, modifié par le décret n° 53-109 du 5 novembre 1953, l'ensemble des immeubles bâtis et non bâtis nécessaires à son fonctionnement et constituant l'exploitation thermale.Ces immeubles conserveront le caractère domanial et feront retour gratuitement à l'Etat en cas de suppression de l'établissement public national, pour quelque cause que ce soit ou s'ils deviennent inutiles à son fonctionnement."
+      "content": "Un arrêté conjoint du ministre des finances et des affaires économiques et du ministre de la santé publique et de la population attribuera gratuitement aux Thermes nationaux d'Aix-les-Bains à titre de dotations, dans les conditions prévues par le décret n° 49-1313 du 27 septembre 1949, modifié par le décret n° 53-109 du 5 novembre 1953, l'ensemble des immeubles bâtis et non bâtis nécessaires à son fonctionnement et constituant l'exploitation thermale.Ces immeubles conserveront le caractère domanial et feront retour gratuitement à l'Etat en cas de suppression de l'établissement public national, pour quelque cause que ce soit ou s'ils deviennent inutiles à son fonctionnement.",
+      "valid_from": "1958-09-30"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La loi du 30 janvier 1884, modifiée par la loi du 16 aoùt 1884, est abrogée en faut qu'elle concerne l'établissement thermal d'Aix-les-Bains."
+      "content": "La loi du 30 janvier 1884, modifiée par la loi du 16 aoùt 1884, est abrogée en faut qu'elle concerne l'établissement thermal d'Aix-les-Bains.",
+      "valid_from": "1958-09-30"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le ministre des finances et des affaires économiques et le ministre de la santé publique de la population sont chargés de l'exécution du présent décret qui sera publié au Journal officiel de la République française."
+      "content": "Le ministre des finances et des affaires économiques et le ministre de la santé publique de la population sont chargés de l'exécution du présent décret qui sera publié au Journal officiel de la République française.",
+      "valid_from": "1958-09-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

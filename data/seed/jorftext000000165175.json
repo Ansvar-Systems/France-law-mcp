@@ -12,25 +12,35 @@
       "provision_ref": "art34",
       "section": "34",
       "title": "Article 34",
-      "content": "I.  La loi n° 57-897 du 7 août 1957 portant interdiction de la pêche dans l'étang de Berre est abrogée.II.  Des relevés scientifiques établissant zone par zone la situation biologique de l'étang de Berre constitueront la référence commune pour l'application des règles en vigueur pour la protection de l'environnement et l'exercice de la pêche.III.  Les faits de pêche prohibés depuis l'entrée en vigueur de la loi n° 57-897 du 7 août 1957 précitée sont amnistiés.Il ne sera procédé à aucun remboursement par les pêcheurs ou la prud'homie du quartier de Martigues des indemnités qui ont été versées en contrepartie de l'interdiction."
+      "content": "I.  La loi n° 57-897 du 7 août 1957 portant interdiction de la pêche dans l'étang de Berre est abrogée.II.  Des relevés scientifiques établissant zone par zone la situation biologique de l'étang de Berre constitueront la référence commune pour l'application des règles en vigueur pour la protection de l'environnement et l'exercice de la pêche.III.  Les faits de pêche prohibés depuis l'entrée en vigueur de la loi n° 57-897 du 7 août 1957 précitée sont amnistiés.Il ne sera procédé à aucun remboursement par les pêcheurs ou la prud'homie du quartier de Martigues des indemnités qui ont été versées en contrepartie de l'interdiction.",
+      "valid_from": "1994-02-11"
     },
     {
       "provision_ref": "art35",
       "section": "35",
       "title": "Article 35",
-      "content": "La prime de départ versée aux agriculteurs contraints de cesser leur activité par suite de difficultés financières, dont l'exploitation a été reconnue non viable, n'est pas saisissable par les créanciers des bénéficiaires quels qu'ils soient."
+      "content": "La prime de départ versée aux agriculteurs contraints de cesser leur activité par suite de difficultés financières, dont l'exploitation a été reconnue non viable, n'est pas saisissable par les créanciers des bénéficiaires quels qu'ils soient.",
+      "valid_from": "1994-02-11"
     },
     {
       "provision_ref": "art36",
       "section": "36",
       "title": "Article 36",
-      "content": "Les candidats nommés à l'issue du concours interne ouvert en 1990 au ministère de l'agriculture et de la forêt pour le recrutement de secrétaires administratifs d'administration centrale conservent le bénéfice de leur nomination en qualité de secrétaire administratif stagiaire de l'administration centrale du ministère de l'agriculture et de la forêt."
+      "content": "Les candidats nommés à l'issue du concours interne ouvert en 1990 au ministère de l'agriculture et de la forêt pour le recrutement de secrétaires administratifs d'administration centrale conservent le bénéfice de leur nomination en qualité de secrétaire administratif stagiaire de l'administration centrale du ministère de l'agriculture et de la forêt.",
+      "valid_from": "1994-02-11"
     },
     {
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "Les agents non titulaires de l'Etat en fonctions dans un service déconcentré du ministère de l'agriculture et de la pêche transféré au département et les agents non titulaires des départements exerçant leurs fonctions dans un service déconcentré relevant de ce ministère peuvent, sur leur demande, se voir reconnaître la qualité d'agents non titulaires de la collectivité qui les emploie.Leur demande doit être formulée avant le 1er janvier 1995. Il y est fait droit avant le 31 juillet 1996. Les services accomplis par les agents non titulaires dans la collectivité d'origine sont assimilés à des services accomplis dans la collectivité d'accueil.Les transferts de charges résultant de l'application des alinéas ci-dessus sont définitivement compensés selon les modalités fixées par le titre premier de la loi n° 85-1098 du 11 octobre 1985 relative à la prise en charge par l'Etat, les départements et les régions des dépenses de personnel, de fonctionnement et d'équipement des services placés sous leur autorité."
+      "content": "Les agents non titulaires de l'Etat en fonctions dans un service déconcentré du ministère de l'agriculture et de la pêche transféré au département et les agents non titulaires des départements exerçant leurs fonctions dans un service déconcentré relevant de ce ministère peuvent, sur leur demande, se voir reconnaître la qualité d'agents non titulaires de la collectivité qui les emploie.Leur demande doit être formulée avant le 1er janvier 1995. Il y est fait droit avant le 31 juillet 1996. Les services accomplis par les agents non titulaires dans la collectivité d'origine sont assimilés à des services accomplis dans la collectivité d'accueil.Les transferts de charges résultant de l'application des alinéas ci-dessus sont définitivement compensés selon les modalités fixées par le titre premier de la loi n° 85-1098 du 11 octobre 1985 relative à la prise en charge par l'Etat, les départements et les régions des dépenses de personnel, de fonctionnement et d'équipement des services placés sous leur autorité.",
+      "valid_from": "1994-02-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

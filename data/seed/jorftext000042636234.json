@@ -12,19 +12,28 @@
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les personnes exerçant les activités définies aux 3° et 4° de l'article L. 54-10-2 du code monétaire et financier avant l'entrée en vigueur de la présente ordonnance bénéficient d'un délai de six mois à compter de sa publication pour s'enregistrer auprès de l'Autorité des marchés financiers dans les conditions définies à l'article L. 54-10-3 du même code.Les dispositions du 3° de l'article 1er sont applicables aux demandes d'enregistrement déposées auprès de l'Autorité des marchés financiers ou en cours d'examen par celle-ci dans les conditions définies à l'article L. 54-10-3 du code monétaire et financier pour l'exercice des activités définies aux 1° et 2° de l'article L. 54-10-2 du même code à compter de la publication de la présente ordonnance."
+      "content": "Les personnes exerçant les activités définies aux 3° et 4° de l'article L. 54-10-2 du code monétaire et financier avant l'entrée en vigueur de la présente ordonnance bénéficient d'un délai de six mois à compter de sa publication pour s'enregistrer auprès de l'Autorité des marchés financiers dans les conditions définies à l'article L. 54-10-3 du même code.Les dispositions du 3° de l'article 1er sont applicables aux demandes d'enregistrement déposées auprès de l'Autorité des marchés financiers ou en cours d'examen par celle-ci dans les conditions définies à l'article L. 54-10-3 du code monétaire et financier pour l'exercice des activités définies aux 1° et 2° de l'article L. 54-10-2 du même code à compter de la publication de la présente ordonnance.",
+      "valid_from": "2020-12-11"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "L'article 12 est applicable en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna."
+      "content": "L'article 12 est applicable en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna.",
+      "valid_from": "2020-12-11"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'économie, des finances et de la relance et le ministre des outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-12-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

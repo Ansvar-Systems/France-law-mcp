@@ -4,7 +4,7 @@
   "title": "Loi du 15 février 1872",
   "title_en": null,
   "short_name": null,
-  "status": "repealed",
+  "status": "in_force",
   "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000309753",
   "description": null,
   "provisions": [
@@ -12,37 +12,49 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Si l'Assemblée nationale ou celles qui lui succéderont viennent à être illégalement dissoutes ou empêchées de se réunir, les conseils départementaux s'assemblent immédiatement, de plein droit, et sans qu'il soit besoin de convocation spéciale, au chef-lieu de chaque département.Ils peuvent s'assembler partout ailleurs dans le département, si le lieu habituel de leurs séances ne leur paraît pas offrir de garanties suffisantes pour la liberté de leurs délibérations.Les conseils ne sont valablement constitués que par la présence de la majorité de leurs membres."
+      "content": "Si l'Assemblée nationale ou celles qui lui succéderont viennent à être illégalement dissoutes ou empêchées de se réunir, les conseils départementaux s'assemblent immédiatement, de plein droit, et sans qu'il soit besoin de convocation spéciale, au chef-lieu de chaque département.Ils peuvent s'assembler partout ailleurs dans le département, si le lieu habituel de leurs séances ne leur paraît pas offrir de garanties suffisantes pour la liberté de leurs délibérations.Les conseils ne sont valablement constitués que par la présence de la majorité de leurs membres.",
+      "valid_from": "2015-03-22"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Jusqu'au jour où l'assemblée, dont il sera parlé à l'article 3, aura fait connaître qu'elle est régulièrement constituée, le conseil départemental pourvoira d'urgence au maintien de la tranquillité publique et de l'ordre légal."
+      "content": "Jusqu'au jour où l'assemblée, dont il sera parlé à l'article 3, aura fait connaître qu'elle est régulièrement constituée, le conseil départemental pourvoira d'urgence au maintien de la tranquillité publique et de l'ordre légal.",
+      "valid_from": "2015-03-22"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Une assemblée composée de deux délégués élus par chaque conseil départemental, en comité secret, se réunit dans le lieu où se seront rendus les membres du Gouvernement légal et les députés qui auront pu se soustraire à la violence.\n\nL'assemblée des délégués n'est valablement constituée qu'autant que la moitié des départements, au moins, s'y trouve représentée."
+      "content": "Une assemblée composée de deux délégués élus par chaque conseil départemental, en comité secret, se réunit dans le lieu où se seront rendus les membres du Gouvernement légal et les députés qui auront pu se soustraire à la violence.\n\nL'assemblée des délégués n'est valablement constituée qu'autant que la moitié des départements, au moins, s'y trouve représentée.",
+      "valid_from": "2015-03-22"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Cette assemblée est chargée de prendre, pour toute la France, les mesures urgentes que nécessite le maintien de l'ordre et spécialement celles qui ont pour objet de rendre à l'Assemblée nationale la plénitude de son indépendance et l'exercice de ses droits.\n\nElle pourvoit provisoirement à l'administration générale du pays."
+      "content": "Cette assemblée est chargée de prendre, pour toute la France, les mesures urgentes que nécessite le maintien de l'ordre et spécialement celles qui ont pour objet de rendre à l'Assemblée nationale la plénitude de son indépendance et l'exercice de ses droits.\n\nElle pourvoit provisoirement à l'administration générale du pays.",
+      "valid_from": "1872-02-23"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Elle doit se dissoudre aussitôt que l'Assemblée nationale se sera reconstituée par la réunion de la majorité de ses membres sur un point quelconque du territoire.\n\nSi cette reconstitution ne peut se réaliser dans le mois qui suit les événements, l'assemblée des délégués doit décréter un appel à la nation pour des élections générales.\n\nSes pouvoirs cessent le jour où la nouvelle Assemblée nationale est constituée."
+      "content": "Elle doit se dissoudre aussitôt que l'Assemblée nationale se sera reconstituée par la réunion de la majorité de ses membres sur un point quelconque du territoire.\n\nSi cette reconstitution ne peut se réaliser dans le mois qui suit les événements, l'assemblée des délégués doit décréter un appel à la nation pour des élections générales.\n\nSes pouvoirs cessent le jour où la nouvelle Assemblée nationale est constituée.",
+      "valid_from": "1872-02-23"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les décisions de l'assemblée des délégués doivent être exécutées, à peine de forfaiture, par tous les fonctionnaires, agents de l'autorité et commandants de la force publique."
+      "content": "Les décisions de l'assemblée des délégués doivent être exécutées, à peine de forfaiture, par tous les fonctionnaires, agents de l'autorité et commandants de la force publique.",
+      "valid_from": "1872-02-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont introduites dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, en tant qu'elles n'y sont pas encore en vigueur, les dispositions des lois et règlements français relatifs à l'organisation, la discipline et la comptabilité notariales, à l'exception :1° De l'article 91 de la loi du 28 avril 1816 et de toutes les dispositions relatives à la cession à titre onéreux ou gratuit des offices de notaires ;2° Des alinéas 1er, 2 et 3 de l'article 5 de la loi du 25 ventôse an XI, modifiée par la loi du 12 août 1902, relatifs à la compétence territoriale des notaires ;3° Des articles 35 et 36 de la même loi, réglant les conditions d'admission aux fonctions de notaire."
+      "content": "Sont introduites dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, en tant qu'elles n'y sont pas encore en vigueur, les dispositions des lois et règlements français relatifs à l'organisation, la discipline et la comptabilité notariales, à l'exception :1° De l'article 91 de la loi du 28 avril 1816 et de toutes les dispositions relatives à la cession à titre onéreux ou gratuit des offices de notaires ;2° Des alinéas 1er, 2 et 3 de l'article 5 de la loi du 25 ventôse an XI, modifiée par la loi du 12 août 1902, relatifs à la compétence territoriale des notaires ;3° Des articles 35 et 36 de la même loi, réglant les conditions d'admission aux fonctions de notaire.",
+      "valid_from": "1925-07-18"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Sont abrogés les lois et règlements locaux en ce qu'ils ont de contraire aux dispositions de la présente loi."
+      "content": "Sont abrogés les lois et règlements locaux en ce qu'ils ont de contraire aux dispositions de la présente loi.",
+      "valid_from": "1925-07-18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

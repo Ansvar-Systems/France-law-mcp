@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente ordonnance entre en vigueur aux dates et dans les conditions prévues par décret en Conseil d'Etat et au plus tard le 1er septembre 2025.Le présent article est applicable dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie."
+      "content": "La présente ordonnance entre en vigueur aux dates et dans les conditions prévues par décret en Conseil d'Etat et au plus tard le 1er septembre 2025.Le présent article est applicable dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.",
+      "valid_from": "2023-05-18"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La Première ministre, le ministre de l'intérieur et des outre-mer, le garde des sceaux, ministre de la justice, et le ministre délégué auprès du ministre de l'intérieur et des outre-mer, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "La Première ministre, le ministre de l'intérieur et des outre-mer, le garde des sceaux, ministre de la justice, et le ministre délégué auprès du ministre de l'intérieur et des outre-mer, chargé des outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2023-05-18"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

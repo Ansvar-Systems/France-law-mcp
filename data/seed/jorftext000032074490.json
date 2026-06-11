@@ -12,25 +12,35 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "La procédure prévue à l'article L. 522-1 du code de l'expropriation pour cause d'utilité publique peut être appliquée dans les communes de Mitry-Mory, Paris et Tremblay-en-France, en vue de la prise de possession, par l'Etat ou la société mentionnée à l'article L. 2111-3 du code des transports, de tous terrains non bâtis dont l'acquisition est nécessaire à la réalisation de l'infrastructure ferroviaire destinée à l'exploitation d'un service de transport de personnes entre Paris et l'aéroport Paris-Charles de Gaulle faisant l'objet de ce dernier article.Les décrets sur avis conforme du Conseil d'Etat prévus à l'article L. 522-1 sont pris dans le délai de validité de l'acte déclarant d'utilité publique la réalisation de cette infrastructure ferroviaire."
+      "content": "La procédure prévue à l'article L. 522-1 du code de l'expropriation pour cause d'utilité publique peut être appliquée dans les communes de Mitry-Mory, Paris et Tremblay-en-France, en vue de la prise de possession, par l'Etat ou la société mentionnée à l'article L. 2111-3 du code des transports, de tous terrains non bâtis dont l'acquisition est nécessaire à la réalisation de l'infrastructure ferroviaire destinée à l'exploitation d'un service de transport de personnes entre Paris et l'aéroport Paris-Charles de Gaulle faisant l'objet de ce dernier article.Les décrets sur avis conforme du Conseil d'Etat prévus à l'article L. 522-1 sont pris dans le délai de validité de l'acte déclarant d'utilité publique la réalisation de cette infrastructure ferroviaire.",
+      "valid_from": "2016-12-30"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Un arrêté du ministre chargé des transports désigne un commissaire du Gouvernement et un commissaire du Gouvernement adjoint habilités à siéger, avec voix consultative, au sein de l'organe délibérant de la société mentionnée au I de l'article L. 2111-3 du code des transports."
+      "content": "Un arrêté du ministre chargé des transports désigne un commissaire du Gouvernement et un commissaire du Gouvernement adjoint habilités à siéger, avec voix consultative, au sein de l'organe délibérant de la société mentionnée au I de l'article L. 2111-3 du code des transports.",
+      "valid_from": "2016-02-20"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les rapports entre la société mentionnée au I de l'article L. 2111-3 du code des transports, SNCF Réseau, SNCF Mobilité et Aéroports de Paris, y compris dans le cadre d'un groupement de commandes constitué de tout ou partie de ces entités en application de l'article 28 de l'ordonnance du 23 juillet 2015 susvisée, ne sont pas régis par la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'œuvre privée.La société mentionnée au I de l'article L. 2111-3 du code des transports, SNCF Réseau, SNCF Mobilités et Aéroports de Paris peuvent, le cas échéant dans le cadre d'un groupement de commandes, confier à un ou plusieurs opérateurs économiques tout ou partie de la conception, du financement, de la réalisation, de l'aménagement et de la maintenance, comprenant l'entretien et le renouvellement, de tout ou partie de l'infrastructure ferroviaire destinée à l'exploitation d'un service de transport de personnes entre Paris et l'aéroport Paris-Charles de Gaulle faisant l'objet de cet article L. 2111-3. Les dispositions des articles 33 et 34 de l'ordonnance du 23 juillet 2015 susvisée ne sont pas applicables à ces contrats."
+      "content": "Les rapports entre la société mentionnée au I de l'article L. 2111-3 du code des transports, SNCF Réseau, SNCF Mobilité et Aéroports de Paris, y compris dans le cadre d'un groupement de commandes constitué de tout ou partie de ces entités en application de l'article 28 de l'ordonnance du 23 juillet 2015 susvisée, ne sont pas régis par la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'œuvre privée.La société mentionnée au I de l'article L. 2111-3 du code des transports, SNCF Réseau, SNCF Mobilités et Aéroports de Paris peuvent, le cas échéant dans le cadre d'un groupement de commandes, confier à un ou plusieurs opérateurs économiques tout ou partie de la conception, du financement, de la réalisation, de l'aménagement et de la maintenance, comprenant l'entretien et le renouvellement, de tout ou partie de l'infrastructure ferroviaire destinée à l'exploitation d'un service de transport de personnes entre Paris et l'aéroport Paris-Charles de Gaulle faisant l'objet de cet article L. 2111-3. Les dispositions des articles 33 et 34 de l'ordonnance du 23 juillet 2015 susvisée ne sont pas applicables à ces contrats.",
+      "valid_from": "2016-02-20"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Le Premier ministre et la ministre de l'environnement, de l'énergie et de la mer, en charge des relations internationales sur le climat, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre de l'environnement, de l'énergie et de la mer, en charge des relations internationales sur le climat, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-02-20"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

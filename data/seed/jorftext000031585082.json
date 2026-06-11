@@ -12,7 +12,14 @@
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Dans un délai de deux ans à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur la mise en œuvre de la charte nationale mentionnée au second alinéa de l'article L. 5343-7 du code des transports.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Dans un délai de deux ans à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur la mise en œuvre de la charte nationale mentionnée au second alinéa de l'article L. 5343-7 du code des transports.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2015-12-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont punis, conformément aux dispositions des articles 103 et 104 du code de l'urbanisme et de l'habitation, ceux qui, sauf dérogation régulièrement accordée, ont exécuté des travaux sur des terrains réservés, soit compris dans les emprises des routes nationales, des autoroutes ou des voies assimilées, existantes ou projetées, soit situés de part et d'autre de ces emprises."
+      "content": "Sont punis, conformément aux dispositions des articles 103 et 104 du code de l'urbanisme et de l'habitation, ceux qui, sauf dérogation régulièrement accordée, ont exécuté des travaux sur des terrains réservés, soit compris dans les emprises des routes nationales, des autoroutes ou des voies assimilées, existantes ou projetées, soit situés de part et d'autre de ces emprises.",
+      "valid_from": "1958-12-25"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le décret du 30 octobre 1935, portant création de servitudes à la charge des terrains nécessaires à l'amélioration des routes nationales est abrogé."
+      "content": "Le décret du 30 octobre 1935, portant création de servitudes à la charge des terrains nécessaires à l'amélioration des routes nationales est abrogé.",
+      "valid_from": "1958-12-25"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La présente ordonnance est applicable dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion."
+      "content": "La présente ordonnance est applicable dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.",
+      "valid_from": "1958-12-25"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi."
+      "content": "La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi.",
+      "valid_from": "1958-12-25"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

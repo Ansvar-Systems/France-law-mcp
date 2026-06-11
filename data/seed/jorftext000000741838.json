@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Pour l'élection des conseillers municipaux dont le dépôt des candidatures a été antérieur au 5 février 1996, l'interdiction faite par l'article L. 52-5 du code électoral à un candidat d'être membre de sa propre association de financement ne s'applique qu'au candidat tête de la liste. Pour la même élection, un candidat tête de liste peut avoir désigné un des membres de la liste comme mandataire financier.Ces dispositions de portée interprétative s'appliquent aux instances en cours devant les juridictions administratives ; elles ne portent pas atteinte à la validité de décisions juridictionnelles devenues définitives."
+      "content": "Pour l'élection des conseillers municipaux dont le dépôt des candidatures a été antérieur au 5 février 1996, l'interdiction faite par l'article L. 52-5 du code électoral à un candidat d'être membre de sa propre association de financement ne s'applique qu'au candidat tête de la liste. Pour la même élection, un candidat tête de liste peut avoir désigné un des membres de la liste comme mandataire financier.Ces dispositions de portée interprétative s'appliquent aux instances en cours devant les juridictions administratives ; elles ne portent pas atteinte à la validité de décisions juridictionnelles devenues définitives.",
+      "valid_from": "1996-04-11"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions de la présente loi sont applicables dans les territoires d'outre-mer et à Mayotte."
+      "content": "Les dispositions de la présente loi sont applicables dans les territoires d'outre-mer et à Mayotte.",
+      "valid_from": "2001-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

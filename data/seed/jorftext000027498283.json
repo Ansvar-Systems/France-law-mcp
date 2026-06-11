@@ -12,19 +12,28 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "L'article 1er entre en vigueur dans un délai de six mois à compter de la promulgation de la présente loi."
+      "content": "L'article 1er entre en vigueur dans un délai de six mois à compter de la promulgation de la présente loi.",
+      "valid_from": "2013-06-05"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Lorsque la mention d'une date indiquant le délai dans lequel une denrée alimentaire doit être consommée est apposée sur l'emballage de cette denrée, ce délai ne peut être plus long, lorsque celle-ci est distribuée dans les collectivités mentionnées à l'article 73 de la Constitution ou dans les collectivités de Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon, que le délai prévu pour la même denrée de même marque distribuée en France hexagonale."
+      "content": "Lorsque la mention d'une date indiquant le délai dans lequel une denrée alimentaire doit être consommée est apposée sur l'emballage de cette denrée, ce délai ne peut être plus long, lorsque celle-ci est distribuée dans les collectivités mentionnées à l'article 73 de la Constitution ou dans les collectivités de Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon, que le délai prévu pour la même denrée de même marque distribuée en France hexagonale.",
+      "valid_from": "2013-06-05"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Dans les collectivités mentionnées à l'article 73 de la Constitution et dans les collectivités de Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon, les performances en matière de développement des approvisionnements directs de produits de l'agriculture et de l'industrie agroalimentaire et halioalimentaire sont obligatoirement prises en compte pour l'attribution des marchés publics de restauration collective."
+      "content": "Dans les collectivités mentionnées à l'article 73 de la Constitution et dans les collectivités de Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon, les performances en matière de développement des approvisionnements directs de produits de l'agriculture et de l'industrie agroalimentaire et halioalimentaire sont obligatoirement prises en compte pour l'attribution des marchés publics de restauration collective.",
+      "valid_from": "2014-10-15"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

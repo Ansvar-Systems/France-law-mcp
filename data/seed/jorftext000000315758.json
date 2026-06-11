@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Aucun bâtiment destiné à une navigation dans les eaux maritimes, pour lequel la déclaration de mise en chantier est prévue par le décret du 1er septembre 1934 ou le décret du 3 mars 1937, ne peut, à compter de la date de la présente loi, être mis en chantier pour compte privé sans une autorisation préalable du ministre secrétaire d'Etat à la marine."
+      "content": "Aucun bâtiment destiné à une navigation dans les eaux maritimes, pour lequel la déclaration de mise en chantier est prévue par le décret du 1er septembre 1934 ou le décret du 3 mars 1937, ne peut, à compter de la date de la présente loi, être mis en chantier pour compte privé sans une autorisation préalable du ministre secrétaire d'Etat à la marine.",
+      "valid_from": "1941-11-11"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le ministre secrétaire d'Etat à la marine peut, par arrêté, déléguer à l'autorité maritime locale son pouvoir d'autorisation, ou dispenser d'autorisation certaines catégories de bâtiments."
+      "content": "Le ministre secrétaire d'Etat à la marine peut, par arrêté, déléguer à l'autorité maritime locale son pouvoir d'autorisation, ou dispenser d'autorisation certaines catégories de bâtiments.",
+      "valid_from": "1942-01-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

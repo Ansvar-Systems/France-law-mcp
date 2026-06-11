@@ -12,13 +12,21 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le cahier des charges général et le schéma directeur qui lui est annexé, tous deux annexés à la présente loi, sont, à compter de la promulgation de la présente loi, adoptés et substitués au cahier des charges général et au schéma directeur de la concession unique mentionnée au deuxième alinéa de l'article 2 de la loi du 27 mai 1921 précitée, dans leur rédaction antérieure à la promulgation de la présente loi."
+      "content": "Le cahier des charges général et le schéma directeur qui lui est annexé, tous deux annexés à la présente loi, sont, à compter de la promulgation de la présente loi, adoptés et substitués au cahier des charges général et au schéma directeur de la concession unique mentionnée au deuxième alinéa de l'article 2 de la loi du 27 mai 1921 précitée, dans leur rédaction antérieure à la promulgation de la présente loi.",
+      "valid_from": "2022-03-02"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "A créé les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n- Loi n°80-3 du 4 janvier 1980\n\n- Loi du 27 mai 1921\n\n- Loi n°80-3 du 4 janvier 1980\n\nLa présente loi sera exécutée comme loi de l'Etat."
+      "content": "A créé les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n- Loi n°80-3 du 4 janvier 1980\n\n- Loi du 27 mai 1921\n\n- Loi n°80-3 du 4 janvier 1980\n\nLa présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2022-03-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

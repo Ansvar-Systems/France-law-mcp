@@ -12,25 +12,35 @@
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Les dispositions du présent titre, et notamment celles des articles 5, 6 et 14 ne font pas obstacle aux prescriptions énoncées à la section III du chapitre V du titre Ier du livre II du Code du travail (Théatres et professions ambulantes) et aux textes qui s'y rattachent, non plus qu'aux dispositions législatives ou réglementaires relatives aux travaux présentant pour les enfants des causes de danger, excédant leurs forces, ou dangereux pour leur moralité."
+      "content": "Les dispositions du présent titre, et notamment celles des articles 5, 6 et 14 ne font pas obstacle aux prescriptions énoncées à la section III du chapitre V du titre Ier du livre II du Code du travail (Théatres et professions ambulantes) et aux textes qui s'y rattachent, non plus qu'aux dispositions législatives ou réglementaires relatives aux travaux présentant pour les enfants des causes de danger, excédant leurs forces, ou dangereux pour leur moralité.",
+      "valid_from": "1967-09-28"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "Les collectivités publiques et leurs établissements peuvent attribuer le titre-restaurant :\n\n- dans le cas où ils n'ont pas mis en place de dispositif propre de restauration collective, aux agents qu'ils ne peuvent pas faire bénéficier, par contrat passé avec un ou plusieurs gestionnaires de restaurants publics ou privés, d'un dispositif de restauration compatible avec la localisation de leur poste de travail ;\n\n- dans le cas où ils ont mis en place un dispositif propre de restauration collective, aux agents qu'ils ne peuvent faire bénéficier, compte tenu de la localisation de leur poste de travail, ni de ce dispositif, ni d'un dispositif de restauration mis en place par contrat passé avec un ou plusieurs gestionnaires de restaurants publics ou privés."
+      "content": "Les collectivités publiques et leurs établissements peuvent attribuer le titre-restaurant :\n\n- dans le cas où ils n'ont pas mis en place de dispositif propre de restauration collective, aux agents qu'ils ne peuvent pas faire bénéficier, par contrat passé avec un ou plusieurs gestionnaires de restaurants publics ou privés, d'un dispositif de restauration compatible avec la localisation de leur poste de travail ;\n\n- dans le cas où ils ont mis en place un dispositif propre de restauration collective, aux agents qu'ils ne peuvent faire bénéficier, compte tenu de la localisation de leur poste de travail, ni de ce dispositif, ni d'un dispositif de restauration mis en place par contrat passé avec un ou plusieurs gestionnaires de restaurants publics ou privés.",
+      "valid_from": "2011-05-19"
     },
     {
       "provision_ref": "art19-1",
       "section": "19-1",
       "title": "Article 19-1",
-      "content": "Les associations caritatives reconnues d'utilité publique fournissant une aide alimentaire sont autorisées à percevoir des dons sous forme de titres-restaurants de la part des salariés."
+      "content": "Les associations caritatives reconnues d'utilité publique fournissant une aide alimentaire sont autorisées à percevoir des dons sous forme de titres-restaurants de la part des salariés.",
+      "valid_from": "2008-12-05"
     },
     {
       "provision_ref": "art27",
       "section": "27",
       "title": "Article 27",
-      "content": "L'article 3 de la loi n. 66-948 du 22 décembre 1966 est abrogé."
+      "content": "L'article 3 de la loi n. 66-948 du 22 décembre 1966 est abrogé.",
+      "valid_from": "1967-09-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

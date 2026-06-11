@@ -12,115 +12,140 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Par dérogation aux dispositions du code des assurances sociales et de la loi du 20 décembre 1911 sur l'assurance des employés, les rentes de vieillesse, d'invalidité, de veuves et de veufs définis par ce code et ladite loi, sont calculées conformément aux articles 2 à 6 de la présente ordonnance."
+      "content": "Par dérogation aux dispositions du code des assurances sociales et de la loi du 20 décembre 1911 sur l'assurance des employés, les rentes de vieillesse, d'invalidité, de veuves et de veufs définis par ce code et ladite loi, sont calculées conformément aux articles 2 à 6 de la présente ordonnance.",
+      "valid_from": "1945-10-19"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les rentes de vieillesse sont fixées selon l'âge de l'assuré au moment où elles prennent effet."
+      "content": "Les rentes de vieillesse sont fixées selon l'âge de l'assuré au moment où elles prennent effet.",
+      "valid_from": "1945-10-19"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La rente de vieillesse à laquelle ont droit les assurés à l'âge de soixante-cinq ans est constituée par une somme de base et par des majorations proportionnelles aux cotisations ou au salaire.Sous réserve des dispositions du cinquième alinéa du présent article, la somme de base des rentes dues au titre du code, des assurances sociales est fixée à 2 400 F par an et les majorations à 22 p. 100 des cotisations versées jusqu'au 20 juin 1912 et à 1,33 p. 100 du salaire avant servi de base au calcul des cotisations à partir du 30 juin 1942 ou à 23,8 p. 100 des cotisations acquittées d'après le système de classe de salaire à partir de cette même date.La somme de base des rentes dues au titre de la loi du 20 décembre 1911 est fixée à 4 800 F par an et les majorations à 20 p. 100 des cotisations versées jusqu'au 30 juin 1912 et à 0,81 pour 100 du salaire ayant servi de base au calcul des cotisations acquittées d'après le système des classes de salaire à partir de cette même date.Pour l'application des alinéas 2 et 3 ci-dessus, les cotisations afférentes à des périodes antérieures au 1er janvier 1941, ainsi que celles versées en francs après le 31 décembre 1944 pour des périodes antérieures au 31 décembre 1944, seront prises en compte selon la classe à laquelle elles correspondent pour les valeurs indiquées au barèmes ci-après (barème non reproduit).Le montant fixé à l'alinéa 2 ci-dessus comme somme de base des rentes dues au titre du code des assurances sociales est réduit d'un trentième par année ou fraction d'année écoulée entre le 1er juillet 1912 et la date à laquelle la rente prend effet.La contribution de l'Etat visée aux articles 1284 et 1285 du code des assurances sociales est supprimée à compter du 1er janvier 1915 ; pour les périodes antérieures à cette date, elle est comprise dans la somme de base visée au deuxième alinéa du présent article."
+      "content": "La rente de vieillesse à laquelle ont droit les assurés à l'âge de soixante-cinq ans est constituée par une somme de base et par des majorations proportionnelles aux cotisations ou au salaire.Sous réserve des dispositions du cinquième alinéa du présent article, la somme de base des rentes dues au titre du code, des assurances sociales est fixée à 2 400 F par an et les majorations à 22 p. 100 des cotisations versées jusqu'au 20 juin 1912 et à 1,33 p. 100 du salaire avant servi de base au calcul des cotisations à partir du 30 juin 1942 ou à 23,8 p. 100 des cotisations acquittées d'après le système de classe de salaire à partir de cette même date.La somme de base des rentes dues au titre de la loi du 20 décembre 1911 est fixée à 4 800 F par an et les majorations à 20 p. 100 des cotisations versées jusqu'au 30 juin 1912 et à 0,81 pour 100 du salaire ayant servi de base au calcul des cotisations acquittées d'après le système des classes de salaire à partir de cette même date.Pour l'application des alinéas 2 et 3 ci-dessus, les cotisations afférentes à des périodes antérieures au 1er janvier 1941, ainsi que celles versées en francs après le 31 décembre 1944 pour des périodes antérieures au 31 décembre 1944, seront prises en compte selon la classe à laquelle elles correspondent pour les valeurs indiquées au barèmes ci-après (barème non reproduit).Le montant fixé à l'alinéa 2 ci-dessus comme somme de base des rentes dues au titre du code des assurances sociales est réduit d'un trentième par année ou fraction d'année écoulée entre le 1er juillet 1912 et la date à laquelle la rente prend effet.La contribution de l'Etat visée aux articles 1284 et 1285 du code des assurances sociales est supprimée à compter du 1er janvier 1915 ; pour les périodes antérieures à cette date, elle est comprise dans la somme de base visée au deuxième alinéa du présent article.",
+      "valid_from": "1945-10-19"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Pour les assurés, dont l'âge est compris entre soixante et soixante-cinq ans, la rente définie à l'article 3 ci-dessus est réduite d'un dixième par année ou fraction d'année restant à courir jusqu'à leur soixante-cinquième anniversaire."
+      "content": "Pour les assurés, dont l'âge est compris entre soixante et soixante-cinq ans, la rente définie à l'article 3 ci-dessus est réduite d'un dixième par année ou fraction d'année restant à courir jusqu'à leur soixante-cinquième anniversaire.",
+      "valid_from": "1945-10-19"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "La rente d'invalidité est égale aux trois quarts de la rente définie à l'article ci-dessus ; elle est remplacée par cette dernière lorsque le titulaire atteint l'âge de soixante-cinq ans."
+      "content": "La rente d'invalidité est égale aux trois quarts de la rente définie à l'article ci-dessus ; elle est remplacée par cette dernière lorsque le titulaire atteint l'âge de soixante-cinq ans.",
+      "valid_from": "1945-10-19"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les rentes de veuves et de veufs dues au titre du code des assurances sociales sont égales à la moitié et celles dues au titre de la loi du 20 décembre 1911 aux deux cinquièmes de la rente dont le de cujus bénéficiait ou eût bénéficié sous réserve, dans ce dernier cas, de l'accomplissement de la période de stage exigée pour la rente à prendre en considération."
+      "content": "Les rentes de veuves et de veufs dues au titre du code des assurances sociales sont égales à la moitié et celles dues au titre de la loi du 20 décembre 1911 aux deux cinquièmes de la rente dont le de cujus bénéficiait ou eût bénéficié sous réserve, dans ce dernier cas, de l'accomplissement de la période de stage exigée pour la rente à prendre en considération.",
+      "valid_from": "1945-10-19"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les dispositions des articles 1er à 6 ci-dessus sont applicables à toutes les rentes en instance de liquidation à la date du 23 novembre 1944, ainsi qu'à celles dont la liquidation a été demandée après cette date et rétroagissent au jour à partir duquel ces rentes sont dues, sans que cet effet rétroactif puisse remonter au delà du 1er juillet 1912.Les rentes en cours à la date du 1er janvier 1945 qui n'ont pas été fixées ou recalculées d'après la législation de fait en vigueur dans les départements du Bas-Rhin et de la Moselle, au moment de la libération de ces départements, seront révisées conformément aux dispositions desdits articles, avec effet du 1er janvier 1945."
+      "content": "Les dispositions des articles 1er à 6 ci-dessus sont applicables à toutes les rentes en instance de liquidation à la date du 23 novembre 1944, ainsi qu'à celles dont la liquidation a été demandée après cette date et rétroagissent au jour à partir duquel ces rentes sont dues, sans que cet effet rétroactif puisse remonter au delà du 1er juillet 1912.Les rentes en cours à la date du 1er janvier 1945 qui n'ont pas été fixées ou recalculées d'après la législation de fait en vigueur dans les départements du Bas-Rhin et de la Moselle, au moment de la libération de ces départements, seront révisées conformément aux dispositions desdits articles, avec effet du 1er janvier 1945.",
+      "valid_from": "1945-10-19"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les alinéas 2 et 3 de l'article 1257 du code des assurances sociales, l'alinéa 3 de l'article 25 de la loi du 20 décembre 1911 sur l'assurance des employés ainsi que l'alinéa 2 de la même loi, sont abrogés à compter du 1er janvier 1945.Les rentes de vieillesse anticipées, allouées par application de ces dispositions et en cours à cette date, demeurent acquises à leurs titulaires ; par contre, il ne sera plus procédé à la liquidation des rentes de cette nature."
+      "content": "Les alinéas 2 et 3 de l'article 1257 du code des assurances sociales, l'alinéa 3 de l'article 25 de la loi du 20 décembre 1911 sur l'assurance des employés ainsi que l'alinéa 2 de la même loi, sont abrogés à compter du 1er janvier 1945.Les rentes de vieillesse anticipées, allouées par application de ces dispositions et en cours à cette date, demeurent acquises à leurs titulaires ; par contre, il ne sera plus procédé à la liquidation des rentes de cette nature.",
+      "valid_from": "1945-10-19"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les secours pécuniaires de veuves et les dotations d'orphelins visés aux articles 1252, 1264 et 1296 du code des assurances sociales sont supprimés avec effet du 1er janvier 1945.Les rentes d'orphelins visées aux articles 1259 et 1292 du code des assurances sociales et aux articles 29 et 57 de la loi du 20 décembre 1911 sont supprimées du jour de l'entrée en vigueur de la présente ordonnance. Les modifications apportées par cette dernière au calcul des rentes sont sans effet sur la détermination des rentes dites aux orphelins dont les droits étaient ouverts à cette date conformément à l'article 1259 du code des assurances sociales ou à l'article 29 de la loi du 20 décembre 1911 et la caisse d'assurance invalidité-vieillesse supporte, à partir du 1er janvier 1945, la contribution de l'Etat prévue pour les rentes d'orphelins à l'article 1285 dudit code."
+      "content": "Les secours pécuniaires de veuves et les dotations d'orphelins visés aux articles 1252, 1264 et 1296 du code des assurances sociales sont supprimés avec effet du 1er janvier 1945.Les rentes d'orphelins visées aux articles 1259 et 1292 du code des assurances sociales et aux articles 29 et 57 de la loi du 20 décembre 1911 sont supprimées du jour de l'entrée en vigueur de la présente ordonnance. Les modifications apportées par cette dernière au calcul des rentes sont sans effet sur la détermination des rentes dites aux orphelins dont les droits étaient ouverts à cette date conformément à l'article 1259 du code des assurances sociales ou à l'article 29 de la loi du 20 décembre 1911 et la caisse d'assurance invalidité-vieillesse supporte, à partir du 1er janvier 1945, la contribution de l'Etat prévue pour les rentes d'orphelins à l'article 1285 dudit code.",
+      "valid_from": "1945-10-19"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les travailleurs français résidant dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle ont droit à l'allocation aux vieux travailleurs salariés dans les mêmes conditions que ceux des autres départements.Il en est de même en ce qui concerne le secours viager auquel peuvent prétendre les veuves des titulaires de l'allocation susvisée.Les droits des assurés sociaux qui bénéficient ou sont susceptibles de bénéficier d'une rente d'invalidité ou de vieillesse au titre du régime local d'assurances sociales au moment où l'allocation aux vieux travailleurs pourrait leur être attribuée sont régis par l'article 11 ci-après."
+      "content": "Les travailleurs français résidant dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle ont droit à l'allocation aux vieux travailleurs salariés dans les mêmes conditions que ceux des autres départements.Il en est de même en ce qui concerne le secours viager auquel peuvent prétendre les veuves des titulaires de l'allocation susvisée.Les droits des assurés sociaux qui bénéficient ou sont susceptibles de bénéficier d'une rente d'invalidité ou de vieillesse au titre du régime local d'assurances sociales au moment où l'allocation aux vieux travailleurs pourrait leur être attribuée sont régis par l'article 11 ci-après.",
+      "valid_from": "1945-10-19"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Les assurés du régime local qui ont droit à une rente d'invalidité ou de vieillesse, par application soit du code des assurances sociales, soit de la loi du 20 décembre 1911, reçoivent à titre de pension minimum à l'âge de soixante-cinq ans la même allocation et les mêmes avantages complémentaires que ceux accordés aux titulaires de pension de vieillesse du régime général des assurances sociales visées à l'article 13, paragraphe 1er, de ladite ordonnance. La rente inscrite au compte individuel à laquelle peuvent prétendre ces derniers, est remplacée pour les assurés susvisés, par une majoration annuelle égale à 10 p. 100 des cotisations effectives afférentes aux périodes d'assurances antérieures au 1er janvier 1941 et entrant en compte pour le calcul de leurs rentes.Les mêmes avantages sont accordés aux assurés qui réunissent les conditions ci-dessus prévues à partir de l'âge de soixante ans s'ils sont reconnus inaptes au travail par une commission régionale instituée à cet effet et dont les décisions sont susceptibles d'appel devant les commissions nationales visées à l'article 2, paragraphe 2, de l'ordonnance n° 45-170 du 2 février 1945.La pension prévue au présent article n'est pas perçue si la rente à laquelle l'intéressé peut avoir droit lui est supérieure, mais elle s'y substitue lorsque la rente lui est inférieure. Elle est réversible au profit de la veuve à charge, dans les mêmes conditions et dans la même mesure que l'allocation et les avantages complémentaires auxquels ont droit les titulaires de pensions du régime général des assurances sociales.Des arrêtés conjoints du ministre du travail et de la sécurité sociale, du ministre des finances et du ministre de l'économie nationale, fixeront les modalités d'application du présent article et de l'article 10 ci-dessus, ainsi que les règles de coordination du régime local avec celui de l'ordonnance susvisée du 2 février 1945."
+      "content": "Les assurés du régime local qui ont droit à une rente d'invalidité ou de vieillesse, par application soit du code des assurances sociales, soit de la loi du 20 décembre 1911, reçoivent à titre de pension minimum à l'âge de soixante-cinq ans la même allocation et les mêmes avantages complémentaires que ceux accordés aux titulaires de pension de vieillesse du régime général des assurances sociales visées à l'article 13, paragraphe 1er, de ladite ordonnance. La rente inscrite au compte individuel à laquelle peuvent prétendre ces derniers, est remplacée pour les assurés susvisés, par une majoration annuelle égale à 10 p. 100 des cotisations effectives afférentes aux périodes d'assurances antérieures au 1er janvier 1941 et entrant en compte pour le calcul de leurs rentes.Les mêmes avantages sont accordés aux assurés qui réunissent les conditions ci-dessus prévues à partir de l'âge de soixante ans s'ils sont reconnus inaptes au travail par une commission régionale instituée à cet effet et dont les décisions sont susceptibles d'appel devant les commissions nationales visées à l'article 2, paragraphe 2, de l'ordonnance n° 45-170 du 2 février 1945.La pension prévue au présent article n'est pas perçue si la rente à laquelle l'intéressé peut avoir droit lui est supérieure, mais elle s'y substitue lorsque la rente lui est inférieure. Elle est réversible au profit de la veuve à charge, dans les mêmes conditions et dans la même mesure que l'allocation et les avantages complémentaires auxquels ont droit les titulaires de pensions du régime général des assurances sociales.Des arrêtés conjoints du ministre du travail et de la sécurité sociale, du ministre des finances et du ministre de l'économie nationale, fixeront les modalités d'application du présent article et de l'article 10 ci-dessus, ainsi que les règles de coordination du régime local avec celui de l'ordonnance susvisée du 2 février 1945.",
+      "valid_from": "1945-10-19"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les titulaires de rentes d'invalidité du régime local qui ne bénéficient pas des dispositions de l'article 11 ci-dessus, reçoivent une rente au moins égale à 7 200 F par an, sous réserve pour les titulaires de rentes allouées conformément à la loi du 20 décembre 1911, qu'ils soient atteints d'une incapacité de travail supérieure aux deux tiers appréciée dans les conditions de l'article 1255 du code des assurances sociales."
+      "content": "Les titulaires de rentes d'invalidité du régime local qui ne bénéficient pas des dispositions de l'article 11 ci-dessus, reçoivent une rente au moins égale à 7 200 F par an, sous réserve pour les titulaires de rentes allouées conformément à la loi du 20 décembre 1911, qu'ils soient atteints d'une incapacité de travail supérieure aux deux tiers appréciée dans les conditions de l'article 1255 du code des assurances sociales.",
+      "valid_from": "1945-10-19"
     },
     {
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Les titulaires de rentes de veuves ou de veufs allouées par application du code des assurances sociales reçoivent une rente au moins égale à la moitié de la rente d'invalidité qui a ou eût été accordée en vertu de l'article 12 ci-dessus, au de cujus. Il en est de même pour les titulaires de rentes de veufs ou de veuves dues au titre de la loi du 20 décembre 1911 lorsque ceux-ci sont âgés de plus de soixante-cinq ans ou atteints d'incapacité de travail de plus des deux tiers appréciée dans les conditions de l'article 1255 du code des assurances sociales."
+      "content": "Les titulaires de rentes de veuves ou de veufs allouées par application du code des assurances sociales reçoivent une rente au moins égale à la moitié de la rente d'invalidité qui a ou eût été accordée en vertu de l'article 12 ci-dessus, au de cujus. Il en est de même pour les titulaires de rentes de veufs ou de veuves dues au titre de la loi du 20 décembre 1911 lorsque ceux-ci sont âgés de plus de soixante-cinq ans ou atteints d'incapacité de travail de plus des deux tiers appréciée dans les conditions de l'article 1255 du code des assurances sociales.",
+      "valid_from": "1945-10-19"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Lorsqu'un assuré a droit à une rente au titre du code des assurances sociales et au titre de la loi du 20 décembre 1911, la pension ou les minima de prévus aux articles 11 à 13 ci-dessus s'appliquent au total de ces rentes, chacune des caisses intéressées y contribuant au prorata de sa rente. Toutefois, les majorations proportionnelles aux cotisations visées à l'article 11 sont intégralement dues par l'une et l'autre desdites caisses."
+      "content": "Lorsqu'un assuré a droit à une rente au titre du code des assurances sociales et au titre de la loi du 20 décembre 1911, la pension ou les minima de prévus aux articles 11 à 13 ci-dessus s'appliquent au total de ces rentes, chacune des caisses intéressées y contribuant au prorata de sa rente. Toutefois, les majorations proportionnelles aux cotisations visées à l'article 11 sont intégralement dues par l'une et l'autre desdites caisses.",
+      "valid_from": "1945-10-19"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Les dispositions de l'article 3 de l'ordonnance n° 45-755 du 19 avril 1945 portant modification de la loi du 20 décembre 1911 sur l'assurance des employés et dérogeant provisoirement à certaines dispositions du code des assurances sociales et à ladite loi, sont abrogées et remplacées par les dispositions des articles 11 à 14 ci-dessus, qui sont applicables à compter du 1er janvier 1945."
+      "content": "Les dispositions de l'article 3 de l'ordonnance n° 45-755 du 19 avril 1945 portant modification de la loi du 20 décembre 1911 sur l'assurance des employés et dérogeant provisoirement à certaines dispositions du code des assurances sociales et à ladite loi, sont abrogées et remplacées par les dispositions des articles 11 à 14 ci-dessus, qui sont applicables à compter du 1er janvier 1945.",
+      "valid_from": "1945-10-19"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "L'article 1236 du code des assurances sociales et les alinéas 3 et 4 de l'article 170 de la loi du 20 décembre 1911 sont abrogées avec effet du premier jour du mois suivant la publication de la présente ordonnance. Sont supprimés au dernier alinéa de l'article 1er de la loi du 20 décembre 1911, les mots \"et qu'elles n'aient pas accompli l'âge de cinquante-cinq ans au moment où elles exerçaient pour la première fois un emploi assujetti à l'assurance au titre de la présente loi\"."
+      "content": "L'article 1236 du code des assurances sociales et les alinéas 3 et 4 de l'article 170 de la loi du 20 décembre 1911 sont abrogées avec effet du premier jour du mois suivant la publication de la présente ordonnance. Sont supprimés au dernier alinéa de l'article 1er de la loi du 20 décembre 1911, les mots \"et qu'elles n'aient pas accompli l'âge de cinquante-cinq ans au moment où elles exerçaient pour la première fois un emploi assujetti à l'assurance au titre de la présente loi\".",
+      "valid_from": "1945-10-19"
     },
     {
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "Les cotisations dont le versement rétroactif est autorisé par l'article 8 de l'ordonnance n° 45-755 du 19 avril 1945 sont calculées pour la période antérieure au 1er janvier 1941 conformément aux barèmes insérés à l'article 3 ci-dessus."
+      "content": "Les cotisations dont le versement rétroactif est autorisé par l'article 8 de l'ordonnance n° 45-755 du 19 avril 1945 sont calculées pour la période antérieure au 1er janvier 1941 conformément aux barèmes insérés à l'article 3 ci-dessus.",
+      "valid_from": "1945-10-19"
     },
     {
       "provision_ref": "art18",
       "section": "18",
       "title": "Article 18",
-      "content": "Un décret rendu sur le rapport du ministre du travail et de la sécurité sociale, du ministre de l'intérieur, du ministre des finances et du ministre de l'économie nationale, définira les droits des titulaires de rentes du régime local d'assurance invalidité-vieillesse aux allocations familiales et de salaire unique prévues par le code de la famille et fixera, sous réserve des dispositions de l'article 11, dernier alinéa, les modalités d'application de la présente ordonnance."
+      "content": "Un décret rendu sur le rapport du ministre du travail et de la sécurité sociale, du ministre de l'intérieur, du ministre des finances et du ministre de l'économie nationale, définira les droits des titulaires de rentes du régime local d'assurance invalidité-vieillesse aux allocations familiales et de salaire unique prévues par le code de la famille et fixera, sous réserve des dispositions de l'article 11, dernier alinéa, les modalités d'application de la présente ordonnance.",
+      "valid_from": "1945-10-19"
     },
     {
       "provision_ref": "art19",
       "section": "19",
       "title": "Article 19",
-      "content": "La présente ordonnance sera publiée au Journal Officiel de la République française et exécutée comme loi."
+      "content": "La présente ordonnance sera publiée au Journal Officiel de la République française et exécutée comme loi.",
+      "valid_from": "1945-10-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

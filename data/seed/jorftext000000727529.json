@@ -12,7 +12,14 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. Les articles L. 242-8, L. 242-18, L. 242-27 et L. 242-28 du code de commerce sont applicables aux territoires d'outre-mer et à Mayotte.II. La présente loi est applicable aux territoires d'outre-mer et à Mayotte à l'exception de son article 4."
+      "content": "I. Les articles L. 242-8, L. 242-18, L. 242-27 et L. 242-28 du code de commerce sont applicables aux territoires d'outre-mer et à Mayotte.II. La présente loi est applicable aux territoires d'outre-mer et à Mayotte à l'exception de son article 4.",
+      "valid_from": "2001-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

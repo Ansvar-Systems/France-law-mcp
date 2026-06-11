@@ -12,7 +12,14 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions des sixième et septième alinéas de l'article 78-2 du code de procédure pénale, dans leur rédaction issue de la présente loi, sont applicables à Mayotte."
+      "content": "Les dispositions des sixième et septième alinéas de l'article 78-2 du code de procédure pénale, dans leur rédaction issue de la présente loi, sont applicables à Mayotte.",
+      "valid_from": "2001-07-13"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

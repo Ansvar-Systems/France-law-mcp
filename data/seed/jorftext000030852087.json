@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "I.-L'ordonnance n° 2014-1539 du 19 décembre 2014 relative à l'élection des conseillers métropolitains de Lyon est ratifiée.\n\nII à IV.-A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n-Code électoral\n\n-Code électoral"
+      "content": "I.-L'ordonnance n° 2014-1539 du 19 décembre 2014 relative à l'élection des conseillers métropolitains de Lyon est ratifiée.\n\nII à IV.-A modifié les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\n-Code électoral\n\n-Code électoral",
+      "valid_from": "2015-07-08"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

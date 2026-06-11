@@ -1,0 +1,26 @@
+{
+  "id": "jorftext000000571612",
+  "type": "statute",
+  "title": "Loi n° 42-263 du 5 février 1942",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571612",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Le transport par chemin de fer, par route ou par voie de navigation intérieure des matières dangereuses ou infectes figurant dans la nomenclature établie par le secrétaire d'Etat aux communications est soumis à des conditions de chargement, de déchargement, d'emballage, de garde et de manutention fixées, après consultation de la commission instituée par décret du 27 février 1941, par arrêté du secrétaire d'Etat aux communications.\n\nLes conditions de manutention desdites matières dans les ports maritimes sont fixées, après consultation de la même commission, par arrêté du secrétaire d'Etat à la marine et du secrétaire d'Etat aux communications.",
+      "valid_from": "1942-03-09",
+      "valid_to": "2222-02-22"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

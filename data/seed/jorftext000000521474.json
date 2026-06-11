@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "A compter d'une date qui sera fixée par décret et qui ne pourra être postérieure au 1er janvier 1979, la mise en circulation des signes monétaires métropolitains, à Saint-Pierre-et-Miquelon, qui avait été confiée à l'institut d'émission d'outre-mer par l'article 21 de la loi n° 72-650 du 11 juillet 1972 portant diverses dispositions d'ordre économique et financier, est retirée à cet établissement."
+      "content": "A compter d'une date qui sera fixée par décret et qui ne pourra être postérieure au 1er janvier 1979, la mise en circulation des signes monétaires métropolitains, à Saint-Pierre-et-Miquelon, qui avait été confiée à l'institut d'émission d'outre-mer par l'article 21 de la loi n° 72-650 du 11 juillet 1972 portant diverses dispositions d'ordre économique et financier, est retirée à cet établissement.",
+      "valid_from": "1977-09-30"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "A compter de la date fixée par le décret prévu à l'article 1er, la mise en circulation des signes monétaires métropolitains dans le département de Saint-Pierre-et-Miquelon est assurée, conformément aux II, III et V de l'article 17 de la loi de finances rectificative pour 1974 (n° 74-1114 du 27 décembre 1974), par l'institut d'émission des départements d'outre-mer créé par l'ordonnance n° 59-74 du 7 janvier 1959 portant réforme du régime de l'émission dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion."
+      "content": "A compter de la date fixée par le décret prévu à l'article 1er, la mise en circulation des signes monétaires métropolitains dans le département de Saint-Pierre-et-Miquelon est assurée, conformément aux II, III et V de l'article 17 de la loi de finances rectificative pour 1974 (n° 74-1114 du 27 décembre 1974), par l'institut d'émission des départements d'outre-mer créé par l'ordonnance n° 59-74 du 7 janvier 1959 portant réforme du régime de l'émission dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.",
+      "valid_from": "1977-09-30"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Sont étendues au département de Saint-Pierre-et-Miquelon les dispositions des ordonnances modifiées n° 45-1483 relative aux prix et n° 45-1484 relative à la constatation, la poursuite et la répression des infractions à la législation économique du 30 juin 1945."
+      "content": "Sont étendues au département de Saint-Pierre-et-Miquelon les dispositions des ordonnances modifiées n° 45-1483 relative aux prix et n° 45-1484 relative à la constatation, la poursuite et la répression des infractions à la législation économique du 30 juin 1945.",
+      "valid_from": "1977-09-30"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Sont étendues au département de Saint-Pierre-et-Miquelon les dispositions de la loi n° 51-356 du 20 mars 1951, modifiée par l'ordonnance n° 67-835 du 28 septembre 1967 et par la loi n° 72-1221 du 29 décembre 1972, interdisant les ventes avec primes."
+      "content": "Sont étendues au département de Saint-Pierre-et-Miquelon les dispositions de la loi n° 51-356 du 20 mars 1951, modifiée par l'ordonnance n° 67-835 du 28 septembre 1967 et par la loi n° 72-1221 du 29 décembre 1972, interdisant les ventes avec primes.",
+      "valid_from": "1977-09-30"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, le ministre de l'intérieur, le ministre de la culture et de l'environnement, le ministre délégué à l'économie et aux finances, le ministre de l'équipement et de l'aménagement du territoire, le ministre de l'agriculture et le secrétaire d'Etat auprès du ministre de l'intérieur (Départements et territoires d'outre-mer) sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, le ministre de l'intérieur, le ministre de la culture et de l'environnement, le ministre délégué à l'économie et aux finances, le ministre de l'équipement et de l'aménagement du territoire, le ministre de l'agriculture et le secrétaire d'Etat auprès du ministre de l'intérieur (Départements et territoires d'outre-mer) sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "1977-09-30"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

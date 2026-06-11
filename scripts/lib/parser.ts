@@ -47,9 +47,75 @@ export interface ParsedArticle {
 }
 
 export interface ParseResult {
+  /**
+   * Servable article versions: ETAT in SERVABLE_ARTICLE_ETATS, with a NUM and
+   * a non-empty body. Validity-window selection picks the current one.
+   */
   articles: ParsedArticle[];
   errors: string[];
+  /**
+   * Total ARTICLE nodes seen before the ETAT filter. Lets callers tell
+   * "text wholly out of force" (nodes seen, none servable) apart from
+   * "nothing parsed at all" — the two must not be conflated (issue #97).
+   */
+  articleNodesSeen: number;
+  /** Versions whose ETAT is in SERVABLE_ARTICLE_ETATS (or undeclared), before the NUM/body checks. */
+  servableVersions: number;
+  /** Servable versions dropped because they carry no NUM (data damage — counted, never silent). */
+  missingNumVersions: number;
+  /** Servable versions dropped because the body is empty (DILA abrogation-in-place pattern). */
+  emptyBodyVersions: number;
+  /**
+   * Versions with an EMPTY <ETAT/> tag (observed DILA consolidation gap,
+   * e.g. Code de la santé publique R3221-7): the validity window is the only
+   * recorded fact and decides — counted here, never silent.
+   */
+  undeclaredEtatVersions: number;
 }
+
+// ---------------------------------------------------------------------------
+// ETAT vocabulary (deliberate, fail-loud on drift)
+// ---------------------------------------------------------------------------
+
+/**
+ * Article versions that can be the law in force today; the [DATE_DEBUT,
+ * DATE_FIN) validity window makes the final call:
+ *   - VIGUEUR      — in force;
+ *   - ABROGE_DIFF  — DEFERRED repeal: the version stays in force until its
+ *                    DATE_FIN (review finding parser.ts:189 — excluding these
+ *                    silently dropped in-force law, e.g. Code pénal art
+ *                    222-22, repealed effective 2029-01-01).
+ */
+export const SERVABLE_ARTICLE_ETATS: ReadonlySet<string> = new Set(['VIGUEUR', 'ABROGE_DIFF']);
+
+/**
+ * Versions that are deliberately NOT current law under this article number.
+ * Vocabulary verified against the full 2026-06 corpus (stamp 20260610-214017):
+ *   MODIFIE          — superseded by a later version (window closed);
+ *   ABROGE           — repealed (effective);
+ *   VIGUEUR_DIFF     — enters force at a FUTURE date;
+ *   TRANSFERE        — moved to another code/text;
+ *   DEPLACE          — moved within the text;
+ *   PERIME           — lapsed;
+ *   ANNULE           — annulled;
+ *   DISJOINT         — disjoined (struck from the enacting text);
+ *   MORT_NE          — never entered force;
+ *   MODIFIE_MORT_NE  — modification that never entered force.
+ * Any ETAT outside SERVABLE + EXCLUDED fails loud (vocabulary drift must
+ * never silently drop law).
+ */
+export const EXCLUDED_ARTICLE_ETATS: ReadonlySet<string> = new Set([
+  'MODIFIE',
+  'ABROGE',
+  'VIGUEUR_DIFF',
+  'TRANSFERE',
+  'DEPLACE',
+  'PERIME',
+  'ANNULE',
+  'DISJOINT',
+  'MORT_NE',
+  'MODIFIE_MORT_NE',
+]);
 
 // ---------------------------------------------------------------------------
 // Article number normalization
@@ -103,7 +169,13 @@ export function articleTitle(num: string): string {
 // ---------------------------------------------------------------------------
 
 /**
- * Parse LEGI date format (YYYYMMDD) to ISO date string.
+ * Parse LEGI date format (YYYYMMDD or YYYY-MM-DD) to an ISO date string.
+ *
+ * Year-2999 dates are returned LITERALLY: their meaning depends on the bound
+ * (review finding parser.ts:131). A 2999 DATE_FIN means "open-ended" — use
+ * parseLegiDateOpenEnded for that bound. A 2999 DATE_DEBUT marks a
+ * never-in-force (mort-né/annulled) version; mapping it to undefined would
+ * invert it into "in force since forever".
  */
 export function parseLegiDate(raw: string | number | undefined): string | undefined {
   if (!raw) return undefined;
@@ -112,20 +184,25 @@ export function parseLegiDate(raw: string | number | undefined): string | undefi
 
   // ISO date format: YYYY-MM-DD (used in current LEGI archives)
   if (/^\d{4}-\d{2}-\d{2}$/.test(s)) {
-    if (s.startsWith('2999')) return undefined; // "no end date"
     return s;
   }
 
   // Compact format: YYYYMMDD (legacy)
   if (s.length === 8 && /^\d{8}$/.test(s)) {
-    const year = s.slice(0, 4);
-    const month = s.slice(4, 6);
-    const day = s.slice(6, 8);
-    if (year === '2999') return undefined;
-    return `${year}-${month}-${day}`;
+    return `${s.slice(0, 4)}-${s.slice(4, 6)}-${s.slice(6, 8)}`;
   }
 
   return undefined;
+}
+
+/**
+ * Parse a LEGI END date: year-2999 explicitly means "open-ended" and maps to
+ * undefined. Only valid for DATE_FIN-shaped bounds.
+ */
+export function parseLegiDateOpenEnded(raw: string | number | undefined): string | undefined {
+  const parsed = parseLegiDate(raw);
+  if (parsed !== undefined && parsed.startsWith('2999')) return undefined;
+  return parsed;
 }
 
 // ---------------------------------------------------------------------------
@@ -162,23 +239,47 @@ const xmlParser = new XMLParser({
 });
 
 /**
- * Parse LEGI XML text and extract in-force articles.
+ * Parse LEGI XML text and extract servable article versions (deliberate ETAT
+ * vocabulary, fail-loud on unknown ETAT, loud accounting of versions dropped
+ * for a missing NUM or an empty body — review findings parser.ts:189/:286).
  */
 export function parseLegiXml(xmlText: string): ParseResult {
   const articles: ParsedArticle[] = [];
   const errors: string[] = [];
+  let articleNodesSeen = 0;
+  let servableVersions = 0;
+  let missingNumVersions = 0;
+  let emptyBodyVersions = 0;
+  let undeclaredEtatVersions = 0;
 
   try {
     const parsed = xmlParser.parse(xmlText);
 
     // Navigate various possible root structures
     const articleNodes = findArticleNodes(parsed);
+    articleNodesSeen = articleNodes.length;
 
     for (const artNode of articleNodes) {
       try {
-        const article = extractArticle(artNode);
-        if (article && article.etat === 'VIGUEUR') {
-          articles.push(article);
+        const outcome = extractArticle(artNode);
+        if (outcome.kind !== 'excluded_etat' && outcome.undeclaredEtat) {
+          undeclaredEtatVersions++;
+        }
+        switch (outcome.kind) {
+          case 'servable':
+            servableVersions++;
+            articles.push(outcome.article);
+            break;
+          case 'missing_num':
+            servableVersions++;
+            missingNumVersions++;
+            break;
+          case 'empty_body':
+            servableVersions++;
+            emptyBodyVersions++;
+            break;
+          case 'excluded_etat':
+            break;
         }
       } catch (err) {
         errors.push(`Error parsing article: ${(err as Error).message}`);
@@ -188,7 +289,15 @@ export function parseLegiXml(xmlText: string): ParseResult {
     errors.push(`XML parse error: ${(err as Error).message}`);
   }
 
-  return { articles, errors };
+  return {
+    articles,
+    errors,
+    articleNodesSeen,
+    servableVersions,
+    missingNumVersions,
+    emptyBodyVersions,
+    undeclaredEtatVersions,
+  };
 }
 
 /**
@@ -248,11 +357,23 @@ function extractTextContent(node: unknown): string {
   return '';
 }
 
+type ExtractOutcome =
+  | { kind: 'servable'; article: ParsedArticle; undeclaredEtat: boolean }
+  | { kind: 'excluded_etat'; etat: string }
+  | { kind: 'missing_num'; undeclaredEtat: boolean }
+  | { kind: 'empty_body'; undeclaredEtat: boolean };
+
 /**
- * Extract a ParsedArticle from a single ARTICLE XML node.
+ * Classify a single ARTICLE XML node. Throws on an ETAT outside the mapped
+ * vocabulary and on an ABSENT ETAT tag — vocabulary/contract drift must fail
+ * loud, never silently drop law. An EMPTY <ETAT/> tag is a real (rare) DILA
+ * consolidation gap: the version is kept as a candidate and its validity
+ * window decides, counted as undeclared.
  */
-function extractArticle(node: unknown): ParsedArticle | null {
-  if (!node || typeof node !== 'object') return null;
+function extractArticle(node: unknown): ExtractOutcome {
+  if (!node || typeof node !== 'object') {
+    throw new Error('ARTICLE node is not an object');
+  }
   const art = node as Record<string, unknown>;
 
   // Navigate META structure
@@ -264,9 +385,28 @@ function extractArticle(node: unknown): ParsedArticle | null {
 
   const id = String(metaCommun?.ID ?? art['@_id'] ?? '');
   const num = String(metaArt?.NUM ?? '');
-  const etat = String(metaArt?.ETAT ?? '');
+  const etatRaw = metaArt && 'ETAT' in metaArt ? metaArt.ETAT : undefined;
+  if (etatRaw === undefined) {
+    throw new Error(
+      `Article ${id || '<no id>'} carries NO ETAT tag — outside the LEGI contract, refusing to classify silently`,
+    );
+  }
+  const etat = etatRaw === null ? '' : String(etatRaw);
+  const undeclaredEtat = etat === '';
   const dateDebut = metaArt?.DATE_DEBUT;
   const dateFin = metaArt?.DATE_FIN;
+
+  if (!undeclaredEtat && !SERVABLE_ARTICLE_ETATS.has(etat)) {
+    if (EXCLUDED_ARTICLE_ETATS.has(etat)) {
+      return { kind: 'excluded_etat', etat };
+    }
+    throw new Error(
+      `Article ${id || '<no id>'} carries unknown ETAT '${etat}' — ` +
+        'outside the mapped DILA vocabulary, refusing to classify silently',
+    );
+  }
+
+  if (!num) return { kind: 'missing_num', undeclaredEtat };
 
   // Extract content — CONTENU may be a string or an object (when it contains HTML tags)
   const blocTextuel = art.BLOC_TEXTUEL as Record<string, unknown> | undefined;
@@ -274,18 +414,22 @@ function extractArticle(node: unknown): ParsedArticle | null {
   const rawContent = extractTextContent(contenu);
   const content = stripHtml(rawContent);
 
-  if (!content || !num) return null;
+  if (!content) return { kind: 'empty_body', undeclaredEtat };
 
   const normalizedNum = normalizeArticleNum(num);
 
   return {
-    id,
-    num,
-    normalizedNum,
-    title: articleTitle(num),
-    content,
-    dateDebut: parseLegiDate(dateDebut as string | number | undefined),
-    dateFin: parseLegiDate(dateFin as string | number | undefined),
-    etat,
+    kind: 'servable',
+    undeclaredEtat,
+    article: {
+      id,
+      num,
+      normalizedNum,
+      title: articleTitle(num),
+      content,
+      dateDebut: parseLegiDate(dateDebut as string | number | undefined),
+      dateFin: parseLegiDateOpenEnded(dateFin as string | number | undefined),
+      etat,
+    },
   };
 }

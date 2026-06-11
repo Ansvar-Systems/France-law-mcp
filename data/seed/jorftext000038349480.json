@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "Est autorisée la ratification de la convention internationale sur les normes de formation du personnel des navires de pêche, de délivrance des brevets et de veille (STCW-F) (ensemble une annexe), adoptée à Londres le 7 juillet 1995, et dont le texte est annexé à la présente loi (2).La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Est autorisée la ratification de la convention internationale sur les normes de formation du personnel des navires de pêche, de délivrance des brevets et de veille (STCW-F) (ensemble une annexe), adoptée à Londres le 7 juillet 1995, et dont le texte est annexé à la présente loi (2).La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2019-04-10"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

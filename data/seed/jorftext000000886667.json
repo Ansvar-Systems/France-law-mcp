@@ -12,19 +12,28 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Dans tous les textes législatifs mentionnant des amendes encourues en matière de contraventions de police, les chiffres \"600 F\", \"1000 F\" et \"2000 F\" sont remplacés, respectivement, par les chiffres \"1200 F\", \"3000 F\" et \"6000 F\"."
+      "content": "Dans tous les textes législatifs mentionnant des amendes encourues en matière de contraventions de police, les chiffres \"600 F\", \"1000 F\" et \"2000 F\" sont remplacés, respectivement, par les chiffres \"1200 F\", \"3000 F\" et \"6000 F\".",
+      "valid_from": "1980-07-23"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Tous les trois ans, le Gouvernement fera rapport au Parlement sur l'évolution du taux des amendes contraventionnelles en tenant compte de la situation économique et notamment de l'évolution du coût de la vie."
+      "content": "Tous les trois ans, le Gouvernement fera rapport au Parlement sur l'évolution du taux des amendes contraventionnelles en tenant compte de la situation économique et notamment de l'évolution du coût de la vie.",
+      "valid_from": "1980-07-23"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "La présente loi entrera en vigueur à une date qui sera fixée par décret en Conseil d'Etat et qui ne pourra être postérieure au 1er octobre 1980.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "La présente loi entrera en vigueur à une date qui sera fixée par décret en Conseil d'Etat et qui ne pourra être postérieure au 1er octobre 1980.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "1980-07-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

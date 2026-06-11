@@ -12,7 +12,14 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Sont validés, pour les périodes d'exercice de leurs fonctions ayant excédé trois mois, les pouvoirs des administrateurs provisoires désignés en application de l'article 26 du code de la mutualité, au cours de la période comprise entre le 1er septembre 1971 et la publication de la présente loi."
+      "content": "Sont validés, pour les périodes d'exercice de leurs fonctions ayant excédé trois mois, les pouvoirs des administrateurs provisoires désignés en application de l'article 26 du code de la mutualité, au cours de la période comprise entre le 1er septembre 1971 et la publication de la présente loi.",
+      "valid_from": "1972-12-23"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

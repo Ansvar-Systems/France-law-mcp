@@ -12,13 +12,21 @@
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le titre III du livre VI de la première partie du code des transports est modifié conformément aux articles 3 à 9 de la présente ordonnance."
+      "content": "Le titre III du livre VI de la première partie du code des transports est modifié conformément aux articles 3 à 9 de la présente ordonnance.",
+      "valid_from": "2020-07-31"
     },
     {
       "provision_ref": "art15",
       "section": "15",
       "title": "Article 15",
-      "content": "Le Premier ministre, la ministre de la transition écologique et le ministre délégué auprès de la ministre de la transition écologique, chargé des transports, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la transition écologique et le ministre délégué auprès de la ministre de la transition écologique, chargé des transports, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-07-31"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

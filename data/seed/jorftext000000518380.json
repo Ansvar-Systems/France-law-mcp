@@ -12,73 +12,91 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "A modifié les dispositions suivantes :Code de procédure pénale 768."
+      "content": "A modifié les dispositions suivantes :Code de procédure pénale 768.",
+      "valid_from": "1980-01-06"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "A modifié les dispositions suivantes :Code de procédure pénale 771."
+      "content": "A modifié les dispositions suivantes :Code de procédure pénale 771.",
+      "valid_from": "1980-01-06"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "A modifié les dispositions suivantes :Code de procédure pénale 773."
+      "content": "A modifié les dispositions suivantes :Code de procédure pénale 773.",
+      "valid_from": "1980-01-06"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "A modifié les dispositions suivantes :Code de procédure pénale 773-1."
+      "content": "A modifié les dispositions suivantes :Code de procédure pénale 773-1.",
+      "valid_from": "1980-01-06"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "A modifié les dispositions suivantes :Code de procédure pénale 777-2."
+      "content": "A modifié les dispositions suivantes :Code de procédure pénale 777-2.",
+      "valid_from": "1980-01-06"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "A modifié les dispositions suivantes :Code de procédure pénale 777-3."
+      "content": "A modifié les dispositions suivantes :Code de procédure pénale 777-3.",
+      "valid_from": "1980-01-06"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "A modifié les dispositions suivantes :Code de procédure pénale 779."
+      "content": "A modifié les dispositions suivantes :Code de procédure pénale 779.",
+      "valid_from": "1980-01-06"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "A modifié les dispositions suivantes :Code de procédure pénale 779."
+      "content": "A modifié les dispositions suivantes :Code de procédure pénale 779.",
+      "valid_from": "1980-01-06"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "A modifié les dispositions suivantes :Code de procédure pénale 781."
+      "content": "A modifié les dispositions suivantes :Code de procédure pénale 781.",
+      "valid_from": "1980-01-06"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Des décrets fixeront les dates auxquelles le casier judiciaire national automatisé entrera progressivement en fonctionnement, d'une part, par ressort de tribunal de grande instance, d'autre part, pour les personnes relevant du casier judiciaire central. Jusqu'à ces dates, les dispositions actuelles des articles 768, 771 et 773 du code de procédure pénale resteront en vigueur dans la mesure où la présente loi ne sera pas entrée en application."
+      "content": "Des décrets fixeront les dates auxquelles le casier judiciaire national automatisé entrera progressivement en fonctionnement, d'une part, par ressort de tribunal de grande instance, d'autre part, pour les personnes relevant du casier judiciaire central. Jusqu'à ces dates, les dispositions actuelles des articles 768, 771 et 773 du code de procédure pénale resteront en vigueur dans la mesure où la présente loi ne sera pas entrée en application.",
+      "valid_from": "1980-01-06"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Les modalités d'application de la présente loi seront déterminées\naprès avis de la commission nationale de l'informatique et des libertés."
+      "content": "Les modalités d'application de la présente loi seront déterminées\naprès avis de la commission nationale de l'informatique et des libertés.",
+      "valid_from": "1980-01-06"
     },
     {
       "provision_ref": "art12",
       "section": "12",
       "title": "Article 12",
-      "content": "Les dispositions de la loi n° 70-539 du 24 juin 1970 relatives au fichier des conducteurs sont abrogées.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Les dispositions de la loi n° 70-539 du 24 juin 1970 relatives au fichier des conducteurs sont abrogées.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "1980-01-06"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

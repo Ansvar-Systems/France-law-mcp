@@ -12,31 +12,42 @@
       "provision_ref": "art13",
       "section": "13",
       "title": "Article 13",
-      "content": "Le décret du 8 août 1935 réglementant le démarchage, ensemble les dispositions qui l'ont modifié, sont abrogés à l'exception des articles 3 et 8 de ce décret en tant qu'ils concernent les bourses étrangères de commerce ou de marchandises."
+      "content": "Le décret du 8 août 1935 réglementant le démarchage, ensemble les dispositions qui l'ont modifié, sont abrogés à l'exception des articles 3 et 8 de ce décret en tant qu'ils concernent les bourses étrangères de commerce ou de marchandises.",
+      "valid_from": "1972-01-05"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "Le ministre de l'économie et des finances peut, après avis de la commission des opérations de bourse, déterminer les catégories de frais et commissions que sont autorisés à percevoir les établissements chargés de la gestion de plans d'épargne en valeurs mobilières.Il peut également, après avis de la commission des opérations de bourse, fixer des maximums et, éventuellement, des minimums au montant total des frais et commissions perçus à l'occasion des versements effectués au titre des plans d'épargne visés à l'alinéa précédent ou au montant des frais et commissions versés au cours d'un ou de plusieurs exercices déterminés."
+      "content": "Le ministre de l'économie et des finances peut, après avis de la commission des opérations de bourse, déterminer les catégories de frais et commissions que sont autorisés à percevoir les établissements chargés de la gestion de plans d'épargne en valeurs mobilières.Il peut également, après avis de la commission des opérations de bourse, fixer des maximums et, éventuellement, des minimums au montant total des frais et commissions perçus à l'occasion des versements effectués au titre des plans d'épargne visés à l'alinéa précédent ou au montant des frais et commissions versés au cours d'un ou de plusieurs exercices déterminés.",
+      "valid_from": "1972-01-05"
     },
     {
       "provision_ref": "art29",
       "section": "29",
       "title": "Article 29",
-      "content": "La première phrase du deuxième alinéa de l'article 83 de la loi du 13 juillet 1930 précitée est abrogée."
+      "content": "La première phrase du deuxième alinéa de l'article 83 de la loi du 13 juillet 1930 précitée est abrogée.",
+      "valid_from": "1972-01-05"
     },
     {
       "provision_ref": "art30",
       "section": "30",
       "title": "Article 30",
-      "content": "La société de capitalisation n'a pas d'action pour exiger le paiement des cotisations.Le défaut de paiement d'une cotisation ne peut avoir pour sanction que la suspension ou la résiliation pure et simple du contrat et, dans ce dernier cas, la mise à la disposition du porteur de la valeur de rachat que ledit contrat a éventuellement acquise."
+      "content": "La société de capitalisation n'a pas d'action pour exiger le paiement des cotisations.Le défaut de paiement d'une cotisation ne peut avoir pour sanction que la suspension ou la résiliation pure et simple du contrat et, dans ce dernier cas, la mise à la disposition du porteur de la valeur de rachat que ledit contrat a éventuellement acquise.",
+      "valid_from": "1972-01-05"
     },
     {
       "provision_ref": "art31",
       "section": "31",
       "title": "Article 31",
-      "content": "Lorsqu'une personne, sollicitée à son domicile, à sa résidence, à son lieu de travail ou dans un lieu privé ou public, souscrit un contrat de capitalisation au cours de la visite qui lui est faite, un délai qui ne peut être inférieur à quinze jours à compter de la souscription du contrat doit lui être laissé pour dénoncer cet engagement     .Cette dénonciation entraîne la restitution de l'intégralité des sommes éventuellement versées par le souscripteur."
+      "content": "Lorsqu'une personne, sollicitée à son domicile, à sa résidence, à son lieu de travail ou dans un lieu privé ou public, souscrit un contrat de capitalisation au cours de la visite qui lui est faite, un délai qui ne peut être inférieur à quinze jours à compter de la souscription du contrat doit lui être laissé pour dénoncer cet engagement     .Cette dénonciation entraîne la restitution de l'intégralité des sommes éventuellement versées par le souscripteur.",
+      "valid_from": "1972-01-05"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

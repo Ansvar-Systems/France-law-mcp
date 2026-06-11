@@ -12,13 +12,21 @@
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "La présente loi est applicable en Polynésie française, en Nouvelle-Calédonie, à Wallis-et-Futuna et à Mayotte."
+      "content": "La présente loi est applicable en Polynésie française, en Nouvelle-Calédonie, à Wallis-et-Futuna et à Mayotte.",
+      "valid_from": "2000-07-11"
     },
     {
       "provision_ref": "art23",
       "section": "23",
       "title": "Article 23",
-      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-431 DC du 6 juillet 2000.]II. -  L'article 3 de la loi n° 66-504 du 12 juillet 1966 portant modification des dispositions du code électoral relatives à l'élection des sénateurs est abrogé.III. -  Le dernier alinéa de l'article L. 445 du code électoral est supprimé."
+      "content": "[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-431 DC du 6 juillet 2000.]II. -  L'article 3 de la loi n° 66-504 du 12 juillet 1966 portant modification des dispositions du code électoral relatives à l'élection des sénateurs est abrogé.III. -  Le dernier alinéa de l'article L. 445 du code électoral est supprimé.",
+      "valid_from": "2000-07-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

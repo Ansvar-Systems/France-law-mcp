@@ -12,19 +12,28 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le Gouvernement remet au Parlement, avant le 30 juin 2022, un rapport portant sur la possibilité d'autoriser l'Agence pour l'enseignement français à l'étranger à recourir à l'emprunt pour le financement de ses projets immobiliers et sur l'évolution de ses capacités de financement."
+      "content": "Le Gouvernement remet au Parlement, avant le 30 juin 2022, un rapport portant sur la possibilité d'autoriser l'Agence pour l'enseignement français à l'étranger à recourir à l'emprunt pour le financement de ses projets immobiliers et sur l'évolution de ses capacités de financement.",
+      "valid_from": "2022-03-02"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le Gouvernement remet au Parlement, avant le 30 juin 2022, un rapport portant sur le respect des principes de la République, et en particulier de la laïcité, dans les établissements français à l'étranger."
+      "content": "Le Gouvernement remet au Parlement, avant le 30 juin 2022, un rapport portant sur le respect des principes de la République, et en particulier de la laïcité, dans les établissements français à l'étranger.",
+      "valid_from": "2022-03-02"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le Gouvernement remet au Parlement, dans un délai d'un an à compter de la promulgation de la présente loi, un rapport évaluant l'état actuel de la mixité sociale dans le réseau d'enseignement français à l'étranger et ses perspectives d'évolution dans le cadre du plan de développement de l'enseignement français à l'étranger. Ce rapport fait aussi un point sur l'accueil, dans les établissements français à l'étranger, des enfants des fonctionnaires et militaires en poste à l'étranger, en examinant en particulier l'adéquation des majorations et aides qu'ils perçoivent avec les montants de frais de scolarité.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Le Gouvernement remet au Parlement, dans un délai d'un an à compter de la promulgation de la présente loi, un rapport évaluant l'état actuel de la mixité sociale dans le réseau d'enseignement français à l'étranger et ses perspectives d'évolution dans le cadre du plan de développement de l'enseignement français à l'étranger. Ce rapport fait aussi un point sur l'accueil, dans les établissements français à l'étranger, des enfants des fonctionnaires et militaires en poste à l'étranger, en examinant en particulier l'adéquation des majorations et aides qu'ils perçoivent avec les montants de frais de scolarité.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2022-03-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

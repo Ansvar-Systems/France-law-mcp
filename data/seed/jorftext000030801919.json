@@ -12,13 +12,21 @@
       "provision_ref": "art37",
       "section": "37",
       "title": "Article 37",
-      "content": "Le Gouvernement remet au Parlement, dès sa transmission à la Commission européenne, le rapport mentionné au 2 de l'article 3 de la décision du Conseil n° 940/2014/UE, du 17 décembre 2014, relative au régime de l'octroi de mer dans les régions ultrapériphériques françaises. Ce rapport comporte notamment une évaluation des effets pour les collectivités et les entreprises de l'abaissement du seuil de taxation prévu aux articles 2 et 6 de la présente loi."
+      "content": "Le Gouvernement remet au Parlement, dès sa transmission à la Commission européenne, le rapport mentionné au 2 de l'article 3 de la décision du Conseil n° 940/2014/UE, du 17 décembre 2014, relative au régime de l'octroi de mer dans les régions ultrapériphériques françaises. Ce rapport comporte notamment une évaluation des effets pour les collectivités et les entreprises de l'abaissement du seuil de taxation prévu aux articles 2 et 6 de la présente loi.",
+      "valid_from": "2015-07-01"
     },
     {
       "provision_ref": "art38",
       "section": "38",
       "title": "Article 38",
-      "content": "La présente loi entre en vigueur à compter du 1er juillet 2015."
+      "content": "La présente loi entre en vigueur à compter du 1er juillet 2015.",
+      "valid_from": "2015-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,19 +12,28 @@
       "provision_ref": "art17",
       "section": "17",
       "title": "Article 17",
-      "content": "III. - Le présent article entre en vigueur le 1er juillet 2010."
+      "content": "III. - Le présent article entre en vigueur le 1er juillet 2010.",
+      "valid_from": "2012-03-29"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "Les dispositions du code de procédure pénale relatives à la surveillance judiciaire et à la surveillance de sûreté dans leur rédaction résultant des chapitres Ier, II et III de la présente loi sont immédiatement applicables après la publication de la présente loi.Il en est de même de celles précisant les modalités d'exécution de la peine de suivi socio-judiciaire ou d'une libération conditionnelle."
+      "content": "Les dispositions du code de procédure pénale relatives à la surveillance judiciaire et à la surveillance de sûreté dans leur rédaction résultant des chapitres Ier, II et III de la présente loi sont immédiatement applicables après la publication de la présente loi.Il en est de même de celles précisant les modalités d'exécution de la peine de suivi socio-judiciaire ou d'une libération conditionnelle.",
+      "valid_from": "2010-03-12"
     },
     {
       "provision_ref": "art22",
       "section": "22",
       "title": "Article 22",
-      "content": "La présente loi est applicable sur l'ensemble du territoire de la République, à l'exception de l'article 8 en ce qui concerne Mayotte, les îles Wallis et Futuna et la Nouvelle-Calédonie."
+      "content": "La présente loi est applicable sur l'ensemble du territoire de la République, à l'exception de l'article 8 en ce qui concerne Mayotte, les îles Wallis et Futuna et la Nouvelle-Calédonie.",
+      "valid_from": "2010-03-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

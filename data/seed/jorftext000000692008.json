@@ -12,7 +12,14 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les dispositions de la présente loi s'appliquent à compter du 1er janvier 1984.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Les dispositions de la présente loi s'appliquent à compter du 1er janvier 1984.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "1984-01-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

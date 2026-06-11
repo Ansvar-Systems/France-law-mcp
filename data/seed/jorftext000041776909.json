@@ -12,25 +12,35 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "I.-Par dérogation à l'article L. 2122-10-1 du code du travail, les deux prochains scrutins visant à mesurer l'audience syndicale auprès des salariés des entreprises de moins de onze salariés sont respectivement organisés au premier semestre de l'année 2021 et au deuxième semestre de l'année 2024, au cours d'une période fixée par décret.II.-Par dérogation à l'article L. 2122-10-2 du même code, sont électeurs au scrutin mentionné au I les salariés des entreprises qui emploient moins de onze salariés au 31 décembre 2019, titulaires d'un contrat de travail au cours de ce mois de décembre, âgés de seize ans révolus, et ne faisant l'objet d'aucune interdiction, déchéance ou incapacité relative à leurs droits civiques."
+      "content": "I.-Par dérogation à l'article L. 2122-10-1 du code du travail, les deux prochains scrutins visant à mesurer l'audience syndicale auprès des salariés des entreprises de moins de onze salariés sont respectivement organisés au premier semestre de l'année 2021 et au deuxième semestre de l'année 2024, au cours d'une période fixée par décret.II.-Par dérogation à l'article L. 2122-10-2 du même code, sont électeurs au scrutin mentionné au I les salariés des entreprises qui emploient moins de onze salariés au 31 décembre 2019, titulaires d'un contrat de travail au cours de ce mois de décembre, âgés de seize ans révolus, et ne faisant l'objet d'aucune interdiction, déchéance ou incapacité relative à leurs droits civiques.",
+      "valid_from": "2020-06-19"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "I.-Par dérogation aux articles L. 1441-1 et L. 1441-2 du code du travail, la date du prochain renouvellement général des conseils de prud'hommes est fixée par arrêté conjoint de la garde des sceaux, ministre de la justice, et du ministre chargé du travail, au plus tard le 31 décembre 2022. Les mandats des conseillers prud'hommes en cours à la date d'entrée en vigueur de la présente ordonnance sont prorogés jusqu'à cette date.II.-Par dérogation au 2° de l'article L. 1442-2 du même code, les employeurs accordent aux salariés de leur entreprise, membres d'un conseil de prud'hommes, sur leur demande et pour les besoins de leur formation continue, des autorisations d'absence dans la limite de six jours par an au titre de la prolongation du mandat prévue au I.\n\nIII.-Par dérogation à l'article L. 1441-1 du code du travail, la durée du mandat des conseillers prud'hommes nommés à l'occasion du renouvellement général mentionné au I du présent article est réduite de la durée de la prorogation du mandat prévue au même I."
+      "content": "I.-Par dérogation aux articles L. 1441-1 et L. 1441-2 du code du travail, la date du prochain renouvellement général des conseils de prud'hommes est fixée par arrêté conjoint de la garde des sceaux, ministre de la justice, et du ministre chargé du travail, au plus tard le 31 décembre 2022. Les mandats des conseillers prud'hommes en cours à la date d'entrée en vigueur de la présente ordonnance sont prorogés jusqu'à cette date.II.-Par dérogation au 2° de l'article L. 1442-2 du même code, les employeurs accordent aux salariés de leur entreprise, membres d'un conseil de prud'hommes, sur leur demande et pour les besoins de leur formation continue, des autorisations d'absence dans la limite de six jours par an au titre de la prolongation du mandat prévue au I.\n\nIII.-Par dérogation à l'article L. 1441-1 du code du travail, la durée du mandat des conseillers prud'hommes nommés à l'occasion du renouvellement général mentionné au I du présent article est réduite de la durée de la prorogation du mandat prévue au même I.",
+      "valid_from": "2020-06-19"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Par dérogation à l'article L. 23-112-3 du code du travail, la date du prochain renouvellement des membres des commissions paritaires régionales interprofessionnelles mentionnées à l'article L. 23-111-1 du même code est fixée par arrêté du ministre chargé du travail, et au plus tard le 31 décembre 2021. Le mandat des membres de ces commissions en cours à la date d'entrée en vigueur de la présente ordonnance est prorogé jusqu'à cette date.\n\nLa durée du mandat des membres des commissions paritaires régionales interprofessionnelles désignés à l'occasion du renouvellement mentionné au premier alinéa du présent article est réduite de la durée de la prorogation du mandat prévue au même premier alinéa."
+      "content": "Par dérogation à l'article L. 23-112-3 du code du travail, la date du prochain renouvellement des membres des commissions paritaires régionales interprofessionnelles mentionnées à l'article L. 23-111-1 du même code est fixée par arrêté du ministre chargé du travail, et au plus tard le 31 décembre 2021. Le mandat des membres de ces commissions en cours à la date d'entrée en vigueur de la présente ordonnance est prorogé jusqu'à cette date.\n\nLa durée du mandat des membres des commissions paritaires régionales interprofessionnelles désignés à l'occasion du renouvellement mentionné au premier alinéa du présent article est réduite de la durée de la prorogation du mandat prévue au même premier alinéa.",
+      "valid_from": "2020-06-19"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, et la ministre du travail sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la garde des sceaux, ministre de la justice, et la ministre du travail sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2020-04-03"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

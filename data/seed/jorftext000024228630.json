@@ -12,25 +12,35 @@
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. ― Les agréments préalables délivrés antérieurement à l'entrée en vigueur de la présente loi conservent leur validité jusqu'à leur terme.II. ― Les autorisations d'exportation de matériels de guerre et matériels assimilés concernant l'exportation vers des Etats membres de l'Union européenne et délivrées jusqu'à la date d'entrée en vigueur mentionnée au I de l'article 8 de la présente loi sont réputées valoir licences individuelles et globales de transfert ou autorisation de transfert au sens de l'article L. 2335-18 du code de la défense jusqu'à l'expiration de leur durée de validité s'agissant des autorisations individuelles et cinq ans après la date d'entrée en vigueur de la présente loi s'agissant des autorisations globales."
+      "content": "I. ― Les agréments préalables délivrés antérieurement à l'entrée en vigueur de la présente loi conservent leur validité jusqu'à leur terme.II. ― Les autorisations d'exportation de matériels de guerre et matériels assimilés concernant l'exportation vers des Etats membres de l'Union européenne et délivrées jusqu'à la date d'entrée en vigueur mentionnée au I de l'article 8 de la présente loi sont réputées valoir licences individuelles et globales de transfert ou autorisation de transfert au sens de l'article L. 2335-18 du code de la défense jusqu'à l'expiration de leur durée de validité s'agissant des autorisations individuelles et cinq ans après la date d'entrée en vigueur de la présente loi s'agissant des autorisations globales.",
+      "valid_from": "2011-06-24"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "I. ― A titre transitoire, jusqu'à une date déterminée par décret et au plus tard le 31 décembre 2014 :1° Les opérations commerciales préalables mentionnées au III de l'article L. 2335-3 du code de la défense sont soumises au régime de l'agrément préalable dans les conditions fixées par l'article L. 2335-2 du même code dans sa rédaction antérieure à l'entrée en vigueur de la présente loi ;2° Les opérations commerciales préalables mentionnées au III de l'article L. 2335-10 du même code sont soumises au régime de l'agrément préalable dans les conditions fixées par l'article L. 2335-2 dudit code dans sa rédaction antérieure à l'entrée en vigueur de la présente loi.II. ― Les agréments préalables délivrés dans la période définie au I conservent leur validité jusqu'à leur terme.III. ― Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat."
+      "content": "I. ― A titre transitoire, jusqu'à une date déterminée par décret et au plus tard le 31 décembre 2014 :1° Les opérations commerciales préalables mentionnées au III de l'article L. 2335-3 du code de la défense sont soumises au régime de l'agrément préalable dans les conditions fixées par l'article L. 2335-2 du même code dans sa rédaction antérieure à l'entrée en vigueur de la présente loi ;2° Les opérations commerciales préalables mentionnées au III de l'article L. 2335-10 du même code sont soumises au régime de l'agrément préalable dans les conditions fixées par l'article L. 2335-2 dudit code dans sa rédaction antérieure à l'entrée en vigueur de la présente loi.II. ― Les agréments préalables délivrés dans la période définie au I conservent leur validité jusqu'à leur terme.III. ― Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.",
+      "valid_from": "2011-06-24"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "I. ― Sous réserve des dispositions de l'article 8,les articles 1er à 4 et 7 entrent en vigueur le 30 juin 2012.II. ― L'article 5 entre en vigueur le 21 août 2011.III. ― L'article 6 est applicable aux contrats pour lesquels une consultation est engagée à compter du 21 août 2011."
+      "content": "I. ― Sous réserve des dispositions de l'article 8,les articles 1er à 4 et 7 entrent en vigueur le 30 juin 2012.II. ― L'article 5 entre en vigueur le 21 août 2011.III. ― L'article 6 est applicable aux contrats pour lesquels une consultation est engagée à compter du 21 août 2011.",
+      "valid_from": "2011-06-24"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les articles 1er à 3, 7 et 8 ainsi que le I de l'article 9 sont applicables sur l'ensemble du territoire de la République."
+      "content": "Les articles 1er à 3, 7 et 8 ainsi que le I de l'article 9 sont applicables sur l'ensemble du territoire de la République.",
+      "valid_from": "2011-06-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Sont ratifiées :1° L'ordonnance n° 2016-1019 du 27 juillet 2016 relative à l'autoconsommation d'électricité ;2° L'ordonnance n° 2016-1059 du 3 août 2016 relative à la production d'électricité à partir d'énergies renouvelables."
+      "content": "Sont ratifiées :1° L'ordonnance n° 2016-1019 du 27 juillet 2016 relative à l'autoconsommation d'électricité ;2° L'ordonnance n° 2016-1059 du 3 août 2016 relative à la production d'électricité à partir d'énergies renouvelables.",
+      "valid_from": "2017-02-26"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I à III. - A modifié les dispositions suivantes :\n\nIV. - Les I, II et III s'appliquent à compter du premier jour du trimestre civil suivant la promulgation de la présente loi.\n\n- Code général des collectivités territoriales\n\n- Code des douanes"
+      "content": "I à III. - A modifié les dispositions suivantes :\n\nIV. - Les I, II et III s'appliquent à compter du premier jour du trimestre civil suivant la promulgation de la présente loi.\n\n- Code général des collectivités territoriales\n\n- Code des douanes",
+      "valid_from": "2017-02-26"
     },
     {
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Le délai mentionné au premier alinéa du I de l'article 136 de la  loi n° 2015-991 du 7 août 2015 portant nouvelle organisation  territoriale de la République n'est pas applicable au schéma régional de  raccordement au réseau des énergies renouvelables mentionné à l'article  L. 321-7 du code de l'énergie. Toutefois, ce dernier est révisé, au  plus tard, six mois à compter de l'adoption du schéma régional  d'aménagement, de développement durable et d'égalité des territoires  mentionné à l'article L. 4251-1 du code général des collectivités  territoriales.\n\n- Code de l'énergie"
+      "content": "I. - A modifié les dispositions suivantes :\n\nII. - Le délai mentionné au premier alinéa du I de l'article 136 de la  loi n° 2015-991 du 7 août 2015 portant nouvelle organisation  territoriale de la République n'est pas applicable au schéma régional de  raccordement au réseau des énergies renouvelables mentionné à l'article  L. 321-7 du code de l'énergie. Toutefois, ce dernier est révisé, au  plus tard, six mois à compter de l'adoption du schéma régional  d'aménagement, de développement durable et d'égalité des territoires  mentionné à l'article L. 4251-1 du code général des collectivités  territoriales.\n\n- Code de l'énergie",
+      "valid_from": "2017-02-26"
     },
     {
       "provision_ref": "art16",
       "section": "16",
       "title": "Article 16",
-      "content": "I à III. - A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nIV. - Dans un délai de douze mois à compter de la promulgation de la  présente loi, le Gouvernement remet au Parlement un rapport indiquant  quelles mesures il entend mettre en œuvre pour accompagner les  consommateurs finals aux revenus modestes qui seraient contraints, en  raison de la modification de la nature du gaz acheminé dans les réseaux  de distribution de gaz naturel auxquels ils sont raccordés, de remplacer  un ou des appareils ou équipements gaziers inadaptables.\n\n- Code de l'énergie\n\n- Code de l'énergie\n\n- Code de l'environnement"
+      "content": "I à III. - A créé les dispositions suivantes :\n\nA modifié les dispositions suivantes :\n\nA créé les dispositions suivantes :\n\nIV. - Dans un délai de douze mois à compter de la promulgation de la  présente loi, le Gouvernement remet au Parlement un rapport indiquant  quelles mesures il entend mettre en œuvre pour accompagner les  consommateurs finals aux revenus modestes qui seraient contraints, en  raison de la modification de la nature du gaz acheminé dans les réseaux  de distribution de gaz naturel auxquels ils sont raccordés, de remplacer  un ou des appareils ou équipements gaziers inadaptables.\n\n- Code de l'énergie\n\n- Code de l'énergie\n\n- Code de l'environnement",
+      "valid_from": "2017-02-26"
     },
     {
       "provision_ref": "art20",
       "section": "20",
       "title": "Article 20",
-      "content": "A modifié les dispositions suivantes :\n\n- Code de l'environnement"
+      "content": "A modifié les dispositions suivantes :\n\n- Code de l'environnement",
+      "valid_from": "2017-02-26"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

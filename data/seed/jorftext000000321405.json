@@ -12,7 +12,14 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Les dispositions de la présente loi prendront effet le 1er mai 1971."
+      "content": "Les dispositions de la présente loi prendront effet le 1er mai 1971.",
+      "valid_from": "1971-05-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,7 +12,14 @@
       "provision_ref": "artunique",
       "section": "unique",
       "title": "Article unique",
-      "content": "Le traitement afférent aux décorations militaires ainsi que la retraite du combattant sont insaisissables."
+      "content": "Le traitement afférent aux décorations militaires ainsi que la retraite du combattant sont insaisissables.",
+      "valid_from": "1951-02-28"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

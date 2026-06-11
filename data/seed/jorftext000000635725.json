@@ -12,19 +12,28 @@
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - L'ordonnance n° 2004-1199 du 12 novembre 2004 prise pour la transposition de la directive 2002/49/CE du Parlement européen et du Conseil du 25 juin 2002 relative à l'évaluation et à la gestion du bruit dans l'environnement est ratifiée.II. - Paragraphe modificateur"
+      "content": "I. - L'ordonnance n° 2004-1199 du 12 novembre 2004 prise pour la transposition de la directive 2002/49/CE du Parlement européen et du Conseil du 25 juin 2002 relative à l'évaluation et à la gestion du bruit dans l'environnement est ratifiée.II. - Paragraphe modificateur",
+      "valid_from": "2005-10-27"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "I. - Paragraphe modificateurII. - Les installations de stockage de déchets inertes en service à la date d'entrée en vigueur de la présente loi sont soumises aux dispositions du I dans des conditions fixées par décret en Conseil d'Etat."
+      "content": "I. - Paragraphe modificateurII. - Les installations de stockage de déchets inertes en service à la date d'entrée en vigueur de la présente loi sont soumises aux dispositions du I dans des conditions fixées par décret en Conseil d'Etat.",
+      "valid_from": "2005-10-27"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "La présente loi est applicable à Mayotte à compter du 1er janvier 2006, à l'exception de l'article 6, applicable à partir du 1er janvier 2012."
+      "content": "La présente loi est applicable à Mayotte à compter du 1er janvier 2006, à l'exception de l'article 6, applicable à partir du 1er janvier 2012.",
+      "valid_from": "2005-10-27"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,7 +12,14 @@
       "provision_ref": "art14",
       "section": "14",
       "title": "Article 14",
-      "content": "Les dispositions du troisième alinéa de l'article 4 de la même ordonnance ne sont pas applicables aux licences délivrées avant la date d'entrée en vigueur de la présente loi."
+      "content": "Les dispositions du troisième alinéa de l'article 4 de la même ordonnance ne sont pas applicables aux licences délivrées avant la date d'entrée en vigueur de la présente loi.",
+      "valid_from": "1999-03-19"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

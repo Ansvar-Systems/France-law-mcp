@@ -1,0 +1,26 @@
+{
+  "id": "jorftext000000511708",
+  "type": "statute",
+  "title": "Loi n° 85-662 du 3 juillet 1985",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000511708",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Si l'état d'abandon persiste, la déchéance des droits du propriétaire sur le navire ou l'engin flottant abandonné peut être prononcée par décision du ministre chargé de la marine marchande cette décision ne peut intervenir qu'après mise en demeure au propriétaire de faire cesser, dans un délai qui ne peut être inférieur à un mois, l'état d'abandon dans lequel se trouve son navire ou son engin flottant.",
+      "valid_from": "1985-07-04",
+      "valid_to": "2222-02-22"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

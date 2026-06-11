@@ -12,43 +12,56 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le Président de la République est autorisé à ratifier la convention dite \"statut du Conseil de l'Europe\" conclue à Londres, le 5 mai 1949, entre le Gouvernement français et les gouvernements de Belgique, du Danemark, de Grande-Bretagne, des Pays-Bas, d'Irlande, de Norvège et de Suède.Un exemplaire dudit statut sera annexé à la présente loi."
+      "content": "Le Président de la République est autorisé à ratifier la convention dite \"statut du Conseil de l'Europe\" conclue à Londres, le 5 mai 1949, entre le Gouvernement français et les gouvernements de Belgique, du Danemark, de Grande-Bretagne, des Pays-Bas, d'Irlande, de Norvège et de Suède.Un exemplaire dudit statut sera annexé à la présente loi.",
+      "valid_from": "1949-07-24"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les membres titulaires représentant la France à l'Assemblée consultative prévue par le statut du Conseil de l'Europe seront désignés dans les conditions ci-après :Douze membres élus en son sein par l'Assemblée nationale à la majorité absolue des votants dont au moins un pris dans la représentation des territoires d'outre-mer ;Six membres élus en son sein par le Conseil de la République à la majorité absolue des votants dont au moins un pris dans la représentation des territoires d'outre-mer."
+      "content": "Les membres titulaires représentant la France à l'Assemblée consultative prévue par le statut du Conseil de l'Europe seront désignés dans les conditions ci-après :Douze membres élus en son sein par l'Assemblée nationale à la majorité absolue des votants dont au moins un pris dans la représentation des territoires d'outre-mer ;Six membres élus en son sein par le Conseil de la République à la majorité absolue des votants dont au moins un pris dans la représentation des territoires d'outre-mer.",
+      "valid_from": "1949-07-24"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Des membres suppléants seront désignés, en nombre égal, et suivant les modalités définies à l'article précédent."
+      "content": "Des membres suppléants seront désignés, en nombre égal, et suivant les modalités définies à l'article précédent.",
+      "valid_from": "1949-07-24"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le mandat des membres titulaires et suppléants sera valable jusqu'au renouvellement, intégral ou partiel, de l'assemblée qui le leur a conféré."
+      "content": "Le mandat des membres titulaires et suppléants sera valable jusqu'au renouvellement, intégral ou partiel, de l'assemblée qui le leur a conféré.",
+      "valid_from": "1949-07-24"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Il est ouvert au ministre des affaires étrangères, au titre du budget des affaires étrangères (1 - Service des affaires étrangères) pour l'exercice 1949, en sus des crédits ouverts par la loi n° 48-1992 du 31 décembre 1948 et par des textes spéciaux, un crédit de 27 millions de francs applicable au chapitre 602 \"Participation de la France à des dépenses internationales\"."
+      "content": "Il est ouvert au ministre des affaires étrangères, au titre du budget des affaires étrangères (1 - Service des affaires étrangères) pour l'exercice 1949, en sus des crédits ouverts par la loi n° 48-1992 du 31 décembre 1948 et par des textes spéciaux, un crédit de 27 millions de francs applicable au chapitre 602 \"Participation de la France à des dépenses internationales\".",
+      "valid_from": "1949-07-24"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les évaluations de recettes, du budget général de l'exercice 1949 sont majorées d'une somme de 30 550 000 F au titre de la ligne n° 70 \"Annuités à verser par la chambre syndicale des banques populaires pour les avances mises à sa disposition par l'Etat en application de l'ordonnance du 5 octobre 1945 relative à des prêts aux anciens prisonniers de guerre et aux anciens déportés (1 - Produits recouvrables en France, alinéa 4 - Produits divers)\"."
+      "content": "Les évaluations de recettes, du budget général de l'exercice 1949 sont majorées d'une somme de 30 550 000 F au titre de la ligne n° 70 \"Annuités à verser par la chambre syndicale des banques populaires pour les avances mises à sa disposition par l'Etat en application de l'ordonnance du 5 octobre 1945 relative à des prêts aux anciens prisonniers de guerre et aux anciens déportés (1 - Produits recouvrables en France, alinéa 4 - Produits divers)\".",
+      "valid_from": "1949-07-24"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Les membres de l'assemblée, consultative européenne, tant titulaires que suppléants, ne perçoivent aucun traitement à raison de leurs fonctions. Ils sont indemnisés de leurs frais de représentation et de déplacement."
+      "content": "Les membres de l'assemblée, consultative européenne, tant titulaires que suppléants, ne perçoivent aucun traitement à raison de leurs fonctions. Ils sont indemnisés de leurs frais de représentation et de déplacement.",
+      "valid_from": "1949-07-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -1,0 +1,32 @@
+{
+  "id": "legitext000006069622",
+  "type": "statute",
+  "title": "Ordonnance n° 77-6163 du 12 décembre 1977",
+  "title_en": null,
+  "short_name": null,
+  "status": "in_force",
+  "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069622/",
+  "description": null,
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "I. Les ventes de métaux précieux sont soumises à une taxe de 4 %.\n\nII. La taxe est supportée par le vendeur. Elle est versée par l'intermédiaire participant à la transaction ou, à défaut, par l'acheteur, dans les trente jours   et sous les mêmes garanties qu'en matière de taxes sur le chiffre d'affaires.\n\nLa taxe n'est pas perçue lorsque le vendeur fait commerce des métaux précieux, à titre professionnel.\n\nIII. L'exportation, autre que temporaire, est assimilée de plein droit à une vente ; la taxe est versée par l'exportateur lors de l'accomplissement des formalités douanières.\n\nCes règles ne sont pas applicables si le propriétaire des métaux précieux n'a pas à Monaco sa résidence habituelle et si l'acquisition a été effectuée auprès d'un professionnel installé en Principauté ou a donné lieu au paiement de la taxe.\n\nIl en est de même lorsque le propriétaire des métaux précieux exportés, n'ayant pas à Monaco sa résidence habituelle, est en mesure de justifier d'une importation antérieure.",
+      "valid_from": "1977-12-12"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les redevables de la taxe prévue à l'article 1er doivent déposer dans les trente jours de la vente, ou dans les délais prévus pour les déclarations de chiffre d'affaires, une déclaration en double exemplaire conforme au modèle établi par l'Administration.Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires.",
+      "valid_from": "1977-12-12"
+    }
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
+}

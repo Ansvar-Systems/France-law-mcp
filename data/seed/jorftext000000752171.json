@@ -12,7 +12,14 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les époux qui, en application de la convention applicable aux régimes matrimoniaux faite à La Haye le 14 mars 1978, et avant la date d'entrée en vigueur de la présente loi, ont, selon le cas, désigné la loi applicable dans les conditions prévues au premier alinéa de l'article 1397-3 du code civil ou accompli les formalités de publicité prévues au deuxième alinéa du même article peuvent opposer aux tiers la désignation à laquelle ils ont ainsi procédé."
+      "content": "Les époux qui, en application de la convention applicable aux régimes matrimoniaux faite à La Haye le 14 mars 1978, et avant la date d'entrée en vigueur de la présente loi, ont, selon le cas, désigné la loi applicable dans les conditions prévues au premier alinéa de l'article 1397-3 du code civil ou accompli les formalités de publicité prévues au deuxième alinéa du même article peuvent opposer aux tiers la désignation à laquelle ils ont ainsi procédé.",
+      "valid_from": "1997-10-29"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

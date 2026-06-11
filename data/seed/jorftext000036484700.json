@@ -12,13 +12,21 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. - La présente ordonnance entre en vigueur à compter de l'entrée en vigueur du décret mentionné à l'article L. 6323-1-15 du code de la santé publique et au plus tard le 1er avril 2018, sous réserve des dispositions des II et III.II. - Les centres de santé en fonctionnement à la date d'entrée en vigueur de la présente ordonnance disposent d'un an à compter de cette date pour transmettre au directeur général de l'agence régionale de santé l'engagement de conformité mentionné à l'article L. 6323-1-11 du code de la santé publique et doivent transmettre les informations mentionnées à l'article L. 6323-1-13 relatives à l'année 2018 au plus tard le 1er mars 2019.III. - La procédure prévue au I de l'article L. 6323-1-12 du code de la santé publique mise en œuvre en raison d'un manquement au respect des dispositions relatives aux centres de santé résultant de la présente ordonnance est applicable aux centres de santé en fonctionnement à la date d'entrée en vigueur de la présente ordonnance à compter de la date d'envoi du récépissé mentionné au deuxième alinéa de l'article L. 6323-1-11 et, à défaut, au plus tard dans le délai d'un an à compter de la date d'entrée en vigueur de la présente ordonnance."
+      "content": "I. - La présente ordonnance entre en vigueur à compter de l'entrée en vigueur du décret mentionné à l'article L. 6323-1-15 du code de la santé publique et au plus tard le 1er avril 2018, sous réserve des dispositions des II et III.II. - Les centres de santé en fonctionnement à la date d'entrée en vigueur de la présente ordonnance disposent d'un an à compter de cette date pour transmettre au directeur général de l'agence régionale de santé l'engagement de conformité mentionné à l'article L. 6323-1-11 du code de la santé publique et doivent transmettre les informations mentionnées à l'article L. 6323-1-13 relatives à l'année 2018 au plus tard le 1er mars 2019.III. - La procédure prévue au I de l'article L. 6323-1-12 du code de la santé publique mise en œuvre en raison d'un manquement au respect des dispositions relatives aux centres de santé résultant de la présente ordonnance est applicable aux centres de santé en fonctionnement à la date d'entrée en vigueur de la présente ordonnance à compter de la date d'envoi du récépissé mentionné au deuxième alinéa de l'article L. 6323-1-11 et, à défaut, au plus tard dans le délai d'un an à compter de la date d'entrée en vigueur de la présente ordonnance.",
+      "valid_from": "2018-04-01"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Le Premier ministre et la ministre des solidarités et de la santé sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre et la ministre des solidarités et de la santé sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2018-04-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

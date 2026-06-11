@@ -12,31 +12,42 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Pour l'année 2021, la période mentionnée au troisième alinéa de l'article L. 115-3 du code de l'action sociale et des familles et au premier alinéa de l'article L. 412-6 du code des procédures civiles d'exécution est prolongée jusqu'au 31 mai 2021."
+      "content": "Pour l'année 2021, la période mentionnée au troisième alinéa de l'article L. 115-3 du code de l'action sociale et des familles et au premier alinéa de l'article L. 412-6 du code des procédures civiles d'exécution est prolongée jusqu'au 31 mai 2021.",
+      "valid_from": "2021-02-12"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Nonobstant les dispositions de l'article 1er, lorsque la responsabilité de l'Etat est engagée à la suite du refus du préfet d'accorder le concours de la force publique pour assurer l'exécution d'une décision de justice ordonnant l'expulsion des occupants d'un logement dans les conditions prévues par la loi, la période de responsabilité de l'Etat retenue pour le calcul de la réparation du préjudice résultant de ce refus débute à compter du 1er avril 2021 dans le cas d'une décision de refus née entre le 1er novembre 2020 et le 31 mars 2021."
+      "content": "Nonobstant les dispositions de l'article 1er, lorsque la responsabilité de l'Etat est engagée à la suite du refus du préfet d'accorder le concours de la force publique pour assurer l'exécution d'une décision de justice ordonnant l'expulsion des occupants d'un logement dans les conditions prévues par la loi, la période de responsabilité de l'Etat retenue pour le calcul de la réparation du préjudice résultant de ce refus débute à compter du 1er avril 2021 dans le cas d'une décision de refus née entre le 1er novembre 2020 et le 31 mars 2021.",
+      "valid_from": "2021-02-12"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Nonobstant les dispositions prévues à l'article 1er, lorsque la responsabilité de l'Etat est engagée à la suite du refus du préfet d'accorder le concours de la force publique pour assurer l'exécution d'une décision de justice ordonnant l'expulsion des occupants d'un logement dans les conditions prévues par la loi, la période de responsabilité de l'Etat retenue pour le calcul de la réparation du préjudice résultant de ce refus débute, dans le cas d'une décision de refus née entre le 1er avril 2021 et le 31 mai 2021, à compter de la date de ce refus implicite ou explicite."
+      "content": "Nonobstant les dispositions prévues à l'article 1er, lorsque la responsabilité de l'Etat est engagée à la suite du refus du préfet d'accorder le concours de la force publique pour assurer l'exécution d'une décision de justice ordonnant l'expulsion des occupants d'un logement dans les conditions prévues par la loi, la période de responsabilité de l'Etat retenue pour le calcul de la réparation du préjudice résultant de ce refus débute, dans le cas d'une décision de refus née entre le 1er avril 2021 et le 31 mai 2021, à compter de la date de ce refus implicite ou explicite.",
+      "valid_from": "2021-02-12"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Lorsque l'exécution de la décision par laquelle le préfet a accepté d'accorder le concours de la force publique pour assurer l'exécution d'une décision de justice ordonnant l'expulsion des occupants d'un logement est reportée de plus de quinze jours, par application des dispositions de l'article 1er, ce report ouvre droit à réparation pour le bénéficiaire de la décision judiciaire d'expulsion, pour les préjudices résultant du défaut d'exécution de cette décision de justice, au cours de la période courant du 1er avril 2021 jusqu'à son exécution effective."
+      "content": "Lorsque l'exécution de la décision par laquelle le préfet a accepté d'accorder le concours de la force publique pour assurer l'exécution d'une décision de justice ordonnant l'expulsion des occupants d'un logement est reportée de plus de quinze jours, par application des dispositions de l'article 1er, ce report ouvre droit à réparation pour le bénéficiaire de la décision judiciaire d'expulsion, pour les préjudices résultant du défaut d'exécution de cette décision de justice, au cours de la période courant du 1er avril 2021 jusqu'à son exécution effective.",
+      "valid_from": "2021-02-12"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, la ministre de la transition écologique, le ministre de l'intérieur et la ministre déléguée auprès de la ministre de la transition écologique, chargée du logement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, la ministre de la transition écologique, le ministre de l'intérieur et la ministre déléguée auprès de la ministre de la transition écologique, chargée du logement, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2021-02-12"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

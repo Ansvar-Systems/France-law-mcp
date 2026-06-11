@@ -12,19 +12,28 @@
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Dans les articles 7, 14-2, 21 et 25 de la loi n° 70-1318 du 31 décembre 1970 précitée, les mots : commission médicale consultative sont remplacés par les mots : commission médicale d'établissement.Les commissions médicales consultatives en fonction, à la date de publication de la présente loi prennent, à cette date, la dénomination de commissions médicales d'établissement et exercent les attributions définies à l'article 4 de la présente loi."
+      "content": "Dans les articles 7, 14-2, 21 et 25 de la loi n° 70-1318 du 31 décembre 1970 précitée, les mots : commission médicale consultative sont remplacés par les mots : commission médicale d'établissement.Les commissions médicales consultatives en fonction, à la date de publication de la présente loi prennent, à cette date, la dénomination de commissions médicales d'établissement et exercent les attributions définies à l'article 4 de la présente loi.",
+      "valid_from": "1991-08-02"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "L'article 13 de la loi n° 84-5 du 3 janvier 1984 portant diverses mesures relatives à l'organisation du service public hospitalier est abrogé."
+      "content": "L'article 13 de la loi n° 84-5 du 3 janvier 1984 portant diverses mesures relatives à l'organisation du service public hospitalier est abrogé.",
+      "valid_from": "1991-08-02"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Par dérogation aux dispositions de l'article 2 de la présente loi relatives à la procédure de nomination des chefs de service, tout médecin, biologiste odontologiste hospitalier qui avait été nommé chef de service avant le 31 décembre 1984 et qui n'a pas fait l'objet d'une mutation depuis cette date, à condition qu'il continue d'exercer à la date de publication de la présente loi ces responsabilités, sera nommé, à compter de la même date et pour la durée définie à l'article 20-2 de la loi n° 70-1318 du 31 décembre 1970 précitée, chef du service dans lequel il exerce ses responsabilités.Tout pharmacien-résident chef de 1re ou de 2e classe qui assure à la date de publication de la présente loi la direction d'une pharmacie telle que définie à l'article L. 570 du code de la santé publique sera nommé, à compter de la même date et pour la durée définie à l'article 20-2 de la loi n° 70-1318 du 31 décembre 1970 précitée, chef du service de pharmacie dans lequel il exerce cette direction."
+      "content": "Par dérogation aux dispositions de l'article 2 de la présente loi relatives à la procédure de nomination des chefs de service, tout médecin, biologiste odontologiste hospitalier qui avait été nommé chef de service avant le 31 décembre 1984 et qui n'a pas fait l'objet d'une mutation depuis cette date, à condition qu'il continue d'exercer à la date de publication de la présente loi ces responsabilités, sera nommé, à compter de la même date et pour la durée définie à l'article 20-2 de la loi n° 70-1318 du 31 décembre 1970 précitée, chef du service dans lequel il exerce ses responsabilités.Tout pharmacien-résident chef de 1re ou de 2e classe qui assure à la date de publication de la présente loi la direction d'une pharmacie telle que définie à l'article L. 570 du code de la santé publique sera nommé, à compter de la même date et pour la durée définie à l'article 20-2 de la loi n° 70-1318 du 31 décembre 1970 précitée, chef du service de pharmacie dans lequel il exerce cette direction.",
+      "valid_from": "1991-08-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

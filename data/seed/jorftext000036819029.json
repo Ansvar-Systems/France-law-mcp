@@ -12,19 +12,28 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "I. - Par dérogation aux 2° et 4° du II de l'article 219 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, les électeurs inscrits sur la liste électorale spéciale à la consultation des communes de Bélep, de l'île des Pins, de Lifou, de Maré et d'Ouvéa peuvent, à leur demande, participer à la consultation prévue au titre IX de la même loi organique dans les bureaux de vote ouverts à cet effet à Nouméa sous la responsabilité du maire de chaque commune concernée.II. - Les modalités d'application du I du présent article sont déterminées par décret en Conseil d'Etat, pris après avis du gouvernement et du congrès de la Nouvelle-Calédonie. Ce décret précise notamment les modalités d'exercice du droit d'option octroyé aux électeurs des communes mentionnées au même I, le délai durant lequel ce dernier est ouvert, la manière dont est vérifiée l'absence de double inscription, les modalités d'établissement des listes d'émargement, la composition des bureaux de vote institués en vertu du présent article et les modalités de transmission des résultats."
+      "content": "I. - Par dérogation aux 2° et 4° du II de l'article 219 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, les électeurs inscrits sur la liste électorale spéciale à la consultation des communes de Bélep, de l'île des Pins, de Lifou, de Maré et d'Ouvéa peuvent, à leur demande, participer à la consultation prévue au titre IX de la même loi organique dans les bureaux de vote ouverts à cet effet à Nouméa sous la responsabilité du maire de chaque commune concernée.II. - Les modalités d'application du I du présent article sont déterminées par décret en Conseil d'Etat, pris après avis du gouvernement et du congrès de la Nouvelle-Calédonie. Ce décret précise notamment les modalités d'exercice du droit d'option octroyé aux électeurs des communes mentionnées au même I, le délai durant lequel ce dernier est ouvert, la manière dont est vérifiée l'absence de double inscription, les modalités d'établissement des listes d'émargement, la composition des bureaux de vote institués en vertu du présent article et les modalités de transmission des résultats.",
+      "valid_from": "2018-04-21"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - Par dérogation au 4° du II de l'article 219 de la loi organique n° 99-209 du 19 mars 1999 précitée, pour la consultation prévue au titre IX de la même loi organique, ne peuvent exercer, sur leur demande, leur droit de vote par procuration que :1° Les personnes placées en détention provisoire et les détenus purgeant une peine n'entraînant pas une incapacité électorale ;2° Les électeurs qui établissent que des obligations professionnelles, une formation, un handicap, des raisons de santé, une absence de Nouvelle-Calédonie, l'assistance apportée à une personne malade ou infirme les placent dans l'impossibilité d'être présents dans leur commune d'inscription le jour de la consultation prévue au titre IX de la même loi organique ou de participer au scrutin en dépit de leur présence dans la commune.II. - Les personnes mentionnées au I du présent article doivent justifier de leur identité et fournir à l'appui de leur demande des justificatifs dûment établis.III. - La liste des justificatifs à produire et les modalités d'application du présent article sont fixées par décret en Conseil d'Etat, pris après avis du gouvernement de la Nouvelle-Calédonie."
+      "content": "I. - Par dérogation au 4° du II de l'article 219 de la loi organique n° 99-209 du 19 mars 1999 précitée, pour la consultation prévue au titre IX de la même loi organique, ne peuvent exercer, sur leur demande, leur droit de vote par procuration que :1° Les personnes placées en détention provisoire et les détenus purgeant une peine n'entraînant pas une incapacité électorale ;2° Les électeurs qui établissent que des obligations professionnelles, une formation, un handicap, des raisons de santé, une absence de Nouvelle-Calédonie, l'assistance apportée à une personne malade ou infirme les placent dans l'impossibilité d'être présents dans leur commune d'inscription le jour de la consultation prévue au titre IX de la même loi organique ou de participer au scrutin en dépit de leur présence dans la commune.II. - Les personnes mentionnées au I du présent article doivent justifier de leur identité et fournir à l'appui de leur demande des justificatifs dûment établis.III. - La liste des justificatifs à produire et les modalités d'application du présent article sont fixées par décret en Conseil d'Etat, pris après avis du gouvernement de la Nouvelle-Calédonie.",
+      "valid_from": "2018-04-21"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "La présente loi organique entre en vigueur le lendemain de sa publication au Journal officiel de la République française.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "La présente loi organique entre en vigueur le lendemain de sa publication au Journal officiel de la République française.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "2018-04-21"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

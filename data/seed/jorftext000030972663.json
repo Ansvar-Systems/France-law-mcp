@@ -12,13 +12,21 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "L'ordonnance n° 2014-1090 du 26 septembre 2014 relative à la mise en accessibilité des établissements recevant du public, des transports publics, des bâtiments d'habitation et de la voirie pour les personnes handicapées est ratifiée."
+      "content": "L'ordonnance n° 2014-1090 du 26 septembre 2014 relative à la mise en accessibilité des établissements recevant du public, des transports publics, des bâtiments d'habitation et de la voirie pour les personnes handicapées est ratifiée.",
+      "valid_from": "2015-08-07"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "I.-Le Gouvernement présente au Parlement une évaluation de la mise en œuvre de l'ordonnance n° 2014-1090 du 26 septembre 2014 précitée avant le 31 décembre 2018. Cette évaluation dresse également le bilan des mesures mises en œuvre pour simplifier les règles de mise en accessibilité applicables à l'ensemble du cadre bâti ainsi qu'à la chaîne de déplacement.\n\nLe Gouvernement informe chaque année le Parlement de l'utilisation du produit des sanctions pécuniaires mentionnées à l'article L. 165-7 du code de la construction et de l'habitation et à l'article L. 1112-2-4 du code des transports.\n\nII.-A modifié les dispositions suivantes :\n\n-LOI n° 2014-789 du 10 juillet 2014"
+      "content": "I.-Le Gouvernement présente au Parlement une évaluation de la mise en œuvre de l'ordonnance n° 2014-1090 du 26 septembre 2014 précitée avant le 31 décembre 2018. Cette évaluation dresse également le bilan des mesures mises en œuvre pour simplifier les règles de mise en accessibilité applicables à l'ensemble du cadre bâti ainsi qu'à la chaîne de déplacement.\n\nLe Gouvernement informe chaque année le Parlement de l'utilisation du produit des sanctions pécuniaires mentionnées à l'article L. 165-7 du code de la construction et de l'habitation et à l'article L. 1112-2-4 du code des transports.\n\nII.-A modifié les dispositions suivantes :\n\n-LOI n° 2014-789 du 10 juillet 2014",
+      "valid_from": "2021-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

@@ -12,43 +12,56 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Les dispositions annexées à la présente ordonnance constituent la partie législative du code forestier."
+      "content": "Les dispositions annexées à la présente ordonnance constituent la partie législative du code forestier.",
+      "valid_from": "2012-07-01"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Les dispositions de la partie législative du code forestier qui mentionnent, sans les reproduire, des dispositions soit d'autres codes, soit de textes législatifs ou de règlements communautaires sont de plein droit modifiées par l'effet des modifications ultérieures de ces dispositions."
+      "content": "Les dispositions de la partie législative du code forestier qui mentionnent, sans les reproduire, des dispositions soit d'autres codes, soit de textes législatifs ou de règlements communautaires sont de plein droit modifiées par l'effet des modifications ultérieures de ces dispositions.",
+      "valid_from": "2012-07-01"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Les références à des dispositions abrogées par l'article 5 de la présente ordonnance sont remplacées par les références aux dispositions correspondantes du code forestier."
+      "content": "Les références à des dispositions abrogées par l'article 5 de la présente ordonnance sont remplacées par les références aux dispositions correspondantes du code forestier.",
+      "valid_from": "2012-07-01"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Dans le Département de Mayotte, les attributions dévolues à l'Office national des forêts ou à ses agents par la partie législative du code forestier dans sa rédaction issue de la présente ordonnance sont exercées par le préfet, selon des modalités et jusqu'à une date fixée par décret, et au plus tard jusqu'au 30 juin 2014."
+      "content": "Dans le Département de Mayotte, les attributions dévolues à l'Office national des forêts ou à ses agents par la partie législative du code forestier dans sa rédaction issue de la présente ordonnance sont exercées par le préfet, selon des modalités et jusqu'à une date fixée par décret, et au plus tard jusqu'au 30 juin 2014.",
+      "valid_from": "2014-06-30"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "I. ― (Abrogé).II. ― Les contentieux relatifs à l'exercice des servitudes mentionnées à l'article L. 131-16 du code forestier dans sa rédaction issue de la présente ordonnance, en cours jusqu'à la date mentionnée au I de l'article 70 de la loi du 13 décembre 2011 susvisée, demeurent soumis à la procédure prévue par l'article L. 322-8 de l'ancien code forestier applicable avant l'entrée en vigueur de la présente ordonnance."
+      "content": "I. ― (Abrogé).II. ― Les contentieux relatifs à l'exercice des servitudes mentionnées à l'article L. 131-16 du code forestier dans sa rédaction issue de la présente ordonnance, en cours jusqu'à la date mentionnée au I de l'article 70 de la loi du 13 décembre 2011 susvisée, demeurent soumis à la procédure prévue par l'article L. 322-8 de l'ancien code forestier applicable avant l'entrée en vigueur de la présente ordonnance.",
+      "valid_from": "2023-07-12"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "I. ― Sous réserve du II ci-après, les dispositions de la présente ordonnance entrent en vigueur en même temps que la partie réglementaire du nouveau code forestier et au plus tard le 1er juillet 2012.II. ― Les articles L. 172-2 et L. 173-1 du code forestier, dans leur rédaction issue de la présente ordonnance, entrent en vigueur à la date mentionnée à l'article 21 de la loi du 27 juillet 2011 susvisée."
+      "content": "I. ― Sous réserve du II ci-après, les dispositions de la présente ordonnance entrent en vigueur en même temps que la partie réglementaire du nouveau code forestier et au plus tard le 1er juillet 2012.II. ― Les articles L. 172-2 et L. 173-1 du code forestier, dans leur rédaction issue de la présente ordonnance, entrent en vigueur à la date mentionnée à l'article 21 de la loi du 27 juillet 2011 susvisée.",
+      "valid_from": "2012-07-01"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice et des libertés, et le ministre de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice et des libertés, et le ministre de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2012-07-01"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

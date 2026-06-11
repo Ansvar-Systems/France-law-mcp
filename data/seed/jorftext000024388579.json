@@ -12,19 +12,28 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Le livre IX du code rural et de la pêche maritime est modifié conformément aux articles 2 à 6."
+      "content": "Le livre IX du code rural et de la pêche maritime est modifié conformément aux articles 2 à 6.",
+      "valid_from": "2011-07-24"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Le délai d'un an mentionné au II de l'article 85 de la loi du 27 juillet 2010 susvisée pour l'élaboration des schémas régionaux de développement de l'aquaculture marine, pour les régions de Guadeloupe, Guyane, Martinique et La Réunion, pour le Département de Mayotte, pour les collectivités de Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon, court à compter de la date de publication de la présente ordonnance."
+      "content": "Le délai d'un an mentionné au II de l'article 85 de la loi du 27 juillet 2010 susvisée pour l'élaboration des schémas régionaux de développement de l'aquaculture marine, pour les régions de Guadeloupe, Guyane, Martinique et La Réunion, pour le Département de Mayotte, pour les collectivités de Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon, court à compter de la date de publication de la présente ordonnance.",
+      "valid_from": "2011-07-24"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le Premier ministre, le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, le ministre de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire et la ministre auprès du ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, chargée de l'outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, le ministre de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire et la ministre auprès du ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, chargée de l'outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2011-07-24"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

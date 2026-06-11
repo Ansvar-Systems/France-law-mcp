@@ -12,67 +12,84 @@
       "provision_ref": "art1",
       "section": "1",
       "title": "Article 1",
-      "content": "Afin de permettre la mise en oeuvre de l'actionnariat des travailleurs à la Régie nationale des usines Renault, il est constitué un capital de la Régie, dont le montant initial est égal à la valeur comptable du fonds de dotation tel qu'il figure au bilan arrêté à la date du 31 décembre 1968.\n\nCe capital est divisé en actions ou coupures d'actions."
+      "content": "Afin de permettre la mise en oeuvre de l'actionnariat des travailleurs à la Régie nationale des usines Renault, il est constitué un capital de la Régie, dont le montant initial est égal à la valeur comptable du fonds de dotation tel qu'il figure au bilan arrêté à la date du 31 décembre 1968.\n\nCe capital est divisé en actions ou coupures d'actions.",
+      "valid_from": "1970-01-04"
     },
     {
       "provision_ref": "art2",
       "section": "2",
       "title": "Article 2",
-      "content": "Le Gouvernement fixe par décret en Conseil d'Etat les modalités selon lesquelles une partie de ces actions peut être distribuée à des salariés de la Régie, gratuitement ou dans le cadre d'un plan d'épargne d'entreprise.\n\nLes trois quarts des actions au moins doivent demeurer la propriété de l'Etat, auquel des augmentations de capital à titre onéreux peuvent être réservées."
+      "content": "Le Gouvernement fixe par décret en Conseil d'Etat les modalités selon lesquelles une partie de ces actions peut être distribuée à des salariés de la Régie, gratuitement ou dans le cadre d'un plan d'épargne d'entreprise.\n\nLes trois quarts des actions au moins doivent demeurer la propriété de l'Etat, auquel des augmentations de capital à titre onéreux peuvent être réservées.",
+      "valid_from": "1970-01-04"
     },
     {
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "La distribution gratuite d'actions de la Régie à des membres de son personnel tient compte de l'ancienneté des salariés et de leurs responsabilités dans l'entreprise."
+      "content": "La distribution gratuite d'actions de la Régie à des membres de son personnel tient compte de l'ancienneté des salariés et de leurs responsabilités dans l'entreprise.",
+      "valid_from": "1970-01-04"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "Par dérogation aux dispositions de l'article 9 de l'ordonnance n° 67-693 du 17 août 1967, la participation des salariés de la Régie aux fruits de l'expansion de l'entreprise peut être réalisée par l'attribution d'actions ou de coupures d'actions."
+      "content": "Par dérogation aux dispositions de l'article 9 de l'ordonnance n° 67-693 du 17 août 1967, la participation des salariés de la Régie aux fruits de l'expansion de l'entreprise peut être réalisée par l'attribution d'actions ou de coupures d'actions.",
+      "valid_from": "1970-01-04"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Les salariés actionnaires sont représentés au conseil d'administration de la Régie compte tenu de leur part dans le capital. Les membres représentant l'Etat doivent toutefois détenir la majorité des sièges du conseil."
+      "content": "Les salariés actionnaires sont représentés au conseil d'administration de la Régie compte tenu de leur part dans le capital. Les membres représentant l'Etat doivent toutefois détenir la majorité des sièges du conseil.",
+      "valid_from": "1970-01-04"
     },
     {
       "provision_ref": "art6",
       "section": "6",
       "title": "Article 6",
-      "content": "Les actions créées en application des articles 1er et 4 de la présente loi sont nominatives. Elles ouvrent le droit de participer aux bénéfices réalisés par la Régie, aux augmentations de capital par incorporation de réserves, ainsi que, compte tenu des dispositions de l'article 2, aux augmentations de capital par apport en numéraire."
+      "content": "Les actions créées en application des articles 1er et 4 de la présente loi sont nominatives. Elles ouvrent le droit de participer aux bénéfices réalisés par la Régie, aux augmentations de capital par incorporation de réserves, ainsi que, compte tenu des dispositions de l'article 2, aux augmentations de capital par apport en numéraire.",
+      "valid_from": "1970-01-04"
     },
     {
       "provision_ref": "art7",
       "section": "7",
       "title": "Article 7",
-      "content": "Au terme de délais et dans les conditions fixés par décret, les actions de la Régie sont négociables. Elles ne sont alors cessibles qu'aux membres du personnel, à la Régie elle-même ou à un fonds spécial créé en son sein à cet effet, ainsi qu'à l'Etat."
+      "content": "Au terme de délais et dans les conditions fixés par décret, les actions de la Régie sont négociables. Elles ne sont alors cessibles qu'aux membres du personnel, à la Régie elle-même ou à un fonds spécial créé en son sein à cet effet, ainsi qu'à l'Etat.",
+      "valid_from": "1970-01-04"
     },
     {
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Le nombre maximum d'actions que peut posséder une même personne physique est fixé par décret."
+      "content": "Le nombre maximum d'actions que peut posséder une même personne physique est fixé par décret.",
+      "valid_from": "1970-01-04"
     },
     {
       "provision_ref": "art9",
       "section": "9",
       "title": "Article 9",
-      "content": "Les salariés, lorsqu'ils quittent la Régie, peuvent conserver les actions dont ils sont propriétaires.Lorsque les actions de la Régie sont recueillies par le conjoint ou le descendant en ligne directe du salarié, à titre d'héritier ou de légataire, celui-ci peut les conserver ou les céder dans les conditions prévues à l'article 7. Lorsqu'elles sont recueillies par une autre personne, celle-ci doit les céder selon les mêmes conditions et dans un délai fixé par décret ; les détenteurs de ces actions qui n'ont pas satisfait à cette obligation perdent les droits attachés à la propriété de ces actions en application de l'article 6 ci-dessus."
+      "content": "Les salariés, lorsqu'ils quittent la Régie, peuvent conserver les actions dont ils sont propriétaires.Lorsque les actions de la Régie sont recueillies par le conjoint ou le descendant en ligne directe du salarié, à titre d'héritier ou de légataire, celui-ci peut les conserver ou les céder dans les conditions prévues à l'article 7. Lorsqu'elles sont recueillies par une autre personne, celle-ci doit les céder selon les mêmes conditions et dans un délai fixé par décret ; les détenteurs de ces actions qui n'ont pas satisfait à cette obligation perdent les droits attachés à la propriété de ces actions en application de l'article 6 ci-dessus.",
+      "valid_from": "1970-01-04"
     },
     {
       "provision_ref": "art10",
       "section": "10",
       "title": "Article 10",
-      "content": "Les attributions gratuites d'actions faites en application de l'article 2 de la présente loi ne sont pas assimilées à un revenu pour l'application de l'impôt sur le revenu des personnes physiques et ne donnent lieu à la perception d'aucun impôt.\n\nElles ne sont pas prises en considération pour l'application de la législation du travail et de la sécurité sociale."
+      "content": "Les attributions gratuites d'actions faites en application de l'article 2 de la présente loi ne sont pas assimilées à un revenu pour l'application de l'impôt sur le revenu des personnes physiques et ne donnent lieu à la perception d'aucun impôt.\n\nElles ne sont pas prises en considération pour l'application de la législation du travail et de la sécurité sociale.",
+      "valid_from": "1970-01-04"
     },
     {
       "provision_ref": "art11",
       "section": "11",
       "title": "Article 11",
-      "content": "Les modalités d'application de la présente loi seront fixées par décrets en Conseil d'Etat.La présente loi sera exécutée comme loi de l'Etat."
+      "content": "Les modalités d'application de la présente loi seront fixées par décrets en Conseil d'Etat.La présente loi sera exécutée comme loi de l'Etat.",
+      "valid_from": "1970-01-04"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

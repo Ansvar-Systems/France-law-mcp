@@ -12,7 +12,14 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article 8",
-      "content": "Les dispositions de la présente loi, à l'exception de celles du 1° de l'article 3, sont applicables aux biens culturels auxquels a été délivré le certificat prévu par l'article 5 de la loi n° 92-1477 du 31 décembre 1992 précitée ou qui, à la date d'entrée en vigueur de la loi, font l'objet d'un refus de certificat."
+      "content": "Les dispositions de la présente loi, à l'exception de celles du 1° de l'article 3, sont applicables aux biens culturels auxquels a été délivré le certificat prévu par l'article 5 de la loi n° 92-1477 du 31 décembre 1992 précitée ou qui, à la date d'entrée en vigueur de la loi, font l'objet d'un refus de certificat.",
+      "valid_from": "2000-07-11"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }

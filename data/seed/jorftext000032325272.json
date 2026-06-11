@@ -12,19 +12,28 @@
       "provision_ref": "art3",
       "section": "3",
       "title": "Article 3",
-      "content": "Dans tous les textes législatifs, les références à des dispositions modifiées par la présente ordonnance sont remplacées par les références aux dispositions correspondantes issues de la présente ordonnance."
+      "content": "Dans tous les textes législatifs, les références à des dispositions modifiées par la présente ordonnance sont remplacées par les références aux dispositions correspondantes issues de la présente ordonnance.",
+      "valid_from": "2016-04-02"
     },
     {
       "provision_ref": "art4",
       "section": "4",
       "title": "Article 4",
-      "content": "I. - Entrent en vigueur le 1er février 2017 :1° Les dispositions des 1°, 4°, 9°, 10°, 11°, 12°, 13° et 14° de l'article 1er ;2° Les dispositions du 6° de l'article 1er, à l'exception des dispositions de la section 5 du chapitre Ier du titre IV du livre IV de la première partie du code du travail, dans leur rédaction résultant de la présente ordonnance ;3° Les dispositions de l'article 2.II. - Les dispositions des 2°, 3° et 5° de l'article 1er entrent en vigueur le 1er janvier 2018.Les différends et litiges attribués aux sections antérieurement à cette date demeurent de leur compétence.Avant le 1er janvier 2018, les avis et les convocations donnés aux parties pour les affaires non encore attribuées à une section peuvent être délivrés pour une comparution à une date postérieure à cette date devant la section à laquelle les procédures seront transférées en vertu des articles L. 1423-1-1 à L. 1423-1-4 précités.III. - Les dispositions de la section 5 du chapitre Ier du titre IV du livre IV de la première partie du code du travail, dans leur rédaction résultant de la présente ordonnance, entrent en vigueur le 1er janvier 2018.IV. - Les dispositions des 7° et 8° de l'article 1er entrent en vigueur le 1er janvier 2018."
+      "content": "I. - Entrent en vigueur le 1er février 2017 :1° Les dispositions des 1°, 4°, 9°, 10°, 11°, 12°, 13° et 14° de l'article 1er ;2° Les dispositions du 6° de l'article 1er, à l'exception des dispositions de la section 5 du chapitre Ier du titre IV du livre IV de la première partie du code du travail, dans leur rédaction résultant de la présente ordonnance ;3° Les dispositions de l'article 2.II. - Les dispositions des 2°, 3° et 5° de l'article 1er entrent en vigueur le 1er janvier 2018.Les différends et litiges attribués aux sections antérieurement à cette date demeurent de leur compétence.Avant le 1er janvier 2018, les avis et les convocations donnés aux parties pour les affaires non encore attribuées à une section peuvent être délivrés pour une comparution à une date postérieure à cette date devant la section à laquelle les procédures seront transférées en vertu des articles L. 1423-1-1 à L. 1423-1-4 précités.III. - Les dispositions de la section 5 du chapitre Ier du titre IV du livre IV de la première partie du code du travail, dans leur rédaction résultant de la présente ordonnance, entrent en vigueur le 1er janvier 2018.IV. - Les dispositions des 7° et 8° de l'article 1er entrent en vigueur le 1er janvier 2018.",
+      "valid_from": "2016-04-02"
     },
     {
       "provision_ref": "art5",
       "section": "5",
       "title": "Article 5",
-      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, et la ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française."
+      "content": "Le Premier ministre, le garde des sceaux, ministre de la justice, et la ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.",
+      "valid_from": "2016-04-02"
     }
-  ]
+  ],
+  "_ingest": {
+    "retrieved_at": "2026-06-11T16:09:29.411Z",
+    "source_base": "Freemium_legi_global_20250713-140000.tar.gz",
+    "source_last_delta": "LEGI_20260610-214017.tar.gz",
+    "source_stamp": "20260610-214017"
+  }
 }
