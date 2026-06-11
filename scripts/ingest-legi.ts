@@ -36,6 +36,8 @@ import { fileURLToPath } from 'url';
 import { parseLegiXml, type ParsedArticle } from './lib/parser.js';
 import { resolveCorpus, type ExtractIdentity } from './lib/legi-acquire.js';
 import { selectArticles } from './lib/version-select.js';
+import { resolveTextDir } from './lib/text-path.js';
+import { classifyZeroProvisionText, type ZeroProvisionStats } from './lib/ingest-outcome.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -124,21 +126,6 @@ function parseArgs(): CliArgs {
 // LEGI archive helpers
 // ---------------------------------------------------------------------------
 
-function legiIdToPath(id: string): string {
-  const digits = id.replace(/^(LEGITEXT|JORFTEXT)/, '');
-  const pairs = [];
-  for (let i = 0; i < 10; i += 2) {
-    pairs.push(digits.slice(i, i + 2));
-  }
-  const pathPairs = pairs.join('/');
-
-  if (id.startsWith('LEGITEXT')) {
-    return `legi/global/code_et_TNC_en_vigueur/code_en_vigueur/LEGI/TEXT/${pathPairs}/${id}`;
-  } else {
-    return `legi/global/code_et_TNC_en_vigueur/TNC_en_vigueur/JORF/TEXT/${pathPairs}/${id}`;
-  }
-}
-
 function walkXmlFiles(dir: string): string[] {
   const results: string[] = [];
   if (!fs.existsSync(dir)) return results;
@@ -178,8 +165,8 @@ interface ParsedLaw {
   url: string | null;
   description: string | null;
   provisions: ParsedProvision[];
-  fileErrors: number;
-  droppedExpiredNums: string[];
+  /** Article-level evidence for zero-provision classification (issue #97). */
+  stats: ZeroProvisionStats;
 }
 
 function parseTextDirectory(textDir: string, censusEntry: CensusLaw, today: string): ParsedLaw {
@@ -187,11 +174,15 @@ function parseTextDirectory(textDir: string, censusEntry: CensusLaw, today: stri
 
   const candidates: ParsedArticle[] = [];
   let fileErrors = 0;
+  let parseErrors = 0;
+  let articleNodesSeen = 0;
 
   for (const xmlFile of articleFiles) {
     try {
       const xmlContent = fs.readFileSync(xmlFile, 'utf-8');
       const result = parseLegiXml(xmlContent);
+      articleNodesSeen += result.articleNodesSeen;
+      parseErrors += result.errors.length;
       candidates.push(...result.articles);
     } catch {
       fileErrors++;
@@ -200,10 +191,8 @@ function parseTextDirectory(textDir: string, censusEntry: CensusLaw, today: stri
 
   // Validity-aware version selection per article number (issue #97: the old
   // keep-longest dedupe could serve an outdated longer version forever).
-  const { selected, droppedExpiredNums } = selectArticles(
-    candidates.filter((a) => a.content.trim().length > 0),
-    today,
-  );
+  const nonEmpty = candidates.filter((a) => a.content.trim().length > 0);
+  const { selected, droppedExpiredNums } = selectArticles(nonEmpty, today);
 
   const provisions: ParsedProvision[] = selected.map((article) => ({
     provision_ref: `art${article.normalizedNum}`,
@@ -223,8 +212,15 @@ function parseTextDirectory(textDir: string, censusEntry: CensusLaw, today: stri
     url: censusEntry.url,
     description: null,
     provisions,
-    fileErrors,
-    droppedExpiredNums,
+    stats: {
+      articleFiles: articleFiles.length,
+      fileErrors,
+      parseErrors,
+      articleNodesSeen,
+      vigueurVersions: candidates.length,
+      nonEmptyVigueurVersions: nonEmpty.length,
+      expiredOnlyNums: droppedExpiredNums.length,
+    },
   };
 }
 
@@ -401,6 +397,7 @@ async function main(): Promise<void> {
   // Ingest each text
   const results: Array<{ id: string; provisions: number }> = [];
   const dropped: DroppedTarget[] = [];
+  const outOfForce: DroppedTarget[] = [];
   let totalProvisions = 0;
   let processed = 0;
   let totalFileErrors = 0;
@@ -410,26 +407,37 @@ async function main(): Promise<void> {
   for (const entry of targets) {
     processed++;
 
-    // Compute directory path from the LEGITEXT/JORFTEXT identifier
-    const textDir = path.join(extractDir, legiIdToPath(entry.identifier));
+    // Resolve the text directory from the LEGITEXT/JORFTEXT identifier.
+    // LEGITEXT-keyed texts live under code_en_vigueur OR TNC_en_vigueur
+    // (consolidated lois/ordonnances) — the old single-prefix mapping
+    // silently dropped the latter (73 texts in the 2026-06 corpus).
+    const { dir: textDir, checked } = resolveTextDir(extractDir, entry.identifier);
 
-    if (!fs.existsSync(textDir)) {
-      dropped.push({ id: entry.id, identifier: entry.identifier, reason: 'directory not found in extracted corpus' });
+    if (textDir === null) {
+      dropped.push({
+        id: entry.id,
+        identifier: entry.identifier,
+        reason: `directory not found in extracted corpus (checked: ${checked.join(', ')})`,
+      });
       continue;
     }
 
     const law = parseTextDirectory(textDir, entry, today);
-    totalFileErrors += law.fileErrors;
-    totalExpiredNums += law.droppedExpiredNums.length;
+    totalFileErrors += law.stats.fileErrors;
+    totalExpiredNums += law.stats.expiredOnlyNums;
 
     if (law.provisions.length === 0) {
-      dropped.push({
-        id: entry.id,
-        identifier: entry.identifier,
-        reason:
-          `no in-force provisions parsed (file errors: ${law.fileErrors}, ` +
-          `expired-only article numbers: ${law.droppedExpiredNums.length})`,
-      });
+      // Article-level evidence decides whether this is an EXPECTED exclusion
+      // (text wholly out of force upstream) or a real ingestion anomaly. The
+      // text-level TEXTE_VERSION status cannot be trusted for this (DILA keeps
+      // VIGUEUR text metadata on abrogated texts).
+      const outcome = classifyZeroProvisionText(law.stats);
+      const target = { id: entry.id, identifier: entry.identifier, reason: outcome.reason };
+      if (outcome.kind === 'out_of_force') {
+        outOfForce.push(target);
+      } else {
+        dropped.push(target);
+      }
       continue;
     }
 
@@ -461,7 +469,8 @@ async function main(): Promise<void> {
   console.log(`Source corpus: ${identity.base} + ${identity.deltas_applied.length} deltas (stamp ${identity.source_stamp})`);
   console.log(`Processed: ${processed} texts`);
   console.log(`Ingested: ${results.length} texts with provisions`);
-  console.log(`Dropped: ${dropped.length}`);
+  console.log(`Excluded as out of force: ${outOfForce.length}`);
+  console.log(`Dropped (anomalies): ${dropped.length}`);
   console.log(`Total provisions: ${totalProvisions}`);
   console.log(`Article files unreadable/unparseable: ${totalFileErrors}`);
   console.log(`Article numbers excluded (no in-force version): ${totalExpiredNums}`);
@@ -475,8 +484,17 @@ async function main(): Promise<void> {
 
   console.log('\n+ 2 manual seeds (LPM 2024-2030 cyber, NIS 2 transposition)');
 
+  // Expected exclusions: texts the article-level evidence proves wholly out
+  // of force. Enumerated for auditability — these are NOT failures.
+  if (outOfForce.length > 0) {
+    console.log(`\n=== EXCLUDED OUT-OF-FORCE TEXTS (${outOfForce.length}) — expected, not failures ===`);
+    for (const d of outOfForce) {
+      console.log(`  ${d.id} (${d.identifier}): ${d.reason}`);
+    }
+  }
+
   // FAIL LOUD on partial ingestion (issue #97 / no-silent-fallbacks): every
-  // dropped target is enumerated and the exit code is non-zero. A non-zero
+  // anomalous target is enumerated and the exit code is non-zero. A non-zero
   // exit means DO NOT ship this seed set without investigating the drops.
   if (dropped.length > 0) {
     console.error(`\n=== DROPPED TARGETS (${dropped.length}) — PARTIAL INGESTION, exit 1 ===`);

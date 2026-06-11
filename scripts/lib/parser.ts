@@ -47,8 +47,15 @@ export interface ParsedArticle {
 }
 
 export interface ParseResult {
+  /** Articles with ETAT=VIGUEUR (the only versions servable as current law). */
   articles: ParsedArticle[];
   errors: string[];
+  /**
+   * Total ARTICLE nodes seen before the VIGUEUR filter. Lets callers tell
+   * "text wholly out of force" (nodes seen, none VIGUEUR) apart from
+   * "nothing parsed at all" — the two must not be conflated (issue #97).
+   */
+  articleNodesSeen: number;
 }
 
 // ---------------------------------------------------------------------------
@@ -167,12 +174,14 @@ const xmlParser = new XMLParser({
 export function parseLegiXml(xmlText: string): ParseResult {
   const articles: ParsedArticle[] = [];
   const errors: string[] = [];
+  let articleNodesSeen = 0;
 
   try {
     const parsed = xmlParser.parse(xmlText);
 
     // Navigate various possible root structures
     const articleNodes = findArticleNodes(parsed);
+    articleNodesSeen = articleNodes.length;
 
     for (const artNode of articleNodes) {
       try {
@@ -188,7 +197,7 @@ export function parseLegiXml(xmlText: string): ParseResult {
     errors.push(`XML parse error: ${(err as Error).message}`);
   }
 
-  return { articles, errors };
+  return { articles, errors, articleNodesSeen };
 }
 
 /**
