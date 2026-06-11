@@ -182,6 +182,7 @@ function parseTextDirectory(textDir: string, censusEntry: CensusLaw, today: stri
   let servableVersions = 0;
   let missingNumVersions = 0;
   let emptyBodyVersions = 0;
+  let undeclaredEtatVersions = 0;
 
   for (const xmlFile of articleFiles) {
     try {
@@ -192,6 +193,7 @@ function parseTextDirectory(textDir: string, censusEntry: CensusLaw, today: stri
       servableVersions += result.servableVersions;
       missingNumVersions += result.missingNumVersions;
       emptyBodyVersions += result.emptyBodyVersions;
+      undeclaredEtatVersions += result.undeclaredEtatVersions;
       candidates.push(...result.articles);
     } catch {
       fileErrors++;
@@ -229,6 +231,7 @@ function parseTextDirectory(textDir: string, censusEntry: CensusLaw, today: stri
       servableVersions,
       missingNumVersions,
       emptyBodyVersions,
+      undeclaredEtatVersions,
       selectableVersions: candidates.length,
       expiredOnlyNums: droppedExpiredNums.length,
     },
@@ -470,6 +473,7 @@ async function main(): Promise<void> {
   let totalExpiredNums = 0;
   let totalMissingNum = 0;
   let totalEmptyBody = 0;
+  let totalUndeclaredEtat = 0;
   const retrievedAt = new Date().toISOString();
 
   for (const entry of targets) {
@@ -494,6 +498,7 @@ async function main(): Promise<void> {
     totalExpiredNums += law.stats.expiredOnlyNums;
     totalMissingNum += law.stats.missingNumVersions;
     totalEmptyBody += law.stats.emptyBodyVersions;
+    totalUndeclaredEtat += law.stats.undeclaredEtatVersions;
 
     // Parse/read failures are data loss even when OTHER articles of the text
     // succeeded — a seed written over them would silently miss law. This also
@@ -571,6 +576,7 @@ async function main(): Promise<void> {
   console.log(`Article numbers excluded (no in-force version): ${totalExpiredNums}`);
   console.log(`Servable versions skipped for an empty body: ${totalEmptyBody}`);
   console.log(`Servable versions skipped for a missing NUM: ${totalMissingNum}`);
+  console.log(`Versions with an EMPTY <ETAT/> tag (window-decided candidates): ${totalUndeclaredEtat}`);
 
   // Top 10 largest
   results.sort((a, b) => b.provisions - a.provisions);

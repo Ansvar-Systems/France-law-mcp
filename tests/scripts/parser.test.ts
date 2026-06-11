@@ -78,11 +78,40 @@ describe('ETAT vocabulary (deliberate mapping, fail-loud on unknown)', () => {
     expect(r.errors[0]).toMatch(/NOUVEL_ETAT_INCONNU/);
   });
 
-  it('fails loud on a missing ETAT (never silently dropped, never assumed in force)', () => {
+  it('fails loud on an ABSENT ETAT tag (contract drift, never silently dropped)', () => {
     const r = parseLegiXml(articleXml({ etat: undefined }));
     expect(r.articles).toHaveLength(0);
     expect(r.errors).toHaveLength(1);
     expect(r.errors[0]).toMatch(/ETAT/);
+  });
+
+  it('treats an EMPTY ETAT tag (<ETAT/>) as undeclared — the validity window decides, and it is counted', () => {
+    // Real DILA pattern (e.g. Code de la santé publique R3221-7,
+    // LEGIARTI000046340367): <ETAT/> with an open [2023-06-01, 2999) window —
+    // the ONLY open-window version of its article number. Légifrance serves
+    // it; dropping it silently loses in-force law. The window is the
+    // controlling recorded fact when the label is blank.
+    const r = parseLegiXml(articleXml({ etat: '', dateDebut: '2023-06-01', dateFin: '2999-01-01' }));
+    expect(r.articles).toHaveLength(1);
+    expect(r.articles[0].etat).toBe('');
+    expect(r.articles[0].dateDebut).toBe('2023-06-01');
+    expect(r.servableVersions).toBe(1);
+    expect(r.undeclaredEtatVersions).toBe(1);
+    expect(r.errors).toHaveLength(0);
+  });
+
+  it('parses a self-closing <ETAT/> the same as an empty pair', () => {
+    const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+  <META><META_COMMUN><ID>LEGIARTI000046340367</ID></META_COMMUN>
+  <META_SPEC><META_ARTICLE><NUM>R3221-7</NUM><ETAT/>
+  <DATE_DEBUT>2023-06-01</DATE_DEBUT><DATE_FIN>2999-01-01</DATE_FIN></META_ARTICLE></META_SPEC></META>
+  <BLOC_TEXTUEL><CONTENU><p>contenu</p></CONTENU></BLOC_TEXTUEL>
+</ARTICLE>`;
+    const r = parseLegiXml(xml);
+    expect(r.articles).toHaveLength(1);
+    expect(r.undeclaredEtatVersions).toBe(1);
+    expect(r.errors).toHaveLength(0);
   });
 });
 

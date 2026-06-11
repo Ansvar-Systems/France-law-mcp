@@ -59,12 +59,18 @@ export interface ParseResult {
    * "nothing parsed at all" — the two must not be conflated (issue #97).
    */
   articleNodesSeen: number;
-  /** Versions whose ETAT is in SERVABLE_ARTICLE_ETATS, before the NUM/body checks. */
+  /** Versions whose ETAT is in SERVABLE_ARTICLE_ETATS (or undeclared), before the NUM/body checks. */
   servableVersions: number;
   /** Servable versions dropped because they carry no NUM (data damage — counted, never silent). */
   missingNumVersions: number;
   /** Servable versions dropped because the body is empty (DILA abrogation-in-place pattern). */
   emptyBodyVersions: number;
+  /**
+   * Versions with an EMPTY <ETAT/> tag (observed DILA consolidation gap,
+   * e.g. Code de la santé publique R3221-7): the validity window is the only
+   * recorded fact and decides — counted here, never silent.
+   */
+  undeclaredEtatVersions: number;
 }
 
 // ---------------------------------------------------------------------------
@@ -244,6 +250,7 @@ export function parseLegiXml(xmlText: string): ParseResult {
   let servableVersions = 0;
   let missingNumVersions = 0;
   let emptyBodyVersions = 0;
+  let undeclaredEtatVersions = 0;
 
   try {
     const parsed = xmlParser.parse(xmlText);
@@ -255,6 +262,9 @@ export function parseLegiXml(xmlText: string): ParseResult {
     for (const artNode of articleNodes) {
       try {
         const outcome = extractArticle(artNode);
+        if (outcome.kind !== 'excluded_etat' && outcome.undeclaredEtat) {
+          undeclaredEtatVersions++;
+        }
         switch (outcome.kind) {
           case 'servable':
             servableVersions++;
@@ -279,7 +289,15 @@ export function parseLegiXml(xmlText: string): ParseResult {
     errors.push(`XML parse error: ${(err as Error).message}`);
   }
 
-  return { articles, errors, articleNodesSeen, servableVersions, missingNumVersions, emptyBodyVersions };
+  return {
+    articles,
+    errors,
+    articleNodesSeen,
+    servableVersions,
+    missingNumVersions,
+    emptyBodyVersions,
+    undeclaredEtatVersions,
+  };
 }
 
 /**
@@ -340,15 +358,17 @@ function extractTextContent(node: unknown): string {
 }
 
 type ExtractOutcome =
-  | { kind: 'servable'; article: ParsedArticle }
+  | { kind: 'servable'; article: ParsedArticle; undeclaredEtat: boolean }
   | { kind: 'excluded_etat'; etat: string }
-  | { kind: 'missing_num' }
-  | { kind: 'empty_body' };
+  | { kind: 'missing_num'; undeclaredEtat: boolean }
+  | { kind: 'empty_body'; undeclaredEtat: boolean };
 
 /**
  * Classify a single ARTICLE XML node. Throws on an ETAT outside the mapped
- * vocabulary (including missing) — vocabulary drift must fail loud, never
- * silently drop law.
+ * vocabulary and on an ABSENT ETAT tag — vocabulary/contract drift must fail
+ * loud, never silently drop law. An EMPTY <ETAT/> tag is a real (rare) DILA
+ * consolidation gap: the version is kept as a candidate and its validity
+ * window decides, counted as undeclared.
  */
 function extractArticle(node: unknown): ExtractOutcome {
   if (!node || typeof node !== 'object') {
@@ -365,22 +385,28 @@ function extractArticle(node: unknown): ExtractOutcome {
 
   const id = String(metaCommun?.ID ?? art['@_id'] ?? '');
   const num = String(metaArt?.NUM ?? '');
-  const etatRaw = metaArt?.ETAT;
-  const etat = etatRaw === undefined || etatRaw === null ? '' : String(etatRaw);
+  const etatRaw = metaArt && 'ETAT' in metaArt ? metaArt.ETAT : undefined;
+  if (etatRaw === undefined) {
+    throw new Error(
+      `Article ${id || '<no id>'} carries NO ETAT tag — outside the LEGI contract, refusing to classify silently`,
+    );
+  }
+  const etat = etatRaw === null ? '' : String(etatRaw);
+  const undeclaredEtat = etat === '';
   const dateDebut = metaArt?.DATE_DEBUT;
   const dateFin = metaArt?.DATE_FIN;
 
-  if (!SERVABLE_ARTICLE_ETATS.has(etat)) {
+  if (!undeclaredEtat && !SERVABLE_ARTICLE_ETATS.has(etat)) {
     if (EXCLUDED_ARTICLE_ETATS.has(etat)) {
       return { kind: 'excluded_etat', etat };
     }
     throw new Error(
-      `Article ${id || '<no id>'} carries ${etat ? `unknown ETAT '${etat}'` : 'NO ETAT'} — ` +
+      `Article ${id || '<no id>'} carries unknown ETAT '${etat}' — ` +
         'outside the mapped DILA vocabulary, refusing to classify silently',
     );
   }
 
-  if (!num) return { kind: 'missing_num' };
+  if (!num) return { kind: 'missing_num', undeclaredEtat };
 
   // Extract content — CONTENU may be a string or an object (when it contains HTML tags)
   const blocTextuel = art.BLOC_TEXTUEL as Record<string, unknown> | undefined;
@@ -388,12 +414,13 @@ function extractArticle(node: unknown): ExtractOutcome {
   const rawContent = extractTextContent(contenu);
   const content = stripHtml(rawContent);
 
-  if (!content) return { kind: 'empty_body' };
+  if (!content) return { kind: 'empty_body', undeclaredEtat };
 
   const normalizedNum = normalizeArticleNum(num);
 
   return {
     kind: 'servable',
+    undeclaredEtat,
     article: {
       id,
       num,

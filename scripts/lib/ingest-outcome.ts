@@ -38,6 +38,8 @@ export interface ZeroProvisionStats {
   missingNumVersions: number;
   /** Servable versions dropped because the body is empty (abrogation-in-place pattern). */
   emptyBodyVersions: number;
+  /** Versions with an EMPTY <ETAT/> tag — window-decided candidates (DILA consolidation gap, reported). */
+  undeclaredEtatVersions: number;
   /** Servable versions with a NUM and a non-empty body (input to window selection). */
   selectableVersions: number;
   /** Article numbers whose every candidate window is closed today. */

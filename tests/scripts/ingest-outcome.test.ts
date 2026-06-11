@@ -10,6 +10,7 @@ const base: ZeroProvisionStats = {
   servableVersions: 0,
   missingNumVersions: 0,
   emptyBodyVersions: 0,
+  undeclaredEtatVersions: 0,
   selectableVersions: 0,
   expiredOnlyNums: 0,
 };
