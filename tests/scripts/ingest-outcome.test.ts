@@ -31,7 +31,7 @@ describe('classifyZeroProvisionText', () => {
     expect(o.reason).toMatch(/empty bodies/);
   });
 
-  it('treats servable versions vanished for MISSING NUM as an anomaly (data damage, fail loud)', () => {
+  it('treats a MIX of vanished servable versions (missing NUM + empty bodies) as an anomaly (fail loud)', () => {
     const o = classifyZeroProvisionText({
       ...base,
       servableVersions: 2,
@@ -40,6 +40,21 @@ describe('classifyZeroProvisionText', () => {
     });
     expect(o.kind).toBe('anomaly');
     expect(o.reason).toMatch(/NUM/);
+  });
+
+  it('classifies a text whose EVERY servable version lacks a NUM as unrepresentable (real DILA shape: unnumbered-article laws)', () => {
+    // Observed: Loi du 5 novembre 1790 (JORFTEXT000051460305) — 127 VIGUEUR
+    // versions, every one with <NUM/>. The text IS in force; it cannot be
+    // represented as provisions without inventing citation anchors. The old
+    // pipeline mislabeled it "wholly out of force" — a lie.
+    const o = classifyZeroProvisionText({
+      ...base,
+      servableVersions: 127,
+      missingNumVersions: 127,
+    });
+    expect(o.kind).toBe('unrepresentable');
+    expect(o.reason).toMatch(/NUM/);
+    expect(o.reason).toMatch(/unnumbered/i);
   });
 
   it('treats all-windows-expired as an expected exclusion', () => {

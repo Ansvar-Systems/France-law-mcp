@@ -48,6 +48,7 @@ export interface ZeroProvisionStats {
 
 export type ZeroProvisionOutcome =
   | { kind: 'out_of_force'; reason: string }
+  | { kind: 'unrepresentable'; reason: string }
   | { kind: 'anomaly'; reason: string };
 
 export function classifyZeroProvisionText(s: ZeroProvisionStats): ZeroProvisionOutcome {
@@ -72,6 +73,19 @@ export function classifyZeroProvisionText(s: ZeroProvisionStats): ZeroProvisionO
     };
   }
   if (s.selectableVersions === 0) {
+    if (s.missingNumVersions === s.servableVersions) {
+      // Real DILA shape (e.g. Loi du 5 novembre 1790, JORFTEXT000051460305):
+      // an IN-FORCE text whose every article is unnumbered (<NUM/>). It
+      // cannot be represented as provisions without inventing citation
+      // anchors — excluded deliberately, enumerated, capped. Calling it
+      // "out of force" would mis-state the law.
+      return {
+        kind: 'unrepresentable',
+        reason:
+          `every one of the ${s.servableVersions} servable version(s) lacks a NUM (unnumbered-article ` +
+          'text) — in force upstream but unrepresentable as provisions',
+      };
+    }
     if (s.missingNumVersions > 0) {
       return {
         kind: 'anomaly',

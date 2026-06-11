@@ -38,7 +38,7 @@ import { resolveCorpus, type ExtractIdentity } from './lib/legi-acquire.js';
 import { selectArticles } from './lib/version-select.js';
 import { resolveTextDir } from './lib/text-path.js';
 import { classifyZeroProvisionText, type ZeroProvisionStats } from './lib/ingest-outcome.js';
-import { assertOutOfForceCap } from './lib/corpus-gates.js';
+import { assertOutOfForceCap, assertUnrepresentableCap } from './lib/corpus-gates.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -468,6 +468,7 @@ async function main(): Promise<void> {
   const results: Array<{ id: string; provisions: number }> = [];
   const dropped: DroppedTarget[] = [];
   const outOfForce: DroppedTarget[] = [];
+  const unrepresentable: DroppedTarget[] = [];
   let totalProvisions = 0;
   let processed = 0;
   let totalExpiredNums = 0;
@@ -523,6 +524,8 @@ async function main(): Promise<void> {
       const target = { id: entry.id, identifier: entry.identifier, reason: outcome.reason };
       if (outcome.kind === 'out_of_force') {
         outOfForce.push(target);
+      } else if (outcome.kind === 'unrepresentable') {
+        unrepresentable.push(target);
       } else {
         dropped.push(target);
       }
@@ -544,10 +547,11 @@ async function main(): Promise<void> {
   }
 
   // Accounting invariant: every target landed in exactly one bucket.
-  if (results.length + outOfForce.length + dropped.length !== targets.length) {
+  if (results.length + outOfForce.length + unrepresentable.length + dropped.length !== targets.length) {
     console.error(
       `INTERNAL ERROR: target accounting does not add up (${results.length} ingested + ` +
-        `${outOfForce.length} out of force + ${dropped.length} dropped != ${targets.length} targets).`,
+        `${outOfForce.length} out of force + ${unrepresentable.length} unrepresentable + ` +
+        `${dropped.length} dropped != ${targets.length} targets).`,
     );
     process.exit(1);
   }
@@ -571,6 +575,7 @@ async function main(): Promise<void> {
   console.log(`Processed: ${processed} texts`);
   console.log(`Ingested: ${results.length} texts with provisions`);
   console.log(`Excluded as out of force: ${outOfForce.length}`);
+  console.log(`Excluded as unrepresentable (unnumbered-article texts): ${unrepresentable.length}`);
   console.log(`Dropped (anomalies): ${dropped.length}`);
   console.log(`Total provisions (this run): ${totalProvisions}`);
   console.log(`Article numbers excluded (no in-force version): ${totalExpiredNums}`);
@@ -596,12 +601,23 @@ async function main(): Promise<void> {
     }
   }
 
-  // Corpus-wide cap on out-of-force exclusions (review finding
-  // ingest-legi.ts:489): per-text classification routes systemic drift
-  // through the "expected" branch one text at a time; only an aggregate cap
-  // catches it. Observed real ratio ~6.3%, cap 15%.
+  // Unrepresentable texts: in force upstream, but every article is
+  // unnumbered — cannot become provisions without inventing citation
+  // anchors. Enumerated and capped (NOT failures, NOT "out of force").
+  if (unrepresentable.length > 0) {
+    console.log(`\n=== EXCLUDED UNREPRESENTABLE TEXTS (${unrepresentable.length}) — in force, unnumbered articles ===`);
+    for (const d of unrepresentable) {
+      console.log(`  ${d.id} (${d.identifier}): ${d.reason}`);
+    }
+  }
+
+  // Corpus-wide caps on exclusions (review finding ingest-legi.ts:489):
+  // per-text classification routes systemic drift through the "expected"
+  // branches one text at a time; only aggregate caps catch it. Observed real
+  // ratios: out-of-force ~6%, unrepresentable 1 text.
   try {
     assertOutOfForceCap({ targetCount: targets.length, outOfForceCount: outOfForce.length });
+    assertUnrepresentableCap({ targetCount: targets.length, unrepresentableCount: unrepresentable.length });
   } catch (err) {
     console.error(`\n${(err as Error).message}`);
     process.exit(1);

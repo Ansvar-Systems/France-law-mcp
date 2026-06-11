@@ -14,6 +14,7 @@ import * as path from 'node:path';
 import {
   assertCensusFloors,
   assertOutOfForceCap,
+  assertUnrepresentableCap,
   verifySeedsAgainstCensus,
 } from '../../scripts/lib/corpus-gates.js';
 
@@ -69,6 +70,16 @@ describe('assertOutOfForceCap', () => {
 
   it('throws when EVERYTHING is excluded (the ETAT-vocabulary-drift catastrophe)', () => {
     expect(() => assertOutOfForceCap({ targetCount: 4351, outOfForceCount: 4351 })).toThrow();
+  });
+});
+
+describe('assertUnrepresentableCap', () => {
+  it('passes at the observed real-corpus level (1 unnumbered-article text of 4,351)', () => {
+    expect(() => assertUnrepresentableCap({ targetCount: 4351, unrepresentableCount: 1 })).not.toThrow();
+  });
+
+  it('throws when unrepresentable exclusions exceed 1% of targets (parser drift, not DILA reality)', () => {
+    expect(() => assertUnrepresentableCap({ targetCount: 4351, unrepresentableCount: 50 })).toThrow(/unrepresentable/i);
   });
 });
 

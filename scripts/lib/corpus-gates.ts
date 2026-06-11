@@ -108,6 +108,34 @@ export function assertOutOfForceCap(input: OutOfForceCapInput): void {
   }
 }
 
+/**
+ * Cap on unrepresentable exclusions (in-force texts whose every article is
+ * unnumbered, e.g. Loi du 5 novembre 1790). Observed: exactly 1 of 4,351
+ * targets in the 2026-06 corpus. 1% (= 43 texts) of targets is far above any
+ * plausible legitimate count — beyond it the NUM extraction itself drifted.
+ */
+const MAX_UNREPRESENTABLE_RATIO = 0.01;
+
+export interface UnrepresentableCapInput {
+  targetCount: number;
+  unrepresentableCount: number;
+  maxRatio?: number;
+}
+
+export function assertUnrepresentableCap(input: UnrepresentableCapInput): void {
+  const maxRatio = input.maxRatio ?? MAX_UNREPRESENTABLE_RATIO;
+  if (input.targetCount === 0) return;
+  const ratio = input.unrepresentableCount / input.targetCount;
+  if (ratio > maxRatio) {
+    throw new Error(
+      `Unrepresentable exclusions exceed the cap: ${input.unrepresentableCount} of ` +
+        `${input.targetCount} targets (${(ratio * 100).toFixed(1)}% > ${(maxRatio * 100).toFixed(1)}%). ` +
+        'One unnumbered-article text is the observed reality — this volume means NUM extraction ' +
+        'drifted. Refusing to ship the shrunken corpus.',
+    );
+  }
+}
+
 // ---------------------------------------------------------------------------
 // Seeds <-> census cross-check (build gate)
 // ---------------------------------------------------------------------------
