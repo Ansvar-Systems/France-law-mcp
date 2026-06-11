@@ -66,17 +66,26 @@ export function mapTexteEtatToStatus(
   etat: string,
   window: { dateDebut?: string; dateFin?: string },
   today: string,
+  opts: { etatPresent?: boolean } = {},
 ): TexteStatus {
   const e = etat.toUpperCase();
 
   if (TERMINAL_TEXTE_ETATS.has(e)) return 'repealed';
-  if (e === 'VIGUEUR_DIFF') return 'not_yet_in_force';
 
   let status: TexteStatus;
   if (e === 'VIGUEUR' || e === 'ABROGE_DIFF') {
     status = 'in_force';
+  } else if (e === 'VIGUEUR_DIFF') {
+    // Deferred entry-into-force: the LABEL says not-yet, but the window is
+    // the controlling fact in BOTH directions (round 3 — a VIGUEUR_DIFF
+    // whose DATE_DEBUT has passed is in force; live case JORFTEXT000048582228).
+    status = 'not_yet_in_force';
   } else if (e === 'MODIFIE') {
     status = 'amended';
+  } else if (e === '' && opts.etatPresent) {
+    // Present-but-empty <ETAT/>: undeclared — the window decides (the same
+    // rule the article level applies; round 3).
+    status = 'in_force';
   } else {
     throw new Error(
       `TEXTE_VERSION carries ${e ? `unknown ETAT '${e}'` : 'NO ETAT'} — outside the mapped ` +
@@ -84,9 +93,13 @@ export function mapTexteEtatToStatus(
     );
   }
 
-  // The validity window is the controlling fact: [dateDebut, dateFin).
+  // The validity window is the controlling fact: [dateDebut, dateFin) —
+  // overriding the label in BOTH directions.
   if (window.dateFin !== undefined && window.dateFin <= today) return 'repealed';
   if (window.dateDebut !== undefined && window.dateDebut > today) return 'not_yet_in_force';
+  if (status === 'not_yet_in_force' && window.dateDebut !== undefined && window.dateDebut <= today) {
+    return 'in_force';
+  }
   return status;
 }
 
@@ -119,14 +132,15 @@ export function parseTexteVersionFile(xmlPath: string, today?: string): TexteVer
   const titre = String(metaTexte?.TITRE ?? metaTexte?.TITREFULL ?? '');
   const titreShort = String(metaTexte?.TITRECOURT ?? '');
   const etatRaw = metaTexte?.ETAT;
-  const etat = etatRaw === undefined || etatRaw === null ? '' : String(etatRaw);
+  const etatPresent = etatRaw !== undefined && etatRaw !== null;
+  const etat = etatPresent ? String(etatRaw) : '';
   const dateDebut = parseLegiDate(metaTexte?.DATE_DEBUT as string | number | undefined);
   const dateFin = parseLegiDateOpenEnded(metaTexte?.DATE_FIN as string | number | undefined);
 
   if (!id && !titre) return null;
 
   const effectiveToday = today ?? new Date().toISOString().split('T')[0];
-  const status = mapTexteEtatToStatus(etat, { dateDebut, dateFin }, effectiveToday);
+  const status = mapTexteEtatToStatus(etat, { dateDebut, dateFin }, effectiveToday, { etatPresent });
 
   return {
     id,
@@ -152,7 +166,11 @@ export function parseTexteVersionFile(xmlPath: string, today?: string): TexteVer
  * a recursive search (bounded depth) mirrors the previous fallback, but the
  * selection over what it finds is validity-aware instead of first-found.
  */
-export function selectTexteVersion(textDir: string, today: string): TexteVersionMeta | null {
+export function selectTexteVersion(
+  textDir: string,
+  today: string,
+  opts: { onVersionError?: (err: unknown, file: string) => void } = {},
+): TexteVersionMeta | null {
   const versionDir = path.join(textDir, 'texte', 'version');
   let files: string[] = [];
   if (fs.existsSync(versionDir)) {
@@ -166,9 +184,20 @@ export function selectTexteVersion(textDir: string, today: string): TexteVersion
   }
   if (files.length === 0) return null;
 
-  const versions = files
-    .map((f) => parseTexteVersionFile(f, today))
-    .filter((v): v is TexteVersionMeta => v !== null);
+  // One drifted version file must not kill the whole census: vocabulary
+  // throws are isolated per version and surfaced via onVersionError — the
+  // selection proceeds over the healthy versions (round 3). With NO handler
+  // the throw still propagates (fail-loud default for single-file callers).
+  const versions: TexteVersionMeta[] = [];
+  for (const f of files) {
+    try {
+      const v = parseTexteVersionFile(f, today);
+      if (v !== null) versions.push(v);
+    } catch (err) {
+      if (!opts.onVersionError) throw err;
+      opts.onVersionError(err, f);
+    }
+  }
   if (versions.length === 0) return null;
 
   // Tie-break identical windows deterministically by version id (newest id wins).

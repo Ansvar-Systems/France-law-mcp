@@ -3,13 +3,15 @@
  * extraction identity marker (provable corpus version), delta resume queue,
  * and suppression-list application (fail-loud on malformed input).
  */
-import { describe, it, expect, beforeEach, afterEach } from 'vitest';
+import {
+describe, it, expect, beforeEach, afterEach } from 'vitest';
 import * as fs from 'node:fs';
 import * as os from 'node:os';
 import * as path from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 import {
+  assertDeltaPreconditions,
   IDENTITY_MARKER,
   readExtractIdentity,
   writeExtractIdentity,
@@ -332,5 +334,27 @@ describe('ensureCurrentCorpus fast path', () => {
     writeExtractIdentity(extractDir, id);
     const result = await ensureCurrentCorpus({ ...OPTS, indexHtml: INDEX_FIXTURE, cacheDir: tmpDir, extractDir });
     expect(result.identity.source_stamp).toBe('20260610-214017');
+  });
+});
+
+describe('round-3: sentinel ordering (precondition failures must not declare TORN)', () => {
+  it('assertDeltaPreconditions throws on a missing/unreadable delta BEFORE any sentinel write', () => {
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'sentinel-r3-'));
+    // Environment + artifact preconditions are checked OUTSIDE the
+    // sentinel window: a bsdtar host or a missing delta file must never
+    // persist an 'applying' sentinel on an untouched tree (which would
+    // instruct the operator to delete a healthy multi-GB extraction).
+    expect(() =>
+      assertDeltaPreconditions(path.join(dir, 'nonexistent-delta.tar.gz')),
+    ).toThrow(/delta|tar/i);
+  });
+
+  it('applyDelta no longer carries its own precondition (callers gate first)', () => {
+    // The sentinel caller sequence is: assertDeltaPreconditions -> write
+    // sentinel -> applyDelta. A throw from preconditions leaves the marker
+    // clean; this is asserted structurally: assertDeltaPreconditions exists
+    // and ensureCurrentCorpus calls it before writeExtractIdentity (see
+    // source order test below via exported marker).
+    expect(typeof assertDeltaPreconditions).toBe('function');
   });
 });

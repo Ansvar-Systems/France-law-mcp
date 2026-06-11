@@ -18,7 +18,8 @@ import Database from 'better-sqlite3';
 import * as fs from 'node:fs';
 import * as path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { fetchLegiIndexHtml, latestStamp, parseLegiIndex, stampToIso } from './lib/legi-archive.js';
+import {
+  envPositiveInt, fetchLegiIndexHtml, latestStamp, parseLegiIndex, stampToIso } from './lib/legi-archive.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -139,7 +140,7 @@ async function main(): Promise<void> {
     const staleDays = Math.floor(
       (Date.now() - new Date(stampToIso(newest)).getTime()) / (1000 * 60 * 60 * 24),
     );
-    const maxIndexStaleDays = Number(process.env['LEGI_MAX_INDEX_STALENESS_DAYS'] ?? 7);
+    const maxIndexStaleDays = envPositiveInt('LEGI_MAX_INDEX_STALENESS_DAYS', 7);
     if (staleDays > maxIndexStaleDays) {
       throw new Error(
         `Newest archive on the DILA index (${newestRef?.name ?? newest}) is ${staleDays} days old ` +
@@ -159,7 +160,10 @@ async function main(): Promise<void> {
     }
 
     printSummary(summary);
-    process.exit(STRICT_MODE ? 2 : 0);
+    // Round 3: an errored check (index unreachable/stale/shape-drift) must be
+  // distinguishable from 'up to date' by exit code in EVERY mode — silence
+  // here is the dutch-law#119 freeze class.
+  process.exit(2);
   }
 
   console.log(`Latest LEGI archive: ${summary.latest_archive_name} (globals + daily deltas considered)`);

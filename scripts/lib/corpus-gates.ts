@@ -94,6 +94,12 @@ export interface OutOfForceCapInput {
   maxRatio?: number;
 }
 
+/**
+ * The cap ratios are calibrated on the FULL corpus; a partial-scope run
+ * (--codes-only: 76 targets) makes 1 legitimate exclusion trip the 1% cap.
+ * Callers pass fullRun=false to SKIP caps on partial scopes — the full-run
+ * gate still protects every shipped corpus (round 3).
+ */
 export function assertOutOfForceCap(input: OutOfForceCapInput): void {
   const maxRatio = input.maxRatio ?? MAX_OUT_OF_FORCE_RATIO;
   if (input.targetCount === 0) return; // nothing to cap; callers gate empty target sets separately
@@ -221,11 +227,37 @@ export function verifySeedsAgainstCensus(opts: { censusPath: string; seedDir: st
           'corpus identity cannot be verified. Re-run census + ingest.',
       );
     }
+    // Manual-only build with no census: the last surviving variant of the
+    // old empty-schema success path. Refuse by default; the escape hatch is
+    // explicit + loud (round 3).
+    if (process.env['ALLOW_MANUAL_ONLY_BUILD'] !== '1') {
+      throw new Error(
+        `${opts.censusPath} is missing and no seed carries an ingest stamp — a manual-seeds-only ` +
+          'build would ship a near-empty corpus as if real. Run census + ingest, or set ' +
+          'ALLOW_MANUAL_ONLY_BUILD=1 to explicitly accept a manual-only build.',
+      );
+    }
+    console.warn(
+      `WARNING: ALLOW_MANUAL_ONLY_BUILD=1 — building from ${manualSeedCount} manual seed(s) with no census.`,
+    );
     return { seedFiles, stampedSeedCount: 0, manualSeedCount, sourceArchive: null };
   }
 
   // JSON.parse failures propagate — a torn census must never look fresh.
   const census = JSON.parse(fs.readFileSync(opts.censusPath, 'utf-8')) as CensusShape;
+  // A census persisted by a FAILED ingest is self-consistent on disk
+  // (dropped texts: no seed + ingested=false) — the run record is the only
+  // signal, so the gate reads it (round 3).
+  const lastRun = (census as { last_run?: { completed?: boolean; dropped?: number; exit_reason?: string } })
+    .last_run;
+  if (lastRun && lastRun.completed !== true) {
+    throw new Error(
+      `${opts.censusPath} records an incomplete/failed ingest run` +
+        `${lastRun.dropped ? ` (${lastRun.dropped} dropped)` : ''}` +
+        `${lastRun.exit_reason ? `: ${lastRun.exit_reason}` : ''} — refusing to build from a ` +
+        'partially-ingested corpus. Re-run ingest to completion first.',
+    );
+  }
   const source = census.source_archive ?? null;
   if (source === null && stamped.size > 0) {
     throw new Error(

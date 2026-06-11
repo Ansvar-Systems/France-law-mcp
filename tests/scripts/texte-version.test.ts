@@ -159,3 +159,49 @@ describe('parseTexteVersionFile fail-loud ETAT handling', () => {
     expect(() => parseTexteVersionFile(fp, TODAY)).toThrow(/ETAT_FUTUR_INCONNU/);
   });
 });
+
+describe('round-3 (delta review of the round-2 fixes)', () => {
+  const W = { dateDebut: '2025-01-01', dateFin: undefined };
+
+  it('R3-1: VIGUEUR_DIFF whose window has OPENED maps in_force (window overrides label, both directions)', () => {
+    // Live contradiction: JORFTEXT000048582228 — VIGUEUR_DIFF label, in force
+    // since 2025-01-01, was stamped not_yet_in_force in the committed census.
+    expect(mapTexteEtatToStatus('VIGUEUR_DIFF', W, '2026-06-11')).toBe('in_force');
+    expect(mapTexteEtatToStatus('VIGUEUR_DIFF', { dateDebut: '2027-01-01' }, '2026-06-11')).toBe(
+      'not_yet_in_force',
+    );
+  });
+
+  it('R3-2a: a present-but-EMPTY text-level <ETAT/> is undeclared — the window decides, no throw', () => {
+    expect(mapTexteEtatToStatus('', { dateDebut: '2020-01-01' }, '2026-06-11', { etatPresent: true })).toBe(
+      'in_force',
+    );
+    expect(
+      mapTexteEtatToStatus('', { dateDebut: '2020-01-01', dateFin: '2024-01-01' }, '2026-06-11', {
+        etatPresent: true,
+      }),
+    ).toBe('repealed');
+  });
+
+  it('R3-2b: an ABSENT text-level ETAT still throws (outside the vocabulary)', () => {
+    expect(() => mapTexteEtatToStatus('', W, '2026-06-11', { etatPresent: false })).toThrow(/NO ETAT/);
+    expect(() => mapTexteEtatToStatus('', W, '2026-06-11')).toThrow(/NO ETAT/);
+  });
+
+  it('R3-2c: one bad TEXTE_VERSION among many is counted, not a census-killer', () => {
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'tv-r3-'));
+    const ok = `<TEXTE_VERSION><META><META_COMMUN><ID>LEGITEXT000000000001</ID><NATURE>LOI</NATURE></META_COMMUN><META_SPEC><META_TEXTE_VERSION><TITRE>Loi test</TITRE><ETAT>VIGUEUR</ETAT><DATE_DEBUT>2020-01-01</DATE_DEBUT><DATE_FIN>2999-01-01</DATE_FIN></META_TEXTE_VERSION></META_SPEC></META></TEXTE_VERSION>`;
+    const badEtat = ok
+      .replace('LEGITEXT000000000001', 'LEGITEXT000000000002')
+      .replace('<ETAT>VIGUEUR</ETAT>', '<ETAT>GIBBERISH_DRIFT</ETAT>');
+    const vdir = path.join(dir, 'texte', 'version');
+    fs.mkdirSync(vdir, { recursive: true });
+    fs.writeFileSync(path.join(vdir, 'LEGITEXT000000000001.xml'), ok);
+    fs.writeFileSync(path.join(vdir, 'LEGITEXT000000000002.xml'), badEtat);
+    const errors: string[] = [];
+    const picked = selectTexteVersion(dir, '2026-06-11', { onVersionError: (e) => errors.push(String(e)) });
+    expect(picked?.id).toBe('LEGITEXT000000000001'); // healthy version selected
+    expect(errors.length).toBe(1); // the drift is COUNTED loudly, not fatal-to-census
+    expect(errors[0]).toMatch(/GIBBERISH_DRIFT/);
+  });
+});

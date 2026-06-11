@@ -193,3 +193,20 @@ describe('assertPlanContinuity', () => {
     ).not.toThrow();
   });
 });
+
+describe('round-3: env-override validation (NaN must not disable the gate)', () => {
+  it('malformed LEGI_MAX_DELTA_GAP_DAYS fails loud instead of silently disabling', () => {
+    process.env['LEGI_MAX_DELTA_GAP_DAYS'] = '14days';
+    try {
+      expect(() =>
+        assertPlanContinuity({
+          baseStamp: '20250713-140000',
+          deltaStamps: ['20250714-000000'],
+          indexFetchedAt: new Date().toISOString(),
+        }),
+      ).toThrow(/LEGI_MAX_DELTA_GAP_DAYS/);
+    } finally {
+      delete process.env['LEGI_MAX_DELTA_GAP_DAYS'];
+    }
+  });
+});

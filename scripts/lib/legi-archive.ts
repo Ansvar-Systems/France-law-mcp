@@ -112,12 +112,27 @@ export function planAcquisition(refs: LegiArchiveRef[]): AcquisitionPlan {
  * LEGI_MAX_DELTA_GAP_DAYS / LEGI_MAX_INDEX_STALENESS_DAYS — a loud,
  * deliberate operator escape hatch, never a silent fallback.
  */
+/**
+ * Env-int override with validation: a malformed value (e.g. '14days') would
+ * yield NaN, and NaN comparisons are silently false — disabling the gate it
+ * was meant to tune. Malformed = loud (round 3).
+ */
+export function envPositiveInt(name: string, fallback: number): number {
+  const raw = process.env[name];
+  if (raw === undefined || raw === '') return fallback;
+  const n = Number(raw);
+  if (!Number.isFinite(n) || !Number.isInteger(n) || n < 1) {
+    throw new Error(`${name} must be a positive integer, got "${raw}" — refusing a silently-disabled gate`);
+  }
+  return n;
+}
+
 export function assertPlanContinuity(
   plan: AcquisitionPlan,
   opts: { now?: Date; maxGapDays?: number; maxStalenessDays?: number } = {},
 ): void {
   const now = opts.now ?? new Date();
-  const maxGapDays = opts.maxGapDays ?? Number(process.env['LEGI_MAX_DELTA_GAP_DAYS'] ?? 7);
+  const maxGapDays = opts.maxGapDays ?? envPositiveInt('LEGI_MAX_DELTA_GAP_DAYS', 7);
   const maxStalenessDays =
     opts.maxStalenessDays ?? Number(process.env['LEGI_MAX_INDEX_STALENESS_DAYS'] ?? 7);
   const dayMs = 24 * 60 * 60 * 1000;

@@ -189,10 +189,59 @@ describe('verifySeedsAgainstCensus', () => {
     expect(() => verifySeedsAgainstCensus({ censusPath, seedDir })).toThrow(/census/i);
   });
 
-  it('returns a null source for a manual-only seed set without a census (explicitly unstamped)', () => {
+  it('manual-only without census REFUSES by default (round 3)', () => {
     writeSeed('nis2-transposition-france', null);
-    const result = verifySeedsAgainstCensus({ censusPath, seedDir });
-    expect(result.sourceArchive).toBeNull();
-    expect(result.manualSeedCount).toBe(1);
+    expect(() => verifySeedsAgainstCensus({ censusPath, seedDir })).toThrow(/census/i);
+  });
+});
+
+describe('round-3: failed-ingest detectability (corpus-gates)', () => {
+  it('a census recording dropped/failed texts blocks the build', () => {
+    // A cleanly-FAILED ingest leaves self-consistent state (dropped texts:
+    // no seed + ingested=false) that the round-2 gate passed. The census now
+    // carries the failure record and the gate must refuse to build on it.
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'gates-r3-'));
+    const censusPath = path.join(dir, 'census.json');
+    const seedDir = path.join(dir, 'seed');
+    fs.mkdirSync(seedDir, { recursive: true });
+    fs.writeFileSync(
+      path.join(seedDir, 'a.json'),
+      JSON.stringify({ id: 'a', _ingest: { source_stamp: 'S1' } }),
+    );
+    fs.writeFileSync(
+      censusPath,
+      JSON.stringify({
+        source_archive: { source_stamp: 'S1' },
+        last_run: { completed: false, dropped: 3, exit_reason: 'anomaly: parse errors' },
+        laws: [{ document_id: 'a', ingested: true }],
+      }),
+    );
+    expect(() =>
+      verifySeedsAgainstCensus({ censusPath, seedDir }),
+    ).toThrow(/failed|incomplete|dropped/i);
+  });
+
+  it('census missing + zero stamped seeds REFUSES (last empty-schema variant)', () => {
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'gates-r3b-'));
+    const seedDir = path.join(dir, 'seed');
+    fs.mkdirSync(seedDir, { recursive: true });
+    fs.writeFileSync(path.join(seedDir, 'manual.json'), JSON.stringify({ id: 'm' }));
+    expect(() =>
+      verifySeedsAgainstCensus({ censusPath: path.join(dir, 'census.json'), seedDir }),
+    ).toThrow(/census/i);
+  });
+
+  it('ALLOW_MANUAL_ONLY_BUILD=1 is the loud escape hatch for manual-only builds', () => {
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'gates-r3c-'));
+    const seedDir = path.join(dir, 'seed');
+    fs.mkdirSync(seedDir, { recursive: true });
+    fs.writeFileSync(path.join(seedDir, 'manual.json'), JSON.stringify({ id: 'm' }));
+    process.env['ALLOW_MANUAL_ONLY_BUILD'] = '1';
+    try {
+      const out = verifySeedsAgainstCensus({ censusPath: path.join(dir, 'census.json'), seedDir });
+      expect(out.sourceArchive).toBeNull();
+    } finally {
+      delete process.env['ALLOW_MANUAL_ONLY_BUILD'];
+    }
   });
 });

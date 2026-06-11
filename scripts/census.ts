@@ -276,6 +276,8 @@ async function main(): Promise<void> {
   let processed = 0;
   let metadataMissing = 0;
   const metadataMissingSamples: string[] = [];
+  let versionVocabularyErrors = 0;
+  const versionVocabularySamples: string[] = [];
 
   for (const { dir, textId } of allTexts) {
     processed++;
@@ -284,8 +286,16 @@ async function main(): Promise<void> {
     }
 
     // Validity-aware TEXTE_VERSION selection (issue #97: files[0] picked the
-    // first alphabetical version file — usually the OLDEST version).
-    const metadata = selectTexteVersion(dir, today);
+    // first alphabetical version file — usually the OLDEST version). One
+    // drifted version file is COUNTED loudly, never a census-killer (round 3).
+    const metadata = selectTexteVersion(dir, today, {
+      onVersionError: (err, file) => {
+        versionVocabularyErrors++;
+        if (versionVocabularySamples.length < 10) {
+          versionVocabularySamples.push(`${textId} (${path.basename(file)}): ${String(err).slice(0, 160)}`);
+        }
+      },
+    });
     if (metadata === null) {
       metadataMissing++;
       if (metadataMissingSamples.length < 10) metadataMissingSamples.push(textId);

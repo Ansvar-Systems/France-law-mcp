@@ -316,8 +316,22 @@ export interface DeltaApplyStats {
  * applied would silently freeze the corpus while check-updates reports
  * current. Fail loud instead.
  */
-export function applyDelta(deltaPath: string, extractDir: string): DeltaApplyStats {
+/**
+ * Environment + artifact preconditions for a delta apply. MUST run before
+ * the torn-state sentinel is written: a precondition failure (bsdtar host,
+ * missing/corrupt delta file) happens before any tree mutation, and a
+ * persisted sentinel on an untouched tree would instruct the operator to
+ * delete a healthy multi-GB extraction (round 3).
+ */
+export function assertDeltaPreconditions(deltaPath: string): void {
   assertGnuTar();
+  if (!fs.existsSync(deltaPath)) {
+    throw new Error(`Delta archive missing: ${deltaPath}`);
+  }
+}
+
+export function applyDelta(deltaPath: string, extractDir: string): DeltaApplyStats {
+  assertDeltaPreconditions(deltaPath);
   const stats: DeltaApplyStats = { datFiles: 0, deleted: 0, absent: 0, additions: 0 };
 
   // 1. Pull the suppression lists out of the delta (top-level STAMP/*.dat).
@@ -552,6 +566,9 @@ export async function ensureCurrentCorpus(opts: {
   let applied = 0;
   for (const delta of queue) {
     const deltaPath = downloadArchive(delta, cacheDir);
+    // Preconditions BEFORE the sentinel: a bsdtar host / missing delta must
+    // fail without declaring the (untouched) tree torn.
+    assertDeltaPreconditions(deltaPath);
     // Torn-state sentinel: applyDelta mutates destructively (suppressions
     // first). Stamp the marker BEFORE so a crash mid-delta is detectable.
     writeExtractIdentity(extractDir, {

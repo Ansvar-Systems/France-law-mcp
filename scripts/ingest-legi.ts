@@ -349,7 +349,9 @@ interface DroppedTarget {
 }
 
 async function main(): Promise<void> {
+  const runStartedAt = new Date().toISOString();
   const { archive, extracted, codesOnly, limit, allowUnstamped } = parseArgs();
+  const isFullRun = !codesOnly && limit === undefined;
 
   console.log('=== French Law MCP — Census-Driven LEGI Ingestion ===\n');
 
@@ -566,6 +568,15 @@ async function main(): Promise<void> {
   census.summary.total_provisions = census.laws
     .filter(l => l.ingested)
     .reduce((sum, l) => sum + l.provision_count, 0);
+  // Run record: a FAILED ingest leaves self-consistent census+seeds, so the
+  // record is the only machine-readable failure signal — the build gate
+  // refuses to build while completed !== true (round 3). Written as
+  // incomplete FIRST; flipped to completed only at clean exit.
+  (census as Record<string, unknown>)['last_run'] = {
+    completed: false,
+    started_at: runStartedAt,
+    exit_reason: 'in progress / interrupted',
+  };
   fs.writeFileSync(CENSUS_PATH, JSON.stringify(census, null, 2), 'utf-8');
   console.log(`\nUpdated census: ${CENSUS_PATH}`);
 
@@ -592,6 +603,17 @@ async function main(): Promise<void> {
 
   console.log('\n+ 2 manual seeds (LPM 2024-2030 cyber, NIS 2 transposition)');
 
+  const recordRun = (completed: boolean, exitReason: string, droppedCount = 0): void => {
+    (census as Record<string, unknown>)['last_run'] = {
+      completed,
+      started_at: runStartedAt,
+      finished_at: new Date().toISOString(),
+      dropped: droppedCount,
+      exit_reason: exitReason,
+    };
+    fs.writeFileSync(CENSUS_PATH, JSON.stringify(census, null, 2), 'utf-8');
+  };
+
   // Expected exclusions: texts the article-level evidence proves wholly out
   // of force. Enumerated for auditability — these are NOT failures.
   if (outOfForce.length > 0) {
@@ -616,10 +638,15 @@ async function main(): Promise<void> {
   // branches one text at a time; only aggregate caps catch it. Observed real
   // ratios: out-of-force ~6%, unrepresentable 1 text.
   try {
-    assertOutOfForceCap({ targetCount: targets.length, outOfForceCount: outOfForce.length });
-    assertUnrepresentableCap({ targetCount: targets.length, unrepresentableCount: unrepresentable.length });
+    if (isFullRun) {
+      assertOutOfForceCap({ targetCount: targets.length, outOfForceCount: outOfForce.length });
+      assertUnrepresentableCap({ targetCount: targets.length, unrepresentableCount: unrepresentable.length });
+    } else {
+      console.log('\n(partial-scope run: corpus-wide exclusion caps deferred to the next full run)');
+    }
   } catch (err) {
     console.error(`\n${(err as Error).message}`);
+    recordRun(false, `exclusion cap tripped: ${(err as Error).message.slice(0, 200)}`);
     process.exit(1);
   }
 
@@ -632,9 +659,11 @@ async function main(): Promise<void> {
       console.error(`  ${d.id} (${d.identifier}): ${d.reason}`);
     }
     console.error('\nSeeds for successful texts were written, but the corpus is INCOMPLETE.');
+    recordRun(false, 'dropped targets (anomalies enumerated above)', dropped.length);
     process.exit(1);
   }
 
+  recordRun(true, 'clean');
   console.log('\nNext step: npm run build:db');
 }
 
