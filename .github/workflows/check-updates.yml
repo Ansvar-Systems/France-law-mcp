@@ -83,7 +83,7 @@ jobs:
     steps:
       - name: Create or update issue when updates/errors are detected
         if: needs.check-updates.outputs.has_update == 'true' || needs.check-updates.outputs.error_count != '0'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         env:
           SUMMARY_JSON: ${{ needs.check-updates.outputs.summary_json }}
           HAS_UPDATE: ${{ needs.check-updates.outputs.has_update }}
@@ -149,7 +149,7 @@ jobs:
 
       - name: Close stale update issues when healthy
         if: needs.check-updates.outputs.has_update != 'true' && needs.check-updates.outputs.error_count == '0'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             const openIssues = await github.rest.issues.listForRepo({
